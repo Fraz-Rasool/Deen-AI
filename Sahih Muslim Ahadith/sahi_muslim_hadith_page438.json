@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 438,
+        "data": [
+            {
+                "id": 11214,
+                "hadithNumber": "3650",
+                "englishNarrator": "It was narrated that Abu Hurairah رضی اللہ عنہ said:",
+                "hadithEnglish": "\"The Messenger of Allah said: 'Women is like  rib. If you try to straighten her you will break her, but if you leave her alone you will benefit from her even through there is crookedness in her.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" بلاشبہ عورت پسلی کی طرح ہے ، اگر تم اسے سیدھا کرنے لگ جاؤ گے تو اسے توڑ ڈالو گے اور اگر اسے چھوڑ دو گے تو اس سے فائدہ اٹھاؤ گے جبکہ اس میں ٹیڑھا پن ( موجود ) ہو گا.",
+                "urduNarrator": "مجھ سے حرملہ بن یحییٰ نے بیان کیا، کہا ہم سے ابن وہب نے بیان کیا, یونس نے مجھے ابن شہاب سے خبر دی ، کہا : مجھے ابن مسیب نے حضرت ابوہریرہ رضی اللہ عنہ سے حدیث بیان کی ، انہوں نے کہا",
+                "hadithArabic": "وحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، حَدَّثَنِي ابْنُ الْمُسَيِّبِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ الْمَرْأَةَ كَالضِّلَعِ، إِذَا ذَهَبْتَ تُقِيمُهَا كَسَرْتَهَا، وَإِنْ تَرَكْتَهَا اسْتَمْتَعْتَ بِهَا وَفِيهَا عِوَجٌ».",
+                "headingArabic": "الْوَصِيَّةِ بِالنِّسَاءِ ‏‏",
+                "headingUrdu": "خواتین کے حوالے سے مشورہ",
+                "headingEnglish": "Advice with regard to women",
+                "chapterId": "18",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 118,
+                    "chapterNumber": "18",
+                    "chapterEnglish": "The Book of Suckling",
+                    "chapterUrdu": "رضاعت کے احکام و مسائل",
+                    "chapterArabic": "كتاب الرِّضَاعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11215,
+                "hadithNumber": "3651",
+                "englishNarrator": null,
+                "hadithEnglish": "A similar report (as no. 3650) was narrate from the nephew of Az-Zuhri, from his paternal uncle, with this chain.",
+                "hadithUrdu": "مجھ سے زہیر بن حرب اور عبد بن حمید نے بیان کیا، ان دونوں نے یعقوب بن ابراہیم بن سعد کی سند سے، زہری کے بھتیجے نے اپنے چچا ( زہری ) سے اسی سند کے ساتھ بالکل اسی کے مانند روایت کی.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، وَعَبْدُ بْنُ حُمَيْدٍ، كِلَاهُمَا عَنْ يَعْقُوبَ بْنِ إِبْرَاهِيمَ بْنِ سَعْدٍ، عَنِ ابْنِ أَخِي الزُّهْرِيِّ، عَنْ عَمِّهِ بِهَذَا الْإِسْنَادِ، مِثْلَهُ سَوَاءً.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "18",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 118,
+                    "chapterNumber": "18",
+                    "chapterEnglish": "The Book of Suckling",
+                    "chapterUrdu": "رضاعت کے احکام و مسائل",
+                    "chapterArabic": "كتاب الرِّضَاعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11216,
+                "hadithNumber": "3652",
+                "englishNarrator": "Ibn 'Umar (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "He divorced his wife while she was menstruating during the lifetime of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم). 'Umar bin Khattib (رضی اللہ عنہ) asked Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) about it, whereupon Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم) said: Command him ('Abdullah bin 'Umar) to take her back (and keep her) and pronounce divorce when she is purified and she again enters the period of menstruation and she is again purified (after passing the period of menses), and then if he so desires he may keep her and if he desires divorce her (finally) before touching her (without having an intercourse with her), for that is the period of waiting ('ldda) which God, the Exalted and Glorious, has commanded for the divorce of women.",
+                "hadithUrdu": "انہوں نے رسول اللہ صلی اللہ علیہ وسلم کے عہد میں اپنی بیوی کو جبکہ وہ حائضہ تھی ، طلاق دے دی ، حضرت عمر بن خطاب رضی اللہ عنہ نے اس کے بارے میں رسول اللہ صلی اللہ علیہ وسلم سے پوچھا تو رسول اللہ صلی اللہ علیہ وسلم نے ان سے فرمایا : \" اسے حکم دو کہ وہ اس سے رجوع کرے ، پھر اسے رہنے دے حتی کہ وہ پاک ہو جائے ( طہر شروع ہو جائے ) ، پھر اسے حیض آ جائے ، پھر وہ پاک ہو جائے ۔ پھر اگر وہ چاہے تو اس کے بعد اسے اپنے پاس رکھے اور اگر چاہے تو اس سے مجامعت کرنے سے پہلے طلاق دے دے ۔ یہی وہ عدت ہے جس کا اللہ نے حکم دیا ہے کہ اس کے مطابق عورتوں کو طلاق دی جائے.",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ التمیمی نے بیان کیا، کہا: میں نے پڑھا امام مالک بن انس نے نافع سے ، انہوں نے حضرت ابن عمر رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ، قَالَ: قَرَأْتُ عَلَى مَالِكِ بْنِ أَنَسٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّهُ طَلَّقَ امْرَأَتَهُ، وَهِيَ حَائِضٌ فِي عَهْدِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَسَأَلَ عُمَرُ بْنُ الْخَطَّابِ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنْ ذَلِكَ، فَقَالَ لَهُ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مُرْهُ فَلْيُرَاجِعْهَا، ثُمَّ لِيَتْرُكْهَا حَتَّى تَطْهُرَ، ثُمَّ تَحِيضَ، ثُمَّ تَطْهُرَ، ثُمَّ إِنْ شَاءَ أَمْسَكَ بَعْدُ، وَإِنْ شَاءَ طَلَّقَ قَبْلَ أَنْ يَمَسَّ، فَتِلْكَ الْعِدَّةُ الَّتِي أَمَرَ اللهُ عَزَّ وَجَلَّ أَنْ يُطَلَّقَ لَهَا النِّسَاءُ.",
+                "headingArabic": "تَحْرِيمِ طَلاَقِ الْحَائِضِ بِغَيْرِ رِضَاهَا وَأَنَّهُ لَوْ خَالَفَ وَقَعَ الطَّلاَقُ وَيُؤْمَرُ بِجْعَتِهَا",
+                "headingUrdu": "حائضہ عورت کو اس کی رضامندی کے بغیر طلاق دینے کی ممانعت؛ اگر کوئی مرد اس قاعدہ کو توڑتا ہے، تب بھی یہ طلاق شمار ہوتی ہے، اور اسے اسے واپس لینے کا حکم دیا جائے۔",
+                "headingEnglish": "The prohibition of divorcing a menstruating woman without her consent; If a man breaks this rule, it still counts as a divorce, and he should be ordered to take her back",
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11217,
+                "hadithNumber": "3653",
+                "englishNarrator": "Abdullah (bin 'Umar رضی اللہ عنہ) reported:",
+                "hadithEnglish": "He divorced a wife of his with the pronouncement of one divorce during the period of menstruation. Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) commanded him to take her back and keep her until she was purified, and then she entered the period of menses in his (house) for the second time. And he should wait until she was purified of her menses. And then if he would decide to divorce her, he should do so when she was purified before having a sexual intercourse with her; for that was the 'Idda which Allah had commanded for the divorce of women. Ibn Rumh in his narration made this addition: When 'Abdullah رضی اللہ عنہ was asked about it, he said to one of them: If you have divorced your wife with one pronouncement or two (then you can take her back), for Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) commanded me to do it; but if you have divorced her with three pronouncements, then she is forbidden for you until she married another husband, and you disobeyed Allah in regard to the divorce of your wife what He had commanded you. (Muslim said: The word one divorce used by Laith is good.)",
+                "hadithUrdu": "انہوں نے اپنی بیوی کو جب وہ حیض کی حالت میں تھی ایک طلاق دی ، تو رسول اللہ صلی اللہ علیہ وسلم نے انہیں حکم دیا کہ وہ اس سے رجوع کریں ، پھر اسے ( اپنے پاس ) روکیں حتی کہ وہ پاک ہو جائے ، پھر ان کے ہاں اسے دوبارہ حیض آئے ، پھر اسے مہلت دیں حتی کہ وہ ( پھر سے ) اپنے حیض سے پاک ہو جائے ۔ اس کے بعد اگر اسے طلاق دینا چاہیں تو طہر کے زمانے میں ، اس کے ساتھ مجامعت کرنے سے پہلے اسے طلاق دیں ، یہی وہ عدت ہے جس کا اللہ نے حکم دیا ہے کہ اس کے مطابق عورتوں کو طلاق دی جائے ۔ ابن رمح نے اپنی روایت میں یہ اضافہ کیا : حضرت عبداللہ رضی اللہ عنہ سے جب اس ( مسئلہ ) کے بارے میں سوال کیا جاتا تو وہ ان میں سے کسی سے کہتے : اگر تم نے اپنی بیوی کو ایک یا دو مرتبہ طلاق دی ہے ( تو رجوع کرو ) کیونکہ رسول اللہ صلی اللہ علیہ وسلم نے مجھے اس کا حکم دیا تھا ۔ اور اگر تم اسے تین طلاقیں دے چکے ہو تو وہ تم پر حرام ہو گئی ہے یہاں تک کہ وہ تمہارے سواکسی اور شوہر سے نکاح کرے ۔ تم نے اس حکم میں ، جو اس نے تمہاری بیوی کی طلاق کے بارے میں تمہیں دیا ہے ، اللہ کی نافرمانی کی ہے ۔ امام مسلم رحمۃ اللہ علیہ نے کہا : لیث نے اپنے ( روایت کردہ ) قول \"\" ایک طلاق \"\" ( کو محفوظ رکھنے اور بیان کرنے کے معاملے ) میں بہت اچھا کام کیا ہے.",
+                "urduNarrator": "یحییٰ بن یحییٰ ، قتیبہ بن سعید اور ابن رمح نے ہمیں حدیث بیان کی ۔ ۔ الفاظ یحییٰ کے ہیں ۔ ۔ قتیبہ نے کہا : ہمیں لیث نے حدیث سنائی اور دوسرے دونوں نے کہا : ہمیں لیث بن سعد نے نافع سے خبر دی ، انہوں نے کہا : حضرت عبداللہ ( بن عمر رضی اللہ عنہ ) سے روایت ہے کہ",
+                "hadithArabic": ") حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَقُتَيْبَةُ، وَابْنُ رُمْح، وَاللَّفْظُ لِيَحْيَى، قَالَ قُتَيْبَةُ: حَدَّثَنَا لَيْثٌ، وَقَالَ الْآخَرَانِ: أَخْبَرَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللهِ، أَنَّهُ «طَلَّقَ امْرَأَةً لَهُ وَهِيَ حَائِضٌ تَطْلِيقَةً وَاحِدَةً، فَأَمَرَهُ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَنْ يُرَاجِعَهَا، ثُمَّ يُمْسِكَهَا حَتَّى تَطْهُرَ، ثُمَّ تَحِيضَ عِنْدَهُ حَيْضَةً أُخْرَى، ثُمَّ يُمْهِلَهَا حَتَّى تَطْهُرَ مِنْ حَيْضَتِهَا، فَإِنْ أَرَادَ أَنْ يُطَلِّقَهَا فَلْيُطَلِّقْهَا حِينَ تَطْهُرُ مِنْ قَبْلِ أَنْ يُجَامِعَهَا، فَتِلْكَ الْعِدَّةُ الَّتِي أَمَرَ اللهُ أَنْ يُطَلَّقَ لَهَا النِّسَاءُ»، وَزَادَ ابْنُ رُمْح فِي رِوَايَتِهِ: وَكَانَ عَبْدُ اللهِ إِذَا سُئِلَ عَنْ ذَلِكَ، قَالَ لِأَحَدِهِمْ: أَمَّا أَنْتَ طَلَّقْتَ امْرَأَتَكَ مَرَّةً أَوْ مَرَّتَيْنِ، فَإِنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَمَرَنِي بِهَذَا، وَإِنْ كُنْتَ طَلَّقْتَهَا ثَلَاثًا، فَقَدْ حَرُمَتْ عَلَيْكَ، حَتَّى تَنْكِحَ زَوْجًا غَيْرَكَ، وَعَصَيْتَ اللهَ فِيمَا أَمَرَكَ مِنْ طَلَاقِ امْرَأَتِكَ، قَالَ مُسْلِمٌ: «جَوَّدَ اللَّيْثُ فِي قَوْلِهِ تَطْلِيقَةً وَاحِدَةً».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11218,
+                "hadithNumber": "3654",
+                "englishNarrator": "Ibn Umar (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "I divorced my wife during the lifetime of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) when she was in the state of menses. 'Umar (رضی اللہ عنہ ) made a mention of it to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌), whereupon he said: Command him to take her back and leave her (in that state) until she is purified. Then (let her) enter the period of second menses, and when she is purified, then divorce her (finally) before having a sexual intercourse with her, or retain her (finally). That is the 'Idda (the prescribed period) which Allah commanded (to be kept in view) while divorcing the women. 'Ubaidullah reported: I said to Nafi': What became of that divorce (pronounced within 'Idda)? He said: It was as one which she counted.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم کے عہد مبارک میں اپنی بیوی کو جب وہ حیض کی حالت میں تھی ، طلاق دے دی ۔ حضرت عمر رضی اللہ عنہ نے یہ بات رسول اللہ صلی اللہ علیہ وسلم کو بتائی تو آپ نے فرمایا : \"\" اسے حکم دو کہ اس سے رجوع کرے پھر اسے ( اپنے پاس رکھ ) چھوڑے حتی کہ وہ پاک ہو جائے ، پھر اسے دوسرا حیض آئے ، اس کے بعد جب وہ پاک ہو جائے تو مباشرت کرنے سے پہلے اسے طلاق دے یا اسے اپنے پاس رکھے ۔ بلاشبہ یہی وہ عدت ہے جس کا اللہ تعالیٰ نے حکم دیا ہے کہ اس کے مطابق عورتوں کو طلاق دی جائے ۔ \"\" عبیداللہ نے کہا : میں نے نافع سے پوچھا : طلاق کا کیا کیا گیا؟ انہوں نے جواب دیا : وہ ایک تھی ، اس کو شمار کیا گیا.",
+                "urduNarrator": "عبداللہ بن نمیر نے ہمیں حدیث بیان کی ، ( کہا : ) ہمیں عبیداللہ نے نافع سے حدیث بیان کی ، انہوں نے حضرت ابن عمر رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللهِ بْنِ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا عُبَيْدُ اللهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ: طَلَّقْتُ امْرَأَتِي عَلَى عَهْدِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَهِيَ حَائِضٌ، فَذَكَرَ ذَلِكَ عُمَرُ لِرَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ: «مُرْهُ فَلْيُرَاجِعْهَا، ثُمَّ لِيَدَعْهَا حَتَّى تَطْهُرَ، ثُمَّ تَحِيضَ حَيْضَةً أُخْرَى، فَإِذَا طَهُرَتْ فَلْيُطَلِّقْهَا قَبْلَ أَنْ يُجَامِعَهَا، أَوْ يُمْسِكْهَا، فَإِنَّهَا الْعِدَّةُ الَّتِي أَمَرَ اللهُ أَنْ يُطَلَّقَ لَهَا النِّسَاءُ». قَالَ عُبَيْدُ اللهِ: قُلْتُ لِنَافِعٍ: مَا صَنَعَتِ التَّطْلِيقَةُ؟ قَالَ: «وَاحِدَةٌ اعْتَدَّ بِهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11219,
+                "hadithNumber": "3655",
+                "englishNarrator": null,
+                "hadithEnglish": "A hadith like this has been narrated on the authority of 'Ubaidullah, but he made no mention of the words of Ubaidullah that he said to Nafi'.",
+                "hadithUrdu": "ابوبکر بن ابی شیبہ اور ابن مثنیٰ نے بھی ہمیں یہی حدیث سنائی ، ان دونوں نے کہا : ہمیں عبداللہ بن ادریس نے عبیداللہ سے اسی سند کے ساتھ اسی کے ہم معنی حدیث بیان کی ، تاہم انہوں نے نافع سے عبیداللہ کے سوال کا تذکرہ نہیں کیا ۔ ابن مثنیٰ نے اپنی روایت میں فليرجعها ( اسے لوٹا لے ) کہا ۔ اور ابوبکر نے : فليراجعها ( اس سے رجوع کرے ) کہا.",
+                "urduNarrator": null,
+                "hadithArabic": "وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَابْنُ الْمُثَنَّى، قَالاَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ، عَنْ عُبَيْدِ اللَّهِ، بِهَذَا الإِسْنَادِ ‏.‏ نَحْوَهُ وَلَمْ يَذْكُرْ قَوْلَ عُبَيْدِ اللَّهِ لِنَافِعٍ ‏.‏ قَالَ ابْنُ الْمُثَنَّى فِي رِوَايَتِهِ فَلْيَرْجِعْهَا ‏.‏ وَقَالَ أَبُو بَكْرٍ فَلْيُرَاجِعْهَا ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11220,
+                "hadithNumber": "3656",
+                "englishNarrator": "It was narrated from Nafi:",
+                "hadithEnglish": "Ibn 'Umar (رضی اللہ عنہ) divorced his wife during the period of menses. 'Umar (رضی اللہ عنہ) asked Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌), and he commanded him ('Abdullah bin 'Umar رضی اللہ عنہ) to have her back and then allow her respite until she enters the period of the second menses, and then allow her respite until she is purified, then divorce her (finally) before touching her (having a sexual intercourse with her), for that is the prescribed period which Allah commanded (to be kept in view) for divorcing the women. When Ibn 'Umar (رضی اللہ عنہ) was asked about the person who divorces his wife in the state of menses, he said: If you pronounced one divorce or two, Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) had commanded him to take her back, and then allow her respite until she enters the period of the second menses, and then allow her respite until she is purified, and then divorce her (finally) before touching her (having a sexual intercourse with her); and if you have pronounced (three divorces at one and the same time) you have in fact disobeyed your Lord with regard to what He commanded you about divorcing your wife. But she is however (finally separated from you).",
+                "hadithUrdu": "حضرت ابن عمر رضی اللہ عنہ نے اپنی بیوی کو حیض کی حالت میں طلاق دے دی ۔ حضرت عمر رضی اللہ عنہ نے ( اس کے بارے میں ) نبی صلی اللہ علیہ وسلم سے سوال کیا ، تو آپ نے انہیں حکم دیا کہ وہ ( ابن عمر رضی اللہ عنہ ) اس عورت سے رجوع کرے ، پھر اسے مہلت دے حتی کہ اسے دوسرا حیض آئے ، پھر اسے مہلت دے حتی کہ وہ پاک ہو جائے ، پھر اسے چھونے ( مجامعت کرنے ) سے پہلے طلاق دے ، یہی وہ عدت ہے جس کا اللہ تعالیٰ نے حکم دیا ہے کہ اس کے مطابق عورتوں کو طلاق دی جائے ۔ ( نافع نے ) کہا : حضرت ابن عمر رضی اللہ عنہ سے جب اس آدمی کے بارے میں پوچھا جاتا جو اپنی بیوی کو حالت حیض میں طلاق دے دیتا ہے تو وہ کہتے : اگر تم نے ایک یا دو طلاقیں دی ہیں ( تو رجوع کر سکتے ہو کیو کہ ) رسول اللہ صلی اللہ علیہ وسلم نے انہیں حکم دیا تھا کہ اس سے رجوع کریں ، پھر اسے مہلت دیں حتی کہ اسے دوسرا حیض آئے ، ( فرمایا : ) پھر اسے مہلت دیں حتی کہ وہ پاک ہو جائے ، پھر اس سے مجامعت کرنے سے پہلے اسے طلاق دیں ۔ اور اگر تم نے تین طلاقیں دی ہیں تو تم نے اپنے رب کے حکم میں جو اس نے تمہاری بیوی کی طلاق کے حوالے سے تمہیں دیا ہے ، اس کی نافرمانی کی ہے اور ( اب ) وہ تم سے ( مستقل طور پر ) جدا ہو گئی ہے.",
+                "urduNarrator": "مجھ سے زہیر بن حرب نے بیان کیا، ہم سے اسماعیل نے بیان کیا،ایوب نے نافع سے روایت کی کہ",
+                "hadithArabic": "وحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا إِسْمَاعِيلُ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، أَنَّ ابْنَ عُمَرَ، طَلَّقَ امْرَأَتَهُ وَهِيَ حَائِضٌ، فَسَأَلَ عُمَرُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، «فَأَمَرَهُ أَنْ يَرْجِعَهَا، ثُمَّ يُمْهِلَهَا حَتَّى تَحِيضَ حَيْضَةً أُخْرَى، ثُمَّ يُمْهِلَهَا حَتَّى تَطْهُرَ، ثُمَّ يُطَلِّقَهَا قَبْلَ أَنْ يَمَسَّهَا، فَتِلْكَ الْعِدَّةُ الَّتِي أَمَرَ اللهُ أَنْ يُطَلَّقَ لَهَا النِّسَاءُ». قَالَ: فَكَانَ ابْنُ عُمَرَ إِذَا سُئِلَ عَنِ الرَّجُلِ يُطَلِّقُ امْرَأَتَهُ وَهِيَ حَائِضٌ، يَقُولُ: أَمَّا أَنْتَ طَلَّقْتَهَا وَاحِدَةً أَوِ اثْنَتَيْنِ، إِنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَمَرَهُ أَنْ يَرْجِعَهَا، ثُمَّ يُمْهِلَهَا حَتَّى تَحِيضَ حَيْضَةً أُخْرَى، ثُمَّ يُمْهِلَهَا حَتَّى تَطْهُرَ، ثُمَّ يُطَلِّقَهَا قَبْلَ أَنْ يَمَسَّهَا، وَأَمَّا أَنْتَ طَلَّقْتَهَا ثَلَاثًا، فَقَدْ عَصَيْتَ رَبَّكَ فِيمَا أَمَرَكَ بِهِ مِنْ طَلَاقِ امْرَأَتِكَ، وَبَانَتْ مِنْكَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11221,
+                "hadithNumber": "3657",
+                "englishNarrator": "Abdullah bin 'Umar (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "I divorced my wife while she was in the state of menses. 'Umar (رضی اللہ عنہ) made mention of it to Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and he was enraged and he said: Command him to take her back until she enters the second ensuing menses other than the one in which he divorced her and in case he deems proper to divorce her, he should pronounce divorce (finally) before touching her (in the period) when she is purified of her menses, and that is the prescribed period in regard to divorce as Allah has commanded. 'Abdullah رضی اللہ عنہ made a pronouncement of one divorce and it was counted in case of divorce. 'Abdullah رضی اللہ عنہ took her back as Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) had commanded him.",
+                "hadithUrdu": "میں نے اپنی بیوی کو اس حالت میں طلاق دی کہ وہ حائضہ تھی ، حضرت عمر رضی اللہ عنہ نے یہ بات نبی صلی اللہ علیہ وسلم کو بتائی تو رسول اللہ صلی اللہ علیہ وسلم سخت غصے میں آئے ، پھر فرمایا : \" اسے حکم دو کہ اس سے رجوع کرے تا آنکہ اسے اس حیض کے سوا جس میں اس نے اسے طلاق دی ہے دوسرا حیض شروع ہو جائے ۔ اس کے بعد اگر وہ اسے طلاق دینا چاہے تو اسے ( دوسرے حیض کے بعد ) پاک ہونے کی حالت میں ، مباشرت کرنے سے پہلے طلاق دے ، یہی عدت کے مطابق طلاق ہے جس طرح اللہ نے حکم دیا ہے ۔ \" اور حضرت عبداللہ ( بن عمر رضی اللہ عنہ ) نے اسے ایک طلاق دی تھی اور اس کی وہ طلاق شمار کی گئی اور عبداللہ رضی اللہ عنہ نے ، جس طرح رسول اللہ صلی اللہ علیہ وسلم نے انہیں حکم دیا تھا ، اس سے رجوع کی.",
+                "urduNarrator": "مجھ سے عبد بن حمید نے بیان کیا، مجھ سے یعقوب بن ابراہیم نے بیان کیا، ہم سے محمد نے بیان کیا اور وہ میرے بھائی کا بیٹا ہے, امام زہری کے بھتیجے محمد نے ہمیں اپنے چچا زہری سے حدیث بیان کی ، ( کہا : ) ہمیں سالم بن عبداللہ نے خبر دی کہ حضرت عبداللہ بن عمر رضی اللہ عنہ نے کہا",
+                "hadithArabic": "حَدَّثَنِي عَبْدُ بْنُ حُمَيْدٍ، أَخْبَرَنِي يَعْقُوبُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا مُحَمَّدٌ، وَهُوَ ابْنُ أَخِي الزُّهْرِيِّ، عَنْ عَمِّهِ، أَخْبَرَنَا سَالِمُ بْنُ عَبْدِ اللهِ، أَنَّ عَبْدَ اللهِ بْنَ عُمَرَ، قَالَ: طَلَّقْتُ امْرَأَتِي وَهِيَ حَائِضٌ، فَذَكَرَ ذَلِكَ عُمَرُ لِلنَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَتَغَيَّظَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، ثُمَّ قَالَ: «مُرْهُ فَلْيُرَاجِعْهَا حَتَّى تَحِيضَ حَيْضَةً أُخْرَى مُسْتَقْبَلَةً سِوَى حَيْضَتِهَا الَّتِي طَلَّقَهَا فِيهَا، فَإِنْ بَدَا لَهُ أَنْ يُطَلِّقَهَا، فَلْيُطَلِّقْهَا طَاهِرًا مِنْ حَيْضَتِهَا قَبْلَ أَنْ يَمَسَّهَا، فَذَلِكَ الطَّلَاقُ لِلْعِدَّةِ كَمَا أَمَرَ اللهُ»، وَكَانَ عَبْدُ اللهِ طَلَّقَهَا تَطْلِيقَةً وَاحِدَةً، فَحُسِبَتْ مِنْ طَلَاقِهَا، وَرَاجَعَهَا عَبْدُ اللهِ كَمَا أَمَرَهُ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11222,
+                "hadithNumber": "3658",
+                "englishNarrator": "It was narrated from Az-Zuhri except that he said: Ibn Umar (رضی اللہ عنہ) said:",
+                "hadithEnglish": "I took her back, and counted this pronouncement of divorce (as valid) with which I divorced her.",
+                "hadithUrdu": "میں نے اس سے رجوع کر لیا اور اس کی وہ طلاق شمار کر لی گئی جو میں نے اسے دی تھی.",
+                "urduNarrator": "ہم سے اسحاق بن منصور نے بیان کیا، کہا ہم سے یزید بن عبدالرب نے بیان کیا، کہا ہم سے محمد بن حرب نے بیان کیا, زبیدی نے زہری سے اسی سند کے ساتھ یہ حدیث بیان کی ، لیکن انہوں نے کہا : حضرت ابن عمر رضی اللہ عنہ نے فرمایا",
+                "hadithArabic": "وحَدَّثَنِيهِ إِسْحَاقُ بْنُ مَنْصُورٍ، أَخْبَرَنَا يَزِيدُ بْنُ عَبْدِ رَبِّهِ، حَدَّثَنَا مُحَمَّدُ بْنُ حَرْبٍ، حَدَّثَنِي الزُّبَيْدِيُّ، عَنِ الزُّهْرِيِّ، بِهَذَا الْإِسْنَادِ، غَيْرَ أَنَّهُ قَالَ: قَالَ ابْنُ عُمَرَ: فَرَاجَعْتُهَا، وَحَسَبْتُ لَهَا التَّطْلِيقَةَ الَّتِي طَلَّقْتُهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11223,
+                "hadithNumber": "3659",
+                "englishNarrator": "Ibn 'Umar (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "He divorced his wife while she was in the state of menses. 'Umar (رضی اللہ عنہ) made mention of it to Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and he said: Command him to take her back, then divorce her when she is pure or she is pregnant.",
+                "hadithUrdu": "انہوں نے اپنی بیوی کو جبکہ وہ حائضہ تھی ، طلاق دے دی ۔ حضرت عمر رضی اللہ عنہ نے یہ بات نبی صلی اللہ علیہ وسلم سے عرض کی تو آپ نے فرمایا : \" اسے حکم دو کہ وہ اس ( مطلقہ بیوی ) سے رجوع کرے ، پھر اسے حالت طہر میں یا حالت حمل میں طلاق دے ۔ \" ( حمل میں طلاق دی جائے گی تو وضع حمل تک آسانی سے عدت کا شمار ہو سکے گا.",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ، زہیر بن حرب اور ابن نمیر نے بیان کیا، اور یہ قول ابوبکر کا ہے، انہوں نے کہا: ہم سے وکیع نے بیان کیا، سفیان سے,ابوطلحہ کے آزاد کردہ غلام محمد بن عبدالرحمٰن نے سالم سے ، انہوں نے حضرت ابن عمر رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَزُهَيْرُ بْنُ حَرْبٍ، وَابْنُ نُمَيْرٍ، وَاللَّفْظُ لِأَبِي بَكْرٍ، قَالُوا: حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ، مَوْلَى آلِ طَلْحَةَ، عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، أَنَّهُ طَلَّقَ امْرَأَتَهُ وَهِيَ حَائِضٌ، فَذَكَرَ ذَلِكَ عُمَرُ لِلنَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ: «مُرْهُ فَلْيُرَاجِعْهَا، ثُمَّ لِيُطَلِّقْهَا طَاهِرًا، أَوْ حَامِلًا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11224,
+                "hadithNumber": "3660",
+                "englishNarrator": "Ibn 'Umar (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "He divorced his wife while she was in her menses. 'Umar (رضی اللہ عنہ) asked Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) about that, and he said: Command him to take her back until she is pure and then she enters the second menses and then becomes pure. Then either divorce her (finally) or retain her.",
+                "hadithUrdu": "انہوں نے اپنی بیوی کو جبکہ وہ حائضہ تھی طلاق دی ، حضرت عمر رضی اللہ عنہ نے رسول اللہ صلی اللہ علیہ وسلم سے اس کے بارے میں پوچھا تو آپ نے فرمایا : \" اسے حکم دو کہ اس سے رجوع کرے یہاں تک کہ وہ ( حیض سے ) پاک ہو جائے ، پھر اسے دوبارہ حیض آ جائے ، پھر پاک ہو جائے ، پھر اس کے بعد اسے طلاق دے یا ( اپنے پاس ) روک لے.",
+                "urduNarrator": "مجھ سے احمد بن عثمان بن حکیم العودی نے بیان کیا، مجھ سے خالد بن مخلد نے بیان کیا، مجھ سے سلیمان نے جو ابن بلال ہیں، بیان کیا,عبداللہ بن دینار نے ابن عمر رضی اللہ عنہ سے حدیث بیان کی کہ",
+                "hadithArabic": "وحَدَّثَنِي أَحْمَدُ بْنُ عُثْمَانَ بْنِ حَكِيمٍ الْأَوْدِيُّ، حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ، حَدَّثَنِي سُلَيْمَانُ وَهُوَ ابْنُ بِلَالٍ، حَدَّثَنِي عَبْدُ اللهِ بْنُ دِينَارٍ، عَنِ ابْنِ عُمَرَ، أَنَّهُ طَلَّقَ امْرَأَتَهُ وَهِيَ حَائِضٌ، فَسَأَلَ عُمَرُ عَنْ ذَلِكَ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ «مُرْهُ فَلْيُرَاجِعْهَا حَتَّى تَطْهُرَ، ثُمَّ تَحِيضَ حَيْضَةً أُخْرَى، ثُمَّ تَطْهُرَ، ثُمَّ يُطَلِّقُ بَعْدُ، أَوْ يُمْسِكُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11225,
+                "hadithNumber": "3661",
+                "englishNarrator": "Ibn Sirin reported:",
+                "hadithEnglish": "One who was blameless (as a narrator) narrated to me for twenty years that Ibn 'Umar  ( رضی اللہ عنہ) pronounced three divorces to his wife while she was in the state of menses. He was commanded to take her back. I neither blamed them (the narrators) nor recognised the hadith (to be perfectly genuine) until I met Abu Ghallab Yunus bin Jubair al-Bahili and he was very authentic, and he narrated to me that he had asked Ibn 'Umar ( رضی اللہ عنہ) and he narrated it to him that he made one pronouncement of divorce to his wife as she was in the state of menses, but he was commanded to take her back. I said: Was it counted (as one pronouncement)? He said: Why not, was I helpless or foolish?",
+                "hadithUrdu": "میں نے بیس سال توقف کیا ، مجھے ایسے لوگ جنہیں میں مہتم نہیں سمجھتا تھا حدیث بیان کرتے رہے کہ حضرت ابن عمر رضی اللہ عنہ نے اپنی بیوی کو جبکہ وہ حائضہ تھی تین طلاقیں دیں تو انہیں اس سے رجوع کرنے کا حکم دیا گیا ۔ میں نے یہ کیا کہ میں انہیں مہتم نہیں کرتا تھا لیکن حدیث ( کی حقیقت ) کو بھی نہیں جانتا تھا ، یہاں تک کہ میری ملاقات ابوغلاب یونس بن جبیر باہلی سے ہوئی ۔ وہ بہت ضبط والے تھے ۔ ( حدیث کو بہت اچھی طرح یاد رکھنے والے تھے ) انہوں نے مجھے حدیث بیان کی کہ انہوں نے خود ابن عمر رضی اللہ عنہ سے پوچھا تھا ، انہوں نے ان کو حدیث بیان کی کہ انہوں نے اپنی بیوی کو حیض کی حالت میں ایک طلاق دی تھی تو انہیں کم دیا گیا کہ وہ اس سے رجوع کریں ۔ کہا : میں نے عرض کی : کیا اسے طلاق شمار کیا گیا؟ انہوں نے جواب دیا : کیوں نہیں! اگر کوئی ( آدمی ) خود ہی ( صحیح طریقے پر طلاق دینے سے ) عاجز آ گیا ہو اور ( حالت حیض میں طلاق دے کر ) حماقت سے کام لیا ہو ( تو کیا طلاق نہ ہو گی.",
+                "urduNarrator": "مجھ سے علی بن حجر السعدی نے بیان کیا، انہوں نے ہم سے بیان کیا اسماعیل بن ابراہیم نے ہمیں ایوب سے حدیث بیان کی ، انہوں نے ابن سیرین سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "وحَدَّثَنِي عَلِيُّ بْنُ حُجْرٍ السَّعْدِيُّ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، عَنْ أَيُّوبَ، عَنِ ابْنِ سِيرِينَ، قَالَ: مَكَثْتُ عِشْرِينَ سَنَةً يُحَدِّثُنِي مَنْ لَا أَتَّهِمُ أَنَّ ابْنَ عُمَرَ طَلَّقَ امْرَأَتَهُ ثَلَاثًا وَهِيَ حَائِضٌ، فَأُمِرَ أَنْ يُرَاجِعَهَا، فَجَعَلْتُ لَا أَتَّهِمُهُمْ، وَلَا أَعْرِفُ الْحَدِيثَ، حَتَّى لَقِيتُ أَبَا غَلَّابٍ يُونُسَ بْنَ جُبَيْرٍ الْبَاهِلِيَّ، وَكَانَ ذَا ثَبَتٍ، فَحَدَّثَنِي أَنَّهُ سَأَلَ ابْنَ عُمَرَ، فَحَدَّثَهُ «أَنَّهُ طَلَّقَ امْرَأَتَهُ تَطْلِيقَةً وَهِيَ حَائِضٌ، فَأُمِرَ أَنْ يَرْجِعَهَا»، قَالَ: قُلْتُ: أَفَحُسِبَتْ عَلَيْهِ؟ قَالَ: «فَمَهْ، أَوَ إِنْ عَجَزَ، وَاسْتَحْمَقَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11226,
+                "hadithNumber": "3662",
+                "englishNarrator": null,
+                "hadithEnglish": "A similar report (as no. 3661) from Ayyub with this chain, except that he said: \" 'Umar رضی اللہ عنہ asked the prophet ﷺ and he told him...\"",
+                "hadithUrdu": "حماد نے ایوب سے اسی سند کے ساتھ اسی کے ہم معنی حدیث بیان کی ، البتہ انہوں نے کہا : حضرت عمر رضی اللہ عنہ نے نبی صلی اللہ علیہ وسلم سے دریافت کیا تو آپ نے انہیں حکم دیا ( کہ ابن عمر رضی اللہ عنہ یہ کریں).",
+                "urduNarrator": null,
+                "hadithArabic": ") وَحَدَّثَنَاهُ أَبُو الرَّبِيعِ، وَقُتَيْبَةُ، قَالَا: حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، بِهَذَا الْإِسْنَادِ نَحْوَهُ، غَيْرَ أَنَّهُ قَالَ: فَسَأَلَ عُمَرُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَأَمَرَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11227,
+                "hadithNumber": "3663",
+                "englishNarrator": "Ayyub reported a hadith like this with the same chain of narrators and he said:",
+                "hadithEnglish": "Umar (رضی اللہ عنہ) asked Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) about it and he commanded him that he should take her back until she is divorced in the state of purity without having a sexual intercourse with her, and said: Divorce her in the beginning of her 'Idda or her 'Idda commences.",
+                "hadithUrdu": "حضرت عمر رضی اللہ عنہ نے نبی صلی اللہ علیہ وسلم سے اس کے بارے میں سوال کیا تو آپ نے انہیں حکم دیا کہ وہ ( ابن عمر رضی اللہ عنہ ) اس سے رجوع کرے حتی کہ اسے حالت طہر میں مجامعت کیے بغیر طلاق دے ، اور کہا : \" وہ اسے عدت کے آغاز میں طلاق دے ۔ \" ( یعنی اس طہر کے آغاز میں جس سے عدت شمار ہونی ہے).",
+                "urduNarrator": "عبدالوارث بن عبدالصمد کے دادا عبدالوارث بن سعید نے ایوب سے اسی سند کے ساتھ ( یہی ) روایت بیان کی اور ( اپنی ) حدیث میں کہا",
+                "hadithArabic": "وحَدَّثَنَا عَبْدُ الْوَارِثِ بْنُ عَبْدِ الصَّمَدِ، حَدَّثَنِي أَبِي، عَنْ جَدِّي، عَنْ أَيُّوبَ، بِهَذَا الْإِسْنَادِ وَقَالَ فِي الْحَدِيثِ: فَسَأَلَ عُمَرُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنْ ذَلِكَ، فَأَمَرَهُ أَنْ يُرَاجِعَهَا حَتَّى يُطَلِّقَهَا طَاهِرًا مِنْ غَيْرِ جِمَاعٍ، وَقَالَ: «يُطَلِّقُهَا فِي قُبُلِ عِدَّتِهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11228,
+                "hadithNumber": "3664",
+                "englishNarrator": "Yunus bin Jubair reported:",
+                "hadithEnglish": "I said to Ibn 'Umar ( رضی اللہ عنہ): A person divorced his wife while she was in the state of menses, whereupon he said: Do you know 'Abdullah bin Umar ( رضی اللہ عنہ), for he divorced his wife in the state of menses. 'Umar ( رضی اللہ عنہ) came to Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and asked him, and he (the Holy Prophet ﷺ) commanded him that he should take her back, and she started her 'Idda. I said to him: When a person divorces his wife, and she is in the state of menses, should that pronouncement of divorce be counted? He said: Why not, was he hopless or foolish?",
+                "hadithUrdu": "میں نے ابن عمر رضی اللہ عنہ سے عرض کی ایک آدمی نے اپنی بیوی کو حالت حیض میں طلاق دی ہے؟ تو انہوں نے کہا : کیا تم عبداللہ بن عمر رضی اللہ عنہ کو جانتے ہو؟ اس نے اپنی بیوی کو حیض کی حالت میں طلاق دی تھی ، حضرت عمر رضی اللہ عنہ نبی صلی اللہ علیہ وسلم کے پاس آئے اور آپ سے دریافت کیا تو آپ نے اسے ( ابن عمر کو ) حکم دیا کہ وہ اس سے رجوع کرے ، پھر وہ ( عورت اگر اسے دوسرے طہر میں مجامعت کیے بغیر طلاق دی جائے تو وہاں سے ) آگے عدت شمار کرے ۔ کہا : میں نے ان ( ابن عمر رضی اللہ عنہ ) سے پوچھا : اگر کوئی آدمی اپنی بیوی کو حالت حیض میں طلاق دے تو کیا اس طلاق کو شمار کیا جائے گا؟ کہا : انہوں نے کہا : تو ( اور ) کیا؟ اگر وہ خود ہی ( صحیح طریقہ اختیار کرنے سے ) عاجز رہا اور اس نے حماقت سے کام لیا ( تو کیا طلاق شمار نہ ہو گی).",
+                "urduNarrator": "مجھ سے یعقوب بن ابراہیم الدورقی نے ابن علیہ کی روایت سے بیان کیا, یونس نے محمد بن سیرین سے ، انہوں نے یونس بن جبیر سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "وحَدَّثَنِي يَعْقُوبُ بْنُ إِبْرَاهِيمَ الدَّوْرَقِيُّ، عَنِ ابْنِ عُلَيَّةَ، عَنْ يُونُسَ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ يُونُسَ بْنِ جُبَيْرٍ، قَالَ: قُلْتُ لِابْنِ عُمَرَ: رَجُلٌ طَلَّقَ امْرَأَتَهُ وَهِيَ حَائِضٌ، فَقَالَ: أَتَعْرِفُ عَبْدَ اللهِ بْنَ عُمَرَ، فَإِنَّهُ طَلَّقَ امْرَأَتَهُ وَهِيَ حَائِضٌ، فَأَتَى عُمَرُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَسَأَلَهُ: «فَأَمَرَهُ أَنْ يَرْجِعَهَا، ثُمَّ تَسْتَقْبِلَ عِدَّتَهَا». قَالَ: فَقُلْتُ لَهُ: إِذَا طَلَّقَ الرَّجُلُ امْرَأَتَهُ وَهِيَ حَائِضٌ، أَتَعْتَدُّ بِتِلْكَ التَّطْلِيقَةِ؟ فَقَالَ: «فَمَهْ، أَوَ إِنْ عَجَزَ وَاسْتَحْمَقَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11229,
+                "hadithNumber": "3665",
+                "englishNarrator": "Ibn 'Umar (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "I divorced my wife while she was in the state of menses. 'Umar (رضی اللہ عنہ) came to Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and made mention of that to him, whereupon Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) told that be should take her back, and when she is pure he may divorce her. if he would so wish. I (one of the narrators) said to Ibn 'Umar (رضی اللہ عنہ): Did you count (this pronouncement of divorce) in her case? He said: What (after all) prevents him from doing so? Do you find him (Ibn Umar رضی اللہ عنہ) either helpless or foolish?",
+                "hadithUrdu": "میں نے اپنی بیوی کو حالت حیض میں طلاق دی ، اس پر حضرت عمر رضی اللہ عنہ نبی صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے اور آپ کو یہ بات بتائی تو نبی صلی اللہ علیہ وسلم نے فرمایا : وہ اس سے رجوع کرے ، اس کے بعد جب وہ پاک ہو جائے تو اگر وہ چاہے اسے طلاق دے دے ۔ ( یونس نے ) کہا : میں نے ابن عمر رضی اللہ عنہ سے پوچھا : کیا آپ اس طلاق کو شمار کریں گے؟ انہوں نے کہا : اس سے کیا چیز مانع ہے تمہاری کیا رائے ہے اگر وہ خود ( صحیح طریقہ اختیار کرنے سے ) عاجز رہا اور نادانی والا کام کیا ( تو طلاق کیوں شمار نہ ہو گی.",
+                "urduNarrator": "ہم سے محمد بن مثنیٰ اور ابن بشار نے بیان کیا، انہوں نے کہا: ہم سے محمد بن جعفر نے بیان کیا, قتادہ سے روایت ہے انہوں نے کہا : میں نے یونس بن جبیر سے سنا انہوں نے کہا میں نے ابن عمر رضی اللہ عنہ کو یہ کہتے ہوئے سنا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ بَشَّارٍ، قَالَ ابْنُ الْمُثَنَّى: حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، قَالَ: سَمِعْتُ يُونُسَ بْنَ جُبَيْرٍ، قَالَ: سَمِعْتُ ابْنَ عُمَرَ، يَقُولُ: طَلَّقْتُ امْرَأَتِي وَهِيَ حَائِضٌ، فَأَتَى عُمَرُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَذَكَرَ ذَلِكَ لَهُ، فَقَالَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لِيُرَاجِعْهَا، فَإِذَا طَهُرَتْ فَإِنْ شَاءَ فَلْيُطَلِّقْهَا»، قَالَ: فَقُلْتُ لِابْنِ عُمَرَ: أَفَاحْتَسَبْتَ بِهَا؟ قَالَ: «مَا يَمْنَعُهُ، أَرَأَيْتَ إِنْ عَجَزَ، وَاسْتَحْمَقَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11230,
+                "hadithNumber": "3666",
+                "englishNarrator": "Anas bin Sirin reported:",
+                "hadithEnglish": "I asked Ibn 'Umar (رضی اللہ عنہ) about the woman whom he had divorced. He said: I divorced her while she was in the state of menses. It was mentioned to 'Umar (رضی اللہ عنہ) and he then made a mention of that to Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), whereupon he said: Command him to take her back and when the period of menses is over, then (he may divorce her in the state of her purity. He (Ibn Umar رضی اللہ عنہ) said: So I took her back, then divorced her in her purity. I (the narrator) said: Did you count that divorce which you pronounced in the state of menses? He said: Why should I not have counted that? Was I helpless or foolish?",
+                "hadithUrdu": "میں نے حضرت ابن عمر رضی اللہ عنہ سے ان کی اس بیوی کے بارے میں سوال کیا جسے انہوں نے طلاق دی تھی ۔ انہوں نے کہا : میں نے اسے حالت حیض میں طلاق دی تھی ۔ میں نے یہ بات حضرت عمر رضی اللہ عنہ کو بتائی تو انہوں نے یہی بات نبی صلی اللہ علیہ وسلم کو بتائی ۔ اس پر آپ نے فرمایا : \" اسے حکم دو کہ وہ اس سے رجوع کرے اور جب وہ پاک ہو جائے تو اسے اس کے طہر میں طلاق دے ۔ \" کہا : میں نے اس ( بیوی ) سے رجوع کیا ، پھر اس کے طہر میں اسے طلاق دی ۔ میں نے پوچھا : آپ نے وہ طلاق شمار کی جو اسے حالت حیض میں دی تھی؟ انہوں نے جواب دیا : میں اسے کیوں شمار نہ کرتا؟ اگر میں خود ہی ( صحیح طریقہ اپنانے سے ) عاجز رہا تھا اور حماقت سے کام لیا تھا ( تو کیا طلاق شمار نہ ہو گی).",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، کہا ہم سے خالد بن عبداللہ نے بیان کیا, عبدالملک نے انس بن سیرین سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا خَالِدُ بْنُ عَبْدِ اللهِ، عَنْ عَبْدِ الْمَلِكِ، عَنْ أَنَسِ بْنِ سِيرِينَ، قَالَ: سَأَلْتُ ابْنَ عُمَرَ عَنِ امْرَأَتِهِ الَّتِي طَلَّقَ، فَقَالَ: طَلَّقْتُهَا وَهِيَ حَائِضٌ، فَذُكِرَ ذَلِكَ لِعُمَرَ، فَذَكَرَهُ لِلنَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ: «مُرْهُ فَلْيُرَاجِعْهَا، فَإِذَا طَهُرَتْ فَلْيُطَلِّقْهَا لِطُهْرِهَا»، قَالَ: «فَرَاجَعْتُهَا، ثُمَّ طَلَّقْتُهَا لِطُهْرِهَا»، قُلْتُ: فَاعْتَدَدْتَ بِتِلْكَ التَّطْلِيقَةِ الَّتِي طَلَّقْتَ وَهِيَ حَائِضٌ؟ قَالَ: «مَا لِيَ لَا أَعْتَدُّ بِهَا، وَإِنْ كُنْتُ عَجَزْتُ وَاسْتَحْمَقْتُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11231,
+                "hadithNumber": "3667",
+                "englishNarrator": "Anas bin Sirin reported:",
+                "hadithEnglish": "He had heard Ibn 'Umar (رضی اللہ عنہ) as saying. I divorced my wife while she was in the state of menses. 'Umar (رضی اللہ عنہ) came to Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and informed him about it, whereupon he (Allah's Apostle) said: Command him to take her back and when she is pure, then divorce her. I said to Ibn 'Umar (رضی اللہ عنہ): Did you count that pronouncement of divorce? He said: Why not?",
+                "hadithUrdu": "انہوں نے حضرت ابن عمر رضی اللہ عنہ سے سنا ، انہوں نے کہا : میں نے اپنی بیوی کو اس حالت میں طلاق دی کہ وہ حائضہ تھی ، اس پر حضرت عمر رضی اللہ عنہ نبی صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے اور آپ کو بتایا تو آپ نے فرمایا : \" اسے حکم دو کہ اس سے رجوع کرے ، پھر جب وہ پاک ہو جائے تو تب اسے طلاق دے ۔ \" میں نے حضرت ابن عمر رضی اللہ عنہ سے پوچھا : کیا آپ نے اس طلاق کو شمار کیا تھا؟ انہوں نے کہا : تو ( اور ) کیا.",
+                "urduNarrator": "ہم سے محمد بن المثنی اور ابن بشار نے بیان کیا، ابن المثنی نے کہا,محمد بن جعفر نے ہمیں حدیث سنائی ، انہوں نے کہا : ہمیں شعبہ نے انس بن سیرین سے حدیث بیان کی کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ بَشَّارٍ، قَالَ ابْنُ الْمُثَنَّى: حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ أَنَسِ بْنِ سِيرِينَ، أَنَّهُ سَمِعَ ابْنَ عُمَرَ، قَالَ: طَلَّقْتُ امْرَأَتِي وَهِيَ حَائِضٌ، فَأَتَى عُمَرُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَأَخْبَرَهُ، فَقَالَ: «مُرْهُ فَلْيُرَاجِعْهَا، ثُمَّ إِذَا طَهُرَتْ، فَلْيُطَلِّقْهَا» قُلْتُ لِابْنِ عُمَرَ: أَفَاحْتَسَبْتَ بِتِلْكَ التَّطْلِيقَةِ؟ قَالَ: «فَمَهْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11232,
+                "hadithNumber": "3668",
+                "englishNarrator": "Shu'ba narrated with this chain (as no. 3667), except that in their Hadith it says: \"...Let him take her back.\" And in their Hadith (it says): He said:",
+                "hadithEnglish": "\"I said to him: Did you count it as such? He said: 'Of course.'\"",
+                "hadithUrdu": "میں نے ان سے پوچھا : کیا آپ اس طلاق کو شمار کریں گے؟ انہوں نے جواب دیا : تو ( اور ) کیا.",
+                "urduNarrator": "ہم سے یحییٰ بن حبیب نے بیان کیا، خالد بن حارث اور بہز دونوں نے کہا : ہمیں شعبہ نے اسی سند سے حدیث بیان کی ، لیکن ان دونوں کی حدیث میں ( فليراجعها ، یعنی اس سے رجوع کرنے کی بجائے ) فليرجعها ( وہ اس کو لوٹا لے ) ہے ۔ اور ان دونوں کی حدیث میں یہ بھی ہے ، کہا",
+                "hadithArabic": "وحَدَّثَنِيهِ يَحْيَى بْنُ حَبِيبٍ، حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، ح وحَدَّثَنِيهِ عَبْدُ الرَّحْمَنِ بْنُ بِشْرٍ، حَدَّثَنَا بَهْزٌ، قَالَا: حَدَّثَنَا شُعْبَةُ، بِهَذَا الْإِسْنَادِ، غَيْرَ أَنَّ فِي حَدِيثِهِمَا: «لِيَرْجِعْهَا»، وَفِي حَدِيثِهِمَا: قَالَ: قُلْتُ لَهُ: أَتَحْتَسِبُ بِهَا؟ قَالَ: فَمَهْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11233,
+                "hadithNumber": "3669",
+                "englishNarrator": "Ibn Tawus narrated on the authority of his father:",
+                "hadithEnglish": "Ibn 'Umar (رضی اللہ عنہ) was asked about the person who divorced his wife in the state of menses, whereupon he said: Do you know 'Abdullah bin Umar رضی اللہ عنہ ? He said: Yes. He said: It was he who divorced his wife jn the state of menses and 'Umar رضی اللہ عنہ went to Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and gave him this information. and he commanded him that he should take her back; and he (Abu Tawus) said: I did not hear any addition to this (hadith) from my father.",
+                "hadithUrdu": "انہوں نے ابن عمر رضی اللہ عنہ سے سنا ، ان سے ایسے آدمی کے بارے میں سوال کیا جا رہا تھا جس نے اپنی بیوی کو حیض کی حالت میں طلاق دی ۔ انہوں نے کہا : کیا تم عبداللہ بن عمر رضی اللہ عنہ کو جانتے ہو؟ اس نے کہا : ہاں ، انہوں نے کہا : انہوں نے اپنی بیوی کو حیض میں طلاق دے دی تھی تو حضرت عمر رضی اللہ عنہ نبی صلی اللہ علیہ وسلم کے پاس گئے اور آپ کو اس خبر سے آگاہ کیا ۔ آپ نے انہیں حکم دیا کہ وہ اس سے رجوع کرے ۔ ( ابن طاقس نے ) کہا : میں نے اپنے والد کو اس سے زیادہ بیان کرتے ہوئے نہیں سنا.",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم نے بیان کیا، کہا ہم سے عبدالرزاق نے بیان کیا، کہا ہم سے ابن جریج نے بیان کیا، انہوں نے کہا (عبداللہ ) ابن طاوس نے اپنے والد سے روایت کی کہ",
+                "hadithArabic": "وحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي ابْنُ طَاوُسٍ، عَنْ أَبِيهِ، أَنَّهُ سَمِعَ ابْنَ عُمَرَ، يُسْأَلُ عَنْ رَجُلٍ، طَلَّقَ امْرَأَتَهُ حَائِضًا، فَقَالَ: أَتَعْرِفُ عَبْدَ اللهِ بْنَ عُمَرَ؟ قَالَ: نَعَمْ، قَالَ: «فَإِنَّهُ طَلَّقَ امْرَأَتَهُ حَائِضًا، فَذَهَبَ عُمَرُ إِلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَأَخْبَرَهُ الْخَبَرَ، فَأَمَرَهُ أَنْ يُرَاجِعَهَا» قَالَ: لَمْ أَسْمَعْهُ يَزِيدُ عَلَى ذَلِكَ لِأَبِيهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11234,
+                "hadithNumber": "3670",
+                "englishNarrator": "Abu Zubair reported:",
+                "hadithEnglish": "He heard 'Abdul-Rahman bin Aiman (the freed slave of 'Azza) say that he asked Ibn 'Umar (رضی اللہ عنہ) and Abu Zubair heard: What is your opinion about the person who divorced his wife in the state of menses? Thereupon he said: Ibn Umar (رضی اللہ عنہ) divorced his wife during the lifetime of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) while she was in the state of menses. Upon this Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) told him to take her back and so he took her back and he (further) said: When she is pure, then either divorce her or retain her. Ibn 'Umar (رضی اللہ عنہ) said that Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) then recited this verse: O Apostle, when you divorce women, divorce them at the commencement of their prescribed period (Ixv 1).",
+                "hadithUrdu": "انہوں نے عَزہ کے مولیٰ عبدالرحمٰن بن ایمن سے سنا ، وہ حضرت ابن عمر رضی اللہ عنہ سے پوچھ رہے تھے اور ابوزبیر بھی یہ بات سن رہے تھے کہ آپ کی اس آدمی کے بارے میں کیا رائے ہے جس نے اپنی بیوی کو حیض کی حالت میں طلاق دے دی؟ انہوں نے جواب دیا : ابن عمر رضی اللہ عنہ نے بھی رسول اللہ صلی اللہ علیہ وسلم کے زمانے میں اپنی بیوی کو حالت حیض میں طلاق دی تھی تو حضرت عمر رضی اللہ عنہ نے اس کے بارے میں رسول اللہ صلی اللہ علیہ وسلم سے سوال کیا اور بتایا : عبداللہ بن عمر رضی اللہ عنہ نے اپنی بیوی کو حیض کی حالت میں طلاق دے دی ہے تو نبی صلی اللہ علیہ وسلم نے ان سے فرمایا : \"\" وہ اس سے رجوع کرے ۔ \"\" چنانچہ انہوں نے اس سے رجوع کر لیا ، اور آپ نے فرمایا : \"\" جب وہ پاک ہو جائے تو اسے طلاق دے یا ( اپنے ہاں بسائے ) رکھے ۔ \"\" حضرت ابن عمر رضی اللہ عنہ نے کہا : اور نبی صلی اللہ علیہ وسلم نے ( یہ آیت ) تلاوت فرمائی : \"\" اے نبی! جب آپ لوگ عورتوں کو طلاق دیں تو انہیں ان کی عدت ( شروع کرنے ) کے وقت طلاق دے.",
+                "urduNarrator": "مجھ سے ہارون بن عبداللہ نے بیان کیا، انہوں نے ہم سے بیان کیا حجاج بن محمد نے ہمیں حدیث بیان کی ، کہا : ابن جریج نے کہا : مجھے ابوزبیر نے خبر دی کہ",
+                "hadithArabic": "وحَدَّثَنِي هَارُونُ بْنُ عَبْدِ اللهِ، حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، قَالَ: قَالَ ابْنُ جُرَيْجٍ: أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ عَبْدَ الرَّحْمَنِ بْنَ أَيْمَنَ، مَوْلَى عَزَّةَ، يَسْأَلُ ابْنَ عُمَرَ، وَأَبُو الزُّبَيْرِ يَسْمَعُ ذَلِكَ، كَيْفَ تَرَى فِي رَجُلٍ طَلَّقَ امْرَأَتَهُ حَائِضًا؟ فَقَالَ: طَلَّقَ ابْنُ عُمَرَ امْرَأَتَهُ وَهِيَ حَائِضٌ عَلَى عَهْدِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَسَأَلَ عُمَرُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ: إِنَّ عَبْدَ اللهِ بْنَ عُمَرَ طَلَّقَ امْرَأَتَهُ وَهِيَ حَائِضٌ، فَقَالَ لَهُ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لِيُرَاجِعْهَا»، فَرَدَّهَا، وَقَالَ: «إِذَا طَهُرَتْ فَلْيُطَلِّقْ، أَوْ لِيُمْسِكْ»، قَالَ ابْنُ عُمَرَ: وَقَرَأَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «يَا أَيُّهَا النَّبِيُّ إِذَا طَلَّقْتُمُ النِّسَاءَ فَطَلِّقُوهُنَّ فِي قُبُلِ عِدَّتِهِنَّ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11235,
+                "hadithNumber": "3671",
+                "englishNarrator": null,
+                "hadithEnglish": "A similar story (as no. 3670) was narrated from Ibn Umar رضی اللہ عنہ .",
+                "hadithUrdu": "مجھ سے ہارون بن عبداللہ نے بیان کیا، انہوں نے ہم سے بیان کیا ابوعاصم نے ابن جریج سے ، انہوں نے ابوزبیر سے اور انہوں نے ابن عمر رضی اللہ عنہ سے اسی واقعے کے مطابق روایت کی.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنِي هَارُونُ بْنُ عَبْدِ اللهِ، حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، عَنْ أَبِي الزُّبَيْرِ، عَنِ ابْنِ عُمَرَ، نَحْوَ هَذِهِ الْقِصَّةِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11236,
+                "hadithNumber": "3672",
+                "englishNarrator": "Abu Az-zubair that he heard Abdur Rahman bin Ayman, the freed slave of Urwah, asking Ibn Umar, When Abu Az-zubair was listening... a hadith like that of Hajjaj (no. 3670), with some additions.",
+                "hadithEnglish": "Muslim said: He maid a mistake when he said: \"...the freed slave of 'Urwah \", he was the freed slave of 'Azzah.",
+                "hadithUrdu": "امام مسلم رحمۃ اللہ علیہ نے کہا : انہوں نے جو \"\" مولیٰ عروہ \"\" کہاہے ، اس میں غلطی کی ، وہ مولیٰ عزہ تھے.",
+                "urduNarrator": "مجھ سے محمد بن رافع نے بیان کیا, عبدالرزاق نے ہمیں حدیث بیان کی ، ( کہا : ) ہمیں ابن جریج نے خبر دی ، ( کہا : ) مجھے ابوزبیر نے خبر دی کہ انہوں نے عروہ کے مولیٰ عبدالرحمٰن بن ایمن سے سنا ، وہ حضرت ابن عمر رضی اللہ عنہ سے پوچھ رہے تھے ، اور ابوزبیر بھی سن رہے تھے ۔ ۔ ۔ جس طرح حجاج کی حدیث ہے اور اس ( حدیث ) میں کچھ اضافہ بھی ہے",
+                "hadithArabic": "وحَدَّثَنِيهِ مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ عَبْدَ الرَّحْمَنِ بْنَ أَيْمَنَ، مَوْلَى عُرْوَةَ، يَسْأَلُ ابْنَ عُمَرَ، وَأَبُو الزُّبَيْرِ يَسْمَعُ، بِمِثْلِ حَدِيثِ حَجَّاجٍ وَفِيهِ بَعْضُ الزِّيَادَةِ، قَالَ مُسْلِمٌ: أَخْطَأَ حَيْثُ قَالَ عُرْوَةَ: إِنَّمَا هُوَ مَوْلَى عَزَّةَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11237,
+                "hadithNumber": "3673",
+                "englishNarrator": "Ibn 'Abbas ( رضی اللہ عنہ) reported:",
+                "hadithEnglish": "The (pronouncement) of three divorces during the lifetime of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and that of Abu Bakr رضی اللہ عنہ and two years of the caliphate of Umar ( رضی اللہ عنہ) (was treated) as one. But Umar bin Khattab (رضی اللہ عنہ) said: Verily the people have begun to hasten in the matter in which they are required to observe respite. So if we had imposed this upon them, and he imposed it upon them.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم اور ابوبکر رضی اللہ عنہ کے عہد میں اور عمر رضی اللہ عنہ کی خلافت کے ( ابتدائی ) دو سالوں تک ( اکٹھی ) تین طلاقیں ایک شمار ہوتی تھی ، پھر حضرت عمر بن خطاب رضی اللہ عنہ نے کہا : لوگوں نے ایسے کام میں جلد بازی شروع کر دی ہے جس میں ان کے لیے تحمل اور سوچ بچار ( ضروری ) تھا ۔ اگر ہم اس ( عجلت ) کو ان پر نافذ کر دیں ( تو شاید وہ تحمل سے کام لینا شروع کر دیں ) اس کے بعد انہوں نے اسے ان پر نافذ کر دیا ۔ ( اکٹھی تین طلاقوں کو تین شمار کرنے لگے)",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم اور محمد بن رافع نے بیان کیا، اور ابن رافع نے کہا: انہوں نے ہمیں خبر دی، اور ابن رافع نے کہا: انہوں نے بیان کیا۔ عبدالرزاق ,معمر نے ہمیں ابن طاوس سے خبر دی ، انہوں نے اپنے والد ( طاوس بن کیسان ) سے ، انہوں نے حضرت ابن عباس رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَمُحَمَّدُ بْنُ رَافِعٍ، وَاللَّفْظُ لِابْنِ رَافِعٍ، قَالَ إِسْحَاقُ: أَخْبَرَنَا، وَقَالَ ابْنُ رَافِعٍ: حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ ابْنِ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ: كَانَ الطَّلَاقُ عَلَى عَهْدِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَأَبِي بَكْرٍ، وَسَنَتَيْنِ مِنْ خِلَافَةِ عُمَرَ، طَلَاقُ الثَّلَاثِ وَاحِدَةً، فَقَالَ عُمَرُ بْنُ الْخَطَّابِ: إِنَّ النَّاسَ قَدِ اسْتَعْجَلُوا فِي أَمْرٍ قَدْ كَانَتْ لَهُمْ فِيهِ أَنَاةٌ، فَلَوْ أَمْضَيْنَاهُ عَلَيْهِمْ، فَأَمْضَاهُ عَلَيْهِمْ.",
+                "headingArabic": "طَلاَقِ الثَّلاَثِ ‏‏",
+                "headingUrdu": "تین طلاق",
+                "headingEnglish": "Threefold Divorce",
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11238,
+                "hadithNumber": "3674",
+                "englishNarrator": "Abu Sahba' said to Ibn 'Abbas (رضی اللہ عنہ):",
+                "hadithEnglish": "Do you know that three (divorces) were treated as one during the lifetime of Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌), and that of Abu Bakr رضی اللہ عنہ , and during three (years) of the caliphate of Umar (رضی اللہ عنہ)? Ibn Abbas (رضی اللہ عنہ) said: Yes.",
+                "hadithUrdu": "کیا آپ جانتے ہیں کہ نبی صلی اللہ علیہ وسلم اور ابوبکر رضی اللہ عنہ کے عہد میں ، اور حضرت عمر رضی اللہ عنہ کی خلافت کے ( ابتدائی ) تین سالوں تک تین طلاقوں کو ایک شمار کیا جاتا ہے؟ تو حضرت ابن عباس رضی اللہ عنہ نے جواب دیا : ہاں.",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم نے بیان کیا، کہا ہم سے روح بن عبادہ نے بیان کیا، انہوں نے بیان کیا ابن جریج نے ہمیں خبر دی ، کہا : مجھے ابن طاوس نے اپنے والد ( طاوس بن کیسان ) سے خبر دی کہ ابوصبہاء نے ابن عباس رضی اللہ عنہ سے پوچھا",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا رَوْحُ بْنُ عُبَادَةَ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، ح وحَدَّثَنَا ابْنُ رَافِعٍ، وَاللَّفْظُ لَهُ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي ابْنُ طَاوُسٍ، عَنْ أَبِيهِ، أَنَّ أَبَا الصَّهْبَاءِ، قَالَ لِابْنِ عَبَّاسٍ: أَتَعْلَمُ أَنَّمَا «كَانَتِ الثَّلَاثُ تُجْعَلُ وَاحِدَةً عَلَى عَهْدِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَأَبِي بَكْرٍ، وَثَلَاثًا مِنْ إِمَارَةِ عُمَرَ»؟ فَقَالَ ابْنُ عَبَّاسٍ: «نَعَمْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 10926,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=437",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=435",
+                "label": "435",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=436",
+                "label": "436",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=437",
+                "label": "437",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=438",
+                "label": "438",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=439",
+                "label": "439",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=440",
+                "label": "440",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=441",
+                "label": "441",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=439",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=439",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=437",
+        "to": 10950,
+        "total": 40465
+    }
+}

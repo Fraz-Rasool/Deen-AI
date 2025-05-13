@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 219,
+        "data": [
+            {
+                "id": 5453,
+                "hadithNumber": "5690",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "She used to recommend at-Talbina and used to say, \"It is disliked (by the patient) although it is beneficial.''",
+                "hadithUrdu": "وہ تلبینہ پکانے کا حکم دیتی تھیں اور فرماتی تھیں کہ اگرچہ وہ ( مریض کو ) ناپسند ہوتا ہے لیکن وہ اس کو فائدہ دیتا ہے ۔",
+                "urduNarrator": "ہم سے فروہ بن ابی مغراء نے بیان کیا ، کہا ہم سے علی بن مسہر نے بیان کیا ، ان سے ہشام نے ، ان سے ان کے والد نے اور ان سے حضرت عائشہ رضی اللہ عنہا نے کہ",
+                "hadithArabic": "حَدَّثَنَا فَرْوَةُ بْنُ أَبِي الْمَغْرَاءِ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّهَا كَانَتْ تَأْمُرُ بِالتَّلْبِينَةِ وَتَقُولُ هُوَ الْبَغِيضُ النَّافِعُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5454,
+                "hadithNumber": "5691",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) was cupped and he paid the wages to the one who had cupped him and then took Su'ut (Medicine sniffed by nose).",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے پچھنا لگوایا اور پچھنا لگانے والے کواس کی مزدوری دی اور ناک میں دوا ڈلوائی ۔",
+                "urduNarrator": "ہم سے معلی بن اسد نے بیان کیا ، کہا ہم سے وہیب بن خالد نے بیان کیا ، ان سے عبداللہ ابن طاؤس نے ، ان سے ان کے والد نے اور ان سے حضرت ابن عباس رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُعَلَّى بْنُ أَسَدٍ، حَدَّثَنَا وُهَيْبٌ، عَنِ ابْنِ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم احْتَجَمَ وَأَعْطَى الْحَجَّامَ أَجْرَهُ وَاسْتَعَطَ‏.‏",
+                "headingArabic": "السَّعُوطِ",
+                "headingUrdu": "نسوار",
+                "headingEnglish": "Sa'ut",
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5455,
+                "hadithNumber": "5692, 5693",
+                "englishNarrator": "Narrated Um Qais bint Mihsan رضی اللہ عنہا :",
+                "hadithEnglish": "I heard the Prophet (ﷺ) saying, \"Treat with the Indian incense, for it has healing for seven diseases; it is to be sniffed by one having throat trouble, and to be put into one side of the mouth of one suffering from pleurisy.\" Once I went to Allah's Messenger (ﷺ) with a son of mine who would not eat any food, and the boy passed urine on him whereupon he asked for some water and sprinkled it over the place of urine.",
+                "hadithUrdu": "میں نے نبی کریم صلی اللہ علیہ وسلم سے سنا آپ نے فرمایا تم لوگ اس عود ہندی ( کست ) کا استعمال کیا کرو کیونکہ اس میں سات بیماریوں کا علاج ہے ۔ حلق کے درد میں اسے ناک میں ڈالا جاتا ہے ، پسلی کے درد میں چبائی جاتی ہے ۔ اور میں نبی کریم صلی اللہ علیہ وسلم کی خدمت میں اپنے ایک شیر خوار لڑکے کو لے کر حاضر ہوئی پھر آنحضرت صلی اللہ علیہ وسلم کے اوپر اس نے پیشاب کر دیا تو آپ نے پانی منگوا کر پیشاب کی جگہ پر چھینٹا دیا ۔",
+                "urduNarrator": "ہم سے صدقہ بن فضل نے بیان کیا ، کہا ہم کو ابن عیینہ نے خبر دی ، کہا میں نے زہری سے سنا ، انہوں نے عبیداللہ بن عبداللہ سے کہ حضرت ام قیس بنت محصن رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا صَدَقَةُ بْنُ الْفَضْلِ، أَخْبَرَنَا ابْنُ عُيَيْنَةَ، قَالَ سَمِعْتُ الزُّهْرِيَّ، عَنْ عُبَيْدِ اللَّهِ، عَنْ أُمِّ قَيْسٍ بِنْتِ مِحْصَنٍ، قَالَتْ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ عَلَيْكُمْ بِهَذَا الْعُودِ الْهِنْدِيِّ، فَإِنَّ فِيهِ سَبْعَةَ أَشْفِيَةٍ‏.‏ يُسْتَعَطُ بِهِ مِنَ الْعُذْرَةِ، وَيُلَدُّ بِهِ مِنْ ذَاتِ الْجَنْبِ ‏\"‏‏. وَدَخَلْتُ عَلَى النَّبِيِّ صلى الله عليه وسلم بِابْنٍ لِي لَمْ يَأْكُلِ الطَّعَامَ فَبَالَ عَلَيْهِ، فَدَعَا بِمَاءٍ فَرَشَّ عَلَيْهِ‏.‏",
+                "headingArabic": "السَّعُوطِ بِالْقُسْطِ الْهِنْدِيِّ الْبَحْرِيِّ",
+                "headingUrdu": "قسط ہندی یا قسط بہری سے سعوط کرنا",
+                "headingEnglish": "To sniff the Indian and sea Qust (kind of incense)",
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5456,
+                "hadithNumber": "5694",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) was cupped while he was fasting.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے ( ایک مرتبہ ) روزہ کی حالت میں پچھنا لگوایا ۔",
+                "urduNarrator": "ہم سے ابو معمر نے بیان کیا ، کہا ہم سے عبدالوارث نے بیان کیا ، کہا ہم سے ایوب نے بیان کیا ، ان سے عکرمہ نے اور ان سے حضرت ابن عباس رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو مَعْمَرٍ، حَدَّثَنَا عَبْدُ الْوَارِثِ، حَدَّثَنَا أَيُّوبُ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ احْتَجَمَ النَّبِيُّ صلى الله عليه وسلم وَهْوَ صَائِمٌ‏.‏",
+                "headingArabic": "أَىَّ سَاعَةٍ يَحْتَجِمُ وَاحْتَجَمَ أَبُو مُوسَى لَيْلاً",
+                "headingUrdu": "کس وقت سنگی لگانا چاہیے۔",
+                "headingEnglish": "What time one should be cupped",
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5457,
+                "hadithNumber": "5695",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) was cupped while he was in a state of Ihram.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے پچھنا لگوایا جبکہ آپ احرام سے تھے ۔",
+                "urduNarrator": "ہم سے مسدد بن مسرہد نے بیان کیا ، کہا ہم سے سفیان بن عیینہ نے بیان کیا ، ان سے عمرو بن دینار نے ، ان سے طاؤس اور عطاء بن ابی رباح نے اور ان سے ابن عباس رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ طَاوُسٍ، وَعَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ احْتَجَمَ النَّبِيُّ صلى الله عليه وسلم وَهْوَ مُحْرِمٌ‏.‏",
+                "headingArabic": "الْحَجْمِ فِي السَّفَرِ وَالإِحْرَامِ",
+                "headingUrdu": "سفر میں یا احرام کی حالت میں سنگی لگانا",
+                "headingEnglish": "To be cupped while on a journey or in Ihram",
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5458,
+                "hadithNumber": "5696",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "He was asked about the wages of the one who cups others. He said, 'Allah's Messenger (ﷺ) was cupped by `Abd Taiba, to whom he gave two Sa of food and interceded for him with his masters who consequently reduced what they used to charge him daily. Then the Prophet (ﷺ) s said, \"The best medicines you may treat yourselves with are cupping and sea incense.' He added, \"You should not torture your children by treating tonsillitis by pressing the tonsils or the palate with the finger, but use incense.\"",
+                "hadithUrdu": "ان سے پچھنا لگوانے والے کی مزدوری کے بارے میں پوچھا گیا تھا ۔ انہوں نے کہا کہ رسول اللہ صلی اللہ علیہ وسلم نے پچھنا لگوایا تھا آپ کو ابو طیبہ ( نافع یا میسرہ ) نے پچھنا لگایا تھا آپ نے انہیں دو صاع کھجور مزدوری میں دی تھی اور آپ نے ان کے مالکوں ( بنو حارثہ ) سے گفتگو کی تو انہوں نے ان سے وصول کئے جانے والے لگان میں کمی کر دی تھی اور آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ ( خون کے دباؤ کا ) بہترین علاج جو تم کرتے ہو وہ پچھنا لگوانا ہے اورعمدہ دوا عود ہندی کا استعمال کرنا ہے اور فرمایا اپنے بچوں کو عذرہ ( حلق کی بیماری ) میں بچوں کو ان کا تالو دبا کر تکلیف مت دو بلکہ قسط لگا دو اس سے ورم جاتا رہے گا ۔",
+                "urduNarrator": "ہم سے محمد بن مقاتل نے بیان کیا ، کہا ہم کو عبداللہ بن مبارک نے خبر دی ، کہا ہم کو حمید الطویل نے خبر دی اور انہیں انس رضی اللہ عنہ نے",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مُقَاتِلٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا حُمَيْدٌ الطَّوِيلُ، عَنْ أَنَسٍ ـ رضى الله عنه ـ أَنَّهُ سُئِلَ عَنْ أَجْرِ الْحَجَّامِ، فَقَالَ احْتَجَمَ رَسُولُ اللَّهِ صلى الله عليه وسلم حَجَمَهُ أَبُو طَيْبَةَ، وَأَعْطَاهُ صَاعَيْنِ مِنْ طَعَامٍ، وَكَلَّمَ مَوَالِيَهُ فَخَفَّفُوا عَنْهُ، وَقَالَ ‏\"‏ إِنَّ أَمْثَلَ مَا تَدَاوَيْتُمْ بِهِ الْحِجَامَةُ وَالْقُسْطُ الْبَحْرِيُّ ‏\"‏‏.‏ وَقَالَ ‏\"‏ لاَ تُعَذِّبُوا صِبْيَانَكُمْ بِالْغَمْزِ مِنَ الْعُذْرَةِ، وَعَلَيْكُمْ بِالْقُسْطِ ‏\"‏‏.‏",
+                "headingArabic": "الْحِجَامَةِ مِنَ الدَّاءِ",
+                "headingUrdu": "کسی بیماری کے لیے (بطور علاج) سنگی لگانا۔",
+                "headingEnglish": "To be cupped (as a treatment) for a disease.",
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5459,
+                "hadithNumber": "5697",
+                "englishNarrator": "Narrated Jabir bin `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "He paid Al-Muqanna a visit during his illness and said, \"I will not leave till he gets cupped, for I heard Allah's Messenger (ﷺ) saying, \"There is healing in cupping.\"",
+                "hadithUrdu": "انہوں نے مقنع بن سنان تابعی کی عیادت کے لیے تشریف لائے پھر ان سے کہا کہ جب تک تم پچھنا نہ لگوا لو گے میں یہاں سے نہیں جاؤں گا ، میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ہے کہ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ اس میں شفاء ہے ۔",
+                "urduNarrator": "ہم سے سعید بن تلید نے بیان کیا ، انہوں نے کہا کہ مجھ سے ابن وہب نے بیان کیا کہ مجھے عمرو وغیرہ نے خبر دی ، ان سے بکیر نے بیان کیا ، ان سے عاصم بن عمرو قتادہ نے بیان کیا کہ حضرت جابر بن عبداللہ  رضی اللہ عنہما",
+                "hadithArabic": "حَدَّثَنَا سَعِيدُ بْنُ تَلِيدٍ، قَالَ حَدَّثَنِي ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي عَمْرٌو، وَغَيْرُهُ، أَنَّ بُكَيْرًا، حَدَّثَهُ أَنَّ عَاصِمَ بْنَ عُمَرَ بْنِ قَتَادَةَ حَدَّثَهُ أَنَّ جَابِرَ بْنَ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ عَادَ الْمُقَنَّعَ ثُمَّ قَالَ لاَ أَبْرَحُ حَتَّى تَحْتَجِمَ فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ إِنَّ فِيهِ شِفَاءً ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5460,
+                "hadithNumber": "5698, 5699",
+                "englishNarrator": "Narrated `Abdullah bin Buhaina رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) was cupped on the middle of his head at Lahye Jamal on his way to Mecca while he was in a state of Ihram. Narrated Ibn `Abbas رضی اللہ عنہما : Allah's Messenger (ﷺ) was cupped on his head.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے مکہ کے راستے میں مقام لحی جمل میں اپنے سر کے بیچ میں پچھنا لگوایا آنحضرت صلی اللہ علیہ وسلم اس وقت  احرام کی حالت میں  تھے ۔  اور محمد بن عبداللہ انصاری نے بیان کیا ، انہوں نے کہا ہم کو ہشام بن حسان نے خبر دی ، ان سے عکرمہ نے بیان کیا اور ان سے حضرت عبداللہ بن عباس رضی اللہ عنہما نے کہ رسول اللہ صلی اللہ علیہ وسلم نے اپنے سر میں پچھنا لگوایا ۔",
+                "urduNarrator": "ہم سے اسماعیل بن ابی اویس نے بیان کیا ، انہوں نے کہا کہ مجھ سے سلیمان بن بلال نے بیان کیا ، ان سے علقمہ نے ، انہوں نے عبدالرحمٰن اعرج سے سنا ، انہوں نے عبداللہ بن بحینہ رضی اللہ عنہ سے سنا وہ بیان کرتے تھے کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي سُلَيْمَانُ، عَنْ عَلْقَمَةَ، أَنَّهُ سَمِعَ عَبْدَ الرَّحْمَنِ الأَعْرَجَ، أَنَّهُ سَمِعَ عَبْدَ اللَّهِ ابْنَ بُحَيْنَةَ، يُحَدِّثُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم احْتَجَمَ بِلَحْىِ جَمَلٍ مِنْ طَرِيقِ مَكَّةَ، وَهْوَ مُحْرِمٌ، فِي وَسَطِ رَأْسِهِ‏.  وَقَالَ الأَنْصَارِيُّ أَخْبَرَنَا هِشَامُ بْنُ حَسَّانَ، حَدَّثَنَا عِكْرِمَةُ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم احْتَجَمَ فِي رَأْسِهِ‏.‏",
+                "headingArabic": "الْحِجَامَةِ عَلَى الرَّأْسِ",
+                "headingUrdu": "سر پر سنگی لگانا",
+                "headingEnglish": "Cupping on the head",
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5461,
+                "hadithNumber": "5700, 5701",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) was cupped on his head for an ailment he was suffering from while he was in a state of Ihram, at a water place called Lahy-e-Jamal. Hadrat Ikrimah has reported from Hadrat Ibn `Abbas رضی اللہ عنہما further said: Allah s Apostle was cupped on his head for unilateral headache while he was in a state of Ihram.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے حالت احرام میں اپنے سر میں پچھنا لگوایا ( یہ پچھنا آپ نے سر کے ) درد کی وجہ سے لگوایا تھا جو لحی جمل نامی پانی کے گھاٹ پر آپ کو ہو گیا تھا ۔اور محمد بن سواء نے بیان کیا ، کہا ہم کو ہشام بن حسان نے خبر دی ، انہیں عکرمہ نے اور انہیں حضرت ابن عباس رضی اللہ عنہما نے کہ رسول اللہ صلی اللہ علیہ وسلم نے احرام کی حالت میں اپنے سر میں پچھنا لگوایا ۔ آدھے سر کے درد کی وجہ سے جو آپ کو ہو گیا تھا ۔",
+                "urduNarrator": "ہم سے محمد بن بشار نے بیان کیا ، کہا ہم سے ابن ابی عدی نے بیان کیا ، ان سے ہشام بن حسان نے ، ان سے عکرمہ نے اور ان سے حضرت ابن عباس رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ هِشَامٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، احْتَجَمَ النَّبِيُّ صلى الله عليه وسلم فِي رَأْسِهِ وَهْوَ مُحْرِمٌ مِنْ وَجَعٍ كَانَ بِهِ بِمَاءٍ يُقَالُ لَهُ لَحْىُ جَمَلٍ‏.‏ وَقَالَ مُحَمَّدُ بْنُ سَوَاءٍ أَخْبَرَنَا هِشَامٌ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم احْتَجَمَ وَهْوَ مُحْرِمٌ فِي رَأْسِهِ مِنْ شَقِيقَةٍ كَانَتْ بِهِ‏.‏",
+                "headingArabic": "الْحَجْمِ مِنَ الشَّقِيقَةِ وَالصُّدَاعِ",
+                "headingUrdu": "یکطرفہ یا دو طرفہ سر درد کے علاج کے لیے سنگی",
+                "headingEnglish": "Cupping to treat unilateral or bilateral headache",
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5462,
+                "hadithNumber": "5702",
+                "englishNarrator": "Narrated Jabir bin `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "I heard the Prophet (ﷺ) saying, \"If there is any good in your medicines, then it is in a gulp of honey, a cupping operation, or branding (cauterization), but I do not like to be (cauterized) branded.",
+                "hadithUrdu": "میں نے نبی کریم صلی اللہ علیہ وسلم سے سنا ، آپ نے فرمایا کہ اگر تمہاری دوائیوں میں کوئی بھلائی ہے تو شہد کے شربت میں ہے اور پچھنا لگوانے میں ہے اور آگ سے داغنے میں ہے لیکن میں آگ سے داغ کر علاج کو پسند نہیں کرتا ۔",
+                "urduNarrator": "ہم سے اسماعیل بن ابان نے بیان کیا ، انہوں نے کہا ہم سے عبدالرحمٰن بن غسیل نے بیان کیا ، انہوں نے کہا کہ مجھ سے عاصم بن عمر نے بیان کیا ، ان سے حضرت جابر بن عبداللہ رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبَانَ، حَدَّثَنَا ابْنُ الْغَسِيلِ، قَالَ حَدَّثَنِي عَاصِمُ بْنُ عُمَرَ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ إِنْ كَانَ فِي شَىْءٍ مِنْ أَدْوِيَتِكُمْ خَيْرٌ فَفِي شَرْبَةِ عَسَلٍ أَوْ شَرْطَةِ مِحْجَمٍ أَوْ لَذْعَةٍ مِنْ نَارٍ، وَمَا أُحِبُّ أَنْ أَكْتَوِيَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5463,
+                "hadithNumber": "5703",
+                "englishNarrator": "Narrated Ka`b bin Ujrah رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) came to me during the period of Al-Hudaibiya, while I was lighting fire underneath a cooking pot and lice were falling down my head. He said, \"Do your lice hurt your?\" I said, \"Yes.\" He said, \"Shave your head and fast for three days or feed six poor persons or slaughter a sheep as a sacrifice:\" Ayyub, the transmitter, says: I have not remembered the sequence of these acts.",
+                "hadithUrdu": "صلح حدیبیہ کے موقع پر نبی کریم صلی اللہ علیہ وسلم میرے پاس تشریف لائے میں ایک ہانڈی کے نیچے آگ جلا رہا تھا اور جوویں میرے سر سے گر رہی تھی ( اور میں احرام باندھے ہوئے تھا ) آنحضرت صلی اللہ علیہ وسلم نے دریافت فرمایا سر کی یہ جوویں تمہیں تکلیف پہنچاتی ہیں ؟ میں نے عرض کیا کہ جی ہاں ۔ فرمایا کہ پھر سر منڈوالے اور ( کفارہ کے طور پر ) تین دن کے روزے رکھ یا چھ مسکینوں کو کھانا کھلایا ایک قربانی کر دے ۔ ایوب نے کہا کہ مجھے یاد نہیں کہ ( ان تین چیزوں میں سے ) کس کا ذکر سب سے پہلے کیا تھا ۔",
+                "urduNarrator": "ہم سے مسددنے بیان کیا ، کہا ہم سے حماد بن زید نے بیان کیا ، ان سے ایوب سختیانی نے بیان کیا ، کہا کہ میں نے مجاہد سے سنا ، ان سے عبدالرحمٰن بن ابی لیلیٰ نے اور ان سے کعب بن عجرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، قَالَ سَمِعْتُ مُجَاهِدًا، عَنِ ابْنِ أَبِي لَيْلَى، عَنْ كَعْبٍ، هُوَ ابْنُ عُجْرَةَ قَالَ أَتَى عَلَىَّ النَّبِيُّ صلى الله عليه وسلم زَمَنَ الْحُدَيْبِيَةِ، وَأَنَا أُوقِدُ تَحْتَ بُرْمَةٍ، وَالْقَمْلُ يَتَنَاثَرُ عَنْ رَأْسِي فَقَالَ ‏\"‏ أَيُؤْذِيكَ هَوَامُّكَ ‏\"‏‏.‏ قُلْتُ نَعَمْ‏.‏ قَالَ ‏\"‏ فَاحْلِقْ وَصُمْ ثَلاَثَةَ أَيَّامٍ، أَوْ أَطْعِمْ سِتَّةً، أَوِ انْسُكْ نَسِيكَةً ‏\"‏‏.‏ قَالَ أَيُّوبُ لاَ أَدْرِي بِأَيَّتِهِنَّ بَدَأَ‏.‏",
+                "headingArabic": "الْحَلْقِ مِنَ الأَذَى",
+                "headingUrdu": "کسی بیماری کی وجہ سے سر منڈوانا",
+                "headingEnglish": "To get one's head shaved because of some ailment",
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5464,
+                "hadithNumber": "5704",
+                "englishNarrator": "Narrated Jabir رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"If there is any healing in your medicines then it is a cupping operation, or branding (cauterization), but I do not like to be (cauterized) branded.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ اگر تمہاری دواؤں میں شفاء ہے تو پچھنا لگوانے اور آگ سے داغنے میں ہے لیکن آگ سے داغ کر علاج کو میں پسند نہیں کرتا ۔",
+                "urduNarrator": "ہم سے ابو الولید ہشام بن عبدالملک نے بیان کیا ، انہوں نے کہا ہم سے عبدالرحمٰن بن سلیمان بن غسیل نے بیان کیا ، انہوں نے کہا ہم سے عاصم بن عمر بن قتادہ نے بیان کیا ، انہوں نے کہا کہ میں نے حضرت جابر بن عبداللہ رضی اللہ عنہما سے سنا ، ان سے",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْوَلِيدِ، هِشَامُ بْنُ عَبْدِ الْمَلِكِ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ سُلَيْمَانَ بْنِ الْغَسِيلِ، حَدَّثَنَا عَاصِمُ بْنُ عُمَرَ بْنِ قَتَادَةَ، قَالَ سَمِعْتُ جَابِرًا، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنْ كَانَ فِي شَىْءٍ مِنْ أَدْوِيَتِكُمْ شِفَاءٌ فَفِي شَرْطَةِ مِحْجَمٍ أَوْ لَذْعَةٍ بِنَارٍ، وَمَا أُحِبُّ أَنْ أَكْتَوِيَ ‏\"‏‏.‏",
+                "headingArabic": "مَنِ اكْتَوَى أَوْ كَوَى غَيْرَهُ، وَفَضْلِ مَنْ لَمْ يَكْتَوِ",
+                "headingUrdu": "جس نے خود کو داغ دیا یا دوسرے کو داغ دیا، اور نہ داغے جانے کی فضیلت",
+                "headingEnglish": "Whoseever gets himself cauterized or cauterized other, and the excellence of not being cauterized",
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5465,
+                "hadithNumber": "5705",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, 'Nations were displayed before me; one or two prophets would pass by along with a few followers. A prophet would pass by accompanied by nobody. Then a big crowd of people passed in front of me and I asked, Who are they Are they my followers?\" It was said, 'No. It is Moses and his followers It was said to me, 'Look at the horizon.'' Behold! There was a multitude of people filling the horizon. Then it was said to me, 'Look there and there about the stretching sky! Behold! There was a multitude filling the horizon,' It was said to me, 'This is your nation out of whom seventy thousand shall enter Paradise without reckoning.' \"Then the Prophet (ﷺ) entered his house without telling his companions who they (the 70,000) were. So the people started talking about the issue and said, \"It is we who have believed in Allah and followed His Apostle; therefore those people are either ourselves or our children who are born m the Islamic era, for we were born in the Pre-lslamic Period of Ignorance.'' When the Prophet (ﷺ) heard of that, he came out and said. \"Those people are those who do not treat themselves with Ruqya, nor do they believe in bad or good omen (from birds etc.) nor do they get themselves branded (Cauterized). but they put their trust (only) in their Lord \" On that 'Ukasha bin Muhsin said. \"Am I one of them, O Allah's Messenger (ﷺ)?' The Prophet (ﷺ) said, \"Yes.\" Then another person got up and said, \"Am I one of them?\" The Prophet (ﷺ) said, 'Ukasha has anticipated you.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا میرے سامنے تمام امتیں پیش کی گئیں ایک ایک دو دونبی اور ان کے ساتھ ان کے ماننے والے گزرتے رہے اور بعض نبی ایسے بھی تھے کہ ان کے ساتھ کوئی نہیں تھا آخر میرے سامنے ایک بڑی بھاری جماعت آئی ۔ میں نے پوچھا یہ کون ہیں ، کیایہ میری امت کے لوگ ہیں ؟ کہا گیا کہ یہ حضرت موسیٰ علیہ السلام اور ان کی قوم ہے پھر کہا گیا کہ کناروں کی طرف دیکھو میں نے دیکھا کہ ایک بہت ہی عظیم جماعت ہے جو کناروں پر چھائی ہوئی ہے پھر مجھ سے کہا گیا کہ ادھر دیکھو ادھر دیکھو آسمان کے مختلف کناروں میں میں نے دیکھا کہ جماعت ہے جو تمام افق پر چھائی ہوئی ہے ۔ کہا گیا کہ یہ آپ کی امت ہے اور اس میں سے ستر ہزار حساب کے بغیر جنت میں داخل کر دیئے جائیں گے ۔ اس کے بعد آپ ( اپنے حجرہ میں ) تشریف لے گئے اور کچھ تفصیل نہیں فرمائی لوگ ان جنتیوں کے بارے میں بحث کرنے لگے اور کہنے لگے کہ ہم اللہ پر ایمان لائے ہیں اور اس کے رسول کی اتباع کی ہے ، اس لیے ہم ہی ( صحابہ ) وہ لوگ ہیں یا ہماری وہ اولاد ہیں جو اسلام میں پیدا ہوئے کیونکہ ہم جاہلیت میں پیدا ہوئے تھے ۔ یہ باتیں جب حضور اکرم صلی اللہ علیہ وسلم کو معلوم ہوئیں تو آپ باہر تشریف لائے اور فرمایا یہ وہ لوگ ہوں گے جو جھاڑ پھونک نہیں کراتے ، فال نہیں دیکھتے اور داغ کر علاج نہیں کرتے بلکہ اپنے رب پر بھروسہ کرتے ہیں ۔ اس پر عکاشہ بن محصن رضی اللہ عنہ نے عرض کیا یا رسول اللہ ! کیا میں بھی ان میں سے ہوں آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ ہاں ۔ اس کے بعد دوسرے صحابی کھڑے ہوئے اور عرض کیا یا رسول اللہ ( صلی اللہ علیہ وسلم ) ! میں بھی ان میں ہوں ؟ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ عکاشہ تم سے بازی لے گئے ۔",
+                "urduNarrator": "ہم سے عمران بن میسرہ نے بیان کیا ، کہا ہم سے محمد بن فضیل نے بیان کیا ، ان سے حصین بن عبدالرحمٰن نے بیان کیا ، ان سے عامر شعبی نے اور ان سے حضرت عمران بن حصین رضی اللہ عنہما نے کہا کہ نظر بد اورزہریلے جانور کے کاٹ کھانے کے سوا اور کسی چیز پر جھاڑ پھونک صحیح نہیں ۔ ( حصین نے بیان کیا کہ ) پھر میں نے اس کا ذکر سعید بن جبیر سے کیا تو انہوں نے بیان کیا کہ ہم سے حضرت ابن عباس رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عِمْرَانُ بْنُ مَيْسَرَةَ، حَدَّثَنَا ابْنُ فُضَيْلٍ، حَدَّثَنَا حُصَيْنٌ، عَنْ عَامِرٍ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ ـ رضى الله عنهما ـ قَالَ لاَ رُقْيَةَ إِلاَّ مِنْ عَيْنٍ أَوْ حُمَةٍ‏.‏ فَذَكَرْتُهُ لِسَعِيدِ بْنِ جُبَيْرٍ فَقَالَ حَدَّثَنَا ابْنُ عَبَّاسٍ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ عُرِضَتْ عَلَىَّ الأُمَمُ، فَجَعَلَ النَّبِيُّ وَالنَّبِيَّانِ يَمُرُّونَ مَعَهُمُ الرَّهْطُ، وَالنَّبِيُّ لَيْسَ مَعَهُ أَحَدٌ، حَتَّى رُفِعَ لِي سَوَادٌ عَظِيمٌ، قُلْتُ مَا هَذَا أُمَّتِي هَذِهِ قِيلَ هَذَا مُوسَى وَقَوْمُهُ‏.‏ قِيلَ انْظُرْ إِلَى الأُفُقِ‏.‏ فَإِذَا سَوَادٌ يَمْلأُ الأُفُقَ، ثُمَّ قِيلَ لِي انْظُرْ هَا هُنَا وَهَا هُنَا فِي آفَاقِ السَّمَاءِ فَإِذَا سَوَادٌ قَدْ مَلأَ الأُفُقَ قِيلَ هَذِهِ أُمَّتُكَ وَيَدْخُلُ الْجَنَّةَ مِنْ هَؤُلاَءِ سَبْعُونَ أَلْفًا بِغَيْرِ حِسَابٍ، ثُمَّ دَخَلَ وَلَمْ يُبَيِّنْ لَهُمْ فَأَفَاضَ الْقَوْمُ وَقَالُوا نَحْنُ الَّذِينَ آمَنَّا بِاللَّهِ، وَاتَّبَعْنَا رَسُولَهُ، فَنَحْنُ هُمْ أَوْ أَوْلاَدُنَا الَّذِينَ وُلِدُوا فِي الإِسْلاَمِ فَإِنَّا وُلِدْنَا فِي الْجَاهِلِيَّةِ‏.‏ فَبَلَغَ النَّبِيَّ صلى الله عليه وسلم فَخَرَجَ فَقَالَ هُمُ الَّذِينَ لاَ يَسْتَرْقُونَ، وَلاَ يَتَطَيَّرُونَ، وَلاَ يَكْتَوُونَ وَعَلَى رَبِّهِمْ يَتَوَكَّلُونَ ‏\"‏‏.‏ فَقَالَ عُكَّاشَةُ بْنُ مِحْصَنٍ أَمِنْهُمْ أَنَا يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ نَعَمْ ‏\"‏‏.‏ فَقَامَ آخَرُ فَقَالَ أَمِنْهُمْ أَنَا قَالَ ‏\"‏ سَبَقَكَ عُكَّاشَةُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5466,
+                "hadithNumber": "5706",
+                "englishNarrator": "Narrated Um Salama رضی اللہ عنہا :",
+                "hadithEnglish": "The husband of a lady died and her eyes became sore and the people mentioned her story to the Prophet They asked him whether it was permissible for her to use kohl as her eyes were exposed to danger. He said, \"Previously, when one of you was bereaved by a husband she would stay in her dirty clothes in a bad unhealthy house (for one year), and when a dog passed by, she would throw a globe of dung. No, (she should observe the prescribed period Idda) for four months and ten days.'",
+                "hadithUrdu": "ایک عورت کے شوہر کا انتقال ہو گیا ( زمانہ عدت میں ) اس عورت کی آنکھ دکھنے لگی تو لوگوں نے اس کا ذکر نبی کریم صلی اللہ علیہ وسلم سے کیا ۔ ان لوگوں نے آنحضرت صلی اللہ علیہ وسلم کے سامنے سرمہ کا ذکر کیا اور یہ کہ ( اگر سرمہ آنکھ میں نہ لگایا تو ) ان کی آنکھ کے متعلق خطرہ ہے ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ ( زمانہ جاہلیت میں ) عدت گزارنے والی تم عورتوں کے اپنے گھر میں سب سے بد تر کپڑے میں پڑا رہنا پڑتا تھا یا ( آپ نے یہ فرمایا کہ ) اپنے کپڑوں میں گھر کے سب سے بد تر حصہ میں پڑا رہنا پڑتا تھا پھر جب کوئی کتا گزرتا تو اس پروہ مینگنی پھینک کر مارتی ( تب عدت سے باہر ہوتی ) پس چار مہینے دس دن تک سرمہ نہ لگاؤ ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیا ، کہا ہم سے یحییٰ بن سعیدقطان نے بیان کیا ، ان سے شعبہ نے بیان کیا کہ مجھ سے حمید بن نافع نے بیان کیا ، ان سے حضرت زینب رضی اللہ عنہا نے اور ان سے حضرت ام سلمہ رضی اللہ عنہا نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، قَالَ حَدَّثَنِي حُمَيْدُ بْنُ نَافِعٍ، عَنْ زَيْنَبَ، عَنْ أُمِّ سَلَمَةَ ـ رضى الله عنها ـ أَنَّ امْرَأَةً تُوُفِّيَ زَوْجُهَا فَاشْتَكَتْ عَيْنَهَا، فَذَكَرُوهَا لِلنَّبِيِّ صلى الله عليه وسلم وَذَكَرُوا لَهُ الْكُحْلَ، وَأَنَّهُ يُخَافُ عَلَى عَيْنِهَا، فَقَالَ ‏ \"‏ لَقَدْ كَانَتْ إِحْدَاكُنَّ تَمْكُثُ فِي بَيْتِهَا فِي شَرِّ أَحْلاَسِهَا ـ أَوْ فِي أَحْلاَسِهَا فِي شَرِّ بَيْتِهَا ـ فَإِذَا مَرَّ كَلْبٌ رَمَتْ بَعْرَةً، فَلاَ، أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا ‏\"‏‏.‏",
+                "headingArabic": "الإِثْمِدِ وَالْكُحْلِ مِنَ الرَّمَدِ",
+                "headingUrdu": "آنکھوں میں تکلیف کے باعث اثمد اور سرمہ لگانا",
+                "headingEnglish": "To treat opthalmia with antimony or kohl",
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5467,
+                "hadithNumber": "5707",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"(There is) no 'Adwa (no contagious disease is conveyed without Allah's permission). nor is there any bad omen (from birds), nor is there any Hamah, nor is there any bad omen in the month of Safar, and one should run away from the leper as one runs away from a lion.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا چھوت لگنا ، بدشگونی لینا ، الو کا منحوس ہونا اور صفر کا منحوس ہونا یہ سب لغو خیالات ہیں البتہ جذامی شخص سے ایسے بھاگتاہے جیسے کہ شیر سے بھاگتا ہے ۔",
+                "urduNarrator": "اور عفان بن مسلم ( امام بخاری کے شیخ ) نے کہا ( ان کو ابونعیم نے وصل کیا ) ہے کہ ہم سے سلیم بن حیان نے بیان کیا ، ان سے سعید بن میناء نے بیان کیا ، کہا کہ میں نے حضرت ابوہریرہ رضی اللہ عنہ سے سنا ، انہوں نے بیان کیا کہ",
+                "hadithArabic": "وَقَالَ عَفَّانُ حَدَّثَنَا سَلِيمُ بْنُ حَيَّانَ، حَدَّثَنَا سَعِيدُ بْنُ مِينَاءَ، قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ عَدْوَى وَلاَ طِيَرَةَ وَلاَ هَامَةَ وَلاَ صَفَرَ، وَفِرَّ مِنَ الْمَجْذُومِ كَمَا تَفِرُّ مِنَ الأَسَدِ ‏\"‏‏.‏",
+                "headingArabic": "الْجُذَامِ",
+                "headingUrdu": "جذام",
+                "headingEnglish": "Leprosy",
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5468,
+                "hadithNumber": "5708",
+                "englishNarrator": "Narrated Sa`id bin Zaid رضی اللہ عنہ :",
+                "hadithEnglish": "I heard the Prophet (ﷺ) saying, \"Truffles are like Manna (i.e. they grow naturally without man's care) and their water heals eye diseases.\" Shobah, Hakam bin Otaibah, Hasan Al-Oraniyya, Amr bin Huraith, Hadrat Saeed bin Zaid reported the same from the prophet ﷺ. Shobah says: When Hakam (bin Otaibah) told me this Hadith of Abdul Malik, I did not disapprove it.",
+                "hadithUrdu": "میں نے نبی کریم صلی اللہ علیہ وسلم سے سنا ، آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ کھنبی من میں سے ہے اور اس کا پانی آنکھ کے لیے شفاء ہے ۔ اسی سند سے شعبہ نے بیان کیا کہ مجھے حکم بن عتیبہ نے خبر دی ، انہیں حسن بن عبداللہ عرنی نے ، انہیں عمرو بن حریث نے اور انہیں سعید بن زید رضی اللہ عنہ نے اور انہیں نبی کریم صلی اللہ علیہ وسلم نے یہی حدیث بیان کی ، شعبہ نے کہا کہ جب حکم نے بھی مجھ سے یہ حدیث بیان کر دی تو پھر عبدالملک بن عمیر کی روایت پر مجھکو اعتماد ہو گیا کیونکہ عبدالملک کا حافظہ آخر میں بگڑ گیا تھا شعبہ کو صرف اس کی روایت پر بھروسہ نہ رہا ۔",
+                "urduNarrator": "ہم سے محمد بن مثنیٰ نے بیان کیا ، کہا ہم سے غندر نے بیان کیا کہا ہم سے شعبہ نے بیان کیا ، ان سے عبدالملک بن عمیر نے کہا کہ میں نے عمرو بن حریث سے سنا ، کہا کہ میں نے حضرت سعید بن زید رضی اللہ عنہ سے سنا ، انہوں نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ الْمَلِكِ، سَمِعْتُ عَمْرَو بْنَ حُرَيْثٍ، قَالَ سَمِعْتُ سَعِيدَ بْنَ زَيْدٍ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ الْكَمْأَةُ مِنَ الْمَنِّ، وَمَاؤُهَا شِفَاءٌ لِلْعَيْنِ ‏\"‏‏.‏ قَالَ شُعْبَةُ وَأَخْبَرَنِي الْحَكَمُ بْنُ عُتَيْبَةَ عَنِ الْحَسَنِ الْعُرَنِيِّ عَنْ عَمْرِو بْنِ حُرَيْثٍ عَنْ سَعِيدِ بْنِ زَيْدٍ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏ قَالَ شُعْبَةُ لَمَّا حَدَّثَنِي بِهِ الْحَكَمُ لَمْ أُنْكِرْهُ مِنْ حَدِيثِ عَبْدِ الْمَلِكِ‏.‏",
+                "headingArabic": "الْمَنُّ شِفَاءٌ لِلْعَيْنِ",
+                "headingUrdu": "المنان آنکھوں کی بیماریوں کو دور کرتا ہے۔",
+                "headingEnglish": "Al-Mann heals eye diseases",
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5469,
+                "hadithNumber": "5709, 5710, 5711",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما and `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "Abu Bakr رضی اللہ عنہ kissed (the forehead of) the Prophet (ﷺ) when he was dead.",
+                "hadithUrdu": "حضرت ابوبکر رضی اللہ عنہ نے نبی کریم صلی اللہ علیہ وسلم کی نعش مبارک کو بوسہ دیا ۔ جب آپ صلی اللہ علیہ وسلم وفات پا چکے تھے۔",
+                "urduNarrator": "ہم سے علی بن عبداللہ مدینی نے بیان کیا ، انہوں نے کہا ہم سے یحییٰ بن سعید قطان نے بیان کیا ، کہا ہم سے سفیان ثوری نے بیان کیا ، کہا کہ مجھ سے موسیٰ بن ابی عائشہ نے بیان کیا ، ان سے عبیداللہ بن عبداللہ نے اور ان سے حضرت ابن عباس رضی اللہ عنہما اور حضرت عائشہ رضی اللہ عنہا نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنِي مُوسَى بْنُ أَبِي عَائِشَةَ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، وَعَائِشَةَ، أَنَّ أَبَا بَكْرٍ ـ رضى الله عنه ـ قَبَّلَ النَّبِيَّ صلى الله عليه وسلم وَهْوَ مَيِّتٌ‏.",
+                "headingArabic": "اللَّدُودِ",
+                "headingUrdu": "باب: الدود (وہ دوا جو مریض کے منہ کے ایک طرف ڈالی جاتی ہے یا ڈالی جاتی ہے)",
+                "headingEnglish": "Al-Ladud (the medicine which is poured or inserted into one side of a patientâ€™s mouth)",
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5470,
+                "hadithNumber": "5713",
+                "englishNarrator": "Narrated Um Qais:",
+                "hadithEnglish": "I went to Allah's Messenger (ﷺ) along with a a son of mine whose palate and tonsils I had pressed with my finger as a treatment for a (throat and tonsil) disease. The Prophet (ﷺ) said, \"Why do you pain your children by pressing their throats! Use Ud Al-Hindi (certain Indian incense) for it cures seven diseases, one of which is pleurisy. It is used as a snuff for treating throat and tonsil disease and it is inserted into one side of the mouth of one suffering from pleurisy.\"\r\nSo, I (Sufyan) heard Zuhri say: He narrated to us only two diseases and did not express five. I (Ali bin Abdullah) said to Sufyan that Mamar said: Aalaqtu Alaihi. He said he had not remembered for it is \"Aalaqtu Unhu\" which I have learnt hearing from the mouth of Zuhri. And Sufyan narrated the condition of the boy in the way his throat was pressed with the fingers, and Sufyan inserted the finger in his throat to display in this way the throat of the boy was pressed with the finger and he did not say: Aaliqu Unhu Shaiun.",
+                "hadithUrdu": "میں اپنے ایک لڑکے کو لے کر رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئی ۔ میں نے اس کی ناک میں بتی ڈالی تھی ، اس کا حلق دبایا تھا چونکہ اس کو گلے کی بیماری ہو گئی تھی آپ نے فرمایاتم اپنے بچوں کو انگلی سے حلق دبا کر کیوںتکلیف دیتی ہو یہ عود ہندی لو اس میں سات بیماریوں کی شفاء ہے ان میں ایک ذات الجنب ( پسلی کا ورم بھی ہے ) اگر حلق کی بیماری ہو تو اس کو ناک میں ڈالو اگر ذات الجنب ہو تو حلق میں ڈالو ( لدود کرو ) سفیان کہتے ہیں کہ میں نے زہری سے سنا ، آنحضرت صلی اللہ علیہ وسلم نے دو بیماریوں کو تو بیان کیا باقی پانچ بیماریوں کو بیان نہیں فرمایا ، علی بن عبداللہ مدینی نے کہا میں نے سفیان سے کہا ، معمر توزہری سے یوں نقل کرتا ہے ” اعلقت عنہ “ انہوں نے کہا کہ معمر نے یاد نہیں رکھا ۔ مجھے یادہے زہری نے یوں کہا تھاا ” اعلقت علیہ “ اورسفیان نے اس تحنیک کو بیان کیا جو بچہ کو پیدائش کے وقت کی جاتی ہے سفیان نے انگلی حلق میں ڈال کر اپنے کو لے کو انگلی سے اٹھایا تو سفیان نے اعلاق کا معنی بچے کے حلق میں انگلی ڈال کرتالو کو اٹھایا انہوں نے یہ نہیں کہا ” اعلقوا عنہ شیئا “ ۔",
+                "urduNarrator": "ہم سے علی بن عبداللہ مدینی نے بیان کیا ، کہا ہم سے سفیان بن عیینہ نے ، ان سے زہری نے ، کہا مجھ کوعبیداللہ بن عبداللہ بن عتبہ نے خبر دی اور انہیں ام قیس رضی اللہ عنہا نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، أَخْبَرَنِي عُبَيْدُ اللَّهِ، عَنْ أُمِّ قَيْسٍ، قَالَتْ دَخَلْتُ بِابْنٍ لِي عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَقَدْ أَعْلَقْتُ عَلَيْهِ مِنَ الْعُذْرَةِ فَقَالَ ‏ \"‏ عَلَى مَا تَدْغَرْنَ أَوْلاَدَكُنَّ بِهَذَا الْعِلاَقِ عَلَيْكُنَّ بِهَذَا الْعُودِ الْهِنْدِيِّ، فَإِنَّ فِيهِ سَبْعَةَ أَشْفِيَةٍ، مِنْهَا ذَاتُ الْجَنْبِ يُسْعَطُ مِنَ الْعُذْرَةِ، وَيُلَدُّ مِنْ ذَاتِ الْجَنْبِ ‏\"‏‏.‏ فَسَمِعْتُ الزُّهْرِيَّ يَقُولُ بَيَّنَ لَنَا اثْنَيْنِ وَلَمْ يُبَيِّنْ لَنَا خَمْسَةً‏.‏ قُلْتُ لِسُفْيَانَ فَإِنَّ مَعْمَرًا يَقُولُ أَعْلَقْتُ عَلَيْهِ‏.‏ قَالَ لَمْ يَحْفَظْ أَعْلَقْتُ عَنْهُ، حَفِظْتُهُ مِنْ فِي الزُّهْرِيِّ‏.‏ وَوَصَفَ سُفْيَانُ الْغُلاَمَ يُحَنَّكُ بِالإِصْبَعِ وَأَدْخَلَ سُفْيَانُ فِي حَنَكِهِ، إِنَّمَا يَعْنِي رَفْعَ حَنَكِهِ بِإِصْبَعِهِ، وَلَمْ يَقُلْ أَعْلِقُوا عَنْهُ شَيْئًا‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5471,
+                "hadithNumber": "5714",
+                "englishNarrator": "Narrated `Aisha (the wife of the Prophet) رضی اللہ عنہا :",
+                "hadithEnglish": "When the health of Allah's Messenger (ﷺ) deteriorated and his condition became serious, he asked the permission of all his wives to allow him to be treated In my house, and they allowed him. He came out, supported by two men and his legs were dragging on the ground between `Abbas and another man. (The sub-narrator told Ibn `Abbas رضی اللہ عنہما who said: Do you know who was the other man whom `Aisha did not mention? The sub-narrator said: No. Ibn `Abbas رضی اللہ عنہما said: It was `Ali.) `Aisha رضی اللہ عنہا added: When the Prophet entered my house and his disease became aggravated, he said, \"Pour on me seven water skins full of water (the tying ribbons of which had not been untied) so that I may give some advice to the people.\" So we made him sit in a tub belonging to Hafsa رضی اللہ عنہا, the wife of the Prophet (ﷺ) and started pouring water on him from those water skins till he waved us to stop. Then he went out to the people and led them in prayer and delivered a speech before them.",
+                "hadithUrdu": "جب ( مرض الموت میں ) رسول اللہ صلی اللہ علیہ وسلم کے لیے چلنا پھرنا دشوار ہو گیا اور آپ کی تکلیف بڑھ گئی تو آپ نے بیماری کے دن میرے گھر میں گزارنے کی اجازت اپنی دوسری بیویوں سے مانگی جب اجازت مل گئی تو آنحضرت صلی اللہ علیہ وسلم دواشخاص حضرت عباس رضی اللہ عنہ اور ایک صاحب کے درمیاں ان کا سہارا لے کر باہر تشرےف لائے ، آپ کے مبارک قدم زمین پر گھسٹ رہے تھے ۔ میں نے حضرت ابن عباس رضی اللہ عنہما سے اس کا ذکر کیا تو انہوں نے کہا تمہیں معلوم ہے وہ دوسرے صاحب کون تھے جن کا عائشہ رضی اللہ عنہا نے نام نہیں بتایا ، میں نے کہا کہ نہیں کہا کہ وہ علی رضی اللہ عنہ تھے ۔ حضرت عائشہ رضی اللہ عنہا نے کہا کہ ان کے حجرے میں داخل ہونے کے بعد نبی کریم صلی اللہ علیہ وسلم نے فرمایا جبکہ آپ کا مرض بڑھ گیا تھا کہ مجھ پر سات مشک ڈالو جو پانی سے لبریز ہوں ۔ شاید میں لوگوں کو کچھ نصیحت کر سکوں ۔ بیان کیا کہ پھر آنحضرت صلی اللہ علیہ وسلم کو ہم نے ایک لگن میں بٹھایا جو آنحضرت صلی اللہ علیہ وسلم کی زوجہ مطہرہ حضرت حفصہ رضی اللہ عنہ کا تھا اور آپ پر حکم کے مطابق مشکوں سے پانی ڈالنے لگے آخر آپ نے ہمیں اشارہ کیا کہ بس ہو چکا ۔ بیان کیا کہ پھر آنحضرت صلی اللہ علیہ وسلم صحابہ کے مجمع میں گئے ، انہیں نماز پڑھائی اور انہیں خطاب فرمایا ۔",
+                "urduNarrator": "ہم سے بشر بن محمد نے بیان کیا ، کہا ہم کوعبداللہ بن مبارک نے خبر دی ، کہا ہم کو معمر اوریونس نے خبر دی ، ان سے زہری نے بیان کیا کہ مجھ کو عبیداللہ بن عبداللہ بن عتبہ نے خبر دی اور ان سے نبی کریم صلی اللہ علیہ وسلم کی زوجہ مطہرہ حضرت عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا بِشْرُ بْنُ مُحَمَّدٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا مَعْمَرٌ، وَيُونُسُ، قَالَ الزُّهْرِيُّ أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، أَنَّ عَائِشَةَ ـ رضى الله عنها ـ زَوْجَ النَّبِيِّ صلى الله عليه وسلم قَالَتْ لَمَّا ثَقُلَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَاشْتَدَّ وَجَعُهُ، اسْتَأْذَنَ أَزْوَاجَهُ فِي أَنْ يُمَرَّضَ فِي بَيْتِي، فَأَذِنَّ، فَخَرَجَ بَيْنَ رَجُلَيْنِ، تَخُطُّ رِجْلاَهُ فِي الأَرْضِ بَيْنَ عَبَّاسٍ وَآخَرَ‏.‏ فَأَخْبَرْتُ ابْنَ عَبَّاسٍ قَالَ هَلْ تَدْرِي مَنِ الرَّجُلُ الآخَرُ الَّذِي لَمْ تُسَمِّ عَائِشَةُ قُلْتُ لاَ‏.‏ قَالَ هُوَ عَلِيٌّ‏.‏ قَالَتْ عَائِشَةُ فَقَالَ النَّبِيُّ صلى الله عليه وسلم بَعْدَ مَا دَخَلَ بَيْتَهَا وَاشْتَدَّ بِهِ وَجَعُهُ ‏ \"‏ هَرِيقُوا عَلَىَّ مِنْ سَبْعِ قِرَبٍ لَمْ تُحْلَلْ أَوْكِيَتُهُنَّ، لَعَلِّي أَعْهَدُ إِلَى النَّاسِ ‏\"‏‏.‏ قَالَتْ فَأَجْلَسْنَاهُ فِي مِخْضَبٍ لِحَفْصَةَ زَوْجِ النَّبِيِّ صلى الله عليه وسلم ثُمَّ طَفِقْنَا نَصُبُّ عَلَيْهِ مِنْ تِلْكَ الْقِرَبِ، حَتَّى جَعَلَ يُشِيرُ إِلَيْنَا أَنْ قَدْ فَعَلْتُنَّ‏.‏ قَالَتْ وَخَرَجَ إِلَى النَّاسِ فَصَلَّى لَهُمْ وَخَطَبَهُمْ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5472,
+                "hadithNumber": "5715",
+                "englishNarrator": "Narrated Um Qais:",
+                "hadithEnglish": "Having associated with with Asad Khuzaimah and one of those women who first of all emigrated and took an oath of allegiance to the prophet ﷺ, and she is Hadrat Ukkashah's sisiter. She said that she took to Allah's Messenger (ﷺ) one of her sons whose palate and tonsils she had pressed because he had throat trouble. The Prophet (ﷺ) said, \"Why do you pain your children by getting the palate pressed like that? Use the Ud Al-Hindi (certain Indian incense) for it cures seven diseases one of which is pleurisy.\" Oud-e-Hindi means Kust. Younus and Ishaq bin Rashid reports '' Allaqat Alaihi'' from Zuhri.",
+                "hadithUrdu": "ان کا تعلق قبیلہ خزیمہ کی شاخ بن اسد سے تھا وہ ان ابتدائی مہاجرات میں سے تھیں جنہوں نے نبی کریم صلی اللہ علیہ وسلم سے بیعت کی تھی ۔ آپ عکاشہ بن محصن رضی اللہ عنہ کی بہن ہیں ( انہوں نے بیان کیا کہ ) وہ رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں اپنے ایک بیٹے کو لے کر آئیں ۔ انہوں نے اپنے لڑکے کے عذرہ کا علاج تالو دبا کرکیا تھا آنحضرت صلی اللہ علیہ وسلم نے فرمایا آخر تم عورتیں کیوں اپنی اولاد کو یوں تالو دبا کر تکلیف پہنچاتی ہو ۔ تمہیں چاہیئے کہ اس مرض میں عود ہندی کا استعمال کیا کروکیونکہ اس میں سات بیماریوں سے شفاء ہے ۔ ان میں ایک ذات الجنب کی بیماری بھی ہے ( عود ہندی سے ) آنحضرت صلی اللہ علیہ وسلم کی مراد کست تھی یہی عود ہندی ہے ۔ اوریونس اور اسحاق بن راشد نے بیان کیا اور ان سے زہری نے اس روایت میں بجائے اعلقت علیہ کے علقت علیہ نقل کیا ہے ۔",
+                "urduNarrator": "ہم سے ابوالیمان نے بیان کیا ، کہا ہم کو شعیب نے خبر دی ، انہیں زہری نے کہا کہ مجھے عبیداللہ بن عبداللہ بن عتبہ نے خبر دی کہ ام قیس بنت محصن اسدیہ نے انہیں خبر دی ،",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ، أَنَّ أُمَّ قَيْسٍ بِنْتَ مِحْصَنٍ الأَسَدِيَّةَ ـ أَسَدَ خُزَيْمَةَ، وَكَانَتْ مِنَ الْمُهَاجِرَاتِ الأُوَلِ اللاَّتِي بَايَعْنَ النَّبِيَّ صلى الله عليه وسلم وَهْىَ أُخْتُ عُكَّاشَةَ ـ أَخْبَرَتْهُ أَنَّهَا أَتَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم بِابْنٍ لَهَا، قَدْ أَعْلَقَتْ عَلَيْهِ مِنَ الْعُذْرَةِ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ عَلَى مَا تَدْغَرْنَ أَوْلاَدَكُنَّ بِهَذَا الْعِلاَقِ عَلَيْكُمْ بِهَذَا الْعُودِ الْهِنْدِيِّ، فَإِنَّ فِيهِ سَبْعَةَ أَشْفِيَةٍ مِنْهَا ذَاتُ الْجَنْبِ ‏\"‏‏.‏ يُرِيدُ الْكُسْتَ، وَهْوَ الْعُودُ الْهِنْدِيُّ‏.‏ وَقَالَ يُونُسُ وَإِسْحَاقُ بْنُ رَاشِدٍ عَنِ الزُّهْرِيِّ عَلَّقَتْ عَلَيْهِ‏.‏",
+                "headingArabic": "الْعُذْرَةِ",
+                "headingUrdu": "تالوگر جانے کابیان",
+                "headingEnglish": "Al-Udhra (throat or tonsil diseases)",
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5473,
+                "hadithNumber": "5716",
+                "englishNarrator": "Narrated Abu Sa`id رضی اللہ عنہ :",
+                "hadithEnglish": "A man came to the prophet and said, 'My brother has got loose motions. The Prophet (ﷺ) said, Let him drink honey.\" The man again (came) and said, 'I made him drink (honey) but that made him worse.' The Prophet (ﷺ) said, 'Allah has said the Truth, and the `Abdomen of your brother has told a lie.\" Nadr has reported likewise from Shobah.",
+                "hadithUrdu": "ایک صاحب رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے اور عرض کیا کہ میرے بھائی کو دست آ رہے ہیں آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ انہیں شہد پلاؤ ۔ انہوں نے پلایا اور پھر واپس آ کر کہا کہ میں نے انہیں شہد پلایا لیکن ان کے دستوں میں کوئی کمی نہیں ہوئی ۔ آپ نے اس پر فرمایا کہ اللہ تعالیٰ نے سچ فرمایا اور تمہارے بھائی کا پیٹ جھوٹا ہے ( آخر شہد ہی سے اسے شفاء ہوئی ) محمد بن جعفر کے ساتھ اس حدیث کو نضر بن شمیل نے بھی شعبہ سے روایت کیا ہے ۔",
+                "urduNarrator": "ہم سے محمد بن بشار نے بیان کیا ، کہا ہم سے محمد بن جعفر نے بیان کیا ، ان سے شعبہ نے بیان کیا ، ان سے قتادہ نے ، ان سے ابو المتوکل نے اور ان سے حضرت ابوسعید رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَبِي الْمُتَوَكِّلِ، عَنْ أَبِي سَعِيدٍ، قَالَ جَاءَ رَجُلٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ إِنَّ أَخِي اسْتَطْلَقَ بَطْنُهُ‏.‏ فَقَالَ ‏\"‏ اسْقِهِ عَسَلاً ‏\"‏‏.‏ فَسَقَاهُ‏.‏ فَقَالَ إِنِّي سَقَيْتُهُ فَلَمْ يَزِدْهُ إِلاَّ اسْتِطْلاَقًا‏.‏ فَقَالَ ‏\"‏ صَدَقَ اللَّهُ وَكَذَبَ بَطْنُ أَخِيكَ ‏\"‏‏.‏ تَابَعَهُ النَّضْرُ عَنْ شُعْبَةَ‏.‏",
+                "headingArabic": "دَوَاءِ الْمَبْطُونِ",
+                "headingUrdu": "اسہال میں مبتلا شخص کا علاج",
+                "headingEnglish": "The treatment for a person suffering from diarrhea",
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5474,
+                "hadithNumber": "5717",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, 'There is no 'Adwa (no disease is conveyed from the sick to the healthy without Allah's permission), nor Safar, nor Hama.\" A bedouin stood up and said, \"Then what about my camels? They are like deer on the sand, but when a mangy camel comes and mixes with them, they all get infected with mangy.\" The Prophet (ﷺ) said, \"Then who conveyed the (mange) disease to the first one?\" Zuhri, too, has reported it from Abu Salamah and Sinan bin Sinan.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا امراض میں چھوت چھات صفر اور الو کی نحو ست کی کوئی اصل نہیں اس پر ایک اعرابی بولا کہ کہ یا رسول اللہ ! پھر میرے اونٹوں کو کیا ہو گیا کہ وہ جب تک ریگستان میں رہتے ہیں تو ہر نوں کی طرح ( صاف اور خوب چکنے ) رہتے ہیں پھر ان میں ایک خارش والا اونٹ آ جاتا ہے اور ان میں گھس کر انہیں بھی خارش لگا جاتا ہے تو آنحضرت صلی اللہ علیہ وسلم نے اس پر فرمایا لیکن یہ بتاؤ کہ پہلے اونٹ کو کس نے خارش لگائی تھی ؟ اس کی روایت زہری نے ابوسلمہ اور حضرت سنان بن سنان کے واسطہ سے کی ہے ۔",
+                "urduNarrator": "ہم سے عبدالعزیز بن عبداللہ نے بیان کیا ، کہا ہم سے ابراہیم بن سعد نے بیان کیا ، ان سے صالح نے ، ان سے ابن شہاب نے بیان کیا ، انہیں ابوسلمہ بن عبدالرحمٰن وغیرہ نے خبر دی اور ان سے حضرت ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، وَغَيْرُهُ، أَنَّ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ لاَ عَدْوَى وَلاَ صَفَرَ وَلاَ هَامَةَ ‏\"‏‏.‏ فَقَالَ أَعْرَابِيٌّ يَا رَسُولَ اللَّهِ فَمَا بَالُ إِبِلِي تَكُونُ فِي الرَّمْلِ كَأَنَّهَا الظِّبَاءُ فَيَأْتِي الْبَعِيرُ الأَجْرَبُ فَيَدْخُلُ بَيْنَهَا فَيُجْرِبُهَا‏.‏ فَقَالَ ‏\"‏ فَمَنْ أَعْدَى الأَوَّلَ ‏\"‏‏.‏ رَوَاهُ الزُّهْرِيُّ عَنْ أَبِي سَلَمَةَ وَسِنَانِ بْنِ أَبِي سِنَانٍ‏.‏",
+                "headingArabic": "لاَ صَفَرَ، وَهْوَ دَاءٌ يَأْخُذُ الْبَطْنَ",
+                "headingUrdu": "صفر کی کوئی بیماری نہیں ہے جو پیٹ کو لگتی ہے۔",
+                "headingEnglish": "There is no Safar disease that afflicts the abdomen",
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5475,
+                "hadithNumber": "5718",
+                "englishNarrator": "Narrated Ukkashah bin Mihsan رضی اللہ عنہ :",
+                "hadithEnglish": "She took to Allah's Messenger (ﷺ) one of her sons whose palate and tonsils she had pressed to treat a throat trouble. The Prophet (ﷺ) said, \"Be afraid of Allah! Why do you pain your children by having their tonsils pressed like that? Use the Ud Al-Hindi (a certain Indian incense) for it cures seven diseases, one of which is pleurisy.\" Al- Kust means Al-Qust and it is used in both ways.",
+                "hadithUrdu": "وہ رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں اپنے بیٹے کو لے کر حاضر ہوئیں ۔ انہوں نے اس بچے کا کوا گرنے میں تالو دبا کر علاج کیا تھا ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا اللہ سے ڈرو کہ تم اپنی اولاد کو اس طرح تالو دبا کر تکلیف پہنچاتی ہو عود ہندی ( کوٹ ) اس میں استعمال کرو کیونکہ اس میں سات بیماریوں کے لیے شفاء ہے جن میں سے ایک نمونیہ بھی ہے ۔ آنحضرت صلی اللہ علیہ وسلم کی مراد عود ہندی سے کست تھی جسے قسط بھی کہتے ہیں یہ بھی ایک لغت ہے ۔",
+                "urduNarrator": "ہم سے محمد بن یحییٰ نے بیان کیا ، کہا ہم کو عتاب بن بشیر نے خبر دی ، انہیں اسحاق نے ، ان سے زہری نے بیان کیا کہ مجھ کو عبیداللہ بن عبداللہ نے خبر دی کہ ام قیس بنت محصن جو پہلے پہل ہجرت کرنے والی عورتوں میں سے تھیں جنہوں نے رسول اللہ صلی اللہ علیہ وسلم سے بیعت کی تھی اور وہ حضرت عکاشہ بن محصن رضی اللہ عنہ کی بہن تھیں ، خبر دی کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدٌ، أَخْبَرَنَا عَتَّابُ بْنُ بَشِيرٍ، عَنْ إِسْحَاقَ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ، أَنَّ أُمَّ قَيْسٍ بِنْتَ مِحْصَنٍ،، وَكَانَتْ، مِنَ الْمُهَاجِرَاتِ الأُوَلِ اللاَّتِي بَايَعْنَ رَسُولَ اللَّهِ صلى الله عليه وسلم وَهْىَ أُخْتُ عُكَّاشَةَ بْنِ مِحْصَنٍ أَخْبَرَتْهُ أَنَّهَا أَتَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم بِابْنٍ لَهَا قَدْ عَلَّقَتْ عَلَيْهِ مِنَ الْعُذْرَةِ فَقَالَ ‏ \"‏ اتَّقُوا اللَّهَ، عَلَى مَا تَدْغَرُونَ أَوْلاَدَكُمْ بِهَذِهِ الأَعْلاَقِ عَلَيْكُمْ بِهَذَا الْعُودِ الْهِنْدِيِّ، فَإِنَّ فِيهِ سَبْعَةَ أَشْفِيَةٍ، مِنْهَا ذَاتُ الْجَنْبِ ‏\"‏‏.‏ يُرِيدُ الْكُسْتَ يَعْنِي الْقُسْطَ، قَالَ وَهْىَ لُغَةٌ‏.‏",
+                "headingArabic": "ذَاتِ الْجَنْبِ",
+                "headingUrdu": "ذات الجنب کا بیان",
+                "headingEnglish": "Pleurisy",
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5476,
+                "hadithNumber": "5719, 5720, 5721",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) allowed one of the Ansar families to treat persons who have taken poison and also who are suffering from ear ailment with Ruqya. Anas رضی اللہ عنہ added: I got myself branded cauterized) for pleurisy, when Allah's Messenger (ﷺ) was still alive. Abu Talha, Anas bin An-Nadr and Zaid bin Thabit witnessed that, and it was Abu Talha رضی اللہ عنہ who branded (cauterized) me.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے قبیلہ انصار کے بعض گھرانوں کو زہریلے جانوروں کے کاٹنے اور کان کی تکلیف میں جھاڑنے کی اجازت دی تھی تو انس رضی اللہ عنہ نے بیان کیا کہ ذات الجنب کی بیماری میں مجھے داغا گیا تھا رسول اللہ صلی اللہ علیہ وسلم کی زندگی میں اور اس وقت ابوطلحہ ، انس بن نضر اور زید بن ثابت رضی اللہ عنہم موجود تھے اور ابوطلحہ رضی اللہ عنہ نے مجھے داغا تھا ۔",
+                "urduNarrator": "ہم سے عارم نے بیان کیا ، کہا ہم سے حماد نے بیان کیا کہ ایوب سختیانی کے سامنے ابوقلابہ کی لکھی ہوئی احادیث پڑھی گئیں ان میں وہ احادیث بھی تھیں جنہیں ( ایوب نے ابوقلابہ سے ) بیان کیا تھا اور وہ بھی تھیں جو ان کے سامنے پڑھ کر سنائی گئی تھیں ۔ ان لکھی ہوئی احادیث کے ذخیرہ میں انس رضی اللہ عنہ کی یہ حدیث بھی تھی کہ ابوطلحہ اور انس بن نضر نے انس رضی اللہ عنہم کو داغ لگا کر ان کا علاج کیا تھا یا ابوطلحہ رضی اللہ عنہ نے ان کو خود اپنے ہاتھ سے داغا تھا ۔ اور عباد بن منصور نے بیان کیا ، ان سے ایوب نے ، ان سے ابوقلابہ نے اور ان سے انس رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَارِمٌ، حَدَّثَنَا حَمَّادٌ، قَالَ قُرِئَ عَلَى أَيُّوبَ مِنْ كُتُبِ أَبِي قِلاَبَةَ، مِنْهُ مَا حَدَّثَ بِهِ وَمِنْهُ مَا قُرِئَ عَلَيْهِ، وَكَانَ هَذَا فِي الْكِتَابِ عَنْ أَنَسٍ أَنَّ أَبَا طَلْحَةَ وَأَنَسَ بْنَ النَّضْرِ كَوَيَاهُ، وَكَوَاهُ أَبُو طَلْحَةَ بِيَدِهِ‏.‏ وَقَالَ عَبَّادُ بْنُ مَنْصُورٍ عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ أَذِنَ رَسُولُ اللَّهِ صلى الله عليه وسلم لأَهْلِ بَيْتٍ مِنَ الأَنْصَارِ أَنْ يَرْقُوا مِنَ الْحُمَةِ وَالأُذُنِ‏.‏ قَالَ أَنَسٌ كُوِيتُ مِنْ ذَاتِ الْجَنْبِ وَرَسُولُ اللَّهِ صلى الله عليه وسلم حَىٌّ، وَشَهِدَنِي أَبُو طَلْحَةَ وَأَنَسُ بْنُ النَّضْرِ وَزَيْدُ بْنُ ثَابِتٍ، وَأَبُو طَلْحَةَ كَوَانِي‏.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5477,
+                "hadithNumber": "5722",
+                "englishNarrator": "Narrated Sahl bin Saud As-Sa`idi رضی اللہ عنہ :",
+                "hadithEnglish": "When the helmet broke on the head of the Prophet (ﷺ) and his face became covered with blood and his incisor tooth broke (i.e. during the battle of Uhud), `Ali رضی اللہ عنہ used to bring water in his shield while Fatima رضی اللہ عنہا was washing the blood off his face. When Fatima رضی اللہ عنہا saw that the bleeding increased because of the water, she took a mat (of palm leaves), burnt it, and stuck it (the burnt ashes) on the wound of Allah's Apostle, whereupon the bleeding stopped.",
+                "hadithUrdu": "جب رسول اللہ صلی اللہ علیہ وسلم کے سر پر ( احد کے دن ) خود ٹوٹ گیا آپ کا مبارک چہرہ خون آلود ہو گیا اور سامنے کے دانت ٹوٹ گئے تو حضرت علی رضی اللہ عنہ ڈھال بھربھر کر پانی لاتے تھے اور حضرت فاطمہ رضی اللہ عنہا آپ کے چہرہ مبارک سے خون دھو رہی تھیں ۔ پھر جب حضرت فاطمہ رضی اللہ عنہا نے دیکھا کہ خون پانی سے بھی زیادہ آ رہا ہے تو انہوں نے ایک بوریا جلا کر رسول اللہ صلی اللہ علیہ وسلم کے زخموں پر لگایا اور اس سے خون رکا ۔",
+                "urduNarrator": "مجھ سے سعید بن عفیر نے بیان کیا ، انہوں نے کہا ہم سے یعقوب بن عبدالرحمٰن نے بیان کیا ، ان سے ابوحازم نے بیان کیا ، اور ان سے سہل بن سعد ساعدی رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي سَعِيدُ بْنُ عُفَيْرٍ، حَدَّثَنَا يَعْقُوبُ بْنُ عَبْدِ الرَّحْمَنِ الْقَارِيُّ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ، قَالَ لَمَّا كُسِرَتْ عَلَى رَأْسِ رَسُولِ اللَّهِ صلى الله عليه وسلم الْبَيْضَةُ، وَأُدْمِيَ وَجْهُهُ، وَكُسِرَتْ رَبَاعِيَتُهُ، وَكَانَ عَلِيٌّ يَخْتَلِفُ بِالْمَاءِ فِي الْمِجَنِّ، وَجَاءَتْ فَاطِمَةُ تَغْسِلُ عَنْ وَجْهِهِ الدَّمَ، فَلَمَّا رَأَتْ فَاطِمَةُ ـ عَلَيْهَا السَّلاَمُ ـ الدَّمَ يَزِيدُ عَلَى الْمَاءِ كَثْرَةً عَمَدَتْ إِلَى حَصِيرٍ فَأَحْرَقَتْهَا وَأَلْصَقَتْهَا عَلَى جُرْحِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَرَقَأَ الدَّمُ‏.‏",
+                "headingArabic": "حَرْقِ الْحَصِيرِ لِيُسَدَّ بِهِ الدَّمُ",
+                "headingUrdu": "خون بہنا روکنے کے لیے چٹائی جلانا",
+                "headingEnglish": "To burn a mat to stop bleeding",
+                "chapterId": "77",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 77,
+                    "chapterNumber": "77",
+                    "chapterEnglish": "Medicine",
+                    "chapterUrdu": "دوا اور علاج کے بیان میں",
+                    "chapterArabic": "كتاب الطب",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 5451,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=218",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=216",
+                "label": "216",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=217",
+                "label": "217",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=218",
+                "label": "218",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=219",
+                "label": "219",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=220",
+                "label": "220",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=221",
+                "label": "221",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=222",
+                "label": "222",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=220",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=220",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=218",
+        "to": 5475,
+        "total": 40465
+    }
+}

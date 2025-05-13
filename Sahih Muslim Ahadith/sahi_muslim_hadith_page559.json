@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 559,
+        "data": [
+            {
+                "id": 14239,
+                "hadithNumber": "6676",
+                "englishNarrator": null,
+                "hadithEnglish": "A Hadith like that of Jawairiya was narrated from Ibn Umar رضی اللہ عنہ, from the prophet ﷺ.",
+                "hadithUrdu": "مجھے ہارون بن عبداللہ اور عبداللہ بن جعفر بن یحییٰ بن خالد سب نے معن بن عیسیٰ کی سند سے بیان کیا, امام مالک بن انس نے نافع سے ، انہوں نے حضرت ابن عمر رضی اللہ عنہ سے ، انہوں نے نبی صلی اللہ علیہ وسلم سے ، جویریہ کی حدیث کے ہم معنی روایت کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنِي هَارُونُ بْنُ عَبْدِ اللَّهِ وَعَبْدُ اللَّهِ بْنُ جَعْفَرِ بْنِ يَحْيَى بْنِ خَالِدٍ جَمِيعًا عَنْ مَعْنِ بْنِ عِيسَى عَنْ مَالِكِ بْنِ أَنَسٍ عَنْ نَافِعٍ عَنْ ابْنِ عُمَرَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِمَعْنَى حَدِيثِ جُوَيْرِيَةَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14240,
+                "hadithNumber": "6677",
+                "englishNarrator": "This hadith has been reported on the authority of Ibn 'Umar رضی اللہ عنہ through another chain of transmitters. And Ibn 'Umar رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying: A woman was tormented because of a cat which she had tied and thus allowed it neither to eat or drink nor set it free so that it might eat the vermin of the earth.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" ایک عورت کو بلی کے سبب عذاب دیا کیا جسے اس نے باندھا رکھا تھا ، اس نے اسے کھانے کو دیا نہ پینے کو دیا ، نہ اسے چھوڑا کہ وہ زمین کے کیڑے مکوڑے شکار سے کھا لیتی ۔ \"",
+                "urduNarrator": "مجھ سے نصر بن علی الجہدمی نے بیان کیا، ہم سے عبد الاعلٰی نے بیان کیا, عبیداللہ بن عمر نے نافع سے ، انہوں نے حضرت ابن عمر رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "و حَدَّثَنِيهِ نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ حَدَّثَنَا عَبْدُ الْأَعْلَى عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ عَنْ نَافِعٍ عَنْ ابْنِ عُمَرَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عُذِّبَتْ امْرَأَةٌ فِي هِرَّةٍ أَوْثَقَتْهَا فَلَمْ تُطْعِمْهَا وَلَمْ تَسْقِهَا وَلَمْ تَدَعْهَا تَأْكُلُ مِنْ خَشَاشِ الْأَرْضِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14241,
+                "hadithNumber": "6678",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Abu Huraira رضی اللہ عنہ through another chain of transmitters.",
+                "hadithUrdu": "ہم سے نصر بن علی الجہدمی نے بیان کیا، کہا ہم سے عبد العلا نے بیان کیا، عبید اللہ کی سند سے, سعید مقبری نے حضرت ابوہریرہ رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے اسی کے مانند روایت کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ حَدَّثَنَا عَبْدُ الْأَعْلَى عَنْ عُبَيْدِ اللَّهِ عَنْ سَعِيدٍ الْمَقْبُرِيِّ عَنْ أَبِي هُرَيْرَةَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14242,
+                "hadithNumber": "6679",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported from Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) A hadith out of which one was this:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: A woman got into Hell-Fire because of a cat whom she had tied, and thus it could not eat, and she did not let it free so that it could devour the vermin of the earth, until it died.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" ایک عورت اپنی بلی یا بلے کی وجہ سے دوزخ میں چلی گئی جس کو اس نے باندھ کر رکھا تھا ، نہ خود اس کو کھلایا اور نہ اسے چھوڑا کہ زمین کے چھوٹے موٹے جانور چنا کھا لیتی ، یہاں تک کہ وہ کمزور ہو کر مر گئی ۔ \"",
+                "urduNarrator": "ہم سے محمد بن رافع نے بیان کیا، کہا ہم سے عبدالرزاق نے بیان کیا, معمر نے ہمیں ہمام بن منبہ سے روایت کی ، کہا : یہ احادیث ہمیں حضرت ابوہریرہ رضی اللہ عنہ نے نبی صلی اللہ علیہ وسلم سے بیان کیں ، انہوں نے کئی احادیث بیان کیں ، ان میں سے ایک یہ تھی کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ حَدَّثَنَا عَبْدُ الرَّزَّاقِ حَدَّثَنَا مَعْمَرٌ عَنْ هَمَّامِ بْنِ مُنَبِّهٍ قَالَ هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَذَكَرَ أَحَادِيثَ مِنْهَا وَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ دَخَلَتْ امْرَأَةٌ النَّارَ مِنْ جَرَّاءِ هِرَّةٍ لَهَا أَوْ هِرٍّ رَبَطَتْهَا فَلَا هِيَ أَطْعَمَتْهَا وَلَا هِيَ أَرْسَلَتْهَا تُرَمْرِمُ مِنْ خَشَاشِ الْأَرْضِ حَتَّى مَاتَتْ هَزْلًا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14243,
+                "hadithNumber": "6680",
+                "englishNarrator": "Abu Sa'id Khudri and Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: Allah, the Exalted and Glorious, said: Glory is His lower garment and Majesty is His cloak and (Allah says, ) He who contends with Me in regard to them I shall torment him.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" عزت اللہ عزوجل کا تہبند ہے اور کبریائی اس ( کے کندھوں ) کی چادر ہے ۔ جو شخص ان ( صفات ) کے معاملے میں میرے مدمقابل میں آئے گا ، میں اسے عذاب دوں گا ۔ \"",
+                "urduNarrator": "ہم سے احمد بن یوسف الازدی نے بیان کیا، ہم سے عمر بن حفص بن غیث نے بیان کیا، ہم سے میرے والد نے بیان کیا، ہم سے الاعمش نے بیان کیا، ہم سے ابو اسحاق نے بیان کیا، ابو مسلم کی سند سے۔ اس سے زیادہ حیرت کی بات یہ ہے کہ اس نے اسے بتایا, حضرت ابوسعید خدری اور حضرت ابوہریرہ رضی اللہ عنہ سے روایت ہے ، دونوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُوسُفَ الْأَزْدِيُّ حَدَّثَنَا عُمَرُ بْنُ حَفْصِ بْنِ غِيَاثٍ حَدَّثَنَا أَبِي حَدَّثَنَا الْأَعْمَشُ حَدَّثَنَا أَبُو إِسْحَقَ عَنْ أَبِي مُسْلِمٍ الْأَغَرِّ أَنَّهُ حَدَّثَهُ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ وَأَبِي هُرَيْرَةَ قَالَا قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْعِزُّ إِزَارُهُ وَالْكِبْرِيَاءُ رِدَاؤُهُ فَمَنْ يُنَازِعُنِي عَذَّبْتُهُ.",
+                "headingArabic": "تَحْرِيمِ الْكِبْرِ ‏ ‏",
+                "headingUrdu": "تکبر کی ممانعت",
+                "headingEnglish": "The Prohibition Of Arrogance",
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14244,
+                "hadithNumber": "6681",
+                "englishNarrator": "Jundub رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) stated that a person said: Allah would not forgive such and such (person). Thereupon Allah the Exalted and Glorious, said: Who is he who adjures about Me that I would not grant pardon to so and so; I have granted pardon to so and so and blotted out his deeds (who took an oath that I would not grant pardon to him).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" ایک آدمی نے کہا : اللہ کی قسم! اللہ تعالیٰ فلاں شخص کو نہیں بخشے گا ، تو اللہ تعالیٰ نے فرمایا : کون ہے جو مجھ پر قسم کھا رہا ہے کہ میں فلاں کو نہیں بخشوں گا؟ میں نے ( اس ) فلاں کو تو بخش دیا اور ( ایسا کہنے والے! ) تیرے سارے عمل ضائع کر دیے ۔ \" یا جن الفاظ میں آپ صلی اللہ علیہ وسلم نے ارشاد فرمایا ۔",
+                "urduNarrator": "ہم سے سوید بن سعید نے معتمر بن سلیمان سے اپنے والد کی سند سے بیان کیا, ابو عمران جونی نے حضرت جندب رضی اللہ عنہ سے حدیث بیان کی کہ",
+                "hadithArabic": "حَدَّثَنَا سُوَيْدُ بْنُ سَعِيدٍ عَنْ مُعْتَمِرِ بْنِ سُلَيْمَانَ عَنْ أَبِيهِ حَدَّثَنَا أَبُو عِمْرَانَ الْجَوْنِيُّ عَنْ جُنْدَبٍ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حَدَّثَ أَنَّ رَجُلًا قَالَ وَاللَّهِ لَا يَغْفِرُ اللَّهُ لِفُلَانٍ وَإِنَّ اللَّهَ تَعَالَى قَالَ مَنْ ذَا الَّذِي يَتَأَلَّى عَلَيَّ أَنْ لَا أَغْفِرَ لِفُلَانٍ فَإِنِّي قَدْ غَفَرْتُ لِفُلَانٍ وَأَحْبَطْتُ عَمَلَكَ أَوْ كَمَا قَالَ.",
+                "headingArabic": "النَّهْىِ عَنْ تَقْنِيطِ الإِنْسَانِ، مِنْ رَحْمَةِ اللَّهِ تَعَالَى ‏ ‏",
+                "headingUrdu": "دوسروں کو اللہ کی رحمت سے مایوس کرنے کی ممانعت",
+                "headingEnglish": "The Prohibition Of Making Others Despair Of The Mercy Of Allah",
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14245,
+                "hadithNumber": "6682",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger (may peace he upon him) as saying: Many a person with disheveled hair and covered with dust is turned away from the doors (whereas he is held in such a high esteem by Allah) that if he were to adjure in the name of Allah (about anything) Allah would fulfil that.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" بہت سے غبار میں اٹے ہوئے ( غریب الوطن ، مسافر ) بکھرے ہوئے بالوں والے ، دروازوں سے دھتکار دیے جانے والے لوگ ایسے ہیں کہ اگر ان میں سے کوئی اللہ تعالیٰ پر ( اعتماد کر کے ) قسم کھا لے تو اللہ تعالیٰ اس کی قسم پوری کر دیتا ہے ۔ \"",
+                "urduNarrator": "مجھ سے سوید بن سعید نے بیان کیا، مجھ سے حفص بن میسرہ نے بیان کیا، انہوں نے علاء بن عبدالرحمٰن کی سند سے، اپنے والد کی سند سے,حضرت ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ",
+                "hadithArabic": "حَدَّثَنِي سُوَيْدُ بْنُ سَعِيدٍ حَدَّثَنِي حَفْصُ بْنُ مَيْسَرَةَ عَنْ الْعَلَاءِ بْنِ عَبْدِ الرَّحْمَنِ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ رُبَّ أَشْعَثَ مَدْفُوعٍ بِالْأَبْوَابِ لَوْ أَقْسَمَ عَلَى اللَّهِ لَأَبَرَّهُ.",
+                "headingArabic": "فَضْلِ الضُّعَفَاءِ وَالْخَامِلِينَ ‏ ‏",
+                "headingUrdu": "کمزوروں اور پسماندہ لوگوں کی فضیلت",
+                "headingEnglish": "The Virtue Of The Weak And Downtrodden",
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14246,
+                "hadithNumber": "6683",
+                "englishNarrator": "Abu Huraira reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: When a person says that people are ruined he is himself ruined. Abu Ishaq said: I do not know whether he said ahlakahum or ahlakuhum.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \"\" جب ایک شخص ( یہ ) کہتا ہے : لوگ ہلاک ہو گئے تو وہ انہیں ہلاک کر دیتا ہے ۔ \"\" ( امام مسلم کے ایک شاگرد ) ابواسحاق نے کہا : مجھے ( یعنی طور پر ) معلوم نہیں کہ ( کاف کے ) زبر کے ساتھ اهلكهم ( اس نے انہیں ہلاک کر دیا ہے ) یا پیش کے ساتھ اهلكهم ( ان سب سے بڑھ کر ہلاک کرنے والا ہے ) ۔ \"\"",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ بن قعنب نے بیان کیا, حماد بن ابی سلمہ اور امام مالک نے سہیل بن ابی صالح ، انہوں نے اپنے والد سے ، انہوں نے حضرت ابوہریرہ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ بْنِ قَعْنَبٍ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ح و حَدَّثَنَا يَحْيَى بْنُ يَحْيَى قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِذَا قَالَ الرَّجُلُ هَلَكَ النَّاسُ فَهُوَ أَهْلَكُهُمْ قَالَ أَبُو إِسْحَقَ لَا أَدْرِي أَهْلَكَهُمْ بِالنَّصْبِ أَوْ أَهْلَكُهُمْ بِالرَّفْعِ.",
+                "headingArabic": "النَّهْىِ عَنْ قَوْلِ، هَلَكَ النَّاسُ ‏ ‏",
+                "headingUrdu": "\"لوگ برباد ہیں\" کہنے کی ممانعت",
+                "headingEnglish": "The Prohibition Of Saying \"The People Are Doomed\"",
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14247,
+                "hadithNumber": "6684",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Suhail with the same chain of transmitters.",
+                "hadithUrdu": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، ہم سے یزید بن زرعی نے بیان کیا, روح بن قاسم اور سلیمان بن بلال نے سہیل سے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى أَخْبَرَنَا يَزِيدُ بْنُ زُرَيْعٍ عَنْ رَوْحِ بْنِ الْقَاسِمِ ح و حَدَّثَنِي أَحْمَدُ بْنُ عُثْمَانَ بْنِ حَكِيمٍ حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ عَنْ سُلَيْمَانَ بْنِ بِلَالٍ جَمِيعًا عَنْ سُهَيْلٍ بِهَذَا الْإِسْنَادِ مِثْلَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14248,
+                "hadithNumber": "6685",
+                "englishNarrator": "A'isha رضی اللہ عنہا reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying: Gabriel impressed upon me (kind treatment) towards the neighbour (so much) that I thought as if he would confer upon him the (right) of inheritance.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کو یہ فرماتے ہوئے سنا : \" مجھے جبریل مسلسل ہمسائے کے ساتھ حسن سلوک کے لیے کہتے رہے ، حتی کہ مجھے یقین ہونے لگا کہ وہ ضرور انہی وراثت میں شریک کر دیں گے ۔ \"",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا, مالک بن انس ، لیث بن سعد اور یزید بن ہارون سب نے یحییٰ بن سعید سے روایت کی ، ( اسی طرح ) محمد بن مثنیٰ نے ہمیں حدیث بیان کی ۔ ۔ الفاظ انہی کے ہیں ۔ ۔ کہا : ہمیں عبدالوہاب ثقفی نے حدیث بیان کی ، کہا : میں نے یحییٰ بن سعید سے سنا ، کہا : مجھے ابوبکر بن محمد بن عمرو بن حزم نے خبر دی کہ عمرہ نے ان کو حدیث بیان کی ، انہوں نے حضرت عائشہ رضی اللہ عنہا سے سنا ، وہ کہتی تھیں : میں نے",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ عَنْ مَالِكِ بْنِ أَنَسٍ ح و حَدَّثَنَا قُتَيْبَةُ وَمُحَمَّدُ بْنُ رُمْحٍ عَنْ اللَّيْثِ بْنِ سَعْدٍ ح و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا عَبْدَةُ وَيَزِيدُ بْنُ هَارُونَ كُلُّهُمْ عَنْ يَحْيَى بْنِ سَعِيدٍ ح و حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى وَاللَّفْظُ لَهُ حَدَّثَنَا عَبْدُ الْوَهَّابِ يَعْنِي الثَّقَفِيَّ سَمِعْتُ يَحْيَى بْنَ سَعِيدٍ أَخْبَرَنِي أَبُو بَكْرٍ وَهُوَ ابْنُ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ أَنَّ عَمْرَةَ حَدَّثَتْهُ أَنَّهَا سَمِعَتْ عَائِشَةَ تَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ مَا زَالَ جِبْرِيلُ يُوصِينِي بِالْجَارِ حَتَّى ظَنَنْتُ أَنَّهُ لَيُوَرِّثَنَّهُ.",
+                "headingArabic": "الْوَصِيَّةِ بِالْجَارِ وَالإِحْسَانِ إِلَيْهِ ‏",
+                "headingUrdu": "پڑوسی کے ساتھ اچھا سلوک کرنے کی نصیحت",
+                "headingEnglish": "Advice To Treat One's Neighbor Well",
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14249,
+                "hadithNumber": "6686",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of 'A'isha رضی اللہ عنہا through another chain of transmitters.",
+                "hadithUrdu": "مجھ سے عمرو الناقد نے بیان کیا، کہا ہم سے عبدالعزیز بن ابی حازم نے بیان کیا, ہشام بن عروہ نے اپنے والد سے ، انہوں نے حضرت عائشہ رضی اللہ عنہا سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے اسی کے مانند حدیث بیان کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنِي عَمْرٌو النَّاقِدُ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي حَازِمٍ حَدَّثَنِي هِشَامُ بْنُ عُرْوَةَ عَنْ أَبِيهِ عَنْ عَائِشَةَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14250,
+                "hadithNumber": "6687",
+                "englishNarrator": "Ibn Umar رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: Gabriel impressed upon me (the kind treatment) towards the neighbour (so much) that I thought as if he would soon confer upon him the (right) of inheritance.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جبریل مجھے لگاتار ہمسائے کے ساتھ حسن سلوک کی تلقین کرتے رہے حتی کہ مجھے یقین ہونے لگا کہ وہ اسے وارث ( بھی ) بنا دیں گے ۔ \"",
+                "urduNarrator": "مجھ سے عبید اللہ بن عمر القواری نے بیان کیا، ہم سے یزید بن زرعی نے بیان کیا, عمر بن محمد کے والد نے کہا : میں نے حضرت ابن عمر رضی اللہ عنہ کو یہ کہتے ہوئے سنا",
+                "hadithArabic": "حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ عُمَرَ الْقَوَارِيرِيُّ حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ عَنْ عُمَرَ بْنِ مُحَمَّدٍ عَنْ أَبِيهِ قَالَ سَمِعْتُ ابْنَ عُمَرَ يَقُولُ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَا زَالَ جِبْرِيلُ يُوصِينِي بِالْجَارِ حَتَّى ظَنَنْتُ أَنَّهُ سَيُوَرِّثُهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14251,
+                "hadithNumber": "6688",
+                "englishNarrator": "Abu Dharr رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: Abu Dharr, when you prepare the broth, add water to that and give that (as a present) to your neighbour.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" ابوذر! جب تم شوربا پکاؤ تو اس میں پانی زیادہ رکھو اور اپنے پڑوسیوں کو یاد رکھو ۔ \"",
+                "urduNarrator": "ہم سے ابو کامل الجہدری اور اسحاق بن ابراہیم نے بیان کیا اور ہم سے ابو کامل نے بیان کیا اور ہم سے اسحاق بن ابراہیم نے بیان کیا, عبدالعزیز بن عبدالصمد عمی نے کہا : ہمیں ابوعمران جونی نے عبداللہ بن صامت سے حدیث بیان کی ، انہوں نے حضرت ابوذر رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو كَامِلٍ الْجَحْدَرِيُّ وَإِسْحَقُ بْنُ إِبْرَاهِيمَ وَاللَّفْظُ لِإِسْحَقَ قَالَ أَبُو كَامِلٍ حَدَّثَنَا و قَالَ إِسْحَقُ أَخْبَرَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ الصَّمَدِ الْعَمِّيُّ حَدَّثَنَا أَبُو عِمْرَانَ الْجَوْنِيُّ عَنْ عَبْدِ اللَّهِ بْنِ الصَّامِتِ عَنْ أَبِي ذَرٍّ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَا أَبَا ذَرٍّ إِذَا طَبَخْتَ مَرَقَةً فَأَكْثِرْ مَاءَهَا وَتَعَاهَدْ جِيرَانَكَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14252,
+                "hadithNumber": "6689",
+                "englishNarrator": "Abu Dharr رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) commanded me thus: Whenever you prepare a broth, add water to it, and have in your mind the members of the household of your neighbours and then give them out of this with courtesy.",
+                "hadithUrdu": "میرے خلیل صلی اللہ علیہ وسلم نے مجھے وصیت کی : \" جب تم شوربے والا سالن پکاؤ تو اس میں پانی زیادہ رکھو ، پھر اپنے ہمسایوں میں سے کسی ( ضرورت مند ) گھرانے کو دیکھو اور اس میں سے کچھ اچھے طریقے سے ان کو بھجوا دو ۔ \"",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے ابن ادریس نے بیان کیا, شعبہ نے ابو عمران جونی سے ، انہوں نے عبداللہ بن صامت سے اور انہوں نے حضرت ابوذر رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا ابْنُ إِدْرِيسَ أَخْبَرَنَا شُعْبَةُ ح و حَدَّثَنَا أَبُو كُرَيْبٍ حَدَّثَنَا ابْنُ إِدْرِيسَ أَخْبَرَنَا شُعْبَةُ عَنْ أَبِي عِمْرَانَ الْجَوْنِيِّ عَنْ عَبْدِ اللَّهِ بْنِ الصَّامِتِ عَنْ أَبِي ذَرٍّ قَالَ إِنَّ خَلِيلِي صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَوْصَانِي إِذَا طَبَخْتَ مَرَقًا فَأَكْثِرْ مَاءَهُ ثُمَّ انْظُرْ أَهْلَ بَيْتٍ مِنْ جِيرَانِكَ فَأَصِبْهُمْ مِنْهَا بِمَعْرُوفٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14253,
+                "hadithNumber": "6690",
+                "englishNarrator": "Abu Dharr رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ) said to me: Don't consider anything insignificant out of good things even if it is that you meet your brother with a cheerful countenance.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے مجھ سے فرمایا : \" نیکی میں کسی چیز کو حقیر نہ سمجھو ، چاہے یہی ہو کہ تم اپنے ( مسلمان ) بھائی کو کھلتے ہوئے چہرے سے ملو ۔ \"",
+                "urduNarrator": "مجھ سے ابو غسان المسمعی نے بیان کیا، کہا ہم سے عثمان بن عمر نے بیان کیا، کہا کہ ہم سے ابو عامر نے بیان کیا، یعنی الخزاز نے، کہا ہم سے ابو عمران الجونی نے بیان کیا، انہوں نے عبداللہ کی سند سے۔ ابن الصامت ,حضرت ابوذر رضی اللہ عنہ سے روایت ہے ، کہا",
+                "hadithArabic": "حَدَّثَنِي أَبُو غَسَّانَ الْمِسْمَعِيُّ حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ حَدَّثَنَا أَبُو عَامِرٍ يَعْنِي الْخَزَّازَ عَنْ أَبِي عِمْرَانَ الْجَوْنِيِّ عَنْ عَبْدِ اللَّهِ بْنِ الصَّامِتِ عَنْ أَبِي ذَرٍّ قَالَ قَالَ لِيَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا تَحْقِرَنَّ مِنْ الْمَعْرُوفِ شَيْئًا وَلَوْ أَنْ تَلْقَى أَخَاكَ بِوَجْهٍ طَلْقٍ.",
+                "headingArabic": "اسْتِحْبَابِ طَلاَقَةِ الْوَجْهِ عِنْدَ اللِّقَاءِ ‏ ‏",
+                "headingUrdu": "دوسروں سے ملتے وقت خوش مزاجی کا مظاہرہ کرنے کی سفارش کی جاتی ہے۔",
+                "headingEnglish": "It Is Recommend To Show A Cheerful Countenance When Meeting Others",
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14254,
+                "hadithNumber": "6691",
+                "englishNarrator": "Abu Musa رضی اللہ عنہ reported:",
+                "hadithEnglish": "When any needy (person) came to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) with a need he commanded him to his Companions, saying: Make a recommendation for him, and you would get the reward. Allah, however, gives the verdict through the tongue of His Apostle what He likes most.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کے پاس جب کوئی ضرورت مند آتا تو آپ اپنے ساتھ بیٹھے ہوئے لوگوں کی طرف متوجہ ہوتے اور فرماتے : \" تم ( ابھی اس کی ) شفاعت کرو ، تمہیں بھی اجر دیا جائے گا اور اللہ تعالیٰ اپنے نبی کی زبان سے وہی فیصلہ جاری کرائے گا جو اس کو پسند ہو گا ۔ \"",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے علی بن مسہر اور حفص بن غیث نے بیان کیا، انہوں نے برید بن عبداللہ کی سند سے، وہ ابو بردہ کی سند سے, حضرت ابوموسیٰ رضی اللہ عنہ سے روایت ہے ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ وَحَفْصُ بْنُ غِيَاثٍ عَنْ بُرَيْدِ بْنِ عَبْدِ اللَّهِ عَنْ أَبِي بُرْدَةَ عَنْ أَبِي مُوسَى قَالَ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا أَتَاهُ طَالِبُ حَاجَةٍ أَقْبَلَ عَلَى جُلَسَائِهِ فَقَالَ اشْفَعُوا فَلْتُؤْجَرُوا وَلْيَقْضِ اللَّهُ عَلَى لِسَانِ نَبِيِّهِ مَا أَحَبَّ.",
+                "headingArabic": "اسْتِحْبَابِ الشَّفَاعَةِ فِيمَا لَيْسَ بِحَرَامٍ ‏ ‏",
+                "headingUrdu": "اس کے بارے میں شفاعت کرنا مستحب ہے جو کہ ناجائز نہیں ہے۔",
+                "headingEnglish": "It Is Recommend To Intercede With Regard To That Which Is Not Unlawful",
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14255,
+                "hadithNumber": "6692",
+                "englishNarrator": "Abu Musa رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: The similitude of good company and that of bad company is that of the owner of musk and of the one (iron-smith) blowing bellows, and the owner of musk would either offer you free of charge or you would buy it from him or you would. smell its pleasant odour, and so far as one who blows the. bellows is concerned, he would either burn your clothes or you shall have to smell its repugnant smell.",
+                "hadithUrdu": "آپ نے فرمایا : \" نیک ہم نشیں اور بُرے ہم نشیں کی مثال مُشک بردار اور بھٹی دھونکنے والے کی طرح ہے ، مُشک بردار یا تم کو ہدیے میں مشک دے دے گا یا تم اس سے خرید لو گے ، ورنہ کم از کم تمہیں اس سے اچھی خوشبو آئے گی اور بھٹی دھونکنے والا یا تو ( چنگاریوں سے ) تمہارے کپڑے جلائے گا یا تمہیں ( اس سے ) بدبُو آئے گی ۔ \"",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے سفیان بن عیینہ نے بیان کیا، وہ برید بن عبداللہ نے اپنے دادا کی سند سے, حضرت ابوموسیٰ رضی اللہ عنہ نے نبی صلی اللہ علیہ وسلم سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنْ بُرَيْدِ بْنِ عَبْدِ اللَّهِ عَنْ جَدِّهِ عَنْ أَبِي مُوسَى عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ح و حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلَاءِ الْهَمْدَانِيُّ وَاللَّفْظُ لَهُ حَدَّثَنَا أَبُو أُسَامَةَ عَنْ بُرَيْدٍ عَنْ أَبِي بُرْدَةَ عَنْ أَبِي مُوسَى عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِنَّمَا مَثَلُ الْجَلِيسِ الصَّالِحِ وَالْجَلِيسِ السَّوْءِ كَحَامِلِ الْمِسْكِ وَنَافِخِ الْكِيرِ فَحَامِلُ الْمِسْكِ إِمَّا أَنْ يُحْذِيَكَ وَإِمَّا أَنْ تَبْتَاعَ مِنْهُ وَإِمَّا أَنْ تَجِدَ مِنْهُ رِيحًا طَيِّبَةً وَنَافِخُ الْكِيرِ إِمَّا أَنْ يُحْرِقَ ثِيَابَكَ وَإِمَّا أَنْ تَجِدَ رِيحًا خَبِيثَةً.",
+                "headingArabic": "اسْتِحْبَابِ مُجَالَسَةِ الصَّالِحِينَ وَمُجَانَبَةِ قُرَنَاءِ السَّوْءِ ‏ ‏",
+                "headingUrdu": "نیک لوگوں کی صحبت میں رہنا اور بری صحبت سے پرہیز کرنا مستحب ہے۔",
+                "headingEnglish": "It Is Recommend To Keep Company With Righteous People And Avoid Bad Company",
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14256,
+                "hadithNumber": "6693",
+                "englishNarrator": "A'isha رضی اللہ عنہا , the wife of Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said:",
+                "hadithEnglish": "A woman came to me along with her two daughters. She asked me for (charity) but she found nothing with me except one date, so I gave her that. She accepted it and then divided it between her two daughters and herself ate nothing out of that. She then got up and went out, and so did her two daughters. (In the meanwhile) Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) visited me and I narrated to him her story. Thereupon Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: He who is involved (in the responsibility) of (bringing up) daughters, and he accords benevolent treatment towards them, there would be protection for him against Hell-Fire.",
+                "hadithUrdu": "میرے پاس ایک عورت آئی ، اس کے ساتھ اس کی دو بیٹیاں بھی تھیں ، اس نے مجھ سے ( کھانا ) مانگا تو اسے میرے پاس ایک کھجور کے سوا اور کچھ نہ ملا ۔ میں نے وہی اس کو دے دی ، اس نے وہ کھجور لے کر اپنی دو بیٹیوں میں تقسیم کر دی اور خود اس میں سے کچھ نہ کھانا ، پھر وہ کھڑی ہوئی ، اور وہ اس کی دونوں بیٹیاں چلی گئیں ، پھر نبی صلی اللہ علیہ وسلم میرے پاس تشریف لائے تو میں نے آپ کو اس عورت کی بات بتائی تو نبی صلی اللہ علیہ وسلم نے فرمایا : \" جس کسی پر بیٹیوں کی پرورش کا بار پڑ جائے اور وہ ان کے ساتھ حسن سلوک کرے تو وہ اس کے لیے جہنم سے ( بچانے والا ) پردہ ہوں گی ۔ \"",
+                "urduNarrator": "ہم سے محمد بن عبداللہ بن قحزاز نے بیان کیا، کہا ہم سے سلمہ بن سلیمان نے بیان کیا، کہا ہم سے عبداللہ نے بیان کیا, معمر اور شعیب نے ابن شہاب زہری سے روایت کی ، انہوں نے کہا : مجھے عبداللہ بن ابی بکر بن حزم نے حدیث بیان کی ، انہیں عروہ بن زبیر نے بتایا کہ ام المومنین عائشہ صدیقہ رضی اللہ عنہا نے کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ قُهْزَاذَ حَدَّثَنَا سَلَمَةُ بْنُ سُلَيْمَانَ أَخْبَرَنَا عَبْدُ اللَّهِ أَخْبَرَنَا مَعْمَرٌ عَنْ ابْنِ شِهَابٍ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ أَبِي بَكْرِ بْنِ حَزْمٍ عَنْ عُرْوَةَ عَنْ عَائِشَةَ ح و حَدَّثَنِي عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ بْنِ بِهْرَامَ وَأَبُو بَكْرِ بْنُ إِسْحَقَ وَاللَّفْظُ لَهُمَا قَالَا أَخْبَرَنَا أَبُو الْيَمَانِ أَخْبَرَنَا شُعَيْبٌ عَنْ الزُّهْرِيِّ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ أَبِي بَكْرٍ أَنَّ عُرْوَةَ بْنَ الزُّبَيْرِ أَخْبَرَهُ أَنَّ عَائِشَةَ زَوْجَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَتْ جَاءَتْنِي امْرَأَةٌ وَمَعَهَا ابْنَتَانِ لَهَا فَسَأَلَتْنِي فَلَمْ تَجِدْ عِنْدِي شَيْئًا غَيْرَ تَمْرَةٍ وَاحِدَةٍ فَأَعْطَيْتُهَا إِيَّاهَا فَأَخَذَتْهَا فَقَسَمَتْهَا بَيْنَ ابْنَتَيْهَا وَلَمْ تَأْكُلْ مِنْهَا شَيْئًا ثُمَّ قَامَتْ فَخَرَجَتْ وَابْنَتَاهَا فَدَخَلَ عَلَيَّ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَحَدَّثْتُهُ حَدِيثَهَا فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَنْ ابْتُلِيَ مِنْ الْبَنَاتِ بِشَيْءٍ فَأَحْسَنَ إِلَيْهِنَّ كُنَّ لَهُ سِتْرًا مِنْ النَّارِ.",
+                "headingArabic": "فَضْلِ الإِحْسَانِ إِلَى الْبَنَاتِ ‏ ‏",
+                "headingUrdu": "بیٹیوں کے ساتھ حسن سلوک کی فضیلت",
+                "headingEnglish": "The Virtue Of Treating Daughters Well",
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14257,
+                "hadithNumber": "6694",
+                "englishNarrator": "A'isha رضی اللہ عنہا reported:",
+                "hadithEnglish": "A poor woman came to me along with her daughters. I gave her three dates. She gave a date to each of them and then she took up one date and brought that to her mouth in order to eat that, but her daughters expressed desire to eat it. She then divided the date that she intended to eat between them. This (kind) treatment of her impressed me and I mentioned that which she did to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ). Thereupon he said: Verily Allah has assured Paradise for her, because of (this act) of her, or He has rescued her from Hell-Fire.",
+                "hadithUrdu": "میرے پاس ایک مسکین عورت آئی جس نے اپنی دو بیٹیاں اٹھائی ہوئی تھیں ، میں نے اس کو تین کھجوریں دیں ، اس نے کہا ان میں سے ہر ایک کو ایک ایک کھجور دی ، ( بچی ہوئی ) ایک کھجور کھانے کے لیے اپنے منہ کی طرف لے گئی ، تو وہ بھی اس کی دو بیٹیوں نے کھانے کے لیے مانگ لی ، اس نے وہ کھجور بھی جو وہ کھانا چاہتی تھی ، دو حصے کر کے دونوں بیٹیوں کو دے دی ۔ مجھے اس کا یہ کام بہت اچھا لگا ۔ میں نے رسول اللہ صلی اللہ علیہ وسلم کو بتایا تو آپ نے فرمایا : \" اللہ نے اس ( عمل ) کی وجہ سے اس کے لیے جنت پکی کر دی ہے یا ( فرمایا : ) اس وجہ سے اسے آگ سے آزاد کر دیا ہے ۔ \"",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا، ان سے بکر، یعنی ابن مدر نے، ہم سے ابن الحاد کی سند سے بیان کیا کہ زیاد بن ابی زیاد ابن عیاش کے موکل تھے, عراک بن مالک نے حضرت عائشہ رضی اللہ عنہا سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ حَدَّثَنَا بَكْرٌ يَعْنِي ابْنَ مُضَرَ عَنْ ابْنِ الْهَادِ أَنَّ زِيَادَ بْنَ أَبِي زِيَادٍ مَوْلَى ابْنِ عَيَّاشٍ حَدَّثَهُ عَنْ عِرَاكِ بْنِ مَالِكٍ سَمِعْتُهُ يُحَدِّثُ عُمَرَ بْنَ عَبْدِ الْعَزِيزِ عَنْ عَائِشَةَ أَنَّهَا قَالَتْ جَاءَتْنِي مِسْكِينَةٌ تَحْمِلُ ابْنَتَيْنِ لَهَا فَأَطْعَمْتُهَا ثَلَاثَ تَمَرَاتٍ فَأَعْطَتْ كُلَّ وَاحِدَةٍ مِنْهُمَا تَمْرَةً وَرَفَعَتْ إِلَى فِيهَا تَمْرَةً لِتَأْكُلَهَا فَاسْتَطْعَمَتْهَا ابْنَتَاهَا فَشَقَّتْ التَّمْرَةَ الَّتِي كَانَتْ تُرِيدُ أَنْ تَأْكُلَهَا بَيْنَهُمَا فَأَعْجَبَنِي شَأْنُهَا فَذَكَرْتُ الَّذِي صَنَعَتْ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ إِنَّ اللَّهَ قَدْ أَوْجَبَ لَهَا بِهَا الْجَنَّةَ أَوْ أَعْتَقَهَا بِهَا مِنْ النَّارِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14258,
+                "hadithNumber": "6695",
+                "englishNarrator": "Anas bin Malik رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying: He, who brought up two girls properly till they grew up, he and I would come (together) (very closely) on the Day of Resurrection, and he interlaced his fingers (for explaining the point of nearness between him and that person).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جس شخص نے دو لڑکیوں کی ان کے بالغ ہونے تک پرورش کی ، قیامت کے دن وہ اور میں اس طرح آئیں گے ۔ \" اور آپ صلی اللہ علیہ وسلم نے اپنی انگلیوں کو ملایا ۔",
+                "urduNarrator": "مجھ سے عمرو الناقد نے بیان کیا، کہا ہم سے ابو احمد الزبیری نے بیان کیا، کہا ہم سے محمد بن عبدالعزیز نے بیان کیا، وہ عبید اللہ بن ابی بکر رضی اللہ عنہ سے,حضرت انس رضی اللہ عنہ سے روایت ہے",
+                "hadithArabic": "حَدَّثَنِي عَمْرٌو النَّاقِدُ حَدَّثَنَا أَبُو أَحْمَدَ الزُّبَيْرِيُّ حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الْعَزِيزِ عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي بَكْرِ بْنِ أَنَسٍ عَنْ أَنَسِ بْنِ مَالِكٍ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَنْ عَالَ جَارِيَتَيْنِ حَتَّى تَبْلُغَا جَاءَ يَوْمَ الْقِيَامَةِ أَنَا وَهُوَ وَضَمَّ أَصَابِعَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14259,
+                "hadithNumber": "6696",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying: Anyone amongst the Muslims, three of whose children die, and he resigns himself calmly to the will of God, Fire will not touch him but for the fulfilment of the oath.",
+                "hadithUrdu": "آپ نے فرمایا : \" جس کسی مسلمان کے تین بچے فوت ہو جائیں تو اسے آگ صرف قسم پورا کرنے کے لیے چھوئے گی ۔ \"",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، انہوں نے کہا: امام مالک نے ابن شہاب سے ، انہوں نے سعید بن مسیب سے ، انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ ابْنِ شِهَابٍ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ عَنْ أَبِي هُرَيْرَةَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَا يَمُوتُ لِأَحَدٍ مِنْ الْمُسْلِمِينَ ثَلَاثَةٌ مِنْ الْوَلَدِ فَتَمَسَّهُ النَّارُ إِلَّا تَحِلَّةَ الْقَسَمِ.",
+                "headingArabic": "فَضْلِ مَنْ يَمُوتُ لَهُ وَلَدٌ فَيَحْتَسِبُهُ ‏ ‏",
+                "headingUrdu": "اس کی فضیلت جس کا بچہ مر جائے اور وہ اجر کا طالب ہو۔",
+                "headingEnglish": "The Virtue Of One Whose Child Dies And He Seeks Reward",
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14260,
+                "hadithNumber": "6697",
+                "englishNarrator": "This hadith has been reported by Zuhri on the authority of Malik, and in the hadith transmitted on the authority of Sufyan (the words are):",
+                "hadithEnglish": "He would enter into Fire, except for the fulfilment of the oath.",
+                "hadithUrdu": "\" تو وہ صرف قسم پوری کرنے کے لیے آگ میں داخل ہو گا ۔ \"",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ، عمرو ناقد اور زہیر بن حرب نے بیان کیا، انہوں نے کہا: سفیان اور معمر دونوں نے زہری سے مالک کی سند کے ساتھ انہی کے مفہوم میں حدیث بیان کی ، مگر سفیان کی حدیث میں ہے",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَعَمْرٌو النَّاقِدُ وَزُهَيْرُ بْنُ حَرْبٍ قَالُوا حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ ح و حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ وَابْنُ رَافِعٍ عَنْ عَبْدِ الرَّزَّاقِ أَخْبَرَنَا مَعْمَرٌ كِلَاهُمَا عَنْ الزُّهْرِيِّ بِإِسْنَادِ مَالِكٍ وَبِمَعْنَى حَدِيثِهِ إِلَّا أَنَّ فِي حَدِيثِ سُفْيَانَ فَيَلِجَ النَّارَ إِلَّا تَحِلَّةَ الْقَسَمِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14261,
+                "hadithNumber": "6698",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said to a woman of the Ansar: In case anyone amongst you sees the sad demise of three children of (hers) and she resigns herself to the will of God hoping to get reward, she would be admitted to Paradise. A woman from amongst them said: Allah's Messenger, even if they (the children who die) are two. Thereupon, he (the Holy Prophet ﷺ ) said: Even if they are two.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے انصار کی عورتوں سے فرمایا : \" تم میں سے جس عورت کے بھی تین بچے فوت ہو جائیں اور وہ ان ( پر صبر کرتے ہوئے ان ) کا ثواب اللہ سے طلب کرے تو وہ ضرور جنت میں داخل ہو گی ۔ \" ان میں سے ایک عورت نے کہا : یا دو ( بچے فوت ہو جائیں؟ ) اللہ کے رسول! تو آپ نے فرمایا : \" یا دو بچے ( فوت ہو جائیں ۔ ) \"",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا، کہا ہم سے عبدالعزیز نے، یعنی ابن محمد نے بیان کیا, سہیل کے والد ( ابوصالح ) نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ حَدَّثَنَا عَبْدُ الْعَزِيزِ يَعْنِي ابْنَ مُحَمَّدٍ عَنْ سُهَيْلٍ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لِنِسْوَةٍ مِنْ الْأَنْصَارِ لَا يَمُوتُ لِإِحْدَاكُنَّ ثَلَاثَةٌ مِنْ الْوَلَدِ فَتَحْتَسِبَهُ إِلَّا دَخَلَتْ الْجَنَّةَ فَقَالَتْ امْرَأَةٌ مِنْهُنَّ أَوْ اثْنَيْنِ يَا رَسُولَ اللَّهِ قَالَ أَوْ اثْنَانِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14262,
+                "hadithNumber": "6699",
+                "englishNarrator": "Abu Sa'id Khudri رضی اللہ عنہ reported:",
+                "hadithEnglish": "A woman came to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) and said: Allah's Messenger, men receive your instructions; kindly allocate at your convenience a day for us also, on which we would come to you and you would teach us what Allah has taught you. He said: You assemble on such and such a day. They assembled and Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) came to them and taught them what Allah had taught him and he then said: No woman amongst you who sends her three children as her forerunners (in the Hereafter) but they would serve him as a protection against Hell-Fire. A woman said: What about two and two and two? Thereupon Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: Even if they are two and two and two.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کے پاس ایک عورت آئی اور عرض کی : آپ کی گفتگو ( کا بڑا حصہ ) مرد لے گئے ، لہذا آپ ہمارے لیے بھی اپنی طرف سے ایک دن مقرر فرما دیں کہ ہم آپ کے پاس آیا کریں اور اللہ نے آپ کو جو سکھایا ہے اس میں سے آپ ہمیں بھی سکھا دیں ۔ آپ نے فرمایا : \" تم عورتیں فلاں فلاں دن اکٹھی ہو جانا ۔ \" خواتین اکٹھی ہو گئیں تو رسول اللہ صلی اللہ علیہ وسلم ان کے پاس تشریف لائے اور اللہ نے جو علم آپ کو عطا فرمایا تھا اس میں سے ان کو بھی سکھایا ، پھر آپ نے فرمایا : \" تم میں سے کوئی عورت نہیں جو اپنے بچوں میں سے تین بچوں کو اپنے آگے ( اللہ کے پاس ) روانہ کر دے ، مگر وہ اس کے لیے آگ سے بچانے والا پردہ بن جائیں گے ۔ \" ایک عورت نے کہا : اور دو بچے بھی اور دو بچے بھی اور دو بچے بھی؟ تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" اور دو بچے بھی اور دو بچے بھی اور دو بچے بھی ۔ \"",
+                "urduNarrator": "ہم سے ابو کامل الجہدری فضیل بن حسین نے بیان کیا, ابوعوانہ نے عبدالرحمٰن بن اصبہانی سے ، انہوں نے ابوصالح ذکوان سے اور انہوں نے حضرت ابوسعید خدری رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو كَامِلٍ الْجَحْدَرِيُّ فُضَيْلُ بْنُ حُسَيْنٍ حَدَّثَنَا أَبُو عَوَانَةَ عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْأَصْبَهَانِيِّ عَنْ أَبِي صَالِحٍ ذَكْوَانَ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ قَالَ جَاءَتْ امْرَأَةٌ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَتْ يَا رَسُولَ اللَّهِ ذَهَبَ الرِّجَالُ بِحَدِيثِكَ فَاجْعَلْ لَنَا مِنْ نَفْسِكَ يَوْمًا نَأْتِيكَ فِيهِ تُعَلِّمُنَا مِمَّا عَلَّمَكَ اللَّهُ قَالَ اجْتَمِعْنَ يَوْمَ كَذَا وَكَذَا فَاجْتَمَعْنَ فَأَتَاهُنَّ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَعَلَّمَهُنَّ مِمَّا عَلَّمَهُ اللَّهُ ثُمَّ قَالَ مَا مِنْكُنَّ مِنْ امْرَأَةٍ تُقَدِّمُ بَيْنَ يَدَيْهَا مِنْ وَلَدِهَا ثَلَاثَةً إِلَّا كَانُوا لَهَا حِجَابًا مِنْ النَّارِ فَقَالَتْ امْرَأَةٌ وَاثْنَيْنِ وَاثْنَيْنِ وَاثْنَيْنِ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَاثْنَيْنِ وَاثْنَيْنِ وَاثْنَيْنِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14263,
+                "hadithNumber": "6700",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "He (the Holy Prophet ﷺ) said: Three (children) who die in childhood.",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا : \" تین بچے جو بلوغت کی عمر کو نہیں پہنچے ۔ \"",
+                "urduNarrator": "ہم سے محمد بن المثنی اور ابن بشار نے بیان کیا, محمد بن جعفر اور معاذ نے کہا : ہمیں شعبہ نے عبدالرحمان بن اصبہانی سے اسی سند کے ساتھ اس کے ہم معنی روایت کی اور دونوں نے شعبہ سے ( روایت کرتے ہوئے ) مزید یہ کہا : عبدالرحمن بن اصبہانی سے روایت ہے ، انہوں نے کہا : میں نے ابوحازم سے سنا ، وہ حضرت ابوہریرہ رضی اللہ عنہ سے حدیث بیان کر رہے تھے ، کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى وَابْنُ بَشَّارٍ قَالَا حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ ح و حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ حَدَّثَنَا أَبِي حَدَّثَنَا شُعْبَةُ عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْأَصْبَهَانِيِّ فِي هَذَا الْإِسْنَادِ بِمِثْلِ مَعْنَاهُ وَزَادَا جَمِيعًا عَنْ شُعْبَةَ عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْأَصْبَهَانِيِّ قَالَ سَمِعْتُ أَبَا حَازِمٍ يُحَدِّثُ عَنْ أَبِي هُرَيْرَةَ قَالَ ثَلَاثَةً لَمْ يَبْلُغُوا الْحِنْثَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "46",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 146,
+                    "chapterNumber": "46",
+                    "chapterEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+                    "chapterUrdu": "حسن سلوک، صلہ رحمی اور ادب",
+                    "chapterArabic": "كتاب الْبِرِّ وَالصِّلَةِ وَالْآدَابِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 13951,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=558",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=556",
+                "label": "556",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=557",
+                "label": "557",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=558",
+                "label": "558",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=559",
+                "label": "559",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=560",
+                "label": "560",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=561",
+                "label": "561",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=562",
+                "label": "562",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=560",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=560",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=558",
+        "to": 13975,
+        "total": 40465
+    }
+}

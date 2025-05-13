@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 589,
+        "data": [
+            {
+                "id": 14989,
+                "hadithNumber": "7428",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: When one of you looks at one who stands at a higher level than you in regard to wealth and physical structure he should also see one who stands at a lower level than you in regard to these things (in which he stands) at a higher level (as compared to him).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جب تم میں سے کوئی شخص اس کی طرف دیکھے جسے مال اور جمال میں فضیلت حاصل ہے تو اس کو بھی دیکھے جو اس سے کمتر ہے ، جس پر ( خود ) اسے فضیلت حاصل ہے ۔ \"",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ اور قتیبہ بن سعید نے بیان کیا, قتیبہ نے کہا: ہم سے انہوں نے بیان کیا، اور یحییٰ نے کہا: ہمیں المغیرہ بن عبدالرحمٰن حزامی نے خبر دی ہے, ابو زناد نے اعرج سے اور انھوں نے حضرت ابو ہریرۃ رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى وَقُتَيْبَةُ بْنُ سَعِيدٍ قَالَ قُتَيْبَةُ حَدَّثَنَا و قَالَ يَحْيَى أَخْبَرَنَا الْمُغِيرَةُ بْنُ عَبْدِ الرَّحْمَنِ الْحِزَامِيُّ عَنْ أَبِي الزِّنَادِ عَنْ الْأَعْرَجِ عَنْ أَبِي هُرَيْرَةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِذَا نَظَرَ أَحَدُكُمْ إِلَى مَنْ فُضِّلَ عَلَيْهِ فِي الْمَالِ وَالْخَلْقِ فَلْيَنْظُرْ إِلَى مَنْ هُوَ أَسْفَلَ مِنْهُ مِمَّنْ فُضِّلَ عَلَيْهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14990,
+                "hadithNumber": "7429",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Abu Huraira رضی اللہ عنہ through another chain of transmitters.",
+                "hadithUrdu": "ہم سے محمد بن رافع نے بیان کیا، ہم سے عبدالرزاق نے بیان کیا, معمر نے ہمام بن منبہ سے ، انھوں نے حضرت ابو ہریرۃ رضی اللہ عنہ سے اور انھوں نے نبی کریم صلی اللہ علیہ وسلم سے روایت کی ، بالکل ابو زناد کی حدیث کے مانند ۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ حَدَّثَنَا عَبْدُ الرَّزَّاقِ حَدَّثَنَا مَعْمَرٌ عَنْ هَمَّامِ بْنِ مُنَبِّهٍ عَنْ أَبِي هُرَيْرَةَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِ حَدِيثِ أَبِي الزِّنَادِ سَوَاءً",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14991,
+                "hadithNumber": "7430",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: Look at those who stand at a lower level than you but don't look at those who stand at a higher level than you, for this would make the favours (conferred upon you by Allah) insignificant (in your eyes). Abu Mu'awiya said: Upon you.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \"\" اس کی طرف دیکھو جو ( مال ور جمال میں ) تم سے کمتر ہے ، اس کی طرف مت دیکھو جو تم سے فائق ہے ، یہ لائق تر ہے اسکے کہ تم اللہ کی نعمت کو حقیر نہ سمجھو گے ۔ \"\" ابو معاویہ نےکہا : \"\" ( وہ نعمت ) جو تم پر کی گئی ۔ \"\"",
+                "urduNarrator": "مجھ سے زہیر بن حرب نے بیان کیا, جریر ، ابو معاویہ اور وکیع نے اعمش سے ، انھوں نے ابو صالح سے اورانھوں نے حضرت ابوہریرۃ رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "و حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ حَدَّثَنَا جَرِيرٌ و حَدَّثَنَا أَبُو كُرَيْبٍ حَدَّثَنَا أَبُو مُعَاوِيَةَ و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَاللَّفْظُ لَهُ حَدَّثَنَا أَبُو مُعَاوِيَةَ وَوَكِيعٌ عَنْ الْأَعْمَشِ عَنْ أَبِي صَالِحٍ عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ انْظُرُوا إِلَى مَنْ أَسْفَلَ مِنْكُمْ وَلَا تَنْظُرُوا إِلَى مَنْ هُوَ فَوْقَكُمْ فَهُوَ أَجْدَرُ أَنْ لَا تَزْدَرُوا نِعْمَةَ اللَّهِ قَالَ أَبُو مُعَاوِيَةَ عَلَيْكُمْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14992,
+                "hadithNumber": "7431",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ narrated:",
+                "hadithEnglish": "He heard Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: There were three persons in Bani Isra'il, one suffering from leprosy, the other bald-headed and the third one blind. Allah decided to test them. So He sent an angel who came to the one who was suffering from leprosy and said: Which thing do you like most? He said: Beautiful colour and fine skin and removal of that which makes me detestable in the eye of people. He wiped him and his illness was no more and he was conferred upon beautiful colour and beautiful skin. He (the angel) again said: Which property do you like most? He said: Camels, or he said: The cow the narrator is, however, doubtful about it, but (out of the persons) suffering from leprosy or baldness one of them definitely said: The camel. And the other one said: Cow. And he (one who demanded camel) was bestowed upon a she-camel, in an advanced stage of pregnancy, and while giving he said: May Allah bless you in this. Then he came to the bald-headed person and said: Which thing do you like most? He said: Beautiful hair and that (this baldness) may be removed from me because of which people hate me. He wiped his body and his illness was removed and he was bestowed upon beautiful hair, and the angel said: Which wealth do you like most? He said: The cow. And he was given a pregnant cow and while handing it over to him he (the angel) said: May Allah bless you in this. Then he came to the blind man and he said: Which thing do you like most? He said: Allah should restore my eyesight so that I should be able to see people with the help of that. He wiped his body and Allah restored to him his eyesight, and he (the angel) also said: Which wealth do you like most? He said: The flock of sheep. And he was given a pregnant goat and that gave birth to young ones and it so happened that one valley abounded in camels and the other one in cows and the third one in sheep. He then came to the one who had suffered from leprosy in his (old) form and shape and he said: I am a poor person and my provision has run short in my journey and there is none to take me to my destination except with the help of Allah and your favour. I beg of you in His name Who gave you fine colour and fine skin, and the camel in the shape of wealth (to confer upon me) a camel which should carry me in my journey. He said: I have many responsibilities to discharge. Thereupon he said: I perceive as if I recognise you. Were you not suffering from leprosy whom people hated and you were a destitute and Allah conferred upon you (wealth)? He said: I have inherited this property from my forefathers. Thereupon he said: If you are a liar may Allah change you to that very position in which you had been. He then came to the one who was bald-headed in his (old) form and said to him the same what he had said to him (one suffering from leprosy) and he gave him the same reply as he had given him and he said: If you are a liar, may Allah turn you to your previous position in which you had been. And then he came to the blind man in his (old) form and shape and he said: I am a destitute person and a wayfarer. My provision have ran short and today there is no way to reach the destination but with the help of Allah and then with your help and I beg of you in the (name) of One Who restored your eyesight and gave you the flock of sheep to give me a sheep by which I should be able to make my provisions for the journey. He said: I was blind and Allah restored to me my eyesight; you take whatever you like and leave whatever you like. By Allah, I shall not stand in your way today for what you take in the name of God. Thereupon, he said: You keep with you what you have (in your possession). The fact is that you three were put to test and Allah is well pleased with you and He is annoyed with your companions.",
+                "hadithUrdu": "انھوں نے نبی کریم صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا : آپ صلی اللہ علیہ وسلم فرماتے تھے کہ بنی اسرائیل کے لوگوں میں تین آدمی تھے ، ایک کوڑھی سفید داغ والا ، دوسرا گنجا اور تیسرا اندھا ۔ پس اللہ تعالیٰ نے ان کو آزمانا چاہا کہ تو ان کے پاس فرشتہ بھیجا ۔ پس وہ سفید داغ والے کے پاس آیا اور اس نے کہا کہ تجھے کون سی چیز بہت پیاری ہے؟ اس نے کہا کہ اچھا رنگ اچھی کھال اور مجھ سے یہ بیماری دور ہو جائے جس کے سبب سے لوگ مجھ سے نفرت کرتے ہیں ۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ فرشتے نے اس پر ہاتھ پھیرا ۔ پس اس کی بدصورتی دور ہو گئی اور اس کو اچھا رنگ اور اچھی کھال دی گئی ۔ فرشتے نے کہا کہ تجھے کون سا مال بہت پسند ہے؟ اس نے کہا کہ اونٹ یا گائے ۔ ( راوی حدیث اسحاق بن عبداللہ کو شک ہے کہ اس نے اونٹ مانگا یا گائے لیکن سفید داغ والے یا گنجے نے ان میں سے ایک نے اونٹ کہا اور دوسرے نے گائے ) ۔ پس اس کو دس مہینے کی گابھن اونٹنی دی اور کہا کہ اللہ تعالیٰ تیرے واسطے اس میں برکت دے ۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ پھر فرشتہ گنجے کے پاس آیا پس کہا کہ تجھے کون سی چیز بہت پسند ہے؟ اس نے کہا کہ اچھے بال اور یہ بیماری جاتی رہے جس کے سبب سے لوگ مجھ سے نفرت کرتے ہیں ۔ پھر اس نے اس پر ہاتھ پھیرا تو اس کی بیماری دور ہو گئی اور اس کو اچھے بال ملے ۔ فرشتے نے کہا کہ تجھے کون سا مال بہت پسند ہے؟ اس نے کہا کہ گائے ۔ پس اس کو گابھن گائے دے دی گئی ۔ فرشتے نے کہا کہ اللہ تعالیٰ تیرے مال میں برکت دے ۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ پھر فرشتہ اندھے کے پاس آیا اور کہا کہ تجھے کون سی چیز بہت پسند ہے؟ اس نے کہا کہ اللہ تعالیٰ آنکھ میں بینائی کر دے تو میں اس کے سبب سے لوگوں کو دیکھوں ۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ پھر فرشتے نے اس پر ہاتھ پھیرا تو اللہ نے اس کو بینائی دے دی ۔ فرشتے نے کہا کہ تجھے کون سا مال بہت پسند ہے؟ اس نے کہا کہ بھیڑ بکری ۔ تو اس کو گابھن بکری ملی ۔ پھر ان دونوں ( اونٹنی اور گائے ) اور اس ( بکری ) نے بچے دئیے ۔ پھر ہوتے ہوتے سفید داغ والے کے جنگل بھر اونٹ ہو گئے اور گنجے کے جنگل بھر گائے بیل ہو گئے اور اندھے کے جنگل بھر بکریاں ہو گئیں ۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ مدت کے بعد وہی فرشتہ سفید داغ والے کے پاس اس کی پہلی صورت اور شکل میں آیا ، اور کہا کہ میں محتاج آدمی ہوں ، سفر میں میرے تمام اسباب کٹ گئے ( یعنی تدبیریں جاتی رہیں اور مال اور اسباب نہ رہا ) ، پس آج میرے لئے اللہ کی مدد کے سوا اور اس کے بعد تیری مدد کے بغیر منزل پر پہنچنا ممکن نہیں ہے ، میں تجھ سے اس کے نام پر جس نے تجھے ستھرا رنگ اور ستھری کھال دی اور مال اونٹ دئیے ، ایک اونٹ مانگتا ہوں جو میرے سفر میں کام آئے ۔ اس نے کہا کہ مجھ پر لوگوں کے بہت حق ہیں ( یعنی قرضدار ہوں یا گھربار کے خرچ سے زیادہ مال نہیں جو تجھے دوں ) ۔ پھر فرشتہ نے کہا کہ البتہ میں تجھے پہچانتا ہوں بھلا کیا تو محتاج کوڑھی نہ تھا؟ کہ لوگ تجھ سے نفرت کرتے تھے ، پھر اللہ نے اپنے فضل سے تجھے یہ مال دیا ۔ اس نے جواب دیا کہ میں نے تو یہ مال اپنے باپ دادا سے پایا ہے جو کئی پشت سے نقل ہو کر آیا ہے ۔ فرشتے نے کہا کہ اگر تو جھوٹا ہو تو اللہ تجھے ویسا ہی کر ڈالے جیسا تو پہلے تھا ۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ پھر فرشتہ گنجے کے پاس اس کی پہلی صورت اور شکل میں آیا اور اس سے ویسا ہی کہا جیسا سفید داغ والے سے کہا تھا اور اس نے بھی وہی جواب دیا جو سفید داغ والے نے دیا تھا ۔ فرشتے نے کہا کہ اگر تو جھوٹا ہو تو اللہ تجھے ویسا ہی کر ڈالے جیسا تو تھا ۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ پھر فرشتہ اندھے کے پاس اس کی پہلی شکل و صورت میں گیا ، اور کہا کہ میں محتاج آدمی ہوں اور مسافر ہوں ، میرے سفر میں میرے سب وسیلے اور تدبیریں کٹ گئیں ، پس مجھے آج منزل پر اللہ کی مدد اور اس کے بعد تیری مدد کے بغیر پہنچنا مشکل ہے ۔ پس میں تجھ سے اس اللہ کے نام پر ، جس نے تجھے بینائی دی ، ایک بکری مانگتا ہوں تاکہ وہ میرے سفر میں کام آئے ۔ اس نے کہا کہ بیشک میں اندھا تھا تو اللہ نے مجھے ( بینائی والی ) آنکھ دی ، تو ان بکریوں میں سے جتنی چاہو لے جاؤ اور جتنی چاہو چھوڑ جاؤ ۔ اللہ کی قسم! آج جو چیز تو اللہ کی راہ میں لے گا ، میں تجھے مشکل میں نہ ڈالوں گا ( یعنی تیرا ہاتھ نہ پکڑوں گا ) ۔ پس فرشتے نے کہا کہ اپنا مال اپنے پاس رکھو ، تم تینوں آدمی صرف آزمائے گئے تھے ۔ پس تجھ سے تو اللہ تعالیٰ راضی ہوا اور تیرے دونوں ساتھیوں سے ناخوش ہوا ۔",
+                "urduNarrator": "ہم سے شیبان بن فرو خ نے بیان کیا، کہا ہم سے ہمام نے بیان کیا, اسحاق بن عبداللہ بن ابی طلحہ نےکہا : مجھے عبدالرحمن بن ابی عمرہ نے حدیث بیان کی ، انھیں حضرت ابو ہریرۃ رضی اللہ عنہ نے حدیث بیان کی",
+                "hadithArabic": "حَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ حَدَّثَنَا هَمَّامٌ حَدَّثَنَا إِسْحَقُ بْنُ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ أَبِي عَمْرَةَ أَنَّ أَبَا هُرَيْرَةَ حَدَّثَهُ أَنَّهُ سَمِعَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ إِنَّ ثَلَاثَةً فِي بَنِي إِسْرَائِيلَ أَبْرَصَ وَأَقْرَعَ وَأَعْمَى فَأَرَادَ اللَّهُ أَنْ يَبْتَلِيَهُمْ فَبَعَثَ إِلَيْهِمْ مَلَكًا فَأَتَى الْأَبْرَصَ فَقَالَ أَيُّ شَيْءٍ أَحَبُّ إِلَيْكَ قَالَ لَوْنٌ حَسَنٌ وَجِلْدٌ حَسَنٌ وَيَذْهَبُ عَنِّي الَّذِي قَدْ قَذِرَنِي النَّاسُ قَالَ فَمَسَحَهُ فَذَهَبَ عَنْهُ قَذَرُهُ وَأُعْطِيَ لَوْنًا حَسَنًا وَجِلْدًا حَسَنًا قَالَ فَأَيُّ الْمَالِ أَحَبُّ إِلَيْكَ قَالَ الْإِبِلُ أَوْ قَالَ الْبَقَرُ شَكَّ إِسْحَقُ إِلَّا أَنَّ الْأَبْرَصَ أَوْ الْأَقْرَعَ قَالَ أَحَدُهُمَا الْإِبِلُ وَقَالَ الْآخَرُ الْبَقَرُ قَالَ فَأُعْطِيَ نَاقَةً عُشَرَاءَ فَقَالَ بَارَكَ اللَّهُ لَكَ فِيهَا قَالَ فَأَتَى الْأَقْرَعَ فَقَالَ أَيُّ شَيْءٍ أَحَبُّ إِلَيْكَ قَالَ شَعَرٌ حَسَنٌ وَيَذْهَبُ عَنِّي هَذَا الَّذِي قَدْ قَذِرَنِي النَّاسُ قَالَ فَمَسَحَهُ فَذَهَبَ عَنْهُ وَأُعْطِيَ شَعَرًا حَسَنًا قَالَ فَأَيُّ الْمَالِ أَحَبُّ إِلَيْكَ قَالَ الْبَقَرُ فَأُعْطِيَ بَقَرَةً حَامِلًا فَقَالَ بَارَكَ اللَّهُ لَكَ فِيهَا قَالَ فَأَتَى الْأَعْمَى فَقَالَ أَيُّ شَيْءٍ أَحَبُّ إِلَيْكَ قَالَ أَنْ يَرُدَّ اللَّهُ إِلَيَّ بَصَرِي فَأُبْصِرَ بِهِ النَّاسَ قَالَ فَمَسَحَهُ فَرَدَّ اللَّهُ إِلَيْهِ بَصَرَهُ قَالَ فَأَيُّ الْمَالِ أَحَبُّ إِلَيْكَ قَالَ الْغَنَمُ فَأُعْطِيَ شَاةً وَالِدًا فَأُنْتِجَ هَذَانِ وَوَلَّدَ هَذَا قَالَ فَكَانَ لِهَذَا وَادٍ مِنْ الْإِبِلِ وَلِهَذَا وَادٍ مِنْ الْبَقَرِ وَلِهَذَا وَادٍ مِنْ الْغَنَمِ قَالَ ثُمَّ إِنَّهُ أَتَى الْأَبْرَصَ فِي صُورَتِهِ وَهَيْئَتِهِ فَقَالَ رَجُلٌ مِسْكِينٌ قَدْ انْقَطَعَتْ بِيَ الْحِبَالُ فِي سَفَرِي فَلَا بَلَاغَ لِي الْيَوْمَ إِلَّا بِاللَّهِ ثُمَّ بِكَ أَسْأَلُكَ بِالَّذِي أَعْطَاكَ اللَّوْنَ الْحَسَنَ وَالْجِلْدَ الْحَسَنَ وَالْمَالَ بَعِيرًا أَتَبَلَّغُ عَلَيْهِ فِي سَفَرِي فَقَالَ الْحُقُوقُ كَثِيرَةٌ فَقَالَ لَهُ كَأَنِّي أَعْرِفُكَ أَلَمْ تَكُنْ أَبْرَصَ يَقْذَرُكَ النَّاسُ فَقِيرًا فَأَعْطَاكَ اللَّهُ فَقَالَ إِنَّمَا وَرِثْتُ هَذَا الْمَالَ كَابِرًا عَنْ كَابِرٍ فَقَالَ إِنْ كُنْتَ كَاذِبًا فَصَيَّرَكَ اللَّهُ إِلَى مَا كُنْتَ قَالَ وَأَتَى الْأَقْرَعَ فِي صُورَتِهِ فَقَالَ لَهُ مِثْلَ مَا قَالَ لِهَذَا وَرَدَّ عَلَيْهِ مِثْلَ مَا رَدَّ عَلَى هَذَا فَقَالَ إِنْ كُنْتَ كَاذِبًا فَصَيَّرَكَ اللَّهُ إِلَى مَا كُنْتَ قَالَ وَأَتَى الْأَعْمَى فِي صُورَتِهِ وَهَيْئَتِهِ فَقَالَ رَجُلٌ مِسْكِينٌ وَابْنُ سَبِيلٍ انْقَطَعَتْ بِيَ الْحِبَالُ فِي سَفَرِي فَلَا بَلَاغَ لِي الْيَوْمَ إِلَّا بِاللَّهِ ثُمَّ بِكَ أَسْأَلُكَ بِالَّذِي رَدَّ عَلَيْكَ بَصَرَكَ شَاةً أَتَبَلَّغُ بِهَا فِي سَفَرِي فَقَالَ قَدْ كُنْتُ أَعْمَى فَرَدَّ اللَّهُ إِلَيَّ بَصَرِي فَخُذْ مَا شِئْتَ وَدَعْ مَا شِئْتَ فَوَاللَّهِ لَا أَجْهَدُكَ الْيَوْمَ شَيْئًا أَخَذْتَهُ لِلَّهِ فَقَالَ أَمْسِكْ مَالَكَ فَإِنَّمَا ابْتُلِيتُمْ فَقَدْ رُضِيَ عَنْكَ وَسُخِطَ عَلَى صَاحِبَيْكَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14993,
+                "hadithNumber": "7432",
+                "englishNarrator": "Amir bin Sa'd said:",
+                "hadithEnglish": "Sa'd bin Abi Waqqas رضی اللہ عنہ was in the fold of his camels that his son 'Umar came to him. When Sa'd رضی اللہ عنہ saw him he said: I seek refuge with Allah from the mischief of this rider. And as he got down he said to him: You are busy with your camels and your sheep and you have abandoned people who are contending with one another for kingdom. Sa'd رضی اللہ عنہ struck his chest and said: Keep quite. I heard Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: Allah loves the servant who is God-conscious and is free from want and is hidden (from the view of people).",
+                "hadithUrdu": "حضرت سعد بن ابی وقاص رضی اللہ عنہ اپنے اونٹوں کے پاس تھے کہ ان کےبیٹےعمر ( بن سعد ) ان کے پاس آئے جب حضرت سعد رضی اللہ عنہ نے انھیں دیکھا تو کہا : میں اس سوار کے شرسے اللہ کی پناہ چاہتا ہوں وہ اترے اور ان ( حضرت سعد رضی اللہ عنہ ) سے کہا : آپ اپنے اونٹوں اور بکریوں کے پاس رہائش پذیر ہو گئے ہیں اور لوگوں کو چھوڑ دیا ہے کہ وہ سلطنت کے بارے میں باہم لڑرہے ہیں ( آپ کبھی اپناحصہ مانگیں ) حضرت سعد رضی اللہ عنہ نے ان کے سینے پر ضرب لگائی اور کہا : خاموش رہو!میں نے رسول االلہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سناہے ، \" اللہ تعالیٰ اپنے اس بندے سے محبت رکھتا ہے جو متقی ہو ، غنی ہو ، گم نام ( گوشہ نشیں ) ہو ۔",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم اور عباس بن عبد العظیم نے بیان کیا، اور لفظ اسحاق کا ہے۔ عباس نے کہا: انہوں نے ہم سے بیان کیا، اور اسحاق نے کہا: ہمیں ابوبکر حنفی نے خبر دی ہے , بکیر بن مسمار نے کہا : مجھے عامر بن سعد نے حدیث بیان کی انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا إِسْحَقُ بْنُ إِبْرَاهِيمَ وَعَبَّاسُ بْنُ عَبْدِ الْعَظِيمِ وَاللَّفْظُ لِإِسْحَقَ قَالَ عَبَّاسٌ حَدَّثَنَا و قَالَ إِسْحَقُ أَخْبَرَنَا أَبُو بَكْرٍ الْحَنَفِيُّ حَدَّثَنَا بُكَيْرُ بْنُ مِسْمَارٍ حَدَّثَنِي عَامِرُ بْنُ سَعْدٍ قَالَ كَانَ سَعْدُ بْنُ أَبِي وَقَّاصٍ فِي إِبِلِهِ فَجَاءَهُ ابْنُهُ عُمَرُ فَلَمَّا رَآهُ سَعْدٌ قَالَ أَعُوذُ بِاللَّهِ مِنْ شَرِّ هَذَا الرَّاكِبِ فَنَزَلَ فَقَالَ لَهُ أَنَزَلْتَ فِي إِبِلِكَ وَغَنَمِكَ وَتَرَكْتَ النَّاسَ يَتَنَازَعُونَ الْمُلْكَ بَيْنَهُمْ فَضَرَبَ سَعْدٌ فِي صَدْرِهِ فَقَالَ اسْكُتْ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ التَّقِيَّ الْغَنِيَّ الْخَفِيَّ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14994,
+                "hadithNumber": "7433",
+                "englishNarrator": "Sa'd bin Abu Waqqas رضی اللہ عنہ is reported to have, said:",
+                "hadithEnglish": "By Allah, I am the first person amongst the Arabs to throw an arrow in the cause of Allah and we used to go with Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and there was no food for us to eat but only the leaves of hubla and samur trees (they are wild trees) and as a result thereof one amongst us would relieve himself as does the goat. (How strange it is) that now the people of Banu Asad (the progeny of Zubair) instruct me in religion and try to impose punishment upon me (in regard to it). If it is so (that I am so ignorant of religion), then indeed, I am undone and my deeds have been lost. Ibn Numair, however, did not make a mention of the word (idhan) thus? (in his narration).",
+                "hadithUrdu": "اللہ کی قسم !میں عربوں میں سے پہلا شخص ہوں جس نے اللہ کی راہ میں تیرچلایاہم رسول اللہ صلی اللہ علیہ وسلم کے ہمراہ اس طرح جنگیں لڑتے تھے کہ ہمارے پاس کھانے کو خاردار درخت کے پتوں اور اس کیکر ( کےپتوں ) کے سوا کچھ نہیں ہوتا تھا ۔ یہاں تک کہ قم میں سے کوئی بکری کی مینگنیوں کی طرح پاخانہ کرتا تھا پھر اب بنو اسد کے لوگ دین کے معاملے میں میری تادیب کرنے لگےہیں ! ( اگر اب میں دین سے اس قدر نابلد ہو گیا ہوں ) تب تو میں بالکل ناکام ہو گیا اور میرےعمل ضائع ہو گئے ۔ اور ابن نمیر نے اپنی روایت میں \" تب تو \" نہیں کہا ۔",
+                "urduNarrator": "ہم سے یحییٰ بن حبیب الحارثی نے بیان کیا، ہم سے معتمر نے بیان کیا، انہوں نے کہا: میں نے اسماعیل کو قیس کی سند سے اور سعد رضی اللہ عنہ سے سنا اور ہم سے محمد عبد اللہ بن نمیر اور ابن بشر نے کہا : ہمیں اسماعیل بن قیس نے حدیث سنائی ، کہا میں نے حضرت سعد بن ابی وقاص رضی اللہ عنہ کو فرماتے ہوئے سنا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ حَبِيبٍ الْحَارِثِيُّ حَدَّثَنَا الْمُعْتَمِرُ قَالَ سَمِعْتُ إِسْمَعِيلَ عَنْ قَيْسٍ عَنْ سَعْدٍ و حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ حَدَّثَنَا أَبِي وَابْنُ بِشْرٍ قَالَا حَدَّثَنَا إِسْمَعِيلُ عَنْ قَيْسٍ قَالَ سَمِعْتُ سَعْدَ بْنَ أَبِي وَقَّاصٍ يَقُولُ وَاللَّهِ إِنِّي لَأَوَّلُ رَجُلٍ مِنْ الْعَرَبِ رَمَى بِسَهْمٍ فِي سَبِيلِ اللَّهِ وَلَقَدْ كُنَّا نَغْزُو مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَا لَنَا طَعَامٌ نَأْكُلُهُ إِلَّا وَرَقُ الْحُبْلَةِ وَهَذَا السَّمُرُ حَتَّى إِنَّ أَحَدَنَا لَيَضَعُ كَمَا تَضَعُ الشَّاةُ ثُمَّ أَصْبَحَتْ بَنُو أَسَدٍ تُعَزِّرُنِي عَلَى الدِّينِ لَقَدْ خِبْتُ إِذًا وَضَلَّ عَمَلِي وَلَمْ يَقُلْ ابْنُ نُمَيْرٍ إِذًا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14995,
+                "hadithNumber": "7434",
+                "englishNarrator": "This hadith has been narrated on the authority of Isma'il bin Khalid with the same chain of transmitters and the words are:",
+                "hadithEnglish": "One amongst us would relieve himself as the goats do without anything mixing with its excrement.",
+                "hadithUrdu": "ہم سے ایک بکرے کی ( مینگنیوں کی ) طرح کا پاخانہ کرتا تھا جس میں اور کچھ ( کسی اور کھانے کا کو ئی حصہ جو اسے پاخانہ کی شکل سے ) ملا ہوا نہیں ہو تا تھا ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا, وکیع نے اسماعیل بن ابی خالد سے اسی سند کے ساتھ روایت کی اور کہا : یہاں تک کہ",
+                "hadithArabic": "و حَدَّثَنَاه يَحْيَى بْنُ يَحْيَى أَخْبَرَنَا وَكِيعٌ عَنْ إِسْمَعِيلَ بْنِ أَبِي خَالِدٍ بِهَذَا الْإِسْنَادِ وَقَالَ حَتَّى إِنْ كَانَ أَحَدُنَا لَيَضَعُ كَمَا تَضَعُ الْعَنْزُ مَا يَخْلِطُهُ بِشَيْءٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14996,
+                "hadithNumber": "7435",
+                "englishNarrator": "Umair al-'Adawi reported:",
+                "hadithEnglish": "'Utba bin Ghazwan رضی اللہ عنہ delivered us a sermon and he praised Allah and lauded Him, then said: Now coming to the point, verily the world has been given the news of its end and that too quite early. Nothing would be left out of it but only water left in the utensil which its owner leaves, and you are going to shift to an abode which knows no end, and you should shift with the good before you, for we have been told that a stone would be thrown at one side of the Hell and it would go down even for seventy years but would not be able to reach its bottom. By Allah, it would be fully packed. Do you find it something strange, and it has been mentioned that there yawns a distance which one would be able to cover in forty years from one end to another of Paradise, and a day would come when it would be fully packed and you must be knowing that I was the seventh amongst seven who had been with Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) and we had nothing to eat but the leaves of the tree until the corners of the mouth were injured. We found a sheet which we tore in two and divided between myself and Sa'd bin Malik رضی اللہ عنہ. I made the lower garment with halt of it and so did Sa'd make the lower garment with half of it and today there is none amongst us who has not become the governor of a city from amongst the cities (of the Islamic Commonwealth) and I seek refuge with Allah that I should consider myself great whereas I am insignificant in the eye of Allah. Prophethood does not remain for ever and its impact fades with the result that it changes eventually into kingship, and you would soon come to know and experience those rulers who would come after us and see (how far they are from religion).",
+                "hadithUrdu": "ایک دن ( حضرت عمر رضی اللہ تعالیٰ عنہ کی طرف سے بصرہ کےعامل ) حضرت عتبہ بن غزوان رضی اللہ عنہ نے ہمیں خطبہ دیا اور اللہ تعالیٰ کی حمد وثنا کی پھر کہا : حمدو ثنا کے بعد بے شک یہ دنیا خاتمے کے قریب ہو گئی ہے اور اس ( کی مہلت ) میں سے تھوڑا سا حصہ باقی رہ گیا ہے جس طرح برتن کے آخری قطرےہوتے ہیں جنھیں برتن والا انڈیل رہا ہوتا ہے اور تم اس دنیا سے اس گھر کی طرف منتقل ہو رہے ہو جس پر زوال نہیں آئے گا ۔ جو تمھارے پاس ہے اس میں سے بہتر ین متاع کے ساتھ آگے جاؤ ۔ کیونکہ ہمیں بتایا گیا تھا کہ جہنم کے کنارے سے ایک پتھر پھینکا جاتا ہے تو وہ وہ سترسال گرتا رہتا ہے ۔ اس کی تہ تک نہیں پہنچتا ۔ اور اللہ کی قسم!یہ ( جہنم ) پوری طرح بھر جائے گی ۔ کیا تمھیں اس پر تعجب ہے؟اور ہمیں بتا یا گیا کہ جنت کے کواٹروں میں سے دو کواٹروں کے درمیان چالیس سال کی مسافت ہے اور اس پر ایک دن آئے گا جب وہ ازدحام کے سبب تنگ پڑجائے گا اور میں نے دیکھا کہ رسول اللہ صلی اللہ علیہ وسلم کے ساتھ ( ایمان لانے والے ) سات لوگوں میں سے ساتواں میں تھا ہمارے پاس درختوں کے پتوں کے سوا کھانے کی کو ئی چیز نہیں ہوتی تھی یہاں تک کہ ہماری باچھیں زخمی ہو گئیں ۔ میں نے ایک چادر اٹھائی تو اسے اپنے اور سعد بن مالک رضی اللہ تعالیٰ عنہ کے درمیان دوحصوں میں تقسیم کرلیا آدھی میں نے کمر پر باندھی اور آدھی سعد رضی اللہ عنہ نے اب ہم میں سے ہر کوئی شہروں میں سے کسی شہر کا امیر بن گیا ہے ۔ میں اس بات سے اللہ کی پناہ میں آتا ہوں کہ میں اپنے دل میں بڑا اور اللہ کے نزدیک چھوٹا ہو جاؤں اور کبھی کوئی نبوت نہیں تھی ۔ مگر ختم ہو گئی ۔ یہاں تک کہ اس کا پچھلا حصہ بادشاہت میں بدل گیا ۔ جلد ہی تمھیں ( اس کا ) پتہ چل جائے گا اور ہمارےبعد کے امیروں کا ( بھی تم لوگ خود ) تجربہ کر لو گے ۔",
+                "urduNarrator": "شیبان بن فروخ نے ہمیں حدیث بیان کی کہا : ہمیں سلیمان بن مغیرہ نے حدیث بیان کی ، کہا : ہمیں حمید بن بلال نے خالد بن عمیر عدوی سے حدیث بیان کی انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ حَدَّثَنَا سُلَيْمَانُ بْنُ الْمُغِيرَةِ حَدَّثَنَا حُمَيْدُ بْنُ هِلَالٍ عَنْ خَالِدِ بْنِ عُمَيْرٍ الْعَدَوِيِّ قَالَ خَطَبَنَا عُتْبَةُ بْنُ غَزْوَانَ فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ ثُمَّ قَالَ أَمَّا بَعْدُ فَإِنَّ الدُّنْيَا قَدْ آذَنَتْ بِصَرْمٍ وَوَلَّتْ حَذَّاءَ وَلَمْ يَبْقَ مِنْهَا إِلَّا صُبَابَةٌ كَصُبَابَةِ الْإِنَاءِ يَتَصَابُّهَا صَاحِبُهَا وَإِنَّكُمْ مُنْتَقِلُونَ مِنْهَا إِلَى دَارٍ لَا زَوَالَ لَهَا فَانْتَقِلُوا بِخَيْرِ مَا بِحَضْرَتِكُمْ فَإِنَّهُ قَدْ ذُكِرَ لَنَا أَنَّ الْحَجَرَ يُلْقَى مِنْ شَفَةِ جَهَنَّمَ فَيَهْوِي فِيهَا سَبْعِينَ عَامًا لَا يُدْرِكُ لَهَا قَعْرًا وَ وَاللَّهِ لَتُمْلَأَنَّ أَفَعَجِبْتُمْ وَلَقَدْ ذُكِرَ لَنَا أَنَّ مَا بَيْنَ مِصْرَاعَيْنِ مِنْ مَصَارِيعِ الْجَنَّةِ مَسِيرَةُ أَرْبَعِينَ سَنَةً وَلَيَأْتِيَنَّ عَلَيْهَا يَوْمٌ وَهُوَ كَظِيظٌ مِنْ الزِّحَامِ وَلَقَدْ رَأَيْتُنِي سَابِعَ سَبْعَةٍ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَا لَنَا طَعَامٌ إِلَّا وَرَقُ الشَّجَرِ حَتَّى قَرِحَتْ أَشْدَاقُنَا فَالْتَقَطْتُ بُرْدَةً فَشَقَقْتُهَا بَيْنِي وَبَيْنَ سَعْدِ بْنِ مَالِكٍ فَاتَّزَرْتُ بِنِصْفِهَا وَاتَّزَرَ سَعْدٌ بِنِصْفِهَا فَمَا أَصْبَحَ الْيَوْمَ مِنَّا أَحَدٌ إِلَّا أَصْبَحَ أَمِيرًا عَلَى مِصْرٍ مِنْ الْأَمْصَارِ وَإِنِّي أَعُوذُ بِاللَّهِ أَنْ أَكُونَ فِي نَفْسِي عَظِيمًا وَعِنْدَ اللَّهِ صَغِيرًا وَإِنَّهَا لَمْ تَكُنْ نُبُوَّةٌ قَطُّ إِلَّا تَنَاسَخَتْ حَتَّى يَكُونَ آخِرُ عَاقِبَتِهَا مُلْكًا فَسَتَخْبُرُونَ وَتُجَرِّبُونَ الْأُمَرَاءَ بَعْدَنَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14997,
+                "hadithNumber": "7436",
+                "englishNarrator": "Khalid bin 'Umair reported:",
+                "hadithEnglish": "He had seen the pre-Islamic days also, that 'Uqba bin Ghazwan رضی اللہ عنہ delivered this address and he was the governor of Basra. The rest of the hadith is the same as transmitted by Shaiban.",
+                "hadithUrdu": "جنھوں نے جاہلیت کا زمانہ دیکھا تھا روایت کی کہا : حضرت عتبہ بن غزوان رضی اللہ عنہ نے ہمیں خطبہ دیا وہ اس وقت بصرہ کے امیرتھے ۔ ( آگے ) شیبان کی حدیث کی طرح بیان کیا ۔",
+                "urduNarrator": "اسحٰق بن عمر بن سلیط نے مجھے حدیث بیان کی ، کہا : ہمیں سلیمان بن مغیرہ نے حدیث بیان کی کہا : ہمیں حمید بن بلال نے خالد بن عمیر سے",
+                "hadithArabic": "و حَدَّثَنِي إِسْحَقُ بْنُ عُمَرَ بْنِ سَلِيطٍ حَدَّثَنَا سُلَيْمَانُ بْنُ الْمُغِيرَةِ حَدَّثَنَا حُمَيْدُ بْنُ هِلَالٍ عَنْ خَالِدِ بْنِ عُمَيْرٍ وَقَدْ أَدْرَكَ الْجَاهِلِيَّةَ قَالَ خَطَبَ عُتْبَةُ بْنُ غَزْوَانَ وَكَانَ أَمِيرًا عَلَى الْبَصْرَةِ فَذَكَرَ نَحْوَ حَدِيثِ شَيْبَانَ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14998,
+                "hadithNumber": "7437",
+                "englishNarrator": "Khalid bin Umair reported:",
+                "hadithEnglish": "I heard Uqba bin Ghazwan رضی اللہ عنہ as saving: I found myself as the seventh amongst the seven who had been along with Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ). We had nothing to eat but the leaves of hubla (a wild tree) until the corners of our mouths were injured.",
+                "hadithUrdu": "میں نے حضرت عتبہ بن غزوان رضی اللہ عنہ سے سنا ، وہ کہہ رہے تھے ، میں نے دیکھا میں رسول اللہ صلی اللہ علیہ وسلم کے ساتھ ( ایمان لانے والے ) سات لوگوں میں سے ساتواں شخص تھا خاردار درختوں کے پتوں کے سوا ہمارے پاس کھانے کو کچھ نہیں تھا یہاں تک کہ ہماری باچھیں زخمی ہو گئیں ۔",
+                "urduNarrator": "ہم سے ابو کریب محمد بن العلاء نے بیان کیا، کہا کہ ہم سے وکیع نے بیان کیا, قرہ بن خالد نے حمید بلال سے اور انھوں نے خالد بن عمیر سے روایت کی ، کہا",
+                "hadithArabic": "و حَدَّثَنَا أَبُو كُرَيْبٍ مُحَمَّدُ بْنُ الْعَلَاءِ حَدَّثَنَا وَكِيعٌ عَنْ قُرَّةَ بْنِ خَالِدٍ عَنْ حُمَيْدِ بْنِ هِلَالٍ عَنْ خَالِدِ بْنِ عُمَيْرٍ قَالَ سَمِعْتُ عُتْبَةَ بْنَ غَزْوَانَ يَقُولُ لَقَدْ رَأَيْتُنِي سَابِعَ سَبْعَةٍ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَا طَعَامُنَا إِلَّا وَرَقُ الْحُبْلَةِ حَتَّى قَرِحَتْ أَشْدَاقُنَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14999,
+                "hadithNumber": "7438",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "They (the Companions of the Holy Prophet) said: Allah's Messenger, will we be able to see our Lord on the Day of Judgment? He said: Do you feel any difficulty in seeing the sun in the noon when there is no cloud over it? They said: No. He again said: Do you feel any difficulty in seeing the moon on the fourteenth night when there is no cloud over it? They said: No. Thereupon he said: By Allah Who is One in Whose Hand is my life. you will not face any difficulty in seeing your Lord but only so much as you feel in seeing one of them. Then Allah would sit in judgment upon the servant and would say: O, so and so, did I not honour you and make you the chief and provide you the spouse and subdue for you horses, camels, and afforded you an opportunity to rule over your subjects? He would say: Yes. And then it would be said: Did you not think that you would meet Us? And he would say: No. Thereupon He (Allah) would say: Well, We forget you as you forgot Us. Then the second person would be brought for judgment. (And Allah would) say: 0, so and so. did We not honour you and make you the chief and make you pair and subdue for you horses and camels and afford you an opportunity to rule over your subjects? He would say: Yes, my Lord. And He (the Lord) would say: Did you not think that you would be meeting Us? And he would say: No. And then He (Allah) would say: Well, I forget you today as you forgot Us. Then the third -one would be brought and He (Allah) would say to him as He said before. And he (the third person) would say: O, my Lord, I affirmed my faith in Thee and in Thy Book and in Thy Messenger and I observed prayer and fasts and gave charity, and he would speak in good terms like this as he would be able to do. And He (Allah) would say: Well, We will bring our witnesses to you. And the man would think in his mind who would bear witness upon him and then his mouth would be sealed and it would be said to his thighs, to his flesh and to his bones to speak and his thighs. flesh and bones would bear witness to his deeds and it would be done so that he should not be able to make any excuse for himself and he would be a hypocrite and Allah would be annoyed with him.",
+                "hadithUrdu": "انھوں نے ( صحابہ کرام رضوان اللہ عنھم اجمعین ) نے عرض کی ، اللہ کے رسول اللہ صلی اللہ علیہ وسلم !قیامت کے دن ہم اپنے رب کو دیکھیں گے؟آپ صلی اللہ علیہ وسلم نے فرمایا : \"\" کیا دوپہر کے وقت جب بادل نہ ہوں تمھیں سورج کودیکھنے میں کوئی زحمت ہوتی ہے ۔ ؟ \"\" انھوں ( صحابہ کرام رضوان اللہ عنھم اجمعین ) نے کہا : نہیں آپ نے فرمایا : \"\" چودھویں کی رات کو جب بادل نہ ہوں تو کیا تمھیں چاند کو دیکھنے میں کو ئی زحمت ہوتی ہے؟ \"\" انھوں نے ( صحابہ کرام رضوان اللہ عنھم اجمعین ) نے کہا : نہیں آپ نے فرمایا : \"\" مجھے اس ذات کی قسم جس کے ہاتھ میں میری جان ہے ۔ !تمھیں اپنے رب کو دیکھنے میں اس سے زیادہ زحمت نہیں ہو گی جتنی زحمت تمھیں ان دونوں کو دیکھنے میں ہو تی ہے ۔ \"\" آپ نے فرمایا : \"\" وہ ( رب ) بندے سے ملا قات فرمائے گا تو کہے گا ۔ اے فلاں !کیا میں نے تمھیں عزت نہ دی تھی ، تمھیں سردار نہ بنایا تھا تمھاری شادی نہ کرائی تھی گھوڑے اور اونٹ تمھارے اختیار میں نہ دیے تھے اور تمھیں ایسا نہیں بنا چھوڑا تھا کہ تم سرداری کرتے تھے اور لوگوں کی آمدنی میں سے چوتھائی حصہ لیتے تھے ؟وہ جواب میں کہے گا ۔ کیوں نہیں ! ( بالکل ایسا ہی تھا ۔ ) تو وہ فرمائے گا ۔ کیا تم سمجھتے تھے کہ تم مجھ سے ملوگے؟ وہ کہے گا ۔ نہیں ۔ تووہ فرمائے گا ۔ آج میں اسی طرح تمھیں بھول جاؤں گا ۔ جس طرح تم مجھے بھول گئے تھے پھر دوسرے سے ملاقات کرے گا ۔ اے فلاں !کیا میں نے تمھیں عز ت اور سیادت سے نہیں نوازا تھا تمھاری شادی نہیں کرائی تھی تمھارے لیے اونٹ اور گھوڑے مسخر نہیں کیے تھے اور تمھیں اس طرح نہیں بنا چھوڑا تھا کہ تم ریاست کے مزے لیتے تھے ۔ اور لوگوں کے مالوں میں سے چوتھا ئی حصہ وصول کرتے تھے ۔ ؟وہ کہے گا کیوں نہیں میرے رب!تو وہ فرمائے گا ۔ تمھیں اس بات کا کوئی گمان بھی تھا کہ تم مجھ سے ملا قات کروگے؟ وہ کہے گا ۔ نہیں تو وہ فرمائے گا اب میں بھی اسی طرح تمھیں بھول جاؤں گا جس طرح تم مجھے بھول گئے تھے ۔ پھر تیسرے سے ملے گا ۔ اس سے بھی وہی فرمائے گا ۔ وہ کہے گا ۔ اے میرے رب !میں تجھ پر تیری کتابوں اور تیرے رسولوں پر ایمان لایا تھا اور نمازیں پڑھی تھیں روزے رکھے تھے اور صدقہ دیا کرتا تھا جتنا اس کے بس میں ہو گا ( اپنی نیکی کی ) تعریف کرے گا ، چنانچہ وہ فرمائے گا ۔ تب تم یہیں ٹھہرو ۔ فرمایا : پھر اس سے کہا جا ئے گا ۔ اب تم تمھارے خلاف اپنا گواہ لائیں گے ۔ وہ دل میں سوچے گا میرے خلاف کون گواہی دے گا ۔ ؟پھر اس کے منہ پر مہر لگادی جا ئے گیاور اس کی ران گوشت اور ہڈیوں سے کہا جائے گا ۔ بولو تو اس کی ران اس کا گوشت اور اس کی ہڈیاں اس کے عمل کے متعلق بتائیں گی ۔ یہ ( اس لیے ) کہا جا ئے گا کہ وہ ( اللہ ) اس کی ذات سے اس کا عذر دور کردے ۔ اور وہ منافق ہو گا اور وہی شخص ہو گا جس پر اللہ تعالیٰ سخت ناراض ہو گا ۔ \"\"",
+                "urduNarrator": "ہم سے محمد بن ابی عمر نے بیان کیا، کہا ہم سے سفیان نے، سہیل بن ابی صالح کی سند سے, حضرت ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي عُمَرَ حَدَّثَنَا سُفْيَانُ عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ قَالَ قَالُوا يَا رَسُولَ اللَّهِ هَلْ نَرَى رَبَّنَا يَوْمَ الْقِيَامَةِ قَالَ هَلْ تُضَارُّونَ فِي رُؤْيَةِ الشَّمْسِ فِي الظَّهِيرَةِ لَيْسَتْ فِي سَحَابَةٍ قَالُوا لَا قَالَ فَهَلْ تُضَارُّونَ فِي رُؤْيَةِ الْقَمَرِ لَيْلَةَ الْبَدْرِ لَيْسَ فِي سَحَابَةٍ قَالُوا لَا قَالَ فَوَالَّذِي نَفْسِي بِيَدِهِ لَا تُضَارُّونَ فِي رُؤْيَةِ رَبِّكُمْ إِلَّا كَمَا تُضَارُّونَ فِي رُؤْيَةِ أَحَدِهِمَا قَالَ فَيَلْقَى الْعَبْدَ فَيَقُولُ أَيْ فُلْ أَلَمْ أُكْرِمْكَ وَأُسَوِّدْكَ وَأُزَوِّجْكَ وَأُسَخِّرْ لَكَ الْخَيْلَ وَالْإِبِلَ وَأَذَرْكَ تَرْأَسُ وَتَرْبَعُ فَيَقُولُ بَلَى قَالَ فَيَقُولُ أَفَظَنَنْتَ أَنَّكَ مُلَاقِيَّ فَيَقُولُ لَا فَيَقُولُ فَإِنِّي أَنْسَاكَ كَمَا نَسِيتَنِي ثُمَّ يَلْقَى الثَّانِيَ فَيَقُولُ أَيْ فُلْ أَلَمْ أُكْرِمْكَ وَأُسَوِّدْكَ وَأُزَوِّجْكَ وَأُسَخِّرْ لَكَ الْخَيْلَ وَالْإِبِلَ وَأَذَرْكَ تَرْأَسُ وَتَرْبَعُ فَيَقُولُ بَلَى أَيْ رَبِّ فَيَقُولُ أَفَظَنَنْتَ أَنَّكَ مُلَاقِيَّ فَيَقُولُ لَا فَيَقُولُ فَإِنِّي أَنْسَاكَ كَمَا نَسِيتَنِي ثُمَّ يَلْقَى الثَّالِثَ فَيَقُولُ لَهُ مِثْلَ ذَلِكَ فَيَقُولُ يَا رَبِّ آمَنْتُ بِكَ وَبِكِتَابِكَ وَبِرُسُلِكَ وَصَلَّيْتُ وَصُمْتُ وَتَصَدَّقْتُ وَيُثْنِي بِخَيْرٍ مَا اسْتَطَاعَ فَيَقُولُ هَاهُنَا إِذًا قَالَ ثُمَّ يُقَالُ لَهُ الْآنَ نَبْعَثُ شَاهِدَنَا عَلَيْكَ وَيَتَفَكَّرُ فِي نَفْسِهِ مَنْ ذَا الَّذِي يَشْهَدُ عَلَيَّ فَيُخْتَمُ عَلَى فِيهِ وَيُقَالُ لِفَخِذِهِ وَلَحْمِهِ وَعِظَامِهِ انْطِقِي فَتَنْطِقُ فَخِذُهُ وَلَحْمُهُ وَعِظَامُهُ بِعَمَلِهِ وَذَلِكَ لِيُعْذِرَ مِنْ نَفْسِهِ وَذَلِكَ الْمُنَافِقُ وَذَلِكَ الَّذِي يَسْخَطُ اللَّهُ عَلَيْهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 15000,
+                "hadithNumber": "7439",
+                "englishNarrator": "Anas bin Malik رضی اللہ عنہ reported:",
+                "hadithEnglish": "We were in the company of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) when he smiled, and said: Do you know why I laughed? We said: Allah and His Messenger, know best. Thereupon he said: It was because (there came to my mind the) talk which the servant would have with his Lord (on the Day of judgment). He would say: My Lord, have you not guaranteed me protection against injustice? He would say: Yes. Then the servant would say: I do not deem valid any witness against me but my own self, and He would say: Well, enough would be the witness of your self against you and that of the two angels who had been appointed to record your deeds. Then the seal would be set upon his mouth and it would be said to his hands and feet to speak and they would speak of his deeds. Then the mouth would be made free to talk, he would say (to the hands and feet): Be away, let there be curse of Allah upon you. It was for your safety that I contended.",
+                "hadithUrdu": "ہم رسول اللہ صلی اللہ علیہ وسلم کے پاس ( بیٹھے ہوئے ) تھے کہ آپ ہنس پڑے پھر آپ نے پوچھا : \" کیا تمھیں یہ معلوم ہے کہ میں کس بات پر ہنس رہا ہو ں ؟ \" ہم نے عرض کی اللہ اور اس کا رسول اللہ صلی اللہ علیہ وسلم زیادہ جاننے والے ہیں ۔ آپ نے فرمایا : \" مجھے بندے کی اپنے رب کے ساتھ کی کئی بات پر ہنسی آتی ہے وہ کہے گا ۔ اے میرے رب!کیا تونے مجھے ظلم سے پناہ نہیں دی؟آپ صلی اللہ علیہ وسلم نے کہا : وہ فرمائے گا ۔ کیوں نہیں !فرمایا بندہ کہے گا میں اپنے خلاف اپنی طرف کے گواہ کے سوا اور کسی ( کی گواہی ) کو جائز قرار نہیں دیتا ۔ تو وہ فرمائے گا آج تم اپنے خلاف بطور گواہ خود کافی ہواور کراماً کا تبین بھی گواہ ہیں چنانچہ اس کے منہ پر مہرلگادی جائے گی ۔ اور اس کے ( اپنے ) اعضاء سے کہا جائے گا ۔ بولو ، فرمایا : تو وہ اس کے اعمال کے بارے میں بتائیں گے پھر اسے اور ( اس کے اعمال کے بارے میں بتائیں گے پھر اسے اور ( اس کے اعضاء کے ) بولنے کو اکیلا چھوڑ دیا جا ئے گا ۔ فرمایا : تو ( ان کی گواہی سن کر ) وہ کہے گا دورہوجاؤ ، میں تمھاری طرف سے ( دوسروں کے ساتھ ) لڑا کرتا تھا ۔ \"",
+                "urduNarrator": "ہم سے ابوبکر بن النضر بن ابی النضر نے بیان کیا، ہم سے ابو الندر ہاشم بن القاسم نے بیان کیا، ہم سے عبید اللہ اشجعی نے بیان کیا، ان سے سفیان الثوری نے بیان کیا، عبید المکتب کی سند سے، عبید المکتب کی سند سے,  الشعبی حضرت انس بن مالک رضی اللہ عنہ سے روایت ہے کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ النَّضْرِ بْنِ أَبِي النَّضْرِ حَدَّثَنِي أَبُو النَّضْرِ هَاشِمُ بْنُ الْقَاسِمِ حَدَّثَنَا عُبَيْدُ اللَّهِ الْأَشْجَعِيُّ عَنْ سُفْيَانَ الثَّوْرِيِّ عَنْ عُبَيْدٍ الْمُكْتِبِ عَنْ فُضَيْلٍ عَنْ الشَّعْبِيِّ عَنْ أَنَسِ بْنِ مَالِكٍ قَالَ كُنَّا عِنْدَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَضَحِكَ فَقَالَ هَلْ تَدْرُونَ مِمَّ أَضْحَكُ قَالَ قُلْنَا اللَّهُ وَرَسُولُهُ أَعْلَمُ قَالَ مِنْ مُخَاطَبَةِ الْعَبْدِ رَبَّهُ يَقُولُ يَا رَبِّ أَلَمْ تُجِرْنِي مِنْ الظُّلْمِ قَالَ يَقُولُ بَلَى قَالَ فَيَقُولُ فَإِنِّي لَا أُجِيزُ عَلَى نَفْسِي إِلَّا شَاهِدًا مِنِّي قَالَ فَيَقُولُ كَفَى بِنَفْسِكَ الْيَوْمَ عَلَيْكَ شَهِيدًا وَبِالْكِرَامِ الْكَاتِبِينَ شُهُودًا قَالَ فَيُخْتَمُ عَلَى فِيهِ فَيُقَالُ لِأَرْكَانِهِ انْطِقِي قَالَ فَتَنْطِقُ بِأَعْمَالِهِ قَالَ ثُمَّ يُخَلَّى بَيْنَهُ وَبَيْنَ الْكَلَامِ قَالَ فَيَقُولُ بُعْدًا لَكُنَّ وَسُحْقًا فَعَنْكُنَّ كُنْتُ أُنَاضِلُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 15001,
+                "hadithNumber": "7440",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: O Allah, make for the family of Muhammad the provision which is a bare subsistence.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ( دعا کرتے ہوئے ) فرمایا : \" اے اللہ !محمد ( صلی اللہ علیہ وسلم ) کے گھروالوں کے رزق کو زندگی برقرار رکھنے جتنا کردے ۔ \"",
+                "urduNarrator": "مجھ سے زہیر بن حرب نے بیان کیا، ہم سے محمد بن فدیل نے اپنے والد سے اور عمیرہ بن قعقاع سے, ابو زرعہ نے حضرت ابو ہریرہ رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ عَنْ أَبِيهِ عَنْ عُمَارَةَ بْنِ الْقَعْقَاعِ عَنْ أَبِي زُرْعَةَ عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ اللَّهُمَّ اجْعَلْ رِزْقَ آلِ مُحَمَّدٍ قُوتًا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 15002,
+                "hadithNumber": "7441",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: O Allah, provide for the, family of Muhammad their subsistence, and in the narration transmitted on the authority of 'Amr (the words are): O Allah, provide us subsistence",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے دعا کی : اے اللہ !آل محمد کا رزق زندگی برقرار رکھنے جتنا کردے ۔ \"\" اور عمرو کی روایت میں ہے : \"\" اے اللہ! ( آل محمدکو زندگی برقرار رکھنے جتنا ) رزق دے ۔ \"\"",
+                "urduNarrator": "ابو بکر بن ابی شیبہ عمروناقد زہیر بن حرب اور ابو کریب نے کہا : ہمیں وکیع نے حدیث بیان کی کہا : ہمیں اعمش نے عمار ہ بن قعقاع سے حدیث بیان کی انھوں نے ابو زرعہ سے اور انھوں نے حضرت ابو ہریرہ رضی اللہ عنہ سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَعَمْرٌو النَّاقِدُ وَزُهَيْرُ بْنُ حَرْبٍ وَأَبُو كُرَيْبٍ قَالُوا حَدَّثَنَا وَكِيعٌ حَدَّثَنَا الْأَعْمَشُ عَنْ عُمَارَةَ بْنِ الْقَعْقَاعِ عَنْ أَبِي زُرْعَةَ عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ اللَّهُمَّ اجْعَلْ رِزْقَ آلِ مُحَمَّدٍ قُوتًا وَفِي رِوَايَةِ عَمْرٍو اللَّهُمَّ ارْزُقْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 15003,
+                "hadithNumber": "7442",
+                "englishNarrator": null,
+                "hadithEnglish": "It was narrated from Umara bin al-Qa'qa' with this chain of narrators and he said: \"...that which is just adequate.\"",
+                "hadithUrdu": "ہم سے ابو سعید اشجع نے بیان کیا, ابو اسامہ نے کہا : میں نے اعمش سے سنا انھوں نے عمارہ بن قعقاع سے اسی سند کے ساتھ روایت کی اور کہا : \" بقدرکفایت ( کردے ۔ )",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنَاه أَبُو سَعِيدٍ الْأَشَجُّ حَدَّثَنَا أَبُو أُسَامَةَ قَالَ سَمِعْتُ الْأَعْمَشَ ذَكَرَ عَنْ عُمَارَةَ بْنِ الْقَعْقَاعِ بِهَذَا الْإِسْنَادِ وَقَالَ كَفَافًا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 15004,
+                "hadithNumber": "7443",
+                "englishNarrator": "A'isha رضی اللہ عنہا reported:",
+                "hadithEnglish": "Never had the family of Muhammad ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) eaten to the fill since their, arrival in Medina with the bread of wheat for three successive nights until his (Holy Prophet's) death.",
+                "hadithUrdu": "محمد صلی اللہ علیہ وسلم کے گھر والوں نے جب سے آپ مدینہ آئے آپ کی وفات تک کبھی تین راتیں مسلسل گندم کی روٹی سیرہو کرنہیں کھائی ۔",
+                "urduNarrator": "ہم سے زہیر بن حرب اور اسحاق بن ابراہیم نے بیان کیا۔ ہم سے اسحاق نے بیان کیا، اور زہیر نے کہا: ہم سے جریر نے بیان کیا,  منصور نے ابراہیم سے انھوں نے اسود سے اور انھوں نے حضرت عائشہ رضی اللہ عنہا سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ وَإِسْحَقُ بْنُ إِبْرَاهِيمَ قَالَ إِسْحَقُ أَخْبَرَنَا و قَالَ زُهَيْرٌ حَدَّثَنَا جَرِيرٌ عَنْ مَنْصُورٍ عَنْ إِبْرَاهِيمَ عَنْ الْأَسْوَدِ عَنْ عَائِشَةَ قَالَتْ مَا شَبِعَ آلُ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مُنْذُ قَدِمَ الْمَدِينَةَ مِنْ طَعَامِ بُرٍّ ثَلَاثَ لَيَالٍ تِبَاعًا حَتَّى قُبِضَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 15005,
+                "hadithNumber": "7444",
+                "englishNarrator": "A'isha رضی اللہ عنہا reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) never did Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) eat to his fill the bread of wheat for three successive days until he had run the course of his life.",
+                "hadithUrdu": "رسول اللہ نے کبھی متواتر تین دن سیر ہو کر گندم کی روٹی نہیں کھائی یہاں تک کہ آپ اپنی راہ پر روانہ ہو گئے ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ، ابو کریب اور اسحاق بن ابراہیم نے بیان کیا۔ اسحاق نے کہا: ہمیں اسحاق نے خبر دی اور باقی دو نے کہا: ہمیں ابو معاویہ نے خبر دی, اعمش نے ابراہیم سے انھوں نے اسود سے اور انھوں نے حضرت عائشہ رضی اللہ عنہا سے روایت کی کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَأَبُو كُرَيْبٍ وَإِسْحَقُ بْنُ إِبْرَاهِيمَ قَالَ إِسْحَقُ أَخْبَرَنَا و قَالَ الْآخَرَانِ حَدَّثَنَا أَبُو مُعَاوِيَةَ عَنْ الْأَعْمَشِ عَنْ إِبْرَاهِيمَ عَنْ الْأَسْوَدِ عَنْ عَائِشَةَ قَالَتْ مَا شَبِعَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثَلَاثَةَ أَيَّامٍ تِبَاعًا مِنْ خُبْزِ بُرٍّ حَتَّى مَضَى لِسَبِيلِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 15006,
+                "hadithNumber": "7445",
+                "englishNarrator": "A'isha رضی اللہ عنہا reported:",
+                "hadithEnglish": "Never did the family of Muhammad ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) eat to the fill the bread of barley for two successive days until Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) died.",
+                "hadithUrdu": "محمد صلی اللہ علیہ وسلم کے گھر والوں نے کبھی دودن متواتر جوکی روٹی پیٹ بھر کر نہیں کھائی یہاں تک کہ رسول اللہ صلی اللہ علیہ وسلم کی وفات ہو گئی ۔",
+                "urduNarrator": "ہم سے محمد بن المثنیٰ اور محمد بن بشار نے بیان کیا، کہا کہ ہم سے محمد بن جعفر نے بیان کیا، کہا کہ ہم سے شعبہ نے ابواسحاق کی سند سے بیان کیا کہ میں نے سنا, عبد الرحمن بن یزید نے ہمیں اسود سے حدیث بیان کی انھوں نے حضرت عائشہ رضی اللہ عنہا سے روایت کی ، انھوں نےکہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى وَمُحَمَّدُ بْنُ بَشَّارٍ قَالَا حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ أَبِي إِسْحَقَ قَالَ سَمِعْتُ عَبْدَ الرَّحْمَنِ بْنَ يَزِيدَ يُحَدِّثُ عَنْ الْأَسْوَدِ عَنْ عَائِشَةَ أَنَّهَا قَالَتْ مَا شَبِعَ آلُ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ خُبْزِ شَعِيرٍ يَوْمَيْنِ مُتَتَابِعَيْنِ حَتَّى قُبِضَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 15007,
+                "hadithNumber": "7446",
+                "englishNarrator": "A'isha رضی اللہ عنہا reported:",
+                "hadithEnglish": "Never could the family of Muhammad ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) (afford to eat to the fill) the bread of wheat beyond three days (successively).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کے گھر والوں نے تین دن سے زیادہ کبھی سیر ہو کر گندم کی روٹی نہیں کھا ئی ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، ہم سے وکیع نے بیان کیا، سفیان کی سند سے، وہ عبدالرحمٰن بن عبدالرحمٰن کی سند سے, عابس نے حضرت عائشہ رضی اللہ عنہا سے روایت کی کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا وَكِيعٌ عَنْ سُفْيَانَ عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَابِسٍ عَنْ أَبِيهِ عَنْ عَائِشَةَ قَالَتْ مَا شَبِعَ آلُ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ خُبْزِ بُرٍّ فَوْقَ ثَلَاثٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 15008,
+                "hadithNumber": "7447",
+                "englishNarrator": "A'isha رضی اللہ عنہا reported:",
+                "hadithEnglish": "Never could the family of Muhammad (may peace. be upon him) (afford to eat) the bread of wheat for three (successive days) until he ran the course of his life",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کے گھر والوں نے کبھی تین دن سیر ہو کر گندم کی روٹی کھائی  یہاں تک کہ آپ کا انتقال ہوگیا۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا, حفص بن غیاث نے ہمیں ہشام بن عروہ سے حدیث بیان کی ، انھوں نے اپنے والد سے روایت کی ، انھو ں نے کہا : حضرت عائشہ رضی اللہ عنہا نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيهِ قَالَ قَالَتْ عَائِشَةُ مَا شَبِعَ آلُ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ خُبْزِ الْبُرِّ ثَلَاثًا حَتَّى مَضَى لِسَبِيلِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 15009,
+                "hadithNumber": "7448",
+                "englishNarrator": "A'isha رضی اللہ عنہا reported:",
+                "hadithEnglish": "Never could the family of Muhammad ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) (afford to eat) the bread of wheat for two days successively. Even (out of these two days) one (was such wherein he could get) only a date.",
+                "hadithUrdu": "آل محمد صلی اللہ علیہ وسلم نے کبھی مسلسل دو دن گندم کی روٹی سیر ہو کر نہیں کھا ئی مگر دو دنوں میں سے ایک دن کھجورہوتی تھی ۔",
+                "urduNarrator": "ہم سے ابو کریب نے بیان کیا، ہم سے وکیع نے بیان کیا، مسعر نے ہلال  بن حمید نے عروہ سے اور انھوں نے حضرت عائشہ رضی اللہ عنہا سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو كُرَيْبٍ حَدَّثَنَا وَكِيعٌ عَنْ مِسْعَرٍ عَنْ هِلَالِ بْنِ حُمَيْدٍ عَنْ عُرْوَةَ عَنْ عَائِشَةَ قَالَتْ مَا شَبِعَ آلُ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَوْمَيْنِ مِنْ خُبْزِ بُرٍّ إِلَّا وَأَحَدُهُمَا .",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 15010,
+                "hadithNumber": "7449",
+                "englishNarrator": "A'isha رضی اللہ عنہا reported:",
+                "hadithEnglish": "We the family of Muhammad ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) used to spend (the whole) month in which we (did not need to) kindle the fire as (we had nothing to cook) ; we had only dates and water (to fill our bellies).",
+                "hadithUrdu": "ہم آل محمد صلی اللہ علیہ وسلم ایک ماہ تک اس حالت میں رہتے تھے کہ آگ نہیں جلاتے تھے بس کھجوراور پانی پر گزرہوتی تھی ۔",
+                "urduNarrator": "ہم سے عمرو ناقد نے بیان کیا، کہا ہم سے عبدا بن سلیمان نے بیان کیا, یحییٰ بن یمان نے کہا : ہمیں ہشام بن عروہ نے حدیث بیان کی ، انھوں نے اپنے والد سے اورانھوں نے حضرت عائشہ رضی اللہ عنہا سے روایت کی انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا عَمْرٌو النَّاقِدُ حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ قَالَ وَيَحْيَى بْنُ يَمَانٍ حَدَّثَنَا عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيهِ عَنْ عَائِشَةَ قَالَتْ إِنْ كُنَّا آلَ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَنَمْكُثُ شَهْرًا مَا نَسْتَوْقِدُ بِنَارٍ إِنْ هُوَ إِلَّا التَّمْرُ وَالْمَاءُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 15011,
+                "hadithNumber": "7450",
+                "englishNarrator": "This hadith has been narrated on the authority of 'Urwa with the same chain of transmitters (and the words are):",
+                "hadithEnglish": "We used to spend- And he did not make a mention of the family of Muhammad ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌), and Abu Kuraib made this addition to his hadith which was transmitted on the authority of Ibn Numair (and the words are): But this that there was brought to us some meat.",
+                "hadithUrdu": "ہم لوگ اسی حالت میں رہتے تھے ۔ اورانھوں نے \" آل محمد صلی اللہ علیہ وسلم \" کا ذکر نہیں کیا ۔ اور ابو کریب نے ابن نمیر سے مروی اپنی حدیث میں مزید کہا : : الایہ کہ ہمارے پاس ( کہیں سے ) تھوڑا سا گوشت آجاتا ۔",
+                "urduNarrator": "ابو بکر بن ابی شیبہ اور ابو کریب نے کہا : ہمیں ابو اسامہ اور ابن نمیر نے ہشام بن عروہ سے اسی سند کے ساتھ روایت کی",
+                "hadithArabic": "و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَأَبُو كُرَيْبٍ قَالَا حَدَّثَنَا أَبُو أُسَامَةَ وَابْنُ نُمَيْرٍ عَنْ هِشَامِ بْنِ عُرْوَةَ بِهَذَا الْإِسْنَادِ إِنْ كُنَّا لَنَمْكُثُ وَلَمْ يَذْكُرْ آلَ مُحَمَّدٍ وَزَادَ أَبُو كُرَيْبٍ فِي حَدِيثِهِ عَنْ ابْنِ نُمَيْرٍ إِلَّا أَنْ يَأْتِيَنَا اللُّحَيْمُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 15012,
+                "hadithNumber": "7451",
+                "englishNarrator": "`A'isha رضی اللہ عنہا reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) died (in such a state) that there had been nothing in my wooden tub which a living being could afford to eat but a handful of barley. I had been eating out of that for a fairly long duration when I thought of measuring it and it was almost finished.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم وفات پاگئے اور میرے طاقچےمیں کسی جگر رکھنے والے ( ذی روح ) کے کھانے کے لیے تھوڑے سے جو کےسواکچھ نہ تھا میں اس میں سے ( پکا کر ) کھاتی رہی یہاں تک کہ بہت دن گزرگئے ( ایک دن ) میں نے ان کو ماپ لیاتو وہ ختم ہوگئے ۔",
+                "urduNarrator": "ہم سے ابو کریب محمد بن علاء بن کریب نے بیان کیا، ہم سے ابو اسامہ نے، ہشام سے، اپنے والد سے, حضرت عائشہ رضی اللہ عنہا سے روایت ہے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو كُرَيْبٍ مُحَمَّدُ بْنُ الْعَلَاءِ بْنِ كُرَيْبٍ حَدَّثَنَا أَبُو أُسَامَةَ عَنْ هِشَامٍ عَنْ أَبِيهِ عَنْ عَائِشَةَ قَالَتْ تُوُفِّيَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَمَا فِي رَفِّي مِنْ شَيْءٍ يَأْكُلُهُ ذُو كَبِدٍ إِلَّا شَطْرُ شَعِيرٍ فِي رَفٍّ لِي فَأَكَلْتُ مِنْهُ حَتَّى طَالَ عَلَيَّ فَكِلْتُهُ فَفَنِيَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 15013,
+                "hadithNumber": "7452",
+                "englishNarrator": "A'isha رضی اللہ عنہا used to say to 'Urwa:",
+                "hadithEnglish": "Son of my sister, by Allah, I used to see the new moon, then the new moon, then the new moon, i. e. three moons in two months, and fire was not kindled in the house of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ). I ('Urwa) said: Auntie, then what were your means of sustenance? She said: Dates and water. But it (so happened) that Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) had some Ansar as his neighbours and they had milch animals and they used to send to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) some milk of their (animals) and he served that to us.",
+                "hadithUrdu": "اللہ کی قسم! میرے بھانجے !ہم ایک دفعہ پہلی کا چاند دیکھتے پھر ( اگلے مہینے ) پہلی کا چاند دیکھتے دومہینوں میں تین دفعہ بھی رسول اللہ صلی اللہ علیہ وسلم کے حجروں میں چولہا نہ جلا ہو تا ۔ ( عروہ نے ) کہا : میں نے پوچھا خالہ تو آپ کی گزران کے لیے کون سی چیز ہوتی ؟انھوں نے کہا : وہ کالی چیزیں کھجور اور پانی البتہ انصار میں سے کچھ ( گھرانے ) رسول اللہ صلی اللہ علیہ وسلم کے ہمسائے تھے اور انھیں دودھ دینے والی اونٹیناں ملی ہوئی تھیں ۔ وہ ان کے دودھ میں سے کچھ رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں بھیج دیا کرتے تو آپ صلی اللہ علیہ وسلم وہ ہمیں پلادیتے تھے ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، کہا ہم سے عبدالعزیز بن ابی حازم نے بیان کیا, یزید بن رومان نے عروہ سے اور انھوں نے حضرت عائشہ رضی اللہ عنہا سے روایت کی کہ آپ بتایا کرتی تھیں",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي حَازِمٍ عَنْ أَبِيهِ عَنْ يَزِيدَ بْنِ رُومَانَ عَنْ عُرْوَةَ عَنْ عَائِشَةَ أَنَّهَا كَانَتْ تَقُولُ وَاللَّهِ يَا ابْنَ أُخْتِي إِنْ كُنَّا لَنَنْظُرُ إِلَى الْهِلَالِ ثُمَّ الْهِلَالِ ثُمَّ الْهِلَالِ ثَلَاثَةَ أَهِلَّةٍ فِي شَهْرَيْنِ وَمَا أُوقِدَ فِي أَبْيَاتِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَارٌ قَالَ قُلْتُ يَا خَالَةُ فَمَا كَانَ يُعَيِّشُكُمْ قَالَتْ الْأَسْوَدَانِ التَّمْرُ وَالْمَاءُ إِلَّا أَنَّهُ قَدْ كَانَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ جِيرَانٌ مِنْ الْأَنْصَارِ وَكَانَتْ لَهُمْ مَنَائِحُ فَكَانُوا يُرْسِلُونَ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ أَلْبَانِهَا فَيَسْقِينَاهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "54",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 154,
+                    "chapterNumber": "54",
+                    "chapterEnglish": "The Book of Zuhd and Softening of Hearts",
+                    "chapterUrdu": "زہد اور رقت انگیز باتیں",
+                    "chapterArabic": "كتاب الزُّهْدِ وَالرَّقَائِقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 14701,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=588",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=586",
+                "label": "586",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=587",
+                "label": "587",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=588",
+                "label": "588",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=589",
+                "label": "589",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=590",
+                "label": "590",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=591",
+                "label": "591",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=592",
+                "label": "592",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=590",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=590",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=588",
+        "to": 14725,
+        "total": 40465
+    }
+}

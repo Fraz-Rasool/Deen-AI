@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 256,
+        "data": [
+            {
+                "id": 6379,
+                "hadithNumber": "6645",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "An Ansari woman came to the Prophet (ﷺ) in the company of her children, and the Prophet (ﷺ) said to her, \"By Him in Whose Hand my soul is, you are the most beloved people to me!\" And he repeated the statement thrice.",
+                "hadithUrdu": "انصاری خاتون نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئیں ، ان کے ساتھ ان کے بچے بھی تھے ۔ آنحضرت صلی اللہ علیہ وسلم نے ان سے فرمایا کہ اس ذات کی قسم جس کے ہاتھ میں میری جان ہے تم لوگ بھی مجھے تمام لوگوں میں سب سے زیادہ عزیز ہو ۔ یہ الفاظ آنحضرت صلی اللہ علیہ وسلم نے تین مرتبہ فرمائے ۔",
+                "urduNarrator": "ہم سے اسحاق نے بیان کیا ، کہا ہم سے وہب بن جریر نے بیان کیا ، کہا ہم کو شعبہ نے خبر دی ہشام بن زید سے اور انہیں انس بن مالک رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ، حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، أَخْبَرَنَا شُعْبَةُ، عَنْ هِشَامِ بْنِ زَيْدٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ امْرَأَةً، مِنَ الأَنْصَارِ أَتَتِ النَّبِيَّ صلى الله عليه وسلم مَعَهَا أَوْلاَدٌ لَهَا فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ وَالَّذِي نَفْسِي بِيَدِهِ إِنَّكُمْ لأَحَبُّ النَّاسِ إِلَىَّ ‏\"‏‏.‏ قَالَهَا ثَلاَثَ مِرَارٍ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "84",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 84,
+                    "chapterNumber": "84",
+                    "chapterEnglish": "Oaths and Vows",
+                    "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+                    "chapterArabic": "كتاب الأيمان والنذور",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6380,
+                "hadithNumber": "6646",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) met `Umar bin Al-Khattab while the latter was going with a group of camel-riders, and he was swearing by his father. The Prophet (ﷺ) said, \"Lo! Allah forbids you to swear by your fathers, so whoever has to take an oath, he should swear by Allah or keep quiet.\"",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم عمر بن خطاب کے پاس آئے تو وہ سواروں کی ایک جماعت کے ساتھ چل رہے تھے اور اپنے باپ کی قسم کھا رہے تھے ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا خبردار تحقیق اللہ تعالیٰ نے تمہیں باپ دادوں کی قسم کھانے سے منع کیا ہے ، جسے قسم کھانی ہے اسے ( بشرط صدق ) چاہئے کہ اللہ ہی کی قسم کھائے ورنہ چپ رہے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ نے بیان کیا ، ان سے مالک نے ، ان سے نافع نے ، ان سے عبداللہ بن عمر رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَدْرَكَ عُمَرَ بْنَ الْخَطَّابِ وَهْوَ يَسِيرُ فِي رَكْبٍ يَحْلِفُ بِأَبِيهِ فَقَالَ ‏ \"‏ أَلاَ إِنَّ اللَّهَ يَنْهَاكُمْ أَنْ تَحْلِفُوا بِآبَائِكُمْ، مَنْ كَانَ حَالِفًا فَلْيَحْلِفْ بِاللَّهِ، أَوْ لِيَصْمُتْ ‏\"‏‏.‏",
+                "headingArabic": "لاَ تَحْلِفُوا بِآبَائِكُمْ",
+                "headingUrdu": "\"اپنے باپوں کی قسم نہ کھاؤ\"",
+                "headingEnglish": "\"Do not swear by your fathers\"",
+                "chapterId": "84",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 84,
+                    "chapterNumber": "84",
+                    "chapterEnglish": "Oaths and Vows",
+                    "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+                    "chapterArabic": "كتاب الأيمان والنذور",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6381,
+                "hadithNumber": "6647",
+                "englishNarrator": "Narrated `Umar رضی اللہ عنہ :",
+                "hadithEnglish": "\"Allah's Messenger (ﷺ) said to me, 'Allah forbids you to swear by your fathers.\" `Umar رضی اللہ عنہ said, \"By Allah! Since I heard that from the Prophet (ﷺ) , I have not taken such an oath, neither intentionally, nor by reporting the oath of someone else.\" Hadrat Umer رضی اللہ عنہما  states: By Allah! Since I heard it from the prophet , I have never sworn such an oath himself or quoting from others. Mujahid says: ''أَوْ أَثَرَةٍ مِنْ عِلْمٍ'' means: To give the news of the former people. Oqail, Zubaidi and ishaq Kalbi have reported the same. Hadrat Ibn-e-Umer رضی اللہ عنہما states that the prophet ﷺ heard Hadrat Umer رضی اللہ عنہ taking an oath.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے مجھ سے فرمایا تھا کہ اللہ تعالیٰ تمہیں باپ دادوں کی قسم کھانے سے منع کیا ہے ۔ حضرت عمر رضی اللہ عنہ نے بیان کیا واللہ ! پھر میں نے ان کی آنحضرت صلی اللہ علیہ وسلم سے ممانعت سننے کے بعد کبھی قسم نہیں کھائی نہ اپنی طرف سے غیر اللہ کی قسم کھائی نہ کسی دوسرے کی زبان سے نقل کی ۔ مجاہد نے کہا سورۃ الاحقاف میں جو اثارۃ من علم ہے اس کا معنی یہ ہے کہ علم کی کوئی بات نقل کرتا ہو ۔ یونس کے ساتھ اس حدیث کو عقیل اور محمد بن ولید زبیدی اور اسحاق بن یحییٰ کلبی نے بھی زہری سے روایت کیا اور سفیان بن عیینہ اور معمر نے اس کو زہری سے روایت کیا ، انہوں نے سالم سے ، انہوں نے ابن عمر رضی اللہ عنہما سے ، انہوں نے آنحضرت صلی اللہ علیہ وسلم سے کہ آپ نے حضرت عمر رضی اللہ عنہ کو غیر اللہ کی قسم کھاتے سنا ۔ روایت میں لفظ اثارۃ کی تفسیر آثراً کی مناسبت سے بیان کر دی کیونکہ دونوں کا مادہ ایک ہی ہے ۔",
+                "urduNarrator": "ہم سے سعید بن عفیرنے بیان کیا ، کہا ہم سے ابن وہب نے بیان کیا ، ان سے یونس نے ، ان سے ابن شہاب نے ، ان سے سالم نے کہ ابن عمر رضی اللہ عنہما نے کہا کہ میں نے عمر رضی اللہ عنہ سے سنا کہ",
+                "hadithArabic": "حَدَّثَنَا سَعِيدُ بْنُ عُفَيْرٍ، حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، قَالَ قَالَ سَالِمٌ قَالَ ابْنُ عُمَرَ سَمِعْتُ عُمَرَ، يَقُولُ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنَّ اللَّهَ يَنْهَاكُمْ أَنْ تَحْلِفُوا بِآبَائِكُمْ ‏\"‏‏.‏ قَالَ عُمَرُ فَوَاللَّهِ مَا حَلَفْتُ بِهَا مُنْذُ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم ذَاكِرًا وَلاَ آثِرًا‏.‏ قَالَ مُجَاهِدٌ ‏{‏أَوْ أَثَرَةٍ مِنْ عِلْمٍ‏}‏ يَأْثُرُ عِلْمًا‏.‏ تَابَعَهُ عُقَيْلٌ وَالزُّبَيْدِيُّ وَإِسْحَاقُ الْكَلْبِيُّ عَنِ الزُّهْرِيِّ‏.‏ وَقَالَ ابْنُ عُيَيْنَةَ وَمَعْمَرٌ عَنِ الزُّهْرِيِّ عَنْ سَالِمٍ عَنِ ابْنِ عُمَرَ سَمِعَ النَّبِيُّ صلى الله عليه وسلم عُمَرَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "84",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 84,
+                    "chapterNumber": "84",
+                    "chapterEnglish": "Oaths and Vows",
+                    "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+                    "chapterArabic": "كتاب الأيمان والنذور",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6382,
+                "hadithNumber": "6648",
+                "englishNarrator": "Narrated `Abdullah bin `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"Do not swear by your fathers.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا اپنے باپ دادوں کی قسم نہ کھاؤ ۔",
+                "urduNarrator": "ہم سے موسیٰ بن اسماعیل نے بیان کیا ، انہوں نے کہا ہم سے عبدالعزیز بن مسلم نے بیان کیا ، انہوں نے کہا ہم سے عبداللہ بن دینار نے بیان کیا ، انہوں نے کہا کہ میں نے عبداللہ بن عمر رضی اللہ عنہما سے سنا ، انہوں نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُسْلِمٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دِينَارٍ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ عُمَرَ ـ رضى الله عنهما ـ يَقُولُ قَالَ رَسُولُ اللَّهُ صلى الله عليه وسلم ‏ \"‏ لاَ تَحْلِفُوا بِآبَائِكُمْ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "84",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 84,
+                    "chapterNumber": "84",
+                    "chapterEnglish": "Oaths and Vows",
+                    "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+                    "chapterArabic": "كتاب الأيمان والنذور",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6383,
+                "hadithNumber": "6649",
+                "englishNarrator": "Narrated Zahdam:",
+                "hadithEnglish": "There was a relation of love and brotherhood between this tribe of Jarm and Al-Ash`ariyin. Once we were with Abu Musa Al-Ash`ari رضی اللہ عنہ , and then a meal containing chicken was brought to Abu Musa رضی اللہ عنہ , and there was present, a man from the tribe of Taimillah who was of red complexion as if he were from non-Arab freed slaves. Abu Musa رضی اللہ عنہ invited him to the meal. He said, \"I have seen chickens eating dirty things, so I deemed it filthy and took an oath that I would never eat chicken.\" On that, Abu Musa رضی اللہ عنہ said, \"Get up, I will narrate to you about that. Once a group of the Ash`ariyin and I went to Allah's Messenger (ﷺ) and asked him to provide us with mounts; he said, 'By Allah, I will never give you any mounts nor do I have anything to mount you on.' Then a few camels of war booty were brought to Allah's Messenger (ﷺ) , and he asked about us, saying, 'Where are the Ash-'ariyin?' He then ordered five nice camels to be given to us, and when we had departed, we said, 'What have we done? Allah's Messenger (ﷺ) had taken the oath not to give us any mounts, and that he had nothing to mount us on, and later he gave us that we might ride? Did we take advantage of the fact that Allah's Messenger (ﷺ) had forgotten his oath? By Allah, we will never succeed.' So we went back to him and said to him, 'We came to you to give us mounts, and you took an oath that you would not give us any mounts and that you had nothing to mount us on.' On that he said, 'I did not provide you with mounts, but Allah did. By Allah, if I take an oath to do something, and then find something else better than it, I do that which is better and make expiation for the dissolution of the oath.' \"",
+                "hadithUrdu": "ان قبائل جرم اور اشعر کے درمیان بھائی چارہ تھا ۔ ہم ابوموسیٰ اشعری رضی اللہ عنہ کی خدمت میں موجود تھے تو ان کے لئے کھانا لایا گیا ۔ اس میں مرغی بھی تھی ۔ ان کے پاس بنی تیم اللہ کا ایک سرخ رنگ کا آدمی بھی موجود تھا ۔ غالباً وہ غلاموں میں سے تھا ۔ ابوموسیٰ اشعری رضی اللہ عنہ نے اسے کھانے پر بلایا تو اس نے کہا کہ میں نے مرغی کو گندگی کھاتے دیکھا تو مجھے گھن آئی اور پھر میں نے قسم کھا لی کہ اب میں اس کا گوشت نہیں کھاؤں گا ۔ ابوموسیٰ اشعری رضی اللہ عنہ نے کہا کہ کھڑے ہو جاؤ تو میں تمہیں اس کے بارے میں ایک حدیث سناؤں ۔ میں رسول اللہ صلی اللہ علیہ وسلم کے پاس قبیلہ اشعر کے چند لوگوں کے ساتھ آیا اور ہم نے آنحضرت صلی اللہ علیہ وسلم سے سواری کا جانور مانگا ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ اللہ کی قسم میں تمہیں سواری نہیں دے سکتا اور نہ میرے پاس ایسا کوئی جانور ہے جو تمہیں سواری کے لئے دے سکوں ، پھر آنحضرت صلی اللہ علیہ وسلم کے پاس کچھ مال غنیمت کے اونٹ آئے تو آنحضرت صلی اللہ علیہ وسلم نے پوچھا کہ اشعری لوگ کہاں ہیں پھر آپ نے ہم کو پانچ عمدہ قسم کے اونٹ دئیے جانے کا حکم فرمایا ۔ جب ہم ان کو لے کر چلے تو ہم نے کہا یہ ہم نے کیا کیا رسول اللہ صلی اللہ علیہ وسلم تو قسم کھا چکے تھے کہ ہم کو سواری نہیں دیں گے اور درحقیقت آپ صلی اللہ علیہ وسلم کے پاس اس وقت سواری موجود بھی نہ تھی پھر آپ نے ہم کو سوار کرا دیا ۔ ہم نے رسول اللہ صلی اللہ علیہ وسلم کو آپ کی قسم سے غافل کر دیا ۔ قسم اللہ کی ہم اس حرکت کے بعد کبھی فلاح نہیں پاسکیں گے ۔ پس ہم آپ کی طرف لوٹ کر آئے اور آپ سے ہم نے تفصیل بالا کو عرض کیا کہ ہم آپ کے پاس آئے تھے تاکہ آپ ہم کو سواری پر سوار کرا دیں پس آپ نے قسم کھا لی تھی کہ آپ ہم کو سوار نہیں کرائیں گے اور درحقیقت اس وقت آپ کے پاس سواری موجود بھی نہ تھی ۔ آپ نے یہ سب سن کر فرمایا کہ میں نے تم کو سوارنہیں کرایا بلکہ اللہ نے تم کو سوار کرا دیا ۔ اللہ کی قسم جب میں کوئی قسم کھا لیتا ہوں بعد میں اس سے بہتر اور معاملہ دیکھتا ہوں تو میں وہی کرتا ہوں جو بہتر ہوتا ہے اور اس قسم کا کفارہ ادا کر دیتا ہوں ۔",
+                "urduNarrator": "ہم سے قتیبہ نے بیان کیا ، کہا ہم سے عبدالوہاب نے ، ان سے ایوب نے ، ان سے ابوقلابہ اور قاسم تیمی نے اور ان سے زہدم نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، وَالْقَاسِمِ التَّمِيمِيِّ، عَنْ زَهْدَمٍ، قَالَ كَانَ بَيْنَ هَذَا الْحَىِّ مِنْ جَرْمٍ وَبَيْنَ الأَشْعَرِيِّينَ وُدٌّ وَإِخَاءٌ، فَكُنَّا عِنْدَ أَبِي مُوسَى الأَشْعَرِيِّ، فَقُرِّبَ إِلَيْهِ طَعَامٌ فِيهِ لَحْمُ دَجَاجٍ وَعِنْدَهُ رَجُلٌ مِنْ بَنِي تَيْمِ اللَّهِ أَحْمَرُ كَأَنَّهُ مِنَ الْمَوَالِي، فَدَعَاهُ إِلَى الطَّعَامِ فَقَالَ إِنِّي رَأَيْتُهُ يَأْكُلُ شَيْئًا فَقَذِرْتُهُ، فَحَلَفْتُ أَنْ لاَ آكُلَهُ‏.‏ فَقَالَ قُمْ فَلأُحَدِّثَنَّكَ عَنْ ذَاكَ، إِنِّي أَتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فِي نَفَرٍ مِنَ الأَشْعَرِيِّينَ نَسْتَحْمِلُهُ فَقَالَ ‏\"‏ وَاللَّهِ لاَ أَحْمِلُكُمْ، وَمَا عِنْدِي مَا أَحْمِلُكُمْ ‏\"‏‏.‏ فَأُتِيَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِنَهْبِ إِبِلٍ فَسَأَلَ عَنَّا‏.‏ فَقَالَ ‏\"‏ أَيْنَ النَّفَرُ الأَشْعَرِيُّونَ ‏\"‏‏.‏ فَأَمَرَ لَنَا بِخَمْسِ ذَوْدٍ غُرِّ الذُّرَى، فَلَمَّا انْطَلَقْنَا قُلْنَا مَا صَنَعْنَا حَلَفَ رَسُولُ اللَّهِ صلى الله عليه وسلم لاَ يَحْمِلُنَا وَمَا عِنْدَهُ مَا يَحْمِلُنَا ثُمَّ حَمَلَنَا، تَغَفَّلْنَا رَسُولَ اللَّهِ صلى الله عليه وسلم يَمِينَهُ، وَاللَّهِ لاَ نُفْلِحُ أَبَدًا، فَرَجَعْنَا إِلَيْهِ فَقُلْنَا لَهُ إِنَّا أَتَيْنَاكَ لِتَحْمِلَنَا فَحَلَفْتَ أَنْ لاَ تَحْمِلَنَا، وَمَا عِنْدَكَ مَا تَحْمِلُنَا‏.‏ فَقَالَ ‏\"‏ إِنِّي لَسْتُ أَنَا حَمَلْتُكُمْ، وَلَكِنَّ اللَّهَ حَمَلَكُمْ، وَاللَّهِ لاَ أَحْلِفُ عَلَى يَمِينٍ فَأَرَى غَيْرَهَا خَيْرًا مِنْهَا، إِلاَّ أَتَيْتُ الَّذِي هُوَ خَيْرٌ وَتَحَلَّلْتُهَا ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "84",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 84,
+                    "chapterNumber": "84",
+                    "chapterEnglish": "Oaths and Vows",
+                    "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+                    "chapterArabic": "كتاب الأيمان والنذور",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6384,
+                "hadithNumber": "6650",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Whoever swears saying in his oath. 'By Al-Lat and Al-`Uzza,' should say, 'None has the right to be worshipped but Allah; and whoever says to his friend, 'Come, let me gamble with you,' should give something in charity.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا جس نے قسم کھائی اور کہا کہ ” لات و عزیٰ کی قسم “ تو اسے پھر کلمہ لا الہ الااﷲ کہہ لینا چاہئے اور جو شخص اپنے ساتھی سے کہے کہ آؤ جوا کھیلیں تو اسے چاہئے کہ ( اس کے کفارہ میں ) صدقہ کرے ۔",
+                "urduNarrator": "مجھ سے عبداللہ بن محمد نے بیان کیا ، انہوں نے کہا ہم سے ہشام بن یوسف نے بیان کیا ، انہوں نے کہا ہم کو معمر نے خبر دی ، انہوں نے کہا ہم سے زہری نے بیان کیا ، انہیں حمید بن عبدالرحمٰن نے اور ان سے حضرت ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا هِشَامُ بْنُ يُوسُفَ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ حَلَفَ فَقَالَ فِي حَلِفِهِ بِاللاَّتِ وَالْعُزَّى‏.‏ فَلْيَقُلْ لاَ إِلَهَ إِلاَّ اللَّهُ‏.‏ وَمَنْ قَالَ لِصَاحِبِهِ تَعَالَ أُقَامِرْكَ‏.‏ فَلْيَتَصَدَّقْ ‏\"‏‏.‏",
+                "headingArabic": "لاَ يُحْلَفُ بِاللاَّتِ وَالْعُزَّى وَلاَ بِالطَّوَاغِيتِ",
+                "headingUrdu": "لات اور العزیٰ یا کسی جھوٹے معبود کی قسم نہیں کھانی چاہیے۔",
+                "headingEnglish": "One should not swear by Al-Lat and Al-'Uzza or by any false deities",
+                "chapterId": "84",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 84,
+                    "chapterNumber": "84",
+                    "chapterEnglish": "Oaths and Vows",
+                    "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+                    "chapterArabic": "كتاب الأيمان والنذور",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6385,
+                "hadithNumber": "6651",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) had a gold ring made for himself, and he used to wear it with the stone towards the inner part of his hand. Consequently, the people had similar rings made for themselves. Afterwards the Prophet; sat on the pulpit and took it off, saying, \"I used to wear this ring and keep its stone towards the palm of my hand.\" He then threw it away and said, \"By Allah, I will never wear it.\" Therefore all the people threw away their rings as well.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے سونے کی ایک انگوٹھی بنوائی اور آنحضرت صلی اللہ علیہ وسلم اسے پہنتے تھے ، اس کا نگینہ ہتھیلی کے حصے کی طرف رکھتے تھے ۔ پھر لوگوں نے بھی ایسی انگوٹھیاں بنوالیں اس کے بعد ایک دن آنحضرت صلی اللہ علیہ وسلم منبر پر بیٹھے اوراپنی انگوٹھی اتاردی اور فرمایا کہ میں اسے پہنتا تھا اور اس کا نگینہ اندر کی جانب رکھتا تھا ، پھر آپ صلی اللہ علیہ وسلم نے اسے اتار کر پھینک دیا اور فرمایا کہ اللہ کی قسم میں اب اسے کبھی نہیں پہنوں گا ۔ پس لوگوں نے بھی اپنی انگوٹھیاں اتار کر پھینک دیں ۔",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا ، کہا ہم سے لیث بن سعد نے بیان کیا ، ان سے نافع نے ، ان سے عبداللہ بن عمر رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم اصْطَنَعَ خَاتَمًا مِنْ ذَهَبٍ وَكَانَ يَلْبَسُهُ، فَيَجْعَلُ فَصَّهُ فِي بَاطِنِ كَفِّهِ، فَصَنَعَ النَّاسُ خَوَاتِيمَ ثُمَّ إِنَّهُ جَلَسَ عَلَى الْمِنْبَرِ فَنَزَعَهُ، فَقَالَ ‏\"‏ إِنِّي كُنْتُ أَلْبَسُ هَذَا الْخَاتِمَ وَأَجْعَلُ فَصَّهُ مِنْ دَاخِلٍ ‏\"‏‏.‏ فَرَمَى بِهِ ثُمَّ قَالَ ‏\"‏ وَاللَّهِ لاَ أَلْبَسُهُ أَبَدًا ‏\"‏‏.‏ فَنَبَذَ النَّاسُ خَوَاتِيمَهُمْ‏.‏",
+                "headingArabic": "مَنْ حَلَفَ عَلَى الشَّىْءِ وَإِنْ لَمْ يُحَلَّفْ",
+                "headingUrdu": "وہ جو کسی چیز کے بارے میں قسم کھاتا ہے حالانکہ اسے قسم دینے کے لیے نہیں کہا گیا تھا۔",
+                "headingEnglish": "The one who gives an oath regarding something although he has not been asked to give an oath",
+                "chapterId": "84",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 84,
+                    "chapterNumber": "84",
+                    "chapterEnglish": "Oaths and Vows",
+                    "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+                    "chapterArabic": "كتاب الأيمان والنذور",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6386,
+                "hadithNumber": "6652",
+                "englishNarrator": "Narrated Thabit bin Ad-Dahhak:",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Whoever swears by a religion other than Islam, is, as he says; and whoever commits suicide with something, will be punished with the same thing in the (Hell) Fire; and cursing a believer is like murdering him; and whoever accuses a believer of disbelief, then it is as if he had killed him.\"",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم نے فرمایا جو اسلام کے سوا کسی اور مذہب پر قسم کھائے پس وہ ایسا ہی ہے جیسی کہ اس نے قسم کھائی ہے اور جو شخص اپنے نفس کو کسی چیز سے ہلاک کرے وہ دوزخ میں اسی چیز سے عذاب دیا جاتا رہے گا اور مومن پر لعنت بھیجنا اس کو قتل کرنے کے برابر ہے اور جس نے کسی مومن پر کفر کا الزام لگایا پس وہ بھی اس کے قتل کرنے کے برابر ہے ۔",
+                "urduNarrator": "ہم سے معلی بن اسعد نے بیان کیا ، کہا ہم سے وہیب نے بیان کیا ، انہوں نے ایوب سے روایت کیا ، انہوں نے ابوقلابہ سے ، انہوں نے ثابت بن ضحاک سے ، انہوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا مُعَلَّى بْنُ أَسَدٍ، حَدَّثَنَا وُهَيْبٌ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ ثَابِتِ بْنِ الضَّحَّاكِ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ مَنْ حَلَفَ بِغَيْرِ مِلَّةِ الإِسْلاَمِ فَهْوَ كَمَا قَالَ ـ قَالَ ـ وَمَنْ قَتَلَ نَفْسَهُ بِشَىْءٍ عُذِّبَ بِهِ فِي نَارِ جَهَنَّمَ، وَلَعْنُ الْمُؤْمِنِ كَقَتْلِهِ، وَمَنْ رَمَى مُؤْمِنًا بِكُفْرٍ فَهْوَ كَقَتْلِهِ ‏\"‏‏.‏",
+                "headingArabic": "مَنْ حَلَفَ بِمِلَّةٍ سِوَى مِلَّةِ الإِسْلاَمِ",
+                "headingUrdu": "جو شخص اسلام کے علاوہ کسی اور مذہب کی قسم کھائے ۔",
+                "headingEnglish": "Whoever swears by a religion other than Islam",
+                "chapterId": "1",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 1,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "Revelation",
+                    "chapterUrdu": "وحی کے بیان میں",
+                    "chapterArabic": "كتاب بدء الوحى",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6387,
+                "hadithNumber": "6653",
+                "englishNarrator": "Narrated Abu Hurairah رضی اللہ عنہ :",
+                "hadithEnglish": "He heard the Prophet (ﷺ) saying, \"Allah decided to test three people from Bani Isra'il. So, He sent an angel who came first to the leper and said, '(I am a traveller) who has run short of all means of living, and I have nobody to help me except Allah, and then with your help.'\" Abu Hurairah then mentioned the complete narration.",
+                "hadithUrdu": "انہوں نے آنحضرت صلی اللہ علیہ وسلم سے سنا ، آپ فرماتے تھے بنی اسرائیل میں تین شخص تھے اللہ نے ان کو آزمانا چاہا ( پھر سارا قصہ بیان کیا ) فرشتے کو کوڑھی کے پاس بھیجا وہ اس سے کہنے لگا میری روزی کے سارے ذریعے کٹ گئے ہیں اب اللہ ہی کا آسرا ہے پھر تیرا ( یا اب اللہ ہی کی مدد درکار ہے پھر تیری )  ابوہریرہ نے پھر پوری حدیث کو ذکر کیا ۔",
+                "urduNarrator": "اور عمرو بن عاصم نے کہا ہم سے ہمام بن یحییٰ نے بیان کیا ، کہا ہم سے اسحاق بن عبداللہ نے ، کہا ہم سے عبدالرحمٰن بن ابی عمرہ نے ، ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا ،",
+                "hadithArabic": "وَقَالَ عَمْرُو بْنُ عَاصِمٍ حَدَّثَنَا هَمَّامٌ، حَدَّثَنَا إِسْحَاقُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ أَبِي عَمْرَةَ، أَنَّ أَبَا هُرَيْرَةَ، حَدَّثَهُ أَنَّهُ، سَمِعَ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ إِنَّ ثَلاَثَةً فِي بَنِي إِسْرَائِيلَ أَرَادَ اللَّهُ أَنْ يَبْتَلِيَهُمْ، فَبَعَثَ مَلَكًا فَأَتَى الأَبْرَصَ فَقَالَ تَقَطَّعَتْ بِي الْحِبَالُ، فَلاَ بَلاَغَ لِي إِلاَّ بِاللَّهِ، ثُمَّ بِكَ ‏\"‏‏.‏ فَذَكَرَ الْحَدِيثَ‏.‏",
+                "headingArabic": "لاَ يَقُولُ مَا شَاءَ اللَّهُ وَشِئْتَ‏.‏ وَهَلْ يَقُولُ أَنَا بِاللَّهِ ثُمَّ بِكَ",
+                "headingUrdu": "کسی کو یہ نہیں کہنا چاہئے: \"جو اللہ چاہے اور جو چاہے۔\"",
+                "headingEnglish": "One should not say: \"Whatever Allah wills and whatever you will.\"",
+                "chapterId": "84",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 84,
+                    "chapterNumber": "84",
+                    "chapterEnglish": "Oaths and Vows",
+                    "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+                    "chapterArabic": "كتاب الأيمان والنذور",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6388,
+                "hadithNumber": "6654",
+                "englishNarrator": "Narrated Al-Bara رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) ordered us to help others to fulfill the oaths.",
+                "hadithUrdu": "آنحضرت صلی اللہ علیہ وسلم نے قسم کھانے والے کو سچا کرنے کا حکم فرمایا ۔",
+                "urduNarrator": "ہم سے قبیصہ بن عقبہ نے بیان کیا ، کہا ہم سے سفیان ثوری نے ، انہوں نے اشعث بن ابی الشعثاء سے ، انہوں نے معاویہ بن سویدبن مقرن سے ، انہوں نے براء بن عازب سے ، انہوں نے آنحضرت صلی اللہ علیہ وسلم سے ( دوسری سند ) امام بخاری نے کہا اور مجھ سے محمد بن بشار نے بیان کیا ، کہا ہم سے غندر محمد بن جعفر نے ، کہا ہم سے شعبہ نے ، انہوں نے اشعث سے ، انہوں نے معاویہ بن سوید بن مقرن سے ، انہوں نے براء رضی اللہ عنہ سے ، انہوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا قَبِيصَةُ، حَدَّثَنَا سُفْيَانُ، عَنْ أَشْعَثَ، عَنْ مُعَاوِيَةَ بْنِ سُوَيْدِ بْنِ مُقَرِّنٍ، عَنِ الْبَرَاءِ، عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏ وَحَدَّثَنِي مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ أَشْعَثَ، عَنْ مُعَاوِيَةَ بْنِ سُوَيْدِ بْنِ مُقَرِّنٍ، عَنِ الْبَرَاءِ ـ رضى الله عنه ـ قَالَ أَمَرَنَا النَّبِيُّ صلى الله عليه وسلم بِإِبْرَارِ الْمُقْسِمِ‏.‏",
+                "headingArabic": "قَوْلِ اللَّهِ تَعَالَى: {وَأَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ}",
+                "headingUrdu": "\"وہ اللہ کی قسمیں کھاتے ہیں اپنی سخت ترین قسمیں کہ...\"",
+                "headingEnglish": "\"They swear by Allah their strongest oaths that ...\"",
+                "chapterId": "84",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 84,
+                    "chapterNumber": "84",
+                    "chapterEnglish": "Oaths and Vows",
+                    "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+                    "chapterArabic": "كتاب الأيمان والنذور",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6389,
+                "hadithNumber": "6655",
+                "englishNarrator": "Narrated Usama:",
+                "hadithEnglish": "Once a daughter of Allah's Messenger (ﷺ) sent a message to Allah's Messenger (ﷺ) while Usama, Sa`d, and my father or Ubai were (sitting there) with him. She said, (in the message); My child is going to die; please come to us.\" Allah's Messenger (ﷺ) returned the messenger and told him to convey his greetings to her, and say, \"Whatever Allah takes, is for Him and whatever He gives is for Him, and everything with Him has a limited fixed term (in this world): so she should be patient and hope for Allah's reward.\" Then she again sent for him swearing that he should come; so The Prophet (ﷺ) got up, and so did we. When he sat there (at the house of his daughter), the child was brought to him, and he took him into his lap while the child's breath was disturbed in his chest. The eyes of Allah's Messenger (ﷺ) started shedding tears. Sa`d  رضی اللہ عنہ said, \"What is this, O Allah's Messenger (ﷺ)?\" The Prophet (ﷺ) said, \"This is the mercy which Allah has lodged in the hearts of whoever He wants of His slaves, and verily Allah is merciful only to those of His slaves who are merciful (to others).'",
+                "hadithUrdu": "آنحضرت صلی اللہ علیہ وسلم کی ایک صاحبزادی ( حضرت زینب ) نے آپ کو بلابھیجا اس وقت آپ کے پاس اسامہ بن زید اور سعد بن عبادہ اور ابی بن کعب رضی اللہ عنہم بھی بیٹھے تھے ۔ صاحبزادی صاحبہ نے کہلا بھیجا کہ ان کا بچہ مرنے کے قریب ہے آپ تشریف لائیے ۔ آپ نے ان کے جواب میں یوں کہلا بھیجا میرا سلام کہو اور کہو سب اللہ کا مال ہے جو اس نے لے لیا اور جو اس نے عنایت فرمایا اور ہر چیز کا اس کے پاس وقت مقرر ہے ، صبر کرو اور اللہ سے ثواب کی امید رکھو ۔ صاحبزادی صاحبہ نے قسم دے کر پھر کہلابھیجا کہ نہیں آپ ضرور تشریف لائیے ۔ اس وقت آپ اٹھے ، ہم لوگ بھی ساتھ اٹھے جب آپ صاحبزادی صاحبہ کے گھر پر پہنچے اور وہاں جا کر بیٹھے تو بچے کو اٹھا کر آپ کے پاس لائے ۔ آپ نے اسے گودمیں بٹھالیا وہ دم توڑ رہا تھا ۔ یہ حال پر ملال دیکھ کر آپ کی آنکھوں سے آنسو بہہ نکلے ۔ سعد بن عبادہ رضی اللہ عنہ نے عرض کیا یا رسول اللہ ! یہ رونا کیسا ہے ؟ آپ نے فرمایا یہ رونا رحم کی وجہ سے ہے اور اللہ اپنے جس بندے کے دل میں چاہتا ہے رحم رکھتا ہے یا یہ ہے کہ اللہ اپنے ان ہی بندوں پر رحم کرے گا جو دوسروں پر رحم کرتے ہیں ۔",
+                "urduNarrator": "ہم سے حفص بن عمر نے بیان کیا ، کہا ہم سے شعبہ نے ، کہا ہم کو عاصم الاحول نے خبر دی ، کہا میں نے ابوعثمان سے سنا ، وہ اسامہ سے نقل کرتے تھے کہ",
+                "hadithArabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، أَخْبَرَنَا عَاصِمٌ الأَحْوَلُ، سَمِعْتُ أَبَا عُثْمَانَ، يُحَدِّثُ عَنْ أُسَامَةَ، أَنَّ ابْنَةً لِرَسُولِ اللَّهِ، صلى الله عليه وسلم أَرْسَلَتْ إِلَيْهِ وَمَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم أُسَامَةُ بْنُ زَيْدٍ وَسَعْدٌ وَأُبَىٌّ أَنَّ ابْنِي قَدِ احْتُضِرَ فَاشْهَدْنَا‏.‏ فَأَرْسَلَ يَقْرَأُ السَّلاَمَ وَيَقُولُ ‏\"‏ إِنَّ لِلَّهِ مَا أَخَذَ وَمَا أَعْطَى وَكُلُّ شَىْءٍ عِنْدَهُ مُسَمًّى فَلْتَصْبِرْ وَتَحْتَسِبْ ‏\"‏‏.‏ فَأَرْسَلَتْ إِلَيْهِ تُقْسِمُ عَلَيْهِ، فَقَامَ وَقُمْنَا مَعَهُ، فَلَمَّا قَعَدَ رُفِعَ إِلَيْهِ، فَأَقْعَدَهُ فِي حَجْرِهِ وَنَفْسُ الصَّبِيِّ تَقَعْقَعُ، فَفَاضَتْ عَيْنَا رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ سَعْدٌ مَا هَذَا يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ هَذَا رَحْمَةٌ يَضَعُهَا اللَّهُ فِي قُلُوبِ مَنْ يَشَاءُ مِنْ عِبَادِهِ، وَإِنَّمَا يَرْحَمُ اللَّهُ مِنْ عِبَادِهِ الرُّحَمَاءَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "84",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 84,
+                    "chapterNumber": "84",
+                    "chapterEnglish": "Oaths and Vows",
+                    "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+                    "chapterArabic": "كتاب الأيمان والنذور",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6390,
+                "hadithNumber": "6656",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"Any Muslim who has lost three of his children will not be touched by the Fire except that which will render Allah's oath fulfilled.\"",
+                "hadithUrdu": "آنحضرت صلی اللہ علیہ وسلم نے فرمایا جس مسلمان کے تین بچے مر جائیں تو اس کو دوزخ کی آگ نہیں چھوئے گی مگر صرف قسم اتارنے کے لئے ۔",
+                "urduNarrator": "ہم سے اسماعیل بن ابی اویس نے بیان کیا ، انہوں نے کہا مجھ سے امام مالک نے ، انہوں نے ابن شہاب سے روایت کیا ، انہوں نے سعید بن مسیب سے روایت کیا ، انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کیا کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنِ ابْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَمُوتُ لأَحَدٍ مِنَ الْمُسْلِمِينَ ثَلاَثَةٌ مِنَ الْوَلَدِ، تَمَسُّهُ النَّارُ، إِلاَّ تَحِلَّةَ الْقَسَمِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "84",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 84,
+                    "chapterNumber": "84",
+                    "chapterEnglish": "Oaths and Vows",
+                    "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+                    "chapterArabic": "كتاب الأيمان والنذور",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6391,
+                "hadithNumber": "6657",
+                "englishNarrator": "Narrated Haritha bin Wahb:",
+                "hadithEnglish": "I heard the Prophet (ﷺ) saying, \"Shall I tell you of the people of Paradise? They comprise every poor humble person, and if he swears by Allah to do something, Allah will fulfill it; while the people of the fire comprise every violent, cruel arrogant person.\"",
+                "hadithUrdu": "میں نے نبی کریم صلی اللہ علیہ وسلم سے سنا ، آپ فرماتے تھے کہ میں تم کو بتلاؤں بہشتی کون لوگ ہیں ۔ ہر ایک غریب ناتواں جو اگر اللہ کے بھروسے پر قسم کھا بیٹھے تو اللہ اس کو سچا کرے ( اس کی قسم پوری کر دے ) اور دوزخی کون لوگ ہیں ہر ایک موٹا ، لڑاکا ، مغرور ، فسادی ۔",
+                "urduNarrator": "ہم سے محمد بن مثنیٰ نے بیان کیا ، کہا مجھ سے غندر نے بیان کیا ، کہا ہم سے شعبہ نے بیان کیا ، ان سے معبد بن خالد نے ، کہا میں نے حارثہ بن وہب سے سنا ، کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنِي غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ مَعْبَدِ بْنِ خَالِدٍ، سَمِعْتُ حَارِثَةَ بْنَ وَهْبٍ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ أَلاَ أَدُلُّكُمْ عَلَى أَهْلِ الْجَنَّةِ، كُلُّ ضَعِيفٍ مُتَضَعَّفٍ، لَوْ أَقْسَمَ عَلَى اللَّهِ لأَبَرَّهُ، وَأَهْلِ النَّارِ كُلُّ جَوَّاظٍ عُتُلٍّ مُسْتَكْبِرٍ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "84",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 84,
+                    "chapterNumber": "84",
+                    "chapterEnglish": "Oaths and Vows",
+                    "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+                    "chapterArabic": "كتاب الأيمان والنذور",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6392,
+                "hadithNumber": "6658",
+                "englishNarrator": "Narrated `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) was asked, \"Who are the best people?\" He replied: The people of my generation, and then those who will follow (come after) them, and then those who will come after the later; after that there will come some people whose witness will precede their oaths and their oaths will go ahead of their witness.\" Ibrahim (a sub-narrator) said, \"When we were young, our elder friends used to prohibit us from taking oaths by saying, 'I bear witness swearing by Allah, or by Allah's Covenant.\"'",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم سے پوچھا گیا کہ کون لوگ اچھے ہیں ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ میرا زمانہ ، پھر وہ لوگ جو اس سے قریب ہوں گے پھر وہ لوگ جو اس سے قریب ہوں گے ۔ اس کے بعد ایک ایسی قوم پیدا ہو گی جس کی گواہی قسم سے پہلے زبان پر آجایا کرے گی اور قسم گواہی سے پہلے ۔ ابراہیم نے کہا کہ ہمارے اساتذہ جب ہم کم عمر تھے تو ہمیں قسم کھانے سے منع کیا کرتے تھے کہ ہم گواہی یا عہد میں قسم کھائیں ۔",
+                "urduNarrator": "ہم سے سعد بن حفص نے بیان کیا ، کہا ہم سے شیبان نے بیان کیا ، ان سے منصور نے ، ان سے ابراہیم نے ، ان سے عبیدہ نے اور ان سے عبداللہ بن مسعود رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا سَعْدُ بْنُ حَفْصٍ، حَدَّثَنَا شَيْبَانُ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ عَبِيدَةَ، عَنْ عَبْدِ اللَّهِ، قَالَ سُئِلَ النَّبِيُّ صلى الله عليه وسلم أَىُّ النَّاسِ خَيْرٌ قَالَ ‏ \"‏ قَرْنِي، ثُمَّ الَّذِينَ يَلُونَهُمْ، ثُمَّ الَّذِينَ يَلُونَهُمْ، ثُمَّ يَجِيءُ قَوْمٌ تَسْبِقُ شَهَادَةُ أَحَدِهِمْ يَمِينَهُ، وَيَمِينُهُ شَهَادَتَهُ ‏\"‏‏.‏ قَالَ إِبْرَاهِيمُ وَكَانَ أَصْحَابُنَا يَنْهَوْنَا وَنَحْنُ غِلْمَانٌ أَنْ نَحْلِفَ بِالشَّهَادَةِ وَالْعَهْدِ‏.‏",
+                "headingArabic": "إِذَا قَالَ أَشْهَدُ بِاللَّهِ، أَوْ شَهِدْتُ بِاللَّهِ",
+                "headingUrdu": "\"میں اللہ کی قسم کھا کر گواہی دیتا ہوں\"",
+                "headingEnglish": "\"I bear witness swearing by Allah\"",
+                "chapterId": "84",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 84,
+                    "chapterNumber": "84",
+                    "chapterEnglish": "Oaths and Vows",
+                    "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+                    "chapterArabic": "كتاب الأيمان والنذور",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6393,
+                "hadithNumber": "6659, 6660",
+                "englishNarrator": "Narrated `Abdullah رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Whoever swears falsely in order to grab the property of a Muslim (or of his brother), Allah will be angry with him when he meets Him.\" Allah then revealed in confirmation of the above statement:--'Verily those who purchase a small gain at the cost of Allah's Covenant and their own oaths.' (3.77)\r\nHadrat Solaiman has said in his report that Ash'ath bin Qais  رضی اللہ عنہ said: What was Hadrat Abdullah telling you? When the people had told, Al-Ash'ath رضی اللہ عنہ said, \"This Verse was revealed regarding me and a companion of mine when we had a dispute about a well.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا جس نے جھوٹی قسم اس مقصدسے کھائی کہ کسی مسلمان کا مال اس کے ذریعہ ناجائز طریقے پر حاصل کرے تو وہ اللہ تعالیٰ سے اس حال میں ملے گا کہ وہ اس پر غضب ناک ہو گا ۔ پھر اللہ تعالیٰ نے اس کی تصدیق نازل کی ( قرآن مجید میں کہ ) بلاشبہ وہ لوگ جو اللہ کے عہد کے ذریعہ خریدتے ہیں ۔\r\n سلیمان نے بیان کیا کہ پھر اشعث بن قیس رضی اللہ عنہ وہاں سے گزرے اور پوچھا کہ عبداللہ تم سے کیا بیان کر رہے تھے ۔ ہم نے ان سے بیان کیا تو اشعث رضی اللہ عنہ نے کہا کہ یہ آیت میرے اور میرے ایک ساتھی کے بارے میں نازل ہوئی تھی ۔ ایک کنویں کے سلسلے میں ہم دونوں کا جھگڑا تھا ۔",
+                "urduNarrator": "مجھ سے محمد بن بشار نے بیان کیا ، انہوں نے کہا ہم سے محمد بن ابی عدی نے بیان کیا ، ان سے شعبہ نے ، ان سے سلیمان و منصور نے بیان کیا ، ان سے ابووائل نے بیان کیا ، اور ان سے عبداللہ بن مسعود رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ شُعْبَةَ، عَنْ سُلَيْمَانَ، وَمَنْصُورٍ، عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ مَنْ حَلَفَ عَلَى يَمِينٍ كَاذِبَةٍ، لِيَقْتَطِعَ بِهَا مَالَ رَجُلٍ مُسْلِمٍ أَوْ قَالَ أَخِيهِ لَقِيَ اللَّهَ وَهْوَ عَلَيْهِ غَضْبَانُ ‏\"‏‏.‏ فَأَنْزَلَ اللَّهُ تَصْدِيقَهُ ‏{‏إِنَّ الَّذِينَ يَشْتَرُونَ بِعَهْدِ اللَّهِ‏}.\r\nقَالَ سُلَيْمَانُ فِي حَدِيثِهِ فَمَرَّ الأَشْعَثُ بْنُ قَيْسٍ فَقَالَ مَا يُحَدِّثُكُمْ عَبْدُ اللَّهِ قَالُوا لَهُ فَقَالَ الأَشْعَثُ نَزَلَتْ فِيَّ، وَفِي صَاحِبٍ لِي، فِي بِئْرٍ كَانَتْ بَيْنَنَا‏.‏",
+                "headingArabic": "عَهْدِ اللَّهِ عَزَّ وَجَلَّ",
+                "headingUrdu": "اللہ عزوجل کا عہد",
+                "headingEnglish": "The Covenant of Allah 'Azza wa Jall",
+                "chapterId": "84",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 84,
+                    "chapterNumber": "84",
+                    "chapterEnglish": "Oaths and Vows",
+                    "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+                    "chapterArabic": "كتاب الأيمان والنذور",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6394,
+                "hadithNumber": "6661",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"The Hell Fire will keep on saying: 'Are there anymore (people to come)?' Till the Lord of Power and Honor will put His Foot over it and then it will say, 'Qat! Qat! (sufficient! sufficient!) by Your Power and Honor. And its various sides will come close to each other (i.e., it will contract). \" Shobah has also reported it from Qatadah.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا جہنم برابر یہی کہتی رہے گی کہ کیا کچھ اور ہے کیا کچھ اور ہے ؟ آخر اللہ تبارک و تعالیٰ اپنا قدم اس میں رکھ دے گا تو وہ کہہ اٹھے گی بس بس میں بھر گئی ، تیری عزت کی قسم ! اور اس کا بعض حصہ بعض کو کھانے لگے گا ۔ اس روایت کو شعبہ نے قتادہ سے نقل کیا ۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا ، کہا ہم سے شیبان نے بیان کیا ، کہا ہم سے قتادہ نے بیان کیا ، ان سے انس بن مالک رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شَيْبَانُ، حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ لاَ تَزَالُ جَهَنَّمُ تَقُولُ هَلْ مِنْ مَزِيدٍ حَتَّى يَضَعَ رَبُّ الْعِزَّةِ فِيهَا قَدَمَهُ فَتَقُولُ قَطْ قَطْ وَعِزَّتِكَ‏.‏ وَيُزْوَى بَعْضُهَا إِلَى بَعْضٍ ‏\"‏‏.‏ رَوَاهُ شُعْبَةُ عَنْ قَتَادَةَ‏.‏",
+                "headingArabic": "الْحَلِفِ بِعِزَّةِ اللَّهِ وَصِفَاتِهِ وَكَلِمَاتِهِ",
+                "headingUrdu": "اللہ کے عزا، اس کی صفات اور اس کے کلام کی قسم کھانا",
+                "headingEnglish": "To swear by Allah's 'Izza, His Qualities, and His Speech",
+                "chapterId": "84",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 84,
+                    "chapterNumber": "84",
+                    "chapterEnglish": "Oaths and Vows",
+                    "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+                    "chapterArabic": "كتاب الأيمان والنذور",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6395,
+                "hadithNumber": "6662",
+                "englishNarrator": "Narrated Az-Zuhri:",
+                "hadithEnglish": "I heard `Urwa bin Az-Zubair, Sa`id bin Al-Musaiyab, 'Alqama bin Waqqas and 'Ubaidullah bin `Abdullah رضی اللہ عنہما narrating from `Aisha رضی اللہ عنہا , the wife of the Prophet, the story about the liars who said what they said about her and how Allah revealed her innocence afterwards. Each one of the above four narrators narrated to me a portion of her narration. (It was said in it), \"The Prophet (ﷺ) stood up, saying, 'Is there anyone who can relieve me from `Abdullah bin Ubai?' On that, Usaid bin Hudair رضی اللہ عنہ got up and said to Sa`d bin 'Ubada رضی اللہ عنہ , La`Amrullahi (By the Eternity of Allah), we will kill him!' \"",
+                "hadithUrdu": "میں نے عروہ بن زبیر ، سعید بن مسیب ، علقمہ بن وقاص اور عبیداللہ بن عبداللہ رضی اللہ عنہما سے نبی کریم صلی اللہ علیہ وسلم کی زوجہ مطہرہ حضرت صدیقہ رضی اللہ عنہا کی بات کے متعلق سنا کہ جب تہمت لگانے والے نے ان پر تہمت لگائی تھی اور اللہ تعالیٰ نے ان کو اس سے بری قرار دیا تھا ۔ اور ہر شخص نے مجھ سے پوری بات کا کوئی ایک حصہ ہی بیان کا ۔ پھر آنحضرت صلی اللہ علیہ وسلم کھڑے ہوئے اور عبداللہ بن ابی کے بارے میں مدد چاہی ۔ پھر اسید بن حضیر رضی اللہ عنہ کھڑے ہوئے اور سعد بن عبادہ رضی اللہ عنہ سے کہا کہ خدا کی قسم ( لعمراللہ ) ہم ضرور اسے قتل کر دیں گے ۔ مفصل حدیث پیچھے گزر چکی ہے ۔",
+                "urduNarrator": "ہم سے اویسی نے بیان کیا ، کہا ہم سے ابراہیم نے بیان کیا ، ان سے صالح نے ، ان سے ابن شہاب نے ( دوسری سند ) اور ہم سے حجاج نے بیان کیا ، کہا ہم سے عبداللہ بن عمر نمیری نے بیان کیا ، کہا ہم سے یونس نے بیان کیا ، کہا کہ میں نے زہری سے سنا ، کہا کہ",
+                "hadithArabic": "حَدَّثَنَا الأُوَيْسِيُّ، حَدَّثَنَا إِبْرَاهِيمُ، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، ح وَحَدَّثَنَا حَجَّاجٌ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عُمَرَ النُّمَيْرِيُّ، حَدَّثَنَا يُونُسُ، قَالَ سَمِعْتُ الزُّهْرِيَّ، قَالَ سَمِعْتُ عُرْوَةَ بْنَ الزُّبَيْرِ، وَسَعِيدَ بْنَ الْمُسَيَّبِ، وَعَلْقَمَةَ بْنَ وَقَّاصٍ، وَعُبَيْدَ اللَّهِ بْنَ عَبْدِ اللَّهِ، عَنْ حَدِيثِ، عَائِشَةَ زَوْجِ النَّبِيِّ صلى الله عليه وسلم حِينَ قَالَ لَهَا أَهْلُ الإِفْكِ مَا قَالُوا، فَبَرَّأَهَا اللَّهُ، وَكُلٌّ حَدَّثَنِي طَائِفَةً مِنَ الْحَدِيثِ ـ فَقَامَ النَّبِيُّ صلى الله عليه وسلم فَاسْتَعْذَرَ مِنْ عَبْدِ اللَّهِ بْنِ أُبَىٍّ، فَقَامَ أُسَيْدُ بْنُ حُضَيْرٍ فَقَالَ لِسَعْدِ بْنِ عُبَادَةَ لَعَمْرُ اللَّهِ لَنَقْتُلَنَّهُ‏.‏",
+                "headingArabic": "قَوْلِ الرَّجُلِ لَعَمْرُ اللَّهِ",
+                "headingUrdu": "\"لا امر اللہ\"",
+                "headingEnglish": "\"La 'amrullah\"",
+                "chapterId": "84",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 84,
+                    "chapterNumber": "84",
+                    "chapterEnglish": "Oaths and Vows",
+                    "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+                    "chapterArabic": "كتاب الأيمان والنذور",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6396,
+                "hadithNumber": "6663",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "The verse: ''Allah does not call you to account for your such oaths as they come out of your tongues unintentionally'' . of chapter Al-Baqarah has been revealed about taking oaths by saying: ''لاَ ,وَاللَّهِ ,  بَلَى وَاللَّهِ''",
+                "hadithUrdu": "آیت ” اللہ تعالیٰ تم سے لغوقسموں کے بارے میں پکڑ نہیں کرے گا “ ۔ راوی نے بیان کیا کہ حضرت ام المؤمنین نے کہا کہ یہ آیت لاواﷲ بلی واﷲ ( بے ساختہ جو قسمیں عادت بنا لی جاتی ہیں ) کے بارے میں نازل ہوئی تھی ۔",
+                "urduNarrator": "مجھ سے محمد بن مثنیٰ نے بیان کیا ، کہا ہم سے یحییٰ قطان نے بیان کیا ، ان سے ہشام بن عروہ نے ، کہا کہ مجھے میرے والد نے خبر دی ، انہیں حضرت عائشہ رضی اللہ عنہا نے کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى، عَنْ هِشَامٍ، قَالَ أَخْبَرَنِي أَبِي، عَنْ عَائِشَةَ ـ رضى الله عنها ‏{‏لاَ يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ‏}‏ قَالَ قَالَتْ أُنْزِلَتْ فِي قَوْلِهِ لاَ، وَاللَّهِ بَلَى وَاللَّهِ‏.‏",
+                "headingArabic": "{لاَ يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَكِنْ يُؤَاخِذُكُمْ بِمَا كَسَبَتْ قُلُوبُكُمْ وَاللَّهُ غَفُورٌ حَلِيمٌ}",
+                "headingUrdu": "\"اللہ تم سے ان قسموں کا حساب نہیں لے گا جو تمہاری غیر ارادی قسموں میں ہو...\"",
+                "headingEnglish": "\"Allah will not call you to account for that which is unintentional in your oaths ...\"",
+                "chapterId": "84",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 84,
+                    "chapterNumber": "84",
+                    "chapterEnglish": "Oaths and Vows",
+                    "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+                    "chapterArabic": "كتاب الأيمان والنذور",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6397,
+                "hadithNumber": "6664",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Allah forgives my followers those (evil deeds) their souls may whisper or suggest to them as long as they do not act (on it) or speak.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایاکہ اللہ تعالیٰ نے میری امت کی ان غلطیوں کو معاف کیا ہے جن کا صرف دل میں وسوسہ گذرے یا دل میں اس کے کرنے کی خواہش پیدا ہو ، مگر اس کے مطابق عمل نہ ہو اور نہ بات کی ہو ۔",
+                "urduNarrator": "ہم سے خلاد بن یحییٰ نے بیان کیا ، کہا ہم سے مسعر بن کدام نے بیان کیا ، کہا ہم سے قتادہ نے بیان کیا ، کہا ہم سے زرارہ بن اوفی نے بیان کیا ، ان سے حضرت ابوہریرہ رضی اللہ عنہ نے",
+                "hadithArabic": "حَدَّثَنَا خَلاَّدُ بْنُ يَحْيَى، حَدَّثَنَا مِسْعَرٌ، حَدَّثَنَا قَتَادَةُ، حَدَّثَنَا زُرَارَةُ بْنُ أَوْفَى، عَنْ أَبِي هُرَيْرَةَ، يَرْفَعُهُ قَالَ ‏ \"‏ إِنَّ اللَّهَ تَجَاوَزَ لأُمَّتِي عَمَّا وَسْوَسَتْ أَوْ حَدَّثَتْ بِهِ أَنْفُسَهَا، مَا لَمْ تَعْمَلْ بِهِ أَوْ تَكَلَّمْ ‏\"‏‏.‏",
+                "headingArabic": "إِذَا حَنِثَ نَاسِيًا فِي الأَيْمَانِ",
+                "headingUrdu": "اگر کوئی بھول جانے کی وجہ سے اپنی قسم کے خلاف کوئی کام کرے۔",
+                "headingEnglish": "If someone does something against his oath due to forgetfulness",
+                "chapterId": "84",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 84,
+                    "chapterNumber": "84",
+                    "chapterEnglish": "Oaths and Vows",
+                    "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+                    "chapterArabic": "كتاب الأيمان والنذور",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6398,
+                "hadithNumber": "6665",
+                "englishNarrator": "Narrated `Abdullah bin `Amr bin Al-As:",
+                "hadithEnglish": "While the Prophet (ﷺ) was delivering a sermon on the Day of Nahr (i.e., 10th Dhul-Hijja-Day of slaughtering the sacrifice), a man got up saying, \"I thought, O Allah's Messenger (ﷺ), such-and-such a thing was to be done before such-and-such a thing.\" Another man got up, saying, \"O Allah's Messenger (ﷺ)! As regards these three (acts of Hajj), thought so-and-so.\" The Prophet (ﷺ) said, \"Do, and there is no harm,\" concerning all those matters on that day. And so, on that day, whatever question he was asked, he said, \"Do it, do it, and there is no harm therein.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم ( حجۃ الوداع میں ) قربانی کے دن خطبہ دے رہے تھے کہ ایک صحابی کھڑے ہوئے اور عرض کیا ، یا رسول اللہ ! میں فلاں فلاں ارکان کو فلاںفلاں ارکان سے پہلے خیال کرتا تھا ( اس غلطی سے ان کو آگے پیچھے ادا کیا ) اس کے بعد دوسرے صاحب کھڑے ہوئے اور عرض کیا یا رسول اللہ ! میں فلاں فلاں ارکان حج کے متعلق یونہی خیال کرتا تھا ان کا اشارہ ( حلق ، رمی اور نحر ) کی طرف تھا ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا یونہی کر لو ( تقدیم و تاخیر کرنے میں ) آج ان میں سے کسی کام میں کوئی حرج نہیں ہے ۔ چنانچہ اس دن آنحضرت صلی اللہ علیہ وسلم سے جس مسئلہ میں بھی پوچھا گیا تو آپ نے یہی فرمایا کہ کر لو کوئی حرج نہیں ۔",
+                "urduNarrator": "ہم سے عثمان بن الہیثم نے بیان کیا یا ہم سے محمد بن یحییٰ ذہلی نے عثمان بن الہیثم سے بیان کیا ، ان سے ابن جریج نے کہا کہ میں نے ابن شہاب سے سنا ، کہا کہ مجھ سے عیسیٰ بن طلحہ نے بیان کیا ، ان سے عبداللہ بن عمرو بن العاص نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عُثْمَانُ بْنُ الْهَيْثَمِ، أَوْ مُحَمَّدٌ عَنْهُ عَنِ ابْنِ جُرَيْجٍ، قَالَ سَمِعْتُ ابْنَ شِهَابٍ، يَقُولُ حَدَّثَنِي عِيسَى بْنُ طَلْحَةَ، أَنَّ عَبْدَ اللَّهِ بْنَ عَمْرِو بْنِ الْعَاصِ، حَدَّثَهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم بَيْنَمَا هُوَ يَخْطُبُ يَوْمَ النَّحْرِ إِذْ قَامَ إِلَيْهِ رَجُلٌ فَقَالَ كُنْتُ أَحْسِبُ يَا رَسُولَ اللَّهِ كَذَا وَكَذَا قَبْلَ كَذَا وَكَذَا‏.‏ ثُمَّ قَامَ آخَرُ فَقَالَ يَا رَسُولَ اللَّهِ كُنْتُ أَحْسِبُ كَذَا وَكَذَا لِهَؤُلاَءِ الثَّلاَثِ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ افْعَلْ وَلاَ حَرَجَ ‏\"‏ لَهُنَّ كُلِّهِنَّ يَوْمَئِذٍ، فَمَا سُئِلَ يَوْمَئِذٍ عَنْ شَىْءٍ إِلاَّ قَالَ ‏\"‏ افْعَلْ وَلاَ حَرَجَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "84",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 84,
+                    "chapterNumber": "84",
+                    "chapterEnglish": "Oaths and Vows",
+                    "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+                    "chapterArabic": "كتاب الأيمان والنذور",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6399,
+                "hadithNumber": "6666",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "A man said to the Prophet (while he was delivering a sermon on the Day of Nahr), \"I have performed the Tawaf round the Ka`ba before the Rami (throwing pebbles) at the Jamra.\" The Prophet (ﷺ) said, \"There is no harm (therein).\" Another man said, \"I had my head shaved before slaughtering (the sacrifice).\" The Prophet (ﷺ) said, \"There is no harm.\" A third said, \"I have slaughtered (the sacrifice) before the Rami (throwing pebbles) at the Jamra.\" The Prophet (ﷺ) said, \"There is no harm.\"",
+                "hadithUrdu": "ایک صحابی نے نبی کریم صلیاللہ علیہ وسلم سے کہا ، میں نے رمی کرنے سے پہلے طواف زیارت کر لیا ہے ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ کوئی حرج نہیں ۔ تیسرے نے کہا کہ میں نے رمی کرنے سے پہلے ہی ذبح کر لیا ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کوئی حرج نہیں ۔",
+                "urduNarrator": "ہم سے احمد یونس نے بیان کیا ، انہوں نے کہا ہم سے ابوبکر بن عیاش نے بیان کیا ، ان سے عبدالعزیز بن رفیع نے بیان کیا ، ان سے عطاء بن ابی رباح نے بیان کیا اور ان سے حضرت عبداللہ بن عباس رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا أَبُو بَكْرٍ، عَنْ عَبْدِ الْعَزِيزِ بْنِ رُفَيْعٍ، عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ قَالَ رَجُلٌ لِلنَّبِيِّ صلى الله عليه وسلم زُرْتُ قَبْلَ أَنْ أَرْمِيَ‏.‏ قَالَ ‏\"‏ لاَ حَرَجَ ‏\"‏‏.‏ قَالَ آخَرُ حَلَقْتُ قَبْلَ أَنْ أَذْبَحَ‏.‏ قَالَ ‏\"‏ لاَ حَرَجَ ‏\"‏‏.‏ قَالَ آخَرُ ذَبَحْتُ قَبْلَ أَنْ أَرْمِيَ‏.‏ قَالَ ‏\"‏ لاَ حَرَجَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "84",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 84,
+                    "chapterNumber": "84",
+                    "chapterEnglish": "Oaths and Vows",
+                    "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+                    "chapterArabic": "كتاب الأيمان والنذور",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6400,
+                "hadithNumber": "6667",
+                "englishNarrator": "Narrated Abu Huraira:",
+                "hadithEnglish": "A man entered the mosque and started praying while Allah's Messenger (ﷺ) was sitting somewhere in the mosque. Then (after finishing the prayer) the man came to the Prophet (ﷺ) and greeted him. The Prophet (ﷺ) said to him, \"Go back and pray, for you have not prayed. The man went back, and having prayed, he came and greeted the Prophet. The Prophet (ﷺ) after returning his greetings said, \"Go back and pray, for you did not pray.\" On the third time the man said, \"(O Allah's Messenger (ﷺ)!) teach me (how to pray).\" The Prophet said, \"When you get up for the prayer, perform the ablution properly and then face the Qibla and say Takbir (Allahu Akbar), and then recite of what you know of the Qur'an, and then bow, and remain in this state till you feel at rest in bowing, and then raise your head and stand straight; and then prostrate till you feel at rest in prostration, and then sit up till you feel at rest while sitting; and then prostrate again till you feel at rest in prostration; and then get up and stand straight, and do all this in all your prayers.\"",
+                "hadithUrdu": "ایک صحابی مسجدنبوی میں نماز پڑھنے کے لئے آئے ۔ آنحضرت صلی اللہ علیہ وسلم مسجد کے ایک کنارے تشریف رکھتے تھے ۔ پھر وہ صحابی آئے اور سلام کیا تو آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ جا پھر نماز پڑھ ، اس لئے کہ تو نے نماز نہیں پڑھی ۔ وہ واپس گئے اور پھر نماز پڑھ کر آئے اور سلام کیا ۔ آنحضرت صلی اللہ علیہ وسلم نے اس مرتبہ بھی ان سے یہی فرمایا کہ واپس جا اور نماز پڑھ کیونکہ تو نے نماز نہیں پڑھی ۔ آخر تیسری مرتبہ میں وہ صحابی بولے کہ پھر مجھے نماز کا طریقہ سکھا دیجئیے ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ جب تم نماز کے لئے کھڑے ہوا کرو تو پہلے پوری طرح وضو کر لیا کرو ، پھر قبلہ رو ہو کر تکبیر کہو اور جو کچھ قرآن مجید میں تمہیں یاد ہے اور تم آسانی کے ساتھ پڑھ سکتے ہو اسے پڑھا کرو ، پھر رکوع کرو اور سکون کے ساتھ رکوع کرچکو تو اپنا سر اٹھاؤ اور جب سیدھے کھڑے ہو جاؤ تو سجدہ کرو ، جب سجدے کی حالت میں اچھی طرح ہو جاؤ تو سجدہ سے سراٹھاؤ ، یہاں تک کہ سیدھے ہو جاؤ اور اطمینان سے بیٹھ جاؤ ، پھر سجدہ کرو اور جب اطمینان سے سجدہ کر لو تو سر اٹھاؤ یہاں تک کہ سیدھے کھڑے ہو جاؤ ، یہ عمل تم اپنی پوری نماز میں کرو ۔",
+                "urduNarrator": "مجھ سے اسحاق بن منصور نے بیان کیا ، کہا ہم سے ابواسامہ نے بیان کیا ، کہا ہم سے عبیداللہ بن عمر نے بیان کیا ، ان سے سعید بن ابی سعید نے اور ان سے حضرت ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنِي إِسْحَاقُ بْنُ مَنْصُورٍ، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَجُلاً، دَخَلَ الْمَسْجِدَ يُصَلِّي وَرَسُولُ اللَّهِ صلى الله عليه وسلم فِي نَاحِيَةِ الْمَسْجِدِ، فَجَاءَ فَسَلَّمَ عَلَيْهِ فَقَالَ لَهُ ‏\"‏ ارْجِعْ فَصَلِّ، فَإِنَّكَ لَمْ تُصَلِّ ‏\"‏‏.‏ فَرَجَعَ فَصَلَّى، ثُمَّ سَلَّمَ فَقَالَ ‏\"‏ وَعَلَيْكَ، ارْجِعْ فَصَلِّ، فَإِنَّكَ لَمْ تُصَلِّ ‏\"‏‏.‏ قَالَ فِي الثَّالِثَةِ فَأَعْلِمْنِي‏.‏ قَالَ ‏\"‏ إِذَا قُمْتَ إِلَى الصَّلاَةِ فَأَسْبِغِ الْوُضُوءَ، ثُمَّ اسْتَقْبِلِ الْقِبْلَةَ فَكَبِّرْ، وَاقْرَأْ بِمَا تَيَسَّرَ مَعَكَ مِنَ الْقُرْآنِ، ثُمَّ ارْكَعْ حَتَّى تَطْمَئِنَّ رَاكِعًا، ثُمَّ ارْفَعْ رَأْسَكَ حَتَّى تَعْتَدِلَ قَائِمًا، ثُمَّ اسْجُدْ حَتَّى تَطْمَئِنَّ، سَاجِدًا ثُمَّ ارْفَعْ حَتَّى تَسْتَوِيَ وَتَطْمَئِنَّ جَالِسًا، ثُمَّ اسْجُدْ حَتَّى تَطْمَئِنَّ سَاجِدًا، ثُمَّ ارْفَعْ حَتَّى تَسْتَوِيَ قَائِمًا، ثُمَّ افْعَلْ ذَلِكَ فِي صَلاَتِكَ كُلِّهَا ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "84",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 84,
+                    "chapterNumber": "84",
+                    "chapterEnglish": "Oaths and Vows",
+                    "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+                    "chapterArabic": "كتاب الأيمان والنذور",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6401,
+                "hadithNumber": "6668",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "When the pagans were defeated during the (first stage) of the battle of Uhud, Satan shouted, \"O Allah's slaves! Beware of what is behind you!\" So the front files of the Muslims attacked their own back files. Hudhaifa bin Al-Yaman رضی اللہ عنہ looked and on seeing his father he shouted: \"My father! My father!\" By Allah! The people did not stop till they killed his father. Hudhaifa رضی اللہ عنہ then said, \"May Allah forgive you.\" `Urwa (the sub-narrator) added, \"Hudhaifa رضی اللہ عنہ continued asking Allah forgiveness for the killers of his father till he met Allah (till he died).",
+                "hadithUrdu": "جب احد کی لڑائی میں مشرک شکست کھا گئے اور اپنی شکست ان میں مشہور ہو گئی تو ابلیس نے چیخ کر کہا ( مسلمانوں سے ) کہ اے  اللہ کے بندو ! پیچھے دشمن ہے چنانچہ آگے کے لوگ پیچھے کی طرف پل پڑے اور پیچھے والے ( مسلمانوں ہی سے ) لڑ پڑے ۔ اس حالت میں حذیفہ بن الیمان رضی اللہ عنہ نے دیکھا کہ لوگ ان کے مسلمان والد کو بےخبری میں مار رہے ہیں تو انہوں نے مسلمانوں سے کہا کہ یہ تو میرے والد ہیں جو مسلمان ہیں ، میرے والد ! عائشہ رضی اللہ عنہا نے بیان کیا کہ اللہ کی قسم لوگ پھر بھی باز نہیں آئے اور آخر انہیں قتل کر ہی ڈالا ۔ حذیفہ نے کہا ، اللہ تمہاری مغفرت کرے ۔ عروہ نے بیان کیا کہ حذیفہ رضی اللہ عنہ کو اپنے والد کی اس طرح شہادت کا آخر وقت تک رنج اور افسوس ہی رہا یہاں تک کہ وہ اللہ سے جا ملے ۔",
+                "urduNarrator": "ہم سے فروہ بن ابی المغراء نے بیان کیا ، کہا ہم سے علی بن مسہر نے ، ان سے ہشام بن عروہ نے ، ان سے ان کے والد نے اور ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا فَرْوَةُ بْنُ أَبِي الْمَغْرَاءِ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ هُزِمَ الْمُشْرِكُونَ يَوْمَ أُحُدٍ هَزِيمَةً تُعْرَفُ فِيهِمْ، فَصَرَخَ إِبْلِيسُ أَىْ عِبَادَ اللَّهِ أُخْرَاكُمْ، فَرَجَعَتْ أُولاَهُمْ فَاجْتَلَدَتْ هِيَ وَأُخْرَاهُمْ، فَنَظَرَ حُذَيْفَةُ بْنُ الْيَمَانِ فَإِذَا هُوَ بِأَبِيهِ فَقَالَ أَبِي أَبِي‏.‏ قَالَتْ فَوَاللَّهِ مَا انْحَجَزُوا حَتَّى قَتَلُوهُ، فَقَالَ حُذَيْفَةُ غَفَرَ اللَّهُ لَكُمْ‏.‏ قَالَ عُرْوَةُ فَوَاللَّهِ مَا زَالَتْ فِي حُذَيْفَةَ مِنْهَا بَقِيَّةٌ حَتَّى لَقِيَ اللَّهَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "84",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 84,
+                    "chapterNumber": "84",
+                    "chapterEnglish": "Oaths and Vows",
+                    "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+                    "chapterArabic": "كتاب الأيمان والنذور",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6402,
+                "hadithNumber": "6669",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"If somebody eats something forgetfully while he is fasting, then he should complete his fast, for Allah has made him eat and drink.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا جس نے روزہ رکھا ہو اور بھول کر کھا لیا ہو تو اسے اپنا روزہ پورا کر لینا چاہئے کیونکہ اسے اللہ نے کھلایا پلایا ہے ۔",
+                "urduNarrator": "مجھ سے یوسف بن موسیٰ نے بیان کیا ، انہوں نے کہا ہم سے ابواسامہ نے بیان کیا ، انہوں نے کہا کہ مجھ سے عوف اعرابی نے بیان کیا ، ان سے خلاص بن عمرو اور محمد بن سیرین نے کہا کہ حضرت ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي يُوسُفُ بْنُ مُوسَى، حَدَّثَنَا أَبُو أُسَامَةَ، قَالَ حَدَّثَنِي عَوْفٌ، عَنْ خِلاَسٍ، وَمُحَمَّدٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ مَنْ أَكَلَ نَاسِيًا وَهْوَ صَائِمٌ فَلْيُتِمَّ صَوْمَهُ، فَإِنَّمَا أَطْعَمَهُ اللَّهُ وَسَقَاهُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "84",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 84,
+                    "chapterNumber": "84",
+                    "chapterEnglish": "Oaths and Vows",
+                    "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+                    "chapterArabic": "كتاب الأيمان والنذور",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6403,
+                "hadithNumber": "6670",
+                "englishNarrator": "Narrated `Abdullah bin Buhaina رضی اللہ عنہ :",
+                "hadithEnglish": "Once Allah's Messenger (ﷺ) led us in prayer, and after finishing the first two rak`at, got up (instead of sitting for at-Tahiyyat) and then carried on with the prayer. When he had finished his prayer, the people were waiting for him to say Taslim, but before saying Tasiim, he said Takbir and prostrated; then he raised his head, and saying Takbir, he prostrated (SAHU) and then raised his head and finished his prayer with Taslim.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ہمیں نماز پڑھائی اور پہلی دو رکعات کے بعد بیٹھنے سے پہلے ہی اٹھ گئے اور نماز پوری کر لی ۔ جب نماز پڑھ چکے تو لوگوں نے آنحضرت صلی اللہ علیہ وسلم کے سلام کا انتظار کیا ۔ پھر آنحضرت صلی اللہ علیہ وسلم نے تکبیر کہی اورسلام پھیرنے سے پہلے سجدہ کیا ، پھر سجدہ سے سر اٹھایا اور دوبارہ تکبیر کہہ کر سجدہ کیا ۔ پھر سجدہ سے سر اٹھایا اورسلام پھیرا ۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا ، انہوں نے کہا ہم سے محمد بن عبدالرحمٰن بن ابی ذئب نے بیان کیا ، ان سے زہری نے بیان کیا ، ان سے اعرج نے اور ان سے حضرت عبداللہ بن بجینہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ بْنُ أَبِي إِيَاسٍ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنِ الزُّهْرِيِّ، عَنِ الأَعْرَجِ، عَنْ عَبْدِ اللَّهِ ابْنِ بُحَيْنَةَ، قَالَ صَلَّى بِنَا النَّبِيُّ صلى الله عليه وسلم فَقَامَ فِي الرَّكْعَتَيْنِ الأُولَيَيْنِ قَبْلَ أَنْ يَجْلِسَ، فَمَضَى فِي صَلاَتِهِ، فَلَمَّا قَضَى صَلاَتَهُ انْتَظَرَ النَّاسُ تَسْلِيمَهُ، وَسَجَدَ قَبْلَ أَنْ يُسَلِّمَ، ثُمَّ رَفَعَ رَأْسَهُ، ثُمَّ كَبَّرَ وَسَجَدَ، ثُمَّ رَفَعَ رَأْسَهُ وَسَلَّمَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "84",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 84,
+                    "chapterNumber": "84",
+                    "chapterEnglish": "Oaths and Vows",
+                    "chapterUrdu": "قسموں اور نذروں کے بیان میں",
+                    "chapterArabic": "كتاب الأيمان والنذور",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 6376,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=255",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=253",
+                "label": "253",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=254",
+                "label": "254",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=255",
+                "label": "255",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=256",
+                "label": "256",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=257",
+                "label": "257",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=258",
+                "label": "258",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=259",
+                "label": "259",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=257",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=257",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=255",
+        "to": 6400,
+        "total": 40465
+    }
+}

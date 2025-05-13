@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 193,
+        "data": [
+            {
+                "id": 4803,
+                "hadithNumber": "5027",
+                "englishNarrator": "Narrated `Uthman رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"The best among you (Muslims) are those who learn the Qur'an and teach it.\" Sa'd bin Obaidah narrates; Hadrat Abu Abdur Rehman Sulami taught the Quran from the reign of Hadrat Uthman to the time Hajjaj held the office of governor. He (Abu Abdur Rehman) said: This is the Hadith which has seated me here (for teaching the Quran).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا تم میں سب سے بہتر وہ ہے جو قرآن مجید پڑھے اور پڑھائے ۔ سعد بن عبیدہ نے بیان کیا کہ ابوعبدالرحمن سلمی نے لوگوں کو عثمان رضی اللہ عنہ کے زمانہ خلافت سے حجاج بن یوسف کے عراق کے گورنر ہونے تک قرآن مجید کی تعلیم دی ۔ وہ کہا کرتے تھے کہ یہی حدیث ہے جس نے مجھے اس جگہ ( قرآن مجید پڑھا نے کے لئے ) بٹھا رکھا ہے ۔",
+                "urduNarrator": "ہم سے حجاج بن منہال نے بیان کیا ، کہا ہم سے شعبہ بن حجاج نے بیان کیا ، کہا کہ مجھے علقمہ بن مرثد نے خبر دی ، انہوں نے سعد بن عبیدہ سے سنا ، انہوں نے ابوعبدالرحمن سلمی سے اور انہوں نے عثمان بن عفان رضی اللہ عنہ سے ، انہوں نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا حَجَّاجُ بْنُ مِنْهَالٍ، حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي عَلْقَمَةُ بْنُ مَرْثَدٍ، سَمِعْتُ سَعْدَ بْنَ عُبَيْدَةَ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ السُّلَمِيِّ، عَنْ عُثْمَانَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ ‏\"‏‏.‏ قَالَ وَأَقْرَأَ أَبُو عَبْدِ الرَّحْمَنِ فِي إِمْرَةِ عُثْمَانَ حَتَّى كَانَ الْحَجَّاجُ، قَالَ وَذَاكَ الَّذِي أَقْعَدَنِي مَقْعَدِي هَذَا‏.‏",
+                "headingArabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+                "headingUrdu": "تم میں سے بہترین وہ ہے جو قرآن سیکھے اور سکھائے",
+                "headingEnglish": "The best among you are those who learn the Qur'an and teach it",
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4804,
+                "hadithNumber": "5028",
+                "englishNarrator": "Narrated `Uthman bin `Affan رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"The most superior among you (Muslims) are those who learn the Qur'an and teach it.\"",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم نے فرمایا تم سب میں بہتر وہ ہے جو قرآن مجید پڑھے اور پڑھا ئے ۔",
+                "urduNarrator": "ہم سے ابونعیم نے بیان کیا ، کہا ہم سے سفیان بن عیینہ نے بیان کیا ، ان سے علقمہ بن مرثد نے ، ان سے ابو عبدالرحمن سلمی نے ، ان سے حضرت عثمان رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا سُفْيَانُ، عَنْ عَلْقَمَةَ بْنِ مَرْثَدٍ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ السُّلَمِيِّ، عَنْ عُثْمَانَ بْنِ عَفَّانَ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ إِنَّ أَفْضَلَكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4805,
+                "hadithNumber": "5029",
+                "englishNarrator": "Narrated Sahl bin Sa`d رضی اللہ عنہ :",
+                "hadithEnglish": "A lady came to the Prophet (ﷺ) and declared that she had decided to offer herself to Allah and His Apostle. The Prophet (ﷺ) said, \"I am not in need of women.\" A man said (to the Prophet) \"Please marry her to me.\" The Prophet (ﷺ) said (to him), \"Give her a garment.\" The man said, \"I cannot afford it.\" The Prophet said, \"Give her anything, even if it were an iron ring.\" The man apologized again. The Prophet then asked him, \"What do you know by heart of the Qur'an?\" He replied, \"I know such-andsuch portion of the Qur'an (by heart).\" The Prophet (ﷺ) said, \"Then I marry her to you for that much of the Qur'an which you know by heart.\"",
+                "hadithUrdu": "ایک خاتون نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئی اور کہا کہ انہوں نے اپنے آپ کو اللہ اور اس کے رسول ( کی رضا ) کے لئے ہبہ کر دیا ہے ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ اب مجھے عورتوں سے نکاح کی کوئی حاجت نہیں ہے ۔ ایک صاحب نے عرض کیا کہ یا رسول اللہ ! ان کا نکاح مجھ سے کر دیں ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ پھر انہیں ( مہر میں ) ایک کپڑا لا کے دے دو ۔ انہوں نے عرض کیا کہ مجھے تو یہ بھی میسر نہیں ہے ۔ آپ نے فرمایا پھر انہیں کچھ تو دو ایک لوہے کی انگوٹھی ہی سہی ۔ وہ اس پر بہت پریشان ہوئے ( کیونکہ ان کے پاس یہ بھی نہ تھی ) آنحضرت نے فرمایا اچھا تم کو قرآن کتنا یاد ہے ؟ انہوں نے عرض کیا کہ فلاں فلاں سورتیں ۔ آنحضرت نے فرمایا کہ پھر میں نے تمہاراان سے قرآن کی ان سورتوں پر نکاح کیا جو تمہیں یاد ہیں ۔",
+                "urduNarrator": "ہم سے عمرو بن عون نے بیان کیا ، کہا ہم سے حماد بن زید نے بیان کیا ، ان سے ابوحازم نے بیان کیا ، ان سے سہل بن سعد رضی اللہ عنہ نے بیان کیاکہ",
+                "hadithArabic": "حَدَّثَنَا عَمْرُو بْنُ عَوْنٍ، حَدَّثَنَا حَمَّادٌ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، قَالَ أَتَتِ النَّبِيَّ صلى الله عليه وسلم امْرَأَةٌ فَقَالَتْ إِنَّهَا قَدْ وَهَبَتْ نَفْسَهَا لِلَّهِ وَلِرَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏\"‏ مَا لِي فِي النِّسَاءِ مِنْ حَاجَةٍ ‏\"‏‏.‏ فَقَالَ رَجُلٌ زَوِّجْنِيهَا‏.‏ قَالَ ‏\"‏ أَعْطِهَا ثَوْبًا ‏\"‏‏.‏ قَالَ لاَ أَجِدُ‏.‏ قَالَ ‏\"‏ أَعْطِهَا وَلَوْ خَاتَمًا مِنْ حَدِيدٍ ‏\"‏‏.‏ فَاعْتَلَّ لَهُ‏.‏ فَقَالَ ‏\"‏ مَا مَعَكَ مِنَ الْقُرْآنِ ‏\"‏‏.‏ قَالَ كَذَا وَكَذَا‏.‏ قَالَ ‏\"‏ فَقَدْ زَوَّجْتُكَهَا بِمَا مَعَكَ مِنَ الْقُرْآنِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4806,
+                "hadithNumber": "5030",
+                "englishNarrator": "Narrated Sahl bin Sa`d رضی اللہ عنہ :",
+                "hadithEnglish": "A lady came to Allah's Messenger (ﷺ) and said, \"O Allah's Messenger (ﷺ)! I have come to you to offer myself to you.\" He raised his eyes and looked at her and then lowered his head. When the lady saw that he did not make any decision, she sat down. On that, a man from his companions got up and said. \"O Allah's Apostle! If you are not in need of this woman, then marry her to me.\" Allah's Messenger (ﷺ) said, \"Do you have anything to offer her?\" He replied. \"No, by Allah, O Allah's Messenger (ﷺ)!\" The Prophet (ﷺ) said to him, \"Go to your family and see if you can find something.' The man went and returned, saying, \"No, by Allah, O Allah's Messenger (ﷺ)! I have not found anything.\" The Prophet (ﷺ) said, \"Try to find something, even if it is an iron ring.'' He went again and returned, saying, \"No, by Allah, O Allah's Messenger (ﷺ), not even an iron ring, but I have this waist sheet of mine.\" The man had no upper garment, so he intended to give her, half his waist sheet. So Allah's Messenger (ﷺ) said, ''What would she do with your waist sheet? If you wear it, she will have nothing of it over her body, and if she wears it, you will have nothing over your body.\" So that man sat for a long period and then got up, and Allah's Messenger (ﷺ) saw him going away, so he ordered somebody to call him. When he came, the Prophet (ﷺ) asked him, \" How much of the Qur'an do you know?\" He replied, \"I know such Surat and such Surat and such Surat,\" and went on counting it, The Prophet (ﷺ) asked him, \"Can you recite it by heart?\" he replied, \"Yes.\" The Prophet (ﷺ) said, \"Go, I have married this lady to you for the amount of the Qur'an you know by heart.\"",
+                "hadithUrdu": "ایک خاتون رسول کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئی اور عرض کیا کہ یا رسول اللہ ! میں آپ کی خدمت میں اپنے آپ کو ہبہ کرنے کے لئے آئی ہوں ۔ آنحضرت صلی اللہ علیہ وسلم نے ان کی طرف نظر اٹھا کر دیکھا اور پھر نظر نیچی کر لی اور سر جھکا لیا ۔ جب اس خاتون نے دیکھا کہ ان کے بارے میں کوئی فیصلہ آنحضرت صلی اللہ علیہ وسلم نے نہیں فرمایا تو وہ بیٹھ گئی پھر آنحضرت کے صحابہ میں سے ایک صاحب اٹھے اور عرض کیا یا رسول اللہ ! اگر آپ کو ان کی ضرورت نہیں ہے تو میرے ساتھ ان کا نکاح کر دیں ۔ آنحضرت نے دریافت فرمایا تمہارے پاس کچھ ( مہر کے لئے ) بھی ہے ۔ انہوں نے عرض کیا نہیں یا رسول اللہ ! اللہ کی قسم تو آنحضرت نے فرمایا اپنے گھر جاؤ اور دیکھو شاید کوئی چیز ملے ، وہ صاحب گئے اور واپس آ گئے اور عرض کیا نہیں اللہ کی قسم ! یا رسول اللہ ! مجھے وہاں کوئی چیز نہیں ملی ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا پھر دیکھ لو ایک لوہے کی انگوٹھی ہی سہی ۔ وہ صاحب گئے اور پھر واپس آ گئے اور عرض کیا نہیں اللہ کی قسم ! یا رسول اللہ ! لوہے کی ایک انگوٹھی بھی مجھے نہیں ملی ۔ البتہ یہ ایک تہبند میرے پاس ہے ۔ حضرت سہل رضی اللہ عنہ کہتے ہیں کہ ان کے پاس کوئی چادر بھی ( اوڑھنے کے لئے ) نہیں تھی ۔ اس صحابی نے کہا کہ خاتون کو اس میں سے آدھا پھاڑ کر دیدیجئیے ۔ آپ نے فرمایا کہ تمہارے اس تہبند کا وہ کیا کرے گی ۔ اگر تم اسے پہنتے ہو تو اس کے قابل نہیں رہتا اور اگر وہ پہنتی ہے تو تمہارے قابل نہیں ۔ پھر وہ صاحب بیٹھ گئے کافی دیر تک بیٹھے رہنے کے بعد اٹھے ۔ آنحضرت صلی اللہ علیہ وسلم نے انہیں جاتے ہوئے دیکھا تو بلوایا ۔ جب وہ حاضر ہوئے تو آپ نے دریافت فرمایا کہ تمہیں قرآن مجید کتنا یاد ہے ؟ انہوں نے بتلایا کہ فلاں فلاں ، فلاں سورتیں مجھے یاد ہیں ۔ انہوں نے ان کے نام گنائے ۔ آنحضرت صلی اللہ علیہ وسلم نے دریافت فرمایا کیا تم انہیں زبانی پڑھ لیتے ہو ؟ عرض کیا جی ہاں ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا جاؤ تمہیں قرآن مجید کی جو سورتیں یاد ہیں ان کے بدلے میں میں نے اسے تمہارے نکاح میں دے دیا ۔",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا ، کہا ہم سے یعقوب بن عبداللہ نے بیان کیا ، ان سے ابوحازم نے ، ان سے حضرت سہل بن سعد رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا يَعْقُوبُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، أَنَّ امْرَأَةً، جَاءَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَتْ يَا رَسُولَ اللَّهِ جِئْتُ لأَهَبَ لَكَ نَفْسِي فَنَظَرَ إِلَيْهَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَصَعَّدَ النَّظَرَ إِلَيْهَا وَصَوَّبَهُ ثُمَّ طَأْطَأَ رَأْسَهُ، فَلَمَّا رَأَتِ الْمَرْأَةُ أَنَّهُ لَمْ يَقْضِ فِيهَا شَيْئًا جَلَسَتْ، فَقَامَ رَجُلٌ مِنْ أَصْحَابِهِ فَقَالَ يَا رَسُولَ اللَّهِ إِنْ لَمْ يَكُنْ لَكَ بِهَا حَاجَةٌ فَزَوِّجْنِيهَا‏.‏ فَقَالَ ‏\"‏ هَلْ عِنْدَكَ مِنْ شَىْءٍ ‏\"‏‏.‏ فَقَالَ لاَ وَاللَّهِ يَا رَسُولَ اللَّهِ‏.‏ قَالَ ‏\"‏ اذْهَبْ إِلَى أَهْلِكَ فَانْظُرْ هَلْ تَجِدُ شَيْئًا ‏\"‏‏.‏ فَذَهَبَ ثُمَّ رَجَعَ فَقَالَ لاَ وَاللَّهِ يَا رَسُولَ اللَّهِ مَا وَجَدْتُ شَيْئًا‏.‏ قَالَ ‏\"‏ انْظُرْ وَلَوْ خَاتَمًا مِنْ حَدِيدٍ ‏\"‏‏.‏ فَذَهَبَ ثُمَّ رَجَعَ فَقَالَ لاَ وَاللَّهِ يَا رَسُولَ اللَّهِ وَلاَ خَاتَمًا مِنْ حَدِيدٍ وَلَكِنْ هَذَا إِزَارِي ـ قَالَ سَهْلٌ مَا لَهُ رِدَاءٌ ـ فَلَهَا نِصْفُهُ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَا تَصْنَعُ بِإِزَارِكَ إِنْ لَبِسْتَهُ لَمْ يَكُنْ عَلَيْهَا مِنْهُ شَىْءٌ وَإِنْ لَبِسَتْهُ لَمْ يَكُنْ عَلَيْكَ شَىْءٌ ‏\"‏‏.‏ فَجَلَسَ الرَّجُلُ حَتَّى طَالَ مَجْلِسُهُ ثُمَّ قَامَ فَرَآهُ رَسُولُ اللَّهِ صلى الله عليه وسلم مُوَلِّيًا فَأَمَرَ بِهِ فَدُعِيَ فَلَمَّا جَاءَ قَالَ ‏\"‏ مَاذَا مَعَكَ مِنَ الْقُرْآنِ ‏\"‏‏.‏ قَالَ مَعِي سُورَةُ كَذَا وَسُورَةُ كَذَا وَسُورَةُ كَذَا عَدَّهَا قَالَ ‏\"‏ أَتَقْرَؤُهُنَّ عَنْ ظَهْرِ قَلْبِكَ ‏\"‏‏.‏ قَالَ نَعَمْ‏.‏ قَالَ ‏\"‏ اذْهَبْ فَقَدْ مَلَّكْتُكَهَا بِمَا مَعَكَ مِنَ الْقُرْآنِ ‏\"‏‏.‏",
+                "headingArabic": "الْقِرَاءَةِ عَنْ ظَهْرِ الْقَلْبِ",
+                "headingUrdu": "دل سے قرآن کی تلاوت",
+                "headingEnglish": "The recitation of the Qur'an by heart",
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4807,
+                "hadithNumber": "5031",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"The example of the person who knows the Qur'an by heart is like the owner of tied camels. If he keeps them tied, he will control them, but if he releases them, they will run away.\"",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم نے فرمایا حافظ قرآن کی مثال رسی سے بندھے ہوئے اونٹ کے مالک جیسی ہے اور وہ اس کی نگرانی رکھے گا تو وہ اسے روک سکے گا ورنہ وہ رسی تڑوا کر بھاگ جائے گا ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ، انہوں نے کہا ہم کو امام مالک نے خبر دی ، انہیں نافع نے اور انہیں حضرت عبداللہ بن عمر رضی اللہ عنہمانے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّمَا مَثَلُ صَاحِبِ الْقُرْآنِ كَمَثَلِ صَاحِبِ الإِبِلِ الْمُعَقَّلَةِ إِنْ عَاهَدَ عَلَيْهَا أَمْسَكَهَا وَإِنْ أَطْلَقَهَا ذَهَبَتْ ‏\"‏‏.‏",
+                "headingArabic": "اسْتِذْكَارِ الْقُرْآنِ وَتَعَاهُدِهِ",
+                "headingUrdu": "قرآن کو دل سے سیکھنا اور اسے بار بار پڑھنا",
+                "headingEnglish": "The learning of the Qur'an by heart and the reciting of it repeatedly",
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4808,
+                "hadithNumber": "5032",
+                "englishNarrator": "Narrated `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"It is a bad thing that some of you say, 'I have forgotten such-and-such verse of the Qur'an,' for indeed, he has been caused (by Allah) to forget it. So you must keep on reciting the Qur'an because it escapes from the hearts of men faster than camel do.\" Hadrat Uthman from Jareer and he from Mansoor has reported like the Hadith mention above. Moreover, Bishr from Ibn-e-Mubarak and he from Shobah has corroborated him. Moreover, Ibn-e-Juraij, Abdah, Shqeeq heard heard from Hadrat Abdullah bin Masoud and he heard from the prophet ﷺ.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا بہت برا ہے کسی شخص کا یہ کہنا کہ میں فلاں فلاں آیت بھول گیا بلکہ یوں ( کہنا چاہیے ) کہ مجھے بھلا دیا گیا اور قرآن مجید کا پڑھنا جاری رکھو کیونکہ انسانوں کے دلوں سے دور ہو جانے میں وہ اونٹ کے بھاگنے سے بھی بڑھ کر ہے ۔ ہم سے عثمان بن ابی شیبہ نے بیان کیا ، کہا ہم سے جریر بن عبدالحمید نے ، اور ان سے منصور بن معتمر نے پچھلی حدیث کی طرح ۔ محمد بن عرعرہ کے ساتھ اس کو بشر بن عبداللہ نے بھی عبداللہ بن مبارک سے ، انہوں نے شعبہ سے روایت کیا ہے اور محمد بن عرعرہ کے ساتھ اس کو ابن جریج نے بھی عبد ہ سے ، انہوں نے شقیق بن مسلمہ سے ، انہوں نے عبداللہ بن مسعود سے ایسا ہی روایت کیا ہے ۔",
+                "urduNarrator": "ہم سے محمد بن عرعرہ نے بیان کیا ، انہوں نے کہا ہم سے شعبہ نے بیان کیا ، ان سے منصور نے ، ان سے ابووائل نے اور ان سے حضرت عبداللہ بن مسعود رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَرْعَرَةَ ، حَدَّثَنَا شُعْبَةُ ، عَنْ مَنْصُورٍ ، عَنْ أَبِي وَائِلٍ ، عَنْ عَبْدِ اللَّهِ ، قَالَ : قَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : بِئْسَ مَا لِأَحَدِهِمْ أَنْ يَقُولَ : نَسِيتُ آيَةَ كَيْتَ وَكَيْتَ ، بَلْ نُسِّيَ وَاسْتَذْكِرُوا الْقُرْآنَ فَإِنَّهُ أَشَدُّ تَفَصِّيًا مِنْ صُدُورِ الرِّجَالِ مِنَ النَّعَمِ . حَدَّثَنَا عُثْمَانُ ، حَدَّثَنَا جَرِيرٌ ، عَنْ مَنْصُورٍ ، مِثْلَهُ . تَابَعَهُ بِشْرٌ ، عَنْ ابْنِ الْمُبَارَكِ ، عَنْ شُعْبَةَ ، وَتَابَعَهُ ابْنُ جُرَيْجٍ ، عَنْ عَبْدَةَ ، عَنْ شَقِيقٍ ، سَمِعْتُ عَبْدَ اللَّهِ ، سَمِعْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4809,
+                "hadithNumber": "5033",
+                "englishNarrator": "Narrated Abu Musa رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Keep on reciting the Qur'an, for, by Him in Whose Hand my life is, Qur'an runs away (is forgotten) faster than camels that are released from their tying ropes.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا قرآن مجید کا پڑھتے رہنا لازم پکڑلو “ اس ذات کی قسم جس کے ہاتھ میں میری جان ہے وہ اونٹ کے اپنی رسی تڑوا کر بھاگ جانے سے زیادہ تیزی سے بھاگتا ہے ۔",
+                "urduNarrator": "ہم سے محمد بن علاء نے بیان کیا ، کہا ہم سے ابواسامہ نے بیان کیا ، ان سے برید نے ، ان سے ابوبردہ نے اور ان سے ابوموسیٰ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ بُرَيْدٍ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ تَعَاهَدُوا الْقُرْآنَ فَوَالَّذِي نَفْسِي بِيَدِهِ لَهُوَ أَشَدُّ تَفَصِّيًا مِنَ الإِبِلِ فِي عُقُلِهَا ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4810,
+                "hadithNumber": "5034",
+                "englishNarrator": "Narrated `Abdullah bin Mughaffal رضی اللہ عنہ :",
+                "hadithEnglish": "I saw Allah's Messenger (ﷺ) reciting Surat-al-Fath on his she-camel on the day of the Conquest of Mecca.",
+                "hadithUrdu": "میں نے رسول کریم صلی اللہ علیہ وسلم کو فتح مکہ کے دن دیکھا کہ آپ سواری پر سورۃ الفتح کی تلاوت فرما رہے تھے ۔",
+                "urduNarrator": "ہم سے حجاج بن منہال نے بیان کیا ، انہوں نے کہا ہم سے شعبہ نے بیان کیا ، کہا کہ مجھے ابوایاس نے خبر دی ، کہا کہ میں نے عبداللہ بن مغفل رضی اللہ عنہ سے سنا ، انہوں نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا حَجَّاجُ بْنُ مِنْهَالٍ، حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي أَبُو إِيَاسٍ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ مُغَفَّلٍ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَوْمَ فَتْحِ مَكَّةَ وَهْوَ يَقْرَأُ عَلَى رَاحِلَتِهِ سُورَةَ الْفَتْحِ‏.‏",
+                "headingArabic": "الْقِرَاءَةِ عَلَى الدَّابَّةِ",
+                "headingUrdu": "جانور پر قرآن کی تلاوت",
+                "headingEnglish": "The recitation of the Qur'an on an animal",
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4811,
+                "hadithNumber": "5035",
+                "englishNarrator": "Narrated Sa`id bin Jubair:",
+                "hadithEnglish": "Those Suras which you people call the Mufassal, are the Muhkam. And Ibn `Abbas رضی اللہ عنہما said, \"Allah's Apostle died when I was a boy of ten years, and I had learnt the Muhkam (of the Qur'an).",
+                "hadithUrdu": "جن سورتوں کو تم ” مفصل “ کہتے ہو وہ سب ” محکم “ ہیں ۔ انہوں نے بیان کیا کہ حضرت ابن عباس رضی اللہ عنہمانے کہا جب رسول کریم صلی اللہ علیہ وسلم کی وفات ہوئی تو میری عمر دس سال کی تھی اور میں نے محکم سورتیں سب پڑھ لی تھیں ۔",
+                "urduNarrator": "مجھ سے موسیٰ بن اسماعیل نے بیان کیا ، کہا ہم سے ابوعوانہ نے بیان کیا ، ان سے ابو بشر نے ، ان سے سعید بن جبیر نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي بِشْرٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، قَالَ إِنَّ الَّذِي تَدْعُونَهُ الْمُفَصَّلَ هُوَ الْمُحْكَمُ، قَالَ وَقَالَ ابْنُ عَبَّاسٍ تُوُفِّيَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَأَنَا ابْنُ عَشْرِ سِنِينَ وَقَدْ قَرَأْتُ الْمُحْكَمَ‏.‏",
+                "headingArabic": "تَعْلِيمِ الصِّبْيَانِ الْقُرْآنَ",
+                "headingUrdu": "بچوں کو قرآن کی تعلیم دینا",
+                "headingEnglish": "Teaching the Qur'an to the children",
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4812,
+                "hadithNumber": "5036",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "\"I have learnt all the Muhkam Suras during the life time of Allah's Messenger (ﷺ).\" I said to him, 'What is meant by the Muhkam?\" He replied, \"The Mufassal.\"",
+                "hadithUrdu": "میں نے محکم سورتیں رسول کریم صلی اللہ علیہ وسلم کے زمانہ میں سب یاد کر لی تھیں ، میں نے پوچھا کہ محکم سورتیں کون سی ہیں ؟ کہا کہ ” مفصل “ ۔",
+                "urduNarrator": "ہم سے یعقوب بن ابراہیم نے بیان کیا ، کہا ہم سے ہشیم نے بیان کیا ، کہا ہم کو ابو بشر نے خبر دی ، انہیں سعید بن جبیر نے اور انہیں حضرت ابن عباس رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هُشَيْمٌ، أَخْبَرَنَا أَبُو بِشْرٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ جَمَعْتُ الْمُحْكَمَ فِي عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقُلْتُ لَهُ وَمَا الْمُحْكَمُ قَالَ الْمُفَصَّلُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4813,
+                "hadithNumber": "5037",
+                "englishNarrator": "Narrated 'Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "The Prophet (ﷺ) heard a man reciting the Qur'an in the mosque and said, \"May Allah bestow His Mercy on him, as he has reminded me of such-and-such Verses of such a Surah.\" Hadrat Hisham says: From that chapter which was obliterated from the memory. Ali bin Mus'hir, Abdah has corroborated him from Hisham.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے ایک شخص کو مسجد میں قرآن پڑھتے سنا تو آپ نے فرمایا کہ اللہ اس پر رحم کرے ، اس نے مجھے فلاں سورت کی فلاں فلاں آیتیں یاد دلا دیں ۔",
+                "urduNarrator": "ہم سے ربیع بن یحییٰ نے بیان کیا ، انہوں نے کہا ہم سے زائدہ بن جذامہ نے بیان کیا ، کہا ہم سے ہشام بن عروہ نے بیان کیا ، ان سے عروہ بن زبیر نے اور ان سے حضرت عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا رَبِيعُ بْنُ يَحْيَى ، حَدَّثَنَا زَائِدَةُ ، حَدَّثَنَا هِشَامٌ ، عَنْ عُرْوَةَ ، عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا ، قَالَت : سَمِعَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رَجُلًا يَقْرَأُ فِي الْمَسْجِدِ ، فَقَالَ : يَرْحَمُهُ اللَّهُ لَقَدْ أَذْكَرَنِي كَذَا وَكَذَا آيَةً مِنْ سُورَةِ كَذَا.حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدِ بْنِ مَيْمُونٍ، حَدَّثَنَا عِيسَى، عَنْ هِشَامٍ، وَقَالَ، أَسْقَطْتُهُنَّ مِنْ سُورَةِ كَذَا‏.‏ تَابَعَهُ عَلِيُّ بْنُ مُسْهِرٍ وَعَبْدَةُ عَنْ هِشَامٍ‏.‏",
+                "headingArabic": "نِسْيَانِ الْقُرْآنِ وَهَلْ يَقُولُ نَسِيتُ آيَةَ كَذَا وَكَذَا",
+                "headingUrdu": "قرآن کو بھول جانا۔ اور کیا کوئی کہہ سکتا ہے: \"میں فلاں فلاں آیت کو بھول گیا؟",
+                "headingEnglish": "Forgetting the Qur'an. And can one say: “I forgot such and such a Verse?",
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4814,
+                "hadithNumber": "5038",
+                "englishNarrator": "Narrated Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) heard a man reciting the Qur'an at night, and said, \"May Allah bestow His Mercy on him, as he has reminded me of such-and-such Verses of such-and-such Suras, which I was caused to forget.\"",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم نے ایک صاحب کو رات کے وقت ایک سورت پڑھتے ہوئے سنا تو فرمایا کہ اللہ تعالیٰ اس شخص پر رحم کرے ، اس نے مجھے فلاں آیتیں یاد دلا دیں جو مجھے فلاں فلاں سورتوں میں سے بھلا دی گئی تھیں ۔",
+                "urduNarrator": "ہم سے احمد بن ابی رجاء نے بیان کیا ، انہوں نے کہا ہم سے ابواسامہ نے بیان کیا ، ان سے ہشام بن عروہ نے ، ان سے ان کے والد ( عروہ بن زبیر ) نے اور ان سے حضرت عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ أَبِي رَجَاءٍ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ سَمِعَ رَسُولُ اللَّهِ صلى الله عليه وسلم رَجُلاً يَقْرَأُ فِي سُورَةٍ بِاللَّيْلِ فَقَالَ ‏ \"‏ يَرْحَمُهُ اللَّهُ لَقَدْ أَذْكَرَنِي كَذَا وَكَذَا آيَةً كُنْتُ أُنْسِيتُهَا مِنْ سُورَةِ كَذَا وَكَذَا ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4815,
+                "hadithNumber": "5039",
+                "englishNarrator": "Narrated `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Why does anyone of the people say, 'I have forgotten such-and-such Verses (of the Qur'an)?' He, in fact, is caused (by Allah) to forget.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا کسی کے لئے یہ منا سب نہیں کہ یہ کہے کہ میں فلاں فلاں آیتیں بھول گیا بلکہ اسے ( یوں کہنا چاہئے ) کہ میں فلاں فلاں آیتوں کو بھلا دیا گیا ۔",
+                "urduNarrator": "ہم سے ابونعیم نے بیان کیا ، کہا ہم سے سفیان بن عیینہ نے بیان کیا ، ان سے منصور نے ، ان سے ابووائل نے اور ان سے عبداللہ بن مسعود رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ مَا لأَحَدِهِمْ يَقُولُ نَسِيتُ آيَةَ كَيْتَ وَكَيْتَ‏.‏ بَلْ هُوَ نُسِّيَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4816,
+                "hadithNumber": "5040",
+                "englishNarrator": "Narrated Abu Mas`ud Al-Ansari رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"If one recites the last two Verses of Surat-al-Baqara at night, it is sufficient for him (for that night).",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا سورۃ البقرہ کے آخر کی دو آیتوں کو جو شخص رات میں پڑھ لے گا وہ اس کے لئے کافی ہوں گی ۔",
+                "urduNarrator": "ہم سے عمر بن حفص نے بیان کیا ، کہا ہم سے ہمارے والد نے بیان کیا ، ان سے اعمش نے بیان کیا ، کہا کہ مجھ سے ابراہیم نے بیان کیا ، ان سے علقمہ اور عبدالرحمٰن بن یزید نے اور ان سے حضرت ابومسعود انصاری رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عُمَرُ بْنُ حَفْصٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا الأَعْمَشُ، قَالَ حَدَّثَنِي إِبْرَاهِيمُ، عَنْ عَلْقَمَةَ، وَعَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ، عَنْ أَبِي مَسْعُودٍ الأَنْصَارِيِّ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ الآيَتَانِ مِنْ آخِرِ سُورَةِ الْبَقَرَةِ مَنْ قَرَأَ بِهِمَا فِي لَيْلَةٍ كَفَتَاهُ ‏\"‏‏.‏",
+                "headingArabic": "مَنْ لَمْ يَرَ بَأْسًا أَنْ يَقُولَ سُورَةُ الْبَقَرَةِ وَسُورَةُ كَذَا وَكَذَا",
+                "headingUrdu": "جو شخص یہ سمجھتا ہے کہ سورۃ البقرہ یا سورۃ فلاں کہنے میں کوئی حرج نہیں ہے۔",
+                "headingEnglish": "Whoever thinks that there is no harm in saying: Surat Al-Baqarah or Surat so-and-so",
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4817,
+                "hadithNumber": "5041",
+                "englishNarrator": "Narrated `Umar bin Khattab رضی اللہ عنہ :",
+                "hadithEnglish": "I heard Hisham bin Hakim bin Hizam رضی اللہ عنہ reciting Surat-al-Furqan during the lifetime of Allah's Messenger (ﷺ), and I listened to his recitation and noticed that he recited it in several ways which Allah's Messenger (ﷺ) had not taught me. So I was on the point of attacking him in the prayer, but I waited till he finished his prayer, and then I seized him by the collar and said, \"Who taught you this Surah which I have heard you reciting?\" He replied, \"Allah's Messenger (ﷺ) taught it to me.\" I said, \"You are telling a lie; By Allah! Allah's Messenger (ﷺ) taught me (in a different way) this very Surah which I have heard you reciting.\" So I took him, leading him to Allah's Messenger (ﷺ) and said, \"O Allah's Messenger (ﷺ)! I heard this person reciting Surat-al-Furqan in a way that you did not teach me, and you have taught me Surat-al-Furqan.\" The Prophet said, \"O Hisham, recite!\" So he recited in the same way as I heard him recite it before. On that Allah's Messenger (ﷺ) said, \"It was revealed to be recited in this way.\" Then Allah's Messenger (ﷺ) said, \"Recite, O `Umar!\" So I recited it as he had taught me. Allah's Messenger (ﷺ) then said, \"It was revealed to be recited in this way.\" Allah\" Apostle added, \"The Qur'an has been revealed to be recited in several different ways, so recite of it that which is easier for you.\"",
+                "hadithUrdu": "میں نے ہشام بن حکیم بن حزام رضی اللہ عنہ کو رسول اللہ صلی اللہ علیہ وسلم کی زندگی میں سورۃ الفرقان پڑھتے سنا ۔ میں ان کی قرآت کو غور سے سننے لگا تو معلوم ہوا کہ وہ ایسے بہت سے طریقوں میں تلاوت کر رہے تھے جنہیں رسول اللہ صلی اللہ علیہ وسلم نے ہمیں نہیں سکھایا تھا ۔ ممکن تھا کہ میں نماز ہی میں ان کا سر پکڑ لیتا لیکن میں نے انتظار کیا اور جب انہوں نے سلام پھیرا تو میں نے ان کے گلے میں چادر لپیٹ دی اور پوچھا یہ سورتیں جنہیں ابھی ابھی تمہیں پڑھتے ہوئے میں نے سناہے تمہیں کس نے سکھائی ہیں ؟ انہوں نے کہا کہ مجھے اس طرح ان سورتوں کو رسول کریم صلی اللہ علیہ وسلم نے سکھایا ہے ۔ میں نے کہا کہ تم جھوٹ بول رہے ہو ۔ خود حضور اکرم صلی اللہ علیہ وسلم نے مجھے بھی یہ سورتیں پڑھائی ہیں جو میں نے تم سے سنیں ۔ میں انہیں کھینچتے ہوئے آپ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوا اور عرض کیا یا رسول اللہ ! میں نے خود سنا کہ یہ شخص سورۃ الفرقان ایسی قرآت سے پڑھ رہا تھا ۔ جس کی تعلیم آپ صلی اللہ علیہ وسلم نے ہمیں نہیں دی ہے آپ مجھے بھی سورۃ الفرقان پڑھا چکے ہیں ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا ہشام ! پڑھ کر سناؤ ۔ انہوں نے اسی طرح اس کی قرآت کی جس طرح میں ان سے سن چکا تھا ۔ آپ صلی اللہ علیہ وسلم نے فرمایا اسی طرح یہ سورت نازل ہوئی ہے ۔ پھر آپ صلی اللہ علیہ وسلم نے فرمایا عمر ! اب تم پڑھو ۔ میں نے بھی اسی طرح قرآت کی جس طرح آنحضرت صلی اللہ علیہ وسلم نے مجھے سکھایا تھا ۔ آپ صلی اللہ علیہ وسلم نے فرمایا اسی طرح یہ سورت نازل ہوئی تھی ۔ پھر آپ صلی اللہ علیہ وسلم نے فرمایا کہ قرآن مجید سات قسم کی قراتوں پر نازل ہوا ہے بس تمہارے لئے جو آسان ہو اس کے مطابق پڑھو ۔",
+                "urduNarrator": "ہم سے ابوالیمان نے بیان کیا ، انہوں نے کہا ہم کو شعیب نے خبر دی ، ان سے زہری نے بیان کیا ، کہا کہ مجھ کو عروہ بن زبیر نے مسعود بن مخرمہ اور عبدالرحمٰن بن عبد القاری سے خبر دی کہ ان دونوں نے حضرت عمر بن خطاب رضی اللہ عنہ سے سنا ، انہوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي عُرْوَةُ، عَنْ حَدِيثِ الْمِسْوَرِ بْنِ مَخْرَمَةَ، وَعَبْدِ الرَّحْمَنِ بْنِ عَبْدٍ الْقَارِيِّ، أَنَّهُمَا سَمِعَا عُمَرَ بْنَ الْخَطَّابِ، يَقُولُ سَمِعْتُ هِشَامَ بْنَ حَكِيمِ بْنِ حِزَامٍ، يَقْرَأُ سُورَةَ الْفُرْقَانِ فِي حَيَاةِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَاسْتَمَعْتُ لِقِرَاءَتِهِ فَإِذَا هُوَ يَقْرَؤُهَا عَلَى حُرُوفٍ كَثِيرَةٍ لَمْ يُقْرِئْنِيهَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَكِدْتُ أُسَاوِرُهُ فِي الصَّلاَةِ فَانْتَظَرْتُهُ حَتَّى سَلَّمَ فَلَبَبْتُهُ فَقُلْتُ مَنْ أَقْرَأَكَ هَذِهِ السُّورَةَ الَّتِي سَمِعْتُكَ تَقْرَأُ قَالَ أَقْرَأَنِيهَا رَسُولُ اللَّهِ صلى الله عليه وسلم‏.‏ فَقُلْتُ لَهُ كَذَبْتَ فَوَاللَّهِ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لَهُوَ أَقْرَأَنِي هَذِهِ السُّورَةَ الَّتِي سَمِعْتُكَ، فَانْطَلَقْتُ بِهِ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم أَقُودُهُ فَقُلْتُ يَا رَسُولَ اللَّهِ إِنِّي سَمِعْتُ هَذَا يَقْرَأُ سُورَةَ الْفُرْقَانِ عَلَى حُرُوفٍ لَمْ تُقْرِئْنِيهَا وَإِنَّكَ أَقْرَأْتَنِي سُورَةَ الْفُرْقَانِ‏.‏ فَقَالَ ‏\"‏ يَا هِشَامُ اقْرَأْهَا ‏\"‏‏.‏ فَقَرَأَهَا الْقِرَاءَةَ الَّتِي سَمِعْتُهُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ هَكَذَا أُنْزِلَتْ ‏\"‏‏.‏ ثُمَّ قَالَ ‏\"‏ اقْرَأْ يَا عُمَرُ ‏\"‏‏.‏ فَقَرَأْتُهَا الَّتِي أَقْرَأَنِيهَا، فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ هَكَذَا أُنْزِلَتْ ‏\"‏‏.‏ ثُمَّ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنَّ الْقُرْآنَ أُنْزِلَ عَلَى سَبْعَةِ أَحْرُفٍ فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4818,
+                "hadithNumber": "5042",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "The Prophet (ﷺ) heard a reciter reciting, the Qur'an in the mosque at night. The Prophet (ﷺ) said, \"May Allah bestow His Mercy on him, as he has remind ed me of such-and-such Verses of such and-such Suras, which I missed!\"",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم نے ایک قاری کو رات کے وقت مسجد میں قرآن مجید پڑھتے ہوئے سنا تو فرمایا کہ اللہ اس آدمی پر رحم کرے اس نے مجھے فلاں فلاں آیتیں یاد دلا دیں جنہیں میں نے فلاں فلاں سورتوں میں سے چھوڑ رکھا تھا ۔",
+                "urduNarrator": "ہم سے بشر بن آدم نے بیان کیا ، کہا ہم کو علی بن مسہر نے خبر دی ، کہا ہم کو ہشام بن عروہ نے خبر دی ، انہیں ان کے والد نے اور ان سے حضرت عائشہ رضی اللہ عنہا نے بیان کیاکہ",
+                "hadithArabic": "حَدَّثَنَا بِشْرُ بْنُ آدَمَ، أَخْبَرَنَا عَلِيُّ بْنُ مُسْهِرٍ، أَخْبَرَنَا هِشَامٌ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ سَمِعَ النَّبِيُّ صلى الله عليه وسلم قَارِئًا يَقْرَأُ مِنَ اللَّيْلِ فِي الْمَسْجِدِ فَقَالَ ‏ \"‏ يَرْحَمُهُ اللَّهُ لَقَدْ أَذْكَرَنِي كَذَا وَكَذَا آيَةً، أَسْقَطْتُهَا مِنْ سُورَةِ كَذَا وَكَذَا ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4819,
+                "hadithNumber": "5043",
+                "englishNarrator": "Narrated `Abdullah رضی اللہ عنہ :",
+                "hadithEnglish": "We went to `Abdullah رضی اللہ عنہ in the morning and a man said, \"Yesterday I recited all the Mufassal Suras.\" On that `Abdullah رضی اللہ عنہ said, \"That is very quick, and we have the (Prophet's) recitation, and I remember very well the recitation of those Suras which the Prophet (ﷺ) used to recite, and they were eighteen Suras from the Mufassal, and two Suras from the Suras that start with Ha Mim.",
+                "hadithUrdu": "ہم ان کی خدمت میں صبح سویرے حاضر ہوئے ۔ حاضر ین میں سے ایک صاحب نے کہا کہ رات میں نے ( تمام ) مفصل سورتیں پڑھ ڈالیں ۔ اس پر عبداللہ بن مسعود رضی اللہ عنہما بولے جیسے اشعار جلدی جلدی پڑھتے ہیں تم نے ویسے ہی پڑھ لی ہو گی ۔ ہم سے قرآت سنی ہے اور مجھے وہ جوڑ والی سورتیں بھی یاد ہیں جن کو ملا کر نمازوں میں نبی کریم صلی اللہ علیہ وسلم پڑھا کرتے تھے ۔ یہ اٹھارہ سورتیں مفصل کی ہیں اور وہ دو سورتیں جن کے شروع میں حم ہے ۔",
+                "urduNarrator": "ہم سے ابو النعمان نے بیان کیا ، کہا ہم سے مہدی بن میمون نے ، کہا ہم سے واصل احدب نے ، ان سے ابووائل نے عبداللہ بن مسعودرضی اللہ عنہ سے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا مَهْدِيُّ بْنُ مَيْمُونٍ، حَدَّثَنَا وَاصِلٌ، عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ اللَّهِ، قَالَ غَدَوْنَا عَلَى عَبْدِ اللَّهِ فَقَالَ رَجُلٌ قَرَأْتُ الْمُفَصَّلَ الْبَارِحَةَ‏.‏ فَقَالَ هَذًّا كَهَذِّ الشِّعْرِ، إِنَّا قَدْ سَمِعْنَا الْقِرَاءَةَ وَإِنِّي لأَحْفَظُ الْقُرَنَاءَ الَّتِي كَانَ يَقْرَأُ بِهِنَّ النَّبِيُّ صلى الله عليه وسلم ثَمَانِيَ عَشْرَةَ سُورَةً مِنَ الْمُفَصَّلِ وَسُورَتَيْنِ مِنْ آلِ حم‏.‏",
+                "headingArabic": "التَّرْتِيلِ فِي الْقِرَاءَةِ",
+                "headingUrdu": "ترتیل میں قرآن کی تلاوت",
+                "headingEnglish": "The recitation of Qur'an in Tartil",
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4820,
+                "hadithNumber": "5044",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "Regarding His (Allah's) Statement:-- 'Move not your tongue concerning (the Qur'an) to make haste therewith.' (75.16) And whenever Gabriel descended to Allah's Messenger (ﷺ) with the Divine Inspiration, Allah's Messenger (ﷺ) used to move his tongue and lips, and that used to be hard for him, and one could easily recognize that he was being inspired Divinely. So Allah revealed the Verse which occurs in the Surah starting with \"I do swear by the Day of Resurrection.' (75.1) i.e. 'Move not your tongue concerning (the Qur'an) to make haste then with. It is for Us to collect it (in your mind) (O Muhammad) an give you the ability to recite it 'by heart.' (75.16-17) which means: It is for us to collect it (in your mind) and give you the ability to recite it by heart. And when We have recited it to you (O Muhammad) through Gabriel then follow you its recital. (75.18) means: 'When We reveal it (the Qur'an) to you, Listen to it.' for then: It is for Us to explain it and make it clear to you' (75.19) i.e. It is up to Us to explain it through your tongue. So, when Gabriel came to him, Allah's Messenger (ﷺ) would listen to him attentively, and as soon as Gabriel left, he would recite the Revelations, as Allah had promised him.",
+                "hadithUrdu": "اللہ تعالیٰ کے فرمان ” آپ قرآن کو جلدی جلدی لینے کے لئے اس پر زبان کو نہ ہلایا کریں ۔ “ بیان کیا کہ جب جبرائیل علیہ السلام وحی لے کر نازل ہوتے تو رسول کریم صلی اللہ علیہ وسلم اپنی زبان اور ہونٹ ہلایا کرتے تھے ۔ اس کی وجہ سے آپ کے لئے وحی یاد کرنے میں بہت بار پڑتا تھا اور یہ آپ کے چہرے سے بھی ظاہر ہو جاتا تھا ۔ اس لئے اللہ تعالیٰ نے یہ آیت جو سورۃ ” لااقسم بیوم القیٰمۃ “ میں ہے ، نازل کی کہ آپ قرآن کو جلدی جلدی لینے کے لئے اس پر زبان کو نہ ہلایا کریں یہ تو ہمارے ذمہ ہے اس کا جمع کرنا اور اس کا پڑھوانا تو جب ہم اسے پڑھنے لگیں تو آپ اس کے پیچھے پیچھے پڑھا کریں پھر آپ کی زبان سے اس کی تفسیر بیان کرادینابھی ہمارے ذمہ ہے ۔ “ راوی نے بیان کیا کہ پھر جب جبرائیل علیہ السلام آتے تو آپ سر جھکالیتے اور جب واپس جاتے تو پڑھتے جیسا کہ اللہ نے آپ سے یاد کروانے کا وعدہ کیا تھا ۔ کہ تیرے دل میں جمادینا اس کو پڑھا دینا ہمارا کام ہے پھر آپ اس کے موافق پڑھتے ۔",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا ، کہا ہم سے جریر بن عبدالحمید نے بیان کیا ، ان سے موسیٰ بن ابی عائشہ نے ۔ ان سے سعید بن جبیر نے اور ان سے حضرت ابن عباس رضی اللہ عنہما نے",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا جَرِيرٌ، عَنْ مُوسَى بْنِ أَبِي عَائِشَةَ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ فِي قَوْلِهِ ‏{‏لاَ تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ‏}‏ قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا نَزَلَ جِبْرِيلُ بِالْوَحْىِ وَكَانَ مِمَّا يُحَرِّكُ بِهِ لِسَانَهُ وَشَفَتَيْهِ فَيَشْتَدُّ عَلَيْهِ وَكَانَ يُعْرَفُ مِنْهُ، فَأَنْزَلَ اللَّهُ الآيَةَ الَّتِي فِي ‏{‏لاَ أُقْسِمُ بِيَوْمِ الْقِيَامَةِ‏}‏ ‏{‏لاَ تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ * إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ * فَإِذَا قَرَأْنَاهُ فَاتَّبِعْ قُرْآنَهُ‏}‏ فَإِذَا أَنْزَلْنَاهُ فَاسْتَمِعْ ‏{‏ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ‏}‏ قَالَ إِنَّ عَلَيْنَا أَنْ نُبَيِّنَهُ بِلِسَانِكَ‏.‏ قَالَ وَكَانَ إِذَا أَتَاهُ جِبْرِيلُ أَطْرَقَ، فَإِذَا ذَهَبَ قَرَأَهُ كَمَا وَعَدَهُ اللَّهُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4821,
+                "hadithNumber": "5045",
+                "englishNarrator": "Narrated Qatada:",
+                "hadithEnglish": "I asked Anas bin Malik رضی اللہ عنہ about the recitation of the Prophet. He said, \"He used to pray long (certain sounds) very much.",
+                "hadithUrdu": "میں نے حضرت انس بن مالک رضی اللہ عنہ سے نبی کریم صلی اللہ علیہ وسلم کی تلاوت قرآن مجید کے متعلق سوال کیا تو انہوں نے بتلایا کہ آنحضور صلی اللہ علیہ وسلم ان الفاظ کوکھینچ کر پڑھتے تھے جن میں مد ہوتا تھا ۔",
+                "urduNarrator": "ہم سے مسلم بن ابراہیم نے بیان کیا ، کہا ہم سے جریر بن حازم ازدی نے بیان کیا ، کہا کہ ہم سے قتادہ نے بیان کہ",
+                "hadithArabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا جَرِيرُ بْنُ حَازِمٍ الأَزْدِيُّ، حَدَّثَنَا قَتَادَةُ، قَالَ سَأَلْتُ أَنَسَ بْنَ مَالِكٍ عَنْ قِرَاءَةِ النَّبِيِّ، صلى الله عليه وسلم فَقَالَ كَانَ يَمُدُّ مَدًّا‏.‏",
+                "headingArabic": "مَدِّ الْقِرَاءَةِ",
+                "headingUrdu": "قرآن کی تلاوت کرتے وقت بعض آوازوں کو طول دینا",
+                "headingEnglish": "Prolonging certain sounds while reciting the Qur'an",
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4822,
+                "hadithNumber": "5046",
+                "englishNarrator": "Narrated Anas  رضی اللہ عنہ :",
+                "hadithEnglish": "\"How was the recitation (of the Qur'an) of the Prophet?' He replied, \"It was characterized by the prolongation of certain sounds.\" He then recited: In the Name of Allah, the Most Beneficent, the Most Merciful prolonging the pronunciation of 'In the Name of Allah, 'the most Beneficent,' and 'the Most Merciful.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کی قرآت کیسی تھی ؟ انہوں نے بیان کیا کہ مد کے ساتھ ۔ پھر آپ نے بسم اللہ الر حمٰن الرحیم پڑھا اور کہا کہ بسم اللہ ( میں اللہ کی لام ) کو مد کے ساتھ پڑھتے ، ، الرحمن ( میں میم ) کو مد کے ساتھ پڑھتے اور الرحیم ( میں حاء کو ) مد کے ساتھ پڑھتے ۔",
+                "urduNarrator": "ہم سے عمرو بن عاصم نے بیان کیا ، کہا ہم سے ہمام نے بیان کیا ، ان سے قتادہ نے کہ حضرت انس رضی اللہ عنہ سے پو چھا گیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَمْرُو بْنُ عَاصِمٍ، حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، قَالَ سُئِلَ أَنَسٌ كَيْفَ كَانَتْ قِرَاءَةُ النَّبِيِّ صلى الله عليه وسلم‏.‏ فَقَالَ كَانَتْ مَدًّا‏.‏ ثُمَّ قَرَأَ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ، يَمُدُّ بِبِسْمِ اللَّهِ، وَيَمُدُّ بِالرَّحْمَنِ، وَيَمُدُّ بِالرَّحِيمِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4823,
+                "hadithNumber": "5047",
+                "englishNarrator": "Narrated `Abdullah bin Mughaffal رضی اللہ عنہ :",
+                "hadithEnglish": "I saw the Prophet (ﷺ) reciting (Qur'an) while he was riding on his she camel or camel which was moving, carrying him. He was reciting Surat Fath or part of Surat Fath very softly and in an Attractive vibrating tone.",
+                "hadithUrdu": "میں نے رسول کریم صلی اللہ علیہ وسلم کو دیکھا کہ آپ صلی اللہ علیہ وسلم اپنی اونٹنی یا اونٹ پر سوار ہو کر تلاوت کر رہے تھے سواری چل رہی تھی اور آپ صلی اللہ علیہ وسلم سورۃ الفتح پڑھ رہے تھے یا ( راوی نے یہ بیان کیا کہ ) سورۃ الفتح میں سے پڑھ رہے تھے نرمی اور آہستگی کے ساتھ قرآت کر رہے تھے اور آواز کو حلق میں دہراتے تھے ۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا ، کہا ہم سے شعبہ نے بیان کیا ، کہا ہم سے ابو ایاس نے بیان کیا ، کہا کہ میں نے عبداللہ بن مغفل رضی اللہ عنہ سے سنا ، انہوں نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ بْنُ أَبِي إِيَاسٍ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا أَبُو إِيَاسٍ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ مُغَفَّلٍ، قَالَ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يَقْرَأُ وَهْوَ عَلَى نَاقَتِهِ ـ أَوْ جَمَلِهِ ـ وَهْىَ تَسِيرُ بِهِ وَهْوَ يَقْرَأُ سُورَةَ الْفَتْحِ أَوْ مِنْ سُورَةِ الْفَتْحِ قِرَاءَةً لَيِّنَةً يَقْرَأُ وَهْوَ يُرَجِّعُ‏.‏",
+                "headingArabic": "التَّرْجِيعِ",
+                "headingUrdu": "الترجی",
+                "headingEnglish": "At-Tarji’",
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4824,
+                "hadithNumber": "5048",
+                "englishNarrator": "Narrated Abu Musa رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said to him' \"O Abu Musa! You have been given one of the mazamir (sweet melodious voices) of the family of David.'",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم نے فر مایا اے ابوموسیٰ ! تجھے داؤد علیہ السلام جیسی بہترین آواز عطا کی گئی ہے ۔",
+                "urduNarrator": "ہم سے محمد بن خلف ابوبکر عسقلانی نے بیان کیا ، انہوں نے کہا ہم سے ابو یحییٰ حمانی نے بیان کیا ، انہوں نے کہا ہم سے برید بن عبداللہ بن ابی بردہ نے بیان کیا ، ان سے ان کے دادا ابوبردہ نے اور ان سے حضرت ابوموسیٰ اشعری رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ خَلَفٍ أَبُو بَكْرٍ، حَدَّثَنَا أَبُو يَحْيَى الْحِمَّانِيُّ، حَدَّثَنَا بُرَيْدُ بْنُ عَبْدِ اللَّهِ بْنِ أَبِي بُرْدَةَ، عَنْ جَدِّهِ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ لَهُ ‏ \"‏ يَا أَبَا مُوسَى لَقَدْ أُوتِيتَ مِزْمَارًا مِنْ مَزَامِيرِ آلِ دَاوُدَ ‏\"‏‏.‏",
+                "headingArabic": "حُسْنِ الصَّوْتِ بِالْقِرَاءَةِ لِلْقُرْآنِ",
+                "headingUrdu": "دلکش آواز میں قرآن کی تلاوت کرنا",
+                "headingEnglish": "To recite the Qur'an in a charming voice",
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4825,
+                "hadithNumber": "5049",
+                "englishNarrator": "Narrated `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) said to him, \"Recite the Qur'an to me.\" `Abdullah said, \"Shall I recite (the Qur'an) to you while it has been revealed to you?\" He said, \"I like to hear it from others.\"",
+                "hadithUrdu": "مجھ سے رسول کریم صلی اللہ علیہ وسلم نے فرمایا ، مجھے قرآن مجید پڑھ کر سناؤ ۔ میں نے عرض کیا میں آپ کو قرآن سناؤں آپ صلی اللہ علیہ وسلم پر تو قرآن نازل ہوتا ہے ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ میں قر آن مجید دوسرے سے سننا محبوب رکھتا ہوں ۔",
+                "urduNarrator": "ہم سے عمر بن حفص بن غیاث نے بیان کیا ، کہا ہم سے ہمارے والد نے ، ان سے اعمش نے بیان کیا ، ان سے ابراہیم نے بیان کیا ، ان سے عبیدہ نے اور ان سے حضرت عبداللہ بن مسعود رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عُمَرُ بْنُ حَفْصِ بْنِ غِيَاثٍ، حَدَّثَنَا أَبِي، عَنِ الأَعْمَشِ، قَالَ حَدَّثَنِي إِبْرَاهِيمُ، عَنْ عَبِيدَةَ، عَنْ عَبْدِ اللَّهِ، رضى الله عنه قَالَ قَالَ لِي النَّبِيُّ صلى الله عليه وسلم ‏\"‏ اقْرَأْ عَلَىَّ الْقُرْآنَ ‏\"‏‏.‏ قُلْتُ آقْرَأُ عَلَيْكَ وَعَلَيْكَ أُنْزِلَ قَالَ ‏\"‏ إِنِّي أُحِبُّ أَنْ أَسْمَعَهُ مِنْ غَيْرِي ‏\"‏‏.‏",
+                "headingArabic": "مَنْ أَحَبَّ أَنْ يَسْمَعَ الْقُرْآنَ مِنْ غَيْرِهِ",
+                "headingUrdu": "جو شخص کسی دوسرے سے قرآن سننا پسند کرے۔",
+                "headingEnglish": "Whoever likes to hear the Qur'an from another person",
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4826,
+                "hadithNumber": "5050",
+                "englishNarrator": "Narrated `Abdullah bin Mas`ud رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) said to me, \"Recite (the Qur'an) to me.\" I said, \"O Allah's Messenger (ﷺ) Shall I recite (the Qur'an) to you while it has been revealed to you?\" He said, \"Yes.\" So I recited Surat-An-Nisa' (The Women), but when I recited the Verse: 'How (will it be) then when We bring from each nation a witness and We bring you (O Muhammad) as a witness against these people.' (4.41) He said, \"Enough for the present,\" I looked at him and behold! His eyes were overflowing with tears",
+                "hadithUrdu": "مجھ سے نبی کریم صلی اللہ علیہ وسلم نے فرمایا مجھے قرآن پڑھ کر سناؤ ۔ میں نے عرض کیا یا رسول اللہ صلی اللہ علیہ وسلم ! میں آپ کو پڑھ کر سناؤں ، آپ پر تو قرآن مجید نازل ہوتا ہے ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا ہاں سناؤ ۔ چنانچہ میں نے سورۃ نساء پڑھی جب میں آیت فکیف اذا جئنا من کل امۃ بشھید وجئنا بک علیٰ ھٰولاء شھیدا پر پہنچا تو آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ اب بس کرو ۔ میں نے آپ کی طرف دیکھا تو آنحضرت صلی اللہ علیہ وسلم کی آنکھوں سے آنسو جاری تھے ۔",
+                "urduNarrator": "ہم سے محمد بن یوسف نے بیان کیا ، کہا کہ ہم سے سفیان بن عیینہ نے بیان کیا ، ان سے اعمش نے ، ان سے ابراہیم نے ، ان سے عبیدہ نے اور ان سے حضرت عبداللہ بن مسعود رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ عَبِيدَةَ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، قَالَ قَالَ لِي النَّبِيُّ صلى الله عليه وسلم ‏\"‏ اقْرَأْ عَلَىَّ ‏\"‏‏.‏ قُلْتُ يَا رَسُولَ اللَّهِ آقْرَأُ عَلَيْكَ وَعَلَيْكَ أُنْزِلَ قَالَ ‏\"‏ نَعَمْ ‏\"‏‏.‏ فَقَرَأْتُ سُورَةَ النِّسَاءِ حَتَّى أَتَيْتُ إِلَى هَذِهِ الآيَةِ ‏{‏فَكَيْفَ إِذَا جِئْنَا مِنْ كُلِّ أُمَّةٍ بِشَهِيدٍ وَجِئْنَا بِكَ عَلَى هَؤُلاَءِ شَهِيدًا‏}‏ قَالَ ‏\"‏ حَسْبُكَ الآنَ ‏\"‏‏.‏ فَالْتَفَتُّ إِلَيْهِ فَإِذَا عَيْنَاهُ تَذْرِفَانِ‏.‏",
+                "headingArabic": "قَوْلِ الْمُقْرِئِ لِلْقَارِئِ حَسْبُكَ",
+                "headingUrdu": "تلاوت کرنے والے کے سننے والے کا قول: \"بس!\"",
+                "headingEnglish": "The saying of the listener to the reciter: “Enough!”",
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4827,
+                "hadithNumber": "5051",
+                "englishNarrator": "Narrated Ibn Shubruma :",
+                "hadithEnglish": "\"I wanted to see how much of the Qur'an can be enough (to recite in prayer) and I could not find a Surah containing less than three Verses, therefore I said to myself), \"One ought not to recite less than three (Quranic) Verses (in prayer).\" Narrated Abu Mas'ud رضی اللہ عنہ : The Prophet (ﷺ) said, \"If somebody recites the last two Verses of Surat al-Baqara at night, it will be sufficient for him.",
+                "hadithUrdu": "نماز میں کتنا قرآن پڑھنا کافی ہو سکتا ہے ۔ پھر میں نے دیکھا کہ ایک سورت میں تین آیتوں سے کم نہیں ہے ۔ اس لئے میں نے یہ رائے قائم کی کہ کسی کے لئے تین آیتوں سے کم پڑھنا مناسب نہیں ۔ علی المدینی نے بیان کیا کہ ہم سے سفیان ثوری نے بیان کیا ، کہا ہم کو منصور نے خبر دی ، انہیں ابراہیم نے ، انہیں عبدالرحمٰن بن یزید نے ، انہیں علقمہ نے خبر دی اور انہیں ابومسعود رضی اللہ عنہ نے ( علقمہ نے بیان کیا کہ ) میں نے ان سے ملا قات کی تو وہ بیت اللہ کا طواف کر رہے تھے ۔ انہوں نے نبی کریم صلی اللہ علیہ وسلم کا ذکر کیا ( کہ آنحضرت نے فرمایا تھا ) کہ جس نے سورۃ البقرہ کے آخری کی دو آیتیں رات میں پڑھ لیں وہ اس کے لئے کافی ہیں ۔",
+                "urduNarrator": "ہم سے علی بن عبداللہ مدینی نے بیان کیا کہا ، ہم سے سفیان بن عیینہ نے بیان کیا ، کہا کہ مجھ سے ابن شبرمہ نے بیان کیا ( جو کوفہ کے قاضی تھے ) کہ میں نے غور کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيٌّ، حَدَّثَنَا سُفْيَانُ، قَالَ لِي ابْنُ شُبْرُمَةَ نَظَرْتُ كَمْ يَكْفِي الرَّجُلَ مِنَ الْقُرْآنِ فَلَمْ أَجِدْ سُورَةً أَقَلَّ مِنْ ثَلاَثِ آيَاتٍ، فَقُلْتُ لاَ يَنْبَغِي لأَحَدٍ أَنْ يَقْرَأَ أَقَلَّ مِنْ ثَلاَثِ آيَاتٍ‏.‏ قَالَ عَلِيٌّ قَالَ سُفْيَانُ أَخْبَرَنَا مَنْصُورٌ، عَنْ إِبْرَاهِيمَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ، أَخْبَرَهُ عَلْقَمَةُ، عَنْ أَبِي مَسْعُودٍ، وَلَقِيتُهُ، وَهْوَ يَطُوفُ بِالْبَيْتِ فَذَكَرَ قَوْلَ النَّبِيِّ صلى الله عليه وسلم ‏ \"‏ أَنَّ مَنْ قَرَأَ بِالآيَتَيْنِ مِنْ آخِرِ سُورَةِ الْبَقَرَةِ فِي لَيْلَةٍ كَفَتَاهُ ‏\"‏‏.",
+                "headingArabic": "في كَمْ يُقْرَأُ الْقُرْآنُ",
+                "headingUrdu": "پورا قرآن پڑھنے کی مناسب مدت کیا ہے؟",
+                "headingEnglish": "What is the proper period for reciting the whole Qur'an",
+                "chapterId": "67",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 67,
+                    "chapterNumber": "67",
+                    "chapterEnglish": "Virtues of the Qur'an",
+                    "chapterUrdu": "قرآن کے فضائل کا بیان",
+                    "chapterArabic": "كتاب فضائل القرآن",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 4801,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=192",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=190",
+                "label": "190",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=191",
+                "label": "191",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=192",
+                "label": "192",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=193",
+                "label": "193",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=194",
+                "label": "194",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=195",
+                "label": "195",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=196",
+                "label": "196",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=194",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=194",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=192",
+        "to": 4825,
+        "total": 40465
+    }
+}

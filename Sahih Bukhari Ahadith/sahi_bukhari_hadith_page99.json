@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 99,
+        "data": [
+            {
+                "id": 2453,
+                "hadithNumber": "2566",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"O Muslim women! None of you should look down upon the gift sent by her female neighbor even if it were the trotters of the sheep (fleshless part of legs).",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا ، اے مسلمان عورتو ! ہرگز کوئی پڑوسن اپنی دوسری پڑوسن کے لیے ( معمولی ہدیہ کو بھی ) حقیر نہ سمجھے ، خواہ بکری کے کھر کا ہی کیوں نہ ہو ۔",
+                "urduNarrator": "ہم سے عاصم بن علی ابوالحسین نے بیان کیا ، کہا ہم سے ابن ابی ذئب نے بیان کیا ، ان سے سعید مقبری نے اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَاصِمُ بْنُ عَلِيٍّ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنِ الْمَقْبُرِيِّ، ‏{‏عَنْ أَبِيهِ،‏}‏ عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ يَا نِسَاءَ الْمُسْلِمَاتِ لاَ تَحْقِرَنَّ جَارَةٌ لِجَارَتِهَا، وَلَوْ فِرْسِنَ شَاةٍ ‏\"‏‏.‏",
+                "headingArabic": "الهبة وفضلها والتحريض عليها",
+                "headingUrdu": "تحفہ دینے کی فضیلت",
+                "headingEnglish": "Superiority of giving gifts",
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2454,
+                "hadithNumber": "2567",
+                "englishNarrator": "Narrated Urwa :",
+                "hadithEnglish": "\"O my nephew! We used to see the crescent, and then the crescent and then the crescent in this way we saw three crescents in two months and no fire (for cooking) used to be made in the houses of Allah's Messenger (ﷺ). I said, \"O my aunt! Then what use to sustain you?\" `Aisha said, \"The two black things: dates and water, our neighbors from Ansar had some Manarh and they used to present Allah's Messenger (ﷺ) some of their milk and he used to make us drink.\"",
+                "hadithUrdu": "میرے بھانجے ! آنحضرت صلی اللہ علیہ وسلم کے عہد مبارک میں ( یہ حال تھا کہ ) ہم ایک چاند دیکھتے ، پھر دوسرا دیکھتے ، پھر تیسرا دیکھتے ، اسی طرح دو دو مہینے گزر جاتے اور رسول کریم صلی اللہ علیہ وسلم کے گھروں میں ( کھانا پکانے کے لیے ) آگ نہ جلتی تھی ۔ میں نے پوچھا خالہ اماں ! پھر آپ لوگ زندہ کس طرح رہتی تھیں ؟ آپ نے فرمایا کہ صرف دو کالی چیزوں کھجور اور پانی پر ۔ البتہ رسول اللہ صلی اللہ علیہ وسلم کے چند انصاری پڑوسی تھے ۔ جن کے پاس دودھ دینے والی بکریاں تھیں اور وہ رسول کریم صلی اللہ علیہ وسلم کے یہاں بھی ان کا دودھ تحفہ کے طور پر پہنچا جایا کرتے تھے ۔ آپ صلی اللہ علیہ وسلم اسے ہمیں بھی پلا دیا کرتے تھے ۔",
+                "urduNarrator": "ہم سے عبدالعزیز بن عبداللہ اویسی نے بیان کیا ، کہا ہم سے ابن ابی حازم نے بیان کیا ، ان سے ان کے والد نے یزید بن رومان سے ، وہ عروہ سے اور ان سے حضرت عائشہ رضی اللہ عنہا نے بیان کیا کہ آپ نے عروہ سے کہا",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ الأُوَيْسِيُّ، حَدَّثَنَا ابْنُ أَبِي حَازِمٍ، عَنْ أَبِيهِ، عَنْ يَزِيدَ بْنِ رُومَانَ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّهَا قَالَتْ لِعُرْوَةَ ابْنَ أُخْتِي، إِنْ كُنَّا لَنَنْظُرُ إِلَى الْهِلاَلِ ثُمَّ الْهِلاَلِ، ثَلاَثَةَ أَهِلَّةٍ فِي شَهْرَيْنِ، وَمَا أُوقِدَتْ فِي أَبْيَاتِ رَسُولِ اللَّهِ صلى الله عليه وسلم نَارٌ‏.‏ فَقُلْتُ يَا خَالَةُ مَا كَانَ يُعِيشُكُمْ قَالَتِ الأَسْوَدَانِ التَّمْرُ وَالْمَاءُ، إِلاَّ أَنَّهُ قَدْ كَانَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم جِيرَانٌ مِنَ الأَنْصَارِ كَانَتْ لَهُمْ مَنَائِحُ، وَكَانُوا يَمْنَحُونَ رَسُولَ اللَّهِ صلى الله عليه وسلم مِنْ أَلْبَانِهِمْ، فَيَسْقِينَا‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2455,
+                "hadithNumber": "2568",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"I shall accept the invitation even if I were invited to a meal of a sheep's trotter, and I shall accept the gift even if it were an arm or a trotter of a sheep.\"",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم نے فرمایا ، اگر مجھے بازو اور پائے ( کے گوشت ) پر بھی دعوت دی جائے تو میں قبول کر لوں گا اور مجھے بازو یا پائے ( کے گوشت ) کا تحفہ بھیجا جائے تو اسے بھی قبول کر لوں گا ۔",
+                "urduNarrator": "ہم سے محمد بن بشار نے بیان کیا ، کہا ہم سے محمد بن ابی عدی نے بیان کیا شعبہ سے ، وہ سلیمان سے ، وہ ابوحازم سے اور ان سے ابوہریرہ رضی اللہ عنہ نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ شُعْبَةَ، عَنْ سُلَيْمَانَ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لَوْ دُعِيتُ إِلَى ذِرَاعٍ أَوْ كُرَاعٍ لأَجَبْتُ، وَلَوْ أُهْدِيَ إِلَىَّ ذِرَاعٌ أَوْ كُرَاعٌ لَقَبِلْتُ ‏\"‏‏.‏",
+                "headingArabic": "الْقَلِيلِ مِنَ الْهِبَةِ",
+                "headingUrdu": "ایک چھوٹا سا تحفہ دینا",
+                "headingEnglish": "Giving a little gift",
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2456,
+                "hadithNumber": "2569",
+                "englishNarrator": "Narrated Sahl  رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) sent for a woman from the emigrants and she had a slave who was a carpenter. The Prophet said to her \"Order your slave to prepare the wood (pieces) for the pulpit.\" So, she ordered her slave who went and cut the wood from the tamarisk and prepared the pulpit, for the Prophet. When he finished the pulpit, the woman informed the Prophet (ﷺ) that it had been finished. The Prophet (ﷺ) asked her to send that pulpit to him, so they brought it. The Prophet (ﷺ) lifted it and placed it at the place in which you see now.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے ایک مہاجرہ عورت کے پاس ( اپنا آدمی ) بھیجا ۔ ان کا ایک غلام بڑھئی تھا ۔ ان سے آپ نے فرمایا کہ اپنے غلام سے ہمارے لیے لکڑیوں کا ایک منبر بنانے کے لیے کہیں ۔ چنانچہ انہوں نے اپنے غلام سے کہا ۔ وہ غابہ سے جا کر جھاو کاٹ لایا اور اسی کا ایک منبر بنا دیا ۔ جب وہ منبر بنا چکے تو اس عورت نے رسول کریم صلی اللہ علیہ وسلم کی خدمت میں کہلا بھیجا کہ منبر بن کر تیار ہے ۔ آپ صلی اللہ علیہ وسلم نے کہلوایا کہ اسے میرے پاس بھجوا دیں ۔ جب لوگ اسے لائے تو آنحضرت صلی اللہ علیہ وسلم نے خود اسے اٹھایا اور جہاں تم اب دیکھ رہے ہو ۔ وہیں آپ صلی اللہ علیہ وسلم نے اسے رکھا ۔",
+                "urduNarrator": "ہم سے سعید بن ابی مریم نے بیان ، کہا ہم سے ابوغسان محمد بن مطرف نے بیان کیا ، کہا کہ مجھ سے ابوحازم سلمہ بن دینار نے بیان کیا سہل بن سعد ساعدی رضی اللہ عنہ سے کہ",
+                "hadithArabic": "حَدَّثَنَا ابْنُ أَبِي مَرْيَمَ، حَدَّثَنَا أَبُو غَسَّانَ، قَالَ حَدَّثَنِي أَبُو حَازِمٍ، عَنْ سَهْلٍ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم أَرْسَلَ إِلَى امْرَأَةٍ مِنَ الْمُهَاجِرِينَ، وَكَانَ لَهَا غُلاَمٌ نَجَّارٌ قَالَ لَهَا ‏\"‏ مُرِي عَبْدَكِ فَلْيَعْمَلْ لَنَا أَعْوَادَ الْمِنْبَرِ ‏\"‏‏.‏ فَأَمَرَتْ عَبْدَهَا، فَذَهَبَ فَقَطَعَ مِنَ الطَّرْفَاءِ، فَصَنَعَ لَهُ مِنْبَرًا، فَلَمَّا قَضَاهُ أَرْسَلَتْ إِلَى النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَدْ قَضَاهُ، قَالَ صلى الله عليه وسلم ‏\"‏ أَرْسِلِي بِهِ إِلَىَّ ‏\"‏‏.‏ فَجَاءُوا بِهِ فَاحْتَمَلَهُ النَّبِيُّ صلى الله عليه وسلم فَوَضَعَهُ حَيْثُ تَرَوْنَ‏.‏",
+                "headingArabic": "مَنِ اسْتَوْهَبَ مِنْ أَصْحَابِهِ شَيْئًا",
+                "headingUrdu": "جو اپنے دوستوں سے کہے کہ اسے تحفہ دیں۔",
+                "headingEnglish": "Whoever asks his friends to grant him a gift",
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2457,
+                "hadithNumber": "2570",
+                "englishNarrator": "Narrated `Abdullah bin Abu Qatada Al-Aslami:",
+                "hadithEnglish": "That his father said, \"One day I was sitting with some of the Prophet's companions on the way to Mecca. Allah's Messenger (ﷺ) was ahead of us. All of my companions were in the state of Ihram while I was a non-Muhrim. They saw an onager while I was busy repairing my shoes, so they did not tell me about it but they wished I had seen it. By chance I looked up and saw it. So, I turned to the horse, saddled it and rode on it, forgetting to take the spear and the whip. I asked them if they could hand over to me the whip and the spear but they said, 'No, by Allah, we shall not help you in that in any way.' I became angry and got down from the horse, picked up both the things and rode the horse again. I attacked the onager and slaughtered it, and brought it (after it had been dead). They took it (cooked some of it) and started eating it, but they doubted whether it was allowed for them to eat it or not, as they were in the state of Ihram. So, we proceeded and I hid with me one of its fore-legs. When we met Allah's Messenger (ﷺ) and asked him about the case, he asked, 'Do you have a portion of it with you?' I replied in the affirmative and gave him that fleshy foreleg which he ate completely while he was in the state of Ihram . Zaid bin Aslam, Ataa bin Yasaar reported it from Hadrat Qatadah  رضی اللہ عنہ .",
+                "hadithUrdu": "مکہ کے راستے میں ایک جگہ میں رسول اللہ صلی اللہ علیہ وسلم کے چند ساتھیوں کے ساتھ بیٹھا ہوا تھا ۔ رسول کریم صلی اللہ علیہ وسلم ہم سے آگے قیام فرما تھے ۔ ( حجۃ الوداع کے موقع پر ) اور لوگ تو احرام باندھے ہوئے تھے لیکن میرا احرام نہیں تھا ۔ میرے ساتھیوں نے ایک گورخر دیکھا ۔ میں اس وقت اپنی جوتی گانٹھنے میں مشغول تھا ۔ ان لوگوں نے مجھ کو کچھ خبر نہیں دی ۔ لیکن ان کی خواہش یہی تھی کہ کسی طرح میں گورخر کو دیکھ لوں ۔ چنانچہ میں نے جو نظر اٹھائی تو گورخر دکھائی دیا ۔ میں فوراً گھوڑے کے پاس گیا اور اس پر زین کس کر سوار ہو گیا ، مگر اتفاق سے ( جلدی میں ) کوڑا اور نیزہ دونوں بھول گیا ۔ اس لیے میں نے اپنے ساتھیوں سے کہا کہ وہ مجھے کوڑا اور نیزہ اٹھا دیں ۔ انہوں نے کہا ہرگز نہیں قسم اللہ کی ، ہم تمہارے ( شکار میں ) کسی قسم کی مدد نہیں کر سکتے ۔ ( کیونکہ ہم سب لوگ حالت احرام میں ہیں ) مجھے اس پر غصہ آیا اور میں نے خود ہی اتر کر دونوں چیزیں لے لیں ۔ پھر سوار ہو کر گورخر پر حملہ کیا اور اس کو شکار کر لایا ۔ وہ مر بھی چکا تھا ۔ اب لوگوں نے کہا کہ اسے کھانا چاہئے ۔ لیکن پھر احرام کی حالت میں اسے کھانے ( کے جواز ) پر شبہ ہوا ۔ ( لیکن بعض لوگوں نے شبہ نہیں کیا اور گوشت کھایا ) پھر ہم آگے بڑھے اور میں نے اس گورخر کا ایک بازو چھپا رکھا تھا ۔ جب ہم رسول اللہ صلی اللہ علیہ وسلم کے پاس پہنچے تو اس کے متعلق آپ سے سوال کیا ، ( آپ نے محرم کے لیے شکار کے گوشت کھانے کا فتویٰ دیا ) اور دریافت فرمایا کہ اس میں سے کچھ بچا ہوا گوشت تمہارے پاس موجود بھی ہے ؟ میں نے کہا کہ جی ہاں ! اور وہی بازو آپ کی خدمت میں پیش کیا ۔ آپ نے اسے تناول فرمایا ۔ یہاں تک کہ وہ ختم ہو گیا ۔ آپ بھی اس وقت احرام سے تھے ( ابوحازم نے کہا کہ ) مجھ سے یہی حدیث زید بن اسلم نے بیان کی ، ان سے عطاء بن یسار نے اور ان سے ابوقتادہ رضی اللہ عنہ نے ۔",
+                "urduNarrator": "ہم سے عبدالعزیز بن عبداللہ نے بیان کیا ، کہا کہ مجھ سے محمد بن جعفر نے بیان کیا ابوحازم سے ، وہ عبداللہ بن ابی قتادہ سلمی سے اور ان سے ان کے باپ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي مُحَمَّدُ بْنُ جَعْفَرٍ، عَنْ أَبِي حَازِمٍ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي قَتَادَةَ السَّلَمِيِّ، عَنْ أَبِيهِ ـ رضى الله عنه ـ قَالَ كُنْتُ يَوْمًا جَالِسًا مَعَ رِجَالٍ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم فِي مَنْزِلٍ فِي طَرِيقِ مَكَّةَ وَرَسُولُ اللَّهِ صلى الله عليه وسلم نَازِلٌ أَمَامَنَا وَالْقَوْمُ مُحْرِمُونَ، وَأَنَا غَيْرُ مُحْرِمٍ، فَأَبْصَرُوا حِمَارًا وَحْشِيًّا، وَأَنَا مَشْغُولٌ أَخْصِفُ نَعْلِي، فَلَمْ يُؤْذِنُونِي بِهِ، وَأَحَبُّوا لَوْ أَنِّي أَبْصَرْتُهُ، وَالْتَفَتُّ فَأَبْصَرْتُهُ، فَقُمْتُ إِلَى الْفَرَسِ فَأَسْرَجْتُهُ ثُمَّ رَكِبْتُ وَنَسِيتُ السَّوْطَ وَالرُّمْحَ فَقُلْتُ لَهُمْ نَاوِلُونِي السَّوْطَ وَالرُّمْحَ‏.‏ فَقَالُوا لاَ وَاللَّهِ، لاَ نُعِينُكَ عَلَيْهِ بِشَىْءٍ‏.‏ فَغَضِبْتُ فَنَزَلْتُ فَأَخَذْتُهُمَا، ثُمَّ رَكِبْتُ، فَشَدَدْتُ عَلَى الْحِمَارِ فَعَقَرْتُهُ، ثُمَّ جِئْتُ بِهِ وَقَدْ مَاتَ، فَوَقَعُوا فِيهِ يَأْكُلُونَهُ، ثُمَّ إِنَّهُمْ شَكُّوا فِي أَكْلِهِمْ إِيَّاهُ، وَهُمْ حُرُمٌ، فَرُحْنَا وَخَبَأْتُ الْعَضُدَ مَعِي، فَأَدْرَكْنَا رَسُولَ اللَّهِ صلى الله عليه وسلم فَسَأَلْنَاهُ عَنْ ذَلِكَ فَقَالَ ‏ \"‏ مَعَكُمْ مِنْهُ شَىْءٌ ‏\"‏‏.‏ فَقُلْتُ نَعَمْ‏.‏ فَنَاوَلْتُهُ الْعَضُدَ فَأَكَلَهَا، حَتَّى نَفَّدَهَا وَهْوَ مُحْرِمٌ‏.‏ فَحَدَّثَنِي بِهِ زَيْدُ بْنُ أَسْلَمَ عَنْ عَطَاءِ بْنِ يَسَارٍ عَنْ أَبِي قَتَادَةَ ‏عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2458,
+                "hadithNumber": "2571",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "Once Allah's Messenger (ﷺ) visited us in this house of ours and asked for something to drink. We milked one of our sheep and mixed it with water from this well of ours and gave it to him. Abu Bakr رضی اللہ عنہ was sitting on his left side and `Umar رضی اللہ عنہ in front of him and a bedouin on his right side. When Allah's Messenger (ﷺ) finished, `Umar رضی اللہ عنہ said to Allah's Messenger (ﷺ) \"Here is Abu Bakr رضی اللہ عنہ .\" But Allah's Messenger (ﷺ) gave the remaining milk to the bedouin and said twice, \"The (persons on the) right side! So, start from the right side.\" Anas رضی اللہ عنہ added, \"It is a Sunna (the Prophet's traditions)\" and repeated it thrice.",
+                "hadithUrdu": "( ایک مرتبہ ) رسول کریم صلی اللہ علیہ وسلم ہمارے اسی گھر میں تشریف لائے اور پانی طلب فرمایا ۔ ہمارے پاس ایک بکری تھی ، اسے ہم نے دوہا ۔ پھر میں نے اسی کنویں کا پانی ملا کر آپ کی خدمت میں ( لسی بنا کر ) پیش کیا ، حضرت ابوبکر رضی اللہ عنہ آپ صلی اللہ علیہ وسلم کی بائیں طرف بیٹھے ہوئے تھے اور حضرت عمر رضی اللہ عنہ سامنے تھے اور ایک دیہاتی آپ کے دائیں طرف تھا ۔ جب آپ صلی اللہ علیہ وسلم پی کر فارغ ہوئے تو ( پیالے میں کچھ دودھ بچ گیا تھا اس لیے ) حضرت عمر رضی اللہ عنہ نے عرض کیا کہ یہ حضرت ابوبکر رضی اللہ عنہ ہیں ۔ لیکن آپ نے اسے دیہاتی کو عطا فرمایا ۔ ( کیونکہ وہ دائیں طرف تھا ) پھر آپ صلی اللہ علیہ وسلم نے فرمایا ، دائیں طرف بیٹھنے والے ، دائیں طرف بیٹھنے والے ہی حق رکھتے ہیں ۔ پس خبردار دائیں طرف ہی سے شروع کیا کرو ۔ انس رضی اللہ عنہ نے کہا کہ یہی سنت ہے ، یہی سنت ہے ، تین مرتبہ ( آپ نے اس بات کو دہرایا ) ۔",
+                "urduNarrator": "ہم سے خالد بن مخلد نے بیان کیا ، کہا ہم سے سلیمان بن بلال نے ، کہا کہ مجھ سے ابوطوالہ نے جن کا نام عبداللہ بن عبدالرحمٰن تھا کہ میں نے انس رضی اللہ عنہ سے سنا ، وہ کہتے تھے کہ",
+                "hadithArabic": "حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ، حَدَّثَنَا سُلَيْمَانُ بْنُ بِلاَلٍ، قَالَ حَدَّثَنِي أَبُو طَوَالَةَ ـ اسْمُهُ عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ ـ قَالَ سَمِعْتُ أَنَسًا ـ رضى الله عنه ـ يَقُولُ أَتَانَا رَسُولُ اللَّهِ صلى الله عليه وسلم فِي دَارِنَا هَذِهِ، فَاسْتَسْقَى، فَحَلَبْنَا لَهُ شَاةً لَنَا، ثُمَّ شُبْتُهُ مِنْ مَاءِ بِئْرِنَا هَذِهِ، فَأَعْطَيْتُهُ وَأَبُو بَكْرٍ عَنْ يَسَارِهِ، وَعُمَرُ تُجَاهَهُ وَأَعْرَابِيٌّ عَنْ يَمِينِهِ فَلَمَّا فَرَغَ قَالَ عُمَرُ هَذَا أَبُو بَكْرٍ‏.‏ فَأَعْطَى الأَعْرَابِيَّ، ثُمَّ قَالَ ‏ \"‏ الأَيْمَنُونَ، الأَيْمَنُونَ، أَلاَ فَيَمِّنُوا ‏\"‏‏.‏ قَالَ أَنَسٌ فَهْىَ سُنَّةٌ فَهْىَ سُنَّةٌ‏.‏ ثَلاَثَ مَرَّاتٍ‏.‏",
+                "headingArabic": "مَنِ اسْتَسْقَى",
+                "headingUrdu": "جو دوسروں سے کہے اسے پانی پلاؤ",
+                "headingEnglish": "Whoever asks others to give him water",
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2459,
+                "hadithNumber": "2572",
+                "englishNarrator": "Narrated Anas  رضی اللہ عنہ :",
+                "hadithEnglish": "We chased a rabbit at Mar-al-Zahran and the people ran after it but were exhausted. I overpowered and caught it, and gave it to Abu Talha who slaughtered it and sent its hip or two thighs to Allah's Apostle. (The narrator confirms that he sent two thighs). The Prophet (ﷺ) accepted that. I submitted: Did he eat of it? He ate of it, and then said: He accepted it.",
+                "hadithUrdu": "مرالظہران نامی جگہ میں ہم نے ایک خرگوش کا پیچھا کیا ۔ لوگ ( اس کے پیچھے ) دوڑے اور اسے تھکا دیا اور میں نے قریب پہنچ کر اسے پکڑ لیا ۔ پھر ابوطلحہ رضی اللہ عنہ کے ہاں لایا ۔ انہوں نے اسے ذبح کیا اور اس کے پیچھے کا یا دونوں رانوں کا گوشت نبی کریم صلی اللہ علیہ وسلم کی خدمت میں بھیجا ۔ ( شعبہ نے بعد میں یقین کے ساتھ ) کہا کہ دونوں رانیں انہوں نے بھیجی تھیں ، اس میں کوئی شک نہیں ۔ حضور اکرم صلی اللہ علیہ وسلم نے اسے قبول فرمایا تھا میں نے پوچھا اور اس میں سے آپ نے کچھ تناول بھی فرمایا ؟ انہوں نے بیان کیا کہ ہاں ! کچھ تناول فرمایا تھا ۔ اس کے بعد پھر انہوں نے کہا کہ آپ نے وہ ہدیہ قبول فرما لیا تھا ۔",
+                "urduNarrator": "ہم سے سلیمان بن حرب نے بیان کیا ، کہا ہم سے شعبہ نے بیان کیا ، ان سے ہشام بن زید بن انس بن مالک نے اور ان سے انس رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا شُعْبَةُ، عَنْ هِشَامِ بْنِ زَيْدِ بْنِ أَنَسِ بْنِ مَالِكٍ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ أَنْفَجْنَا أَرْنَبًا بِمَرِّ الظَّهْرَانِ، فَسَعَى الْقَوْمُ فَلَغَبُوا، فَأَدْرَكْتُهَا فَأَخَذْتُهَا، فَأَتَيْتُ بِهَا أَبَا طَلْحَةَ فَذَبَحَهَا، وَبَعَثَ بِهَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم بِوَرِكِهَا ـ أَوْ فَخِذَيْهَا قَالَ فَخِذَيْهَا لاَ شَكَّ فِيهِ ـ فَقَبِلَهُ‏.‏ قُلْتُ وَأَكَلَ مِنْهُ قَالَ وَأَكَلَ مِنْهُ‏.‏ ثُمَّ قَالَ بَعْدُ قَبِلَهُ‏.‏",
+                "headingArabic": "قَبُولِ هَدِيَّةِ الصَّيْدِ",
+                "headingUrdu": "کھیل کا تحفہ",
+                "headingEnglish": "The gift of game",
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2460,
+                "hadithNumber": "2573",
+                "englishNarrator": "Narrated As-Sa'b bin Jath-thama رضی اللہ عنہ :",
+                "hadithEnglish": "An onager was presented to Allah's Messenger (ﷺ) at the place called Al-Abwa' or Waddan, but Allah's Apostle rejected it. When the Prophet (ﷺ) noticed the signs of sorrow on the giver's face he said, \"We have not rejected your gift, but we are in the state of Ihram.\" (i.e. if we were not in a state of Ihram we would have accepted your gift, Fath-ul-Bari page 130, Vol. 6)",
+                "hadithUrdu": "انہوں نے نبی کریم صلی اللہ علیہ وسلم کی خدمت میں گورخر کا تحفہ پیش کیا تھا ۔ آپ صلی اللہ علیہ وسلم اس وقت مقام ابواء یا مقام ودان میں تھے ( راوی کو شبہ ہے ) آپ صلی اللہ علیہ وسلم نے ان کا تحفہ واپس کر دیا ۔ پھر ان کے چہرے پر ( رنج کے آثار ) دیکھ کر فرمایا کہ میں نے یہ تحفہ صرف اس لیے واپس کیا ہے کہ ہم احرام باندھے ہوئے ہیں ۔",
+                "urduNarrator": "ہم سے اسماعیل بن ابی اویس نے بیان کیا ، کہا کہ مجھ سے امام مالک نے بیان کیا ابن شہاب سے ، وہ عبیداللہ بن عبداللہ بن عتبہ بن مسعود سے ، وہ حضرت عبداللہ بن عباس رضی اللہ عنہما سے اور اور وہ صعب بن جثامہ رضی اللہ عنہ سے کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ بْنِ مَسْعُودٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، عَنِ الصَّعْبِ بْنِ جَثَّامَةَ ـ رضى الله عنهم ـ أَنَّهُ أَهْدَى لِرَسُولِ اللَّهِ صلى الله عليه وسلم حِمَارًا وَحْشِيًّا وَهْوَ بِالأَبْوَاءِ أَوْ بِوَدَّانَ فَرَدَّ عَلَيْهِ، فَلَمَّا رَأَى مَا فِي وَجْهِهِ قَالَ ‏ \"‏ أَمَا إِنَّا لَمْ نَرُدَّهُ عَلَيْكَ إِلاَّ أَنَّا حُرُمٌ ‏\"‏‏.‏",
+                "headingArabic": "قَبُولِ الْهَدِيَّةِ",
+                "headingUrdu": "تحفہ قبول کرنا",
+                "headingEnglish": "Accepting a gift",
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2461,
+                "hadithNumber": "2574",
+                "englishNarrator": "Narrated Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "The people used to look forward for the days of my (`Aisha's) turn to send gifts to Allah's Messenger (ﷺ) in order to please him.",
+                "hadithUrdu": "لوگ ( رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں ) تحائف بھیجنے کے لیے عائشہ رضی اللہ عنہا کی باری کا انتظار کیا کرتے تھے ۔ اپنے ہدایا سے ، یا اس خاص دن کے انتظار سے ( راوی کو شک ہے ) لوگ آنحضرت صلی اللہ علیہ وسلم کی خوشی حاصل کرنا چاہتے تھے ۔",
+                "urduNarrator": "ہم سے ابراہیم بن موسیٰ نے بیان کیا ، کہا ہم سے عبدہ بن سلیمان نے بیان کیا ، کہا ہم سے ہشام بن عروہ نے بیان کیا ، ان سے ان کے والد نے اور ان سے حضرت عائشہ رضی اللہ عنہا نے کہ",
+                "hadithArabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، حَدَّثَنَا عَبْدَةُ، حَدَّثَنَا هِشَامٌ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ النَّاسَ، كَانُوا يَتَحَرَّوْنَ بِهَدَايَاهُمْ يَوْمَ عَائِشَةَ، يَبْتَغُونَ بِهَا ـ أَوْ يَبْتَغُونَ بِذَلِكَ ـ مَرْضَاةَ رَسُولِ اللَّهِ صلى الله عليه وسلم‏.‏",
+                "headingArabic": "قَبُولِ الْهَدِيَّةِ",
+                "headingUrdu": "تحفہ قبول کرنا",
+                "headingEnglish": "Accepting a gift",
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2462,
+                "hadithNumber": "2575",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "Um Hufaid رضی اللہ عنہ , Ibn `Abbas's aunt sent some dried yogurt (butter free), ghee (butter) and a mastigar to the Prophet (ﷺ) as a gift. The Prophet (ﷺ) ate the dried yogurt and butter but left the mastigar because he disliked it. Ibn `Abbas رضی اللہ عنہما said, \"The mastigar was eaten at the table of Allah's Messenger (ﷺ) and if it had been illegal to eat, it could not have been eaten at the table of Allah's Messenger (ﷺ).\"",
+                "hadithUrdu": "ان کی خالہ ام حفید رضی اللہ عنہ نے نبی کریم صلی اللہ علیہ وسلم کی خدمت میں پنیر ، گھی اور گوہ ( ساہنہ ) کے تحائف بھیجے ۔ آنحضرت صلی اللہ علیہ وسلم نے پنیر اور گھی میں سے تو تناول فرمایا لیکن گوہ پسند نہ ہونے کی وجہ سے چھوڑ دی ۔ ابن عباس رضی اللہ عنہما نے کہا کہ رسول اللہ صلی اللہ علیہ وسلم کے ( اسی ) دسترخوان پر ( گوہ ( ساہنہ ) کو بھی کھایا گیا اور اگر وہ حرام ہوتی تو آپ صلی اللہ علیہ وسلم کے دسترخوان پر کیوں کھائی جاتی ۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا ، کہا ہم سے شعبہ نے بیان کیا ، کہا ہم سے جعفر بن ایاس نے بیان کیا ، کہا کہ میں نے سعید بن جبیر سے سنا کہ ابن عباس رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا جَعْفَرُ بْنُ إِيَاسٍ، قَالَ سَمِعْتُ سَعِيدَ بْنَ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ أَهْدَتْ أُمُّ حُفَيْدٍ خَالَةُ ابْنِ عَبَّاسٍ إِلَى النَّبِيِّ صلى الله عليه وسلم أَقِطًا وَسَمْنًا وَأَضُبًّا، فَأَكَلَ النَّبِيُّ صلى الله عليه وسلم مِنَ الأَقِطِ وَالسَّمْنِ، وَتَرَكَ الضَّبَّ تَقَذُّرًا‏.‏ قَالَ ابْنُ عَبَّاسٍ فَأُكِلَ عَلَى مَائِدَةِ رَسُولِ اللَّهِ صلى الله عليه وسلم، وَلَوْ كَانَ حَرَامًا مَا أُكِلَ عَلَى مَائِدَةِ رَسُولِ اللَّهِ صلى الله عليه وسلم‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2463,
+                "hadithNumber": "2576",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Whenever a meal was brought to Allah's Messenger (ﷺ), he would ask whether it was a gift or Sadaqa (something given in charity). If he was told that it was Sadaqa, he would tell his companions to eat it, but if it was a gift, he would hurry to share it with them.",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم کی خدمت میں جب کوئی کھانے کی چیز لائی جاتی تو آپ صلی اللہ علیہ وسلم دریافت فرماتے یہ تحفہ ہے یا صدقہ ؟ اگر کہا جاتا کہ صدقہ ہے تو آپ صلی اللہ علیہ وسلم اپنے اصحاب سے فرماتے کہ کھاؤ ، آپ خود نہ کھاتے اور اگر کہا جاتا کہ تحفہ ہے تو آپ صلی اللہ علیہ وسلم خود بھی ہاتھ بڑھاتے اور صحابہ کے ساتھ اسے کھاتے ۔",
+                "urduNarrator": "ہم سے ابراہیم بن المنذر نے بیان کیا ، انہوں نے کہا ہم سے معن بن عیسیٰ نے بیان کیا ، انہوں نے کہا کہ مجھ سے ابراہیم بن طہمان نے بیان کیا انہوں نے محمد بن زیاد سے اور وہ حضرت ابوہریرہ رضی اللہ عنہ سے روایت کرتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ، حَدَّثَنَا مَعْنٌ، قَالَ حَدَّثَنِي إِبْرَاهِيمُ بْنُ طَهْمَانَ، عَنْ مُحَمَّدِ بْنِ زِيَادٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏إِذَا أُتِيَ بِطَعَامٍ سَأَلَ عَنْهُ أَهَدِيَّةٌ أَمْ صَدَقَةٌ فَإِنْ قِيلَ صَدَقَةٌ‏.‏ قَالَ لأَصْحَابِهِ كُلُوا‏.‏ وَلَمْ يَأْكُلْ، وَإِنْ قِيلَ هَدِيَّةٌ‏.‏ ضَرَبَ بِيَدِهِ صلى الله عليه وسلم فَأَكَلَ مَعَهُمْ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2464,
+                "hadithNumber": "2577",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "Some meat was brought to the Prophet (ﷺ) and it was said that the meat had been given in charity to Buraira رضی اللہ عنہا . He said, \"It was Sadaqa for Buraira رضی اللہ عنہا but a gift for us.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں ایک مرتبہ گوشت پیش کیا گیا اور یہ بتایا گیا کہ یہ بریرہ رضی اللہ عنہا کو کسی نے بطور صدقہ کے دیا ہے ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ ان کے لیے یہ صدقہ ہے اور ہمارے لیے ( جب ان کے یہاں سے پہنچا تو ) ہدیہ ہے ۔",
+                "urduNarrator": "ہم سے محمد بن بشار نے بیان کیا ، کہا ہم سے غندر نے بیان کیا ، کہا ہم سے شعبہ نے بیان کیا ، ان سے قتادہ نے اور ان سے انس رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ أُتِيَ النَّبِيُّ صلى الله عليه وسلم بِلَحْمٍ فَقِيلَ تُصُدِّقَ عَلَى بَرِيرَةَ قَالَ ‏ \"‏ هُوَ لَهَا صَدَقَةٌ، وَلَنَا هَدِيَّةٌ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2465,
+                "hadithNumber": "2578",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "I intended to buy Buraira رضی اللہ عنہا but her masters stipulated that her Wala should be for them. When the Prophet was told about it, he said to me, \"Buy and manumit her, as the Wala' is for the liberator.\" Once Buraira رضی اللہ عنہا was given some meat, and the Prophet (ﷺ) asked, \"What is this?\" I said, \"It has been given to Buraira رضی اللہ عنہا in charity.\" He said, \"It is sadaqa for her but a gift for us.\" Buraira رضی اللہ عنہا was given the option (to stay with her husband or to part with him). `Abdur-Rahman (a sub-narrator) wondered, \"Was her husband a slave or a free man?\" Shu`ba (another sub-narrator) said, \"I asked `Abdur-Rahman whether her husband was a slave or a free man. He replied that he did not know whether he was a slave or a free man.\"",
+                "hadithUrdu": "انہوں نے بریرہ رضی اللہ عنہا کو ( آزاد کرنے کے لیے ) خریدنا چاہا ۔ لیکن ان کے مالکوں نے ولاء کی شرط اپنے لیے لگائی ۔ جب اس کا ذکر رسول کریم صلی اللہ علیہ وسلم سے ہوا تو آپ نے فرمایا ، تو انہیں خرید کر آزاد کر دے ، ولاء تو اسی کے ساتھ قائم ہوتی ہے جو آزاد کرے ۔ اور بریرہ رضی اللہ عنہا کے یہاں ( صدقہ کا ) گوشت آیا تھا تو نبی کریم صلی اللہ علیہ وسلم نے فرمایا ، اچھا یہ وہی ہے جو بریرہ کو صدقہ میں ملا ہے ۔ یہ ان کے لیے تو صدقہ ہے لیکن ہمارے لیے ( چونکہ ان کے گھر سے بطور ہدیہ ملا ہے ) ہدیہ ہے اور ( آزادی کے بعد بریرہ کو ) اختیار دیا گیا تھا ( کہ اگر چاہیں تو اپنے نکاح کو فسخ کر سکتی ہیں ) عبدالرحمٰن نے پوچھا بریرہ رضی اللہ عنہ کے خاوند ( حضرت مغیث رضی اللہ عنہ ) غلام تھے یا آزاد ؟ شعبہ نے بیان کیا کہ میں نے عبدالرحمٰن سے ان کے خاوند کے متعلق پوچھا تو انہوں نے کہا کہ مجھے معلوم نہیں وہ غلام تھے یا آزاد ۔",
+                "urduNarrator": "ہم سے محمد بن بشار نے بیان کیا ، کہا ہم سے غندر نے بیان کیا ، کہا ہم سے شعبہ نے بیان کیا عبدالرحمٰن بن قاسم سے ، شعبہ نے کہا کہ میں نے یہ حدیث عبدالرحمٰن سے سنی تھی اور انہوں نے قاسم سے روایت کی ، انہوں نے حضرت عائشہ رضی اللہ عنہا سے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، قَالَ سَمِعْتُهُ مِنْهُ، عَنِ الْقَاسِمِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّهَا أَرَادَتْ أَنْ تَشْتَرِيَ بَرِيرَةَ، وَأَنَّهُمُ اشْتَرَطُوا وَلاَءَهَا، فَذُكِرَ لِلنَّبِيِّ صلى الله عليه وسلم فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ اشْتَرِيهَا فَأَعْتِقِيهَا، فَإِنَّمَا الْوَلاَءُ لِمَنْ أَعْتَقَ ‏\"‏‏.‏ وَأُهْدِيَ لَهَا لَحْمٌ، فَقِيلَ لِلنَّبِيِّ صلى الله عليه وسلم هَذَا تُصُدِّقَ عَلَى بَرِيرَةَ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ هُوَ لَهَا صَدَقَةٌ وَلَنَا هَدِيَّةٌ ‏\"‏‏.‏ وَخُيِّرَتْ‏.‏ قَالَ عَبْدُ الرَّحْمَنِ زَوْجُهَا حُرٌّ أَوْ عَبْدٌ قَالَ شُعْبَةُ سَأَلْتُ عَبْدَ الرَّحْمَنِ عَنْ زَوْجِهَا‏.‏ قَالَ لاَ أَدْرِي أَحُرٌّ أَمْ عَبْدٌ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2466,
+                "hadithNumber": "2579",
+                "englishNarrator": "Narrated Um 'Atiyya رضی اللہ عنہا :",
+                "hadithEnglish": "Once the Prophet (ﷺ) went to `Aisha رضی اللہ عنہا and asked her whether she had something (to eat). She said that she had nothing except the mutton which Um 'Atiyya رضی اللہ عنہا had sent to (Buraira) in charity. The Prophet (ﷺ) said that it had reached its destination (i.e. it is no longer an object of charity.)",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم عائشہ رضی اللہ عنہا کے یہاں تشریف لے گئے اور دریافت فرمایا ، کیا کوئی چیز ( کھانے کی ) تمہارے پاس ہے ؟ انہوں نے کہا کہ ام عطیہ رضی اللہ عنہا کے یہاں جو آپ نے صدقہ کی بکری بھیجی تھی ، اس کا گوشت انہوں نے بھیجا ہے ۔ اس کے سوا اور کچھ نہیں ہے ۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ وہ اپنی جگہ پہنچ چکی ۔",
+                "urduNarrator": "ہم سے ابوالحسن محمد بن مقاتل نے بیان کیا ، انہوں نے کہا ہم کو خالد بن عبداللہ نے خبر دی ، انہیں خالد حذاء نے حفصہ بنت سیرین سے کہ ام عطیہ رضی اللہ عنہا نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مُقَاتِلٍ أَبُو الْحَسَنِ، أَخْبَرَنَا خَالِدُ بْنُ عَبْدِ اللَّهِ، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ حَفْصَةَ بِنْتِ سِيرِينَ، عَنْ أُمِّ عَطِيَّةَ، قَالَتْ دَخَلَ النَّبِيُّ صلى الله عليه وسلم عَلَى عَائِشَةَ ـ رضى الله عنها ـ فَقَالَ ‏\"‏ عِنْدَكُمْ شَىْءٌ ‏\"‏‏.‏ قَالَتْ لاَ، إِلاَّ شَىْءٌ بَعَثَتْ بِهِ أُمُّ عَطِيَّةَ مِنَ الشَّاةِ الَّتِي بُعِثَ إِلَيْهَا مِنَ الصَّدَقَةِ‏.‏ قَالَ ‏\"‏ إِنَّهَا قَدْ بَلَغَتْ مَحِلَّهَا ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2467,
+                "hadithNumber": "2580",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "The people used to send gifts to the Prophet (ﷺ) on the day of my turn. Um Salama said: \"My companions (the wives of the Prophet (ﷺ) Other than Aisha) gathered and they complained about it. So I informed the Prophet about it on their behalf, but he remained silent.",
+                "hadithUrdu": "لوگ تحائف بھیجنے کے لیے میری باری کا انتظار کیا کرتے تھے ۔ اور ام سلمہ رضی اللہ عنہا نے کہا میری سوکنیں ( امہات المؤمنین رضوان اللہ علیہن ) جمع تھیں اس وقت انہوں نے حضور اکرم صلی اللہ علیہ وسلم سے ( بطور شکایت لوگوں کی اس روش کا ) ذکر کیا ۔ تو آپ نے انہیں کوئی جواب نہیں دیا ۔",
+                "urduNarrator": "ہم سے سلیمان بن حرب نے بیان کیا ، کہا کہ ہم سے حماد بن زید نے بیان کیا ہشام سے ، ان سے ان کے والد نے ، ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ كَانَ النَّاسُ يَتَحَرَّوْنَ بِهَدَايَاهُمُ يَوْمِي‏.‏ وَقَالَتْ أُمُّ سَلَمَةَ إِنَّ صَوَاحِبِي اجْتَمَعْنَ‏.‏ فَذَكَرَتْ لَهُ، فَأَعْرَضَ عَنْهَا‏.‏",
+                "headingArabic": "مَنْ أَهْدَى إِلَى صَاحِبِهِ وَتَحَرَّى بَعْضَ نِسَائِهِ دُونَ بَعْضٍ",
+                "headingUrdu": "تحفہ دینے کے لیے انتخاب کرنا",
+                "headingEnglish": "Chosing the to give a gift",
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2468,
+                "hadithNumber": "2581",
+                "englishNarrator": "Narrated `Urwa from `Aisha رضی اللہ عنہا    :",
+                "hadithEnglish": "The wives of Allah's Messenger (ﷺ) were in two groups. One group consisted of `Aisha, Hafsa, Safiyya and Sauda; and the other group consisted of Um Salama and the other wives of Allah's Messenger (ﷺ). The Muslims knew that Allah's Messenger (ﷺ) loved `Aisha رضی اللہ عنہا , so if any of them had a gift and wished to give to Allah's Messenger (ﷺ), he would delay it, till Allah's Messenger (ﷺ) had come to `Aisha's home and then he would send his gift to Allah's Messenger (ﷺ) in her home. The group of Um Salama رضی اللہ عنہا discussed the matter together and decided that Um Salama رضی اللہ عنہا should request Allah's Messenger (ﷺ) to tell the people to send their gifts to him in whatever wife's house he was. Um Salama رضی اللہ عنہا told Allah's Messenger (ﷺ) of what they had said, but he did not reply. Then they (those wives) asked Um Salama about it. She said, \"He did not say anything to me.\" They asked her to talk to him again. She talked to him again when she met him on her day, but he gave no reply. When they asked her, she replied that he had given no reply. They said to her, \"Talk to him till he gives you a reply.\" When it was her turn, she talked to him again. He then said to her, \"Do not hurt me regarding Aisha, as the Divine Inspirations do not come to me on any of the beds except that of Aisha.\" On that Um Salama said, \"I repent to Allah for hurting you.\" Then the group of Um Salama called Fatima, the daughter of Allah's Messenger (ﷺ) and sent her to Allah's Messenger (ﷺ) to say to him, \"Your wives request to treat them and the daughter of Abu Bakr رضی اللہ عنہ on equal terms.\" Then Fatima conveyed the message to him. The Prophet (ﷺ) said, \"O my daughter! Don't you love whom I love?\" She replied in the affirmative and returned and told them of the situation. They requested her to go to him again but she refused. They then sent Zainab bint Jahsh رضی اللہ عنہا who went to him and used harsh words saying, \"Your wives request you to treat them and the daughter of Ibn Abu Quhafa on equal terms.\" On that she raised her voice and abused `Aisha رضی اللہ عنہا to her face so much so that Allah's Messenger (ﷺ) looked at `Aisha to see whether she would retort. `Aisha رضی اللہ عنہا started replying to Zainab رضی اللہ عنہا till she silenced her. The Prophet (ﷺ) then looked at `Aisha رضی اللہ عنہا and said, \"She is really the daughter of Abu Bakr.\" Imam Bukhari says: The last point is mentioned in Hadrat Fatima's episode. Urwah reports: The people would wait for Hadrat Aishah's turn to send theur parents and Hadrat Aishah رضی اللہ عنہا said: I was along with the prophet (ﷺ) when Hadrat Fatima رضی اللہ عنہا sought the permission to enter.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم کی ازواج کی دو گروہ میں تھیں ۔ ایک میں عائشہ ، حفصہ ، صفیہ اور سودہ رضوان اللہ علیہن اور دوسری میں ام سلمہ اور بقیہ تمام ازواج مطہرات رضوان اللہ علیہن تھیں ۔ مسلمانوں کو رسول اللہ صلی اللہ علیہ وسلم کی عائشہ رضی اللہ عنہا کے ساتھ محبت کا علم تھا اس لیے جب کسی کے پاس کوئی تحفہ ہوتا اور وہ اسے رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں پیش کرنا چاہتا تو انتظار کرتا ۔ جب رسول اللہ صلی اللہ علیہ وسلم کی عائشہ رضی اللہ عنہا کے گھر کی باری ہوتی تو تحفہ دینے والے صاحب اپنا تحفہ آپ صلی اللہ علیہ وسلم کی خدمت میں بھیجتے ۔ اس پر ام سلمہ رضی اللہ عنہا کی جماعت کی ازواج مطہرات نے آپس میں مشورہ کیا اور ام سلمہ رضی اللہ عنہا سے کہا کہ وہ رسول اللہ صلی اللہ علیہ وسلم سے بات کریں تاکہ آپ لوگوں سے فرما دیں کہ جسے آپ کے یہاں تحفہ بھیجنا ہو وہ جہاں بھی آپ صلی اللہ علیہ وسلم ہوں وہیں بھیجا کرے ۔ چنانچہ ان ازواج کے مشورہ کے مطابق انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے کہا لیکن آپ نے انہیں کوئی جواب نہیں دیا ۔ پھر ان خواتین نے پوچھا تو انہوں نے بتا دیا کہ مجھے آپ نے کوئی جواب نہیں دیا ۔ ازواج مطہرات نے کہا کہ پھر ایک مرتبہ کہو ۔ انہوں نے بیان کیا پھر جب آپ کی باری آئی تو دوبارہ انہوں نے آپ صلی اللہ علیہ وسلم سے عرض کیا ۔ اس مرتبہ بھی آپ صلی اللہ علیہ وسلم نے مجھے اس کا کوئی جواب ہی نہیں دیا ۔ ازواج نے اس مرتبہ ان سے کہا کہ آپ صلی اللہ علیہ وسلم کو اس مسئلہ پر بلواو تو سہی ۔ جب ان کی باری آئی تو انہوں نے پھر کہا ۔ آپ صلی اللہ علیہ وسلم نے اس مرتبہ فرمایا ۔ عائشہ رضی اللہ عنہا کے بارے میں مجھے تکلیف نہ دو ۔ عائشہ رضی اللہ عنہا کے سوا اپنی بیویوں میں سے کسی کے کپڑے میں بھی مجھ پر وحی نازل نہیں ہوتی ہے ۔ عائشہ رضی اللہ عنہا نے کہا کہ آپ صلی اللہ علیہ وسلم کے اس ارشاد پر انہوں نے عرض کیا ، آپ کو ایذا پہنچانے کی وجہ سے میں اللہ کے حضور میں توبہ کرتی ہوں ۔ پھر ان ازواج مطہرات نے رسول اللہ صلی اللہ علیہ وسلم کی صاحبزادی حضرت فاطمہ رضی اللہ عنہا کو بلایا اور ان کے ذریعہ آنحضرت صلی اللہ علیہ وسلم کی خدمت میں یہ کہلوایا کہ آپ کی ازواج ابوبکر رضی اللہ عنہ کی بیٹی کے بارے میں اللہ کے لیے آپ سے انصاف چاہتی ہیں ۔ چنانچہ انہوں نے بھی آپ صلی اللہ علیہ وسلم سے بات چیت کی ۔ آپ صلی اللہ علیہ وسلم نے فرمایا ، میری بیٹی ! کیا تم وہ پسند نہیں کرتی جو میں پسند کروں ؟ انہوں نے جواب دیا کہ کیوں نہیں ، اس کے بعد وہ واپس آ گئیں اور ازواج کو اطلاع دی ۔ انہوں نے ان سے پھر دوبارہ خدمت نبوی میں جانے کے لیے کہا ۔ لیکن آپ نے دوبارہ جانے سے انکار کیا تو انہوں نے زینب بنت جحش رضی اللہ عنہا کو بھیجا ۔ وہ خدمت نبوی میں حاضر ہوئیں تو انہوں نے سخت گفتگو کی اور کہا کہ آپ کی ازواج ابوقحافہ کی بیٹی کے بارے میں آپ سے خدا کے لیے انصاف مانگتی ہیں اور ان کی آواز اونچی ہو گئی ۔ عائشہ رضی اللہ عنہا وہیں بیٹھی ہوئی تھیں ۔ انہوں نے ( ان کے منہ پر ) انہیں بھی برا بھلا کہا ۔ رسول اللہ صلی اللہ علیہ وسلم عائشہ رضی اللہ عنہا کی طرف دیکھنے لگے کہ وہ کچھ بولتی ہیں یا نہیں ۔ راوی نے بیان کیا کہ عائشہ رضی اللہ عنہا بھی بول پڑیں اور زینب رضی اللہ عنہا کی باتوں کا جواب دینے لگیں اور آخر انہیں خاموش کر دیا ۔ پھر رسول کریم صلی اللہ علیہ وسلم نے عائشہ رضی اللہ عنہا کی طرف دیکھ کر فرمایا کہ یہ ابوبکر کی بیٹی ہے ۔ امام بخاری رحمہ اللہ نے کہا کہ آخر کلام فاطمہ رضی اللہ عنہا کے واقعہ سے متعلق ہشام بن عروہ نے ایک اور شخص سے بیان کیا ہے ۔ انہوں نے زہری سے روایت کی اور انہوں نے محمد بن عبدالرحمٰن سے اور ابومروان نے بیان کیا کہ ہشام سے اور انہوں نے عروہ سے کہ لوگ تحائف بھیجنے کے لیے حضرت عائشہ رضی اللہ عنہا کی باری کا انتظار کیا کرتے تھے اور ہشام کی ایک روایت قریش کے ایک صاحب اور ایک دوسرے صاحب سے جو غلاموں میں سے تھے ، بھی ہے ۔ وہ زہری سے نقل کرتے ہیں اور وہ محمد بن عبدالرحمٰن بن حارث بن ہشام سے کہ حضرت عائشہ رضی اللہ عنہا نے کہا جب فاطمہ رضی اللہ عنہا نے ( اندر آنے کی ) اجازت چاہی تو میں اس وقت آپ صلی اللہ علیہ وسلم ہی کی خدمت میں موجود تھی ۔",
+                "urduNarrator": "ہم سے اسماعیل بن ابی اویس نے بیان کیا ، کہا کہ مجھ سے میرے بھائی عبدالحمید بن ابی اویس نے ، ان سے سلیمان نے ہشام بن عروہ سے ، ان سے ان کے باپ نے اور ان سے حضرت عائشہ رضی اللہ عنہا نے کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي أَخِي، عَنْ سُلَيْمَانَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ نِسَاءَ، رَسُولِ اللَّهِ صلى الله عليه وسلم كُنَّ حِزْبَيْنِ فَحِزْبٌ فِيهِ عَائِشَةُ وَحَفْصَةُ وَصَفِيَّةُ وَسَوْدَةُ، وَالْحِزْبُ الآخَرُ أُمُّ سَلَمَةَ وَسَائِرُ نِسَاءِ رَسُولِ اللَّهِ صلى الله عليه وسلم، وَكَانَ الْمُسْلِمُونَ قَدْ عَلِمُوا حُبَّ رَسُولِ اللَّهِ صلى الله عليه وسلم عَائِشَةَ، فَإِذَا كَانَتْ عِنْدَ أَحَدِهِمْ هَدِيَّةٌ يُرِيدُ أَنْ يُهْدِيَهَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم أَخَّرَهَا، حَتَّى إِذَا كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي بَيْتِ عَائِشَةَ بَعَثَ صَاحِبُ الْهَدِيَّةِ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فِي بَيْتِ عَائِشَةَ، فَكَلَّمَ حِزْبُ أُمِّ سَلَمَةَ، فَقُلْنَ لَهَا كَلِّمِي رَسُولَ اللَّهِ صلى الله عليه وسلم يُكَلِّمُ النَّاسَ، فَيَقُولُ مَنْ أَرَادَ أَنْ يُهْدِيَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم هَدِيَّةً فَلْيُهْدِهِ إِلَيْهِ حَيْثُ كَانَ مِنْ بُيُوتِ نِسَائِهِ، فَكَلَّمَتْهُ أُمُّ سَلَمَةَ بِمَا قُلْنَ، فَلَمْ يَقُلْ لَهَا شَيْئًا، فَسَأَلْنَهَا‏.‏ فَقَالَتْ مَا قَالَ لِي شَيْئًا‏.‏ فَقُلْنَ لَهَا فَكَلِّمِيهِ‏.‏ قَالَتْ فَكَلَّمَتْهُ حِينَ دَارَ إِلَيْهَا أَيْضًا، فَلَمْ يَقُلْ لَهَا شَيْئًا، فَسَأَلْنَهَا‏.‏ فَقَالَتْ مَا قَالَ لِي شَيْئًا‏.‏ فَقُلْنَ لَهَا كَلِّمِيهِ حَتَّى يُكَلِّمَكِ‏.‏ فَدَارَ إِلَيْهَا فَكَلَّمَتْهُ‏.‏ فَقَالَ لَهَا ‏\"‏ لاَ تُؤْذِينِي فِي عَائِشَةَ، فَإِنَّ الْوَحْىَ لَمْ يَأْتِنِي، وَأَنَا فِي ثَوْبِ امْرَأَةٍ إِلاَّ عَائِشَةَ ‏\"‏‏.‏ قَالَتْ فَقَالَتْ أَتُوبُ إِلَى اللَّهِ مِنْ أَذَاكَ يَا رَسُولَ اللَّهِ‏.‏ ثُمَّ إِنَّهُنَّ دَعَوْنَ فَاطِمَةَ بِنْتَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَرْسَلْنَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم تَقُولُ إِنَّ نِسَاءَكَ يَنْشُدْنَكَ اللَّهَ الْعَدْلَ فِي بِنْتِ أَبِي بَكْرٍ‏.‏ فَكَلَّمَتْهُ‏.‏ فَقَالَ ‏\"‏ يَا بُنَيَّةُ، أَلاَ تُحِبِّينَ مَا أُحِبُّ ‏\"‏‏.‏ قَالَتْ بَلَى‏.‏ فَرَجَعَتْ إِلَيْهِنَّ، فَأَخْبَرَتْهُنَّ‏.‏ فَقُلْنَ ارْجِعِي إِلَيْهِ‏.‏ فَأَبَتْ أَنْ تَرْجِعَ، فَأَرْسَلْنَ زَيْنَبَ بِنْتَ جَحْشٍ، فَأَتَتْهُ فَأَغْلَظَتْ، وَقَالَتْ إِنَّ نِسَاءَكَ يَنْشُدْنَكَ اللَّهَ الْعَدْلَ فِي بِنْتِ ابْنِ أَبِي قُحَافَةَ‏.‏ فَرَفَعَتْ صَوْتَهَا، حَتَّى تَنَاوَلَتْ عَائِشَةَ‏.‏ وَهْىَ قَاعِدَةٌ، فَسَبَّتْهَا حَتَّى إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لَيَنْظُرُ إِلَى عَائِشَةَ هَلْ تَكَلَّمُ قَالَ فَتَكَلَّمَتْ عَائِشَةُ تَرُدُّ عَلَى زَيْنَبَ، حَتَّى أَسْكَتَتْهَا‏.‏ قَالَتْ فَنَظَرَ النَّبِيُّ صلى الله عليه وسلم إِلَى عَائِشَةَ، وَقَالَ ‏\"‏ إِنَّهَا بِنْتُ أَبِي بَكْرٍ ‏\"‏‏.‏ قَالَ الْبُخَارِيُّ الْكَلاَمُ الأَخِيرُ قِصَّةُ فَاطِمَةَ يُذْكَرُ عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ رَجُلٍ عَنِ الزُّهْرِيِّ عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ‏.‏ وَقَالَ أَبُو مَرْوَانَ عَنْ هِشَامٍ عَنْ عُرْوَةَ كَانَ النَّاسُ يَتَحَرَّوْنَ بِهَدَايَاهُمْ يَوْمَ عَائِشَةَ‏.‏ وَعَنْ هِشَامٍ عَنْ رَجُلٍ مِنْ قُرَيْشٍ، وَرَجُلٍ مِنَ الْمَوَالِي، عَنِ الزُّهْرِيِّ عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ هِشَامٍ قَالَتْ عَائِشَةُ كُنْتُ عِنْدَ النَّبِيِّ صلى الله عليه وسلم فَاسْتَأْذَنَتْ فَاطِمَةُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2469,
+                "hadithNumber": "2582",
+                "englishNarrator": "Narrated 'Azra bin Thabit Al-Ansari:",
+                "hadithEnglish": "When I went to Thumama bin `Abdullah, he gave me some perfume and said that Anas would not reject the gifts of perfume. Anas رضی اللہ عنہ said: The Prophet (ﷺ) used not to reject the gifts of perfume.",
+                "hadithUrdu": "مجھ سے ثمامہ بن عبداللہ نے بیان کیا ، عزرہ نے کہا کہ میں ثمامہ بن عبداللہ کی خدمت میں حاضر ہوا تو انہوں نے مجھے خوشبو عنایت فرمائی اور بیان کیا کہ انس رضی اللہ عنہ خوشبو کو واپس نہیں کرتے تھے ۔ ثمامہ نے کہا کہ انس رضی اللہ عنہ کا گمان تھا کہ نبی کریم صلی اللہ علیہ وسلم خوشبو کو واپس نہیں فرمایا کرتے تھے ۔",
+                "urduNarrator": "ہم سے ابو معمر نے بیان کیا ، کہا ہم سے عبدالوارث نے بیان کیا ، ان سے عزرہ بن ثابت انصاری نے بیان کیا ، کہا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو مَعْمَرٍ، حَدَّثَنَا عَبْدُ الْوَارِثِ، حَدَّثَنَا عَزْرَةُ بْنُ ثَابِتٍ الأَنْصَارِيُّ، قَالَ حَدَّثَنِي ثُمَامَةُ بْنُ عَبْدِ اللَّهِ، قَالَ دَخَلْتُ عَلَيْهِ فَنَاوَلَنِي طِيبًا، قَالَ كَانَ أَنَسٌ ـ رضى الله عنه ـ لاَ يَرُدُّ الطِّيبَ‏.‏ قَالَ وَزَعَمَ أَنَسٌ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ لاَ يَرُدُّ الطِّيبَ‏.‏",
+                "headingArabic": "مَا لاَ يُرَدُّ مِنَ الْهَدِيَّةِ",
+                "headingUrdu": "تحفہ کو مسترد نہیں کرنا چاہئے۔",
+                "headingEnglish": "Gift should not be rejected",
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2470,
+                "hadithNumber": "2583, 2584",
+                "englishNarrator": "Narrated Al-Miswar bin Makhrama and Marwan:",
+                "hadithEnglish": "When the delegates of the tribe of Hawazin came to the Prophet (ﷺ) he stood up amongst the people, Glorified and Praised Allah as He deserved, and said, \"Then after: Your brethren have come to you with repentance and I see it logical to return to them their captives; so whoever amongst you likes to do that as a favor, then he can do it, and whoever of you like to stick to his share till we give him his right from the very first Fai (war booty) (1) which Allah will bestow on us, then (he can do so).\" The people replied, \"We do that (to return the captives) willingly as a favor for your sake.\"",
+                "hadithUrdu": "جب قبیلہ ہوازن کا وفد نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوا تو آپ صلی اللہ علیہ وسلم نے لوگوں کو خطاب فرمایا اور اللہ کی شان کے مطابق ثناء کے بعد آپ نے فرمایا : امابعد ! یہ تمہارے بھائی توبہ کر کے ہمارے پاس آئے ہیں اور میں یہی بہتر سمجھتا ہوں کہ ان کے قیدی انہیں واپس کر دئیے جائیں ۔ اب جو شخص اپنی خوشی سے ( قیدیوں کو ) واپس کرنا چاہے وہ واپس کر دے اور جو یہ چاہے کہ انہیں ان کا حصہ ملے ( تو وہ بھی واپس کر دے ) اور ہمیں اللہ تعالیٰ ( اس کے بعد ) سب سے پہلی جو غنیمت دے گا ، اس میں سے ہم اسے معاوضہ دے دیں گے ۔ لوگوں نے کہا ہم اپنی خوشی سے ( ان کے قیدی واپس کر کے ) آپ کا ارشاد تسلیم کرتے ہیں ۔",
+                "urduNarrator": "ہم سے سعید بن ابی مریم نے بیان کیا ، ان سے لیث نے بیان کیا ، کہا کہ مجھ سے عقیل نے بیان کیا ابن شہاب سے ، ان سے عروہ نے ذکر کیا کہ مسور بن مخرمہ رضی اللہ عنہ اور مروان بن حکم نے انہیں خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا سَعِيدُ بْنُ أَبِي مَرْيَمَ، حَدَّثَنَا اللَّيْثُ، قَالَ حَدَّثَنِي عُقَيْلٌ، عَنِ ابْنِ شِهَابٍ، قَالَ ذَكَرَ عُرْوَةُ أَنَّ الْمِسْوَرَ بْنَ مَخْرَمَةَ، رضى الله عنهما وَمَرْوَانَ أَخْبَرَاهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم حِينَ جَاءَهُ وَفْدُ هَوَازِنَ قَامَ فِي النَّاسِ، فَأَثْنَى عَلَى اللَّهِ بِمَا هُوَ أَهْلُهُ، ثُمَّ قَالَ ‏ \"‏ أَمَّا بَعْدُ، فَإِنَّ إِخْوَانَكُمْ جَاءُونَا تَائِبِينَ، وَإِنِّي رَأَيْتُ أَنْ أَرُدَّ إِلَيْهِمْ سَبْيَهُمْ، فَمَنْ أَحَبَّ مِنْكُمْ أَنْ يُطَيِّبَ ذَلِكَ فَلْيَفْعَلْ، وَمَنْ أَحَبَّ أَنْ يَكُونَ عَلَى حَظِّهِ حَتَّى نُعْطِيَهُ إِيَّاهُ مِنْ أَوَّلِ مَا يُفِيءُ اللَّهُ عَلَيْنَا ‏\"‏‏.‏ فَقَالَ النَّاسُ طَيَّبْنَا لَكَ‏.‏",
+                "headingArabic": "مَنْ رَأَى الْهِبَةَ الْغَائِبَةَ جَائِزَةً",
+                "headingUrdu": "تحفہ کے طور پر دینے کے لئے، کچھ موجود نہیں ہے",
+                "headingEnglish": "To give as a gift, something not present",
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2471,
+                "hadithNumber": "2585",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) used to accept gifts and used to give something in return. Wakee and Muhaadir from Hisham and he from Urwa and he did not report it with Hadrat Aishah's authority.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم ہدیہ قبول فرما لیا کرتے ۔ لیکن اس کا بدلہ بھی دے دیا کرتے تھے ۔ اس حدیث کو وکیع اور محاضر نے بھی روایت کیا ، مگر انہوں نے اس کو ہشام سے ، انہوں نے اپنے باپ سے انہوں نے حضرت عائشہ رضی اللہ عنہا سے کے الفاظ نہیں کہے ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیا ، کہا ہم سے عیسیٰ بن یونس نے بیان کیا ، کہا ہم سے ہشام نے ، ان سے ان کے والد نے اور ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقْبَلُ الْهَدِيَّةَ وَيُثِيبُ عَلَيْهَا‏.‏ لَمْ يَذْكُرْ وَكِيعٌ وَمُحَاضِرٌ عَنْ هِشَامٍ عَنْ أَبِيهِ عَنْ عَائِشَةَ‏.‏",
+                "headingArabic": "الْمُكَافَأَةِ فِي الْهِبَةِ",
+                "headingUrdu": "تحفہ کا معاوضہ",
+                "headingEnglish": "Compensation for a gift",
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2472,
+                "hadithNumber": "2586",
+                "englishNarrator": "Narrated An-Nu`man bin Bashir رضی اللہ عنہما :",
+                "hadithEnglish": "His father took him to Allah's Messenger (ﷺ) and said, \"I have given this son of mine a slave.\" The Prophet asked, \"Have you given all your sons the like?\" He replied in the negative. The Prophet (ﷺ) said, \"Take back your gift then.\"",
+                "hadithUrdu": "ان کے والد انہیں رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں لائے اور عرض کیا کہ میں نے اپنے اس بیٹے کو ایک غلام بطور ہبہ دیا ہے ۔ آپ صلی اللہ علیہ وسلم نے دریافت فرمایا ، کیا ایسا ہی غلام اپنے دوسرے لڑکوں کو بھی دیا ہے ؟ انہوں نے کہا نہیں ، تو آپ نے فرمایا کہ پھر ( ان سے بھی ) واپس لے لے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ، انہوں نے کہا ہم کو امام مالک نے خبر دی ابن شہاب سے ، وہ حمید بن عبدالرحمٰن اور محمد بن نعمان بن بشیر سے اور ان سے نعمان بن بشیر رضی اللہ عنہما نے کہا",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، وَمُحَمَّدِ بْنِ النُّعْمَانِ بْنِ بَشِيرٍ، أَنَّهُمَا حَدَّثَاهُ عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، أَنَّ أَبَاهُ، أَتَى بِهِ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ إِنِّي نَحَلْتُ ابْنِي هَذَا غُلاَمًا‏.‏ فَقَالَ ‏\"‏ أَكُلَّ وَلَدِكَ نَحَلْتَ مِثْلَهُ ‏\"‏‏.‏ قَالَ لاَ‏.‏ قَالَ ‏\"‏ فَارْجِعْهُ ‏\"‏‏.‏",
+                "headingArabic": "الْهِبَةِ لِلْوَلَدِ",
+                "headingUrdu": "اپنے بیٹوں کو تحفہ دینا",
+                "headingEnglish": "Giving gifts to one's sons",
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2473,
+                "hadithNumber": "2587",
+                "englishNarrator": "Narrated An-Nu`man bin Bashir رضی اللہ عنہما:",
+                "hadithEnglish": "He on the pulpit saying, \"My father gave me a gift but `Amra bint Rawaha رضی اللہ عنہ (my mother) said that she would not agree to it unless he made Allah's Messenger (ﷺ) as a witness to it. So, my father went to Allah's Messenger (ﷺ) and said, 'I have given a gift to my son from `Amra bint Rawaha, but she ordered me to make you as a witness to it, O Allah's Messenger (ﷺ)!' Allah's Messenger (ﷺ) asked, 'Have you given (the like of it) to everyone of your sons?' He replied in the negative. Allah's Messenger (ﷺ) said, 'Be afraid of Allah, and be just to your children.' My father then returned and took back his gift.\"",
+                "hadithUrdu": "وہ منبر پر بیان کر رہے تھے کہ میرے باپ نے مجھے ایک عطیہ دیا ، تو عمرہ بنت رواحہ رضی اللہ عنہ ( نعمان کی والدہ ) نے کہا کہ جب تک آپ رسول اللہ صلی اللہ علیہ وسلم کو اس پر گواہ نہ بنائیں میں راضی نہیں ہو سکتی ۔ چنانچہ ( حاضر خدمت ہو کر ) انہوں نے عرض کیا کہ عمرہ بنت رواحہ سے اپنے بیٹے کو میں نے ایک عطیہ دیا تو انہوں نے کہا کہ پہلے میں آپ کو اس پر گواہ بنا لوں ، آپ صلی اللہ علیہ وسلم نے دریافت فرمایا کہ اسی جیسا عطیہ تم نے اپنی تمام اولاد کو دیا ہے ؟ انہوں نے جواب دیا کہ نہیں ، اس پر آپ صلی اللہ علیہ وسلم نے فرمایا کہ اللہ سے ڈرو اور اپنی اولاد کے درمیان انصاف کو قائم رکھو ۔ چنانچہ وہ واپس ہوئے اور ہدیہ واپس لے لیا ۔",
+                "urduNarrator": "ہم سے حامد بن عمر نے بیان کیا ، انہوں نے کہا ہم سے ابوعوانہ نے بیان کیا حصین سے ، وہ عامر سے کہ میں نے نعمان بن بشیر رضی اللہ عنہما سے سنا",
+                "hadithArabic": "حَدَّثَنَا حَامِدُ بْنُ عُمَرَ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ حُصَيْنٍ، عَنْ عَامِرٍ، قَالَ سَمِعْتُ النُّعْمَانَ بْنَ بَشِيرٍ ـ رضى الله عنهما ـ وَهُوَ عَلَى الْمِنْبَرِ يَقُولُ أَعْطَانِي أَبِي عَطِيَّةً، فَقَالَتْ عَمْرَةُ بِنْتُ رَوَاحَةَ لاَ أَرْضَى حَتَّى تُشْهِدَ رَسُولَ اللَّهِ صلى الله عليه وسلم‏.‏ فَأَتَى رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ إِنِّي أَعْطَيْتُ ابْنِي مِنْ عَمْرَةَ بِنْتِ رَوَاحَةَ عَطِيَّةً، فَأَمَرَتْنِي أَنْ أُشْهِدَكَ يَا رَسُولَ اللَّهِ‏.‏ قَالَ ‏\"‏ أَعْطَيْتَ سَائِرَ وَلَدِكَ مِثْلَ هَذَا ‏\"‏‏.‏ قَالَ لاَ‏.‏ قَالَ ‏\"‏ فَاتَّقُوا اللَّهَ، وَاعْدِلُوا بَيْنَ أَوْلاَدِكُمْ ‏\"‏‏.‏ قَالَ فَرَجَعَ فَرَدَّ عَطِيَّتَهُ‏.‏",
+                "headingArabic": "الإِشْهَادِ فِي الْهِبَةِ",
+                "headingUrdu": "تحائف کے گواہ",
+                "headingEnglish": "The witnesses for the gifts",
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2474,
+                "hadithNumber": "2588",
+                "englishNarrator": "Narrated Ubaidullah bin `Abdullah:",
+                "hadithEnglish": "`Aisha had said, \"When the Prophet (ﷺ) became sick and his condition became serious, he requested his wives to allow him to be treated in my house, and they allowed him. He came out leaning on two men while his feet were dragging on the ground. He was walking between Al-`Abbas رضی اللہ عنہ and another man.\" 'Ubaidullah said, \"When I informed Ibn `Abbas رضی اللہ عنہ of what `Aisha رضی اللہ عنہا had said, he asked me whether I knew who was the second man whom `Aisha رضی اللہ عنہا had not named. I replied in the negative. He said, 'He was `Ali bin Abi Talib \r\nرضی اللہ عنہ.\"",
+                "hadithUrdu": "حضرت عائشہ رضی اللہ عنہا نے بیان کیا ، جب رسول کریم صلی اللہ علیہ وسلم کی بیماری بڑھی اور تکلیف شدید ہو گئی تو آپ نے اپنی بیویوں سے میرے گھر میں ایام مرض گزارنے کی اجازت چاہی اور آپ کو بیویوں نے اجازت دے دی تو آپ اس طرح تشریف لائے کہ دونوں قدم زمین پر رگڑ کھا رہے تھے ۔ آپ اس وقت حضرت عباس رضی اللہ عنہ اور ایک اور صاحب کے درمیان تھے ۔ عبیداللہ نے بیان کیا کہ پھر میں نے عائشہ رضی اللہ عنہا کی اس حدیث کا ذکر ابن عباس رضی اللہ عنہما سے کیا ۔ تو انہوں نے مجھ سے پوچھا ، عائشہ رضی اللہ عنہا نے جن کا نام نہیں لیا ، جانتے ہو وہ کون تھے ؟ میں نے کہا کہ نہیں ؟ آپ نے فرمایا کہ وہ حضرت علی بن ابی طالب رضی اللہ عنہ تھے ۔",
+                "urduNarrator": "ہم سے ابراہیم بن موسیٰ نے بیان کیا ، کہا کہ ہم کو ہشام نے خبر دی ، انہیں معمرنے ، انہیں زہری نے ، کہا کہ مجھے عبیداللہ بن عبداللہ نے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا هِشَامٌ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ، قَالَتْ عَائِشَةُ ـ رضى الله عنها ـ لَمَّا ثَقُلَ النَّبِيُّ صلى الله عليه وسلم فَاشْتَدَّ وَجَعُهُ اسْتَأْذَنَ أَزْوَاجَهُ أَنْ يُمَرَّضَ فِي بَيْتِي، فَأَذِنَّ لَهُ، فَخَرَجَ بَيْنَ رَجُلَيْنِ، تَخُطُّ رِجْلاَهُ الأَرْضَ، وَكَانَ بَيْنَ الْعَبَّاسِ، وَبَيْنَ رَجُلٍ آخَرَ‏.‏ فَقَالَ عُبَيْدُ اللَّهِ فَذَكَرْتُ لاِبْنِ عَبَّاسٍ مَا قَالَتْ عَائِشَةُ، فَقَالَ لِي وَهَلْ تَدْرِي مَنِ الرَّجُلُ الَّذِي لَمْ تُسَمِّ عَائِشَةُ قُلْتُ لاَ‏.‏ قَالَ هُوَ عَلِيُّ بْنُ أَبِي طَالِبٍ‏.‏",
+                "headingArabic": "هِبَةِ الرَّجُلِ لاِمْرَأَتِهِ وَالْمَرْأَةِ لِزَوْجِهَا",
+                "headingUrdu": "شوہر کی طرف سے اپنی بیوی کو اور بیوی کی طرف سے اپنے شوہر کو تحفہ دینا",
+                "headingEnglish": "Giving gifts by a husband to his wife, and by a wife to her husband",
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2475,
+                "hadithNumber": "2589",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"One who takes back his gift (which he has already given) is like a dog that swallows its vomit.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا اپنا ہبہ واپس لینے والا اس کتے کی طرح ہے جو قے کر کے پھر چاٹ جاتا ہے ۔",
+                "urduNarrator": "ہم سے مسلم بن ابراہیم نے بیان کیا ، کہا ہم سے وہیب نے بیان کیا ، کہا ہم سے ابن طاؤس نے بیان کیا ، ان سے ان کے والد نے اور ان سے ابن عباس رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا ابْنُ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ الْعَائِدُ فِي هِبَتِهِ كَالْكَلْبِ يَقِيءُ، ثُمَّ يَعُودُ فِي قَيْئِهِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2476,
+                "hadithNumber": "2590",
+                "englishNarrator": "Narrated Asma رضی اللہ عنہا :",
+                "hadithEnglish": "Once I said, \"O Allah's Messenger (ﷺ)! I have no property except what has been given to me by Az-Zubair (i.e. her husband). May I give in charity?\" The Prophet (ﷺ) said, \"Give in charity and do not withhold it; otherwise Allah will withhold it back from you . \"",
+                "hadithUrdu": "میں نے عرض کیا یا رسول اللہ صلی اللہ علیہ وسلم ! میرے پاس صرف وہی مال ہے جو ( میرے شوہر ) زبیر نے میرے پاس رکھا ہوا ہے تو کیا میں اس میں سے صدقہ کر سکتی ہوں ؟ آپ صلی اللہ علیہ وسلم نے فرمایا ، صدقہ کرو ، جوڑ کے نہ رکھو ، کہیں تم سے بھی ۔ ( اللہ کی طرف سے نہ ) روک لیا جائے ۔",
+                "urduNarrator": "ہم سے ابوعاصم ضحاک بن مخلد نے بیان کیا ، ان سے ابن جریج نے ، ان سے ابن ابی ملیکہ نے ، ان سے عباد بن عبداللہ نے اور ان سے اسماء رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنْ عَبَّادِ بْنِ عَبْدِ اللَّهِ، عَنْ أَسْمَاءَ ـ رضى الله عنها ـ قَالَتْ قُلْتُ يَا رَسُولَ اللَّهِ مَا لِي مَالٌ إِلاَّ مَا أَدْخَلَ عَلَىَّ الزُّبَيْرُ فَأَتَصَدَّقُ‏.‏ قَالَ ‏ \"‏ تَصَدَّقِي، وَلاَ تُوعِي فَيُوعَى عَلَيْكِ ‏\"‏‏.‏",
+                "headingArabic": "هِبَةِ الْمَرْأَةِ لِغَيْرِ زَوْجِهَا",
+                "headingUrdu": "شوہر کے علاوہ کسی اور کو تحفہ دینے والی عورت",
+                "headingEnglish": "A woman giving gifts to someone other than husband",
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2477,
+                "hadithNumber": "2591",
+                "englishNarrator": "Narrated Asma رضی اللہ عنہا :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"Give (in charity) and do not give reluctantly lest Allah should give you in a limited amount; and do not withhold your money lest Allah should withhold it from you.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ، خرچ کیا کر ، گنا نہ کر ، تاکہ تمہیں بھی گن کے نہ ملے اور جوڑ کے نہ رکھو ، تاکہ تم سے بھی اللہ تعالیٰ ( اپنی نعمتوں کو ) نہ چھپا لے ۔",
+                "urduNarrator": "ہم سے عبیداللہ بن سعید نے بیان کیا ، کہا ہم سے عبداللہ بن نمیر نے بیان کیا ، کہا ہم سے ہشام بن عروہ نے بیان کیا ، ان سے فاطمہ بنت منذر نے اور ان سے اسماء بنت ابی بکر رضی اللہ عنہا نے کہ",
+                "hadithArabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ فَاطِمَةَ، عَنْ أَسْمَاءَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ أَنْفِقِي وَلاَ تُحْصِي فَيُحْصِيَ اللَّهُ عَلَيْكِ، وَلاَ تُوعِي فَيُوعِيَ اللَّهُ عَلَيْكِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "52",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 52,
+                    "chapterNumber": "52",
+                    "chapterEnglish": "Gifts",
+                    "chapterUrdu": "ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+                    "chapterArabic": "كتاب الهبة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 2451,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=98",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=96",
+                "label": "96",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=97",
+                "label": "97",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=98",
+                "label": "98",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=99",
+                "label": "99",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=100",
+                "label": "100",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=101",
+                "label": "101",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=102",
+                "label": "102",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=100",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=100",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=98",
+        "to": 2475,
+        "total": 40465
+    }
+}

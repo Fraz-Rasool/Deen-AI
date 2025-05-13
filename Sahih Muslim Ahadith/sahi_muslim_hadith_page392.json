@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 392,
+        "data": [
+            {
+                "id": 10064,
+                "hadithNumber": "2500",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith is narrated on the authority of 'Ubaidullah with the same chain of transmitters, and he said: If (the sky) is cloudy for you, then calculate thirty days (for the month of Ramadan).",
+                "hadithUrdu": "ہم سے ابن نمیر نے حدیث بیان کی ، کہا : ہمیں میرے والد نے حدیث سنائی ، کہا : ہمیں عبیداللہ نے اسی ( مذکورہ بالا ) سند کے ساتھ حدیث بیان کی ، فرمایا : \" اگر تم پر بادل چھاجائیں تو اس کے تیس دن شمار کرو ۔ \" جس طرح ابو اسامہ کی حدیث ہے ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا عُبَيْدُ اللهِ، بِهَذَا الْإِسْنَادِ، وَقَالَ: «فَإِنْ غُمَّ عَلَيْكُمْ فَاقْدِرُوا ثَلَاثِينَ» نَحْوَ حَدِيثِ أَبِي أُسَامَةَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10065,
+                "hadithNumber": "2501",
+                "englishNarrator": "Ubaidullah narrated on the authority of the same chain of transmitters:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) made a mention of Ramadan and said: The month may consist of twenty-nine days, and it may be thus, thus and thus, and (he further) said: Calculate it, but he did not say thirty.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے رمضان کا ذکر کرکے فرمایا : \" مہینہ انتیس کا ہوتا ہے ، ( اشارے سے کہا : ) مہینہ اس طرح ، اس طرح اوراس طرح ( تین دہائیاں ہوتا ) ہے \" اور کہا : \" اس کی گنتی پوری کرو ۔ \" اور تیس کا لفظ نہیں بولا ۔",
+                "urduNarrator": "ہم سے عبید اللہ بن سعید نے بیان کیا، انہوں نے بیان کیا  یحییٰ بن سعید نے عبیداللہ سے اسی سند کے ساتھ حدیث بیان کی اور کہا",
+                "hadithArabic": "وحَدَّثَنَا عُبَيْدُ اللهِ بْنُ سَعِيدٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ عُبَيْدِ اللهِ بِهَذَا الْإِسْنَادِ، وَقَالَ: ذَكَرَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ رَمَضَانَ فَقَالَ: «الشَّهْرُ تِسْعٌ وَعِشْرُونَ، الشَّهْرُ هَكَذَا وَهَكَذَا وَهَكَذَا» وَقَالَ: «فَاقْدِرُوا لَهُ» وَلَمْ يَقُلْ «ثَلَاثِينَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10066,
+                "hadithNumber": "2502",
+                "englishNarrator": "Ibn 'Umar رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: The month of Ramadan may consist of twenty-nine days. So do not fast till you have sighted it (the new moon) and do not break fast, till you have sighted it (the new moon of Shawwal), and if the sky is cloudy for you, then calculate.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" مہینہ انتیس کا ہوتاہے ( اور فیصلہ چاند سے ہوتا ہے ) اس لئے نہ چاند دیکھے بغیر روزے رکھو اور نہ اسے دیکھے بغیر روزے ختم کرو اگرآسمان ابر آلود ہوتو ا س کی گنتی ( تیس ) پوری کرو ۔ \"",
+                "urduNarrator": "مجھ سے زہیر بن حرب نے بیان کیا، کہا ہم سے اسماعیل نے بیان کیا, ایوب نے نافع سے ، انھوں نے ابن عمر رضی اللہ تعالیٰ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "وحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا إِسْمَاعِيلُ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ رَضِيَ اللهُ عَنْهُمَا، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إِنَّمَا الشَّهْرُ تِسْعٌ وَعِشْرُونَ فَلَا تَصُومُوا حَتَّى تَرَوْهُ، وَلَا تُفْطِرُوا حَتَّى تَرَوْهُ، فَإِنْ غُمَّ عَلَيْكُمْ فَاقْدِرُوا لَهُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10067,
+                "hadithNumber": "2503",
+                "englishNarrator": "Abdullah bin 'Umar رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: The month (of Ramadan) may consist of twenty nine days; so when you see the new moon observe fast and when you see (the new moon again at the commencement of the month of Shawwal) then break It, and if the sky is cloudy for you, then calculate it (and complete thirty days).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" مہینہ انتیس کابھی ہوتاہے ، جب چاند دیکھ لو تو روزہ رکھو اور جب اسے دیکھ لو توروزے ختم کرو ، اگر تم پر بادل چھاجائیں تو اس کی گنتی پوری کرو ۔ \"",
+                "urduNarrator": "مجھ سے حمید بن مسعدہ الباہلی نے بیان کیا، ہم سے بشر بن المفضل نے بیان کیا، ہم سے انہوں نے بیان کیا  سلمہ بن علقمہ نے نافع سے حدیث بیان کی ، انھوں نے عبداللہ بن عمر رضی اللہ تعالیٰ عنہ سےروایت کی ، انھوں نے کہا",
+                "hadithArabic": "وحَدَّثَنِي حُمَيْدُ بْنُ مَسْعَدَةَ الْبَاهِلِيُّ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، حَدَّثَنَا سَلَمَةُ وَهُوَ ابْنُ عَلْقَمَةَ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللهِ بْنِ عُمَرَ رَضِيَ اللهُ عَنْهُمَا، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «الشَّهْرُ تِسْعٌ وَعِشْرُونَ، فَإِذَا رَأَيْتُمُ الْهِلَالَ فَصُومُوا، وَإِذَا رَأَيْتُمُوهُ فَأَفْطِرُوا، فَإِنْ غُمَّ عَلَيْكُمْ فَاقْدِرُوا لَهُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10068,
+                "hadithNumber": "2504",
+                "englishNarrator": "Abdullah bin Umar رضی اللہ تعالیٰ عنہ ن reported:",
+                "hadithEnglish": "Allah's Measenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying: When you see the new moon, observe fast, and when you see it (again) then break it, and if the sky is cloudy for you, then calculate it.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم کوفرماتے ہوئےسنا : \" جب اس ( چاند ) کو دیکھ لو تو روزہ رکھو اورجب اسے دیکھ لوتو روزے ختم کرو اوراگر بادل چھا جائیں تو اس ( مہینے ) کی گنتی پوری کرلو ۔ \"",
+                "urduNarrator": "مجھ سے حرملہ بن یحییٰ نے بیان کیا، کہا ہم سے ابن وہب نے بیان کیا، کہا کہ مجھ سے یونس نے بیان کیا، انہوں نے ابن شہاب کی سند سے کہا: انہوں نے مجھ سے بیان کیا سالم بن عبداللہ نے حدیث بیان کی کہ حضرت عبداللہ بن عمر رضی اللہ تعالیٰ عنہ نے کہا",
+                "hadithArabic": "حَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ: حَدَّثَنِي سَالِمُ بْنُ عَبْدِ اللهِ، أَنَّ عَبْدَ اللهِ بْنَ عُمَرَ رَضِيَ اللهُ عَنْهُمَا، قَالَ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، يَقُولُ: «إِذَا رَأَيْتُمُوهُ فَصُومُوا، وَإِذَا رَأَيْتُمُوهُ فَأَفْطِرُوا، فَإِنْ غُمَّ عَلَيْكُمْ فَاقْدِرُوا لَهُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10069,
+                "hadithNumber": "2505",
+                "englishNarrator": "Ibn 'Umar رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: The month may consist of twenty-nine nights. So do not fast till you have sighted it (the new moon) and do not break it till you have sighted it, except when the sky is cloudy for you, and if it is so, then calculate it.",
+                "hadithUrdu": "رسول اللہ نے فرمایا : \" مہینہ انتیس راتوں کا بھی ہوتا ہے ۔ چاند دیکھے بغیر روزہ نہ رکھو اور اسے دیکھے بغیر ر وزے ختم نہ کرو مگر یہ کہ تم پر بادل چھا جائیں ۔ اگر تم پر بادل چھا جائیں تو اس ( مہینے ) کی گنتی پوری کرو ۔ \"",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ، یحییٰ بن ایوب، قتیبہ بن سعید اور ابن حجر نے بیان کیا - یحییٰ بن یحییٰ نے کہا: ہم سے انہوں نے بیان کیا اور دوسروں نے کہا: اسماعیل جو کہ ابن جعفر ہیں، نے بیان کیا, عبداللہ بن دینار سے روایت ہے کہ انھوں نے حضرت ابن عمر رضی اللہ تعالیٰ عنہ سے سنا ، کہا",
+                "hadithArabic": "وحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَيَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، وَابْنُ حُجْرٍ - قَالَ يَحْيَى بْنُ يَحْيَى: أَخْبَرَنَا وقَالَ الْآخَرُونَ: حَدَّثَنَا إِسْمَاعِيلُ وَهُوَ ابْنُ جَعْفَرٍ، عَنْ عَبْدِ اللهِ بْنِ دِينَارٍ، أَنَّهُ سَمِعَ ابْنَ عُمَرَ رَضِيَ اللهُ عَنْهُمَا، قَالَ: قَالَ رَسُولُ اللهِ: «الشَّهْرُ تِسْعٌ وَعِشْرُونَ لَيْلَةً، لَا تَصُومُوا حَتَّى تَرَوْهُ، وَلَا تُفْطِرُوا حَتَّى تَرَوْهُ، إِلَّا أَنْ يُغَمَّ عَلَيْكُمْ، فَإِنْ غُمَّ عَلَيْكُمْ فَاقْدِرُوا لَهُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10070,
+                "hadithNumber": "2506",
+                "englishNarrator": "Ibn Umar رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: The month is thus and thus and thus (i. e. pointing with his fingers thrice), and he held back his thumb at the third time (in order to show that it can also consist of twenty-nine days).",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا ، \" مہینہ اس طرح ، اس طرح ، اور اس طرح ہوتاہے \" اور تیسری دفعہ اپنا انگوٹھا بند کرلیا ۔ ( اشارے سے انتیس 29 کی گنتی بتائی ۔ )",
+                "urduNarrator": "ہم سے ہارون بن عبداللہ نے بیان کیا، کہا ہم سے روح بن عبادہ نے بیان کیا، کہا ہم سے زکریا بن اسحاق نے بیان کیا، انہوں نے کہا عمرو بن دینار نے ہمیں حدیث سنائی کہ انھوں نے حضرت ابن عمر رضی اللہ تعالیٰ عنہ سے سنا ، کہہ رہے تھے",
+                "hadithArabic": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللهِ، حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا زَكَرِيَّا بْنُ إِسْحَاقَ، حَدَّثَنَا عَمْرُو بْنُ دِينَارٍ، أَنَّهُ سَمِعَ ابْنَ عُمَرَ، رَضِيَ اللهُ عَنْهُمَا يَقُولُ: سَمِعْتُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «الشَّهْرُ هَكَذَا، وَهَكَذَا، وَهَكَذَا» وَقَبَضَ إِبْهَامَهُ فِي الثَّالِثَةِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10071,
+                "hadithNumber": "2507",
+                "englishNarrator": "Ibn Umar رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: The month may consist of twenty-nine days.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم کوفرماتے ہوئے سنا : \" مہینہ انتیس کا بھی ہوتا ہے ۔ \"",
+                "urduNarrator": "مجھ سے حجاج بن شعر نے بیان کیا، ہم سے حسن اشہیب نے بیان کیا، ہم سے شیبان نے بیان کیا، یحییٰ کی سند سے، انہوں نے کہا: اور انہوں نے مجھ سے بیان کیا۔ابو سلمہ نے مجھے بتایا کہ انھوں نے حضرت ابن عمر رضی اللہ تعالیٰ عنہ سے سنا ، وہ کہہ رہے تھے",
+                "hadithArabic": "وحَدَّثَنِي حَجَّاجُ بْنُ الشَّاعِرِ، حَدَّثَنَا حَسَنٌ الْأَشْيَبُ، حَدَّثَنَا شَيْبَانُ، عَنْ يَحْيَى، قَالَ: وَأَخْبَرَنِي أَبُو سَلَمَةَ، أَنَّهُ سَمِعَ ابْنَ عُمَرَ رَضِيَ اللهُ عَنْهُمَا، يَقُولُ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «الشَّهْرُ تِسْعٌ وَعِشْرُونَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10072,
+                "hadithNumber": "2508",
+                "englishNarrator": "Abdullah bin 'Umar رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying: The month (of Ramadan) is thus and thus, and thus. i.e. ten, ten and nine.",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا : \" مہینہ ایسا ، ایسا ، ایسا ( یعنی ) دس ، دس اور نو کاہوتاہے ۔ \"",
+                "urduNarrator": "ہم سے سہل بن عثمان نے بیان کیا، ہم سے زیاد بن عبداللہ البکائی نے بیان کیا، ان سے عبد الملک بن عمیر کی سند سے, موسیٰ بن طلحہ نے حضرت عبداللہ بن عمر رضی اللہ تعالیٰ عنہ سے ، انھوں نے نبی اکرم صلی اللہ علیہ وسلم سے روایت کی",
+                "hadithArabic": "وحَدَّثَنَا سَهْلُ بْنُ عُثْمَانَ، حَدَّثَنَا زِيَادُ بْنُ عَبْدِ اللهِ الْبَكَّائِيُّ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنْ مُوسَى بْنِ طَلْحَةَ، عَنْ عَبْدِ اللهِ بْنِ عُمَرَ رَضِيَ اللهُ عَنْهُمَا، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «الشَّهْرُ هَكَذَا، وَهَكَذَا وَهَكَذَا، عَشْرًا، وَعَشْرًا، وَتِسْعًا».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10073,
+                "hadithNumber": "2509",
+                "englishNarrator": "Ibn Umar رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: The month is thus, and thus, and thus, and he flapped his hands with all their fingers twice. but at the third turn, folded his right thumb or left thumb (in order to give an idea of twenty-nine).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ مہینہ ہمیشہ ایسے ایسے اور ایسے ہے اور آپ صلی اللہ علیہ وسلم نے اپنے دونوں ہاتھوں کے ساتھ دونوں ہاتھوں کی انگلی سے اشارہ کرکے فرمایا اور تیسری مرتبہ میں آپ نے اپنے دائیں یا بائیں انگوٹھے کو بند فرما لیا ۔",
+                "urduNarrator": "ہم سے عبید اللہ بن معاذ نے بیان کیا، ہم سے میرے والد نے بیان کیا، انہوں نے ہم سے بیان کیا۔شعبہ ، جبلۃ حضرت ابن عمر رضی اللہ تعالیٰ عنہ سے روایت ہے کہ",
+                "hadithArabic": "وحَدَّثَنَا عُبَيْدُ اللهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ جَبَلَةَ، قَالَ: سَمِعْتُ ابْنَ عُمَرَ رَضِيَ اللهُ عَنْهُمَا، يَقُولُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «الشَّهْرُ كَذَا، وَكَذَا، وَكَذَا» وَصَفَّقَ بِيَدَيْهِ مَرَّتَيْنِ بِكُلِّ أَصَابِعِهِمَا وَنَقَصَ فِي الصَّفْقَةِ الثَّالِثَةِ إِبْهَامَ الْيُمْنَى أَوِ الْيُسْرَى.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10074,
+                "hadithNumber": "2510",
+                "englishNarrator": "Ibn 'Umar رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying: The month (of Ramadan) may consist of twenty nine days, and Shu'ba (one of the narrators) (gave a practical demonstration how the Holy prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) explained to them) by unfolding his hands thrice and folding his thumb at the third turn. 'Uqba (one of the narrators in this chain of transmitters) said: I think that he said that the month consists of thirty days and unfolded his palm three times.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \"\" مہینہ انتیس کاہوتاہے ۔ \"\" شعبہ نے تین بار دونوں ہاتھوں کو ( دکھا کر ) ایک دوسرے سے جوڑا اور تیسری بار انگوٹھا کم کرلیا ۔ عقبہ نے کہا : میراخیال ہے ( پھر ) انھوں ( ابن عمر رضی اللہ تعالیٰ عنہ ) نے کہا : \"\" مہینہ تیس کاہوتا ہے \"\" اور ( ایک دفعہ ) اپنی دونوں ہتھیلیاں تین بار ایک دوسرے کے ساتھ جوڑیں ۔",
+                "urduNarrator": "ہم سے محمد بن مثنیٰ نے بیان کیا، ہم سے محمد بن جعفر نے بیان کیا، ہم سے انہوں نے بیان کیا۔شعبہ نے ہمیں عقبہ بن حریث سے حدیث بیان کی ، کہا : میں نے ابن عمر رضی اللہ تعالیٰ عنہ سے سنا ، کہہ رہے تھے",
+                "hadithArabic": "وحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ عُقْبَةَ وَهُوَ ابْنُ حُرَيْثٍ، قَالَ: سَمِعْتُ ابْنَ عُمَرَ رَضِيَ اللهُ عَنْهُمَا، يَقُولُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «الشَّهْرُ تِسْعٌ وَعِشْرُونَ» وَطَبَّقَ شُعْبَةُ يَدَيْهِ ثَلَاثَ مِرَارٍ، وَكَسَرَ الْإِبْهَامَ فِي الثَّالِثَةِ، قَالَ عُقْبَةُ: وَأَحْسِبُهُ قَالَ: «الشَّهْرُ ثَلَاثُونَ» وَطَبَّقَ كَفَّيْهِ ثَلَاثَ مِرَارٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10075,
+                "hadithNumber": "2511",
+                "englishNarrator": "Ibn 'Umar رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Allah's Apostle as saying: We are an unlettered people who can neither write nor count. The month is thus, and thus. folding his thumb when he said it the third time; and the month is like this, and like this, and like this\" indication a total of thirty.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ ہم امی امت کے لوگ ہیں نہ ہم لکھتے ہیں اور نہ ہم حساب کرتے ہیں مہینہ اس طرح ہوتا ہے اور اس طرح اور اس طرح اور تیسری مرتبہ میں انگوٹھے کو بند فرمالیا ، اور مہینہ اس طرح اور اس طرح اور اس طرح ہوتا ہے یعنی مکمل تیس ( دنوں ) کا ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، ہم سے گندر نے بیان کیا، شعبہ بن ابی شیبہ نے ہم سے بیان کیا , محمد بن المثنی ، ابن بشار ، محمد جعفر ، شعبہ ، اسود بن قیس ، سعید ابن عمر وبن سعید ، حضرت ابن عمر رضی اللہ تعالیٰ عنہ بیان کرتےہیں کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا غُنْدَرٌ، عَنْ شُعْبَةَ، ح وحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ بَشَّارٍ، قَالَ ابْنُ الْمُثَنَّى: حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنِ الْأَسْوَدِ بْنِ قَيْسٍ، قَالَ: سَمِعْتُ سَعِيدَ بْنَ عَمْرِو بْنِ سَعِيدٍ، أَنَّهُ سَمِعَ ابْنَ عُمَرَ رَضِيَ اللهُ عَنْهُمَا، يُحَدِّثُ عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَ: «إِنَّا أُمَّةٌ أُمِّيَّةٌ، لَا نَكْتُبُ وَلَا نَحْسُبُ، الشَّهْرُ هَكَذَا وَهَكَذَا وَهَكَذَا» وَعَقَدَ الْإِبْهَامَ فِي الثَّالِثَةِ «وَالشَّهْرُ هَكَذَا، وَهَكَذَا، وَهَكَذَا» يَعْنِي تَمَامَ ثَلَاثِينَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10076,
+                "hadithNumber": "2512",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Aswad bin Qais with the same chain of transmitters, but herein no mention has been made of the other month (consisting of) thirty days.",
+                "hadithUrdu": "مجھ سے محمد بن حاتم نے بیان کیا، ہم سے ابن مہدی نے بیان کیا،سفیان نے اسود بن قیس سے اسی سندکے ساتھ روایت کی اور دوسرے مہینے کے تیس ( دنوں ) کا ذکر نہیں کیا.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنِيهِ مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا ابْنُ مَهْدِيٍّ، عَنْ سُفْيَانَ، عَنِ الْأَسْوَدِ بْنِ قَيْسٍ، بِهَذَا الْإِسْنَادِ وَلَمْ يَذْكُرْ لِلشَّهْرِ الثَّانِي ثَلَاثِينَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10077,
+                "hadithNumber": "2513",
+                "englishNarrator": "Sa'd bin 'Ubaida رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Ibn 'Umar رضی اللہ تعالیٰ عنہ heard a person saying: This night is the midnight (of the month). Upon this he رضی اللہ تعالیٰ عنہ said to him: How do you know that it is the midnight (of the month), for I heard the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: The month is thus and thus (and he pointed with his ten fingers twice) and thus (i. e. at the third time he pointed with all his fingers but withdrew or folded his thumb)?",
+                "hadithUrdu": "حضرت ابن عمر رضی اللہ تعالیٰ عنہ نے ایک آدمی کو کہتے ہوئے سنا کہ آج رات آدھا مہینہ ہوگیا توحضرت ابن عمر رضی اللہ تعالیٰ عنہ نے اس آدمی سے فرمایا کہ تجھے کس طرح معلوم ہوا کہ رات آدھا مہینہ ہوگیا ہے؟ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا کہ مہینہ اس طرح اس طرح اور اس طرح اور آپ نے اپنی انگلیوں سے دومرتبہ دس کا اشارہ فرمایا اور اپنی ساری انگلیوں سے اشارہ فرمایا ۔ اور ایسا تیسری دفعہ ا‎پنے انگوٹھے کو کھلنے سے روک یا موڑ لیا ۔",
+                "urduNarrator": "ہم سے ابو کامل الجہدری نے بیان کیا، کہا ہم سے عبد الواحد بن زیاد نے بیان کیا، کہا ہم سے حسن بن عبید اللہ نے بیان کیا, سعد بن عبیدہ رضی اللہ تعالیٰ عنہ سے روایت ہے انہوں نے فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو كَامِلٍ الْجَحْدَرِيُّ، حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ زِيَادٍ، حَدَّثَنَا الْحَسَنُ بْنُ عُبَيْدِ اللهِ، عَنْ سَعْدِ بْنِ عُبَيْدَةَ، قَالَ: سَمِعَ ابْنُ عُمَرَ رَضِيَ اللهُ عَنْهُمَا، رَجُلًا يَقُولُ: اللَّيْلَةَ لَيْلَةُ النِّصْفِ، فَقَالَ لَهُ: مَا يُدْرِيكَ أَنَّ اللَّيْلَةَ النِّصْفُ؟ سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، يَقُولُ: «الشَّهْرُ هَكَذَا وَهَكَذَا، - وَأَشَارَ بِأَصَابِعِهِ الْعَشْرِ مَرَّتَيْنِ - وَهَكَذَا - فِي الثَّالِثَةِ وَأَشَارَ بِأَصَابِعِهِ كُلِّهَا وَحَبَسَ أَوْ خَنَسَ إِبْهَامَهُ -».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10078,
+                "hadithNumber": "2514",
+                "englishNarrator": "Abu Huraira رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: Whenever you sight the new moon (of the month of Ramadan) observe fast. and when you sight it (the new moon of Shawwal) break it, and if the sky is cloudy for you, then observe fast for thirty days.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ارشاد فرمایا جب تم چاند دیکھ لو تو روزہ رکھو اور جب چاند دیکھو تو افطار ( عید ) کرو اگر مطلع ابر آلود ہوتو تم تیس د نوں کے روزے رکھو ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، کہا ہم سے ابراہیم بن سعد نے بیان کیا، وہ ابن شہاب کی سند سے, سعید بن مسیب ، حضرت ابو ہریرۃ رضی اللہ تعالیٰ عنہ سے روایت ہے کہ انہوں نے فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيِّبِ، عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إِذَا رَأَيْتُمُ الْهِلَالَ فَصُومُوا، وَإِذَا رَأَيْتُمُوهُ فَأَفْطِرُوا، فَإِنْ غُمَّ عَلَيْكُمْ فَصُومُوا ثَلَاثِينَ يَوْمًا».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10079,
+                "hadithNumber": "2515",
+                "englishNarrator": "Abu Huraira رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: Observe fast on sighting it (the new moon) and break (fast) on sighting it (the new moon), but if the sky is cloudy for you, then complete the number (of thirty).",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے ارشاد فرمایا تو تم چاند دیکھ کر روزہ رکھو اور چاند دیکھ کر افطار کرو اور اگر مطلع ابر آلود ہوتو تم روزوں کی تعداد پوری کرو ۔",
+                "urduNarrator": "ہم سے عبدالرحمٰن بن سلام الجمعی نے بیان کیا، انہوں نے بیان کیا  ربیع ، ابن مسلم ، عن محمد ، ابن زیاد ، حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ سے روایت ہے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ سَلَّامٍ الْجُمَحِيُّ، حَدَّثَنَا الرَّبِيعُ يَعْنِي ابْنَ مُسْلِمٍ، عَنْ مُحَمَّدٍ وَهُوَ ابْنُ زِيَادٍ، عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ، أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَ: «صُومُوا لِرُؤْيَتِهِ وَأَفْطِرُوا لِرُؤْيَتِهِ، فَإِنْ غُمِّيَ عَلَيْكُمْ فَأَكْمِلُوا الْعَدَدَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10080,
+                "hadithNumber": "2516",
+                "englishNarrator": "Abu Huraira رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: Observe fast on sighting it (the new moon) and break it on sighting it. But if (due to clouds) the actual position of the month is concealed from you, you should then count thirty (days).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ تم چاند دیکھ کر روزہ رکھو اور چاند دیکھ کر افطار ( عید ) کرو تو اگر تم پر مہینہ پوشیدہ رہے تو تم تیس روزوں کی تعداد پوری کرو ۔",
+                "urduNarrator": "ہم سے عبید اللہ بن معاذ نے بیان کیا، ہم سے میرے والد نے بیان کیا، انہوں نے ہم سے بیان کیا, شعبہ ، محمد بن زیاد ، حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ فرماتے ہیں کہ",
+                "hadithArabic": "وحَدَّثَنَا عُبَيْدُ اللهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ مُحَمَّدِ بْنِ زِيَادٍ، قَالَ: سَمِعْتُ أَبَا هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ، يَقُولُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «صُومُوا لِرُؤْيَتِهِ وَأَفْطِرُوا لِرُؤْيَتِهِ، فَإِنْ غُمِّيَ عَلَيْكُمُ الشَّهْرُ فَعُدُّوا ثَلَاثِينَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10081,
+                "hadithNumber": "2517",
+                "englishNarrator": "Abu Huraira رضی اللہ تعالیٰ عنہ narrated:",
+                "hadithEnglish": "The Messenger of Allah (may peace he upon him) made a mention of the new moon and (in this connection) said: Observe fast when you see it (the new moon) and break fast when you see it (the new moon of Shawwal), but when (the actual position of the month is) concealed from you (on account of cloudy sky), then count thirty days.",
+                "hadithUrdu": "رسول اللہ رضوان اللہ عنھم اجمعین نے فرمایا کہ تم چاند دیکھ کر روزہ رکھو اور چاند دیکھ کرروزہ افطار ( عید ) کرو ۔ تو اگر تم پر مہینہ پوشیدہ رہے تو تم تیس روزوں کی تعداد پوری کرو ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، ہم سے محمد بن بشر العبدی نے بیان کیا، ہم سے عبید اللہ بن عمر نے بیان کیا، ان سے ابو الزناد رضی اللہ عنہ نے بیان کیا, اعرج ، ابو ہریر ہ  رضی اللہ تعالیٰ عنہ فرماتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ الْعَبْدِيُّ، حَدَّثَنَا عُبَيْدُ اللهِ بْنُ عُمَرَ، عَنْ أَبِي الزِّنَادِ، عَنِ الْأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ، قَالَ: ذَكَرَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ الْهِلَالَ فَقَالَ: «إِذَا رَأَيْتُمُوهُ فَصُومُوا، وَإِذَا رَأَيْتُمُوهُ فَأَفْطِرُوا، فَإِنْ أُغْمِيَ عَلَيْكُمْ فَعُدُّوا ثَلَاثِينَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10082,
+                "hadithNumber": "2518",
+                "englishNarrator": "Abu Huraira رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: Do not observe fast for a day, or two days ahead of Ramadan except a person who is in the habit of observing a particular fast; he may fast on that day.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا تم رمضان المبارک سے نہ ایک دن اور نہ ہی دو دن پہلے روزہ رکھو سوائے اس آدمی کے جو اس دن روزہ رکھتاتھا تو اسے چاہیے کہ وہ رکھ لے ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ اور ابو کریب نے بیان کیا، کہا: ہم سے وکیع نے بیان کیا, علی بن مبارک ، یحییٰ بن ابن کثیر ، ابی سلمہ ، حضرت ابو ہریرۃ رضی اللہ تعالیٰ عنہ سے روایت ہے کہ انہوں نے فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ، قَالَ أَبُو بَكْرٍ: حَدَّثَنَا وَكِيعٌ، عَنْ عَلِيِّ بْنِ مُبَارَكٍ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لَا تَقَدَّمُوا رَمَضَانَ بِصَوْمِ يَوْمٍ وَلَا يَوْمَيْنِ إِلَّا رَجُلٌ كَانَ يَصُومُ صَوْمًا، فَلْيَصُمْهُ».",
+                "headingArabic": "لاَ تَقَدَّمُوا رَمَضَانَ بِصَوْمِ يَوْمٍ وَلاَ يَوْمَيْنِ ‏‏",
+                "headingUrdu": "رمضان سے ایک یا دو دن پہلے روزے شروع نہ کریں۔",
+                "headingEnglish": "Do not start fasting one or two days before Ramadan",
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10083,
+                "hadithNumber": "2519",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Yahya bin Abi Kathir رضی اللہ تعالیٰ عنہ with the same chain of transmitters.",
+                "hadithUrdu": "ہم سے یحییٰ بن بشر الحریری نے بیان کیا، انہوں نے کہا  معاویہ ، ابن سلام ، ابن مثنی ، ابو عامر ، ہشام ، ابن مثنی ، ابن ابی عمر ، عبدالوہاب بن عبدالمجید ، ایوب ، ذہیر بن حرب ، حسین بن محمد ، شیبان ، حضرت یحییٰ بن ابی کثیر رضی اللہ تعالیٰ عنہ سے اس سند کے ساتھ اسی حدیث کی طرح روایت کیا گیا ہے ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنَاه يَحْيَى بْنُ بِشْرٍ الْحَرِيرِيُّ، حَدَّثَنَا مُعَاوِيَةُ يَعْنِي ابْنَ سَلَّامٍ، ح وحَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا أَبُو عَامِرٍ، حَدَّثَنَا هِشَامٌ، ح وحَدَّثَنَا ابْنُ الْمُثَنَّى، وَابْنُ أَبِي عُمَرَ، قَالَا: حَدَّثَنَا عَبْدُ الْوَهَّابِ بْنُ عَبْدِ الْمَجِيدِ، حَدَّثَنَا أَيُّوبُ، ح وحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا حُسَيْنُ بْنُ مُحَمَّدٍ، حَدَّثَنَا شَيْبَانُ، كُلُّهُمْ عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، بِهَذَا الْإِسْنَادِ نَحْوَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10084,
+                "hadithNumber": "2520",
+                "englishNarrator": "Zuhri رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) took an oath that he would not go to his wives for one Month. Zuhri said that 'Urwa narrated to him from 'A'isha رضی اللہ تعالیٰ عنہا that she said: When twenty-nine nights were over, which I had counted, the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ) came to me (he came to me first of all). I said: Messenger of Allah, you had taken an oath that you would not come to us for a month, whereas you have come after twenty nine days which I have counted. Whereupon he said: The month may also consist of twenty-nine days.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے قسم اٹھائی کہ آپ صلی اللہ علیہ وسلم ایک مہینہ تک ا پنی ازواج مطہرات کے پاس نہیں جائیں گے زہری کہتے ہیں کہ مجھے عروہ نے خبر دی کہ سیدہ عائشہ رضی اللہ تعالیٰ عنہا سے روایت ہے انہوں نے فرمایا کہ جب انتیس راتیں گزر گئیں میں ان راتوں کا شمار کرتی رہی تو رسول اللہ صلی اللہ علیہ وسلم میرے ہاں تشریف لائے ۔ انھوں حضرت عائشہ رضی اللہ عنہا سے کہا : ۔ ( باریوں کا ) آغاز مجھ سے فرمایا میؔت نے عرض کی اے اللہ کے رسول آپ نےقسم کھائی تھی کہ آپ ہمارے پاس ایک ماہ تک نہ آئے گے ۔ اور آ‎پ انتیس دن کے بعد تشریف لے آئے ہیں ، میں گنتی رہی ہوں ۔ آپ نے فرمایا بیشک مہینہ انتیس دن کا بھی ہوتا ہے ۔",
+                "urduNarrator": "ہم سے عبد بن حمید نے بیان کیا، کہا ہم سے عبدالرزاق نے بیان کیا، انہوں نے بیان کیا  معمر ، حضرت زہری رضی اللہ تعالیٰ عنہ سے روایت ہے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَقْسَمَ أَنْ لَا يَدْخُلَ عَلَى أَزْوَاجِهِ شَهْرًا، قَالَ الزُّهْرِيُّ: فَأَخْبَرَنِي عُرْوَةُ، عَنْ عَائِشَةَ رَضِيَ اللهُ عَنْهَا قَالَتْ: لَمَّا مَضَتْ تِسْعٌ وَعِشْرُونَ لَيْلَةً أَعُدُّهُنَّ، دَخَلَ عَلَيَّ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ - قَالَتْ بَدَأَ بِي - فَقُلْتُ: يَا رَسُولَ اللهِ، إِنَّكَ أَقْسَمْتَ أَنْ لَا تَدْخُلَ عَلَيْنَا شَهْرًا، وَإِنَّكَ دَخَلْتَ مِنْ تِسْعٍ وَعِشْرِينَ أَعُدُّهُنَّ، فَقَالَ: «إِنَّ الشَّهْرَ تِسْعٌ وَعِشْرُونَ».",
+                "headingArabic": "الشَّهْرُ يَكُونُ تِسْعًا وَعِشْرِينَ ‏‏",
+                "headingUrdu": "مہینہ انتیس دن کا ہو سکتا ہے۔",
+                "headingEnglish": "The month may be twenty-nine days",
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10085,
+                "hadithNumber": "2521",
+                "englishNarrator": "Jabir رضی اللہ تعالیٰ عنہ narrated:",
+                "hadithEnglish": "The Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) separated himself from his wives for a month. (His wives said: ) He came to us on the twenty-ninth day, whereupon we said: It is the twenty-ninth (day) today. Thereupon he said: So far as the month is concerned, (and he, with a view to explaining it) flapped his hands thrice, but held back one finger at the last turn.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم ایک مہینہ تک اپنی ازواج مطہرات رضی اللہ تعالیٰ عنہا سے علیحدہ رہے تھے تو آپ انتیسویں دن میں ہماری طرف تشریف لائے تو ہم نے عرض کیا کہ آج انتیسواں دن ہے پھر آپ نے فرمایا کہ مہینہ انتیس دنوں کا بھی ہوتا ہے اور آپ نے دونوں ہاتھوں کو تین مرتبہ ہلایا اور آخری مرتبہ میں ایک انگلی کو بند فرمالیا ۔ ( اتنے یعنی انتیس دن کا ہوتا ہے )",
+                "urduNarrator": "ہم سے محمد بن رومح نے بیان کیا، انہوں نے کہا لیث ، ابن زبیر ، حضرت جابر رضی اللہ تعالیٰ عنہ سے روایت ہے انہوں نے فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَخْبَرَنَا اللَّيْثُ، ح وحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ - وَاللَّفْظُ لَهُ - حَدَّثَنَا لَيْثٌ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ رَضِيَ اللهُ عَنْهُ، أَنَّهُ قَالَ: كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ اعْتَزَلَ نِسَاءَهُ شَهْرًا، فَخَرَجَ إِلَيْنَا فِي تِسْعٍ وَعِشْرِينَ، فَقُلْنَا: إِنَّمَا الْيَوْمُ تِسْعٌ وَعِشْرُونَ، فَقَالَ: «إِنَّمَا الشَّهْرُ وَصَفَّقَ بِيَدَيْهِ ثَلَاثَ مَرَّاتٍ، وَحَبَسَ إِصْبَعًا وَاحِدَةً فِي الْآخِرَةِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10086,
+                "hadithNumber": "2522",
+                "englishNarrator": "Abu Zubair is reported to have heard Jabir bin 'Abdullah رضی اللہ تعالیٰ عنہ as saying:",
+                "hadithEnglish": "The Apostle of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) separated himself from his wives for a month. (His wives said: ) He came to us on the morning of the twenty-ninth. Upon this some, of the people said: It is the morning of twenty- ninth (according to our calculation). Upon this the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ) said: The month. may also consist of twenty-nine days. The Apostle of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) then flapped his bands thrice, twice with all the fingers of both his hand (to indicate twenty-nine) and by the third time with nine (fingers).",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم اپنی ازواج مطہرات سے ایک مہینہ تک علیحدہ رہے انتیس دن گزر جانے کے بعد آپ صلی اللہ علیہ وسلم ہماری طرف صبح کے وقت تشریف لائے تو کچھ لوگوں نے آپ سے عرض کیا اے اللہ کے رسول صلی اللہ علیہ وسلم !آپ انتیس دنوں کے بعد تشریف لے آئے؟ پھر نبی کریم صلی اللہ علیہ وسلم نے اپنے ہاتھوں کو تین مرتبہ ملایا دو مرتبہ اپنے ہاتھوں کی ساری انگلیوں کے ساتھ اور تیسری مرتبہ میں نو انگلیوں کے ساتھ.",
+                "urduNarrator": "مجھ سے ہارون بن عبداللہ اور حجاج بن الشاعر نے بیان کیا، کہا: ہم سے حجاج بن محمد نے بیان کیا، انہوں نے کہا  ابن جریج ، ابو زبیر ، حضرت جابر بن عبداللہ رضی اللہ تعالیٰ عنہ فرماتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنِي هَارُونُ بْنُ عَبْدِ اللهِ، وَحَجَّاجُ بْنُ الشَّاعِرِ، قَالَا: حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، قَالَ: قَالَ ابْنُ جُرَيْجٍ: أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللهِ رَضِيَ اللهُ عَنْهُمَا، يَقُولُ: اعْتَزَلَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نِسَاءَهُ شَهْرًا، فَخَرَجَ إِلَيْنَا صَبَاحَ تِسْعٍ وَعِشْرِينَ، فَقَالَ بَعْضُ الْقَوْمِ: يَا رَسُولَ اللهِ، إِنَّمَا أَصْبَحْنَا لِتِسْعٍ وَعِشْرِينَ، فَقَالَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: إِنَّ الشَّهْرَ يَكُونُ تِسْعًا وَعِشْرِينَ ثُمَّ طَبَّقَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِيَدَيْهِ ثَلَاثًا: مَرَّتَيْنِ بِأَصَابِعِ يَدَيْهِ كُلِّهَا، وَالثَّالِثَةَ بِتِسْعٍ مِنْهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10087,
+                "hadithNumber": "2523",
+                "englishNarrator": "Umm Salama رضی اللہ تعالیٰ عنہا reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) took an oath that he would not go to some of his wives for the whole of the month. When twenty-nine days bad passed he (the Holy Prophet) went to them in the morning or in the evening. Upon this it was said to him: Apostle of Allah, you took an oath that you would not come to us for a month, whereupon he said: The month may also consist of twenty-nine days.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے قسم اٹھائی کہ آپ صلی اللہ علیہ وسلم اپنی کچھ ازواج مطہرات کے پاس ایک مہینہ تک نہیں جائیں گے ۔ تو جب انتیس دن گزر گئے تو آپ صلی اللہ علیہ وسلم صبح یا شام ان کی طرف تشریف لے گئے تو آپ صلی اللہ علیہ وسلم سے عرض کیا گیا کہ اے اللہ کے نبی صلی اللہ علیہ وسلم !آپ صلی اللہ علیہ وسلم نے تو قسم اٹھائی تھی کہ آپ صلی اللہ علیہ وسلم ایک مہینہ تک ہماری طرف تشریف نہیں لائیں گے آپ صلی اللہ علیہ وسلم نے فرمایاکہ مہینہ انتیس دنوں کا بھی ہوتا ہے",
+                "urduNarrator": "مجھ سے ہارون بن عبداللہ نے بیان کیا، انہوں نے ہم سے بیان کیا حجاج بن محمد ، ابن جریج ، یحییٰ بن عبداللہ بن محمد بن صیفی ، عکرمہ بن عبدالرحمٰن بن حارث ، حضرت ام سلمہ رضی اللہ تعالیٰ عنہا خبر دیتی ہیں کہ",
+                "hadithArabic": "حَدَّثَنِي هَارُونُ بْنُ عَبْدِ اللهِ، حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، قَالَ: قَالَ ابْنُ جُرَيْجٍ: أَخْبَرَنِي يَحْيَى بْنُ عَبْدِ اللهِ بْنِ مُحَمَّدِ بْنِ صَيْفِيٍّ، أَنَّ عِكْرِمَةَ بْنَ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ، أَخْبَرَهُ أَنَّ أُمَّ سَلَمَةَ رَضِيَ اللهُ عَنْهَا، أَخْبَرَتْهُ: أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ حَلَفَ أَنْ لَا يَدْخُلَ عَلَى بَعْضِ أَهْلِهِ شَهْرًا، فَلَمَّا مَضَى تِسْعَةٌ وَعِشْرُونَ يَوْمًا، غَدَا عَلَيْهِمْ - أَوْ رَاحَ - فَقِيلَ لَهُ: حَلَفْتَ، يَا نَبِيَّ اللهِ، أَنْ لَا تَدْخُلَ عَلَيْنَا شَهْرًا، قَالَ: «إِنَّ الشَّهْرَ يَكُونُ تِسْعَةً وَعِشْرِينَ يَوْمًا».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10088,
+                "hadithNumber": "2524",
+                "englishNarrator": null,
+                "hadithEnglish": "A hadith like this has been narrated on the authority of Ibn Juraij with the same chain of transmitters.",
+                "hadithUrdu": "ہم سے اسحاق بن ابراہیم نے بیان کیا، کہا ہم سے روح نے بیان کیا اور ہم سے محمد بن المثنیٰ نے بیان کیا، انہوں نے کہا ضحاک ، حضرت ابن جریج سے اس سند کے ساتھ ہی اسی حدیث کی طرح روایت کیا گیا ہے ۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا رَوْحٌ، ح وحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا الضَّحَّاكُ يَعْنِي أَبَا عَاصِمٍ، جَمِيعًا عَنِ ابْنِ جُرَيْجٍ بِهَذَا الْإِسْنَادِ مِثْلَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 9776,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=391",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=389",
+                "label": "389",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=390",
+                "label": "390",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=391",
+                "label": "391",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=392",
+                "label": "392",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=393",
+                "label": "393",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=394",
+                "label": "394",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=395",
+                "label": "395",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=393",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=393",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=391",
+        "to": 9800,
+        "total": 40465
+    }
+}

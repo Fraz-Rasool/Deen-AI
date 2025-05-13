@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 288,
+        "data": [
+            {
+                "id": 7181,
+                "hadithNumber": "7491",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Allah said: \"The son of Adam hurts Me by abusing Time, for I am Time; in My Hands are all things and I cause the revolution of night and day.' \" (See Hadith No. 351, Vol. 6)",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا اللہ تعالیٰ فرماتا ہے کہ ابن آدم مجھے تکلیف پہنچاتا ہے ‘ زمانہ کو برا بھلا کہتا ہے ‘ حالانکہ میں ہی زمانہ کا پیدا کرنے والا ہوں ۔ میر ے ہی ہاتھ میں تمام کام ہیں ‘ میں جس طرح چاہتا ہو رات اور دن کو پھیرتا رہتا ہوں ۔",
+                "urduNarrator": "ہم سے حمیدی نے بیان کیا ‘ کہا ہم سے سفیان نے بیان کیا ‘ کہا ہم سے زہری نے ‘ ان سے سعید بن مسیب نے اور ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا الْحُمَيْدِيُّ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا الزُّهْرِيُّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ قَالَ اللَّهُ تَعَالَى يُؤْذِينِي ابْنُ آدَمَ، يَسُبُّ الدَّهْرَ وَأَنَا الدَّهْرُ، بِيَدِي الأَمْرُ، أُقَلِّبُ اللَّيْلَ وَالنَّهَارَ ‏\"‏‏.‏",
+                "headingArabic": "قَوْلِ اللَّهِ تَعَالَى ‏{‏يُرِيدُونَ أَنْ يُبَدِّلُوا كَلاَمَ اللَّهِ}",
+                "headingUrdu": "’’وہ اللہ کے الفاظ کو بدلنا چاہتے ہیں…‘‘",
+                "headingEnglish": "“…They want to change Allah’s Words….”",
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7182,
+                "hadithNumber": "7492",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Allah said: The Fast is for Me and I will give the reward for it, as he (the one who observes the fast) leaves his sexual desire, food and drink for My Sake. Fasting is a screen (from Hell) and there are two pleasures for a fasting person, one at the time of breaking his fast, and the other at the time when he will meet his Lord. And the smell of the mouth of a fasting person is better in Allah's Sight than the smell of musk.\" (See Hadith No. 128, Vol. 3).",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا اللہ عزوجل فرماتا ہے کہ روزہ خالص میر ے لیے ہوتا ہے اور میں ہی اس کا بدلہ دیتا ہوں ۔ بندہ اپنی شہوت ‘ کھانا ‘ پینا میری رضا کے لیے چھوڑتا ہے اور روزہ گناہوں سے بچنے کی ڈھال ہے اور روزہ کے لیے دو خوشیاں ہیں ۔ ایک خوشی اس وقت جب وہ افطار کرتا ہے اور ایک خوشی اس وقت جب وہ اپنے رب سے ملتا ہے اور روزہ دار کے منہ کی بو اللہ کے نزدیک مشک عنبر کی خوشبو سے زیادہ پاکیزہ ہے ۔",
+                "urduNarrator": "ہم سے ابونعیم نے بیان کیا ‘ انہوں نے کہا ہم سے اعمش نے بیان کیا ‘ ان سے ابوصالح نے اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا الأَعْمَشُ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ يَقُولُ اللَّهُ عَزَّ وَجَلَّ الصَّوْمُ لِي وَأَنَا أَجْزِي بِهِ يَدَعُ شَهْوَتَهُ وَأَكْلَهُ وَشُرْبَهُ مِنْ أَجْلِي، وَالصَّوْمُ جُنَّةٌ، وَلِلصَّائِمِ فَرْحَتَانِ فَرْحَةٌ حِينَ يُفْطِرُ وَفَرْحَةٌ حِينَ يَلْقَى رَبَّهُ، وَلَخَلُوفُ فَمِ الصَّائِمِ أَطْيَبُ عِنْدَ اللَّهِ مِنْ رِيحِ الْمِسْكِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7183,
+                "hadithNumber": "7493",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Once while Job (Aiyub) was taking a bath in a naked state. Suddenly a great number of gold locusts started falling upon him and he started collecting them in his clothes. His Lord called him, 'O Job! Didn't I make you rich enough to dispense with what you see now?' Job said, 'Yes, O Lord! But I cannot dispense with Your Blessings.'",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا ایوب علیہ السلام کپڑے اتار کر نہا رہے تھے کہ سونے کی ٹڈیوں کا ایک دل ان پر آ کر گرا اور آپ انہیں کپڑے میں سمیٹنے لگے ۔ ان کے رب نے انہیں پکارا کہ اے ایوب ! کیا میں نے تجھے مالدا ر بنا کر ان ٹڈیوں سے بے پر وا نہیں کر دیا ہے ۔ انہوں نے عرض کیا کہ کیوں نہیں بیشک تو نے مجھ کو بےپروا مالدار کیا ہے مگر تیرے فضل و کرم اور رحمت سے بھی میں کہیں بےپروا ہو سکتا ہوں ۔",
+                "urduNarrator": "ہم سے عبداللہ بن محمد مسندی نے بیان کیا ‘ کہا ہم سے عبدالرزاق نے بیان کیا‘کہا ہم کو معمر نے خبر دی ‘ انہیں ہمام نے اور انہیں ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ بَيْنَمَا أَيُّوبُ يَغْتَسِلُ عُرْيَانًا خَرَّ عَلَيْهِ رِجْلُ جَرَادٍ مِنْ ذَهَبٍ فَجَعَلَ يَحْثِي فِي ثَوْبِهِ، فَنَادَى رَبُّهُ يَا أَيُّوبُ أَلَمْ أَكُنْ أَغْنَيْتُكَ عَمَّا تَرَى قَالَ بَلَى يَا رَبِّ وَلَكِنْ لاَ غِنَى بِي عَنْ بَرَكَتِكَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7184,
+                "hadithNumber": "7494",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"Every night when it is the last third of the night, our Lord, the Superior, the Blessed, descends to the nearest heaven and says: Is there anyone to invoke Me that I may respond to his invocation? Is there anyone to ask Me so that I may grant him his request? Is there anyone asking My forgiveness so that I may forgive him?. \" (See Hadith No. 246,Vol. 2)",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم نے فرمایا ہمارا رب تبارک وتعالیٰ ہر رات آسمان دنیا پر آتا ہے ۔ اس وقت جب رات کا آخری تہائی حصہ باقی رہ جاتا ہے اور کہتا ہے کہ مجھے کون بلا تا ہے کہ میں اسے جواب دوں ‘ مجھ سے کون مانگتا ہے کہ میں اسے عطا کروں ‘ مجھ سے کون مغفرت طلب کرتا ہے میں اس کی مغفرت کروں ؟",
+                "urduNarrator": "ہم سے اسماعیل نے بیان کیا ‘ کہا مجھ سے امام مالک نے بیان کیا ‘ ان سے ابن شہاب نے ‘ ان سے ابوعبداللہ الاغر نے اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنِي مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي عَبْدِ اللَّهِ الأَغَرِّ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ يَتَنَزَّلُ رَبُّنَا تَبَارَكَ وَتَعَالَى كُلَّ لَيْلَةٍ إِلَى السَّمَاءِ الدُّنْيَا حِينَ يَبْقَى ثُلُثُ اللَّيْلِ الآخِرُ فَيَقُولُ مَنْ يَدْعُونِي فَأَسْتَجِيبَ لَهُ، مَنْ يَسْأَلُنِي فَأُعْطِيَهُ، مَنْ يَسْتَغْفِرُنِي فَأَغْفِرَ لَهُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7185,
+                "hadithNumber": "7495, 7496",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"We (Muslims) are the last (to come) but will be the foremost on the Day of Resurrection.\" The narrators of this Hadith said: Allah said (to man), 'Spend (in charity), for then I will compensate you (generously).' \"",
+                "hadithUrdu": "آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ گو دنیا میں ہم سب سے آخری امت ہیں لیکن آخرت میں سب سے آگے ہوں گے ۔اور اس سلسلہ کے ساتھ، \"خدا نے کہا، 'خرچ کرو، میں تم پر خرچ کروں گا'۔",
+                "urduNarrator": "ہم سے ابو الیمان نے بیان کیا ‘ کہا ہم کو شعیب نے خبر دی ‘ کہا ہم سے ابو الز ناد نے بیان کیا ‘ ان سے اعرج نے اور انہوں نے ابوہریرہ رضی اللہ عنہ سے سنا ‘ انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، حَدَّثَنَا أَبُو الزِّنَادِ، أَنَّ الأَعْرَجَ، حَدَّثَهُ أَنَّهُ، سَمِعَ أَبَا هُرَيْرَةَ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ نَحْنُ الآخِرُونَ السَّابِقُونَ يَوْمَ الْقِيَامَةِ ‏\"‏‏.‏وَبِهَذَا الإِسْنَادِ ‏\"‏ قَالَ اللَّهُ أَنْفِقْ أُنْفِقْ عَلَيْكَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7186,
+                "hadithNumber": "7497",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said that Gabriel said, \"Here is Khadija رضی اللہ عنہ coming to you with a dish of food or a tumbler containing something to drink. Convey to her a greeting from her Lord (Allah) and give her the glad tidings that she will have a palace in Paradise built of Qasab wherein there will be neither any noise nor any fatigue (trouble).\" (See Hadith No. 168, Vol. 5)",
+                "hadithUrdu": "( جبرائیل علیہ السلام نے کہا یا رسول اللہ ! ) یہ خدیجہ رضی اللہ عنہ جوآپ کے پاس برتن میں کھا نا یا پانی لے کر آتی ہیں انہیں ان کے رب کی طرف سے سلام کہے اور انہیں خولدار موتی کے ایک محل کی جنت میں خوشخبری سنائیے جس میں نہ شور ہو گا اور نہ کوئی تکلیف ہو گی ۔",
+                "urduNarrator": "ہم سے زہیر بن حرب نے بیان کیا ‘ کہا ہم سے محمد بن فضیل نے بیان کیا ‘ ان سے عمارہ بن قعقاع نے ‘ ان سے ابو زرعہ نے اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا ابْنُ فُضَيْلٍ، عَنْ عُمَارَةَ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، فَقَالَ ‏ \"‏ هَذِهِ خَدِيجَةُ أَتَتْكَ بِإِنَاءٍ فِيهِ طَعَامٌ أَوْ إِنَاءٍ فِيهِ شَرَابٌ فَأَقْرِئْهَا مِنْ رَبِّهَا السَّلاَمَ وَبَشِّرْهَا بِبَيْتٍ مِنْ قَصَبٍ لاَ صَخَبَ فِيهِ وَلاَ نَصَبَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7187,
+                "hadithNumber": "7498",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "the Prophet (ﷺ) said, \"Allah said, \"I have prepared for My righteous slaves (such excellent things) as no eye has ever seen, nor an ear has ever heard nor a human heart can ever think of.' \"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا اللہ تعالیٰ فرماتا ہے کہ جنت میں میں نے اپنے نیک بندوں کے لیے وہ چیزیں تیار کر رکھی ہیں جنہیں نہ آنکھوں نے دیکھا ‘ نہ کانوں سے سنا اور نہ کسی انسان کے دل میں ان کا خیال گزرا ۔",
+                "urduNarrator": "ہم سے معاذ بن اسد نے بیان کے کہا ہم کو عبداللہ بن مبارک نے خبر دی ‘ کہا ہم کو معمر نے خبر دی ‘ انہیں ہما م بن منبہ نے اور انہیں ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُعَاذُ بْنُ أَسَدٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ قَالَ اللَّهُ أَعْدَدْتُ لِعِبَادِي الصَّالِحِينَ مَا لاَ عَيْنٌ رَأَتْ، وَلاَ أُذُنٌ سَمِعَتْ، وَلاَ خَطَرَ عَلَى قَلْبِ بَشَرٍ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7188,
+                "hadithNumber": "7499",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "Whenever the Prophet (ﷺ) offered the night (Tahajjud) prayer, he used to say, \"O Allah! All the Praises are for You; You are the Light of the Heavens and the Earth. And all the Praises are for You; You are the Keeper of the Heavens and the Earth. All the Praises are for You; You are the Lord of the Heavens and the Earth and whatever is therein. You are the Truth, and Your Promise is the Truth, and Your Speech is the Truth, and meeting You is the Truth, and Paradise is the Truth and Hell (Fire) is the Truth and all the prophets are the Truth and the Hour is the Truth. O Allah! I surrender to You, and believe in You, and depend upon You, and repent to You, and in Your cause I fight and with Your orders I rule. So please forgive my past and future sins and those sins which I did in secret or in public. It is You Whom I worship, None has the right to be worshipped except You .\" (See Hadith No. 329,Vol. 8)",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم جب رات میں تہجد پڑھنے اٹھتے تو کہتے اللهم لك الحمد أنت نور السموات والأرض ، ولك الحمد أنت قيم السموات والأرض ، ولك الحمد أنت رب السموات والأرض ، ومن فيهن أنت الحق ، ووعدك الحق وقولك الحق ، ولقاؤك الحق ، والجنۃ حق ، والنار حق ، والنبيون حق ، والساعۃ حق ، اللهم لك أسلمت ، وبك آمنت ، وعليك توكلت ، وإليك أنبت ، وبك خاصمت ، وإليك حاكمت ، فاغفر لي ما قدمت وما أخرت ، وما أسررت وما أعلنت ، أنت إلهي ، لا إله إلا أنت اے اللہ ! حمد تیرے ہی لیے ہے کہ تو آسمان و زمین کا نور ہے ۔ حمد تیرے ہی لیے ہے کہ تو آسمان و زمین کا تھامنے والا ہے ۔ حمد تیرے ہی لیے ہے کہ تو آسمان و زمین کا اور کچھ اس میں ہے سب کا رب ہے ۔ تو سچ ہے ‘ تیرا وعدہ سچا ہے اور تیرا قول سچا ہے ۔ تیری ملاقات سچی ہے ‘ جنت سچ ہے اور دوزخ سچ ہے ۔ سارے انبیاء سچے ہیں اور قیامت سچ ہے ۔ اے اللہ ! میں تیرے سامنے ہی جھکا ‘ تجھ پر ایمان لایا ‘ تجھ پر بھروسہ کیا ‘ تیری ہی طرف رجوع کیا ‘ تیرے ہی سامنے اپنا جھگڑا پیش کرتا اور تجھ ہی سے اپنا فیصلہ چاہتا ہوں پس تو میری مغفرت کر دے اگلے پچھلے تمام گناہوں کی جو میں نے چھپا کر کئے اور جو ظاہر کئے ۔ تو ہی میرا معبود ہے ‘ تیرے سوا اور کوئی معبود نہیں ۔",
+                "urduNarrator": "ہم سے محمود بن غیلان نے بیان کیا ‘ انہوں نے کہا ہم سے عبدالرزاق نے بیان کیا ‘ کہا ہم کو ابن جریج نے خبر دی ‘ انہوں نے مجھ کو سلیمان احول نے خبر دی ‘ انہیں طاؤس یمانی نے خبر دی ‘ انہوں نے حضرت عبداللہ بن عباس رضی اللہ عنہما سے سنا ‘ انہوں نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مَحْمُودٌ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي سُلَيْمَانُ الأَحْوَلُ، أَنَّ طَاوُسًا، أَخْبَرَهُ أَنَّهُ، سَمِعَ ابْنَ عَبَّاسٍ، يَقُولُ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا تَهَجَّدَ مِنَ اللَّيْلِ قَالَ ‏ \"‏ اللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ نُورُ السَّمَوَاتِ وَالأَرْضِ، وَلَكَ الْحَمْدُ أَنْتَ قَيِّمُ السَّمَوَاتِ وَالأَرْضِ، وَلَكَ الْحَمْدُ أَنْتَ رَبُّ السَّمَوَاتِ وَالأَرْضِ، وَمَنْ فِيهِنَّ أَنْتَ الْحَقُّ، وَوَعْدُكَ الْحَقُّ وَقَوْلُكَ الْحَقُّ، وَلِقَاؤُكَ الْحَقُّ، وَالْجَنَّةُ حَقٌّ، وَالنَّارُ حَقٌّ، وَالنَّبِيُّونَ حَقٌّ، وَالسَّاعَةُ حَقٌّ، اللَّهُمَّ لَكَ أَسْلَمْتُ، وَبِكَ آمَنْتُ، وَعَلَيْكَ تَوَكَّلْتُ، وَإِلَيْكَ أَنَبْتُ، وَبِكَ خَاصَمْتُ، وَإِلَيْكَ حَاكَمْتُ، فَاغْفِرْ لِي مَا قَدَّمْتُ وَمَا أَخَّرْتُ، وَمَا أَسْرَرْتُ وَمَا أَعْلَنْتُ، أَنْتَ إِلَهِي، لاَ إِلَهَ إِلاَّ أَنْتَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7189,
+                "hadithNumber": "7500",
+                "englishNarrator": "Narrated `Urwa bin Az-Zubair:",
+                "hadithEnglish": "Sa`id bin Al-Musaiyab, 'Alqama bin Waqqas and 'Ubaidullah bin `Abdullah رضی اللہ عنہم regarding the narrating of the forged statement against `Aisha رضی اللہ عنہا , the wife of the Prophet, when the slanderers said what they said and Allah revealed her innocence. `Aisha رضی اللہ عنہا said, \"But by Allah, I did not think that Allah, (to confirm my innocence), would reveal Divine Inspiration which would be recited, for I consider myself too unimportant to be talked about by Allah through Divine Inspiration revealed for recitation, but I hoped that Allah's Messenger (ﷺ) might have a dream in which Allah would reveal my innocence. So Allah revealed:-- 'Verily! Those who spread the slander are a gang among you...' (The ten Verses in Suratan- Nur) (24.11-20)",
+                "hadithUrdu": "سعید بن مسیب ‘ علقمہ بن وقاص اور عبیداللہ بن عبداللہ رضی اللہ عنہم سے سنا ‘ نبی کریم صلی اللہ علیہ وسلم کی زوجہ مطہرہ عائشہ رضی اللہ عنہا کے بارے میں جب تہمت لگانے والوں نے ان پر تہمت لگائی تھی اور اللہ نے اس سے انہیں بری قرار دیا تھا ۔ ان سب نے بیان کیا اور ہر ایک نے مجھ سے عائشہ رضی اللہ عنہا کے بیان کی ہوئی بات کا ایک حصہ بیان کیا ۔ ام المؤمنین نے کہا کہ اللہ کی قسم مجھے یہ خیال نہیں تھا کہ اللہ تعالیٰ میری پاکی بیان کرنے کے لئے وحی نازل کرے گا جس کی تلاوت ہو گی ۔ میرے دل میں میرا درجہ اس سے بہت کم تھا کہ اللہ میرے بارے میں ( قرآن مجید میں ) وحی نازل کرے جس کی تلاوت ہو گی ‘ البتہ مجھے امید تھی کہ رسول کریم صلی اللہ علیہ وسلم کوئی خواب دیکھیں گے جس کے ذریعہ اللہ میری برات کر دے گا ۔ لیکن اللہ تعالیٰ نے یہ آیات نازل کی ہیں ان الذین جاؤ بالافک الخ ۔ دس آیات",
+                "urduNarrator": "ہم سے حجاج بن منہال نے بیان کیا ‘ انہوں نے کہا ہم سے عبداللہ بن عمر نمیری نے بیان کیا ‘ انہوں نے کہا ہم سے یونس بن یزید ایلی نے بیان کیا ‘ کہا کہ میں نے زہری سے سنا ‘ انہوں نے کہا کہ میں نے عروہ بن زبیر ‘",
+                "hadithArabic": "حَدَّثَنَا حَجَّاجُ بْنُ مِنْهَالٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عُمَرَ النُّمَيْرِيُّ، حَدَّثَنَا يُونُسُ بْنُ يَزِيدَ الأَيْلِيُّ، قَالَ سَمِعْتُ الزُّهْرِيَّ، قَالَ سَمِعْتُ عُرْوَةَ بْنَ الزُّبَيْرِ، وَسَعِيدَ بْنَ الْمُسَيَّبِ، وَعَلْقَمَةَ بْنَ وَقَّاصٍ، وَعُبَيْدَ اللَّهِ بْنَ عَبْدِ اللَّهِ، عَنْ حَدِيثِ، عَائِشَةَ زَوْجِ النَّبِيِّ صلى الله عليه وسلم حِينَ قَالَ لَهَا أَهْلُ الإِفْكِ مَا قَالُوا فَبَرَّأَهَا اللَّهُ مِمَّا قَالُوا ـ وَكُلٌّ حَدَّثَنِي طَائِفَةً مِنَ الْحَدِيثِ الَّذِي حَدَّثَنِي ـ عَنْ عَائِشَةَ قَالَتْ وَلَكِنْ وَاللَّهِ مَا كُنْتُ أَظُنُّ أَنَّ اللَّهَ يُنْزِلُ فِي بَرَاءَتِي وَحْيًا يُتْلَى، وَلَشَأْنِي فِي نَفْسِي كَانَ أَحْقَرَ مِنْ أَنْ يَتَكَلَّمَ اللَّهُ فِيَّ بِأَمْرٍ يُتْلَى، وَلَكِنِّي كُنْتُ أَرْجُو أَنْ يَرَى رَسُولُ اللَّهِ صلى الله عليه وسلم فِي النَّوْمِ رُؤْيَا يُبَرِّئُنِي اللَّهُ بِهَا فَأَنْزَلَ اللَّهُ تَعَالَى ‏{‏إِنَّ الَّذِينَ جَاءُوا بِالإِفْكِ‏}‏ الْعَشْرَ الآيَاتِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7190,
+                "hadithNumber": "7501",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"Allah says, 'If My slave intends to do a bad deed then (O Angels) do not write it unless he does it; if he does it, then write it as it is, but if he refrains from doing it for My Sake, then write it as a good deed (in his account). (On the other hand) if he intends to do a good deed, but does not do it, then write a good deed (in his account), and if he does it, then write it for him (in his account) as ten good deeds up to seven-hundred times.' \"",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم نے فرمایا اللہ تعالیٰ فرماتا ہے کہ جب میرا بندہ کسی برائی کا ارادہ کرے تو اسے نہ لکھو یہاں تک کہ اسے کر نہ لے ۔ جب اس کو کر لے پھر اسے اس کے برابر لکھو اور اگر اس برائی کو میرے خوف سے چھوڑ دے تو اس کے حق میں ایک نیکی لکھو اور اگر بندہ کوئی نیکی کرنی چاہے تو اس کے لیے ارادہ ہی پر ایک نیکی اس کے لیے لکھو ۔ اور اگر وہ ایسا کرے تو اس کے لیے (اس کے حساب میں) دس نیکیاں سات سو گنا تک لکھ دیں۔ \"",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا ‘ انہوں نے کہا ہم سے مغیرہ بن عبدالرحمٰن نے بیان کیا ‘ ان سے ابوالزناد نے بیان کیا ‘ ان سے اعرج نے بیان کیا اور ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا الْمُغِيرَةُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ يَقُولُ اللَّهُ إِذَا أَرَادَ عَبْدِي أَنْ يَعْمَلَ سَيِّئَةً فَلاَ تَكْتُبُوهَا عَلَيْهِ حَتَّى يَعْمَلَهَا، فَإِنْ عَمِلَهَا فَاكْتُبُوهَا بِمِثْلِهَا وَإِنْ تَرَكَهَا مِنْ أَجْلِي فَاكْتُبُوهَا لَهُ حَسَنَةً وَإِذَا أَرَادَ أَنْ يَعْمَلَ حَسَنَةً فَلَمْ يَعْمَلْهَا فَاكْتُبُوهَا لَهُ حَسَنَةً، فَإِنْ عَمِلَهَا فَاكْتُبُوهَا لَهُ بِعَشْرِ أَمْثَالِهَا إِلَى سَبْعِمِائَةٍ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7191,
+                "hadithNumber": "7502",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"Allah created the creation, and when He finished from His creation the Rahm (womb) got up, and Allah said (to it). \"Stop! What do you want? It said; \"At this place I seek refuge with You from all those who sever me (i.e. sever the ties of Kinship.)\" Allah said: \"Would you be pleased that I will keep good relation with the one who will keep good relation with you, and I will sever the relation with the one who will sever the relation with you. It said: 'Yes, 'O my Lord.' Allah said (to it), 'That is for you.'' And then Abu Huraira رضی اللہ عنہ recited the Verse:-- \"Would you then if you were given the authority, do mischief in the land, and sever your ties of kinship.\" (47.22)",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا اللہ تعالیٰ نے فرمایا کہ ٹھہر جا ۔ اس نے کہا کہ یہ قطع رحم ( ناطہٰ توڑنا ) تیری پناہ مانگنے کا مقام ہے ۔ اللہ تعالیٰ نے فرمایا کیا تم اس پر راضی نہیں کہ میں ناطہٰ کو جوڑنے والے سے اپنے رحم کا ناطہٰ جوڑوں اور ناطہٰ کو کاٹنے والوں سے جدا ہو جاؤں ۔ اس نے کہا کہ ضرور ‘ میرے رب ! اللہ تعالیٰ نے فرمایا کہ پھر یہی تیرا مقام ہے ۔ پھر ابوہریرہ رضی اللہ عنہ نے سورۃ محمد کی یہ آیت پڑھی ۔ ” ممکن ہے کہ اگر تم حاکم بن جاؤ تو زمین میں فساد کرو ۔ اور قطع رحم کرو “",
+                "urduNarrator": "ہم سے اسماعیل بن عبداللہ نے بیان کیا ‘ انہوں نے کہا مجھ سے سلیمان بن بلا ل نے بیان کیا ‘ ان سے معاویہ بن ابی مزرد نے بیان کیا اور ان سے سعید بن یسار نے اور ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنِي سُلَيْمَانُ بْنُ بِلاَلٍ، عَنْ مُعَاوِيَةَ بْنِ أَبِي مُزَرِّدٍ، عَنْ سَعِيدِ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ خَلَقَ اللَّهُ الْخَلْقَ فَلَمَّا فَرَغَ مِنْهُ قَامَتِ الرَّحِمُ فَقَالَ مَهْ‏.‏ قَالَتْ هَذَا مَقَامُ الْعَائِذِ بِكَ مِنَ الْقَطِيعَةِ‏.‏ فَقَالَ أَلاَ تَرْضَيْنَ أَنْ أَصِلَ مَنْ وَصَلَكِ، وَأَقْطَعَ مَنْ قَطَعَكِ قَالَتْ بَلَى يَا رَبِّ‏.‏ قَالَ فَذَلِكِ لَكِ ‏\"‏‏.‏ ثُمَّ قَالَ أَبُو هُرَيْرَةَ ‏{‏فَهَلْ عَسَيْتُمْ إِنْ تَوَلَّيْتُمْ أَنْ تُفْسِدُوا فِي الأَرْضِ وَتُقَطِّعُوا أَرْحَامَكُمْ‏}‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7192,
+                "hadithNumber": "7503",
+                "englishNarrator": "Narrated Zaid bin Khalid رضی اللہ عنہ :",
+                "hadithEnglish": "It rained (because of the Prophet's invocation for rain) and the Prophet (ﷺ) said, \"Allah said, 'Some of My slaves have become disbelievers in Me, and some others, believers in Me.'\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم کے زمانہ میں بارش ہوئی تو آپ نے فرمایا کہ اللہ تعالیٰ فرماتا ہے میرے بعض بندے صبح کافر ہو کر کرتے ہیں اور بعض بندے صبح مومن ہو کر کرتے ہیں ۔",
+                "urduNarrator": "ہم سے مسدد بن مسرہد نے بیان کیا ‘ کہا ہم سے سفیان بن عیینہ نے بیان کیا ‘ ان سے صالح نے ‘ ان سے عبیداللہ نے ‘ ان سے زید بن خالد رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، عَنْ صَالِحٍ، عَنْ عُبَيْدِ اللَّهِ، عَنْ زَيْدِ بْنِ خَالِدٍ، قَالَ مُطِرَ النَّبِيُّ صلى الله عليه وسلم فَقَالَ ‏ \"‏ قَالَ اللَّهُ أَصْبَحَ مِنْ عِبَادِي كَافِرٌ بِي وَمُؤْمِنٌ بِي ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7193,
+                "hadithNumber": "7504",
+                "englishNarrator": "Narrated Abu Huraira:",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"Allah said, 'If My slaves loves the meeting with Me, I too love the meeting with him; and if he dislikes the meeting with Me, I too dislike the meeting with him.' \" (See Hadith No. 514, Vol. 8)",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم نے فرمایا اللہ تعالیٰ فرماتا ہے کہ جب میرا بندہ مجھ سے ملاقات پسند کرتا ہے تو میں بھی اس سے ملاقات پسند کرتا ہوں اور جب وہ مجھ سے ملاقات ناپسند کرتا ہے تو میں بھی ناپسند کرتا ہوں ۔",
+                "urduNarrator": "ہم سے اسماعیل بن ابی اویس نے بیان کیا ‘ کہا مجھ سے امام مالک نے بیان کیا ‘ ان سے ابوالزناد نے ‘ ان سے اعرج اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنِي مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ قَالَ اللَّهُ إِذَا أَحَبَّ عَبْدِي لِقَائِي أَحْبَبْتُ لِقَاءَهُ، وَإِذَا كَرِهَ لِقَائِي كَرِهْتُ لِقَاءَهُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7194,
+                "hadithNumber": "7505",
+                "englishNarrator": "Narrated Abu Huraira:",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"Allah said, 'I am to my slave as he thinks of Me, (i.e. I am able to do for him what he thinks I can do for him). (See Hadith No. 502)",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا اللہ تعالیٰ فرماتا ہے کہ میں اپنے بندے کے گمان کے ساتھ ہوں جو وہ میر ے متعلق رکھتا ہے ۔",
+                "urduNarrator": "ہم سے ابو الیمان نے بیان کیا ‘ کہا ہم کو شعیب نے خبر دی ‘ کہا ہم سے ابوالزناد نے بیان کیا ‘ ان سے اعرج نے اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، حَدَّثَنَا أَبُو الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ قَالَ اللَّهُ أَنَا عِنْدَ ظَنِّ عَبْدِي بِي ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7195,
+                "hadithNumber": "7506",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"A man who never did any good deed, said that if he died, his family should burn him and throw half the ashes of his burnt body in the earth and the other half in the sea, for by Allah, if Allah should get hold of him, He would inflict such punishment on him as He would not inflict on anybody among the people. But Allah ordered the sea to collect what was in it (of his ashes) and similarly ordered the earth to collect what was in it (of his ashes). Then Allah said (to the recreated man ), 'Why did you do so?' The man replied, 'For being afraid of You, and You know it (very well).' So Allah forgave him.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ایک شخص نے جس نے ( بنی اسرائیل میں سے ) کوئی نیک کام کبھی نہیں کیا تھا ‘ وصیت کی کہ جب وہ مر جائے تو اسے جلا ڈالیں اور اس کی آدھی راکھ خشکی میں اور آدھی دریا میں بکھیردیں کیونکہ اللہ کی قسم اگر اللہ نے مجھ پر قابو پا لیا تو ایسا عذاب مجھ کو دے گا جو دنیا کے کسی شخص کو بھی وہ نہیں دے گا ۔ پھر اللہ نے سمندر کو حکم دیا اور اس نے تمام راکھ جمع کر دی جو اس کے اندر تھی ۔ پھر اس نے خشکی کو حکم دیا اور اس نے بھی اپنی تمام راکھ جمع کر دی جو اس کے اندر تھی ۔ پھر اللہ تعالیٰ نے اس سے پوچھا تو نے ایسا کیوں کیا اور تو سب سے زیادہ جاننے والا ہے ۔ پس اللہ تعالیٰ نے اس کو بخش دیا ۔",
+                "urduNarrator": "ہم سے اسماعیل بن ابی اویس نے بیان کیا ‘ کہا مجھ سے امام مالک نے بیان کیا ‘ ان سے ابوالزناد نے ‘ ان سے اعرج نے اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنِي مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ قَالَ رَجُلٌ لَمْ يَعْمَلْ خَيْرًا قَطُّ، فَإِذَا مَاتَ فَحَرِّقُوهُ وَاذْرُوا نِصْفَهُ فِي الْبَرِّ وَنِصْفَهُ فِي الْبَحْرِ فَوَاللَّهِ لَئِنْ قَدَرَ اللَّهُ عَلَيْهِ لَيُعَذِّبَنَّهُ عَذَابًا لاَ يُعَذِّبُهُ أَحَدًا مِنَ الْعَالَمِينَ، فَأَمَرَ اللَّهُ الْبَحْرَ فَجَمَعَ مَا فِيهِ، وَأَمَرَ الْبَرَّ فَجَمَعَ مَا فِيهِ ثُمَّ قَالَ لِمَ فَعَلْتَ قَالَ مِنْ خَشْيَتِكَ، وَأَنْتَ أَعْلَمُ، فَغَفَرَ لَهُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7196,
+                "hadithNumber": "7507",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "I heard the Prophet (ﷺ) saying, \"If somebody commits a sin and then says, 'O my Lord! I have sinned, please forgive me!' and his Lord says, 'My slave has known that he has a Lord who forgives sins and punishes for it, I therefore have forgiven my slave (his sins).' Then he remains without committing any sin for a while and then again commits another sin and says, 'O my Lord, I have committed another sin, please forgive me,' and Allah says, 'My slave has known that he has a Lord who forgives sins and punishes for it, I therefore have forgiven my slave (his sin). Then he remains without Committing any another sin for a while and then commits another sin (for the third time) and says, 'O my Lord, I have committed another sin, please forgive me,' and Allah says, 'My slave has known that he has a Lord Who forgives sins and punishes for it I therefore have forgiven My slave (his sin), he can do whatever he likes.\"",
+                "hadithUrdu": "آپ نے فرمایا کہ ایک بندے نے بہت گناہ کئے اور کہا اے میرے رب ! میں تیرا ہی گنہگار بندہ ہوں تو مجھے بخش دے ۔ اللہ رب العزت نے فرمایا میرا بندہ جانتا ہے کہ اس کا کوئی رب ضرور ہے جو گناہ معاف کرتا ہے اور گناہ کی وجہ سے سزا بھی دیتا ہے میں نے اپنے بندے کو بخش دیا پھربندہ رکا رہا جتنا اللہ نے چاہا اور پھر اس نے گناہ کیا اور عرض کیا میرے رب ! میں نے دوبارہ گناہ کر لیا ‘ اسے بھی بخش دے ۔ اللہ تعالیٰ نے فرمایا میرا بندہ جانتا ہے کہ اس کا رب ضرور ہے جو گناہ معاف کرتا ہے اور اس کے بدلے میں سزا بھی دیتا ہے ‘ میں نے اپنے بندے کو بخش دیا ۔ پھر جب تک اللہ نے چاہا بندہ گناہ سے رکا رہا اور پھر اس نے گنا ہ کیا اور اللہ کے حضور میں عرض کیا اے میرے رب ! میں نے گناہ پھر کر لیا ہے تو مجھے بخش دے ۔ اللہ تعالیٰ فرمایا میرا بندہ جانتا ہے کہ اس کا ایک رب ضرور ہے جو گناہ معاف کرتا ورنہ اس کی وجہ سی سزا بھی دیتا ہے میں نے اپنے بندے کو بخش دیا ۔ تین مرتبہ ‘ پس اب جو چاہے عمل کرے ۔",
+                "urduNarrator": "ہم سے احمد بن اسحاق نے بیان کیا ‘ انہوں نے کہا ہم سے عمرو بن عاصم نے بیان کیا ‘ انہوں نے کہا ہم سے ہمام نے بیان کیا ‘ انہوں نے ہم سے اسحاق بن عبداللہ نے ‘ انہوں نے عبدالرحمٰن بن ابی عمرہ سے سنا ‘ کہا کہ میں نے ابوہریرہ رضی اللہ عنہ سے سنا ‘",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ إِسْحَاقَ، حَدَّثَنَا عَمْرُو بْنُ عَاصِمٍ، حَدَّثَنَا هَمَّامٌ، حَدَّثَنَا إِسْحَاقُ بْنُ عَبْدِ اللَّهِ، سَمِعْتُ عَبْدَ الرَّحْمَنِ بْنَ أَبِي عَمْرَةَ، قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ عَبْدًا أَصَابَ ذَنْبًا ـ وَرُبَّمَا قَالَ أَذْنَبَ ذَنْبًا ـ فَقَالَ رَبِّ أَذْنَبْتُ ـ وَرُبَّمَا قَالَ أَصَبْتُ ـ فَاغْفِرْ لِي فَقَالَ رَبُّهُ أَعَلِمَ عَبْدِي أَنَّ لَهُ رَبًّا يَغْفِرُ الذَّنْبَ وَيَأْخُذُ بِهِ غَفَرْتُ لِعَبْدِي‏.‏ ثُمَّ مَكَثَ مَا شَاءَ اللَّهُ، ثُمَّ أَصَابَ ذَنْبًا أَوْ أَذْنَبَ ذَنْبًا، فَقَالَ رَبِّ أَذْنَبْتُ ـ أَوْ أَصَبْتُ ـ آخَرَ فَاغْفِرْهُ‏.‏ فَقَالَ أَعَلِمَ عَبْدِي أَنَّ لَهُ رَبًّا يَغْفِرُ الذَّنْبَ وَيَأْخُذُ بِهِ غَفَرْتُ لِعَبْدِي، ثُمَّ مَكَثَ مَا شَاءَ اللَّهُ ثُمَّ أَذْنَبَ ذَنْبًا ـ وَرُبَّمَا قَالَ أَصَابَ ذَنْبًا ـ قَالَ قَالَ رَبِّ أَصَبْتُ ـ أَوْ أَذْنَبْتُ ـ آخَرَ فَاغْفِرْهُ لِي‏.‏ فَقَالَ أَعَلِمَ عَبْدِي أَنَّ لَهُ رَبًّا يَغْفِرُ الذَّنْبَ وَيَأْخُذُ بِهِ غَفَرْتُ لِعَبْدِي ـ ثَلاَثًا ـ فَلْيَعْمَلْ مَا شَاءَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7197,
+                "hadithNumber": "7508",
+                "englishNarrator": "Narrated Abu Sa`id رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) mentioned a man from the people of the past or those who preceded you. The Prophet (ﷺ) said a sentence meaning: Allah had given him wealth and children. When his death approached, he said to his sons, \"What kind of father have I been to you?\" They replied, \"You have been a good father.\" He told them that he had not presented any good deed before Allah, and if Allah should get hold of him He would punish him.' \"So look!\" he added, \"When I die, burn me, and when I turn into coal, crush me, and when there comes a windy day, scatter my ashes in the wind.\" The Prophet (ﷺ) added, \"Then by Allah, he took a firm promise from his children to do so, and they did so. (They burnt him after his death) and threw his ashes on a windy day. Then Allah commanded to his ashes. \"Be,\" and behold! He became a man standing! Allah said, \"O My slave! What made you do what you did?\" He replied, \"For fear of You.\" Nothing saved him then but Allah's Mercy (So Allah forgave him). The transmitter said for a second time: '' فَمَا تَلاَفَاهُ غَيْرُهَا'' . I (Solaiman) narrated this Hsadith to Abu Uthman, so he said: Ihave heard the same from Salman Farisi saves that he would add: '' أَذْرُونِي فِي الْبَحْرِ‏'' or whatever he said: Hadrat Musa has reported from Motamir that he said: '' لَمْ يَبْتَئِرْ‏‏'' And Khaleefah has reported from Motamir that he said: ''لَمْ يَبْتَئِز'' . Qatadah interpreted it: did not deposit.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے پچھلی امتوں میں سے ایک شخص کا ذکر کیا ۔ اس کے متعلق آپ نے ایک کلمہ فرمایا یعنی اللہ نے اسے مال واولاد سب کچھ دیا تھا ۔ جب اس کے مرنے کا وقت قریب آیا تو اس نے اپنے لڑکوں سے پوچھا کہ میں تمہارے لیے کیسا باپ ثابت ہوا ۔ انہوں نے کہا کہ بہترین باپ ۔ اس پر اس نے کہا کہ لیکن تمہارے باپ نے اللہ کے ہاں کوئی نیکی نہیں بھیجی ہے اور اگر کہیں اللہ نے مجھے پکڑپا یا تو سخت عذاب کرے گا تو دیکھو جب میں مرجاؤں تو مجھے جلا دینا ‘ یہاں تک کہ جب میں کوئلہ ہو جاؤں تو اسے خوب پیس لینا اور جس دن تیز آندھی آئے اس میں میری یہ راکھ اڑا دینا ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ اس پر اس نے اپنے بیٹوں سے پختہ وعدہ لیا اور اللہ کی قسم کہ ان کے لڑکوں نے ایسا ہی کیا ‘ جلا کر راکھ کر ڈالا ‘ پھر انہوں نے اس کی راکھ کو تیز ہوا دن اڑا دیا ۔ پھر اللہ تعالیٰ نے کن کا لفظ فرمایا کہ ہو جاتو وہ فوراً ایک مرد بن گیا جو کھڑا ہوا تھا ۔ اللہ تعالیٰ نے فرمایا اے میرے بندے ! تجھے کس بات نے اس پر آمادہ کیا کہ تو نے یہ کام کرایا ۔ اس نے کہا کہ تیرے خوف نے ۔ بیان کیا کہ اللہ تعالیٰ نے اس کو کوئی سزا نہیں دی بلکہ اس پر رحم کیا ۔ پھر میں نے یہ بات ابوعثمان نہدی سے بیان کی تو انہوں نے کہا کہ میں نے اسے سلیمان فارسی سے سنا ‘ البتہ انہوں نے یہ لفظ زیادہ کئے کہ ” ازرونی فی البحر “ یعنی میری راکھ کو دیا میں ڈال دینا یا کچھ ایسا ہی بیان کیا ۔  ہم سے موسیٰ بن اسماعیل نے بیان کیا ‘ کہا ہم سے معتمر بن سلیمان نے بیان کیا اور اس نے ” لم یبتئر “ کے الفاظ کہے اور خلیفہ بن خیاط ( امام بخاری کے شیخ ) نے کہا ہم سے معتمر نے بیان کیا پھر یہی حدیث نقل کی ۔ اس میں لم یبتئر ہے ۔ قتادہ نے اس کے منعیٰ یہ کئے ہیں ۔ یعنی کوئی نیک آخرت کے لیے ذخیرہ نہیں کی ۔",
+                "urduNarrator": "ہم سے عبداللہ بن ابی الاسود نے بیان کیا ‘ انہوں نے کہا ہم سے معتمر نے بیان کیا ‘ انہوں نے کہا میں نے اپنے والد سے سنا ‘ انہوں نے کہا ہم سے قتادہ نے بیان کیا ‘ان سے عقبہ بن عبد الغافر نے اور ان سے ابو سعید خدری رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي الأَسْوَدِ، حَدَّثَنَا مُعْتَمِرٌ، سَمِعْتُ أَبِي، حَدَّثَنَا قَتَادَةُ، عَنْ عُقْبَةَ بْنِ عَبْدِ الْغَافِرِ، عَنْ أَبِي سَعِيدٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏\"‏ أَنَّهُ ذَكَرَ رَجُلاً فِيمَنْ سَلَفَ ـ أَوْ فِيمَنْ كَانَ قَبْلَكُمْ قَالَ كَلِمَةً يَعْنِي ـ أَعْطَاهُ اللَّهُ مَالاً وَوَلَدًا ـ فَلَمَّا حَضَرَتِ الْوَفَاةُ قَالَ لِبَنِيهِ أَىَّ أَبٍ كُنْتُ لَكُمْ قَالُوا خَيْرَ أَبٍ‏.‏ قَالَ فَإِنَّهُ لَمْ يَبْتَئِرْ ـ أَوْ لَمْ يَبْتَئِزْ ـ عِنْدَ اللَّهِ خَيْرًا، وَإِنْ يَقْدِرِ اللَّهُ عَلَيْهِ يُعَذِّبْهُ، فَانْظُرُوا إِذَا مُتُّ فَأَحْرِقُونِي حَتَّى إِذَا صِرْتُ فَحْمًا فَاسْحَقُونِي ـ أَوْ قَالَ فَاسْحَكُونِي ـ فَإِذَا كَانَ يَوْمُ رِيحٍ عَاصِفٍ فَأَذْرُونِي فِيهَا ‏\"‏ فَقَالَ نَبِيُّ اللَّهِ صلى الله عليه وسلم ‏\"‏ فَأَخَذَ مَوَاثِيقَهُمْ عَلَى ذَلِكَ وَرَبِّي، فَفَعَلُوا ثُمَّ أَذْرَوْهُ فِي يَوْمٍ عَاصِفٍ، فَقَالَ اللَّهُ عَزَّ وَجَلَّ كُنْ‏.‏ فَإِذَا هُوَ رَجُلٌ قَائِمٌ‏.‏ قَالَ اللَّهُ أَىْ عَبْدِي مَا حَمَلَكَ عَلَى أَنْ فَعَلْتَ مَا فَعَلْتَ قَالَ مَخَافَتُكَ أَوْ فَرَقٌ مِنْكَ قَالَ فَمَا تَلاَفَاهُ أَنْ رَحِمَهُ عِنْدَهَا ـ وَقَالَ مَرَّةً أُخْرَى فَمَا تَلاَفَاهُ غَيْرُهَا ـ ‏\"‏‏.‏ فَحَدَّثْتُ بِهِ أَبَا عُثْمَانَ فَقَالَ سَمِعْتُ هَذَا مِنْ سَلْمَانَ غَيْرَ أَنَّهُ زَادَ فِيهِ أَذْرُونِي فِي الْبَحْرِ‏.‏ أَوْ كَمَا حَدَّثَ‏.‏ حَدَّثَنَا مُوسَى، حَدَّثَنَا مُعْتَمِرٌ، وَقَالَ، لَمْ يَبْتَئِرْ‏.‏ وَقَالَ خَلِيفَةُ حَدَّثَنَا مُعْتَمِرٌ، وَقَالَ، أَذْرُونِي فِي الْبَحْرِ‏.‏ فَسَّرَهُ قَتَادَةُ لَمْ يَدَّخِرْ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7198,
+                "hadithNumber": "7509",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "I heard the Prophet (ﷺ) saying, \"On the Day of Resurrection I will intercede and say, \"O my Lord! Admit into Paradise (even) those who have faith equal to a mustard seed in their hearts.\" Such people will enter Paradise, and then I will say, 'O (Allah) admit into Paradise (even) those who have the least amount of faith in their hearts.\" Anas  رضی اللہ عنہ then said: As if I were just now looking at the fingers of Allah's Apostle.",
+                "hadithUrdu": "میں نے نبی کریم صلی اللہ علیہ وسلم سے سنا‘آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ قیامت کے دن میری شفاعت قبول کی جائے گی ۔ میں کہوں گا اے رب ! جس کے دل میں رائی کے دانہ کے برابر بھی ایمان ہو اس کو بھی جنت میں داخل فرما دے ۔ ایسے لوگ جنت میں داخل کر دئیے جائیں گے ۔ میں پھر عرض کروں گا اے رب ! جنت میں اسے بھی داخل کر دے جس کے دل میں معمولی سا بھی ایمان ہو ۔ انس رضی اللہ عنہ نے کہا کہ گویا میں اس وقت بھی آنحضرت صلی اللہ علیہ وسلم کی انگلیوں کی طرف دیکھ رہا ہوں ۔",
+                "urduNarrator": "ہم سے یوسف بن راشد نے بیان کیا ‘ کہا ہم سے احمد بن عبداللہ یر بوعی نے بیان کیا ‘ کہا ہم سے ابوبکر بن عیاش نے ‘ ان سے حمید نے بیان کیا کہ میں نے انس رضی اللہ عنہ سے سنا ‘ کہا کہ",
+                "hadithArabic": "حَدَّثَنَا يُوسُفُ بْنُ رَاشِدٍ، حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا أَبُو بَكْرِ بْنُ عَيَّاشٍ، عَنْ حُمَيْدٍ، قَالَ سَمِعْتُ أَنَسًا ـ رضى الله عنه ـ قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ إِذَا كَانَ يَوْمُ الْقِيَامَةِ شُفِّعْتُ، فَقُلْتُ يَا رَبِّ أَدْخِلِ الْجَنَّةَ مَنْ كَانَ فِي قَلْبِهِ خَرْدَلَةٌ‏.‏ فَيَدْخُلُونَ، ثُمَّ أَقُولُ أَدْخِلِ الْجَنَّةَ مَنْ كَانَ فِي قَلْبِهِ أَدْنَى شَىْءٍ ‏\"‏‏.‏ فَقَالَ أَنَسٌ كَأَنِّي أَنْظُرُ إِلَى أَصَابِعِ رَسُولِ اللَّهِ صلى الله عليه وسلم‏.‏",
+                "headingArabic": "كَلاَمِ الرَّبِّ عَزَّ وَجَلَّ يَوْمَ الْقِيَامَةِ مَعَ الأَنْبِيَاءِ وَغَيْرِهِمْ",
+                "headingUrdu": "قیامت کے دن انبیاء اور دوسروں سے رب عزّ وجل کی گفتگو",
+                "headingEnglish": "The Talk of the Lord عزّ وجلّ to the Prophets and others on the Day of Resurrection",
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7199,
+                "hadithNumber": "7510",
+                "englishNarrator": "Narrated Ma`bad bin Hilal Al-`Anzi:",
+                "hadithEnglish": "We, i.e., some people from Basra gathered and went to Anas bin Malik رضی اللہ عنہ , and we went in company with Thabit Al-Bunnani so that he might ask him about the Hadith of Intercession on our behalf. Behold, Anas رضی اللہ عنہ was in his palace, and our arrival coincided with his Duha prayer. We asked permission to enter and he admitted us while he was sitting on his bed. We said to Thabit, \"Do not ask him about anything else first but the Hadith of Intercession.\" He said, \"O Abu Hamza! There are your brethren from Basra coming to ask you about the Hadith of Intercession.\" Anas رضی اللہ عنہ then said, \"Muhammad talked to us saying, 'On the Day of Resurrection the people will surge with each other like waves, and then they will come to Adam and say, 'Please intercede for us with your Lord.' He will say, 'I am not fit for that but you'd better go to Abraham as he is the Khalil of the Beneficent.' They will go to Abraham and he will say, 'I am not fit for that, but you'd better go to Moses as he is the one to whom Allah spoke directly.' So they will go to Moses and he will say, 'I am not fit for that, but you'd better go to Jesus as he is a soul created by Allah and His Word.' (Be: And it was) they will go to Jesus and he will say, 'I am not fit for that, but you'd better go to Muhammad.' They would come to me and I would say, 'I am for that.' Then I will ask for my Lord's permission, and it will be given, and then He will inspire me to praise Him with such praises as I do not know now. So I will praise Him with those praises and will fall down, prostrate before Him. Then it will be said, 'O Muhammad, raise your head and speak, for you will be listened to; and ask, for your will be granted (your request); and intercede, for your intercession will be accepted.' I will say, 'O Lord, my followers! My followers!' And then it will be said, 'Go and take out of Hell (Fire) all those who have faith in their hearts, equal to the weight of a barley grain.' I will go and do so and return to praise Him with the same praises, and fall down (prostrate) before Him. Then it will be said, 'O Muhammad, raise your head and speak, for you will be listened to, and ask, for you will be granted (your request); and intercede, for your intercession will be accepted.' I will say, 'O Lord, my followers! My followers!' It will be said, 'Go and take out of it all those who have faith in their hearts equal to the weight of a small ant or a mustard seed.' I will go and do so and return to praise Him with the same praises, and fall down in prostration before Him. It will be said, 'O, Muhammad, raise your head and speak, for you will be listened to, and ask, for you will be granted (your request); and intercede, for your intercession will be accepted.' I will say, 'O Lord, my followers!' Then He will say, 'Go and take out (all those) in whose hearts there is faith even to the lightest, lightest mustard seed. (Take them) out of the Fire.' I will go and do so.\"' When we left Anas رضی اللہ عنہ , I said to some of my companions, \"Let's pass by Al-Hasan who is hiding himself in the house of Abi Khalifa and request him to tell us what Anas bin Malik رضی اللہ عنہ has told us.\" So we went to him and we greeted him and he admitted us. We said to him, \"O Abu Sa`id! We came to you from your brother Anas Bin Malik رضی اللہ عنہ and he related to us a Hadith about the intercession the like of which I have never heard.\" He said, \"What is that?\" Then we told him of the Hadith and said, \"He stopped at this point (of the Hadith).\" He said, \"What then?\" We said, \"He did not add anything to that.\" He said, Anas رضی اللہ عنہ related the Hadith to me twenty years ago when he was a young fellow. I don't know whether he forgot or if he did not like to let you depend on what he might have said.\" We said, \"O Abu Sa`id ! Let us know that.\" He smiled and said, \"Man was created hasty. I did not mention that, but that I wanted to inform you of it. Anas رضی اللہ عنہ told me the same as he told you and said that the Prophet (ﷺ) added, 'I then return for a fourth time and praise Him similarly and prostrate before Him me the same as he 'O Muhammad, raise your head and speak, for you will be listened to; and ask, for you will be granted (your request): and intercede, for your intercession will be accepted .' I will say, 'O Lord, allow me to intercede for whoever said, 'None has the right to be worshiped except Allah.' Then Allah will say, 'By my Power, and my Majesty, and by My Supremacy, and by My Greatness, I will take out of Hell (Fire) whoever said: 'None has the right to be worshipped except Allah.' ''",
+                "hadithUrdu": "بصرہ کے کچھ لوگ ہمارے پاس جمع ہو گئے ۔ پھر ہم انس بن مالک رضی اللہ عنہ کے پاس گئے اور اپنے ساتھ ثابت کو بھی لے گئے تاکہ وہ ہمارے لیے شفاعت کی حدیث پوچھیں ۔ حضرت انس رضی اللہ عنہ اپنے محل میں تھے اور جب ہم پہنچے تو وہ چاشت کی نماز پڑھ رہے تھے ۔ ہم نے ملاقات کی اجازت چاہی اور ہمیں اجازت مل گئی ۔ اس وقت وہ اپنے بستر پر بیٹھے تھے ۔ ہم نے ثابت سے کہا تھا کہ حدیث شفاعت سے پہلے ان سے اور کچھ نہ پوچھنا ۔ چنانچہ انہوں نے کہا اے ابوحمزہ ! یہ آپ کے بھائی بصرہ سے آئے ہیں اور آپ سے شفاعت کی حدیث پوچھنا چاہتے ہیں ۔ انہوں نے کہا کہ ہم سے محمد صلی اللہ علیہ وسلم نے بیان کیا ‘آپ نے فرمایا کہ قیامت کا دن جب آئے گا تو لوگ ٹھاٹھیں مارتے ہوئے سمندر کی طرح ظاہر ہوں گے ۔ پھر وہ آدم علیہ السلام کے پاس آئیں گے اور ان سے کہیں گے کہ ہماری اپنے رب کے پاس شفاعت کیجئے ۔ وہ کہیں گہ کہ میں اس قابل نہیں ہوں تم ابراہیم علیہ السلام کے پاس جاؤ ‘ وہ اللہ کے خلیل ہیں ۔ لوگ ابراہیم علیہ السلام کے پاس آئیں گے وہ بھی کہیں گے کہ میں اس قابل نہیں ہوں ‘ ہاں تم موسیٰ علیہ السلام کے پاس جاؤ کہ وہ اللہ سے شرف ہم کلامی پانے والے ہیں ۔ لوگ موسیٰ علیہ السلام کے پاس آئیں گے اور وہ بھی کہیں گے کہ میں اس قابل نہیں ہوں ‘ البتہ تم عیسیٰ علیہ السلام کے پاس جاؤ کہ وہ اللہ کی روح اور اس کا کلمہ ہیں ۔ چنانچہ لوگ عیسیٰ علیہ السلام کے پاس آئیں گے وہ بھی کہیں گے کہ میں اس قابل نہیں ہوں ‘ ہاں تم محمد صلی اللہ علیہ وسلم کے پاس جاؤ ۔ لوگ میرے پاس آئیں گے اور میں کہوں گا کہ میں شفاعت کے لیے ہوں اور پھر میں اپنے رب سے اجازت چاہوں گا اور مجھے اجازت دی جائے گی اور اللہ تعالیٰ تعریفوں کے الفاظ مجھے الہام کرے گا جن کے ذریعہ میں اللہ کی حمد بیان کروں گا جو اس وقت مجھے یاد نہیں ہیں ۔ چنانچہ جب میں یہ تعریفیں بیان کروں گا اللہ کے حضور میں سجدہ کرنے والا ہو جاؤں گا تو مجھ سے کہا جائے گا اے محمد ! اپنا سر اٹھاؤ ‘ جو کہو وہ سنا جائے گا ۔ جو مانگو گے وہ دیا جائے گا ۔ جو شفاعت کرو گے قبول کی جائے گی ۔ پھر میں کہوں گا اے رب ! میری امت ‘ میری امت ۔ کہا جائے گا کہ جاؤ اور ان لوگوں کو دوزخ سے نکال لو جن کے دل میں ذرہ یا رائی برابر بھی ایمان ہو ۔ چنانچہ میں جاؤں گا اور ایسا ہی کروں گا ۔ پھر میں لوٹوں گا اور یہی تعریفیں پھر کروں گا اور اللہ کے لیے سجدہ میں چلا جاؤں گا مجھ سے کہا جائے گا ۔ اپنا سر اٹھاؤ کہو آپ کی سنی جائے گا ‘ میں کہوں گا اے رب ! میری امت ‘ میری امت ۔ اللہ تعالیٰ فرمائے گا جاؤ اور جس کے دل میں ایک رائی کے دانہ کے کم سے کم تر حصہ کے برابر بھی ایمان ہو اسے بھی جہنم سے نکال لو ۔ پھر میں جاؤں گا اور نکالوں گا ۔ پھر جب ہم انس رضی اللہ عنہ کے پاس سے نکلے تو میں نے اپنے بعض ساتھیوں سے کہا کہ ہمیں امام حسن بصری کے پاس بھی چلنا چاہئیے ‘ وہ اس وقت ابو خلیفہ کے مکان میں تھے اور ان سے وہ حدیث بیان کرنا چاہئیے جو انس رضی اللہ عنہ نے ہم سے بیان کی ہے ۔ چنانچہ ہم ان کے پاس آئے اور انہیں سلام کے ۔ پھر انہوں نے ہمیں اجاز ت دی اور ہم نے ان سے کہا اے ابو سیعد ! ہم آپ کے پاس آپ کے بھائی انس بن مالک رضی اللہ عنہ کے یہاں سے آئے ہیں اور انہوں نے ہم سے جو شفاعت کے متعلق حدیث بیان کی ‘ اس جیسی حدیث ہم نے نہیں سنی ۔ انہوں نے کہا کہ بیان کرو ۔ ہم نے ان سے حدیث بیان کی جب اس مقام تک پہنچے تو انہوں نے کہا کہ اور بیان کرو ۔ ہم نے کہا کہ اس سے زیادہ انہوں نے نہیں بیان کی ۔ انہوں نے کہا کہ انس رضی اللہ عنہ جب صحت مند تھے بیس سال اب سے پہلے تو انہوں نے مجھ سے یہ حدیث بیان کی تھی ۔ مجھے معلوم نہیں کہ وہ باقی بھول گئے یا اس لیے بیان کرنا ناپسند کیا کہ کہیں لوگ بھروسہ نہ کر بیٹھیں ۔ ہم نے کہا ابو سیعد ! پھرہم سے وہ حدیث بیان کیجئے ۔ آپ اس پر ہنسے اور فرمایا انسان بڑا جلد باز پیدا کیا گیا ہے ۔ میں نے اس کا ذکر ہی اس لیے کیا ہے کہ تم سے بیان کرنا چاہتا ہوں ۔ انس رضی اللہ عنہ نے مجھ سے اسی طرح حدیث بیان کی جس طرح تم سے بیان کی ( اور اس میں یہ لفظ اور بڑھائے ) آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ پھر میں چوتھی مرتبہ لوٹوں گا اور وہی تعریفیں کروں گا اور اللہ کے لیے سجدہ میں چلا جاؤں گا ۔ اللہ فرمائے گا اے محمد ! اپنا سر اٹھاؤ جو کہو گے سنا جائے گا جو مانگو کے دیا جائے گا ‘جو شفاعت کرو کے قبول کی جائے گی ۔ میں کہوں گا اے رب ! مجھے ان کے بارے میں بھی اجازت دیجئیے جنہوں نے لا الہٰ الا اللہ کہا ہے ۔ اللہ تعالیٰ فرمائے گا میری عزت ‘ میرے جلال ‘ میری کبریائی ‘ میری بڑائی کی قسم ! اس میں سے انہیں بھی نکالوں گا جنہوں نے کلمہ لا الہٰ الا اللہ کہا ہے ۔",
+                "urduNarrator": "ہم سے سلیمان بن حرب نے بیان کیا ‘ انہوں نے کہا ہم سے حماد بن زید نے بیان کیا ‘ ان سے معبد بن ہلال العنزی نے بیان کیا ‘ انہوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، حَدَّثَنَا مَعْبَدُ بْنُ هِلاَلٍ الْعَنَزِيُّ، قَالَ اجْتَمَعْنَا نَاسٌ مِنْ أَهْلِ الْبَصْرَةِ فَذَهَبْنَا إِلَى أَنَسِ بْنِ مَالِكٍ وَذَهَبْنَا مَعَنَا بِثَابِتٍ إِلَيْهِ يَسْأَلُهُ لَنَا عَنْ حَدِيثِ الشَّفَاعَةِ، فَإِذَا هُوَ فِي قَصْرِهِ فَوَافَقْنَاهُ يُصَلِّي الضُّحَى، فَاسْتَأْذَنَّا، فَأَذِنَ لَنَا وَهْوَ قَاعِدٌ عَلَى فِرَاشِهِ فَقُلْنَا لِثَابِتٍ لاَ تَسْأَلْهُ عَنْ شَىْءٍ أَوَّلَ مِنْ حَدِيثِ الشَّفَاعَةِ فَقَالَ يَا أَبَا حَمْزَةَ هَؤُلاَءِ إِخْوَانُكَ مِنْ أَهْلِ الْبَصْرَةِ جَاءُوكَ يَسْأَلُونَكَ عَنْ حَدِيثِ الشَّفَاعَةِ‏.‏ فَقَالَ حَدَّثَنَا مُحَمَّدٌ صلى الله عليه وسلم قَالَ ‏\"‏ إِذَا كَانَ يَوْمُ الْقِيَامَةِ مَاجَ النَّاسُ بَعْضُهُمْ فِي بَعْضٍ فَيَأْتُونَ آدَمَ فَيَقُولُونَ اشْفَعْ لَنَا إِلَى رَبِّكَ‏.‏ فَيَقُولُ لَسْتُ لَهَا وَلَكِنْ عَلَيْكُمْ بِإِبْرَاهِيمَ فَإِنَّهُ خَلِيلُ الرَّحْمَنِ‏.‏ فَيَأْتُونَ إِبْرَاهِيمَ فَيَقُولُ لَسْتُ لَهَا وَلَكِنْ عَلَيْكُمْ بِمُوسَى فَإِنَّهُ كَلِيمُ اللَّهِ‏.‏ فَيَأْتُونَ مُوسَى فَيَقُولُ لَسْتُ لَهَا وَلَكِنْ عَلَيْكُمْ بِعِيسَى فَإِنَّهُ رُوحُ اللَّهِ وَكَلِمَتُهُ‏.‏ فَيَأْتُونَ عِيسَى فَيَقُولُ لَسْتُ لَهَا وَلَكِنْ عَلَيْكُمْ بِمُحَمَّدٍ صلى الله عليه وسلم فَيَأْتُونِي فَأَقُولُ أَنَا لَهَا‏.‏ فَأَسْتَأْذِنُ عَلَى رَبِّي فَيُؤْذَنُ لِي وَيُلْهِمُنِي مَحَامِدَ أَحْمَدُهُ بِهَا لاَ تَحْضُرُنِي الآنَ، فَأَحْمَدُهُ بِتِلْكَ الْمَحَامِدِ وَأَخِرُّ لَهُ سَاجِدًا فَيُقَالُ يَا مُحَمَّدُ ارْفَعْ رَأْسَكَ، وَقُلْ يُسْمَعْ لَكَ، وَسَلْ تُعْطَ، وَاشْفَعْ تُشَفَّعْ‏.‏ فَأَقُولُ يَا رَبِّ أُمَّتِي أُمَّتِي‏.‏ فَيُقَالُ انْطَلِقْ فَأَخْرِجْ مَنْ كَانَ فِي قَلْبِهِ مِثْقَالُ شَعِيرَةٍ مِنْ إِيمَانٍ‏.‏ فَأَنْطَلِقُ فَأَفْعَلُ ثُمَّ أَعُودُ فَأَحْمَدُهُ بِتِلْكَ الْمَحَامِدِ، ثُمَّ أَخِرُّ لَهُ سَاجِدًا فَيُقَالُ يَا مُحَمَّدُ ارْفَعْ رَأْسَكَ، وَقُلْ يُسْمَعْ لَكَ، وَسَلْ تُعْطَ، وَاشْفَعْ تُشَفَّعْ، فَأَقُولُ يَا رَبِّ أُمَّتِي أُمَّتِي‏.‏ فَيُقَالُ انْطَلِقْ فَأَخْرِجْ مِنْهَا مَنْ كَانَ فِي قَلْبِهِ مِثْقَالُ ذَرَّةٍ أَوْ خَرْدَلَةٍ مِنْ إِيمَانٍ‏.‏ فَأَنْطَلِقُ فَأَفْعَلُ ثُمَّ أَعُودُ فَأَحْمَدُهُ بِتِلْكَ الْمَحَامِدِ، ثُمَّ أَخِرُّ لَهُ سَاجِدًا فَيُقَالُ يَا مُحَمَّدُ ارْفَعْ رَأْسَكَ، وَقُلْ يُسْمَعْ لَكَ، وَسَلْ تُعْطَ، وَاشْفَعْ تُشَفَّعْ‏.‏ فَأَقُولُ يَا رَبِّ أُمَّتِي أُمَّتِي‏.‏ فَيَقُولُ انْطَلِقْ فَأَخْرِجْ مَنْ كَانَ فِي قَلْبِهِ أَدْنَى أَدْنَى أَدْنَى مِثْقَالِ حَبَّةِ خَرْدَلٍ مِنْ إِيمَانٍ، فَأَخْرِجْهُ مِنَ النَّارِ‏.‏ فَأَنْطَلِقُ فَأَفْعَلُ ‏\"‏‏.‏ فَلَمَّا خَرَجْنَا مِنْ عِنْدِ أَنَسٍ قُلْتُ لِبَعْضِ أَصْحَابِنَا لَوْ مَرَرْنَا بِالْحَسَنِ وَهْوَ مُتَوَارٍ فِي مَنْزِلِ أَبِي خَلِيفَةَ فَحَدَّثَنَا بِمَا حَدَّثَنَا أَنَسُ بْنُ مَالِكٍ، فَأَتَيْنَاهُ فَسَلَّمْنَا عَلَيْهِ فَأَذِنَ لَنَا فَقُلْنَا لَهُ يَا أَبَا سَعِيدٍ جِئْنَاكَ مِنْ عِنْدِ أَخِيكَ أَنَسِ بْنِ مَالِكٍ فَلَمْ نَرَ مِثْلَ مَا حَدَّثَنَا فِي الشَّفَاعَةِ، فَقَالَ هِيهِ، فَحَدَّثْنَاهُ بِالْحَدِيثِ فَانْتَهَى إِلَى هَذَا الْمَوْضِعِ فَقَالَ هِيهِ، فَقُلْنَا لَمْ يَزِدْ لَنَا عَلَى هَذَا‏.‏ فَقَالَ لَقَدْ حَدَّثَنِي وَهْوَ جَمِيعٌ مُنْذُ عِشْرِينَ سَنَةً فَلاَ أَدْرِي أَنَسِيَ أَمْ كَرِهَ أَنْ تَتَّكِلُوا‏.‏ قُلْنَا يَا أَبَا سَعِيدٍ فَحَدِّثْنَا، فَضَحِكَ وَقَالَ خُلِقَ الإِنْسَانُ عَجُولاً مَا ذَكَرْتُهُ إِلاَّ وَأَنَا أُرِيدُ أَنْ أُحَدِّثَكُمْ حَدَّثَنِي كَمَا حَدَّثَكُمْ بِهِ قَالَ ‏\"‏ ثُمَّ أَعُودُ الرَّابِعَةَ فَأَحْمَدُهُ بِتِلْكَ، ثُمَّ أَخِرُّ لَهُ سَاجِدًا فَيُقَالُ يَا مُحَمَّدُ ارْفَعْ رَأْسَكَ وَقُلْ يُسْمَعْ، وَسَلْ تُعْطَهْ، وَاشْفَعْ تُشَفَّعْ‏.‏ فَأَقُولُ يَا رَبِّ ائْذَنْ لِي فِيمَنْ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ‏.‏ فَيَقُولُ وَعِزَّتِي وَجَلاَلِي وَكِبْرِيَائِي وَعَظَمَتِي لأُخْرِجَنَّ مِنْهَا مَنْ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7200,
+                "hadithNumber": "7511",
+                "englishNarrator": "Narrated `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"The person who will be the last one to enter Paradise and the last to come out of Hell (Fire) will be a man who will come out crawling, and his Lord will say to him, 'Enter Paradise.' He will reply, 'O Lord, Paradise is full.' Allah will give him the same order thrice, and each time the man will give Him the same reply, i.e., 'Paradise is full.' Thereupon Allah will say (to him), 'Ten times of the world is for you.' \"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا جنت میں سب سے بعد میں داخل ہونے ولا اور دوزخ سے سب سے بعد میں نکلنے والا وہ شخص ہو گا جو گھسٹ کر نکلے گا ۔ اس سے اس کا رب کہے گا جنت میں داخل ہو جا ۔ وہ کہے گا میرے رب ! جنت تو بالکل بھری ہوئی ہے ۔ پھر اللہ تعالیٰ فرمائے گا تیرے لیے دنیا کے دس گنا ہے ۔",
+                "urduNarrator": "ہم سے محمد بن خالد نے بیان کیا ‘ انہوں نے کہا ہم سے عبیداللہ بن موسیٰ نے بیان کیا ‘ ان سے اسرائیل نے ‘ ان سے منصور نے ‘ ان سے ابراہیم نے ‘ ان سے عبیدہ نے اور ان سے عبداللہ بن مسعود رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ خَالِدٍ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، عَنْ إِسْرَائِيلَ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ عَبِيدَةَ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِنَّ آخِرَ أَهْلِ الْجَنَّةِ دُخُولاً الْجَنَّةَ، وَآخِرَ أَهْلِ النَّارِ خُرُوجًا مِنَ النَّارِ رَجُلٌ يَخْرُجُ حَبْوًا فَيَقُولُ لَهُ رَبُّهُ ادْخُلِ الْجَنَّةَ‏.‏ فَيَقُولُ رَبِّ الْجَنَّةُ مَلأَى‏.‏ فَيَقُولُ لَهُ ذَلِكَ ثَلاَثَ مَرَّاتٍ فَكُلُّ ذَلِكَ يُعِيدُ عَلَيْهِ الْجَنَّةُ مَلأَى‏.‏ فَيَقُولُ إِنَّ لَكَ مِثْلَ الدُّنْيَا عَشْرَ مِرَارٍ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7201,
+                "hadithNumber": "7512",
+                "englishNarrator": "Narrated `Adi bin Hatim رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"There will be none among you but his Lord will talk to him, and there will be no interpreter between him and Allah. He will look to his right and see nothing but his deeds which he has sent forward, and will look to his left and see nothing but his deeds which he has sent forward, and will look in front of him and see nothing but the (Hell) Fire facing him. So save yourself from the (Hell) Fire even with half a date (given in charity).\" Al-A`mash said: `Amr bin Murra said, Khaithama narrated the same and added, '..even with a good word.' \"",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم نے فرمایا ‘ تم میں سے ہر شخص سے تمہارا رب اس طرح بات کرے گا کہ تمہارے اور اس کے درمیان کوئی ترجمان نہیں ہو گا وہ اپنے دائیں طرف دیکھے گا اور اسے اپنے اعمال کے سوا اور کچھ نظر نہیں آئے گا اور وہ اپنے بائیں طرف دیکھے گا اور اسے اپنے اعمال کے سوا کچھ نظر نہیں آئے گا ۔ پھر اپنے سامنے دیکھے گا تو اپنے سامنے جہنم کے سوا اور کوئی چیز نہ دیکھے گا ۔ پس جہنم سے بچو خواہ کھجور کے ایک ٹکڑے ہی کے ذریعہ ہو سکے ۔ اعمش نے بیان کے کہ مجھ سے عمرو بن مرہ نے بیان کیا ‘ ان سے خیشمہ نے اسی طرح اور اس میں یہ لفظ زیادہ کئے کہ ( جہنم سے بچو ) خواہ ایک اچھی بات ہی کے ذریعہ ہو ۔",
+                "urduNarrator": "ہم سے علی بن حجر نے بیان کیا ‘ کہا ہم کو عیسیٰ بن یونس نے خبر دی ‘ انہیں اعمش نے ‘ انہیں خیثمہ نے اور ان سے عدی بن حاتم رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، عَنِ الأَعْمَشِ، عَنْ خَيْثَمَةَ، عَنْ عَدِيِّ بْنِ حَاتِمٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَا مِنْكُمْ أَحَدٌ إِلاَّ سَيُكَلِّمُهُ رَبُّهُ، لَيْسَ بَيْنَهُ وَبَيْنَهُ تَرْجُمَانٌ، فَيَنْظُرُ أَيْمَنَ مِنْهُ فَلاَ يَرَى إِلاَّ مَا قَدَّمَ مِنْ عَمَلِهِ، وَيَنْظُرُ أَشْأَمَ مِنْهُ فَلاَ يَرَى إِلاَّ مَا قَدَّمَ، وَيَنْظُرُ بَيْنَ يَدَيْهِ فَلاَ يَرَى إِلاَّ النَّارَ تِلْقَاءَ وَجْهِهِ، فَاتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ ‏\"‏‏.‏ قَالَ الأَعْمَشُ وَحَدَّثَنِي عَمْرُو بْنُ مُرَّةَ عَنْ خَيْثَمَةَ مِثْلَهُ وَزَادَ فِيهِ ‏\"‏ وَلَوْ بِكَلِمَةٍ طَيِّبَةٍ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7202,
+                "hadithNumber": "7513",
+                "englishNarrator": "Narrated `Abdullah رضی اللہ عنہ :",
+                "hadithEnglish": "A priest from the Jews came (to the Prophet) and said, \"On the Day of Resurrection, Allah will place all the heavens on one finger, and the Earth on one finger, and the waters and the land on one finger, and all the creation on one finger, and then He will shake them and say. 'I am the King! I am the King!'\" I saw the Prophet (ﷺ) smiling till his premolar teeth became visible expressing his amazement and his belief in what he had said. Then the Prophet (ﷺ) recited: 'No just estimate have they made of Allah such as due to Him (up to)...; High is He above the partners they attribute to Him.' (39.67)",
+                "hadithUrdu": "یہودیوں کا ایک عالم خدمت نبوی میں حاضر ہوا اور کہا کہ جب قیامت قائم ہو گی تو اللہ تعالیٰ آسمانوں کو ایک انگلی پر ‘ زمین کو ایک انگلی پر ‘ پانی اور کیچڑ کو ایک انگلی پر ‘ اور تمام مخلوقات کو ایک انگلی پر اٹھا لے گا اور پھر اسے ہلائے گا اور کہے گا میں بادشاہ ہوں ‘ میں بادشاہ ہوں ۔ میں نے دیکھا کہ آنحضرت صلی اللہ علیہ وسلم ہنسنے لگے یہاں تک کہ آپ کے دندان مبارک کھل گئے‘اس بات کی تصدیق اور تعجب کرتے ہوئے ۔ پھر آنحضرت صلی اللہ علیہ وسلم نے یہ آیت پڑھی ۔ ” انہوں نے اللہ کی شان کے مطابق قدر نہیں کی “ ارشاد خدا وندی ” یشرکون “ تک ۔",
+                "urduNarrator": "ہم سے عثمان بن ابی شیبہ نے بیان کیا ‘ انہوں نے کہا ہم سے جریرنے بیان کیا ‘ ان سے منصور نے بیان کیا ‘ان سے ابراہیم نے بیان کیا ‘ ان سے عبیدہ نے اور ان سے عبداللہ بن مسعود رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ عَبِيدَةَ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ قَالَ جَاءَ حَبْرٌ مِنَ الْيَهُودِ فَقَالَ إِنَّهُ إِذَا كَانَ يَوْمَ الْقِيَامَةِ جَعَلَ اللَّهُ السَّمَوَاتِ عَلَى إِصْبَعٍ، وَالأَرَضِينَ عَلَى إِصْبَعٍ، وَالْمَاءَ وَالثَّرَى عَلَى إِصْبَعٍ، وَالْخَلاَئِقَ عَلَى إِصْبَعٍ، ثُمَّ يَهُزُّهُنَّ ثُمَّ يَقُولُ أَنَا الْمَلِكُ أَنَا الْمَلِكُ‏.‏ فَلَقَدْ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يَضْحَكُ حَتَّى بَدَتْ نَوَاجِذُهُ تَعَجُّبًا وَتَصْدِيقًا، لِقَوْلِهِ ثُمَّ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏{‏وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ‏}‏ إِلَى قَوْلِهِ ‏{‏يُشْرِكُونَ‏}‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7203,
+                "hadithNumber": "7514",
+                "englishNarrator": "Narrated Safwan bin Muhriz:",
+                "hadithEnglish": "A man asked Ibn `Umar رضی اللہ عنہما , \"What have you heard from Allah's Messenger (ﷺ) regarding An-Najwa?\" He said, \"Everyone of you will come close to His Lord Who will screen him from the people and say to him, 'Did you do so-and-so?' He will reply, 'Yes.' Then Allah will say, 'Did you do so-and-so?' He will reply, 'Yes.' So Allah will question him and make him confess, and then Allah will say, 'I screened your sins in the world and forgive them for you today.' \"",
+                "hadithUrdu": "ایک شخص نے ابن عمر رضی اللہ عنہما سے پوچھا سرگوشی کے بارے میں آپ نے رسول اللہ صلی اللہ علیہ وسلم سے کس طرح سنا ہے ۔ انہوں نے بیان کیا کہ تم میں سے کوئی اپنے رب کے قریب جائے گا یہاں تک کہ اللہ تعالیٰ اپنا پردہ اس پر ڈال دے گا اور کہے گا تو نے یہ یہ عمل کیا تھا ؟ بندہ کہے گا کہ ہاں ۔ چنانچہ وہ اس کااقرار کرے گا ۔ پھر اللہ تعالیٰ فرمائے گا کہ ہاں ۔ چنانچہ وہ اس کا اقرار کرے گا ۔ پھر اللہ تعالیٰ فرمائے گا کہ میں نے دنیا میں تیرے گناہ پر پردہ ڈالا تھا اور آج بھی تجھے معاف کرتا ہوں ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیا ‘ انہوں نے کہا ہم سے ابو عوانہ نے بیان کیا ‘ ان سے قتادہ نے بیان کیا ‘ ان سے صفوان بن محزر نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ قَتَادَةَ، عَنْ صَفْوَانَ بْنِ مُحْرِزٍ، أَنَّ رَجُلاً، سَأَلَ ابْنَ عُمَرَ كَيْفَ سَمِعْتَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ فِي النَّجْوَى قَالَ ‏ \"‏ يَدْنُو أَحَدُكُمْ مِنْ رَبِّهِ حَتَّى يَضَعَ كَنَفَهُ عَلَيْهِ فَيَقُولُ أَعَمِلْتَ كَذَا وَكَذَا فَيَقُولُ نَعَمْ‏.‏ وَيَقُولُ عَمِلْتَ كَذَا وَكَذَا فَيَقُولُ نَعَمْ‏.‏ فَيُقَرِّرُهُ، ثُمَّ يَقُولُ إِنِّي سَتَرْتُ عَلَيْكَ فِي الدُّنْيَا، وَأَنَا أَغْفِرُهَا لَكَ الْيَوْمَ ‏\"‏‏.‏ وَقَالَ آدَمُ حَدَّثَنَا شَيْبَانُ، حَدَّثَنَا قَتَادَةُ، حَدَّثَنَا صَفْوَانُ، عَنِ ابْنِ عُمَرَ، سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7204,
+                "hadithNumber": "7515",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Adam and Moses debated with each other and Moses said, 'You are Adam who turned out your offspring from Paradise.' Adam said, \"You are Moses whom Allah chose for His Message and for His direct talk, yet you blame me for a matter which had been ordained for me even before my creation?' Thus Adam overcame Moses.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا آدم اور موسیٰ علیہ السلام نے بحث کی ‘ موسیٰ علیہ السلام نے کہا کہ آپ آدم ہیں جنہوں نے اپنی نسل کو جنت سے نکالا ۔ آدم علیہ السلام نے کہا کہ آپ موسیٰ ہیں جنہیں اللہ نے اپنے پیغام اور کلام کے لیے منتخب کیا اور پھر بھی آپ مجھے ایک ایسی بات کے لیے ملامت کرتے ہیں جو اللہ نے میری پیدائش سے پہلے ہی میری تقدیر میں لکھ دی تھی ۔ چنانچہ آدم علیہ السلام موسیٰ علیہ السلام پر غالب آئے ۔",
+                "urduNarrator": "ہم سے یحییٰ بن بکیر نے بیان کیا ‘ کہا ہم سے لیث نے بیان کیا ‘ کہا ہم سے عقیل نے بیان کیا ‘ ان سے ابن شہاب نے ‘ کہا ہم سے حمید بن عبدالرحمٰن نے بیان کیا اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، حَدَّثَنَا عُقَيْلٌ، عَنِ ابْنِ شِهَابٍ، حَدَّثَنَا حُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ احْتَجَّ آدَمُ وَمُوسَى، فَقَالَ مُوسَى أَنْتَ آدَمُ الَّذِي أَخْرَجْتَ ذُرِّيَّتَكَ مِنَ الْجَنَّةِ‏.‏ قَالَ آدَمُ أَنْتَ مُوسَى الَّذِي اصْطَفَاكَ اللَّهُ بِرِسَالاَتِهِ وَكَلاَمِهِ، ثُمَّ تَلُومُنِي عَلَى أَمْرٍ قَدْ قُدِّرَ عَلَىَّ قَبْلَ أَنْ أُخْلَقَ‏.‏ فَحَجَّ آدَمُ مُوسَى ‏\"‏‏.‏",
+                "headingArabic": "قَوْلِهِ ‏{‏وَكَلَّمَ اللَّهُ مُوسَى تَكْلِيمًا‏}‏",
+                "headingUrdu": "’’اور موسیٰ (علیہ السلام) سے اللہ نے براہ راست بات کی۔‘‘",
+                "headingEnglish": "“…And to Musa (Moses) Allah spoke directly.”",
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7205,
+                "hadithNumber": "7516",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"The believers will be assembled on the Day of Resurrection and they will say, 'Let us look for someone to intercede for us with our Lord so that He may relieve us from this place of ours.' So they will go to Adam and say, 'You are Adam, the father of mankind, and Allah created you with His Own Hands and ordered the Angels to prostrate before you, and He taught you the names of all things; so please intercede for us with our Lord so that He may relieve us.' Adam will say, to them, 'I am not fit for that,' and then he will mention to them his mistake which he has committed.' \"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ایمان والے قیامت کے دن جمع کئے جائیں گے اور وہ کہیں گے کہ کاش کوئی ہماری شفاعت کرتا تاکہ ہم اپنی اس حالت سے نجات پاتے چنانچہ وہ آدم علیہ السلام کے پاس آئیں گے اور کہیں گے کہ آپ آدم ہیں انسانوں کے پردادا ۔ اللہ نے آپ کو اپنے ہاتھ سے پیدا کیا ‘ آپ کو سجدہ کرنے کا فرشتوں کو حکم دیا اور ہر چیز کے نام آپ کو سکھائے پس آپ اپنے رب کے حضور میں ہماری شفاعت کریں ۔ آپ جواب دیں گے کہ میں اس قابل نہیں ہوں اور آپ اپنی غلطی انہیں یاد دلائیں گے جو آپ سے سرزد ہوئی تھی ۔",
+                "urduNarrator": "ہم سے مسلم بن ابراہیم نے بیان کیا ‘ انہوں نے کہا ہم سے ہشام نے بیان کیا ‘ انہوں نے کہا ہم سے قتادہ نے بیان کیا ‘ ان سے انس رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هِشَامٌ، حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ يُجْمَعُ الْمُؤْمِنُونَ يَوْمَ الْقِيَامَةِ فَيَقُولُونَ لَوِ اسْتَشْفَعْنَا إِلَى رَبِّنَا، فَيُرِيحُنَا مِنْ مَكَانِنَا هَذَا‏.‏ فَيَأْتُونَ آدَمَ فَيَقُولُونَ لَهُ أَنْتَ آدَمُ أَبُو الْبَشَرِ خَلَقَكَ اللَّهُ بِيَدِهِ وَأَسْجَدَ لَكَ الْمَلاَئِكَةَ وَعَلَّمَكَ أَسْمَاءَ كُلِّ شَىْءٍ، فَاشْفَعْ لَنَا إِلَى رَبِّنَا حَتَّى يُرِيحَنَا‏.‏ فَيَقُولُ لَهُمْ لَسْتُ هُنَاكُمْ‏.‏ فَيَذْكُرُ لَهُمْ خَطِيئَتَهُ الَّتِي أَصَابَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "99",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 99,
+                    "chapterNumber": "99",
+                    "chapterEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+                    "chapterUrdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+                    "chapterArabic": "كتاب التوحيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 7176,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=287",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=285",
+                "label": "285",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=286",
+                "label": "286",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=287",
+                "label": "287",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=288",
+                "label": "288",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=289",
+                "label": "289",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=290",
+                "label": "290",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=291",
+                "label": "291",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=289",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=289",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=287",
+        "to": 7200,
+        "total": 40465
+    }
+}

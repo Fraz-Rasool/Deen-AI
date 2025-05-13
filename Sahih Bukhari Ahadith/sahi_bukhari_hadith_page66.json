@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 66,
+        "data": [
+            {
+                "id": 1627,
+                "hadithNumber": "1697",
+                "englishNarrator": "Narrated Hafsa رضی اللہ عنہا :",
+                "hadithEnglish": "I said, \"O Allah's Messenger (ﷺ)! What is wrong with the people, they have finished their Ihram but you have not?\" He said, \"I matted my hair and I have garlanded my Hadi, so I will not finish my Ihram till I finished my Hajj .\"",
+                "hadithUrdu": "یا رسول اللہ ! اور لوگ تو حلال ہو گئے لیکن آپ حلال نہیں ہوئے ، اس کی کیا وجہ ہے ؟ آپ صلی اللہ علیہ وسلم نے فرمایا کہ میں نے اپنے سر کے بالوں کو جما لیا ہے اور اپنی ہدی کو قلادہ پہناد یا ہے ، اس لیے جب تک حج سے بھی حلال نہ ہو جاؤں میں ( درمیان میں ) حلال نہیں ہو سکتا ، ( گوند لگا کر سر کے بالوں کا جما لینا اس کو تلبید کہتے ہیں ) ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیا ، کہا ہم سے یحییٰ نے بیان کیا ، ان سے عبیداللہ نے کہ مجھے نافع نے خبر دی انہیں ابن عمر رضی اللہ عنہما نے کہ حفصہ رضی اللہ عنہا نے بیان کیا ، کہا میں نے کہا :",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، قَالَ أَخْبَرَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، عَنْ حَفْصَةَ، رضى الله عنهم قَالَتْ قُلْتُ يَا رَسُولَ اللَّهِ مَا شَأْنُ النَّاسِ حَلُّوا وَلَمْ تَحْلِلْ أَنْتَ قَالَ ‏ \"‏ إِنِّي لَبَّدْتُ رَأْسِي، وَقَلَّدْتُ هَدْيِي، فَلاَ أَحِلُّ حَتَّى أَحِلَّ مِنَ الْحَجِّ ‏\"‏‏.‏",
+                "headingArabic": "فَتْلِ الْقَلاَئِدِ لِلْبُدْنِ وَالْبَقَرِ",
+                "headingUrdu": "بڈن کے لیے ہاروں کو مروڑنا (اور بنانا)",
+                "headingEnglish": "To twist (and make) the garlands for the Budn",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1628,
+                "hadithNumber": "1698",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) used to send the Hadi from Medina and I used to twist the garlands for his Hadi and he did not keep away from any of these things which a Muhrim keeps away from.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم مدینہ سے ہدی ساتھ لے کر چلتے تھے اور میں ان کے قلادے بٹا کرتی تھی پھر بھی آپ ( احرام باندھنے سے پہلے ) ان چیزوں سے پرہیز نہیں کرتے تھے جن سے ایک محرم پرہیز کرتا ہے ۔",
+                "urduNarrator": "ہم سے عبدا اللہ بن یوسف نے بیان کیا ، کہا ہم سے لیث نے بیان کیا ، کہا ہم سے ابن شہاب نے بیان کیا ، ان سے عروہ اور عمرہ بنت عبدالرحمٰن نے کہ عائشہ رضی اللہ عنہا نے بیان کیا :",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، حَدَّثَنَا اللَّيْثُ، حَدَّثَنَا ابْنُ شِهَابٍ، عَنْ عُرْوَةَ، وَعَنْ عَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ، أَنَّ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُهْدِي مِنَ الْمَدِينَةِ، فَأَفْتِلُ قَلاَئِدَ هَدْيِهِ، ثُمَّ لاَ يَجْتَنِبُ شَيْئًا مِمَّا يَجْتَنِبُهُ الْمُحْرِمُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1629,
+                "hadithNumber": "1699",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "I twisted the garlands for the Hadis of the Prophet (ﷺ) and then he marked and garlanded them (or I garlanded them) and then made them proceed to the Ka`ba but he remained in Medina and no permissible thing was regarded as illegal for him then .",
+                "hadithUrdu": "میں نے نبی کریم صلی اللہ علیہ وسلم کی ہدی کے قلادے خود بٹے تھے ، پھر آپ صلی اللہ علیہ وسلم نے انہیں اشعار کیا اور ہار پہنایا ، یا میں نے ہار پہنایا ، پھر آپ صلی اللہ علیہ وسلم نے بیت اللہ کے لیے انہیں بھیج دیا اور خود مدینہ میں ٹھہر گئے لیکن کوئی بھی ایسی چیز آپ صلی اللہ علیہ وسلم کے لیے حرام نہیں ہوئی جو آپ صلی اللہ علیہ وسلم کے لیے حلال تھی ۔",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ نے بیان کیا ، انہوں نے کہا ہم سے افلح بن حمید نے بیان کیا ، ان سے قاسم نے اور ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا أَفْلَحُ بْنُ حُمَيْدٍ، عَنِ الْقَاسِمِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ فَتَلْتُ قَلاَئِدَ هَدْىِ النَّبِيِّ صلى الله عليه وسلم ثُمَّ أَشْعَرَهَا وَقَلَّدَهَا ـ أَوْ قَلَّدْتُهَا ـ ثُمَّ بَعَثَ بِهَا إِلَى الْبَيْتِ، وَأَقَامَ بِالْمَدِينَةِ، فَمَا حَرُمَ عَلَيْهِ شَىْءٌ كَانَ لَهُ حِلٌّ‏.‏",
+                "headingArabic": "إِشْعَارِ الْبُدْنِ",
+                "headingUrdu": "بدن کا نشان (قربانی کے اونٹ)",
+                "headingEnglish": "The marking of the Budn (camels for sacrifice)",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1630,
+                "hadithNumber": "1700",
+                "englishNarrator": "Narrated \"Zaid bin Abu Sufyan wrote to `Aisha that `Abdullah bin `Abbas :",
+                "hadithEnglish": "'Whoever sends his Hadi (to the Ka`ba), all the things which are illegal for a (pilgrim) become illegal for that person till he slaughters it (i.e. till the 10th of Dhul-Hijja).' \" `Amra added, `Aisha رضی اللہ عنہا said, 'It is not like what Ibn `Abbas رضی اللہ عنہا  had said: I twisted the garlands of the Hadis of Allah's Messenger (ﷺ) with my own hands. Then Allah's Messenger (ﷺ) put them round their necks with his own hands, sending them with my father; Yet nothing permitted by Allah was considered illegal for Allah's Apostle till he slaughtered the Hadi.' \"",
+                "hadithUrdu": "جس نے ہدی بھیج دی اس پر وہ تمام چیزیں حرام ہو جاتی ہیں جو ایک حاجی پر حرام ہوتی ہیں تاآنکہ اس کی ہدی کی قربانی کر دی جائے ، عمرہ نے کہا کہ اس پر حضرت عائشہ رضی اللہ عنہا نے فرمایا عبداللہ بن عباس رضی اللہ عنہما نے جو کچھ کہا مسئلہ اس طرح نہیں ہے ، میں نے نبی کریم صلی اللہ علیہ وسلم کے قربانی کے جانوروں کے قلادے اپنے ہاتھوں سے خود بٹے ہیں ، پھر آنحضرت صلی اللہ علیہ وسلم نے اپنے ہاتھوں سے ان جانوروں کو قلادہ پہنایا اور میرے والد محترم ( ابوبکر رضی اللہ عنہ ) کے ساتھ انہیں بھیج دیا لیکن اس کے باوجود آپ صلی اللہ علیہ وسلم نے کسی بھی ایسی چیز کو اپنے اوپر حرام نہیں کیا جو اللہ نے آپ صلی اللہ علیہ وسلم کے لیے حلال کی تھی ، اور ہدی کی قربانی بھی کر دی گئی ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ، انہوں نے کہا کہ ہم کو امام مالک نے خبر دی ، انہیں عبداللہ بن ابی بکر بن عمرو بن حزم نے خبر دی ، انہیں عمرہ بنت عبدالرحمٰن نے خبر دی کہ زیاد بن ابی سفیان نے عائشہ رضی اللہ عنہا کو لکھا کہ عبداللہ بن عباس رضی اللہ عنہما نے فرمایا ہے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرِ بْنِ عَمْرِو بْنِ حَزْمٍ، عَنْ عَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ، أَنَّهَا أَخْبَرَتْهُ أَنَّ زِيَادَ بْنَ أَبِي سُفْيَانَ كَتَبَ إِلَى عَائِشَةَ ـ رضى الله عنها ـ إِنَّ عَبْدَ اللَّهِ بْنَ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ مَنْ أَهْدَى هَدْيًا حَرُمَ عَلَيْهِ مَا يَحْرُمُ عَلَى الْحَاجِّ حَتَّى يُنْحَرَ هَدْيُهُ‏.‏ قَالَتْ عَمْرَةُ فَقَالَتْ عَائِشَةُ ـ رضى الله عنها ـ لَيْسَ كَمَا قَالَ ابْنُ عَبَّاسٍ، أَنَا فَتَلْتُ قَلاَئِدَ هَدْىِ رَسُولِ اللَّهِ صلى الله عليه وسلم بِيَدَىَّ، ثُمَّ قَلَّدَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم بِيَدَيْهِ، ثُمَّ بَعَثَ بِهَا مَعَ أَبِي فَلَمْ يَحْرُمْ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم شَىْءٌ أَحَلَّهُ اللَّهُ حَتَّى نُحِرَ الْهَدْىُ‏.‏",
+                "headingArabic": "مَنْ قَلَّدَ الْقَلاَئِدَ بِيَدِهِ",
+                "headingUrdu": "ہادی کے گلے میں ہار",
+                "headingEnglish": "The garlands round the necks of the Hady",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1631,
+                "hadithNumber": "1701",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "Once the Prophet (ﷺ) sent sheep as Hadi.",
+                "hadithUrdu": "ایک مرتبہ رسول اللہ صلی اللہ علیہ وسلم نے قربانی کے لیے ( بیت اللہ ) بکریاں بھیجی تھیں ۔",
+                "urduNarrator": "ہم سے نعیم نے بیان کیا ، ان سے اعمش نے بیان کیا ، ان سے ابراہیم نے ، ان سے اسود نے اور ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا الأَعْمَشُ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ أَهْدَى النَّبِيُّ صلى الله عليه وسلم مَرَّةً غَنَمًا‏.‏",
+                "headingArabic": "تَقْلِيدِ الْغَنَمِ",
+                "headingUrdu": "بھیڑوں کا مالا چڑھانا",
+                "headingEnglish": "The garlanding of sheep",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1632,
+                "hadithNumber": "1702",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "I used to make the garlands for (the Hadis of) the Prophet (ﷺ) and he would garland the sheep (with them) and would stay with his family as a non-Muhrim.",
+                "hadithUrdu": "میں نبی کریم صلی اللہ علیہ وسلم کے قربانی کے جانوروں کے قلادہ خود بٹا کرتی تھی ، آنحضرت صلی اللہ علیہ وسلم نے بکری کو بھی قلادہ پہنایا تھا اور آپ صلی اللہ علیہ وسلم خود اپنے گھر اس حال میں مقیم تھے کہ آپ صلی اللہ علیہ وسلم حلال تھے ۔",
+                "urduNarrator": "ہم سے ابوالنعمان نے بیان کیا ، ان سے عبدالواحد نے بیان کیا ، ان سے اعمش نے بیان کیا ، ان سے ابراہیم نے ، ان سے اسود نے اور ان سے عائشہ رضی اللہ عنہا نے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا عَبْدُ الْوَاحِدِ، حَدَّثَنَا الأَعْمَشُ، حَدَّثَنَا إِبْرَاهِيمُ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ كُنْتُ أَفْتِلُ الْقَلاَئِدَ لِلنَّبِيِّ صلى الله عليه وسلم فَيُقَلِّدُ الْغَنَمَ، وَيُقِيمُ فِي أَهْلِهِ حَلاَلاً‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1633,
+                "hadithNumber": "1703",
+                "englishNarrator": "Narrated Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "I used to twist the garlands for the sheep of the Prophet (ﷺ) and he would send them (to the Ka`ba), and stay as a non-Muhrim.",
+                "hadithUrdu": "میں نبی کریم صلی اللہ علیہ وسلم کی بکریوں کے قلادے خود بٹا کرتی تھی ، آنحضرت صلی اللہ علیہ وسلم انہیں ( بیت اللہ کے لیے ) بھیج دیتے اور خود حلال ہی ہونے کی حالت میں اپنے گھر ٹھہر رہتے ۔",
+                "urduNarrator": "ہم سے ابوالنعمان نے بیان کیا ، ان سے حماد نے بیان کیا ، ان سے منصور بن معتمر نے ( دوسری سند ) اور ہم سے محمد بن کثیر نے بیان کیا ، انہیں سفیان نے خبر دی ، انہیں منصور نے ، انہیں ابراہیم نے ، انہیں اسود نے اور ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا حَمَّادٌ، حَدَّثَنَا مَنْصُورُ بْنُ الْمُعْتَمِرِ،‏.‏ وَحَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ كُنْتُ أَفْتِلُ قَلاَئِدَ الْغَنَمِ لِلنَّبِيِّ صلى الله عليه وسلم فَيَبْعَثُ بِهَا، ثُمَّ يَمْكُثُ حَلاَلاً‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1634,
+                "hadithNumber": "1704",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "I twisted (the garlands) for the Hadis of the Prophet (ﷺ) before he assumed Ihram.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم کی قربانی کے لیے خود قلادے بٹے ہیں ۔ ان کی مراد احرام سے پہلے کے قلادوں سے تھی ۔",
+                "urduNarrator": "ہم سے ابونعیم نے بیان کیا ، کہا کہ ہم سے زکریا نے بیان کیا ، ان سے عامر نے ، ان سے مسروق نے اور ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا زَكَرِيَّاءُ، عَنْ عَامِرٍ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ فَتَلْتُ لِهَدْىِ النَّبِيِّ صلى الله عليه وسلم ـ تَعْنِي الْقَلاَئِدَ ـ قَبْلَ أَنْ يُحْرِمَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1635,
+                "hadithNumber": "1705",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "I twisted the garlands of the Hadis from the wool which was with me.",
+                "hadithUrdu": "میرے پاس جو اون تھی ان کے ہار میں نے قربانی کے جانوروں کے لیے خود بٹے تھے ۔",
+                "urduNarrator": "ہم سے عمرو بن علی نے بیان کیا ، انہوں نے کہا کہ ہم سے معاذ بن معاذ نے بیان کیا ، ان سے ابن عون نے بیان کیا ، ان سے قاسم نے بیان کیا ، ان سے ام المؤمنین حضرت عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَمْرُو بْنُ عَلِيٍّ، حَدَّثَنَا مُعَاذُ بْنُ مُعَاذٍ، حَدَّثَنَا ابْنُ عَوْنٍ، عَنِ الْقَاسِمِ، عَنْ أُمِّ الْمُؤْمِنِينَ ـ رضى الله عنها ـ قَالَتْ فَتَلْتُ قَلاَئِدَهَا مِنْ عِهْنٍ كَانَ عِنْدِي‏.‏",
+                "headingArabic": "الْقَلاَئِدِ مِنَ الْعِهْنِ",
+                "headingUrdu": "رنگین اون سے تیار کردہ مالا۔",
+                "headingEnglish": "The garlands made from coloured wool",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1636,
+                "hadithNumber": "1706",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "\"The Prophet (ﷺ) saw a man driving a Badana (sacrificial camel). The Prophet (ﷺ) said (to him), 'Ride on it.' He replied, 'It is a Badana.' The Prophet (ﷺ) again said, 'Ride on it!' Abu Huraira رضی اللہ عنہ added, 'Then I saw that man riding it, showing obedience to the Prophet (ﷺ), and a shoe was (hanging) from its neck.' \r\n\" Narrated Abu Huraira رضی اللہ عنہ : \r\n  From the Prophet: (as above).",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے ایک آدمی کو دیکھا کہ وہ قربانی کا اونٹ لیے جا رہا ہے آپ صلی اللہ علیہ وسلم نے فرمایا کہ اس پر سوار ہو جا ، اس نے کہا کہ یہ تو قربانی کا ہے تو آپ صلی اللہ علیہ وسلم نے پھر فرمایا کہ سوار ہو جا ۔ ابوہریرہ رضی اللہ عنہ نے کہا کہ پھر میں نے دیکھا کہ وہ اس پر سوار ہے اور نبی کریم صلی اللہ علیہ وسلم کے ساتھ چل رہا ہے اور جوتے ( کا ہار ) اس اونٹ کے گردن میں ہے ۔ اس روایت کی متابعت محمد بن بشار نے کی ہے ۔ ہم سے عثمان بن عمر نے بیان کیا ، ہم کو علی بن مبارک نے خبر دی ، انہیں یحییٰ نے انہیں عکرمہ نے اور انہیں ابوہریرہ رضی اللہ عنہ نے نبی کریم صلی اللہ علیہ وسلم سے ( مثل سابق حدیث کے ) ۔",
+                "urduNarrator": "ہم سے محمد نے بیان کیا ، کہا ہم کو عبدالاعلیٰ نے خبر دی ، انہیں معمر نے ، انہیں یحییٰ بن ابی کثیر نے ، انہیں عکرمہ نے ، انہیں ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدٌ، أَخْبَرَنَا عَبْدُ الأَعْلَى بْنُ عَبْدِ الأَعْلَى، عَنْ مَعْمَرٍ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ عِكْرِمَةَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم رَأَى رَجُلاً يَسُوقُ بَدَنَةً، قَالَ ‏\"‏ ارْكَبْهَا ‏\"‏‏.‏ قَالَ إِنَّهَا بَدَنَةٌ‏.‏ قَالَ ‏\"‏ ارْكَبْهَا ‏\"‏‏.‏ قَالَ فَلَقَدْ رَأَيْتُهُ رَاكِبَهَا يُسَايِرُ النَّبِيَّ صلى الله عليه وسلم وَالنَّعْلُ فِي عُنُقِهَا‏.‏ تَابَعَهُ مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ، أَخْبَرَنَا عَلِيُّ بْنُ الْمُبَارَكِ، عَنْ يَحْيَى، عَنْ عِكْرِمَةَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+                "headingArabic": "تَقْلِيدِ النَّعْلِ",
+                "headingUrdu": "(ہادی کو) جوتے سے مالا دینا",
+                "headingEnglish": "Garlanding (the Hadi) with a shoe",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1637,
+                "hadithNumber": "1707",
+                "englishNarrator": "Narrated `Ali رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) ordered me to give in charity the skin and the coverings of the Budn which I had slaughtered.",
+                "hadithUrdu": "مجھے رسول اللہ صلی اللہ علیہ وسلم نے ان قربانی کے جانوروں کے جھول اور ان کے چمڑے کو صدقہ کرنے کا حکم دیا تھا جن کی قربانی میں نے کر دی تھی ۔",
+                "urduNarrator": "ہم سے قبیصہ نے بیان کیا ، انہوں نے کہا کہ ہم سے سفیان نے بیان کیا ، ان سے ابن ابی نجیح نے ، ان سے مجاہد نے ، ان سے عبدالرحمٰن بن ابی لیلیٰ نے اور ان سے حضرت علی رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا قَبِيصَةُ، حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ أَبِي نَجِيحٍ، عَنْ مُجَاهِدٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ عَلِيٍّ ـ رضى الله عنه ـ قَالَ أَمَرَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ أَتَصَدَّقَ بِجِلاَلِ الْبُدْنِ الَّتِي نَحَرْتُ وَبِجُلُودِهَا‏.‏",
+                "headingArabic": "الْجِلاَلِ لِلْبُدْنِ",
+                "headingUrdu": "بڈن کا غلاف (چادر)",
+                "headingEnglish": "The covering (sheet) of the Budn",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1638,
+                "hadithNumber": "1708",
+                "englishNarrator": "Narrated Nafi`:",
+                "hadithEnglish": "Ibn `Umar رضی اللہ عنہما intended to perform Hajj in the year of the Hajj of Al-Harawriya during the rule of Ibn Az- Zubair رضی اللہ عنہما . Some people said to him, \"It is very likely that there will be a fight among the people, and we are afraid that they might prevent you (from performing Hajj).\" He replied, \"Verily, in Allah's Messenger (ﷺ) there is a good example for you (to follow). In this case I would do the same as he had done. I make you witness that I have intended to perform `Umra.\" When he reached Al-Baida', he said, \"The conditions for both Hajj and `Umra are the same. I make you witness that I have intended to perform Hajj along with `Umra.\" After that he took a garlanded Hadi (to Mecca) which he bought (on the way). When he reached (Mecca), he performed Tawaf of the Ka`ba and of Safa (and Marwa) and did not do more than that. He did not make legal for himself the things which were illegal for a Muhrim till it was the Day of Nahr (sacrifice), when he had his head shaved and slaughtered (the sacrifice) and considered sufficient his first Tawaf (between Safa and Marwa), as a (Sa`i) for his Hajj and `Umra both. He then said, \"The Prophet (ﷺ) used to do like that.\"",
+                "hadithUrdu": "ابن عمر رضی اللہ عنہما نے ابن زبیر رضی اللہ عنہما کے عہد خلافت میں حجۃ الحروریہ کے سال حج کا ارادہ کیا تو ان سے کہا گیا کہ لوگوں میں باہم قتل و خون ہونے والا ہے اور ہم کو خطرہ اس کا ہے کہ آپ کو ( مفسد لوگ حج سے ) روک دیں ، آپ نے جواب میں یہ آیت سنائی کہ ” تمہارے لیے رسول اللہ صلی اللہ علیہ وسلم کی زندگی بہترین نمونہ ہے ۔ “ اس وقت میں بھی وہی کام کروں گا جو آنحضرت صلی اللہ علیہ وسلم نے کیا تھا ۔ میں تمہیں گواہ بناتا ہوں کہ میں نے اپنے اوپر عمرہ واجب کر لیا ہے ، پھر جب آپ بیداء کے بالائی حصہ تک پہنچے تو فرمایا کہ حج اور عمرہ تو ایک ہی ہے میں تمہیں گواہ بناتا ہوں کہ عمرہ کے ساتھ میں نے حج کو بھی جمع کر لیا ہے ، پھر آپ نے ایک ہدی بھی ساتھ لے لی جسے ہار پہنایا گیا تھا ۔ آپ نے اسے خرید لیا یہاں تک کہ آپ مکہ آئے تو بیت اللہ کا طواف اور صفا و مروہ کی سعی کی ، اس سے زیادہ اور کچھ نہیں کیا جو چیزیں ( احرام کی وجہ سے ان پر ) حرام تھیں ان میں سے کسی سے قربانی کے دن تک وہ حلال نہیں ہوئے ، پھر سر منڈوایا اور قربانی کی وجہ یہ سمجھتے تھے کہ اپنا پہلا طواف کر کے انہوں نے حج اور عمرہ دونوں کا طواف پورا کر لیا ہے پھر آپ نے کہا کہ نبی کریم صلی اللہ علیہ وسلم نے بھی اسی طرح کیا تھا ۔",
+                "urduNarrator": "ہم سے ابراہیم بن المنذر نے بیان کیا ، کہا کہ ہم سے ابوضمرہ نے بیان کیا ، ان سے موسیٰ بن عقبہ نے بیان کیا ، ان سے نافع نے کہ",
+                "hadithArabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ، حَدَّثَنَا أَبُو ضَمْرَةَ، حَدَّثَنَا مُوسَى بْنُ عُقْبَةَ، عَنْ نَافِعٍ، قَالَ أَرَادَ ابْنُ عُمَرَ ـ رضى الله عنهما ـ الْحَجَّ عَامَ حَجَّةِ الْحَرُورِيَّةِ فِي عَهْدِ ابْنِ الزُّبَيْرِ ـ رضى الله عنهما ـ فَقِيلَ لَهُ إِنَّ النَّاسَ كَائِنٌ بَيْنَهُمْ قِتَالٌ، وَنَخَافُ أَنْ يَصُدُّوكَ‏.‏ فَقَالَ ‏{‏لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ‏}‏ إِذًا أَصْنَعَ كَمَا صَنَعَ، أُشْهِدُكُمْ أَنِّي أَوْجَبْتُ عُمْرَةً‏.‏ حَتَّى كَانَ بِظَاهِرِ الْبَيْدَاءِ قَالَ مَا شَأْنُ الْحَجِّ وَالْعُمْرَةِ إِلاَّ وَاحِدٌ، أُشْهِدُكُمْ أَنِّي جَمَعْتُ حَجَّةً مَعَ عُمْرَةٍ‏.‏ وَأَهْدَى هَدْيًا مُقَلَّدًا اشْتَرَاهُ حَتَّى قَدِمَ، فَطَافَ بِالْبَيْتِ وَبِالصَّفَا، وَلَمْ يَزِدْ عَلَى ذَلِكَ، وَلَمْ يَحْلِلْ مِنْ شَىْءٍ حَرُمَ مِنْهُ حَتَّى يَوْمِ النَّحْرِ، فَحَلَقَ وَنَحَرَ وَرَأَى أَنْ قَدْ قَضَى طَوَافَهُ الْحَجَّ وَالْعُمْرَةَ بِطَوَافِهِ الأَوَّلِ، ثُمَّ قَالَ كَذَلِكَ صَنَعَ النَّبِيُّ صلى الله عليه وسلم‏.‏",
+                "headingArabic": "مَنِ اشْتَرَى هَدْيَهُ مِنَ الطَّرِيقِ وَقَلَّدَهَا",
+                "headingUrdu": "راستے میں ہادی کی خریداری اور اسے ہار پہنانا",
+                "headingEnglish": "The purchase of Hadi on the way and garlanding it",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1639,
+                "hadithNumber": "1709",
+                "englishNarrator": "Narrated `Amra bint `Abdur-Rahman:",
+                "hadithEnglish": "I heard `Aisha رضی اللہ عنہا saying, \"Five days before the end of Dhul-Qa'da we set out from Medina in the company of Allah's Messenger (ﷺ) with the intention of performing Hajj only. When we approached Mecca, Allah's Messenger (ﷺ) ordered those who had no Hadi with them to finish their lhram after performing Tawaf of the Ka`ba and (Sa`i) and between Safa and Marwa.\" `Aisha رضی اللہ عنہا added, \"On the day of Nahr (slaughtering of sacrifice) beef was brought to us. I asked, 'What is this?' The reply was, 'Allah's Apostle (ﷺ) has slaughtered (sacrifices) on behalf of his wives.' \" Yahya reports: When I narrated it to Qasim, he said: He has rightly narrated this Hadith.",
+                "hadithUrdu": "میں نے عائشہ رضی اللہ عنہا سے سنا ، انہوں نے بتلایا کہ ہم رسول کریم صلی اللہ علیہ وسلم کے ساتھ ( حج کے لیے ) نکلے تو ذی قعدہ میں سے پانچ دن باقی رہے تھے ہم صرف حج کا ارادہ لے کر نکلے تھے ، جب ہم مکہ کے قریب پہنچے تو رسول کریم صلی اللہ علیہ وسلم نے حکم دیا کہ جن لوگوں کے ساتھ قربانی نہ ہو وہ جب طواف کر لیں اور صفا و مروہ کی سعی بھی کر لیں تو حلال ہو جائیں گے ، حضرت عائشہ رضی اللہ عنہا نے کہا کہ قربانی کے دن ہمارے گھر گائے کا گوشت لایا گیا تو میں نے کہا کہ یہ کیا ہے ؟ ( لانے والے نے بتلایا ) کہ رسول کریم صلی اللہ علیہ وسلم نے اپنی بیویوں کی طرف سے یہ قربانی کی ہے ، یحییٰ نے کہا کہ میں نے عمرہ کی یہ حدیث قاسم سے بیان کی انہوں نے کہا عمرہ نے یہ حدیث ٹھیک ٹھیک بیان کیا ہے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ، کہا ہم کو امام مالک رحمہ اللہ نے خبر دی ، انہیں یحییٰ بن سعید نے ، ان سے عمرہ بنت عبدالرحمٰن نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ، قَالَتْ سَمِعْتُ عَائِشَةَ ـ رضى الله عنها ـ تَقُولُ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم لِخَمْسٍ بَقِينَ مِنْ ذِي الْقَعْدَةِ، لاَ نُرَى إِلاَّ الْحَجَّ، فَلَمَّا دَنَوْنَا مِنْ مَكَّةَ أَمَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَنْ لَمْ يَكُنْ مَعَهُ هَدْىٌ، إِذَا طَافَ وَسَعَى بَيْنَ الصَّفَا وَالْمَرْوَةِ أَنْ يَحِلَّ، قَالَتْ فَدُخِلَ عَلَيْنَا يَوْمَ النَّحْرِ بِلَحْمِ بَقَرٍ‏.‏ فَقُلْتُ مَا هَذَا قَالَ نَحَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ أَزْوَاجِهِ‏.‏ قَالَ يَحْيَى فَذَكَرْتُهُ لِلْقَاسِمِ، فَقَالَ أَتَتْكَ بِالْحَدِيثِ عَلَى وَجْهِهِ‏.‏",
+                "headingArabic": "ذَبْحِ الرَّجُلِ الْبَقَرَ عَنْ نِسَائِهِ، مِنْ غَيْرِ أَمْرِهِنَّ",
+                "headingUrdu": "بیویوں کی طرف سے ذبح کرنا",
+                "headingEnglish": "To slaughter on behalf of oneâ€™s wives",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1640,
+                "hadithNumber": "1710",
+                "englishNarrator": "Narrated Nafi`:",
+                "hadithEnglish": "`Abdullah (bin `Umar رضی اللہ عنہ), used to slaughter (his sacrifice) at the Manhar. ('Ubaidullah, a sub-narrator said, \"The Manhar of Allah's Messenger (ﷺ).\")",
+                "hadithUrdu": "عبداللہ بن عمر رضی اللہ عنہ نحر کرنے کی جگہ نحر کرتے تھے ، عبیداللہ بن بتایا کہ مراد نبی کریم صلی اللہ علیہ وسلم کے نحر کرنے کی جگہ سے تھی ۔",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم بن راہویہ نے بیان کیا ، انہوں نے خالد بن حارث سے سنا ، کہا ہم سے عبیداللہ بن عمر نے بیان کیا ، ان سے نافع نے کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، سَمِعَ خَالِدَ بْنَ الْحَارِثِ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ ـ رضى الله عنه ـ كَانَ يَنْحَرُ فِي الْمَنْحَرِ‏.‏ قَالَ عُبَيْدُ اللَّهِ مَنْحَرِ رَسُولِ اللَّهِ صلى الله عليه وسلم‏.‏",
+                "headingArabic": "النَّحْرِ فِي مَنْحَرِ النَّبِيِّ صلى الله عليه وسلم بِمِنًى",
+                "headingUrdu": "منیٰ میں منہر پر ذبح کرنا",
+                "headingEnglish": "To slaughter at the Manhar at Mina",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1641,
+                "hadithNumber": "1711",
+                "englishNarrator": "Narrated Nafi`:",
+                "hadithEnglish": "Ibn `Umar رضی اللہ عنہما used to send his Hadi from Jam' (to Mina) in the last third of the night with the pilgrims amongst whom there were free men and slaves, till it was taken into the Manhar (slaughtering place) of the Prophet (ﷺ) .",
+                "hadithUrdu": "ابن عمر رضی اللہ عنہما اپنی قربانی کے جانوروں کو مزدلفہ سے آخر رات میں منیٰ بھجوا دیتے ، یہ قربانیاں جن میں حاجی لوگ نیز غلام اور آزاد دونوں طرح کے لوگ ہوتے ، اس مقام میں لے جاتے جہاں آنحضرت صلی اللہ علیہ وسلم نحر کیا کرتے تھے ۔",
+                "urduNarrator": "ہم سے ابراہیم بن المنذر نے بیان کیا ، کہا ہم سے انس بن عیاض نے بیان کیا ، کہا ہم سے موسیٰ بن عقبہ نے بیان کیا ، ان سے نافع نے کہ",
+                "hadithArabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ، حَدَّثَنَا أَنَسُ بْنُ عِيَاضٍ، حَدَّثَنَا مُوسَى بْنُ عُقْبَةَ، عَنْ نَافِعٍ، أَنَّ ابْنَ عُمَرَ ـ رضى الله عنهما ـ كَانَ يَبْعَثُ بِهَدْيِهِ مِنْ جَمْعٍ مِنْ آخِرِ اللَّيْلِ، حَتَّى يُدْخَلَ بِهِ مَنْحَرُ النَّبِيِّ صلى الله عليه وسلم مَعَ حُجَّاجٍ فِيهِمُ الْحُرُّ وَالْمَمْلُوكُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1642,
+                "hadithNumber": "1712",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "\"The Prophet (ﷺ) slaughtered seven Budn (camels) while standing, with his own hands. On the day of `Id-ul-Adha he slaughtered (sacrificed) two horned rams, black and white in color.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے سات اونٹ کھڑے کر کے اپنے ہاتھ سے نحر کئے اور مدینہ میں دو چتکبرے سینگ دار مینڈھوں کی قربانی کی ۔",
+                "urduNarrator": "ہم سے سہل بن بکار نے بیان کیا ، انہوں نے کہا کہ ہم سے وہیب نے بیان کیا ، ان سے ایوب نے ، ان سے ابوقلابہ نے ، ان سے انس بن مالک رضی اللہ عنہ نے اور انہوں نے مختصر حدیث بیان کی اور یہ بھی بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا سَهْلُ بْنُ بَكَّارٍ، حَدَّثَنَا وُهَيْبٌ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسٍ ـ وَذَكَرَ الْحَدِيثَ ـ قَالَ وَنَحَرَ النَّبِيُّ صلى الله عليه وسلم بِيَدِهِ سَبْعَ بُدْنٍ قِيَامًا، وَضَحَّى بِالْمَدِينَةِ كَبْشَيْنِ أَمْلَحَيْنِ أَقْرَنَيْنِ‏.‏ مُخْتَصَرًا‏.‏",
+                "headingArabic": "مَنْ نَحَرَ بِيَدِهِ",
+                "headingUrdu": "نحر (ذبح کرنا) اپنے ہاتھوں سے",
+                "headingEnglish": "Nahr (Slaughtering) with oneâ€™s own hands",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1643,
+                "hadithNumber": "1713",
+                "englishNarrator": "Narrated Ziyad bin Jubair:",
+                "hadithEnglish": "I saw Ibn `Umar رضی اللہ عنہما passing by a man who had made his Badana sit to slaughter it. Ibn `Umar رضی اللہ عنہ said, \"Slaughter it while it is standing with one leg tied up as is the tradition of Muhammad.\" Shoba, Younus have reported it from Ziyad.",
+                "hadithUrdu": "میں نے دیکھا کہ عبداللہ بن عمر رضی اللہ عنہما ایک شخص کے پاس آئے جو اپنا اونٹ بٹھا کر نحر کر رہا تھا ، عبداللہ رضی اللہ عنہ نے فرمایا کہ اسے کھڑا کر اور باندھ دے ، پھر نحر کر کہ یہی رسول اللہ صلی اللہ علیہ وسلم کی سنت ہے ۔ شعبہ نے یونس سے بیان کیا کہ مجھے زیادہ نے خبر دی ۔",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ قعنبی نے بیان کیا ، انہوں نے کہا ہم سے یزید بن زریع نے بیان کیا ، ان سے یونس نے ، ان سے زیاد بن جبیر نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، عَنْ يُونُسَ، عَنِ زِيَادِ بْنِ جُبَيْرٍ، قَالَ رَأَيْتُ ابْنَ عُمَرَ ـ رضى الله عنهما ـ أَتَى عَلَى رَجُلٍ، قَدْ أَنَاخَ بَدَنَتَهُ يَنْحَرُهَا، قَالَ ابْعَثْهَا قِيَامًا مُقَيَّدَةً، سُنَّةَ مُحَمَّدٍ صلى الله عليه وسلم‏.‏ وَقَالَ شُعْبَةُ عَنْ يُونُسَ أَخْبَرَنِي زِيَادٌ‏.‏",
+                "headingArabic": "نَحْرِ الإِبِلِ مُقَيَّدَةً",
+                "headingUrdu": "اونٹوں کو ایک ٹانگ باندھنے کے بعد ذبح کرنا",
+                "headingEnglish": "Slaughtering the camels after tying their one leg",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1644,
+                "hadithNumber": "1714",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) offered four rak`at of Zuhr prayer at Medina; and two rak`at of `Asr prayer at Dhil- Hulaifa and spent the night there and when (the day) dawned, he mounted his Mount and started saying, \"None has the right to be worshipped but Allah, and Glorified be Allah.\" When he reached Al- Baida' he recited Talbiya for both Hajj and `Umra. And when he arrived at Mecca, he ordered them (his companions) to finish their Ihram. The Prophet (ﷺ) slaughtered seven Budn (camel) with his own hands while the camels were standing He also sacrificed two horned rams (black and white in color) at Medina.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے ظہر کی نماز مدینہ میں چار رکعت پڑھی اور عصر کی ذو الحلیفہ میں دو رکعات ۔ رات آپ صلی اللہ علیہ وسلم نے وہیں گزاری ، پھر جب صبح ہوئی تو آپ صلی اللہ علیہ وسلم اپنی اونٹنی پر سوار ہو کر تہلیل و تسبیح کرنے لگے ۔ جب بیداء پہنچے تو آپ صلی اللہ علیہ وسلم نے دونوں ( حج و عمرہ ) کے لیے ایک ساتھ تلبیہ کہا ، جب مکہ پہنچے ( اور عمرہ ادا کر لیا ) تو صحابہ رضی اللہ عنہم کو حکم دیا کہ حلال ہو جائیں ۔ آنحضور صلی اللہ علیہ وسلم نے خود اپنے ہاتھ سے سات اونٹ کھڑے کر کے نحر کئے اور مدینہ میں دو چتکبرے سینگوں والے مینڈھے ذبح کئے ۔",
+                "urduNarrator": "ہم سے سہل بن بکار نے بیان کیا ، کہا کہ ہم سے وہیب نے بیان کیا ، ان سے ایوب نے ، ان سے ابوقلابہ نے اور ان سے انس رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا سَهْلُ بْنُ بَكَّارٍ، حَدَّثَنَا وُهَيْبٌ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ صَلَّى النَّبِيُّ صلى الله عليه وسلم الظُّهْرَ بِالْمَدِينَةِ أَرْبَعًا، وَالْعَصْرَ بِذِي الْحُلَيْفَةِ رَكْعَتَيْنِ، فَبَاتَ بِهَا، فَلَمَّا أَصْبَحَ رَكِبَ رَاحِلَتَهُ، فَجَعَلَ يُهَلِّلُ وَيُسَبِّحُ، فَلَمَّا عَلاَ عَلَى الْبَيْدَاءِ لَبَّى بِهِمَا جَمِيعًا، فَلَمَّا دَخَلَ مَكَّةَ أَمَرَهُمْ أَنْ يَحِلُّوا‏.‏ وَنَحَرَ النَّبِيُّ صلى الله عليه وسلم بِيَدِهِ سَبْعَ بُدْنٍ قِيَامًا، وَضَحَّى بِالْمَدِينَةِ كَبْشَيْنِ أَمْلَحَيْنِ أَقْرَنَيْنِ‏.‏",
+                "headingArabic": "نَحْرِ الْبُدْنِ قَائِمَةً",
+                "headingUrdu": "اونٹوں کو کھڑے ہوتے ہوئے ذبح کرنا",
+                "headingEnglish": "To slaughter the camels while they are standing",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1645,
+                "hadithNumber": "1715",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) offered four rak`at of Zuhr prayer at Medina and two rak`at of `Asr prayer at Dhul-Hulaifa. Narrated Aiyub: \"A man said: Anas said, \"Then he (the Prophet (ﷺ) passed the night there till dawn and then he offered the morning (Fajr) prayer, and mounted his Mount and when it arrived at Al-Baida' he assumed Ihram for both `Umra and Hajj.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے ظہر کی نماز مدینہ میں چار رکعت اور عصر کی ذو الحلیفہ میں دو رکعات پڑھی تھیں ۔ ایوب نے ایک شخص کے واسطہ سے بروایت انس رضی اللہ عنہ کہا پھر آپ صلی اللہ علیہ وسلم نے وہیں رات گزاری ۔ صبح ہوئی تو فجر کی نماز پڑھی اور اپنی اونٹنی پر سوار ہو گئے ، پھر جب مقام بیداء پہنچے تو عمرہ اور حج دونوں کا نام لے کر لبیک پکارا ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیا ، انہوں نے کہا ہم سے اسماعیل بن علیہ نے بیان کیا ، ان سے ایوب نے ، ان سے ابوقلابہ نے اور ان سے انس بن مالک رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا إِسْمَاعِيلُ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ صَلَّى النَّبِيُّ صلى الله عليه وسلم الظُّهْرَ بِالْمَدِينَةِ أَرْبَعًا، وَالْعَصْرَ بِذِي الْحُلَيْفَةِ رَكْعَتَيْنِ‏.‏ وَعَنْ أَيُّوبَ عَنْ رَجُلٍ عَنْ أَنَسٍ ـ رضى الله عنه ـ ثُمَّ بَاتَ حَتَّى أَصْبَحَ، فَصَلَّى الصُّبْحَ، ثُمَّ رَكِبَ رَاحِلَتَهُ حَتَّى إِذَا اسْتَوَتْ بِهِ الْبَيْدَاءَ أَهَلَّ بِعُمْرَةٍ وَحَجَّةٍ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1646,
+                "hadithNumber": "1716",
+                "englishNarrator": "Narrated `Ali رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) sent me to supervise the (slaughtering of) Budn (Hadi camels) and ordered me to distribute their meat, and then he ordered me to distribute their covering sheets and skins. 'All added, \"The Prophet (ﷺ) ordered me to supervise the slaughtering (of the Budn) and not to give anything (of their bodies) to the butcher as wages for slaughtering.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے مجھے ( قربانی کے اونٹوں کی دیکھ بھال کے لیے ) بھیجا ۔ اس لیے میں نے ان کی دیکھ بھال کی ، پھر آپ صلی اللہ علیہ وسلم نے مجھے حکم دیا تو میں نے ان کے گوشت تقسیم کئے ، پھر آپ صلی اللہ علیہ وسلم نے مجھے حکم دیا تو میں نے ان کے جھول اور چمڑے بھی تقسیم کر دئیے ۔ سفیان نے کہا کہ مجھ سے عبدالکریم نے بیان کیا ، ان سے مجاہد نے ، ان سے عبدالرحمٰن بن ابی لیلیٰ نے اور ان سے علی رضی اللہ عنہ نے بیان کیا کہ مجھے نبی کریم صلی اللہ علیہ وسلم نے حکم دیا تھا کہ میں قربانی کے اونٹوں کی دیکھ بھال کروں اور ان میں سے کوئی چیز قصائی کی مزدوری میں نہ دوں ۔",
+                "urduNarrator": "ہم سے محمد بن کثیر نے بیان کیا ، کہا ہم کو سفیان ثوری نے خبر دی ، کہا مجھ کو ابن ابی نجیح نے خبر دی ، انہیں مجاہد نے ، انہیں عبدالرحمٰن بن ابی لیلیٰ نے اور ان سے حضرت علی رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، قَالَ أَخْبَرَنِي ابْنُ أَبِي نَجِيحٍ، عَنْ مُجَاهِدٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ عَلِيٍّ ـ رضى الله عنه ـ قَالَ بَعَثَنِي النَّبِيُّ صلى الله عليه وسلم فَقُمْتُ عَلَى الْبُدْنِ، فَأَمَرَنِي فَقَسَمْتُ لُحُومَهَا، ثُمَّ أَمَرَنِي فَقَسَمْتُ جِلاَلَهَا وَجُلُودَهَا‏.‏ قَالَ سُفْيَانُ وَحَدَّثَنِي عَبْدُ الْكَرِيمِ، عَنْ مُجَاهِدٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ عَلِيٍّ ـ رضى الله عنه ـ قَالَ أَمَرَنِي النَّبِيُّ صلى الله عليه وسلم أَنْ أَقُومَ عَلَى الْبُدْنِ، وَلاَ أُعْطِيَ عَلَيْهَا شَيْئًا فِي جِزَارَتِهَا‏.‏",
+                "headingArabic": "لاَ يُعْطَى الْجَزَّارُ مِنَ الْهَدْىِ شَيْئًا",
+                "headingUrdu": "قصائی کو ہادی کا کچھ نہ دیا جائے۔",
+                "headingEnglish": "The butcher should not be given anything of the Hadi",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1647,
+                "hadithNumber": "1717",
+                "englishNarrator": "Narrated `Ali رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) ordered me to supervise the (slaughtering) of Budn (Hadi camel) and to distribute their meat, skins and covering sheets in charity and not to give anything (of their bodies) to the butcher as wages for slaughtering.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے انہیں حکم دیا تھا کہ آپ صلی اللہ علیہ وسلم کی قربانی کے اونٹوں کی نگرانی کریں اور یہ کہ آپ صلی اللہ علیہ وسلم کے قربانی کے جانوروں کی ہر چیز گوشت چمڑے اور جھول خیرات کر دیں اور قصائی کی مزدوری اس میں سے نہ دیں ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیاکہا کہ ، ہم سے یحییٰ بن سعید قطان نے بیان کیا ، ان سے ابن جریج نے بیان کیا ، کہا کہ مجھے حسن بن مسلم اور عبدالکریم جزری نے خبر دی کہ مجاہد نے ان دونوں کو خبر دی ، انہیں عبدالرحمٰن بن ابی لیلیٰ نے خبر دی ، انہیں علی رضی اللہ عنہ نے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنِ ابْنِ جُرَيْجٍ، قَالَ أَخْبَرَنِي الْحَسَنُ بْنُ مُسْلِمٍ، وَعَبْدُ الْكَرِيمِ الْجَزَرِيُّ، أَنَّ مُجَاهِدًا، أَخْبَرَهُمَا أَنَّ عَبْدَ الرَّحْمَنِ بْنَ أَبِي لَيْلَى أَخْبَرَهُ أَنَّ عَلِيًّا ـ رضى الله عنه ـ أَخْبَرَهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم أَمَرَهُ أَنْ يَقُومَ عَلَى بُدْنِهِ، وَأَنْ يَقْسِمَ بُدْنَهُ كُلَّهَا، لُحُومَهَا وَجُلُودَهَا وَجِلاَلَهَا، وَلاَ يُعْطِيَ فِي جِزَارَتِهَا شَيْئًا‏.‏",
+                "headingArabic": "يُتَصَدَّقُ بِجُلُودِ الْهَدْىِ",
+                "headingUrdu": "الہادی کی کھالیں صدقہ کی جائیں۔",
+                "headingEnglish": "The skins of Al-Hadi are to be given in charity",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1648,
+                "hadithNumber": "1718",
+                "englishNarrator": "Narrated `Ali  رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) offered one hundred Budn as Hadi and ordered me to distribute their meat (in charity) and I did so. Then he ordered me to distribute their covering sheets in charity and I did so. Then he ordered me to distribute their skins in charity and I did so.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے ( حجۃ الوداع کے موقع پر ) سو اونٹ قربان کئے ، میں نے آپ صلی اللہ علیہ وسلم کے حکم کے مطابق ان کے گوشت بانٹ دئیے ، پھر آپ صلی اللہ علیہ وسلم نے ان کے جھول بھی تقسیم کرنے کا حکم دیا اور میں نے انہیں بھی تقسیم کیا ، پھر چمڑے کے لیے حکم دیا اور میں نے انہیں بھی بانٹ دیا ۔",
+                "urduNarrator": "ہم سے ابونعیم نے بیان کیا ، ان سے سیف بن ابی سلیمان نے بیان کیا ، کہا میں نے مجاہد سے سنا ، انہوں نے کہا کہ مجھ سے ابن ابی لیلیٰ نے بیان کیا اور ان سے علی رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا سَيْفُ بْنُ أَبِي سُلَيْمَانَ، قَالَ سَمِعْتُ مُجَاهِدًا، يَقُولُ حَدَّثَنِي ابْنُ أَبِي لَيْلَى، أَنَّ عَلِيًّا ـ رضى الله عنه ـ حَدَّثَهُ قَالَ أَهْدَى النَّبِيُّ صلى الله عليه وسلم مِائَةَ بَدَنَةٍ، فَأَمَرَنِي بِلُحُومِهَا فَقَسَمْتُهَا، ثُمَّ أَمَرَنِي بِجِلاَلِهَا فَقَسَمْتُهَا، ثُمَّ بِجُلُودِهَا فَقَسَمْتُهَا‏.‏",
+                "headingArabic": "يُتَصَدَّقُ بِجِلاَلِ الْبُدْنِ",
+                "headingUrdu": "بدن کی چادریں صدقہ میں دیں۔",
+                "headingEnglish": "The covering sheets of Budn are to be given in charity",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1649,
+                "hadithNumber": "1719",
+                "englishNarrator": "Narrated  Jabir bin `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "'We never ate the meat of the Budn for more than three days of Mina. Later, the Prophet (ﷺ) gave us permission by saying: 'Eat and take (meat) with you. So we ate (some) and took (some) with us.' \" I asked `Ata', \"Did Jabir رضی اللہ عنہ say (that they went on eating the meat) till they reached Medina?\" `Ata' replied, \"No.\"",
+                "hadithUrdu": "ہم اپنی قربانی کا گوشت منیٰ کے بعد تین دن سے زیادہ نہیں کھاتے تھے ، پھر آنحضرت صلی اللہ علیہ وسلم نے ہمیں اجازت دے دی اور فرمایا کہ کھاؤ بھی اور توشہ کے طور پر ساتھ بھی لے جاؤ ، چنانچہ ہم نے کھایا اور ساتھ بھی لائے ۔ ابن جریج نے کہا کہ میں نے عطاء سے پوچھا کیا جابر رضی اللہ عنہ نے یہ بھی کہا تھا کہ یہاں تک کہ ہم مدینہ پہنچ گئے ، انہوں نے کہا نہیں ایسا نہیں فرمایا ۔",
+                "urduNarrator": "ہم سے مسددنے بیان کیا ، کہا ہم سے یحییٰ بن سعیدقطان نے ، ان سے ابن جریج نے ، ان سے عطاء نے ، انہوں نے جابر بن عبداللہ رضی اللہ عنہما سے سنا ، انہوں نے فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنِ ابْنِ جُرَيْجٍ، حَدَّثَنَا عَطَاءٌ، سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ يَقُولُ كُنَّا لاَ نَأْكُلُ مِنْ لُحُومِ بُدْنِنَا فَوْقَ ثَلاَثِ مِنًى، فَرَخَّصَ لَنَا النَّبِيُّ صلى الله عليه وسلم فَقَالَ ‏ \"‏ كُلُوا وَتَزَوَّدُوا ‏\"‏‏.‏ فَأَكَلْنَا وَتَزَوَّدْنَا‏.‏ قُلْتُ لِعَطَاءٍ أَقَالَ حَتَّى جِئْنَا الْمَدِينَةَ قَالَ لاَ‏.‏",
+                "headingArabic": "مَا يَأْكُلُ مِنَ الْبُدْنِ وَمَا يُتَصَدَّقُ",
+                "headingUrdu": "بدن میں سے کیا کھایا جائے اور کیا تقسیم کیا جائے۔",
+                "headingEnglish": "What is to be eaten of Budn and what to be distributed",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1650,
+                "hadithNumber": "1720",
+                "englishNarrator": "Narrated Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "\"We set out (from Medina) along with Allah's Messenger (ﷺ) five days before the end of Dhul-Qa'da with the intention of performing Hajj only. When we approached Mecca, Allah's Apostle ordered those who had no Hadi along with them to finish the lhram after performing Tawaf of the Ka`ba, (Safa and Marwa). `Aisha added, \"Beef was brought to us on the Day of Nahr and I said, 'What is this?' Somebody said, 'The Prophet (ﷺ) has slaughtered (cows) on behalf of his wives.' \"when Yahya narrated this Hadith to Qasim, he said: He has rightly narrated this Hadith.",
+                "hadithUrdu": "ہم مدینہ سے رسول اللہ صلی اللہ علیہ وسلم کے ساتھ نکلے تو ذی قعدہ کے پانچ دن باقی رہ گئے تھے ، ہمارا ارادہ صرف حج ہی کا تھا ، پھر جب مکہ کے قریب پہنچے تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ جن کے ساتھ ہدی نہ ہو وہ بیت اللہ کا طواف کر کے حلال ہو جائیں ۔ عائشہ رضی اللہ عنہا نے فرمایا کہ پھر ہمارے پاس بقرعید کے دن گائے کا گوشت لایا گیا تو میں نے پوچھا کہ یہ کیا ہے ؟ اس وقت معلوم ہوا کہ رسول اللہ صلی اللہ علیہ وسلم نے اپنی بیویوں کی طرف سے قربانی کی ہے ۔ یحییٰ بن سعید نے کہا کہ میں نے اس حدیث کا قاسم بن محمد سے ذکر کیا تو انہوں نے کہا کہ عمرہ نے تم سے ٹھیک ٹھیک حدیث بیان کر دی ہے ۔",
+                "urduNarrator": "ہم سے خالد بن مخلد نے بیان کیا ، ان سے سلیمان بن ہلال نے بیان کیا ، کہا مجھ سے عمرہ نے بیان کیا ، کہا میں نے عائشہ رضی اللہ عنہا سے سنا ، انہوں نے فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ، حَدَّثَنَا سُلَيْمَانُ، قَالَ حَدَّثَنِي يَحْيَى، قَالَ حَدَّثَتْنِي عَمْرَةُ، قَالَتْ سَمِعْتُ عَائِشَةَ ـ رضى الله عنها ـ تَقُولُ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم لِخَمْسٍ بَقِينَ مِنْ ذِي الْقَعْدَةِ، وَلاَ نَرَى إِلاَّ الْحَجَّ، حَتَّى إِذَا دَنَوْنَا مِنْ مَكَّةَ أَمَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَنْ لَمْ يَكُنْ مَعَهُ هَدْىٌ إِذَا طَافَ بِالْبَيْتِ ثُمَّ يَحِلُّ‏.‏ قَالَتْ عَائِشَةُ ـ رضى الله عنها ـ فَدُخِلَ عَلَيْنَا يَوْمَ النَّحْرِ بِلَحْمِ بَقَرٍ فَقُلْتُ مَا هَذَا فَقِيلَ ذَبَحَ النَّبِيُّ صلى الله عليه وسلم عَنْ أَزْوَاجِهِ‏.‏ قَالَ يَحْيَى فَذَكَرْتُ هَذَا الْحَدِيثَ لِلْقَاسِمِ‏.‏ فَقَالَ أَتَتْكَ بِالْحَدِيثِ عَلَى وَجْهِهِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1651,
+                "hadithNumber": "1721",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) was asked about a person who had his head shaved before slaughtering (his Hadi) (or other similar ceremonies of Hajj). He replied, \"There is no harm, there is no harm.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم سے اس شخص کے بارے میں پوچھا گیاجو قربانی کا جانور ذبح کرنے سے پہلے ہی سر منڈوا لے ، تو آپ صلی اللہ علیہ وسلم نے فرمایا کوئی قباحت نہیں ، کوئی قباحت نہیں ۔ ( ترجمہ اور باب میں موافقت ظاہر ہے ) ۔",
+                "urduNarrator": "ہم سے محمد بن عبداللہ بن حوشب نے بیان کیا ، ان سے ہشیم بن بشیر نے بیان کیا ، انہیں منصور بن ذاذان نے خبر دی ، انہیں عطابن ابی رباح نے اور ان سے ابن عباس رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ حَوْشَبٍ، حَدَّثَنَا هُشَيْمٌ، أَخْبَرَنَا مَنْصُورٌ، عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ سُئِلَ النَّبِيُّ صلى الله عليه وسلم عَمَّنْ حَلَقَ قَبْلَ أَنْ يَذْبَحَ وَنَحْوِهِ‏.‏ فَقَالَ ‏ \"‏ لاَ حَرَجَ، لاَ حَرَجَ ‏\"‏‏.‏",
+                "headingArabic": "الذَّبْحِ قَبْلَ الْحَلْقِ",
+                "headingUrdu": "سر منڈوانے سے پہلے ذبح کرنا",
+                "headingEnglish": "Slaughtering before having oneâ€™s head shaved",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 1626,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=65",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=63",
+                "label": "63",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=64",
+                "label": "64",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=65",
+                "label": "65",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=66",
+                "label": "66",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=67",
+                "label": "67",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=68",
+                "label": "68",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=69",
+                "label": "69",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=67",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=67",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=65",
+        "to": 1650,
+        "total": 40465
+    }
+}

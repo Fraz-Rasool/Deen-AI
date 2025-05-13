@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 242,
+        "data": [
+            {
+                "id": 6028,
+                "hadithNumber": "6289",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) confided to me a secret which I did not disclose to anybody after him. And Um Sulaim asked me (about that secret) but I did not tell her.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے مجھ سے ایک راز کی بات کہی تھی اور میں نے وہ راز کسی کو نہیں بتایا ( ان کی والدہ ) حضرت ام سلیم رضی اللہ عنہا نے بھی مجھ سے اس کے متعلق پوچھا لیکن میں نے انہیں بھی نہیں بتایا ۔",
+                "urduNarrator": "ہم سے عبداللہ بن صباح نے بیان کیا ، کہا ہم سے معتمر بن سلیمان نے بیان کیا ، کہا کہ میں نے اپنے والد سے سنا کہ میں نے حضرت انس بن مالک رضی اللہ عنہ سے سنا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ صَبَّاحٍ، حَدَّثَنَا مُعْتَمِرُ بْنُ سُلَيْمَانَ، قَالَ سَمِعْتُ أَبِي قَالَ، سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، أَسَرَّ إِلَىَّ النَّبِيُّ صلى الله عليه وسلم سِرًّا فَمَا أَخْبَرْتُ بِهِ أَحَدًا بَعْدَهُ، وَلَقَدْ سَأَلَتْنِي أُمُّ سُلَيْمٍ فَمَا أَخْبَرْتُهَا بِهِ‏.‏",
+                "headingArabic": "حِفْظِ السِّرِّ",
+                "headingUrdu": "راز رکھنا",
+                "headingEnglish": "Keeping secrets",
+                "chapterId": "80",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 80,
+                    "chapterNumber": "80",
+                    "chapterEnglish": "Asking Permission",
+                    "chapterUrdu": "اجازت لینے کے بیان میں",
+                    "chapterArabic": "كتاب الاستئذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6029,
+                "hadithNumber": "6290",
+                "englishNarrator": "Narrated `Abdullah رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"When you are three persons sitting together, then no two of you should hold secret counsel excluding the third person until you are with some other people too, for that would grieve him.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا جب تین آدمی ہو تو تیسرے ساتھی کو چھوڑ کر تم آپس میں کانا پھونسی نہ کیا کرو ۔ اس لئے کہ لوگو ں کو رنج ہو گا البتہ اگر دوسرے آدمی بھی ہوں تو مضائقہ نہیں ۔",
+                "urduNarrator": "ہم سے عثمان بن ابی شیبہ نے بیان کیا ، کہا ہم سے جریر بن عبدالحمید نے بیان کیا ، ان سے منصور بن معتمر نے ، ان سے ابووائل نے اور ان سے حضرت عبداللہ بن مسعود رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عُثْمَانُ، حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏{‏إِذَا كُنْتُمْ ثَلاَثَةً فَلاَ يَتَنَاجَى رَجُلاَنِ دُونَ الآخَرِ، حَتَّى تَخْتَلِطُوا بِالنَّاسِ، أَجْلَ أَنْ يُحْزِنَهُ‏}‏‏.‏",
+                "headingArabic": "إِذَا كَانُوا أَكْثَرَ مِنْ ثَلاَثَةٍ فَلاَ بَأْسَ بِالْمُسَارَّةِ وَالْمُنَاجَاةِ",
+                "headingUrdu": "دو تین سے زیادہ کی مجلس میں خفیہ گفتگو کرنا",
+                "headingEnglish": "Two to have a secret talk in a gathering of more than three",
+                "chapterId": "80",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 80,
+                    "chapterNumber": "80",
+                    "chapterEnglish": "Asking Permission",
+                    "chapterUrdu": "اجازت لینے کے بیان میں",
+                    "chapterArabic": "كتاب الاستئذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6030,
+                "hadithNumber": "6291",
+                "englishNarrator": "Narrated `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "One day the Prophet (ﷺ) divided and distributed something amongst the people whereupon an Ansari man said, \"In this division Allah's Countenance has not been sought.\" I said, \"By Allah! I will go (and inform) the Prophet.\" So I went to him while he was with a group of people, and I secretly informed him of that, whereupon he became so angry that his face became red, and he then said, \"May Allah bestow His Mercy on Moses (for) he was hurt more than that, yet he remained patient.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے ایک مرتبہ کچھ مال تقسیم فرمایا اس پر انصار کے ایک شخص نے کہا کہ یہ ایسی تقسیم ہے جس سے اللہ کی خوشنودی مقصود نہ تھی میں نے کہا کہ ہاں ! اللہ کی قسم میں حضور اکرم صلی اللہ علیہ وسلم کی خدمت میں جاؤں گا ۔ چنانچہ میں گیا آنحضرت صلی اللہ علیہ وسلم اس وقت مجلس میں بیٹھے ہوئے تھے میں نے آنحضرت صلی اللہ علیہ وسلم کے کان میں چپکے سے یہ بات کہی تو آپ غصہ ہو گئے اور آپ کا چہرہ سرخ ہوگیاپھر آپ نے فرمایا کہ موسیٰ علیہ السلام پر اللہ کی رحمت ہو انہیں اس سے بھی زیادہ تکلیف پہنچا ئی گئی لیکن انہوں نے صبر کیا ( پس میں بھی صبر کروں گا )",
+                "urduNarrator": "ہم سے عبدان نے بیان کیا ، ان سے ابوحمزہ محمد بن میمون نے ، ان سے اعمش نے ، ان سے شقیق نے اور ان سے عبداللہ بن مسعود رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدَانُ، عَنْ أَبِي حَمْزَةَ، عَنِ الأَعْمَشِ، عَنْ شَقِيقٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قَسَمَ النَّبِيُّ صلى الله عليه وسلم يَوْمًا قِسْمَةً فَقَالَ رَجُلٌ مِنَ الأَنْصَارِ إِنَّ هَذِهِ لَقِسْمَةٌ مَا أُرِيدَ بِهَا وَجْهُ اللَّهِ‏.‏ قُلْتُ أَمَا وَاللَّهِ لآتِيَنَّ النَّبِيَّ صلى الله عليه وسلم فَأَتَيْتُهُ وَهْوَ فِي مَلأٍ، فَسَارَرْتُهُ فَغَضِبَ حَتَّى احْمَرَّ وَجْهُهُ، ثُمَّ قَالَ ‏ \"‏ رَحْمَةُ اللَّهِ عَلَى مُوسَى، أُوذِيَ بِأَكْثَرَ مِنْ هَذَا فَصَبَرَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "80",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 80,
+                    "chapterNumber": "80",
+                    "chapterEnglish": "Asking Permission",
+                    "chapterUrdu": "اجازت لینے کے بیان میں",
+                    "chapterArabic": "كتاب الاستئذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6031,
+                "hadithNumber": "6292",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "The Iqama for the prayer was announced while a man was talking to Allah's Messenger (ﷺ) privately. He continued talking in that way till the Prophet's companions slept, and afterwards the Prophet (ﷺ) got up and offered the prayer with them.",
+                "hadithUrdu": "نماز کی تکبیر کہی گئی اور ایک صحابی رسول صلی اللہ علیہ وسلم سے سرگوشی کرتے رہے ، پھر وہ دیر تک سرگوشی کرتے رہے یہاں تک کہ آپ کے صحابہ سونے لگے اس کے بعد آپ اٹھے اور نماز پڑھائی ۔",
+                "urduNarrator": "ہم سے محمد بن بشار نے بیان کیا ، کہا ہم سے محمد بن جعفر نے بیان کیا ، ہم سے شعبہ نے بیان کیا ، ان سے عبد العزیز بن صہیب اور ان سے حضرت انس رضی اللہ عنہ نے بیان کیاکہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ الْعَزِيزِ، عَنْ أَنَس ٍ ـ رضى الله عنه ـ قَالَ أُقِيمَتِ الصَّلاَةُ وَرَجُلٌ يُنَاجِي رَسُولَ اللَّهِ صلى الله عليه وسلم فَمَا زَالَ يُنَاجِيهِ حَتَّى نَامَ أَصْحَابُهُ، ثُمَّ قَامَ فَصَلَّى‏.‏",
+                "headingArabic": "طُولِ النَّجْوَى",
+                "headingUrdu": "طویل عرصے تک خفیہ مشاورت کا انعقاد",
+                "headingEnglish": "Holding secret counsel for a long while",
+                "chapterId": "80",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 80,
+                    "chapterNumber": "80",
+                    "chapterEnglish": "Asking Permission",
+                    "chapterUrdu": "اجازت لینے کے بیان میں",
+                    "chapterArabic": "كتاب الاستئذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6032,
+                "hadithNumber": "6293",
+                "englishNarrator": "Narrated Salim's father:",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Do not keep the fire burning in your houses when you go to bed.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا جب سونے لگو تو گھر میں آگ نہ چھوڑو ۔",
+                "urduNarrator": "ہم سے ابونعیم نے بیان کیا ، کہا ہم سے سفیان بن عیینہ نے بیان کیا ، ان سے زہری نے ، ان سے سالم نے ، ان سے ان کے والد نے",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا ابْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏{‏لاَ تَتْرُكُوا النَّارَ فِي بُيُوتِكُمْ حِينَ تَنَامُونَ‏}‏‏.‏",
+                "headingArabic": "لاَ تُتْرَكُ النَّارُ فِي الْبَيْتِ عِنْدَ النَّوْمِ",
+                "headingUrdu": "سوتے وقت آگ نہیں جلانی چاہیے۔",
+                "headingEnglish": "Fire should not be kept lit at bedtime.",
+                "chapterId": "80",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 80,
+                    "chapterNumber": "80",
+                    "chapterEnglish": "Asking Permission",
+                    "chapterUrdu": "اجازت لینے کے بیان میں",
+                    "chapterArabic": "كتاب الاستئذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6033,
+                "hadithNumber": "6294",
+                "englishNarrator": "Narrated Abu Musa رضی اللہ عنہ :",
+                "hadithEnglish": "One night a house in Medina was burnt with its occupants. The Prophet (ﷺ) spoke about them, saying, \"This fire is indeed your enemy, so whenever you go to bed, put it out to protect yourselves.\"",
+                "hadithUrdu": "مدینہ منورہ میں ایک گھر رات کے وقت جل گیا ۔ نبی کریم صلی اللہ علیہ وسلم سے اس کے متعلق کہا گیا تو آپ نے فر مایا کہ آ گ تمہاری دشمن ہے اس لئے جب سو نے لگو تو اسے بجھا دیا کرو ۔",
+                "urduNarrator": "ہم سے محمد بن علاء نے بیان کیا ، انہوں نے کہا ہم سے ابواسامہ نے بیان کیا ، ہم سے بریدبن عبداللہ نے بیان کیا ، ان سے ابو بر دہ نے بیان کیا اور ان سے حضرت ابو مو سیٰ اشعری رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ بُرَيْدِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى ـ رضى الله عنه ـ قَالَ احْتَرَقَ بَيْتٌ بِالْمَدِينَةِ عَلَى أَهْلِهِ مِنَ اللَّيْلِ، فَحُدِّثَ بِشَأْنِهِمُ النَّبِيُّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ هَذِهِ النَّارَ إِنَّمَا هِيَ عَدُوٌّ لَكُمْ، فَإِذَا نِمْتُمْ فَأَطْفِئُوهَا عَنْكُمْ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "80",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 80,
+                    "chapterNumber": "80",
+                    "chapterEnglish": "Asking Permission",
+                    "chapterUrdu": "اجازت لینے کے بیان میں",
+                    "chapterArabic": "كتاب الاستئذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6034,
+                "hadithNumber": "6295",
+                "englishNarrator": "Narrated Jabir bin `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"(At bedtime) cover the utensils, close the doors, and put out the lights, lest the evil creature (the rat) should pull away the wick and thus burn the people of the house.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فر مایا ( سو تے وقت ) بر تن ڈھک لیا کرو ورنہ دروازے بند کر لیا کرو اور چراغ بجھا لیا کرو کیو نکہ یہ چوہا بعض اوقات چراغ کی بتی کھینچ لیتا ہے اور گھر والوں کو جلا دیتا ہے ۔",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا ، انہوں نے کہا ہم سے حماد بن زید نے بیان کیا ، ان سے کثیر بن شنطیرنے بیان کیا ، ان سے عطاء بن ابی رباح نے بیان کیا ، ان سے حضرت جابر بن عبداللہ رضی اللہ عنہما نے بیان کیا ، کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا حَمَّادٌ، عَنْ كَثِيرٍ، عَنْ عَطَاءٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ خَمِّرُوا الآنِيَةَ وَأَجِيفُوا الأَبْوَابَ، وَأَطْفِئُوا الْمَصَابِيحَ، فَإِنَّ الْفُوَيْسِقَةَ رُبَّمَا جَرَّتِ الْفَتِيلَةَ فَأَحْرَقَتْ أَهْلَ الْبَيْتِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "80",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 80,
+                    "chapterNumber": "80",
+                    "chapterEnglish": "Asking Permission",
+                    "chapterUrdu": "اجازت لینے کے بیان میں",
+                    "chapterArabic": "كتاب الاستئذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6035,
+                "hadithNumber": "6296",
+                "englishNarrator": "Narrated Jabir رضی اللہ عنہ :",
+                "hadithEnglish": "Allah s Apostle said, \"When you intend going to bed at night, put out the lights, close the doors, tie the mouths of the water skins, and cover your food and drinks.\" Hamrnam said, \"I think he (the other narrator) added, 'even with piece of wood across the utensil.'",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا جب رات میں سونے لگو تو چراغ بجھا دیا کرو اور دروازے بند کر لیا کرو اور مشکیزوں کا منہ باندھ دیا کرو اور کھانے پینے کی چیزیں ڈھک دیا کرو ۔ حماد نے کہا کہ میرا خیال ہے کہ یہ بھی فرمایا کہ ” اگرچہ ایک لکڑی سے ہی ہو “",
+                "urduNarrator": "ہم سے حسان بن ابی عباد نے بیان کیا ، انہوں نے کہا ہم سے ہمام بن یحییٰ نے بیان کیا ، ان سے عطاء بن ابی رباح نے اور ان سے حضرت جابر رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا حَسَّانُ بْنُ أَبِي عَبَّادٍ، حَدَّثَنَا هَمَّامٌ، عَنْ عَطَاءٍ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَطْفِئُوا الْمَصَابِيحَ بِاللَّيْلِ إِذَا رَقَدْتُمْ، وَغَلِّقُوا الأَبْوَابَ، وَأَوْكُوا الأَسْقِيَةَ، وَخَمِّرُوا الطَّعَامَ وَالشَّرَابَ ‏\"‏‏.‏ ـ قَالَ هَمَّامٌ وَأَحْسِبُهُ قَالَ ـ ‏\"‏وَلَوْ بِعُودٍ يَعْرُضُهُ\"",
+                "headingArabic": "إِغْلاَقِ الأَبْوَابِ بِاللَّيْلِ",
+                "headingUrdu": "رات کو دروازے بند کرنا",
+                "headingEnglish": "To close the doors at night",
+                "chapterId": "80",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 80,
+                    "chapterNumber": "80",
+                    "chapterEnglish": "Asking Permission",
+                    "chapterUrdu": "اجازت لینے کے بیان میں",
+                    "chapterArabic": "كتاب الاستئذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6036,
+                "hadithNumber": "6297",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said \"Five things are in accordance with Al Fitra (i.e. the tradition of prophets): to be circumcised, to shave the pelvic region, to pull out the hair of the armpits, to cut short the moustaches, and to clip the nails.'",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا پانچ چیزیں فطرت سے ہیں ، ختنہ کرنا ، زیرناف کے بال بنانا ، بغل کے بال صاف کرنا ، مونچھ چھوٹی کرانا اور ناخن کاٹنا ۔",
+                "urduNarrator": "ہم سے یحییٰ بن قزعہ نے بیان کیا ، انہوں نے کہا ہم سے ابراہیم بن سعد نے بیان کیا ، ان سے ابن شہاب نے ، ان سے سعید بن مسیب نے اور ان سے حضرت ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ قُزَعَةَ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ الْفِطْرَةُ خَمْسٌ الْخِتَانُ، وَالاِسْتِحْدَادُ، وَنَتْفُ الإِبْطِ، وَقَصُّ الشَّارِبِ، وَتَقْلِيمُ الأَظْفَارِ ‏\"‏‏.‏",
+                "headingArabic": "الْخِتَانِ بَعْدَ الْكِبَرِ وَنَتْفِ الإِبْطِ",
+                "headingUrdu": "بڑھاپے میں ختنہ کرنا، اور بغل کے بال نکالنا",
+                "headingEnglish": "Circumcision at an old age, and pulling out armpit hair",
+                "chapterId": "80",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 80,
+                    "chapterNumber": "80",
+                    "chapterEnglish": "Asking Permission",
+                    "chapterUrdu": "اجازت لینے کے بیان میں",
+                    "chapterArabic": "كتاب الاستئذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6037,
+                "hadithNumber": "6298",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said \"The Prophet) Abraham circumcised himself after he had passed the age of eighty years and he circumcised himself with an adze.\" Abu Zinad said: At Qaddum (a place).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا حضرت ابراہیم علیہ السلام نے اسی ( 80 ) سال کی عمر میں ختنہ کرایا اور آپ نے قدوم ( تخفیف کے ساتھ ) ( کلہاڑی ) سے ختنہ کیا ۔ ہم سے قتیبہ نے بیان کیا ، کہا ہم سے مغیرہ نے بیان کیا اور ان سے بو الزناد نے بالقدوم ( تشدید کے ساتھ بیان کیا )",
+                "urduNarrator": "ہم سے ابو الیمان نے بیان کیا ، انہوں نے کہا ہم کو شعیب بن ابی حمزہ نے خبر دی ، انہوں نے کہا ہم سے ابوالزناد نے بیان کیا ، ان سے اعرج نے بیان کیا اور ان سے حضرت ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبُ بْنُ أَبِي حَمْزَةَ، حَدَّثَنَا أَبُو الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ اخْتَتَنَ إِبْرَاهِيمُ بَعْدَ ثَمَانِينَ سَنَةً، وَاخْتَتَنَ بِالْقَدُومِ ‏\"‏‏.‏ مُخَفَّفَةً‏.‏ حَدَّثَنَا قُتَيْبَةُ حَدَّثَنَا الْمُغِيرَةُ عَنْ أَبِي الزِّنَادِ وَقَالَ ‏\"‏بِالْقَدُّومِ\"‏‏ وَهُوَ مَوْضِعٌ مُشَدَّدٌ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "80",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 80,
+                    "chapterNumber": "80",
+                    "chapterEnglish": "Asking Permission",
+                    "chapterUrdu": "اجازت لینے کے بیان میں",
+                    "chapterArabic": "كتاب الاستئذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6038,
+                "hadithNumber": "6299",
+                "englishNarrator": "Narrated Said bin Jubair:",
+                "hadithEnglish": "Ibn 'Abbas رضی اللہ عنہما was asked, \"How old were you when the Prophet (ﷺ) died?\" He replied. \"At that time I had been circumcised.\" At that time, people did not circumcise the boys till they attained the age of puberty. Sa'id bin Jubair said, \"Ibn 'Abbas said, 'When the Prophet died, I had already been circumcised. \"",
+                "hadithUrdu": "حضرت ابن عباس رضی اللہ عنہما سے پوچھا گیا کہ جب نبی کریم صلی اللہ علیہ وسلم کی وفات ہوئی تو آپ کی عمر کیا تھی ؟ کہا کہ ان دنوں میرا ختنہ ہو چکا تھا اور عرب لوگوں کی عادت تھی جب تک لڑکا جوانی کے قریب نہ ہوتا اس کا ختنہ نہ کرتے تھے",
+                "urduNarrator": "ہم سے محمد بن عبد الرحیم نے بیان کیا ، کہا ہم کو عباد بن موسیٰ نے خبر دی ، کہا ہم سے اسماعیل بن جعفر نے بیان کیا ، کہا ہم سے اسرائیل نے ، ان سے ابواسحاق نے ، ان سے سعید بن جبیر نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحِيمِ، أَخْبَرَنَا عَبَّادُ بْنُ مُوسَى، حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، عَنْ إِسْرَائِيلَ، عَنْ أَبِي إِسْحَاقَ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، قَالَ سُئِلَ ابْنُ عَبَّاسٍ مِثْلُ مَنْ أَنْتَ حِينَ قُبِضَ النَّبِيُّ صلى الله عليه وسلم قَالَ أَنَا يَوْمَئِذٍ مَخْتُونٌ‏.‏ قَالَ وَكَانُوا لاَ يَخْتِنُونَ الرَّجُلَ حَتَّى يُدْرِكَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "80",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 80,
+                    "chapterNumber": "80",
+                    "chapterEnglish": "Asking Permission",
+                    "chapterUrdu": "اجازت لینے کے بیان میں",
+                    "chapterArabic": "كتاب الاستئذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6039,
+                "hadithNumber": "6300",
+                "englishNarrator": "Narrated Ibn 'Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "'When the Prophet (ﷺ) died, I had already been circumcised.' \"",
+                "hadithUrdu": "جب نبی کریم صلی اللہ علیہ وسلم کی وفات ہوئی تو میرا ختنہ ہو چکا تھا ۔",
+                "urduNarrator": "اور عبداللہ ابن ادریس بن یزید نے اپنے والد سے بیان کیا ، ان سے ابواسحاق نے ، ان سے سعید بن جبیر نے اور ان سے حضرت ابن عباس رضی اللہ عنہما نے کہ",
+                "hadithArabic": "وَقَالَ ابْنُ إِدْرِيسَ عَنْ أَبِيهِ، عَنْ أَبِي إِسْحَاقَ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قُبِضَ النَّبِيُّ صلى الله عليه وسلم وَأَنَا خَتِينٌ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "80",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 80,
+                    "chapterNumber": "80",
+                    "chapterEnglish": "Asking Permission",
+                    "chapterUrdu": "اجازت لینے کے بیان میں",
+                    "chapterArabic": "كتاب الاستئذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6040,
+                "hadithNumber": "6301",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"Whoever among you takes an oath wherein he says, 'By Al-Lat and Al-`Uzza,' names of two Idols worshipped by the Pagans, he should say, 'None has the right to be worshipped but Allah; And whoever says to his friend, 'Come, let me gamble with you ! He should give something in charity. \" (See Hadith No. 645)",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا تم میں سے جس نے قسم کھائی اور کہا کہ ” لات وعزیٰ کی قسم ، تو پھر وہ لا الٰہ الا اللہ کہے اور جس نے اپنے ساتھی سے کہا کہ آؤ جوا کھیلیں تو اسے صدقہ کر دینا چاہئے ۔",
+                "urduNarrator": "ہم سے یحییٰ بن بکیر نے بیان کیا ، کہا ہم سے لیث بن سعد نے بیان کیا ، ان سے عقیل نے ، ان سے ابن شہاب نے بیان کیا ، کہا کہ مجھے حمید بن عبدالرحمٰن نے بیان کیا اور ان سے حضرت ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي حُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ، أَنَّ أَبَا هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنْ حَلَفَ مِنْكُمْ فَقَالَ فِي حَلِفِهِ بِاللاَّتِ وَالْعُزَّى‏.‏ فَلْيَقُلْ لاَ إِلَهَ إِلاَّ اللَّهُ‏.‏ وَمَنْ قَالَ لِصَاحِبِهِ تَعَالَ أُقَامِرْكَ‏.‏ فَلْيَتَصَدَّقْ ‏\"‏‏.‏",
+                "headingArabic": "كُلُّ لَهْوٍ بَاطِلٌ إِذَا شَغَلَهُ عَنْ طَاعَةِ اللَّهِ",
+                "headingUrdu": "ہر لہو بتول ہے۔",
+                "headingEnglish": "Every Lahw is Batil",
+                "chapterId": "80",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 80,
+                    "chapterNumber": "80",
+                    "chapterEnglish": "Asking Permission",
+                    "chapterUrdu": "اجازت لینے کے بیان میں",
+                    "chapterArabic": "كتاب الاستئذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6041,
+                "hadithNumber": "6302",
+                "englishNarrator": "Narrated Ibn-e-Umer رضی اللہ عنہما :",
+                "hadithEnglish": "During the life-time of the Prophet (ﷺ) I built a house with my own hands so that it might protect me from the rain and shade me from the sun; and none of Allah's creatures assisted me in building it.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم کے زمانہ میں اپنے ہاتھوں سے ایک گھر بنایا تاکہ بارش سے حفاظت رہے اور دھوپ سے سایہ حاصل ہواللہ کی مخلوق میں سے کسی نے اس کام میں میری مدد نہیں کی ۔ معلوم ہوا کہ ضرورت کے لائق گھر بنانا درست ہے ۔",
+                "urduNarrator": "ہم سے ابونعیم نے بیان کیا ، کہا ہم سے اسحاق نے بیان کیا وہ سعید کے بیٹے ہیں ، ان سے سعید نے اور ان سے حضرت ابن عمر رضی اللہ عنہما نے بیان کیاکہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا إِسْحَاقُ ـ هُوَ ابْنُ سَعِيدٍ ـ عَنْ سَعِيدٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ رَأَيْتُنِي مَعَ النَّبِيِّ صلى الله عليه وسلم بَنَيْتُ بِيَدِي بَيْتًا، يُكِنُّنِي مِنَ الْمَطَرِ، وَيُظِلُّنِي مِنَ الشَّمْسِ، مَا أَعَانَنِي عَلَيْهِ أَحَدٌ مِنْ خَلْقِ اللَّهِ‏.‏",
+                "headingArabic": "مَا جَاءَ فِي الْبِنَاءِ",
+                "headingUrdu": "عمارتیں",
+                "headingEnglish": "The buildings",
+                "chapterId": "80",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 80,
+                    "chapterNumber": "80",
+                    "chapterEnglish": "Asking Permission",
+                    "chapterUrdu": "اجازت لینے کے بیان میں",
+                    "chapterArabic": "كتاب الاستئذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6042,
+                "hadithNumber": "6303",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "\"By Allah, I have not put a brick over a brick (i.e. constructed a building) or planted any date-palm tree since the death of the Prophet.\" Sufyan (the sub narrator) said, \"I told this narration (of Ibn `Umar) to one of his (Ibn `Umar's) relatives, and he said, 'By Allah, he did build (something.' \"Sufyan added, \"I said, 'He must have said (the above narration) before he built.\"",
+                "hadithUrdu": "واللہ نبی کریم صلی اللہ علیہ وسلم کی وفات کے بعد نہ میں نے کوئی اینٹ کسی اینٹ پر رکھی اور نہ کوئی باغ لگایا ۔ سفیان نے بیان کیا کہ جب میں نے اس کا ذکر ابن عمر رضی اللہ عنہما کے بعض گھرانوں کے سامنے کیا تو انہوں نے کہا کہ اللہ کی قسم انہوں نے گھر بنایا تھا ۔ سفیان نے بیان کیا کہ میں نے کہا پھر یہ بات ابن عمر رضی اللہ عنہما نے گھر بنانے سے پہلے کہی ہو گی ۔",
+                "urduNarrator": "ہم سے علی بن عبداللہ مدینی نے بیان کیا ، کہا ہم سے ابوسفیان ثوری نے ، ان سے عمرو بن نشارنے اور ان سے ابن عمر رضی اللہ عنہما نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، قَالَ عَمْرٌو قَالَ ابْنُ عُمَرَ وَاللَّهِ مَا وَضَعْتُ لَبِنَةً عَلَى لَبِنَةٍ، وَلاَ غَرَسْتُ نَخْلَةً، مُنْذُ قُبِضَ النَّبِيُّ صلى الله عليه وسلم‏.‏ قَالَ سُفْيَانُ فَذَكَرْتُهُ لِبَعْضِ أَهْلِهِ قَالَ وَاللَّهِ لَقَدْ بَنَى بَيْتًا‏.‏ قَالَ سُفْيَانُ قُلْتُ فَلَعَلَّهُ قَالَ قَبْلَ أَنْ يَبْنِيَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "80",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 80,
+                    "chapterNumber": "80",
+                    "chapterEnglish": "Asking Permission",
+                    "chapterUrdu": "اجازت لینے کے بیان میں",
+                    "chapterArabic": "كتاب الاستئذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6043,
+                "hadithNumber": "6304",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"For every prophet there is one (special invocation (that will not be rejected) with which he appeals (to Allah), and I want to keep such an invocation for interceding for my followers in the Hereafter.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ہر نبی کو ایک دعا حاصل ہوتی ہے ( جو قبو ل کی جاتی ہے ) اور میں چاہتا ہوں کہ میں اپنی دعا کو آخرت میں اپنی امت کی شفاعت کے لئے محفوظ رکھوں ۔",
+                "urduNarrator": "ہم سے اسماعیل بن ابی اویس نے بیان کیا ، کہا کہ مجھ سے امام مالک نے بیان کیا ، ان سے ابوالزناد نے ، ان سے اعرج نے اور ان سے حضرت ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لِكُلِّ نَبِيٍّ دَعْوَةٌ مُسْتَجَابَةٌ يَدْعُو بِهَا، وَأُرِيدُ أَنْ أَخْتَبِئَ دَعْوَتِي شَفَاعَةً لأُمَّتِي فِي الآخِرَةِ ‏\"‏‏.‏",
+                "headingArabic": "وَلِكُلِّ نَبِيٍّ دَعْوَةٌ مُسْتَجَابَةٌ",
+                "headingUrdu": "ہر نبی کے لیے ایک دعا ضرور دی جاتی ہے۔",
+                "headingEnglish": "For every Prophet there is one invocation surely granted",
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6044,
+                "hadithNumber": "6305",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"For every prophet there is an invocation that surely will be responded by Allah,\" (or said), \"For every prophet there was an invocation with which he appealed to Allah, and his invocation was accepted (in his lifetime), but I kept my (this special) invocation to intercede for my followers on the Day of Resurrection.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا ہر نبی نے کچھ چیزیں مانگیں یا فرمایا کہ ہر نبی کو ایک دعا دی گئی جس چیز کی اس نے دعا مانگی پھر اسے قبول کیا گیا لیکن میں نے اپنی دعا قیامت کے دن اپنی امت کی شفاعت کے لئے محفوظ رکھی ہوئی ہے ۔",
+                "urduNarrator": "اور معتمر نے بیان کیا ، انہوں نے اپنے والد سے سنا ، انہوں نے حضرت انس رضی اللہ عنہ سے کہ",
+                "hadithArabic": "وَقَالَ لِي خَلِيفَةُ قَالَ مُعْتَمِرٌ سَمِعْتُ أَبِي، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ كُلُّ نَبِيٍّ سَأَلَ سُؤْلاً ـ أَوْ قَالَ لِكُلِّ نَبِيٍّ دَعْوَةٌ قَدْ دَعَا بِهَا ـ فَاسْتُجِيبَ، فَجَعَلْتُ دَعْوَتِي شَفَاعَةً لأُمَّتِي يَوْمَ الْقِيَامَةِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6045,
+                "hadithNumber": "6306",
+                "englishNarrator": "Narrated Shaddad bin Aus رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said \"The most superior way of asking for forgiveness from Allah is: 'Allahumma anta Rabbi la ilaha illa anta, Khalaqtani wa ana `Abduka, wa ana `ala `ahdika wa wa`dika mastata`tu, A`udhu bika min Sharri ma sana`tu, abu'u Laka bini`matika `alaiya, wa abu'u laka bidhanbi faghfir lee fa innahu la yaghfiru adhdhunuba illa anta.\" The Prophet (ﷺ) added. \"If somebody recites it during the day with firm faith in it, and dies on the same day before the evening, he will be from the people of Paradise; and if somebody recites it at night with firm faith in it, and dies before the morning, he will be from the people of Paradise.\"",
+                "hadithUrdu": "اور ان سے رسول اللہ صلی اللہ علیہ وسلم نے کہ سیدالاستغفار ۔ ( مغفرت مانگنے کے سب کلمات کا سردار ) یہ ہے یوں کہے ، ‏ اے اللہ ! تو میرا رب ہے ، تیرے سوا کوئی معبود نہیں ۔ تو نے ہی مجھے پیدا کیا اور میں تیرا ہی بندہ ہوں میں اپنی طاقت کے مطابق تجھ سے کئے ہوئے عہد اور وعدہ پرقائم ہوں ۔ ان بری حرکتوں کے عذاب سے جو میں نے کی ہیں تیری پناہ مانگتا ہوں مجھ پر نعمتیں تیری ہیں اس کااقرار کرتا ہوں ۔ میری مغفرت کر دے کہ تیرے سوا اور کوئی بھی گناہ نہیں معاف کرتا ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ جس نے اس دعا کے الفاظ پر یقین رکھتے ہوئے دل سے ان کو کہہ لیا اور اسی دن اس کا انتقال ہو گیا شام ہونے سے پہلے تو وہ جنتی ہے اور جس نے اس دعا کے الفاظ پر یقین رکھتے ہوئے رات میں ان کو پڑھ لیا اور پھر اس کاصبح ہونے سے پہلے انتقال ہو گیا تو وہ جنتی ہے ۔",
+                "urduNarrator": "ہم سے ابو معمر نے بیان کیا ، کہا ہم سے عبدالوارث بن سعید نے بیان کیا ، کہا ہم سے حسین بن ذکوان معلم نے بیان کیا ، کہا ہم سے عبداللہ بن بریدہ نے بیان کیا ان سے بشیر بن کعب عدوی نے کہا کہ مجھ سے شداد بن اوس رضی اللہ عنہ نے بیان کیا",
+                "hadithArabic": "حَدَّثَنَا أَبُو مَعْمَرٍ، حَدَّثَنَا عَبْدُ الْوَارِثِ، حَدَّثَنَا الْحُسَيْنُ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ بُرَيْدَةَ، عَنْ بُشَيْرِ بْنِ كَعْبٍ الْعَدَوِيِّ، قَالَ حَدَّثَنِي شَدَّادُ بْنُ أَوْسٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏\"‏ سَيِّدُ الاِسْتِغْفَارِ أَنْ تَقُولَ اللَّهُمَّ أَنْتَ رَبِّي، لاَ إِلَهَ إِلاَّ أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَىَّ وَأَبُوءُ لَكَ بِذَنْبِي، فَاغْفِرْ لِي، فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ ‏\"‏‏.‏ قَالَ ‏\"‏ وَمَنْ قَالَهَا مِنَ النَّهَارِ مُوقِنًا بِهَا، فَمَاتَ مِنْ يَوْمِهِ قَبْلَ أَنْ يُمْسِيَ، فَهُوَ مِنْ أَهْلِ الْجَنَّةِ، وَمَنْ قَالَهَا مِنَ اللَّيْلِ وَهْوَ مُوقِنٌ بِهَا، فَمَاتَ قَبْلَ أَنْ يُصْبِحَ، فَهْوَ مِنْ أَهْلِ الْجَنَّةِ ‏\"‏‏.‏",
+                "headingArabic": "أَفْضَلِ الاِسْتِغْفَارِ",
+                "headingUrdu": "افدل استغفار",
+                "headingEnglish": "Afdal Al-Istighfar",
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6046,
+                "hadithNumber": "6307",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "I heard Allah's Messenger (ﷺ) saying.\" By Allah! I ask for forgiveness from Allah and turn to Him in repentance more than seventy times a day.\"",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ، آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ اللہ کی قسم میں دن میں ستر مرتبہ سے زیادہ اللہ سے استغفار اور اس سے توبہ کرتا ہوں ۔",
+                "urduNarrator": "ہم سے ابو الیمان نے بیان کیا ، انہوں نے کہا ہم کو شعیب نے خبر دی ، انہیں زہری نے کہا کہ مجھے ابوسلمہ بن عبدالرحمٰن نے خبر دی ، انہوں نے کہا کہ حضرت ابوہریرہ رضی اللہ عنہ نے بیان کیاکہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، قَالَ قَالَ أَبُو هُرَيْرَةَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ وَاللَّهِ إِنِّي لأَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ فِي الْيَوْمِ أَكْثَرَ مِنْ سَبْعِينَ مَرَّةً ‏\"‏‏.‏",
+                "headingArabic": "اسْتِغْفَارِ النَّبِيِّ صلى الله عليه وسلم فِي الْيَوْمِ وَاللَّيْلَةِ",
+                "headingUrdu": "دن کو اور رات کو اللہ سے بخشش مانگنا",
+                "headingEnglish": "Seeking Allah's forgiveness by daytime and at night",
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6047,
+                "hadithNumber": "6308",
+                "englishNarrator": "Narrated `Abdullah bin Mas`ud رضی اللہ عنہما :",
+                "hadithEnglish": "One from the Prophet (ﷺ) and the other from himself, saying: A believer sees his sins as if he were sitting under a mountain which, he is afraid, may fall on him; whereas the wicked person considers his sins as flies passing over his nose and he just drives them away like this.\" Abu Shihab (the sub-narrator) moved his hand over his nose in illustration. (Ibn Mas`ud رضی اللہ عنہما added): Allah's Messenger (ﷺ) said, \"Allah is more pleased with the repentance of His slave than a man who encamps at a place where his life is jeopardized, but he has his riding beast carrying his food and water. He then rests his head and sleeps for a short while and wakes to find his riding beast gone. (He starts looking for it) and suffers from severe heat and thirst or what Allah wished (him to suffer from). He then says, 'I will go back to my place.' He returns and sleeps again, and then (getting up), he raises his head to find his riding beast standing beside him.\" Abu Awanah and Jarrer has reported likewise from Aamash. Abu Osamah, Aamash, has reported it from Harith bin Sowaid. Shobah, Abu Muslim, Aamash, Ibrahim Taimi reported from Harith bin Sowaid. Abu Moaviyah, Aamash, Omarah, Aswad reported it from Hadrat Abdullah bin Masoud رضی اللہ عنہما. Ibrahim Taimi, Harith bin Sowaid reported from Hadrat Abdullah (bin Masoud) رضی اللہ عنہما .",
+                "hadithUrdu": "ایک نبی کریم صلی اللہ علیہ وسلم سے اور دوسری خود اپنی طرف سے کہا کہ مومن اپنے گناہوں کو ایسا محسوس کرتا ہے جیسے وہ کسی پہاڑ کے نیچے بیٹھا ہے اور ڈرتا ہے کہ کہیں وہ اس کے اوپر نہ گر جائے اور بدکار اپنے گناہوں کو مکھی کی طرح ہلکا سمجھتا ہے کہ وہ اس کے ناک کے پاس سے گزری اور اس نے اپنے ہاتھ سے یوں اس طرف اشارہ کیا ۔ ابو شہاب نے ناک پر اپنے ہاتھ کے اشارہ سے اس کی کیفیت بتائی پھر انہوں نے رسول اللہ صلی اللہ علیہ وسلم کی یہ حدیث بیان کی ۔ اللہ تعالیٰ اپنے بندہ کی توبہ سے اس شخص سے بھی زیادہ خوش ہوتا ہے جس نے کسی پر خطر جگہ پڑاؤ کیا ہو اس کے ساتھ اس کی سواری بھی ہو اور اس پر کھانے پینے کی چیزیں موجود ہوں ۔ وہ سررکھ کر سوگیا ہو اور جب بیدا ر ہوا ہو تو اس کی سواری غائب رہی ہو ۔ آخر بھوک وپیاس یا جو کچھ اللہ نے چاہا اسے سخت لگ جائے وہ اپنے دل میں سوچے کہ مجھے اب گھر واپس چلا جانا چاہئے اور جب وہ واپس ہوا اور پھر سوگیا لیکن اس نیند سے جو سر اٹھایا تو اس کی سواری وہاں کھانا پینا لئے ہوئے سامنے کھڑی ہے تو خیال کرو اس کو کس قدر خوشی ہو گی ۔ ابوشہاب کے ساتھ اس حدیث کو ابو عوانہ اور جریر نے بھی اعمش سے روایت کیا ، اور شعبہ اور ابومسلم ( عبیداللہ بن سعید ) نے اس کو اعمش سے روایت کیا ، انہوں نے ابراہیم تیمی سے ، انہوں نے حارث بن سویدسے اور ابومعاویہ نے یوں کہا ہم سے اعمش نے بیان کیا ، انہوں نے عمارہ سے انہوں نے اسود بن یزید سے ، انہوں نے عبداللہ بن مسعود رضی اللہ عنہما سے ۔ اور ہم سے اعمش نے بیان کیا انہوں نے ابراہیم تیمی سے ، انہوں نے حارث بن سوید سے ، انہوں نے عبداللہ بن مسعود رضی اللہ عنہما سے ۔",
+                "urduNarrator": "ہم سے احمد بن یونس نے بیان کیا ، کہا ہم سے ابو شہاب نے ، ان سے اعمش نے ، ان سے عمارہ بن عمیر نے ، ان سے حارث بن سوید اور ان سے عبداللہ بن مسعود رضی اللہ عنہما نے دو احادیث ( بیان کیں )",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا أَبُو شِهَابٍ، عَنِ الأَعْمَشِ، عَنْ عُمَارَةَ بْنِ عُمَيْرٍ، عَنِ الْحَارِثِ بْنِ سُوَيْدٍ، حَدَّثَنَا عَبْدُ اللَّهِ، حَدِيثَيْنِ أَحَدُهُمَا عَنِ النَّبِيِّ صلى الله عليه وسلم وَالآخَرُ عَنْ نَفْسِهِ، قَالَ ‏\"‏ إِنَّ الْمُؤْمِنَ يَرَى ذُنُوبَهُ كَأَنَّهُ قَاعِدٌ تَحْتَ جَبَلٍ يَخَافُ أَنْ يَقَعَ عَلَيْهِ، وَإِنَّ الْفَاجِرَ يَرَى ذُنُوبَهُ كَذُبَابٍ مَرَّ عَلَى أَنْفِهِ ‏\"‏‏.‏ فَقَالَ بِهِ هَكَذَا قَالَ أَبُو شِهَابٍ بِيَدِهِ فَوْقَ أَنْفِهِ‏.‏ ثُمَّ قَالَ ‏\"‏ لَلَّهُ أَفْرَحُ بِتَوْبَةِ عَبْدِهِ مِنْ رَجُلٍ نَزَلَ مَنْزِلاً، وَبِهِ مَهْلَكَةٌ، وَمَعَهُ رَاحِلَتُهُ عَلَيْهَا طَعَامُهُ وَشَرَابُهُ، فَوَضَعَ رَأْسَهُ فَنَامَ نَوْمَةً، فَاسْتَيْقَظَ وَقَدْ ذَهَبَتْ رَاحِلَتُهُ، حَتَّى اشْتَدَّ عَلَيْهِ الْحَرُّ وَالْعَطَشُ أَوْ مَا شَاءَ اللَّهُ، قَالَ أَرْجِعُ إِلَى مَكَانِي‏.‏ فَرَجَعَ فَنَامَ نَوْمَةً، ثُمَّ رَفَعَ رَأْسَهُ، فَإِذَا رَاحِلَتُهُ عِنْدَهُ ‏\"‏‏.‏ تَابَعَهُ أَبُو عَوَانَةَ وَجَرِيرٌ عَنِ الأَعْمَشِ‏.‏ وَقَالَ أَبُو أُسَامَةَ حَدَّثَنَا الأَعْمَشُ حَدَّثَنَا عُمَارَةُ سَمِعْتُ الْحَارِثَ‏.‏ وَقَالَ شُعْبَةُ وَأَبُو مُسْلِمٍ عَنِ الأَعْمَشِ عَنْ إِبْرَاهِيمَ التَّيْمِيِّ عَنِ الْحَارِثِ بْنِ سُوَيْدٍ‏.‏ وَقَالَ أَبُو مُعَاوِيَةَ حَدَّثَنَا الأَعْمَشُ عَنْ عُمَارَةَ عَنِ الأَسْوَدِ عَنْ عَبْدِ اللَّهِ وَعَنْ إِبْرَاهِيمَ التَّيْمِيِّ عَنِ الْحَارِثِ بْنِ سُوَيْدٍ عَنْ عَبْدِ اللَّهِ‏.‏",
+                "headingArabic": "التَّوْبَةِ",
+                "headingUrdu": "التوبہ",
+                "headingEnglish": "At-Tauba",
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6048,
+                "hadithNumber": "6309",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"Allah is more pleased with the repentance of His slave than anyone of you is pleased with finding his camel which he had lost in the desert. \"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ۔ اللہ تعالیٰ اپنے بندے کی توبہ سے تم میں سے اس شخص سے بھی زیادہ خوش ہوتا ہے جس کا اونٹ مایوسی کے بعد اچانک اسے مل گیا ہو حالانکہ وہ ایک چٹیل میدان میں گم ہوا تھا ۔",
+                "urduNarrator": "ہم سے اسحاق بن منصور نے بیان کیا ، کہا ہم کو حبان بن ہلال نے خبر دی ، کہا ہم سے ہمام بن یحییٰ نے بیان  کیا ، کہا ہم سے قتادہ نے بیان کیا اور ان سے حضرت انس بن مالک رضی اللہ عنہ نے بیان کیا اور ان سے نبی کریم صلی اللہ علیہ وسلم نے ( دوسری سند ) امام بخاری نے کہا کہ ہم سے ہدبہ نے بیان کیا ، کہا ہم سے ہمام نے بیان کیا ، کہا ہم سے قتادہ نے بیان کیا ، ان سے حضرت انس بن مالک رضی اللہ عنہ نے بیان کیاکہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ، أَخْبَرَنَا حَبَّانُ، حَدَّثَنَا هَمَّامٌ، حَدَّثَنَا قَتَادَةُ، حَدَّثَنَا أَنَسُ بْنُ مَالِكٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏ وَحَدَّثَنَا هُدْبَةُ، حَدَّثَنَا هَمَّامٌ، حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ اللَّهُ أَفْرَحُ بِتَوْبَةِ عَبْدِهِ مِنْ أَحَدِكُمْ سَقَطَ عَلَى بَعِيرِهِ، وَقَدْ أَضَلَّهُ فِي أَرْضِ فَلاَةٍ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6049,
+                "hadithNumber": "6310",
+                "englishNarrator": "Narrated Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "The Prophet (ﷺ) used to pray eleven rak`at in the late part of the night, and when dawn appeared, he would offer two rak`at and then lie on his right side till the Muadhdhin came to inform him (that the morning prayer was due).",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم رات میں ( تہجدکی ) گیارہ رکعات پڑھتے تھے پھر جب فجر طلوع ہو جاتی تو دوہلکی رکعات ( سنت فجر ) پڑھتے ۔ اس کے بعد آپ دائیں پہلو لیٹ جاتے آخر مؤذن آتا اور آنحضرت صلی اللہ علیہ وسلم کو اطلاع دیتا ۔ تو آپ فجر کی نماز پڑھاتے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن محمد مسندی نے بیان کیا ، انہوں نے کہا ہم سے ہشام بن یوسف نے بیان کیا ، انہوں نے کہا ہم کو معمر نے خبر دی ، انہیں زہری نے ، انہیں عروہ نے اور انہیں حضرت عائشہ رضی اللہ عنہا نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا هِشَامُ بْنُ يُوسُفَ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها كَانَ النَّبِيُّ صلى الله عليه وسلم يُصَلِّي مِنَ اللَّيْلِ إِحْدَى عَشْرَةَ رَكْعَةً، فَإِذَا طَلَعَ الْفَجْرُ صَلَّى رَكْعَتَيْنِ خَفِيفَتَيْنِ، ثُمَّ اضْطَجَعَ عَلَى شِقِّهِ الأَيْمَنِ، حَتَّى يَجِيءَ الْمُؤَذِّنُ فَيُؤْذِنَهُ‏.‏",
+                "headingArabic": "الضَّجْعِ عَلَى الشِّقِّ الأَيْمَنِ",
+                "headingUrdu": "دائیں طرف لیٹنا",
+                "headingEnglish": "Lying on right side",
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6050,
+                "hadithNumber": "6311",
+                "englishNarrator": "Narrated Al-Bara bin `Azib رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said to me, \"When you want to go to bed, perform ablution as you do for prayer, then lie down on your right side and say: 'Allahumma aslamtu wajhi ilaika, wa fawwadtu 'amri ilaika wa alja'tu dhahri ilaika, raghbatan wa rahbatan ilaika, la malja'a wa la manja minka illa ilaika. Amantu bikitabik al-ladhi anzalta wa binabiyyika al-ladhi arsalta'. If you should die then (after reciting this) you will die on the religion of Islam (i.e., as a Muslim); so let these words be the last you say (before going to bed)\" While I was memorizing it, I said, \"Wa birasulika al-ladhi arsalta (in Your Apostle whom You have sent).' The Prophet (ﷺ) said, \"No, but say: Wa binabiyyika al-ladhi arsalta (in Your Prophet whom You have sent).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا جب تو سونے لگے تو نماز کے وضو کی طرح وضو کرپھر دائیں کروٹ لیٹ جا اور یہ دعا پڑھ ۔ ” اے اللہ ! میں نے اپنے آپ کو تیر ی اطاعت میں دے دیا ۔ اپنا سب کچھ تیرے سپرد کر دیا ۔ اپنے معاملات تیرے حوالے کر دئیے ۔ خوف کی وجہ سے اور تیری ( رحمت و ثواب کی ) امید میں کوئی پناہ گا ہ کوئی مخلص تیرے سوا نہیں میں تیری کتاب پر ایمان لایا جو تو نے نازل کی ہے اور تیرے نبی پر جن کو تو نے بھیجاہے “ اس کے بعد اگر تم مرگئے تو فطرت ( دین اسلام پر مروگے پس ان کلمات کو ( رات کی ) سب سے آخری با ت بناؤ جنہیں تم اپنی زبان سے اداکرو ( حضرت براء بن عازب رضی اللہ عنہ نے بیان کیا ) میں نے عرض کی ” وبر سولک الذی ارسلت “ کہنے میں کیا وجہ ہے ؟ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ نہیں وبنبیک الذی ارسلت کہو ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیا ، انہوں نے کہا ہم سے معتمر بن سلیمان نے بیان کیا ، کہا کہ میں نے منصور سے سنا ، ان سے سعد بن عبیدہ نے بیان کیا کہ مجھ سے براء بن عازب رضی اللہ عنہمانے بیان کیا ، انہوں نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا مُعْتَمِرٌ، قَالَ سَمِعْتُ مَنْصُورًا، عَنْ سَعْدِ بْنِ عُبَيْدَةَ، قَالَ حَدَّثَنِي الْبَرَاءُ بْنُ عَازِبٍ ـ رضى الله عنهما ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِذَا أَتَيْتَ مَضْجَعَكَ فَتَوَضَّأْ وَضُوءَكَ لِلصَّلاَةِ، ثُمَّ اضْطَجِعْ عَلَى شِقِّكَ الأَيْمَنِ، وَقُلِ اللَّهُمَّ أَسْلَمْتُ وَجْهِي إِلَيْكَ، وَفَوَّضْتُ أَمْرِي إِلَيْكَ، وَأَلْجَأْتُ ظَهْرِي إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لاَ مَلْجَأَ وَلاَ مَنْجَا مِنْكَ إِلاَّ إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ، وَبِنَبِيِّكَ الَّذِي أَرْسَلْتَ‏.‏ فَإِنْ مُتَّ مُتَّ عَلَى الْفِطْرَةِ، فَاجْعَلْهُنَّ آخِرَ مَا تَقُولُ ‏\"‏‏.‏ فَقُلْتُ أَسْتَذْكِرُهُنَّ وَبِرَسُولِكَ الَّذِي أَرْسَلْتَ‏.‏ قَالَ ‏\"‏ لاَ، وَبِنَبِيِّكَ الَّذِي أَرْسَلْتَ ‏\"‏‏.‏",
+                "headingArabic": "إِذَا بَاتَ طَاهِرًا",
+                "headingUrdu": "وضو کر کے سونا",
+                "headingEnglish": "To sleep with ablution",
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6051,
+                "hadithNumber": "6312",
+                "englishNarrator": "Narrated Hudhaifa رضی اللہ عنہ :",
+                "hadithEnglish": "When the Prophet (ﷺ) went to bed, he would say: \"Bismika amutu wa ahya.\" and when he got up he would say:\" Al-hamdu li l-lahil-ladhi ahyana ba'da ma amatana wa ilaihin-nushur.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم جب اپنے بستر پر لیٹتے تو یہ کہتے ” تیرے ہی نام کے ساتھ میں مردہ اور زندہ رہتا ہوں اور جب بیدار ہوتے تو کہتے اسی اللہ کے لئے تمام تعریفیں ہیں جس نے ہمیں زندہ کیا ۔ اس کے بعد کہ اس نے موت طاری کر دی تھی اور اسی کی طرف لوٹنا ہے ۔ قرآن شریف میں جو لفظ ننشزھا ہے اس کا بھی یہی معنی ہے کہ ہم اس کو نکال کر اٹھاتے ہیں ۔",
+                "urduNarrator": "ہم سے قبیصہ بن عقبہ نے بیان کیا ، کہا ہم سے سفیان ثوری نے بیان کیا ، ان سے عبدالملک بن عمیر نے ، ان سے ربعی بن حراش نے اور ان سے حضرت حذیفہ بن یمان رضی اللہ عنہ نے بیان کیاکہ",
+                "hadithArabic": "حَدَّثَنَا قَبِيصَةُ، حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ الْمَلِكِ، عَنْ رِبْعِيِّ بْنِ حِرَاشٍ، عَنْ حُذَيْفَةَ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا أَوَى إِلَى فِرَاشِهِ قَالَ ‏\"‏ بِاسْمِكَ أَمُوتُ وَأَحْيَا ‏\"‏‏.‏ وَإِذَا قَامَ قَالَ ‏\"‏ الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ ‏\"‏‏.‏ تُنْشِرُهَا: تُخْرِجُهَا.",
+                "headingArabic": "مَا يَقُولُ إِذَا نَامَ",
+                "headingUrdu": "بستر پر جانے پر کیا کہنا ہے",
+                "headingEnglish": "What to say on going to bed",
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6052,
+                "hadithNumber": "6313",
+                "englishNarrator": "Narrated Al-Bara bin `Azib رضی اللہ عنہما :",
+                "hadithEnglish": "That the Prophet (ﷺ) advised a man, saying,  Abu Ishaq Hamdani has reported from Hadrat Braa bin Azib رضی اللہ عنہما that the prophet intructed a man: \"If you intend to lie down (i.e. go to bed), say, 'Allahumma aslamtu nafsi ilaika wa fauwadtu `Amri ilaika, wa wajjahtu wajhi ilaika wa alja'tu zahri ilaika, reghbatan wa rahbatan ilaika. La malja'a wa la manja minka illa ilaika. Amantu bikitabikal-ladhi anzalta; wa nabiyyikalladhi arsalta.' And if you should die then (after reciting this before going to bed) you will die on the religion of Islam\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے ایک صحابی کو حکم دیا ( دوسری سند ) حضرت امام بخاری رحمہ اللہ نے کہا کہ ہم سے آدم نے بیان کیا ، انہوں نے کہا ہم سے شعبہ نے بیان کیاان سے ابواسحاق ہمدانی نے بیان کیا ، اور ان سے حضرت براء بن عازب رضی اللہ عنہما نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے ایک صحابی کو وصیت کی اور فرمایا کہ جب بستر پر جانے لگو تو یہ دعا پڑھا کرو ۔ “ اے اللہ ! میں نے اپنی جان تیرے سپرد کی اور اپنا معاملہ تجھے سونپا اور اپنے آپ کو تیری طرف متوجہ کیا او تجھ پر بھروسہ کیا ، تیری طرف رغبت ہے تیرے خوف کی وجہ سے ، تجھ سے تیرے سوا کوئی جائے پناہ نہیں ، میں تیری کتاب پر ایمان لایا جو تو نے نازل کی اور تیرے نبی پر جنہیں تو نے بھیجا ۔ “ پھر اگر وہ مراتو فطرت ( اسلام ) پر مرے گا ۔",
+                "urduNarrator": "ہم سے سعید بن ربیع اور محمد بن عرعرہ نے بیان کیا ، ان دونوں نے کہا کہ ہم سے شعبہ نے بیان کیا ، ان سے ابواسحاق نے بیان کیا ، انہوں نے حضرت براء بن عاب رضی اللہ عنہما سے سناکہ",
+                "hadithArabic": "حَدَّثَنَا سَعِيدُ بْنُ الرَّبِيعِ، وَمُحَمَّدُ بْنُ عَرْعَرَةَ، قَالاَ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، سَمِعَ الْبَرَاءَ بْنَ عَازِبٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم أَمَرَ رَجُلاً‏.‏ وَحَدَّثَنَا آدَمُ حَدَّثَنَا شُعْبَةُ حَدَّثَنَا أَبُو إِسْحَاقَ الْهَمْدَانِيُّ عَنِ الْبَرَاءِ بْنِ عَازِبٍ أَنَّ النَّبِيَّ صلى الله عليه وسلم أَوْصَى رَجُلاً فَقَالَ ‏ \"‏ إِذَا أَرَدْتَ مَضْجَعَكَ فَقُلِ اللَّهُمَّ أَسْلَمْتُ نَفْسِي إِلَيْكَ، وَفَوَّضْتُ أَمْرِي إِلَيْكَ، وَوَجَّهْتُ وَجْهِي إِلَيْكَ، وَأَلْجَأْتُ ظَهْرِي إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لاَ مَلْجَأَ وَلاَ مَنْجَا مِنْكَ إِلاَّ إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ، وَبِنَبِيِّكَ الَّذِي أَرْسَلْتَ‏.‏ فَإِنْ مُتَّ مُتَّ عَلَى الْفِطْرَةِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 6026,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=241",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=239",
+                "label": "239",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=240",
+                "label": "240",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=241",
+                "label": "241",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=242",
+                "label": "242",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=243",
+                "label": "243",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=244",
+                "label": "244",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=245",
+                "label": "245",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=243",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=243",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=241",
+        "to": 6050,
+        "total": 40465
+    }
+}

@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 449,
+        "data": [
+            {
+                "id": 11489,
+                "hadithNumber": "3925",
+                "englishNarrator": "Jabir bin Abdullah (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "We used to get land (on rent) during the lifetime of Allah's Messenger, ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) with a share of one-third or one-fourth (of the produce from the land irrigated) with the help of canals. Thereupon Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) stood up (to address) and said: HRe who has land should cultivate it, and if he does not cultivate it, he should lend it to his brother, and if he does not lend it to his brother, he should then retain it.",
+                "hadithUrdu": "ہم رسول اللہ صلی اللہ علیہ وسلم کے زمانے میں تہائی یا چوتھائی حصے کے عوض ، نالوں ( کے کناروں کی پیداوار ) کے عوض زمین لیتے تھے تو رسول اللہ صلی اللہ علیہ وسلم اس بارے میں ( خطبہ دینے کے لیے ) کھڑے ہوئے اور فرمایا : \" جس کے پاس زمین ہو تو ( بہتر ہے ) وہ اسے کاشت کرے ۔ \" اگر وہ خود اسے کاشت نہیں کرتا تو اپنے بھائی کوعاریتا دے دے ، اگر وہ اسے اپنے بھائی کو بھی نہیں دیتا تو اس کو اپنے پاس رکھ لے.",
+                "urduNarrator": "مجھ سے ابو الطاہر اور احمد بن عیسی نے بیان کیا، ابن وہب نے کہا: ہم سے عبداللہ بن وہب نے بیان کیا, ہشام بن سعد نے مجھے حدیث بیان کی کہ انہیں ابوزبیر مکی نے حدیث بیان کی ، انہوں نے کہا : میں نے حضرت جابر بن عبداللہ رضی اللہ عنہ سے سنا ، وہ کہہ رہے تھے",
+                "hadithArabic": "حَدَّثَنِي أَبُو الطَّاهِرِ، وَأَحْمَدُ بْنُ عِيسَى، جَمِيعًا عَنِ ابْنِ وَهْبٍ، قَالَ ابْنُ عِيسَى: حَدَّثَنَا عَبْدُ اللهِ بْنُ وَهْبٍ، حَدَّثَنِي هِشَامُ بْنُ سَعْدٍ، أَنَّ أَبَا الزُّبَيْرِ الْمَكِّيَّ، حَدَّثَهُ، قَالَ: سَمِعْتُ جَابِرَ بْنَ عَبْدِ اللهِ، يَقُولُ: كُنَّا فِي زَمَانِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَأْخُذُ الْأَرْضَ بِالثُّلُثِ أَوِ الرُّبُعِ بِالْمَاذِيَانَاتِ، فَقَامَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي ذَلِكَ فَقَالَ: «مَنْ كَانَتْ لَهُ أَرْضٌ فَلْيَزْرَعْهَا، فَإِنْ لَمْ يَزْرَعْهَا فَلْيَمْنَحْهَا أَخَاهُ، فَإِنْ لَمْ يَمْنَحْهَا أَخَاهُ فَلْيُمْسِكْهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11490,
+                "hadithNumber": "3926",
+                "englishNarrator": "Jabir (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "I heard Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying: He who has (surplus) land should donate it (to others), or lend it.",
+                "hadithUrdu": "میں نے نبی صلی اللہ علیہ وسلم سے سنا ، آپ فرما رہے تھے : \" جس کے پاس زمین ہو تو ( بہتر ہے کہ ) وہ اسے ہبہ کرے یا عاریتا دے دے.",
+                "urduNarrator": "ہم سے محمد بن المثنی نے بیان کیا، کہا ہم سے یحییٰ بن حماد نے بیان کیا, ابو عوانہ نے ہمیں سلیمان ( اعمش ) سے حدیث بیان کی ، کہا : ہمیں ابوسفیان ( طلحہ بن نافع ) نے حضرت جابر رضی اللہ عنہ سے حدیث بیان کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى بْنُ حَمَّادٍ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ سُلَيْمَانَ، حَدَّثَنَا أَبُو سُفْيَانَ، عَنْ جَابِرٍ، قَالَ: سَمِعْتُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «مَنْ كَانَتْ لَهُ أَرْضٌ فَلْيَهَبْهَا، أَوْ لِيُعِرْهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11491,
+                "hadithNumber": "3927",
+                "englishNarrator": "It was narrated from Al-Amash with this chain (a Hadith similar to no. 3926), except that he said:",
+                "hadithEnglish": "\"Let him cultivate it, or let his brother cultivate it.\"",
+                "hadithUrdu": "\" وہ اسے کاشت کرے یا کسی اور آدمی کو کاشت کاری کے لیے دے.\"",
+                "urduNarrator": "مجھ سے حجاج بن الشعر نے بیان کیا، ہم سے ابو الجواب نے بیان کیا، عمار بن رُزَیق نے اعمش سے اسی سند کے ساتھ یہی حدیث بیان کی ، البتہ انہوں نے کہا",
+                "hadithArabic": "وحَدَّثَنِيهِ حَجَّاجُ بْنُ الشَّاعِرِ، حَدَّثَنَا أَبُو الْجَوَّابِ، حَدَّثَنَا عَمَّارُ بْنُ رُزَيْقٍ، عَنِ الْأَعْمَشِ، بِهَذَا الْإِسْنَادِ غَيْرَ أَنَّهُ قَالَ: فَلْيَزْرَعْهَا، أَوْ فَلْيُزْرِعْهَا رَجُلًا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11492,
+                "hadithNumber": "3928",
+                "englishNarrator": "Jabir bin `Abdullah (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) had forbidden renting of land. Bukair (one of the narrators) said: Nafi` reported to me that he heard Ibn `Umar (رضی اللہ عنہ) saying: We used to give land on rent; we then abandoned this practice when we heard the hadith of Rafi` bin Khadij رضی اللہ عنہ .",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے زمین کو ( ممنوعہ طریقے سے ) کرائے پر دینے سے منع فرمایا ۔ بکیر نے کہا : مجھے نافع نے حدیث بیان کی کہ انہوں نے حضرت ابن عمر رضی اللہ عنہ سے سنا ، وہ کہہ رہے تھے : ہم اپنی زمینیں بٹائی پر دیتے تھے ، پھر جب ہم نے حضرت رافع بن خدیج رضی اللہ عنہ کی حدیث سنی تو اسے ترک کر دیا.",
+                "urduNarrator": "مجھ سے ہارون بن سعید الایلی نے بیان کیا، مجھ سے ابن وہب نے بیان کیا، مجھ سے عمرو نے جو ابن حارث ہیں، بیان کیا, بکیر نے حدیث بیان کی کہ انہیں عبداللہ بن ابی سلمہ نے نعمان بن ابی عیاش سے حدیث بیان کی اور انہوں نے حضرت جابر بن عبداللہ رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "وحَدَّثَنِي هَارُونُ بْنُ سَعِيدٍ الْأَيْلِيُّ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي عَمْرٌو وَهُوَ ابْنُ الْحَارِثِ، أَنَّ بُكَيْرًا، حَدَّثَهُ، أَنَّ عَبْدَ اللهِ بْنَ أَبِي سَلَمَةَ، حَدَّثَهُ، عَنِ النُّعْمَانِ بْنِ أَبِي عَيَّاشٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللهِ، «أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ كِرَاءِ الْأَرْضِ»، قَالَ بُكَيْرٌ: وَحَدَّثَنِي نَافِعٌ، أَنَّهُ سَمِعَ ابْنَ عُمَرَ، يَقُولُ: كُنَّا نُكْرِي أَرْضَنَا، ثُمَّ تَرَكْنَا ذَلِكَ حِينَ سَمِعْنَا حَدِيثَ رَافِعِ بْنِ خَدِيجٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11493,
+                "hadithNumber": "3929",
+                "englishNarrator": "Jabir ( رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbidding the selling (renting of) uncultivated land for two years or three.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے خالی زمین کی دو یا تین سالوں کے لیے بیع کرنے سے منع فرمایا.",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، کہا ہم سے ابو خیثمہ نے بیان کیا, ابوزبیر نے حضرت جابر رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا أَبُو خَيْثَمَةَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ: «نَهَى رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنْ بَيْعِ الْأَرْضِ الْبَيْضَاءِ سَنَتَيْنِ أَوْ ثَلَاثًا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11494,
+                "hadithNumber": "3930",
+                "englishNarrator": "Jabir (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbidding selling of (produce) in advance for two years, and in the narmtion of Ibu Abd Shaiba (the words are): Selling of the fruits (on the tree) in advance for two years.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے کئی سالوں کی بیع سے منع فرمایا ۔ ابوبکر بن ابی شیبہ کی روایت میں ہے : پھلوں کی کئی سال کے لیے بیع سے ( منع فرمایا).",
+                "urduNarrator": "سعید بن منصور ، ابوبکر بن ابی شیبہ ، عمرو ناقد اور زہیر بن حرب نے کہا : ہمیں سفیان بن عیینہ نے حمید اعرج سے حدیث بیان کی ، انہوں نے سلیمان بن عتیق سے اور انہوں نے حضرت جابر رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "وحَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَمْرٌو النَّاقِدُ، وَزُهَيْرُ بْنُ حَرْبٍ، قَالُوا: حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ حُمَيْدٍ الْأَعْرَجِ، عَنْ سُلَيْمَانَ بْنِ عَتِيقٍ، عَنْ جَابِرٍ، قَالَ: «نَهَى النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنْ بَيْعِ السِّنِينَ»، وَفِي رِوَايَةِ ابْنِ أَبِي شَيْبَةَ: عَنْ بَيْعِ الثَّمَرِ سِنِينَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11495,
+                "hadithNumber": "3931",
+                "englishNarrator": "Abu Huraira (Allah be pleased with him) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying: He who has land should cultivate it or lend it to his brother, but if he refuses, he should retain his land.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جس کی زمین ہو وہ اسے خود کاشت کرے یا اپنے بھائی کو عاریتا دے دے ، اگر وہ نہیں مانتا تو اپنی زمین اپنے پاس رکھے ۔ \" ( غلط طریقے سے بٹائی پر نہ دے)",
+                "urduNarrator": "ہم سے حسن بن علی الحلوانی نے بیان کیا، کہا ہم سے ابو توبہ نے بیان کیا، کہا ہم سے معاویہ نے بیان کیا، ان سے یحییٰ بن ابی کثیر نے، وہ ابو سلمہ بن عبد کی سند سے ,سب سے زیادہ رحم کرنے والا,حضرت ابوہریرہ رضی اللہ عنہ سے روایت ہے ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا حَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ، حَدَّثَنَا أَبُو تَوْبَةَ، حَدَّثَنَا مُعَاوِيَةُ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنْ كَانَتْ لَهُ أَرْضٌ فَلْيَزْرَعْهَا، أَوْ لِيَمْنَحْهَا أَخَاهُ، فَإِنْ أَبَى فَلْيُمْسِكْ أَرْضَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11496,
+                "hadithNumber": "3932",
+                "englishNarrator": "Jabir bin Abdullah (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "I heard Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbidding Muzabana, and Huqul. Jabir bin Abdullah (رضی اللہ عنہ) said: Muzabana means the selling of fruits for dry dates and Huqul is the renting of land.",
+                "hadithUrdu": "انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ، آپ مزابنہ اور حُقول سے منع فرما رہے تھے ۔ حضرت جابر بن عبداللہ رضی اللہ عنہ نے کہا : مزابنہ سے مراد ( کھجور پر لگے ) پھل کی خشک کھجور سے بیع ہے اور حقول سے مراد زمین کو ( اس کی پیداوار کے متعین حصے کے عوض ) بٹائی پر دینا ہے.",
+                "urduNarrator": "ہم سے حسن الحلوانی نے بیان کیا، کہا ہم سے ابو توبہ نے بیان کیا، کہا کہ ہم سے معاویہ نے بیان کیا، ان سے یحییٰ بن ابی کثیر نے بیان کیا کہ ان سے یزید بن نعیم نے بیان کیا, حضرت جابر بن عبداللہ رضی اللہ عنہ نے خبر دی کہ",
+                "hadithArabic": "وحَدَّثَنَا الْحَسَنُ الْحُلْوَانِيُّ، حَدَّثَنَا أَبُو تَوْبَةَ، حَدَّثَنَا مُعَاوِيَةُ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، أَنَّ يَزِيدَ بْنَ نُعَيْمٍ، أَخْبَرَهُ، أَنَّ جَابِرَ بْنَ عَبْدِ اللهِ، أَخْبَرَهُ أَنَّهُ سَمِعَ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «يَنْهَى عَنِ الْمُزَابَنَةِ وَالْحُقُولِ»، فَقَالَ جَابِرُ بْنُ عَبْدِ اللهِ: الْمُزَابَنَةُ: الثَّمَرُ بِالتَّمْرِ، وَالْحُقُولُ: كِرَاءُ الْأَرْضِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11497,
+                "hadithNumber": "3933",
+                "englishNarrator": "Abu Huraira (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbidding Muhaqala and Muzabana.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے محاقلہ اور مزابنہ سے منع فرمایا.",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا، کہا ہم سے یعقوب، یعنی ابن عبدالرحمٰن القاری نے، ہم سے سہیل بن ابی صالح نے اپنے والد کی سند سے بیان کیا, حضرت ابوہریرہ رضی اللہ عنہ سے روایت ہے ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا يَعْقُوبُ يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ الْقَارِيَّ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: «نَهَى رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنِ الْمُحَاقَلَةِ، وَالْمُزَابَنَةِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11498,
+                "hadithNumber": "3934",
+                "englishNarrator": "Abu Sa'id al-Khudri (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) having forbidden Mazabana and Muhaqala. Muzibana means the buying of fruits on the trees and Muhaqala is the renting of land.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے مزابنہ اور محاقلہ سے منع فرمایا ۔ مزابنہ درخت پر لگی کھجور کو ( خشک کھجور کے عوض ) خریدنا ہے اور محاقلہ سے مراد زمین کو کرائے پر دینا ہے.",
+                "urduNarrator": "مجھ سے ابو الطاہر نے بیان کیا، ہم سے ابن وہب نے بیان کیا، کہا کہ مجھ سے مالک بن انس نے، داؤد بن حصین کی سند سے بیان کیا کہ ابو سفیان جو ابن کے موکل تھے۔ ابو احمد نے اسے بتایا کہ اس نے سنا ہے,حضرت ابوسعید خدری رضی اللہ عنہ کہتے ہیں",
+                "hadithArabic": "وحَدَّثَنِي أَبُو الطَّاهِرِ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي مَالِكُ بْنُ أَنَسٍ، عَنْ دَاوُدَ بْنِ الْحُصَيْنِ، أَنَّ أَبَا سُفْيَانَ، مَوْلَى ابْنِ أَبِي أَحْمَدَ، أَخْبَرَهُ أَنَّهُ سَمِعَ أَبَا سَعِيدٍ الْخُدْرِيَّ، يَقُولُ: «نَهَى رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنِ الْمُزَابَنَةِ، وَالْمُحَاقَلَةِ»، وَالْمُزَابَنَةُ: اشْتِرَاءُ الثَّمَرِ فِي رُءُوسِ النَّخْلِ، وَالْمُحَاقَلَةُ: كِرَاءُ الْأَرْضِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11499,
+                "hadithNumber": "3935",
+                "englishNarrator": "Zaid bin Amr reported:",
+                "hadithEnglish": "I heard Ibn Umar (رضی اللہ عنہ) say: We did not see any harm in renting of the land, but as the first year was over Rafi' رضی اللہ عنہ alleged Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) having forbidden that.",
+                "hadithUrdu": "میں نے حضرت ابن عمر رضی اللہ عنہ سے سنا ، وہ کہہ رہے تھے : ہم مخابرہ میں کوئی حرج نہیں سمجھتے تھے حتی کہ وہ پہلا سال آیا جس میں ( یزید کی امارت کے لیے بیعت لی گئی ) تو حضرت رافع رضی اللہ عنہ نے خیال کیا کہ نبی صلی اللہ علیہ وسلم نے اس سے منع فرمایا ہے.",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ اور ابو الربیع العتکی نے بیان کیا، کہا کہ ہم سے انہوں نے بیان کیا اور یحییٰ نے کہا, حماد بن زید نے ہمیں عمرو ( بن دینار ) سے خبر دی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَأَبُو الرَّبِيعِ الْعَتَكِيُّ، قَالَ أَبُو الرَّبِيعِ: حَدَّثَنَا، وقَالَ يَحْيَى: أَخْبَرَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ عَمْرٍو، قَالَ: سَمِعْتُ ابْنَ عُمَرَ، يَقُولُ: «كُنَّا لَا نَرَى بِالْخِبْرِ بَأْسًا حَتَّى كَانَ عَامُ أَوَّلَ، فَزَعَمَ رَافِعٌ أَنَّ نَبِيَّ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11500,
+                "hadithNumber": "3936",
+                "englishNarrator": "This hadith has been narrated on the authority of Amr bin Dinar with the same chain of transmitters but (in) the hadith transmitted on the authority of 'Uyainah (the words are):",
+                "hadithEnglish": "We abandoned it (renting) on account of that.",
+                "hadithUrdu": "تو ہم نے ان ( رافع رضی اللہ عنہ ) کی وجہ سے ( احتیاطا ) اسے چھوڑ دیا.",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا,سفیان ( بن عیینہ ) ، ایوب اور سفیان ( ثوری ) سب نے عمرو بن دینار سے اسی سند کے ساتھ اسی کے مانند روایت کی اور ابن عیینہ کی حدیث میں یہ اضافہ کیا",
+                "hadithArabic": "وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ، ح وحَدَّثَنِي عَلِيُّ بْنُ حُجْرٍ، وَإِبْرَاهِيمُ بْنُ دِينَارٍ، قَالَا: حَدَّثَنَا إِسْمَاعِيلُ وَهُوَ ابْنُ عُلَيَّةَ، عَنْ أَيُّوبَ، ح وحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، كُلُّهُمْ عَنْ عَمْرِو بْنِ دِينَارٍ بِهَذَا الْإِسْنَادِ مِثْلَهُ، وَزَادَ فِي حَدِيثِ ابْنِ عُيَيْنَةَ: فَتَرَكْنَاهُ مِنْ أَجْلِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11501,
+                "hadithNumber": "3937",
+                "englishNarrator": "Ibn 'Umar ( رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Rafi رضی اللہ عنہ forbade us from benefitting from our land (in the form of rent).",
+                "hadithUrdu": "رافع رضی اللہ عنہ نے ہماری زمین کا منافع ہم سے روک دیا.",
+                "urduNarrator": "مجھ سے علی بن حجر نے بیان کیا، ہم سے اسماعیل نے بیان کیا، ایوب کی سند سے، ابو الخلیل کی سند سے, مجاہد سے روایت ہے ، انہوں نے کہا : حضرت ابن عمر رضی اللہ عنہ نے کہا",
+                "hadithArabic": "وحَدَّثَنِي عَلِيُّ بْنُ حُجْرٍ، حَدَّثَنَا إِسْمَاعِيلُ، عَنْ أَيُّوبَ، عَنْ أَبِي الْخَلِيلِ، عَنْ مُجَاهِدٍ، قَالَ: قَالَ ابْنُ عُمَرَ: «لَقَدْ مَنَعَنَا رَافِعٌ نَفْعَ أَرْضِنَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11502,
+                "hadithNumber": "3938",
+                "englishNarrator": "Nafi reported:",
+                "hadithEnglish": "Ibn Umar (رضی اللہ عنہ) rented his land during the lifetime of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) and during the caliphate of Abu Bakr and that of Umar and that of Uthman (رضی اللہ عنہ) and during the early period of Muawiya's caliphate until at the end of Muawiya's reign, it reached him (Ibn 'Umar) that Rafi bin Khadij (رضی اللہ عنہ) narratted (a hadith) in which (there was a decree) of prohibition by Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌). He (Ibn 'Umar رضی اللہ عنہ) went to him (Rafi bin Khadij رضی اللہ عنہ) and I was with him and he asked him, whereupon he said: Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) used to forbid the renting of land. So Ibn Umar (رضی اللہ عنہ) abandoned it, and subsequently whenever he was asked about it, he said: Rafi bin Khadij (رضی اللہ عنہ) alleged that Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbade it.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کے عہد میں اور حضرت ابوبکر ، عمر اور عثمان رضی اللہ عنہ کے دور امارت میں اور حضرت معاویہ رضی اللہ عنہ کی خلافت کے ابتدائی ایام تک حضرت ابن عمر رضی اللہ عنہ اپنی زمینوں کو بٹائی پر دیتے تھے حتی کہ حضرت معاویہ کی خلافت کے آخری ایام میں انہیں یہ بات پہنچی کہ حضرت رافع بن خدیج رضی اللہ عنہ اس کے بارے میں نبی صلی اللہ علیہ وسلم سے ممانعت بیان کرتے ہیں ، چنانچہ وہ ان کے پاس گئے ، میں بھی ان کے ساتھ تھا ، انہوں نے ان سے دریافت کیا تو انہوں نے کہا : رسول اللہ صلی اللہ علیہ وسلم زمینوں کو بٹائی پر دینے سے منع فرماتے تھے ۔ اس کے بعد ابن عمر رضی اللہ عنہ نے اسے چھوڑ دیا ۔ بعد ازیں جب حضرت ابن عمر رضی اللہ عنہ سے اس کے بارے میں پوچھا جاتا تو وہ کہتے : رافع بن خدیج رضی اللہ عنہ کا خیال ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے اس سے منع فرمایا ہے.",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا, یزید بن زریع نے ہمیں ایوب سے خبر دی اور انہوں نے نافع سے روایت کی کہ",
+                "hadithArabic": "وحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا يَزِيدُ بْنُ زُرَيْعٍ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، أَنَّ ابْنَ عُمَرَ، كَانَ يُكْرِي مَزَارِعَهُ عَلَى عَهْدِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَفِي إِمَارَةِ أَبِي بَكْرٍ، وَعُمَرَ، وَعُثْمَانَ، وَصَدْرًا مِنْ خِلَافَةِ مُعَاوِيَةَ، حَتَّى بَلَغَهُ فِي آخِرِ خِلَافَةِ مُعَاوِيَةَ، أَنَّ رَافِعَ بْنَ خَدِيجٍ، يُحَدِّثُ فِيهَا بِنَهْيٍ عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَدَخَلَ عَلَيْهِ، وَأَنَا مَعَهُ، فَسَأَلَهُ، فَقَالَ: «كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَنْهَى عَنْ كِرَاءِ الْمَزَارِعِ»، فَتَرَكَهَا ابْنُ عُمَرَ بَعْدُ، وَكَانَ إِذَا سُئِلَ عَنْهَا بَعْدُ قَالَ: زَعَمَ رَافِعُ بْنُ خَدِيجٍ أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11503,
+                "hadithNumber": "3939",
+                "englishNarrator": "This hadith has been narrated on the authority of Ayyub and he made an addition in the hadith narrated by Ibn Ulayya in which he said:",
+                "hadithEnglish": "Ibn Umar رضی اللہ عنہ abandoned it afterwards and he did not rent it (the land).",
+                "hadithUrdu": "اس کے بعد حضرت ابن عمر رضی اللہ عنہ نے اسے چھوڑ دیا اور وہ اسے ( اپنی زمین کو ) کرائے پر نہیں دیتے تھے.",
+                "urduNarrator": "ہم سے ابو الربیع اور ابو کامل نے بیان کیا,حماد بن زید اور اسماعیل ( ابن علیہ ) دونوں نے ایوب سے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی اور ابن علیہ کی حدیث میں یہ اضافہ ہے ، کہا",
+                "hadithArabic": "وحَدَّثَنَا أَبُو الرَّبِيعِ، وَأَبُو كَامِلٍ، قَالَا: حَدَّثَنَا حَمَّادٌ، ح وحَدَّثَنِي عَلِيُّ بْنُ حُجْرٍ، حَدَّثَنَا إِسْمَاعِيلُ، كِلَاهُمَا عَنْ أَيُّوبَ بِهَذَا الْإِسْنَادِ مِثْلَهُ، وَزَادَ فِي حَدِيثِ ابْنِ عُلَيَّةَ قَالَ: فَتَرَكَهَا ابْنُ عُمَرَ بَعْدَ ذَلِكَ، فَكَانَ لَا يُكْرِيهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11504,
+                "hadithNumber": "3940",
+                "englishNarrator": "Nafi reported:",
+                "hadithEnglish": "I went to Rafi bin Khadij رضی اللہ عنہ in the company of Ibn 'Umar (رضی اللہ عنہ) until he (Ibn 'Umar رضی اللہ عنہ) came to him at Balat (a place near Prophet's Mosque at Medina) and he (Rafi bin Khadij رضی اللہ عنہ) informed him that Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) had forbidden the renting of land.",
+                "hadithUrdu": "میں حضرت ابن عمر رضی اللہ عنہ کے ساتھ حضرت رافع بن خدیج رضی اللہ عنہ کی طرف گیا یہاں تک وہ ان کے پاس بَلاط کے مقام پر پہنچے تو انہوں نے انہیں ( ابن عمر رضی اللہ عنہ کو ) بتایا کہ رسول اللہ صلی اللہ علیہ وسلم نے زمینوں کو کرائے پر دینے سے منع فرمایا تھا.",
+                "urduNarrator": "ہم سے ابن نمیر نے بیان کیا، کہا ہم سے میرے والد نے بیان کیا، انہوں نے کہاعبیداللہ نے ہمیں نافع سے حدیث بیان کی ، انہوں نے کہا",
+                "hadithArabic": "وحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا عُبَيْدُ اللهِ، عَنْ نَافِعٍ، قَالَ: ذَهَبْتُ مَعَ ابْنِ عُمَرَ إِلَى رَافِعِ بْنِ خَدِيجٍ حَتَّى أَتَاهُ بِالْبَلَاطِ، فَأَخْبَرَهُ، «أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ كِرَاءِ الْمَزَارِعِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11505,
+                "hadithNumber": "3941",
+                "englishNarrator": "Nafi, reported from Ibn Umar ( رضی اللہ عنہ):",
+                "hadithEnglish": "He came to Rafi رضی اللہ عنہ and he narrated this hadith from Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ).",
+                "hadithUrdu": "وہ حضرت رافع رضی اللہ عنہ کے پاس آئے ۔ ۔ پھر ( ان کے حوالے سے ) یہی حدیث نبی صلی اللہ علیہ وسلم سے روایت کرتے ہوئے بیان کی.",
+                "urduNarrator": "مجھ سے ابن ابی خلف اور حجاج بن الشاعر نے بیان کیا، کہا کہ ہم سے زکریا بن عدی نے بیان کیا، ہم سے عبید اللہ بن عمرو نے بیان کیا، وہ زید رضی اللہ عنہ سے,حکم نے نافع سے اور انہوں نے حضرت ابن عمر رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "وحَدَّثَنِي ابْنُ أَبِي خَلَفٍ، وَحَجَّاجُ بْنُ الشَّاعِرِ، قَالَا: حَدَّثَنَا زَكَرِيَّا بْنُ عَدِيٍّ، أَخْبَرَنَا عُبَيْدُ اللهِ بْنُ عَمْرٍو، عَنْ زَيْدٍ، عَنِ الْحَكَمِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ أَنَّهُ أَتَى رَافِعًا، فَذَكَرَ هَذَا الْحَدِيثَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11506,
+                "hadithNumber": "3942",
+                "englishNarrator": "Nafi, reported:",
+                "hadithEnglish": "Ibn Umar (رضی اللہ عنہ) used to rent the land, and that he was conveyed the hadith transmitted on the authority of Rafi bin Khadij. He (the narrator) said: He then went to him along with me. He (Rafi) narrated from some of his uncles in which it was mentioned that Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbade the renting of land. Ibn 'Umar (رضی اللہ عنہ) then abandoned this practice of renting.",
+                "hadithUrdu": "حضرت ابن عمر رضی اللہ عنہ زمین کو اجرت پر دیتے تھے ، کہا : انہیں حضرت رافع بن خدیج رضی اللہ عنہ کے حوالے سے حدیث بتائی گئی ، کہا : وہ میرے ساتھ ان کے ہاں گئے تو انہوں نے اپنے بعض چچاؤں سے بیان کیا ، انہوں نے اس حدیث میں نبی صلی اللہ علیہ وسلم سے بیان کیا کہ آپ نے زمین کو کرائے پر دینے سے منع فرمایا ہے ۔ کہا : تو حضرت ابن عمر رضی اللہ عنہ نے اسے چھوڑ دیا اور زمین اجرت پر نہ دی.",
+                "urduNarrator": "ہم سے محمد بن المثنی نے بیان کیا, حسین بن حسن بن یسار نے ہمیں حدیث بیان کی ، کہا : ہمیں ابن عون نے نافع سے حدیث بیان کی کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا حُسَيْنٌ يَعْنِي ابْنَ حَسَنِ بْنِ يَسَارٍ، حَدَّثَنَا ابْنُ عَوْنٍ، عَنْ نَافِعٍ، أَنَّ ابْنَ عُمَرَ، كَانَ يَأْجُرُ الْأَرْضَ، قَالَ: فَنُبِّئَ حَدِيثًا عَنْ رَافِعِ بْنِ خَدِيجٍ، قَالَ: فَانْطَلَقَ بِي مَعَهُ إِلَيْهِ، قَالَ: فَذَكَرَ عَنْ بَعْضُ عُمُومَتِهِ، ذَكَرَ فِيهِ عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، «أَنَّهُ نَهَى عَنْ كِرَاءِ الْأَرْضِ»، قَالَ: «فَتَرَكَهُ ابْنُ عُمَرَ فَلَمْ يَأْجُرْهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11507,
+                "hadithNumber": "3943",
+                "englishNarrator": "Ibn 'Awn narrated (a Hadith as no. 3942) it with this chain, and he said:",
+                "hadithEnglish": "\"He Rafi narrated to him from some of his paternal uncles, from the prophet ﷺ.",
+                "hadithUrdu": "انہوں نے اپنے بعض چچاؤں کے واسطے سے نبی صلی اللہ علیہ وسلم سے یہ حدیث بیان کی.",
+                "urduNarrator": "مجھ سے محمد بن حاتم نے کہا, یزید بن ہارون نے کہا : ہمیں ابن عون نے اسی سند کے ساتھ حدیث بیان کی اور کہا",
+                "hadithArabic": "وحَدَّثَنِيهِ مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، حَدَّثَنَا ابْنُ عَوْنٍ، بِهَذَا الْإِسْنَادِ، وَقَالَ: فَحَدَّثَهُ عَنْ بَعْضِ عُمُومَتِهِ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11508,
+                "hadithNumber": "3944",
+                "englishNarrator": "Salim bin Abdullah reported:",
+                "hadithEnglish": "Abdullah bin Umar ( رضی اللہ عنہ) used to give land on rent until (this news) reached him that Rafi bin Khadij Ansari رضی اللہ عنہ used to forbid the renting of land. Abdullah  رضی اللہ عنہ met him and said: Ibn Khadij, what is this that you narrate from Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) pertaining to renting of land? Rafi bin Khadij رضی اللہ عنہ said to Abdullah: I heard it from two uncles of mine and they had participated in the Battle of Badr who narrated to the members of the family that Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbade the renting of land. Abdullah رضی اللہ عنہ said: I knew it that the land was rented during the lifetime of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌). Abdullah  رضی اللہ عنہ then apprehended that Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) might have said something new in this connection (in regard to prohibition of renting) which I failed to know. So he abandoned the renting of land.",
+                "hadithUrdu": "حضرت عبداللہ بن عمر رضی اللہ عنہ اپنی زمینیں کرائے پر دیتے تھے حتی کہ انہیں یہ بات پہنچی کہ حضرت رافع بن خدیج رضی اللہ عنہ زمین کو کرائے پر دینے سے منع کرتے ہیں ، چنانچہ حضرت عبداللہ رضی اللہ عنہ نے ان سے ملاقات کی اور کہا : ابن خدیج! آپ زمین کو کرائے پر دینے کے بارے میں رسول اللہ صلی اللہ علیہ وسلم سے کیا بیان کرتے ہیں؟ حضرت رافع بن خدیج رضی اللہ عنہ نے حضرت عبداللہ رضی اللہ عنہ سے کہا : میں نے اپنے دو چچاؤں سے سنا اور وہ دونوں بدر میں شریک ہوئے تھے ، وہ اپنے گھرانے کے لوگوں کو حدیث بیان کر رہے تھے کہ رسول اللہ صلی اللہ علیہ وسلم نے زمین کو بٹائی پر دینے سے منع فرمایا ہے ۔ حضرت عبداللہ رضی اللہ عنہ نے کہا : میں رسول اللہ صلی اللہ علیہ وسلم کے زمانے میں بخوبی جانتا تھا کہ زمین کرائے پر دی جاتی تھی ۔ پھر حضرت عبداللہ رضی اللہ عنہ کو خوف ہوا کہ ( ممکن ہے ) رسول اللہ صلی اللہ علیہ وسلم نے اس کے بارے میں کوئی نیا حکم جاری کیا ہو جس کا انہیں علم نہ ہوا ہو ، لہذا انہوں نے زمین کو کرائے پر دینا چھوڑ دیا.",
+                "urduNarrator": "مجھ سے عبد الملک بن شعیب بن لیث بن سعد نے بیان کیا، مجھ سے میرے والد نے بیان کیا، میرے دادا سے، عقیل بن خالد نے مجھ سے ابن شہاب کی سند سے بیان کیا کہ اس نے کہا,سالم بن عبداللہ نے خبر دی کہ",
+                "hadithArabic": "وحَدَّثَنِي عَبْدُ الْمَلِكِ بْنُ شُعَيْبِ بْنِ اللَّيْثِ بْنِ سَعْدٍ، حَدَّثَنِي أَبِي، عَنْ جَدِّي، حَدَّثَنِي عُقَيْلُ بْنُ خَالِدٍ، عَنِ ابْنِ شِهَابٍ، أَنَّهُ قَالَ: أَخْبَرَنِي سَالِمُ بْنُ عَبْدِ اللهِ، أَنَّ عَبْدَ اللهِ بْنَ عُمَرَ، كَانَ يُكْرِي أَرَضِيهِ، حَتَّى بَلَغَهُ أَنَّ رَافِعَ بْنَ خَدِيجٍ الْأَنْصَارِيَّ كَانَ يَنْهَى عَنْ كِرَاءِ الْأَرْضِ، فَلَقِيَهُ عَبْدُ اللهِ، فَقَالَ: يَا ابْنَ خَدِيجٍ، مَاذَا تُحَدِّثُ عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي كِرَاءِ الْأَرْضِ، قَالَ رَافِعُ بْنُ خَدِيجٍ لِعَبْدِ اللهِ: سَمِعْتُ عَمَّيَّ، وَكَانَا قَدْ شَهِدَا بَدْرًا، يُحَدِّثَانِ أَهْلَ الدَّارِ، «أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ كِرَاءِ الْأَرْضِ»، قَالَ عَبْدُ اللهِ: لَقَدْ كُنْتُ أَعْلَمُ فِي عَهْدِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَنَّ الْأَرْضَ تُكْرَى، ثُمَّ خَشِيَ عَبْدُ اللهِ أَنْ يَكُونَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَحْدَثَ فِي ذَلِكَ شَيْئًا لَمْ يَكُنْ عَلِمَهُ، فَتَرَكَ كِرَاءَ الْأَرْضِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11509,
+                "hadithNumber": "3945",
+                "englishNarrator": "Rafi bin Khadij (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "We used to give on rent land during the lifetime of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ). We rented it on the share of one-third or one-fourth of the (produce) along with a definite quantity of corn. One day a person from among my uncles came to us and said: Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbade us this act which was a source of benefit to us, but the obedience to Allah and to His Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) is more beneficial to us. He forbade us that we should rent land with one-third or one-fourth of (the produce) and the corn of a measure, and he commanded the owner of land that he should cultivate it or let it be cultivated by other (persons) but he showed disapproval of renting it or anything besides it.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کے زمانے میں ہم زمین کو اس کی پیداوار کے حصے پر دیتے تھے اور اسے تہائی اور چوتھائی حصے اور ( اس کے ساتھ ) متعین مقدار میں غلے کے عوض کرائے پر دیتے ، ایک روز ہمارے پاس میرے چچاؤں میں سے ایک آدمی آیا اور کہنے لگا : رسول اللہ صلی اللہ علیہ وسلم نے ہمیں ایک ایسے کام سے منع کیا ہے جو ہمارے لئے نفع مند تھا لیکن اللہ اور اس کے رسول کی اطاعت ہمارے لیے زیادہ نفع بخش ہے ، آپ نے ہمیں منع کیا ہے کہ ہم زمین کو بٹائی پر مدیں اور اسے تہائی اور چوتھائی حصے اور متعین غلے کے عوض کرائے پر دیں ۔ اور آپ نے زمین کے مالک کو حکم دیا کہ وہ خود اس میں کاشت کرے یا کاشت کے لیے ( اپنے مسلمان بھائی کو ) دے دے اور آپ نے اس کے کرائے پر دینے اور اس کے سوا ( غلے کے ایک متعین حصے پر دینے ) کو ناپسند کیا ہے.",
+                "urduNarrator": "مجھ سے علی بن حجر السعدی اور یعقوب بن ابراہیم نے بیان کیا، انہوں نے کہا:اسماعیل بن علیہ نے ہمیں ایوب سے حدیث بیان کی ، انہوں نے یعلیٰ بن حکیم سے ، انہوں نے سلیمان بن یسار سے اور انہوں نے حضرت رافع بن خدیج رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "وحَدَّثَنِي عَلِيُّ بْنُ حُجْرٍ السَّعْدِيُّ، وَيَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَا: حَدَّثَنَا إِسْمَاعِيلُ وَهُوَ ابْنُ عُلَيَّةَ، عَنْ أَيُّوبَ، عَنْ يَعْلَى بْنِ حَكِيمٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ رَافِعِ بْنِ خَدِيجٍ، قَالَ: كُنَّا نُحَاقِلُ الْأَرْضَ عَلَى عَهْدِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَنُكْرِيهَا بِالثُّلُثِ وَالرُّبُعِ، وَالطَّعَامِ الْمُسَمَّى، فَجَاءَنَا ذَاتَ يَوْمٍ رَجُلٌ مَنْ عُمُومَتِي، فَقَالَ: نَهَانَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنْ أَمْرٍ كَانَ لَنَا نَافِعًا، وَطَوَاعِيَةُ اللهِ وَرَسُولِهِ أَنْفَعُ لَنَا، «نَهَانَا أَنْ نُحَاقِلَ بِالْأَرْضِ فَنُكْرِيَهَا عَلَى الثُّلُثِ وَالرُّبُعِ، وَالطَّعَامِ الْمُسَمَّى، وَأَمَرَ رَبَّ الْأَرْضِ أَنْ يَزْرَعَهَا، أَوْ يُزْرِعَهَا، وَكَرِهَ كِرَاءَهَا وَمَا سِوَى ذَلِكَ.",
+                "headingArabic": "كِرَاءِ الأَرْضِ بِالطَّعَامِ ‏‏",
+                "headingUrdu": "کھانے کے عوض زمین (کیرا) کو لیز پر دینا",
+                "headingEnglish": "Leasing out Land (Kira) in return for food",
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11510,
+                "hadithNumber": "3946",
+                "englishNarrator": "Rafi bin Khadij ( رضی اللہ عنہ ) reported:",
+                "hadithEnglish": "We used to give land on rent, and we rented it on one-third or one-fourth share. The rest of the hadith is the same.",
+                "hadithUrdu": "ہم زمین کو بٹائی پر دیتے اور اسے تہائی اور چوتھائی حصے پر کرائے پر دیتے تھے ۔ ۔ ۔ آگے ابن علیہ کی ( سابقہ ) حدیث کے مانند بیان کیا.",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا,حماد بن زید نے ہمیں ایوب سے خبر دی ، انہوں نے کہا : یعلیٰ بن حکیم نے میری طرف لکھا ، انہوں نے کہا : میں نے سلیمان بن یسار سے سنا ، وہ حضرت رافع بن خدیج رضی اللہ عنہ سے حدیث بیان کر رہے تھے ، انہوں نے کہا",
+                "hadithArabic": "وَحَدَّثَنَاهُ يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، قَالَ: كَتَبَ إِلَيَّ يَعْلَى بْنُ حَكِيمٍ، قَالَ: سَمِعْتُ سُلَيْمَانَ بْنَ يَسَارٍ، يُحَدِّثُ عَنْ رَافِعِ بْنِ خَدِيجٍ، قَالَ: كُنَّا نُحَاقِلُ بِالْأَرْضِ فَنُكْرِيهَا عَلَى الثُّلُثِ وَالرُّبُعِ، ثُمَّ ذَكَرَ بِمِثْلِ حَدِيثِ ابْنِ عُلَيَّةَ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11511,
+                "hadithNumber": "3947",
+                "englishNarrator": null,
+                "hadithEnglish": "A similar report (as no. 3946) was narrated from Ya'la bin Hakim, with this chain.",
+                "hadithUrdu": "ہم سے یحییٰ بن حبیب نے بیان کیا، کہا ہم سے خالد بن حارث نے بیان کیا، کہا ہم سے عمرو بن علی نے بیان کیا، کہا ہم سے عبد العلا نے بیان کیا، انہیں اسحاق بن ہمیں ابراہیم، عبدہ نے ان سب کے بارے میں بتایا,ابن ابی عروبہ نے یعلیٰ بن حکیم سے اسی سند کے ساتھ اسی کے مانند روایت بیان کی.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنَا يَحْيَى بْنُ حَبِيبٍ، حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، ح وحَدَّثَنَا عَمْرُو بْنُ عَلِيٍّ، حَدَّثَنَا عَبْدُ الْأَعْلَى، ح وحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا عَبْدَةُ، كُلُّهُمْ عَنِ ابْنِ أَبِي عَرُوبَةَ، عَنْ يَعْلَى بْنِ حَكِيمٍ، بِهَذَا الْإِسْنَادِ مِثْلَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11512,
+                "hadithNumber": "3948",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Rafi' bin Khadij رضی اللہ عنہ with the same chain of transmitters, but in it no mention is made of some of his uncles.",
+                "hadithUrdu": "مجھ سے ابو الطاہر نے بیان کیا، ہم سے ابن وہب نے بیان کیا,جریر بن حازم نے یعلیٰ بن حکیم کی اسی سند کے ساتھ روایت کی ، انہوں نے ( سلیمان کے واسطے سے ) رافع بن خدیج رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے روایت کی ، انہوں نے ( اپنے چچاؤں میں سے ایک ) کے الفاظ نہیں کہے.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنِيهِ أَبُو الطَّاهِرِ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي جَرِيرُ بْنُ حَازِمٍ، عَنْ يَعْلَى بْنِ حَكِيمٍ، بِهَذَا الْإِسْنَادِ، عَنْ رَافِعِ بْنِ خَدِيجٍ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَلَمْ يَقُلْ: عَنْ بَعْضِ عُمُومَتِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11513,
+                "hadithNumber": "3949",
+                "englishNarrator": "Rafi (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Zuhair bin Rafi رضی اللہ عنہ (who was his uncle) came to me and said: Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) forbade a practice which was useful for us. I said: What is this? (I believe) that whatever Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) says is absolutely true. He (Zuhair) said that he (the Holy Prophet) asked me: What do you do with your cultivable lands? I said: Allah's Messenger, we rent those irrigated by canals for dry dates or barley. He said: Don't do that. Cultivate them or let them be cultivated (by others) or retain them yourself.",
+                "hadithUrdu": "ظُہیر بن رافع ان کے چچا تھے ، کہا  ظہیر رضی اللہ عنہ میرے پاس آئے تو انہوں نے کہا : رسول اللہ صلی اللہ علیہ وسلم نے ایک ایسے کام سے منع فرمایا ہے جو ہمیں سہولت دینے والا تھا ۔ میں نے پوچھا : وہ کیا ہے؟ رسول اللہ صلی اللہ علیہ وسلم نے جو فرمایا وہ برحق ہے ۔ کہا : آپ نے مجھ سے پوچھا : \" تم اپنے کھیتوں کا کیا معاملہ کرتے ہو؟ \" میں نے عرض کی : اے اللہ کے رسول! ہم انہیں چھوٹی نہر ( کے کناروں کی پیداوار ) پر یا کھجور یا جو کے ( متعینہ ) وسقوں پر اجرت پر دیتے ہیں ۔ آپ نے فرمایا : \" تو ایسا نہ کرو ، اسے خود کاشت کرو یا کاشت کے لیے کسی کو دے دو یا ویسے ہی اپنے ہاتھ میں رکھو.",
+                "urduNarrator": "مجھ سے اسحاق بن منصور نے بیان کیا، کہا ہم سے ابومسْہر نے بیان کیا، مجھ سے یحییٰ بن حمزہ نے بیان کیا,ابوعمرو اوزاعی نے مجھے رافع بن خدیج رضی اللہ عنہ کے آزاد کردہ غلام ابونجاشی سے حدیث بیان کی اور انہوں نے حضرت رافع رضی اللہ عنہ سے روایت کی",
+                "hadithArabic": "حَدَّثَنِي إِسْحَاقُ بْنُ مَنْصُورٍ، أَخْبَرَنَا أَبُو مُسْهِرٍ، حَدَّثَنِي يَحْيَى بْنُ حَمْزَةَ، حَدَّثَنِي أَبُو عَمْرٍو الْأَوْزَاعِيُّ، عَنْ أَبِي النَّجَاشِيِّ، مَوْلَى رَافِعِ بْنِ خَدِيجٍ، عَنْ رَافِعٍ، أَنَّ ظُهَيْرَ بْنَ رَافِعٍ - وَهُوَ عَمُّهُ - قَالَ: أَتَانِي ظُهَيْرٌ، فَقَالَ: لَقَدْ نَهَى رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنْ أَمْرٍ كَانَ بِنَا رَافِقًا، فَقُلْتُ: وَمَا ذَاكَ؟ مَا قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَهُوَ حَقٌّ، قَالَ: سَأَلَنِي: «كَيْفَ تَصْنَعُونَ بِمَحَاقِلِكُمْ؟» فَقُلْتُ: نُؤَاجِرُهَا يَا رَسُولَ اللهِ عَلَى الرَّبِيعِ، أَوِ الْأَوْسُقِ مِنَ التَّمْرِ أَوِ الشَّعِيرِ، قَالَ: «فَلَا تَفْعَلُوا، ازْرَعُوهَا، أَوْ أَزْرِعُوهَا، أَوْ أَمْسِكُوهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 11201,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=448",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=446",
+                "label": "446",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=447",
+                "label": "447",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=448",
+                "label": "448",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=449",
+                "label": "449",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=450",
+                "label": "450",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=451",
+                "label": "451",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=452",
+                "label": "452",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=450",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=450",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=448",
+        "to": 11225,
+        "total": 40465
+    }
+}

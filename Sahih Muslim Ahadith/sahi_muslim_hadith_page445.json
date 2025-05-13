@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 445,
+        "data": [
+            {
+                "id": 11389,
+                "hadithNumber": "3825",
+                "englishNarrator": "Ibn 'Abbas (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: The riders (carrying merchandise) should not be met in the way, and townsman should not sell for a man of the desert. The narrator reported. I said to Ibn 'Abbas رضی اللہ عنہ : What do these words really imply- The townsman for the man of the desert ? He said: That he should work as a broker on his behalf.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے اس بات سے منع فرمایا کہ باہر نکل کر قافلے والوں سے ملا جائے اور اس سے کہ کوئی شہری کسی دیہاتی کی طرف سے بیع کرے ۔ ( طاوس نے ) کہا : میں نے ابن عباس رضی اللہ عنہ سے پوچھا : آپ کے فرمان : \" کوئی شہری دیہاتی کی طرف سے ( بیع نہ کرے ) \" کا کیا مفہوم ہے؟ انہوں نے جواب دیا : وہ اس کا دلال نہ بنے.",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم اور عبد بن حمید نے بیان کیا، کہا کہ ہم سے عبدالرزاق نے بیان کیا، ہم سے معمر نے بیان کیا, طاوس کے بیٹے نے اپنے والد سے ، انہوں نے حضرت ابن عباس رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "وحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالَا: حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ ابْنِ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ: «نَهَى رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَنْ تُتَلَقَّى الرُّكْبَانُ، وَأَنْ يَبِيعَ حَاضِرٌ لِبَادٍ»، قَالَ: فَقُلْتُ لِابْنِ عَبَّاسٍ: مَا قَوْلُهُ حَاضِرٌ لِبَادٍ؟ قَالَ: «لَا يَكُنْ لَهُ سِمْسَارًا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11390,
+                "hadithNumber": "3826",
+                "englishNarrator": "Jabir (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: The townsman should not sell for a man from the desert, leave the people alone, Allah will give them provision from one another. Yahya reported it with a slight change of words.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" کوئی شہری کسی دیہاتی کی طرف سے بیع نہ کرے ۔ لوگوں کو چھوڑ دو ، اللہ تعالیٰ ان میں سے بعض کو بعض کے ذریعے سے رزق دیتا ہے ۔ \" البتہ یحییٰ کی روایت میں ( مجہول کے صیغے کے ساتھ ) ہے : \" رزق دیا جاتا ہے.",
+                "urduNarrator": "یحییٰ بن یحییٰ تمیمی اور احمد بن یونس نے کہا : ہمیں ابوخثیمہ زہیر نے حدیث سنائی ، کہا : ہمیں ابوزبیر نے حضرت جابر رضی اللہ عنہ سے حدیث بیان کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ، أَخْبَرَنَا أَبُو خَيْثَمَةَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، ح وحَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا أَبُو الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لَا يَبِعْ حَاضِرٌ لِبَادٍ، دَعُوا النَّاسَ يَرْزُقِ اللهُ بَعْضَهُمْ مِنْ بَعْضٍ»، غَيْرَ أَنَّ فِي رِوَايَةِ يَحْيَى: «يُرْزَقُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11391,
+                "hadithNumber": "3827",
+                "englishNarrator": null,
+                "hadithEnglish": "Jabir ( رضی اللہ عنہ) reported: A similar hadith (as no. 3828) was narrated from Jabir, from the prophet ﷺ.",
+                "hadithUrdu": "ہم سے اسحاق بن ابراہیم اور عبد بن حمید نے بیان کیا، کہا کہ ہم سے عبدالرزاق نے بیان کیا، ہم سے معمر نے بیان کیا, ہم سے سفیان بن عیینہ نے بیان کیا، انہوں نے ابو الزبیر سے، انہوں نے جابر رضی اللہ عنہ سے، انہوں نے نبی کریم صلی اللہ علیہ وسلم سے اسی طرح کی بات کی۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَمْرٌو النَّاقِدُ، قَالَا: حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11392,
+                "hadithNumber": "3828",
+                "englishNarrator": "Anas bin Malik ( رضی اللہ عنہ) reported:",
+                "hadithEnglish": "We were forbidden that a townsman should sell for a man of the desert, even if he is his brother or father.",
+                "hadithUrdu": "ہمیں منع کیا گیا ہے کہ کوئی شہری کسی دیہاتی کی طرف سے بیع کرے ، خواہ وہ اس کا بھائی ہو یا والد.",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، کہا ہم سے ہشیم نے بیان کیا، وہ یونس سے، وہ ابن سیرین سے، انہوں نے انس بن مالک سے، انہوں نے کہا۔",
+                "hadithArabic": "وحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا هُشَيْمٌ، عَنْ يُونُسَ، عَنِ ابْنِ سِيرِينَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ: «نُهِينَا أَنْ يَبِيعَ حَاضِرٌ لِبَادٍ، وَإِنْ كَانَ أَخَاهُ أَوْ أَبَاهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11393,
+                "hadithNumber": "3829",
+                "englishNarrator": "Anas bin Malik ( رضی اللہ عنہ) said:",
+                "hadithEnglish": "We were forbidden that a townsman should sell for a man of the desert.",
+                "hadithUrdu": "ہمیں اس بات سے منع کیا گیا کہ کوئی شہری کسی دیہاتی کے لیے بیع کرے.",
+                "urduNarrator": "ہم سے محمد بن المثنی نے بیان کیا, ابن عون نے ہمیں محمد ( بن سیرین ) سے حدیث بیان کی ، کہا : حضرت انس بن مالک رضی اللہ عنہ نے کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنِ ابْنِ عَوْنٍ، عَنْ مُحَمَّدٍ، عَنْ أَنَسٍ، ح وحَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا مُعَاذٌ، حَدَّثَنَا ابْنُ عَوْنٍ، عَنْ مُحَمَّدٍ، قَالَ: قَالَ أَنَسُ بْنُ مَالِكٍ: «نُهِينَا عَنْ أَنْ يَبِيعَ حَاضِرٌ لِبَادٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11394,
+                "hadithNumber": "3830",
+                "englishNarrator": "Abu Huraira ( رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger (ﷺ) as saying: He who bought a goat having its udder tied up should go back with it, milk it, and, if he is satisfied with its milk, he should retair it, otherwise he should return it along with a sa' of dates.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جس نے دودھ روکی گئی بھیڑ ( یا بکری ) خرید لی تو وہ اسے لے کر گھر واپس آئے اور اس کا دودھ نکالے ، اگر وہ اس کے ددھ دینے سے راضی ہو تو اسے رکھ لے ، ورنہ کھجور کے ایک صاع سمیت اسے واپس کر دے.",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ بن قنب نے بیان کیا، کہا ہم سے داؤد بن قیس نے بیان کیا, موسیٰ بن یسار نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ مَسْلَمَةَ بْنِ قَعْنَبٍ، حَدَّثَنَا دَاوُدُ بْنُ قَيْسٍ، عَنْ مُوسَى بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنِ اشْتَرَى شَاةً مُصَرَّاةً فَلْيَنْقَلِبْ بِهَا، فَلْيَحْلُبْهَا، فَإِنْ رَضِيَ حِلَابَهَا أَمْسَكَهَا، وَإِلَّا رَدَّهَا وَمَعَهَا صَاعٌ مِنْ تَمْرٍ.",
+                "headingArabic": "حُكْمِ بَيْعِ الْمُصَرَّاةِ ‏‏",
+                "headingUrdu": "مسرہ بیچنے کا حکم (وہ جانور جس کے تھن میں دودھ جمع ہونے دیا گیا ہو)",
+                "headingEnglish": "Ruling on selling Al-Musarrah (An animal in whose udder milk has been allowed to accumulate)",
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11395,
+                "hadithNumber": "3831",
+                "englishNarrator": "Abu Huraira (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: He who buys a goat with its udder tied up has the option to retain the goat if he so desires or return it within three days, and in case he returns it he should do so along with a sa' of dates.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جس نے ایسی بھیڑ ( یا بکری ) خرید لی جس کا دودھ روکا گیا ہے تو اسے تین دن تک اس کے بارے میں اختیار ہے ، اگر چاہے تو رکھ لے اور چاہے تو واپس کر دے اور اس کے ساتھ کھجور کا ایک صاع بھی واپس کرے.",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا، ہم سے یعقوب نے بیان کیا، یعنی ہم سے ابن عبدالرحمٰن القاری نے بیان کیا,سہیل کے والد ( ابوصالح ) نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا يَعْقُوبُ يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ الْقَارِيَّ، عَنْ سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنِ ابْتَاعَ شَاةً مُصَرَّاةً فَهُوَ فِيهَا بِالْخِيَارِ ثَلَاثَةَ أَيَّامٍ، إِنْ شَاءَ أَمْسَكَهَا، وَإِنْ شَاءَ رَدَّهَا، وَرَدَّ مَعَهَا صَاعًا مِنْ تَمْرٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11396,
+                "hadithNumber": "3832",
+                "englishNarrator": "Abu Huraira (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: lie who buys a goat having its udder tied up has the option to return it within three days. If he returns it he should pay a sa' of dates. Wheat is not essential.",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا : \" جس نے دودھ روکی ہوئی بھیڑ ( یا بکری ) خرید لی تو اسے تین دن تک اختیار ہے ۔ اگر وہ اسے واپس کرے تو اس کے ساتھ غلے کا ایک صاع بھی واپس کرے ، گندم کا نہیں.",
+                "urduNarrator": "ہم سے محمد بن عمرو بن جبلہ بن ابی رواد نے بیان کیا، ہم سے ابو عامر یعنی عقدی نے بیان کیا, قرہ نے ہمیں محمد ( بن سیرین ) سے حدیث بیان کی ، انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے اور انہوں نے نبی اکرم صلی اللہ علیہ وسلم سے روایت کی",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرِو بْنِ جَبَلَةَ بْنِ أَبِي رَوَّادٍ، حَدَّثَنَا أَبُو عَامِرٍ يَعْنِي الْعَقَدِيَّ، حَدَّثَنَا قُرَّةُ، عَنْ مُحَمَّدٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنِ اشْتَرَى شَاةً مُصَرَّاةً فَهُوَ بِالْخِيَارِ ثَلَاثَةَ أَيَّامٍ، فَإِنْ رَدَّهَا رَدَّ مَعَهَا صَاعًا مِنْ طَعَامٍ، لَا سَمْرَاءَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11397,
+                "hadithNumber": "3833",
+                "englishNarrator": "Abu Huraira ( رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: He who buys a goat having its udder tied up has two courses left for him. He may retain it, and if he desires may return it along with a sa' of dates and not wheat.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جس نے دودھ روکی ہوئی بکری خرید لی ، اسے دو باتوں کا اختیار ہے ۔ اگر چاہے تو اسے رکھ لے اور اگر چاہے تو اسے واپس کر دے ، اور کھجور کا ایک صاع بھی واپس کر دے ، گندم کا نہیں.",
+                "urduNarrator": "ہم سے ابن ابی عمر نے بیان کیا، انہوں نے کہا سفیان نے ہمیں ایوب سے حدیث بیان کی ، انہوں نے محمد ( بن سیرین ) سے ، انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنِ اشْتَرَى شَاةً مُصَرَّاةً فَهُوَ بِخَيْرِ النَّظَرَيْنِ، إِنْ شَاءَ أَمْسَكَهَا، وَإِنْ شَاءَ رَدَّهَا وَصَاعًا مِنْ تَمْرٍ، لَا سَمْرَاءَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11398,
+                "hadithNumber": "3834",
+                "englishNarrator": "Ayyub narrated with the same chain of transmitters but with this change of words:",
+                "hadithEnglish": "He who buys a goat has the option....",
+                "hadithUrdu": "\" جس نے ( دودھ روکی ہوئی ) کوئی بھیڑ یا بکری خریدی اسے اختیار ہے.",
+                "urduNarrator": "ہم سے ابن ابی عمر نے بیان کیا، انہوں نے ہم سے بیان کیا عبدالوہاب نے ایوب سے اسی سند کے ساتھ حدیث بیان کی ، لیکن انہوں نے کہا",
+                "hadithArabic": "وَحَدَّثَنَاهُ ابْنُ أَبِي عُمَرَ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، عَنْ أَيُّوبَ، بِهَذَا الْإِسْنَادِ، غَيْرَ أَنَّهُ قَالَ: «مَنِ اشْتَرَى مِنَ الْغَنَمِ فَهُوَ بِالْخِيَارِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11399,
+                "hadithNumber": "3835",
+                "englishNarrator": "Hammam bin Munabbih said:",
+                "hadithEnglish": "Out of the a hadith which Abu Huraira ( رضی اللہ عنہ) reported to us from Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) one is this that Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: If one among you buys a she-camel having its udder tied up he has the two options for him after milking it either (to retain it) or return it with a sa' of dates",
+                "hadithUrdu": "یہ احادیث ہیں جو ہمیں حضرت ابوہریرہ رضی اللہ عنہ نے رسول اللہ صلی اللہ علیہ وسلم سے بیان کیں ، اس کے بعد انہوں نے کئی احادیث بیان کیں ، ان میں سے ایک یہ تھی : رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جب تم میں سے کوئی دودھ روکی گئی اونٹنی یا بھیڑ ( یا بکری ) خرید لے تو اسے اس کا دودھ نکالنے کے بعد دو باتوں کا اختیار ہے یا تو وہ ( جانور ) لے لے ورنہ کھجور کے ایک صاع سمیت اسے واپس کر دے.",
+                "urduNarrator": "ہم سے محمد بن رافع نے بیان کیا، کہا ہم سے عبدالرزاق نے بیان کیا، کہا ہم سے معمر نے بیان کیا, ہمام بن منبہ سے روایت ہے ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ: هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَذَكَرَ أَحَادِيثَ مِنْهَا، وَقَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إِذَا مَا أَحَدُكُمُ اشْتَرَى لِقْحَةً مُصَرَّاةً - أَوْ شَاةً مُصَرَّاةً - فَهُوَ بِخَيْرِ النَّظَرَيْنِ بَعْدَ أَنْ يَحْلُبَهَا، إِمَّا هِيَ، وَإِلَّا فَلْيَرُدَّهَا وَصَاعًا مِنْ تَمْرٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11400,
+                "hadithNumber": "3836",
+                "englishNarrator": "Ibn Abbas ( رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: He who buys food grain should not sell it until he has taken possession of it.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \"\" جس نے غلہ خریدا تو وہ اسے پورا کر لینے سے پہلے آگے فروخت نہ کرے ۔ \"\" حضرت ابن عباس رضی اللہ عنہ نے کہا : میں ہر چیز کو اسی کے مانند خیال کرتا ہوں.",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا, حماد نے ہمیں عمرو بن دینار سے حدیث بیان کی ، انہوں نے طاوس سے اور انہوں نے حضرت ابن عباس رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، ح وحَدَّثَنَا أَبُو الرَّبِيعِ الْعَتَكِيُّ، وَقُتَيْبَةُ، قَالَا: حَدَّثَنَا حَمَّادٌ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنِ ابْتَاعَ طَعَامًا فَلَا يَبِعْهُ حَتَّى يَسْتَوْفِيَهُ»، قَالَ ابْنُ عَبَّاسٍ: وَأَحْسِبُ كُلَّ شَيْءٍ مِثْلَهُ.",
+                "headingArabic": "بُطْلاَنِ بَيْعِ الْمَبِيعِ قَبْلَ الْقَبْضِ ‏‏",
+                "headingUrdu": "مال کو قبضے میں لینے سے پہلے بیچنا ناجائز ہے۔",
+                "headingEnglish": "It is invalid to sell goods before taking possession of them",
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11401,
+                "hadithNumber": "3837",
+                "englishNarrator": null,
+                "hadithEnglish": "A similar Hadith (as no. 3836) was narrated from 'Amr bin Dinaar with this chain.",
+                "hadithUrdu": "ہم سے ابن ابی عمر اور احمد بن عبدہ نے بیان کیا، کہا سفیان بن عیینہ اور سفیان ثوری نے عمرو بن دینار سے اسی سند کے ساتھ اسی کے مطابق روایت کی.",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، وَأَحْمَدُ بْنُ عَبْدَةَ، قَالَا: حَدَّثَنَا سُفْيَانُ، ح وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ، قَالَا: حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ وَهُوَ الثَّوْرِيُّ، كِلَاهُمَا عَنْ عَمْرِو بْنِ دِينَارٍ، بِهَذَا الْإِسْنَادِ نَحْوَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11402,
+                "hadithNumber": "3838",
+                "englishNarrator": "Ibn Abbas (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ) as saying: He who buys food-rain should not sell it until he has taken possession of it. Ibn Abbas (رضی اللہ عنہ) said: I regard everything like food (so far as this principle is concerned).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جس نے غلہ خریدا تو وہ اسے فروخت نہ کرے حتی کہ اسے اپنے قبضے میں لے لےحضرت ابن عباس رضی اللہ عنہ نے کہا : میں ہر چیز کو غلے کی طرح سمجھتا ہوں.",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم، محمد بن رافع اور عبد بن حمید نے بیان کیا، کہا کہ ہم سے انہوں نے بیان کیا اور باقی دو نے کہا: ہم سے عبد نے بیان کیا۔ الرزاق، اس نے ہمیں بتایا معمر نے ابن طاوس سے خبر دی ، انہوں نے اپنے والد سے اور انہوں نے حضرت ابن عباس رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَمُحَمَّدُ بْنُ رَافِعٍ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالَ ابْنُ رَافِعٍ: حَدَّثَنَا، وقَالَ الْآخَرَانِ: أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ ابْنِ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنِ ابْتَاعَ طَعَامًا فَلَا يَبِعْهُ حَتَّى يَقْبِضَهُ»، قَالَ ابْنُ عَبَّاسٍ: «وَأَحْسِبُ كُلَّ شَيْءٍ بِمَنْزِلَةِ الطَّعَامِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11403,
+                "hadithNumber": "3839",
+                "englishNarrator": "Ibn Abbas (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: He who buys food grain should not sell it, until he has weighed it (and then taken possession of it). I (Tawus) said to Ibn Abbas (رضی اللہ عنہ): Why is it so? Thereupon he said: Don't you see that they (the people) sell food grains against gold for the stipulated time. Abu Kuraib did not make any mention of the stipulated time.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا:’’جو کھانا خریدے وہ اس کو اس وقت تک فروخت نہ کرے جب تک کہ ناپ نہ لے۔‘‘ میں نے ابن عباس رضی اللہ عنہ سے کہا: کیوں؟ آپ نے فرمایا: کیا تم انہیں مرگاہ میں سونے اور کھانے کا سودا کرتے ہوئے نہیں دیکھتے؟",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ، ابو کریب اور اسحاق بن ابراہیم نے بیان کیا، کہا: ہم سے انہوں نے بیان کیا اور باقی دو نے کہا: وکیع نے بیان کیا۔ سفیان کی سند سے، ابن طاؤس کی سند سے، اپنے والد کی سند سے، ابن عباس رضی اللہ عنہ کی سند سے، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ إِسْحَاقُ: أَخْبَرَنَا، وقَالَ الْآخَرَانِ: حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنِ ابْنِ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنِ ابْتَاعَ طَعَامًا فَلَا يَبِعْهُ حَتَّى يَكْتَالَهُ»، فَقُلْتُ لِابْنِ عَبَّاسٍ: لِمَ؟ فَقَالَ: «أَلَا تُرَاهُمْ يَتَبَايَعُونَ بِالذَّهَبِ وَالطَّعَامُ مُرْجَأٌ»، وَلَمْ يَقُلْ أَبُو كُرَيْبٍ: مُرْجَأٌ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11404,
+                "hadithNumber": "3840",
+                "englishNarrator": "Ibn 'Umar (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: He who buys food grain should not sell it until he has taken full possession of it.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جو شخص غلہ خریدے تو پورا حاصل کرنے سے پہلے اسے فروخت نہ کرے.",
+                "urduNarrator": "عبداللہ بن مسلمہ قعنبی نے ہمیں حدیث سنائی ، کہا : ہمیں مالک نے حدیث سنائی ۔ اور یحییٰ بن یحییٰ نے ہمیں حدیث سنائی ، کہا : میں نے مالک کے سامنے قراءت کی کہ نافع سے روایت ہے ، انہوں نے حضرت ابن عمر رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ، حَدَّثَنَا مَالِكٌ، ح وحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ: قَرَأْتُ عَلَى مَالِكٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَ: «مَنِ ابْتَاعَ طَعَامًا فَلَا يَبِعْهُ حَتَّى يَسْتَوْفِيَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11405,
+                "hadithNumber": "3841",
+                "englishNarrator": "Ibn Umar (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "We used to buy food grains during the lifetime of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌). He (the Holy Prophet ﷺ) would then send to us one who commanded us to take them (the food grains) to a place other than the one where we had bought them before we sold it.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کے زمانے میں ہم غلہ خریدا کرتے تھے تو آپ صلی اللہ علیہ وسلم ہم پر ایسے آدمی مقرر فرماتے جو ہمیں حکم دیتے کہ اسے فروخت کرنے سے پہلے اس جگہ سے جہاں ہم نے اسے خریدا تھا ، کسی دوسری جگہ منتقل کریں.",
+                "urduNarrator": "یحییٰ بن یحییٰ نے سابقہ سند کے ساتھ حضرت ابن عمر رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ: قَرَأْتُ عَلَى مَالِكٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ: «كُنَّا فِي زَمَانِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَبْتَاعُ الطَّعَامَ، فَيَبْعَثُ عَلَيْنَا مَنْ يَأْمُرُنَا بِانْتِقَالِهِ مِنَ الْمَكَانِ الَّذِي ابْتَعْنَاهُ فِيهِ، إِلَى مَكَانٍ سِوَاهُ، قَبْلَ أَنْ نَبِيعَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11406,
+                "hadithNumber": "3842",
+                "englishNarrator": "It was narrated from Ibn Umar رضی اللہ عنہما :",
+                "hadithEnglish": "The Messenger of Allah said: \"Whoever buys food should not sell it until he has received it in full.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جو شخص غلہ خریدے تو وہ اسے پورا کر لینے تک آگے فروخت نہ کرے.",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے علی بن مشر نے بیان کیا، ان سے عبید اللہ نے اور ہم سے محمد بن عبداللہ بن نمیر نے بیان کیا اور اس کا تلفظ یہ ہے: ہم سے میرے والد نے بیان کیا، ہم سے عبید اللہ نے نافع سے اور ابن عمر رضی اللہ عنہما سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنْ عُبَيْدِ اللهِ، ح وحَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللهِ بْنِ نُمَيْرٍ، وَاللَّفْظُ لَهُ، حَدَّثَنَا أَبِي، حَدَّثَنَا عُبَيْدُ اللهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنِ اشْتَرَى طَعَامًا فَلَا يَبِعْهُ حَتَّى يَسْتَوْفِيَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11407,
+                "hadithNumber": "3843",
+                "englishNarrator": "He (i.e Ibn Umar) said:",
+                "hadithEnglish": "\"We used buy food from the riders without measure, but the Messenger of Allah forbade us to sell it until we had moved it from its place.",
+                "hadithUrdu": "ہم اہل قافلہ سے بغیر ماپ ( اور وزن ) کے غلہ خریدا کرتے تھے تو رسول اللہ صلی اللہ علیہ وسلم نے ہمیں منع فرمایا کہ ہم اسے ، اس کی جگہ سے منتقل کرنے سے پلے ، آگے فروخت کریں.",
+                "urduNarrator": "انہوں نے کہا: ہم رکبان سے خوراک بڑی مقدار میں خریدتے تھے۔نیز انہوں ( حضرت ابن عمر رضی اللہ عنہ ) نے کہا",
+                "hadithArabic": "قَالَ: وَكُنَّا نَشْتَرِي الطَّعَامَ مِنَ الرُّكْبَانِ جِزَافًا، فَنَهَانَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَنْ نَبِيعَهُ حَتَّى نَنْقُلَهُ مِنْ مَكَانِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11408,
+                "hadithNumber": "3844",
+                "englishNarrator": "Ibn 'Umar (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: He who bought food grain should not sell it until he had taken full possession of it (after measuring it).",
+                "hadithUrdu": "اللہ کے رسول صلی اللہ علیہ وسلم نے فرمایا : \" جو شخص غلہ خریدے تو اسے پورا کر لینے اور اپنے قبضے میں لینے سے پہلے فروخت نہ کرے.",
+                "urduNarrator": "مجھ سے حرملہ بن یحییٰ نے بیان کیا، کہا ہم سے عبداللہ بن وہب نے بیان کیا,عمر بن محمد نے نافع سے ، انہوں نے حضرت عبداللہ بن عمر رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا عَبْدُ اللهِ بْنُ وَهْبٍ، حَدَّثَنِي عُمَرُ بْنُ مُحَمَّدٍ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللهِ بْنِ عُمَرَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنِ اشْتَرَى طَعَامًا فَلَا يَبِعْهُ حَتَّى يَسْتَوْفِيَهُ وَيَقْبِضَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11409,
+                "hadithNumber": "3845",
+                "englishNarrator": "Ibn 'Umar (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying,: He who bought food grain should not sell it until he had taken possession of it.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جو شخص غلہ خریدے تو اسے قبضے میں لینے سے پہلے آگے فروخت نہ کرے.",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ اور علی بن حجر نے بیان کیا، کہا کہ ہم سے اسماعیل بن جعفر نے بیان کیا، اور علی نے کہا: ہم سے اسماعیل نے بیان کیا،عبداللہ بن دینار سے روایت ہے کہ انہوں نے حضرت ابن عمر رضی اللہ عنہ سے سنا ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَعَلِيُّ بْنُ حُجْرٍ، قَالَ يَحْيَى: أَخْبَرَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، وقَالَ عَلِيٌّ: حَدَّثَنَا إِسْمَاعِيلُ، عَنْ عَبْدِ اللهِ بْنِ دِينَارٍ، أَنَّهُ سَمِعَ ابْنَ عُمَرَ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنِ ابْتَاعَ طَعَامًا فَلَا يَبِعْهُ حَتَّى يَقْبِضَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11410,
+                "hadithNumber": "3846",
+                "englishNarrator": "Ibn 'Umar (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "They were beaten during the lifetime of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) if they had bought food grains in bulk and then sold them in the spot without shifting them (to some other place).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کے زمانے میں اگر وہ ( وزن اور ماپ کے بغیر ) اندازے سے ( ڈھیر کی صورت میں ) غلہ خریدتے اور اس کو منتقل کرنے سے پہلے اسی جگہ فروخت کرتے تو اس پر ان کو مار پڑتی تھی.",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے عبد الاعلٰی نے بیان کیا, معمر نے زہری سے ، انہوں نے سالم سے ، انہوں نے حضرت ابن عمر رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ الْأَعْلَى، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، «أَنَّهُمْ كَانُوا يُضْرَبُونَ عَلَى عَهْدِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِذَا اشْتَرَوْا طَعَامًا جِزَافًا أَنْ يَبِيعُوهُ فِي مَكَانِهِ حَتَّى يُحَوِّلُوهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11411,
+                "hadithNumber": "3847",
+                "englishNarrator": "Salim bin 'Abdullah (رضی اللہ عنہ) reported his father having said this:",
+                "hadithEnglish": "I saw people being beaten during the lifetime of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) in case they bought the food grain in bulk, and then sold them at that spot before taking it to their places. This hadith is narrated on the authority of 'Ubaidullah bin Abdullah bin 'Umar through another chain of transmitters (and the words are): His father (Ibn 'Umar) used to buy food grains in bulk and then carried them to his people.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم کے زمانے میں لوگوں کو دیکھا کہ جب وہ ( ناپ تول کے بغیر ) اندازے سے غلہ خریدتے تو اس بات پر انہیں مار پڑی تھی کہ وہ اس کو گھروں میں منتقل کرنے سے پہلے ، اسی جگہ اسے بیچیں ۔ ابن شہاب نے کہا : مجھے عبیداللہ بن عبداللہ بن عمر نے حدیث بیان کی کہ ان کے والد اندازے سے غلہ خریدتے ، پھر اسے اپنے گھر اٹھا لاتے.",
+                "urduNarrator": "مجھ سے حرملہ بن یحییٰ نے بیان کیا، کہا ہم سے ابن وہب نے بیان کیا, یونس نے مجھے ابن شہاب ( زہری ) سے خبر دی ، انہوں نے کہا : مجھے سالم بن عبداللہ نے بتایا کہ ان کے والد ( عبداللہ بن عمر رضی اللہ عنہ ) نے کہا",
+                "hadithArabic": "وحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي سَالِمُ بْنُ عَبْدِ اللهِ، أَنَّ أَبَاهُ، قَالَ: «قَدْ رَأَيْتُ النَّاسَ فِي عَهْدِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِذَا ابْتَاعُوا الطَّعَامَ جِزَافًا، يُضْرَبُونَ فِي أَنْ يَبِيعُوهُ فِي مَكَانِهِمْ، وَذَلِكِ حَتَّى يُؤْوُوهُ إِلَى رِحَالِهِمْ»، قَالَ ابْنُ شِهَابٍ، وَحَدَّثَنِي عُبَيْدُ اللهِ بْنُ عَبْدِ اللهِ بْنِ عُمَرَ، أَنَّ أَبَاهُ كَانَ يَشْتَرِي الطَّعَامَ جِزَافًا، فَيَحْمِلُهُ إِلَى أَهْلِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11412,
+                "hadithNumber": "3848",
+                "englishNarrator": "Abu Huraira ( رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: He who bought food grain should not sell it until he had measured it. In the narration of Abu Bakr there the word is Ibta' instead of Ishtara.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \"\" جو شخص غلہ خریدے تو اسے ناپ کر لے لینے سے پہلے آگے فروخت نہ کرے ۔ \"\" ابوبکر کی روایت میں ( من الشترى کی بجائے ) من ابتاع کے الفاظ ہیں ( معنی ایک جیسے ہیں).",
+                "urduNarrator": "ابوبکر بن ابی شیبہ ، ابن نمیر اور ابو کریب نے کہا : ہمیں زید بن حباب نے ضحاک بن عثمان سے حدیث بیان کی ، انہوں نے بُکَیر بن عبداللہ بن اشج سے ، انہوں نے سلیمان بن یسار سے اور انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَابْنُ نُمَيْرٍ، وَأَبُو كُرَيْبٍ، قَالُوا: حَدَّثَنَا زَيْدُ بْنُ حُبَابٍ، عَنِ الضَّحَّاكِ بْنِ عُثْمَانَ، عَنْ بُكَيْرِ بْنِ عَبْدِ اللهِ بْنِ الْأَشَجِّ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنِ اشْتَرَى طَعَامًا فَلَا يَبِعْهُ حَتَّى يَكْتَالَهُ»، وَفِي رِوَايَةِ أَبِي بَكْرٍ: «مَنِ ابْتَاعَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11413,
+                "hadithNumber": "3849",
+                "englishNarrator": "Abu Huraira (رضی اللہ عنہ ) is reported to have said to Marwan:",
+                "hadithEnglish": "Have you made lawful the transactions involving interest? Thereupon Marwan said: I have not done that. Thereupon Abu Huraira ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: You have made lawful the transactions with the help of documents only, whereas Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbade the transaction of food grains until full possession is taken of them. Marwan then addressed the people and forbade them to enter into such transactions (as are done with the help of documents). Sulaiman said: I saw the sentinels snatching (these documents) from the people.",
+                "hadithUrdu": "تم نے سودی تجارت حلال کر دی ہے؟ مروان نے جواب دیا : میں نے ایسا کیا کیا ہے؟ ابوہریرہ رضی اللہ عنہ نے کہا : تم نے ادائیگی کی دستاویزات ( چیکوں ) کی بیع حلال قرار دی ہے حالانکہ رسول اللہ صلی اللہ علیہ وسلم نے مکمل قبضہ کرنے سے پہلے غلے کو بیچنے سے منع فرمایا ہے ۔ کہا : اس پر مروان نے لوگوں کو خطبہ دیا اور ان ( چیکوں ) کی بیع سے منع کر دیا ۔ سلیمان نے کہا : میں نے محافظوں کو دیکھا وہ انہیں لوگوں کے ہاتھوں سے واپس لے رہے تھے.",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم نے بیان کیا، انہوں نے بیان کیا عبداللہ بن حارث مخزومی نے ہمیں خبر دی ، کہا : ہمیں ضحاک بن عثمان نے بکیر بن عبداللہ بن اشج سے حدیث بیان کی ، انہوں نے سلیمان بن یسار سے اور انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی کہ انہوں نے مروان سے کہا",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا عَبْدُ اللهِ بْنُ الْحَارِثِ الْمَخْزُومِيُّ، حَدَّثَنَا الضَّحَّاكُ بْنُ عُثْمَانَ، عَنْ بُكَيْرِ بْنِ عَبْدِ اللهِ بْنِ الْأَشَجِّ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّهُ قَالَ لِمَرْوَانَ: أَحْلَلْتَ بَيْعَ الرِّبَا، فَقَالَ مَرْوَانُ: مَا فَعَلْتُ؟ فَقَالَ أَبُو هُرَيْرَةَ: «أَحْلَلْتَ بَيْعَ الصِّكَاكِ، وَقَدْ نَهَى رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنْ بَيْعِ الطَّعَامِ حَتَّى يُسْتَوْفَى»، قَالَ: فَخَطَبَ مَرْوَانُ النَّاسَ، «فَنَهَى عَنْ بَيْعِهَا»، قَالَ سُلَيْمَانُ: فَنَظَرْتُ إِلَى حَرَسٍ يَأْخُذُونَهَا مِنْ أَيْدِي النَّاسِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 11101,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=444",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=442",
+                "label": "442",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=443",
+                "label": "443",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=444",
+                "label": "444",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=445",
+                "label": "445",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=446",
+                "label": "446",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=447",
+                "label": "447",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=448",
+                "label": "448",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=446",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=446",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=444",
+        "to": 11125,
+        "total": 40465
+    }
+}

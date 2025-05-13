@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 75,
+        "data": [
+            {
+                "id": 1852,
+                "hadithNumber": "1930",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "(At times) in Ramadan the Prophet (ﷺ) used to take a bath in the morning not because of a wet dream and would continue his fast.",
+                "hadithUrdu": "رمضان میں فجر کے وقت نبی کریم صلی اللہ علیہ وسلم احتلام سے نہیں ( بلکہ اپنی ازواج کے ساتھ صحبت کرنے کی وجہ سے ) غسل کرتے اور روزہ رکھتے تھے ۔ ( معلوم ہوا کہ غسل جنابت روزہ دار فجر کے بعد کر سکتا ہے ) ۔",
+                "urduNarrator": "ہم سے احمد بن صالح نے بیان کیا ، کہا ہم سے عبداللہ بن وہب نے بیان کیا ، ان سے یونس نے بیان کیا ، ان سے ابن شہاب نے ، ان سے عروہ اور ابوبکرنے کہ عائشہ رضی اللہ عنہا نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا ابْنُ وَهْبٍ، حَدَّثَنَا يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، وَأَبِي، بَكْرٍ قَالَتْ عَائِشَةُ ـ رضى الله عنها ـ كَانَ النَّبِيُّ صلى الله عليه وسلم يُدْرِكُهُ الْفَجْرُ ‏{‏جُنُبًا‏}‏ فِي رَمَضَانَ، مِنْ غَيْرِ حُلُمٍ فَيَغْتَسِلُ وَيَصُومُ‏.‏",
+                "headingArabic": "اغْتِسَالِ الصَّائِمِ",
+                "headingUrdu": "صوم (روزہ) رکھنے والے کا غسل کرنا",
+                "headingEnglish": "Taking a bath by a person observing Saum (fast)",
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1853,
+                "hadithNumber": "1931, 1932",
+                "englishNarrator": "Narrated Abu Bakr bin `Abdur-Rahman:",
+                "hadithEnglish": "My father and I went to `Aisha رضی اللہ عنہا and she said, \"I testify that Allah's Messenger (ﷺ) at times used to get up in the morning in a state of Janaba from sexual intercourse, not from a wet dream and then he would fast that day.\" Then he went to Um Salama رضی اللہ عنہا and she also narrated a similar thing.",
+                "hadithUrdu": "میرے باپ عبدالرحمٰن مجھے ساتھ لے کر عائشہ رضی اللہ عنہا کی خدمت میں حاضر ہوئے ، عائشہ رضی اللہ عنہا نے کہا کہ نبی کریم صلی اللہ علیہ وسلم صبح جنبی ہونے کی حالت میں کرتے احتلام کی وجہ سے نہیں بلکہ جماع کی وجہ سے ! پھر آپ روزے سے رہتے ( یعنی غسل فجر کی نماز سے پہلے سحری کا وقت نکل جانے کے بعد کرتے ).اس کے بعد ہم ام سلمہ رضی اللہ عنہا کی خدمت میں حاضر ہوئے تو آپ نے اسی طرح حدیث بیان کی ۔",
+                "urduNarrator": "ہم سے اسماعیل بن ابی اویس نے بیان کیا ، کہا کہ مجھ سے امام مالک نے بیان کیا ، ان سے ابوبکر بن عبدالرحمٰن بن حارث بن ہشام بن مغیرہ کے غلام سمی نے ، انہوں نے ابوبکر بن عبدالرحمٰن سے سنا ، انہوں نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ سُمَىٍّ، مَوْلَى أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ هِشَامِ بْنِ الْمُغِيرَةِ أَنَّهُ سَمِعَ أَبَا بَكْرِ بْنَ عَبْدِ الرَّحْمَنِ، كُنْتُ أَنَا وَأَبِي،، فَذَهَبْتُ مَعَهُ، حَتَّى دَخَلْنَا عَلَى عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ أَشْهَدُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم إِنْ كَانَ لَيُصْبِحُ جُنُبًا مِنْ جِمَاعٍ غَيْرِ احْتِلاَمٍ، ثُمَّ يَصُومُهُ‏.‏\r\nثُمَّ دَخَلْنَا عَلَى أُمِّ سَلَمَةَ، فَقَالَتْ مِثْلَ ذَلِكَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1854,
+                "hadithNumber": "1933",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"If somebody eats or drinks forgetfully then he should complete his fast, for what he has eaten or drunk, has been given to him by Allah.\"",
+                "hadithUrdu": "کہ آپ صلی اللہ علیہ وسلم نے فرمایا جب کوئی بھول گیا اور کچھ کھا پی لیا تو اسے چاہئے کہ اپنا روزہ پورا کرے ۔ کیونکہ اس کو اللہ نے کھلایا اور پلایا ۔",
+                "urduNarrator": "ہم سے عبدان نے بیان کیا کہ ہمیں یزید بن زریع نے خبر دی ، ان سے ہشام نے بیان کیا ، ان سے ابن سیرین نے بیان کیا ، کہ حضرت ابوہریرہ رضی اللہ عنہ نے نبی اکرم صلی اللہ علیہ وسلم سے روایت کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدَانُ، أَخْبَرَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا هِشَامٌ، حَدَّثَنَا ابْنُ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا نَسِيَ فَأَكَلَ وَشَرِبَ فَلْيُتِمَّ صَوْمَهُ، فَإِنَّمَا أَطْعَمَهُ اللَّهُ وَسَقَاهُ ‏\"‏‏.‏",
+                "headingArabic": "الصَّائِمِ إِذَا أَكَلَ أَوْ شَرِبَ نَاسِيًا",
+                "headingUrdu": "اگر صوم دیکھنے والا بھول کر کھا یا پی لے",
+                "headingEnglish": "If a person observing Saum ate or drank forgetfully",
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1855,
+                "hadithNumber": "1934",
+                "englishNarrator": "Narrated Humran:",
+                "hadithEnglish": "I saw `Uthman رضی اللہ عنہ performing ablution; he washed his hands thrice, rinsed his mouth and then washed his nose, by putting water in it and then blowing it out, and washed his face thrice, and then washed his right forearm up to the elbow thrice, and then the left-forearm up to the elbow thrice, then smeared his head with water, washed his right foot thrice, and then his left foot thrice and said, \"I saw Allah's Apostle performing ablution similar to my present ablution, and then he said, 'Whoever performs ablution like my present ablution and then offers two rak`at in which he does not think of worldly things, all his previous sins will be forgiven.\"",
+                "hadithUrdu": "انہوں نے حضرت عثمان بن عفان رضی اللہ عنہ کو وضو کرتے دیکھا ، آپ نے ( پہلے ) اپنے دونوں ہاتھوں پر تین مرتبہ پانی ڈالا پھر کلی کی اور ناک صاف کی ، پھر تین مرتبہ چہرہ دھویا ، پھر دایاں ہاتھ کہنی تک دھویا ، پھر بایاں ہاتھ کہنی تک دھویا تین تین مرتبہ ، اس کے بعد اپنے سر کا مسح کیا اور تین مرتبہ داہنا پاؤں دھویا ، پھر تین مرتبہ بایاں پاؤں دھویا ، آخر میں کہا کہ جس طرح میں نے وضو کیا ہے میں نے رسول اللہ صلی اللہ علیہ وسلم کو بھی اسی طرح وضو کرتے دیکھا ہے ، پھر آپ نے فرمایا تھا کہ جس نے میری طرح وضو کیا پھر دو رکعت نماز ( تحیۃ الوضو ) اس طرح پڑھی کہ اس نے دل میں کسی قسم کے خیالات و وساوس گزرنے نہیں دیئے تو اس کے اگلے گناہ معاف کر دیئے جائیں گے ۔",
+                "urduNarrator": "ہم سے عبدان نے بیان کیا ، انہوں نے کہا ہم کو عبداللہ بن مبارک نے خبر دی ، انہوں نے کہا ہم کو معمر نے خبر دی ، انہوں نے کہا ہم سے زہری نے بیان کیا ، ان سے عطاء بن زید نے ، ان سے حمران نے",
+                "hadithArabic": "حَدَّثَنَا عَبْدَانُ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا مَعْمَرٌ، قَالَ حَدَّثَنِي الزُّهْرِيُّ، عَنْ عَطَاءِ بْنِ يَزِيدَ، عَنْ حُمْرَانَ، رَأَيْتُ عُثْمَانَ ـ رضى الله عنه ـ تَوَضَّأَ، فَأَفْرَغَ عَلَى يَدَيْهِ ثَلاَثًا، ثُمَّ تَمَضْمَضَ وَاسْتَنْثَرَ، ثُمَّ غَسَلَ وَجْهَهُ ثَلاَثًا، ثُمَّ غَسَلَ يَدَهُ الْيُمْنَى إِلَى الْمَرْفِقِ ثَلاَثًا، ثُمَّ غَسَلَ يَدَهُ الْيُسْرَى إِلَى الْمَرْفِقِ ثَلاَثًا، ثُمَّ مَسَحَ بِرَأْسِهِ، ثُمَّ غَسَلَ رِجْلَهُ الْيُمْنَى ثَلاَثًا، ثُمَّ الْيُسْرَى ثَلاَثًا، ثُمَّ قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم تَوَضَّأَ نَحْوَ وُضُوئِي هَذَا، ثُمَّ قَالَ ‏ \"‏ مَنْ تَوَضَّأَ وُضُوئِي هَذَا، ثُمَّ يُصَلِّي رَكْعَتَيْنِ، لاَ يُحَدِّثُ نَفْسَهُ فِيهِمَا بِشَىْءٍ، إِلاَّ غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ ‏\"‏‏.‏",
+                "headingArabic": "سِوَاكِ الرَّطْبِ وَالْيَابِسِ لِلصَّائِمِ",
+                "headingUrdu": "صوم (روزہ) رکھنے والے کے لیے مسواک",
+                "headingEnglish": "Siwak for the person observing Saum (fast)",
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1856,
+                "hadithNumber": "1935",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "A man came to the Prophet (ﷺ) and said that he had been burnt (ruined). The Prophet (ﷺ) asked him what was the matter. He replied, \"I had sexual intercourse with my wife in Ramadan (while I was fasting).\" Then a basket full of dates was brought to the Prophet (ﷺ) and he asked, \"Where is the burnt (ruined) man?\" He replied, \"I am present.\" The Prophet (ﷺ) told him to give that basket in charity (as expiation).",
+                "hadithUrdu": "ایک شخص رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوا اور عرض کی کہ میں دوزخ میں جل چکا ۔ آنحضرت صلی اللہ علیہ وسلم نے دریافت فرمایا کہ کیا بات ہوئی ؟ اس نے کہا کہ رمضان میں میں نے ( روزے کی حالت میں ) اپنی بیوی سے ہمبستری کر لی ، تھوڑی دیر میں آنحضرت صلی اللہ علیہ وسلم کی خدمت میں ( کھجور کا ) ایک تھیلہ جس کا نام عرق تھا ، پیش کیا گیا ، تو آپ صلی اللہ علیہ وسلم نے فرمایا کہ دوزخ میں جلنے والا شخص کہاں ہے ؟ اس نے کہا کہ حاضر ہوں ، تو آپ صلی اللہ علیہ وسلم نے فرمایا کہ لے تو اسے خیرات کر دے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن منیر نے بیان کیا ، کہا کہ ہم نے یزید بن ہارون سے سنا ، ان سے یحییٰ نے ( جو سعید کے صاحبزادے ہیں ) کہا ، انہیں عبدالرحمٰن بن قاسم نے خبر دی ، انہیں محمد بن جعفر بن زبیر بن عوام بن خویلد نے اور انہیں عباد بن عبداللہ بن زبیر رضی اللہ عنہما نے خبر دی کہ انہوں نے عائشہ رضی اللہ عنہا سے سنا ، آپ نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُنِيرٍ، سَمِعَ يَزِيدَ بْنَ هَارُونَ، حَدَّثَنَا يَحْيَى ـ هُوَ ابْنُ سَعِيدٍ ـ أَنَّ عَبْدَ الرَّحْمَنِ بْنَ الْقَاسِمِ، أَخْبَرَهُ عَنْ مُحَمَّدِ بْنِ جَعْفَرِ بْنِ الزُّبَيْرِ بْنِ الْعَوَّامِ بْنِ خُوَيْلِدٍ، عَنْ عَبَّادِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، أَخْبَرَهُ أَنَّهُ، سَمِعَ عَائِشَةَ ـ رضى الله عنها ـ تَقُولُ إِنَّ رَجُلاً أَتَى النَّبِيَّ صلى الله عليه وسلم فَقَالَ إِنَّهُ احْتَرَقَ‏.‏ قَالَ ‏\"‏ مَالَكَ ‏\"‏‏.‏ قَالَ أَصَبْتُ أَهْلِي فِي رَمَضَانَ‏.‏ فَأُتِيَ النَّبِيُّ صلى الله عليه وسلم بِمِكْتَلٍ، يُدْعَى الْعَرَقَ فَقَالَ ‏\"‏ أَيْنَ الْمُحْتَرِقُ ‏\"‏‏.‏ قَالَ أَنَا‏.‏ قَالَ ‏\"‏ تَصَدَّقْ بِهَذَا ‏\"‏‏.‏",
+                "headingArabic": "إِذَا جَامَعَ فِي رَمَضَانَ",
+                "headingUrdu": "رمضان میں بیوی سے مباشرت۔",
+                "headingEnglish": "Sexual intercourse with wife in Ramadan.",
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1857,
+                "hadithNumber": "1936",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "While we were sitting with the Prophet (ﷺ) a man came and said, \"O Allah's Messenger (ﷺ)! I have been ruined.\" Allah's Messenger (ﷺ) asked what was the matter with him. He replied \"I had sexual intercourse with my wife while I was fasting.\" Allah's Messenger (ﷺ) asked him, \"Can you afford to manumit a slave?\" He replied in the negative. Allah's Messenger (ﷺ) asked him, \"Can you fast for two successive months?\" He replied in the negative. The Prophet (ﷺ) asked him, \"Can you afford to feed sixty poor persons?\" He replied in the negative. The Prophet (ﷺ) kept silent and while we were in that state, a big basket full of dates was brought to the Prophet (ﷺ) . He asked, \"Where is the questioner?\" He replied, \"I (am here).\" The Prophet (ﷺ) said (to him), \"Take this (basket of dates) and give it in charity.\" The man said, \"Should I give it to a person poorer than I? By Allah; there is no family between its (i.e. Medina's) two mountains who are poorer than I.\" The Prophet (ﷺ) smiled till his premolar teeth became visible and then said, 'Feed your family with it.\"",
+                "hadithUrdu": "ہم نبی کریم صلی اللہ علیہ وسلم کی خدمت میں تھے کہ ایک شخص نے حاضر ہو کر کہا کہ یا رسول اللہ ! میں تو تباہ ہو گیا ، آپ صلی اللہ علیہ وسلم نے دریافت فرمایا کیا بات ہوئی ؟ اس نے کہا کہ میں نے روزہ کی حالت میں اپنی بیوی سے جماع کر لیا ہے ، اس پر رسول اللہ علیہ وسلم نے دریافت فرمایا کیا تمہارے پاس کوئی غلام ہے جسے تم آزاد کر سکو ؟ اس نے کہا نہیں ، پھر آپ صلی اللہ علیہ وسلم نے دریافت فرمایا کیا پے درپے دو مہینے کے روزے رکھ سکتے ہو ؟ اس نے عرض کی نہیں ، پھر آپ صلی اللہ علیہ وسلم نے پوچھا کیا تم کو ساٹھ مسکینوں کو کھانا کھلانے کی طاقت ہے ؟ اس نے اس کا جواب بھی انکار میں دیا ، راوی نے بیان کیا کہ پھر نبی کریم صلی اللہ علیہ وسلم تھوڑی دیر کے لیے ٹھہر گئے ، ہم بھی اپنی اسی حالت میں بیٹھے ہوئے تھے کہ آپ صلی اللہ علیہ وسلم کی خدمت میں ایک بڑا تھیلا ( عرق نامی ) پیش کیا گیا جس میں کھجوریں تھیں ۔ عرق تھیلے کو کہتے ہیں ( جسے کھجور کی چھال سے بناتے ہیں ) آنحضرت صلی اللہ علیہ وسلم نے دریافت فرمایا کہ سائل کہاں ہے ؟ اس نے کہا کہ میں حاضر ہوں ، آپ صلی اللہ علیہ وسلم نے فرمایا کے اسے لے لو اور صدقہ کر دو ، اس شخص نے کہا یا رسول اللہ ! کیا میں اپنے سے زیادہ محتاج پر صدقہ کر دوں ، بخدا ان دونوں پتھریلے میدانوں کے درمیان کوئی بھی گھرانہ میرے گھر سے زیادہ محتاج نہیں ہے ، اس پر نبی کریم صلی اللہ علیہ وسلم اس طرح ہنس پڑے کہ آپ کے آگے کے دانت دیکھے جا سکے ۔ پھر آپ صلی اللہ علیہ وسلم نے ارشاد فرمایا کہ اچھا جا اپنے گھر والوں ہی کو کھلا دے ۔",
+                "urduNarrator": "ہم سے ابوالیمان نے بیان کیا ، کہا ہم کو شعیب نے خبر دی ، انہیں زہری نے ، انہوں نے بیان کیا کہ مجھے حمید بن عبدالرحمٰن نے خبر دی اور ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي حُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ، أَنَّ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ بَيْنَمَا نَحْنُ جُلُوسٌ عِنْدَ النَّبِيِّ صلى الله عليه وسلم إِذْ جَاءَهُ رَجُلٌ، فَقَالَ يَا رَسُولَ اللَّهِ هَلَكْتُ‏.‏ قَالَ ‏\"‏ مَا لَكَ ‏\"‏‏.‏ قَالَ وَقَعْتُ عَلَى امْرَأَتِي وَأَنَا صَائِمٌ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ هَلْ تَجِدُ رَقَبَةً تُعْتِقُهَا ‏\"‏‏.‏ قَالَ لاَ‏.‏ قَالَ ‏\"‏ فَهَلْ تَسْتَطِيعُ أَنْ تَصُومَ شَهْرَيْنِ مُتَتَابِعَيْنِ ‏\"‏‏.‏ قَالَ لاَ‏.‏ فَقَالَ ‏\"‏ فَهَلْ تَجِدُ إِطْعَامَ سِتِّينَ مِسْكِينًا ‏\"‏‏.‏ قَالَ لاَ‏.‏ قَالَ فَمَكَثَ النَّبِيُّ صلى الله عليه وسلم، فَبَيْنَا نَحْنُ عَلَى ذَلِكَ أُتِيَ النَّبِيُّ صلى الله عليه وسلم بِعَرَقٍ فِيهَا تَمْرٌ ـ وَالْعَرَقُ الْمِكْتَلُ ـ قَالَ ‏\"‏ أَيْنَ السَّائِلُ ‏\"‏‏.‏ فَقَالَ أَنَا‏.‏ قَالَ ‏\"‏ خُذْهَا فَتَصَدَّقْ بِهِ ‏\"‏‏.‏ فَقَالَ الرَّجُلُ أَعَلَى أَفْقَرَ مِنِّي يَا رَسُولَ اللَّهِ فَوَاللَّهِ مَا بَيْنَ لاَبَتَيْهَا ـ يُرِيدُ الْحَرَّتَيْنِ ـ أَهْلُ بَيْتٍ أَفْقَرُ مِنْ أَهْلِ بَيْتِي، فَضَحِكَ النَّبِيُّ صلى الله عليه وسلم حَتَّى بَدَتْ أَنْيَابُهُ ثُمَّ قَالَ ‏\"‏ أَطْعِمْهُ أَهْلَكَ ‏\"‏‏.‏",
+                "headingArabic": "إِذَا جَامَعَ فِي رَمَضَانَ وَلَمْ يَكُنْ لَهُ شَىْءٌ فَتُصُدِّقَ عَلَيْهِ فَلْيُكَفِّرْ",
+                "headingUrdu": "رمضان میں بیوی سے مباشرت اور اس کا کفارہ۔",
+                "headingEnglish": "Sexual intercourse with wife in Ramadan and the expiation of that.",
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1858,
+                "hadithNumber": "1937",
+                "englishNarrator": "Narrated Abu Huraira  رضی اللہ عنہ :",
+                "hadithEnglish": "A man came to the Prophet (ﷺ) and said, \"I had sexual intercourse with my wife on Ramadan (while fasting).\" The Prophet (ﷺ) asked him, \"Can you afford to manumit a slave?\" He replied in the negative. The Prophet (ﷺ) asked him, \"Can you fast for two successive months?\" He replied in the negative. He asked him, \"Can you afford to feed sixty poor persons?\" He replied in the negative. (Abu Huraira added): Then a basket full of dates was brought to the Prophet (ﷺ) and he said (to that man), \"Feed (poor people) with this by way of atonement.\" He said, \"(Should I feed it) to poorer people than we? There is no poorer house than ours between its (Medina's) mountains.\" The Prophet (ﷺ) said, \"Then feed your family with it.\"",
+                "hadithUrdu": "ایک شخص نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوا اور عرض کی کہ یہ بدنصیب رمضان میں اپنی بیوی سے جماع کر بیٹھا ہے ، آپ صلی اللہ علیہ وسلم نے دریافت فرمایا کہ تمہارے پاس اتنی طاقت نہیں ہے کہ ایک غلام آزاد کر سکو ؟ اس نے کہا کہ نہیں ، آپ صلی اللہ علیہ وسلم نے پھر دریافت فرمایا کیا تم پے در پے دو مہینے کے روزے رکھ سکتے ہو ؟ اس نے کہا کہ نہیں ۔ آپ صلی اللہ علیہ وسلم نے پھر دریافت فرمایا کہ کیا تمہارے اندر اتنی طاقت ہے کہ ساٹھ مسکینوں کو کھانا کھلا سکو ؟ اب بھی اس کا جواب نفی میں تھا ۔ راوی نے بیان کیا پھر نبی کریم صلی اللہ علیہ وسلم کی خدمت میں ایک تھیلا لایا گیا جس میں کھجوریں تھیں «عرق» زنبیل کو کہتے ہیں ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ اسے لے جا اور اپنی طرف سے ( محتاجوں کو ) کھلا دے ، اس شخص نے کہا میں اپنے سے بھی زیادہ محتاج کو حالانکہ دو میدانوں کے درمیان کوئی گھرانہ ہم سے زیادہ محتاج نہیں آپ نے فرمایا کہ پھر جا اپنے گھر والوں ہی کو کھلا دے ۔",
+                "urduNarrator": "ہم سے عثمان بن ابی شیبہ نے بیان کیا ، کہا کہ ہم سے جریر نے بیان کیا ، ان سے منصور نے ، ان سے زہری نے ، ان سے حمید بن عبدالرحمٰن نے اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنِ الزُّهْرِيِّ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ جَاءَ رَجُلٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ إِنَّ الأَخِرَ وَقَعَ عَلَى امْرَأَتِهِ فِي رَمَضَانَ‏.‏ فَقَالَ ‏\"‏ أَتَجِدُ مَا تُحَرِّرُ رَقَبَةً ‏\"‏‏.‏ قَالَ لاَ‏.‏ قَالَ ‏\"‏ فَتَسْتَطِيعُ أَنْ تَصُومَ شَهْرَيْنِ مُتَتَابِعَيْنِ ‏\"‏‏.‏ قَالَ لاَ‏.‏ قَالَ ‏\"‏ أَفَتَجِدُ مَا تُطْعِمُ بِهِ سِتِّينَ مِسْكِينًا ‏\"‏‏.‏ قَالَ لاَ‏.‏ قَالَ فَأُتِيَ النَّبِيُّ صلى الله عليه وسلم بِعَرَقٍ فِيهِ تَمْرٌ ـ وَهُوَ الزَّبِيلُ ـ قَالَ ‏\"‏ أَطْعِمْ هَذَا عَنْكَ ‏\"‏‏.‏ قَالَ عَلَى أَحْوَجَ مِنَّا مَا بَيْنَ لاَبَتَيْهَا أَهْلُ بَيْتٍ أَحْوَجُ مِنَّا‏.‏ قَالَ ‏\"‏ فَأَطْعِمْهُ أَهْلَكَ ‏\"‏‏.‏",
+                "headingArabic": "الْمُجَامِعِ فِي رَمَضَانَ هَلْ يُطْعِمُ أَهْلَهُ مِنَ الْكَفَّارَةِ إِذَا كَانُوا مَحَاوِيجَ",
+                "headingUrdu": "اہل خانہ کو گناہوں کے کفارہ (کفارہ) سے کھانا کھلانا اگر وہ محتاج ہوں۔",
+                "headingEnglish": "To feed family from sin expiation (kaffarah) if they are needy.",
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1859,
+                "hadithNumber": "1938",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) was cupped while he was in the state of lhram, and also while he was observing a fast.",
+                "hadithUrdu": "نبی اکرم صلی اللہ علیہ وسلم نے احرام میں اوروزے کی حالت میں پچھنا لگوایا ۔",
+                "urduNarrator": "ہم سے معلی بن اسد نے بیان کیا ، ان سے وہیب نے ، وہ ایوب سے ، وہ عکرمہ سے ، وہ حضرت ابن عباس رضی اللہ عنہما سے روایت کرتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا مُعَلَّى بْنُ أَسَدٍ، حَدَّثَنَا وُهَيْبٌ، عَنْ أَيُّوبَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم احْتَجَمَ، وَهْوَ مُحْرِمٌ وَاحْتَجَمَ وَهْوَ صَائِمٌ‏.‏",
+                "headingArabic": "الْحِجَامَةِ وَالْقَىْءِ لِلصَّائِمِ",
+                "headingUrdu": "صوم میں سنگی اور قے (روزہ)",
+                "headingEnglish": "Cupping and vomiting in Saum (fast)",
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1860,
+                "hadithNumber": "1939",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) was cupped while he was fasting.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے روزہ کی حالت میں پچھنا لگوایا ۔",
+                "urduNarrator": "ہم سے ابومعمر عبداللہ بن عمری نے بیان کیا ، کہا ہم سے عبدالوارث بن سعید نے بیان کیا ، ان سے ایوب سختیانی نے بیان کیا ، ان سے عکرمہ نے اور ان سے ابن عباس رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو مَعْمَرٍ، حَدَّثَنَا عَبْدُ الْوَارِثِ، حَدَّثَنَا أَيُّوبُ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ احْتَجَمَ النَّبِيُّ صلى الله عليه وسلم وَهُوَ صَائِمٌ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1861,
+                "hadithNumber": "1940",
+                "englishNarrator": "Narrated Thabit Al-Bunani:",
+                "hadithEnglish": "Anas bin Malik was asked whether they disliked the cupping for a fasting person. He replied in the negative and said, \"Only if it causes weakness.\" Shababah has reported from Shobah in the prophet times.",
+                "hadithUrdu": "کیا آپ لوگ روزہ کی حالت میں پچھنا لگوانے کو مکروہ سمجھا کرتے تھے ؟ آپ نے جواب دیا کہ نہیں البتہ کمزوی کے خیال سے ( روزہ میں نہیں لگواتے تھے ) شبابہ نے یہ زیادتی کی ہے کہ ہم سے شعبہ نے بیان کیا کہ ( ایسا ہم ) نبی کریم صلی اللہ علیہ وسلم کے عہد میں ( کرتے تھے ) ۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا ، ہم سے شعبہ نے بیان کیا ، کہا کہ میں نے ثابت بنانی سے سنا ، انہوں نے انس بن مالک رضی اللہ عنہ سے پوچھا تھا کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ بْنُ أَبِي إِيَاسٍ، حَدَّثَنَا شُعْبَةُ، قَالَ سَمِعْتُ ثَابِتًا الْبُنَانِيَّ، يَسْأَلُ أَنَسَ بْنَ مَالِكٍ ـ رضى الله عنه ـ أَكُنْتُمْ تَكْرَهُونَ الْحِجَامَةَ لِلصَّائِمِ قَالَ لاَ‏.‏ إِلاَّ مِنْ أَجْلِ الضَّعْفِ‏.‏ وَزَادَ شَبَابَةُ حَدَّثَنَا شُعْبَةُ عَلَى عَهْدِ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1862,
+                "hadithNumber": "1941",
+                "englishNarrator": "Narrated Ibn Abi `Aufa رضی اللہ عنہ :",
+                "hadithEnglish": "We were in the company of Allah's Messenger (ﷺ) on a journey. He said to a man, \"Get down and mix Sawiq (powdered barley) with water for me.\" The man said, \"The sun (has not set yet), O Allah's Messenger (ﷺ).\" The Prophet (ﷺ) again said to him, \"Get down and mix Sawiq with water for me.\" The man again said, \"O Allah's Messenger (ﷺ)! The sun!\" The Prophet (ﷺ) said to him (for the third time) \"Get down and mix Sawiq with water for me.\" The man dismounted and mixed Sawiq with water for him. The Prophet (ﷺ) drank it and then beckoned with his hand (towards the East) and said, \"When you see the night falling from this side, then a fasting person should break his fast.\" Jareer and Abu Bakr bin Ayyash corroborated him from Shaibani that Hadrat Ibn-e-Abi Aufa said: Iwas on a journey with the prophet (ﷺ).",
+                "hadithUrdu": "ہم رسول اللہ صلی اللہ علیہ وسلم کے ساتھ سفر میں تھے ( روزہ کی حالت میں ) آنحضرت صلی اللہ علیہ وسلم نے ایک صاحب ( بلال رضی اللہ عنہ ) سے فرمایا کہ اتر کر میرے لیے ستو گھول لے ، انہوں نے عرض کی یا رسول اللہ ! ابھی تو سورج باقی ہے ، آپ صلی اللہ علیہ وسلم نے پھر فرمایا کہ اتر کر ستو گھول لے ، اب کی مرتبہ بھی انہوں نے عرض کی یا رسول اللہ ! ابھی سورج باقی ہے لیکن آپ کا حکم اب بھی یہی تھا کہ اتر کر میرے لیے ستو گھول لے ، پھر آپ صلی اللہ علیہ وسلم نے ایک طرف اشارہ کر کے فرمایا جب تم دیکھو کہ رات یہاں سے شروع ہو چکی ہے تو روزہ دار کو افطار کر لینا چاہئے ۔ اس کی متابعت جریر اور ابوبکر بن عیاش نے شیبانی کے واسطہ سے کی ہے اور ان سے ابواوفی رضی اللہ عنہ نے کہا کہ میں رسول اللہ صلی علیہ وسلم کے ساتھ سفر میں تھا ۔",
+                "urduNarrator": "ہم سے علی بن عبداللہ مدینی نے بیان کیا ، کہا ہم سے سفیان بن عیینہ نے بیان کیا ، ان سے ابواسحاق شیبانی نے ، انہوں نے عبداللہ بن ابی اوفی رضی اللہ عنہ سے سنا کہا کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ الشَّيْبَانِيِّ، سَمِعَ ابْنَ أَبِي أَوْفَى ـ رضى الله عنه ـ قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي سَفَرٍ فَقَالَ لِرَجُلٍ ‏\"‏ انْزِلْ فَاجْدَحْ لِي ‏\"‏‏.‏ قَالَ يَا رَسُولَ اللَّهِ الشَّمْسُ‏.‏ قَالَ ‏\"‏ انْزِلْ فَاجْدَحْ لِي ‏\"‏‏.‏ قَالَ يَا رَسُولَ اللَّهِ الشَّمْسُ‏.‏ قَالَ ‏\"‏ انْزِلْ فَاجْدَحْ لِي ‏\"‏‏.‏ فَنَزَلَ، فَجَدَحَ لَهُ، فَشَرِبَ، ثُمَّ رَمَى بِيَدِهِ هَا هُنَا، ثُمَّ قَالَ ‏\"‏ إِذَا رَأَيْتُمُ اللَّيْلَ أَقْبَلَ مِنْ هَا هُنَا فَقَدْ أَفْطَرَ الصَّائِمُ ‏\"‏‏.‏ تَابَعَهُ جَرِيرٌ وَأَبُو بَكْرِ بْنُ عَيَّاشٍ عَنِ الشَّيْبَانِيِّ عَنِ ابْنِ أَبِي أَوْفَى قَالَ كُنْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم فِي سَفَرٍ‏.‏",
+                "headingArabic": "الصَّوْمِ فِي السَّفَرِ وَالإِفْطَارِ",
+                "headingUrdu": "سفر میں صوم (روزہ) رکھنا یا نہ رکھنا؟",
+                "headingEnglish": "To observe Saum (fast) or not during journeys",
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1863,
+                "hadithNumber": "1942",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "Hamza bin `Amr Al-Aslami رضی اللہ عنہ said, \"O Allah's Messenger (ﷺ)! I fast continuously.\"",
+                "hadithUrdu": "حمزہ بن عمرو اسلمی رضی اللہ عنہ نے عرض کی یا رسول اللہ ! میں سفر میں لگاتار روزہ رکھتا ہوں ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیا ، کہا ہم سے یحییٰ بن قطان نے بیان کیا ، ان سے ہشام بن عروہ نے بیان کیا کہ مجھ سے میرے باپ عروہ نے بیان کیا ، ان سے عائشہ رضی اللہ عنہا نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ هِشَامٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ عَائِشَةَ، أَنَّ حَمْزَةَ بْنَ عَمْرٍو الأَسْلَمِيَّ، قَالَ يَا رَسُولَ اللَّهِ إِنِّي أَسْرُدُ الصَّوْمَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1864,
+                "hadithNumber": "1943",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا (the wife of the Prophet):",
+                "hadithEnglish": "Hamza bin `Amr Al-Aslami asked the Prophet, \"Should I fast while traveling?\" The Prophet (ﷺ) replied, \"You may fast if you wish, and you may not fast if you wish.\"",
+                "hadithUrdu": "حمزہ بن عمرو اسلمی رضی اللہ عنہ نے نبی کریم صلی اللہ علیہ وسلم سے عرض کی میں سفر میں روزہ رکھوں ؟ وہ روزے بکثرت رکھا کرتے تھے ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ اگر جی چاہے تو روزہ رکھ اور جی چاہے افطار کر ۔",
+                "urduNarrator": "( دوسری سند امام بخاری نے کہا کہ ) اور ہم سے عبداللہ بن یوسف نے بیان کیا ، انہیں امام مالک نے خبر دی ، انہیں ہشام بن عروہ نے ، انہیں ان کے والد نے اور انہیں نبی کریم صلی اللہ علیہ وسلم کی زوجہ مطہرہ عائشہ رضی اللہ عنہا نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ حَمْزَةَ بْنَ عَمْرٍو الأَسْلَمِيَّ قَالَ لِلنَّبِيِّ صلى الله عليه وسلم أَأَصُومُ فِي السَّفَرِ وَكَانَ كَثِيرَ الصِّيَامِ‏.‏ فَقَالَ ‏ \"‏ إِنْ شِئْتَ فَصُمْ، وَإِنْ شِئْتَ فَأَفْطِرْ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1865,
+                "hadithNumber": "1944",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) set out for Mecca in Ramadan and he fasted, and when he reached Al-Kadid, he broke his fast and the people (with him) broke their fast too. (Abu `Abdullah said, \"Al-Kadid is a land covered with water between Usfan and Qudaid.\")",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم ( فتح مکہ کے موقع پر ) مکہ کی طرف رمضان میں چلے تو آپ صلی اللہ علیہ وسلم روزہ سے تھے لیکن جب کدید پہنچے تو روزہ رکھنا چھوڑ دیا ۔ ابوعبداللہ امام بخاری رحمہ اللہ نے کہا کہ عسفان اور قدید کے درمیان کدید ایک تالاب ہے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف تنیسی نے بیان کیا ، کہا کہ ہم کو امام مالک نے خبر دی ، انہیں ابن شہاب نے ، انہیں عبیداللہ بن عبداللہ بن عتبہ نے اور انہیں ابن عباس رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَرَجَ إِلَى مَكَّةَ فِي رَمَضَانَ فَصَامَ حَتَّى بَلَغَ الْكَدِيدَ أَفْطَرَ، فَأَفْطَرَ النَّاسُ‏.‏ قَالَ أَبُو عَبْدِ اللَّهِ وَالْكَدِيدُ مَاءٌ بَيْنَ عُسْفَانَ وَقُدَيْدٍ‏.‏",
+                "headingArabic": "إِذَا صَامَ أَيَّامًا مِنْ رَمَضَانَ ثُمَّ سَافَرَ",
+                "headingUrdu": "اگر کوئی شخص کچھ دن صوم کا مشاہدہ کرے اور پھر سفر پر چلا جائے۔",
+                "headingEnglish": "If a person observed Saum for some days and then went on a journey.",
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1866,
+                "hadithNumber": "1945",
+                "englishNarrator": "Narrated Abu Ad-Darda رضی اللہ عنہا :",
+                "hadithEnglish": "We set out with Allah's Messenger (ﷺ) on one of his journeys on a very hot day, and it was so hot that one had to put his hand over his head because of the severity of heat. None of us was fasting except the Prophet and Ibn Rawaha رضی اللہ عنہ .",
+                "hadithUrdu": "ابودرداء رضی اللہ عنہ نے کہا ہم نبی کریم صلی اللہ علیہ وسلم کے ساتھ ایک سفر کر رہے تھے ۔ دن انتہائی گرم تھا ۔ گرمی کا یہ عالم تھا کہ گرمی کی سختی سے لوگ اپنے سروں کو پکڑ لیتے تھے ، نبی کریم صلی اللہ علیہ وسلم اور ابن رواحہ رضی اللہ عنہ کے سوا کوئی شخص روزہ سے نہیں تھا ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ، کہا کہ ہم سے یحییٰ بن حمزہ نے بیان کیا ، ان سے ابوعبدالرحمٰن بن یزید بن جابر نے بیان کیا ، ان سے اسماعیل بن عبیداللہ نے بیان کیا ، اور ان سے ام الدرداء رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ بْنِ جَابِرٍ، أَنَّ إِسْمَاعِيلَ بْنَ عُبَيْدِ اللَّهِ، حَدَّثَهُ عَنْ أُمِّ الدَّرْدَاءِ، عَنْ أَبِي الدَّرْدَاءِ ـ رضى الله عنه ـ قَالَ خَرَجْنَا مَعَ النَّبِيِّ صلى الله عليه وسلم فِي بَعْضِ أَسْفَارِهِ فِي يَوْمٍ حَارٍّ حَتَّى يَضَعَ الرَّجُلُ يَدَهُ عَلَى رَأْسِهِ مِنْ شِدَّةِ الْحَرِّ، وَمَا فِينَا صَائِمٌ إِلاَّ مَا كَانَ مِنَ النَّبِيِّ صلى الله عليه وسلم وَابْنِ رَوَاحَةَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1867,
+                "hadithNumber": "1946",
+                "englishNarrator": "Narrated Jabir bin `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) was on a journey and saw a crowd of people, and a man was being shaded (by them). He asked, \"What is the matter?\" They said, \"He (the man) is fasting.\" The Prophet (ﷺ) said, \"It is not righteousness that you fast on a journey.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم ایک سفر ( غزوہ فتح ) میں تھے آپ صلی اللہ علیہ وسلم نے دیکھا کہ ایک شخص پر لوگوں نے سایہ کر رکھا ہے ، آپ صلی اللہ علیہ وسلم نے دریافت فرمایا کہ کیا بات ہے ؟ لوگوں نے کہا کہ ایک روزہ دار ہے ، آپ صلی اللہ علیہ وسلم نے فرمایا کہ سفر میں رو زہ رکھنا اچھا کام نہیں ہے ۔",
+                "urduNarrator": "ہم سے آدم بن ایاس نے بیان کیا ، کہا ہم سے شعبہ نے بیان کیا ، ان سے محمد بن عبدالرحمٰن انصاری نے بیان کیا ، کہا کہ میں نے محمد بن عمرو بن حسن بن علی رضی اللہ عنہ سے سنا اور انہوں نے جابر بن عبداللہ رضی اللہ عنہما سے کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ الأَنْصَارِيُّ، قَالَ سَمِعْتُ مُحَمَّدَ بْنَ عَمْرِو بْنِ الْحَسَنِ بْنِ عَلِيٍّ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ ـ رضى الله عنهم ـ قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي سَفَرٍ، فَرَأَى زِحَامًا، وَرَجُلاً قَدْ ظُلِّلَ عَلَيْهِ، فَقَالَ ‏\"‏ مَا هَذَا ‏\"‏‏.‏ فَقَالُوا صَائِمٌ‏.‏ فَقَالَ ‏\"‏ لَيْسَ مِنَ الْبِرِّ الصَّوْمُ فِي السَّفَرِ ‏\"‏‏.‏",
+                "headingArabic": "قَوْلِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِمَنْ ظُلِّلَ عَلَيْهِ، وَاشْتَدَّ الْحَرُّ: «لَيْسَ مِنَ الْبِرِّ الصَّوْمُ فِي السَّفَرِ»",
+                "headingUrdu": "سفر میں صوم کا مشاہدہ کرنا نیکی نہیں ہے۔",
+                "headingEnglish": "It is not righteousness to observe Saum on a journey",
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1868,
+                "hadithNumber": "1947",
+                "englishNarrator": "Narrated Anas bin Malik  رضی اللہ عنہ :",
+                "hadithEnglish": "We used to travel with the Prophet (ﷺ) and neither did the fasting persons criticize those who were not fasting, nor did those who were not fasting criticize the fasting ones.",
+                "hadithUrdu": "ہم نبی کریم صلی اللہ علیہ وسلم کے ساتھ ( رمضان میں ) سفر کیا کرتے تھے ۔ ( سفر میں بہت سے روزے سے ہوتے اور بہت سے بے روزہ ہوتے ) لیکن روزے دار بے روزہ دار پر اور بے روزہ دار روزے دار پر کسی قسم کی عیب جوئی نہیں کیا کرتے تھے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ نے بیان کیا ، کہا ہم سے امام مالک نے ، ان سے حمید طویل نے اور ان سے انس بن مالک رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ حُمَيْدٍ الطَّوِيلِ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كُنَّا نُسَافِرُ مَعَ النَّبِيِّ صلى الله عليه وسلم فَلَمْ يَعِبِ الصَّائِمُ عَلَى الْمُفْطِرِ، وَلاَ الْمُفْطِرُ عَلَى الصَّائِمِ‏.‏",
+                "headingArabic": "لَمْ يَعِبْ أَصْحَابُ النَّبِيِّ صلى الله عليه وسلم بَعْضُهُمْ بَعْضًا فِي الصَّوْمِ وَالإِفْطَارِ",
+                "headingUrdu": "صوم دیکھنے یا نہ کرنے پر ایک دوسرے پر تنقید نہ کرنا (سفر میں)",
+                "headingEnglish": "Not to criticize each other for observing Saum or not (on journeys)",
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1869,
+                "hadithNumber": "1948",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "\"Allah's Messenger (ﷺ) set out from Medina to Mecca and he fasted till he reached 'Usfan, where he asked for water and raised his hand to let the people see him, and then broke the fast, and did not fast after that till he reached Mecca, and that happened in Ramadan.\" Ibn `Abbas رضی اللہ عنہما  used to say, \"Allah's Messenger (ﷺ) (sometimes) fasted and (sometimes) did not fast during the journeys so whoever wished to fast could fast, and whoever wished not to fast, could do so.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ( غزوہ فتح میں ) مدینہ سے مکہ کے لیے سفر شروع کیا تو آپ صلی اللہ علیہ وسلم روزہ سے تھے ، جب آپ عسفان پہنچے تو پانی منگوایا اور اسے اپنے ہاتھ سے ( منہ تک ) اٹھایا تاکہ لوگ دیکھ لیں پھر آپ صلی اللہ علیہ وسلم نے روزہ چھوڑ دیا یہاں تک کہ مکہ پہنچے ۔ ابن عباس رضی اللہ عنہما کہا کرتے تھے کہ رسول اللہ صلی اللہ علیہ وسلم نے ( سفر میں ) روزہ رکھا بھی اور نہیں بھی رکھا اس لیے جس کا جی چاہے روزہ رکھے اور جس کا جی چاہے نہ رکھے ۔",
+                "urduNarrator": "ہم سے موسیٰ بن اسماعیل نے بیان کیا ، انہوں نے کہا ہم سے ابوعوانہ نے ، ان سے منصور نے ، ان سے مجاہد نے ، ان سے طاؤس نے اور ان سے حضرت عبداللہ بن عباس رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ مَنْصُورٍ، عَنْ مُجَاهِدٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنَ الْمَدِينَةِ إِلَى مَكَّةَ، فَصَامَ حَتَّى بَلَغَ عُسْفَانَ، ثُمَّ دَعَا بِمَاءٍ فَرَفَعَهُ إِلَى يَدَيْهِ لِيُرِيَهُ النَّاسَ فَأَفْطَرَ، حَتَّى قَدِمَ مَكَّةَ، وَذَلِكَ فِي رَمَضَانَ فَكَانَ ابْنُ عَبَّاسٍ يَقُولُ قَدْ صَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَأَفْطَرَ، فَمَنْ شَاءَ صَامَ، وَمَنْ شَاءَ أَفْطَرَ‏.‏",
+                "headingArabic": "مَنْ أَفْطَرَ فِي السَّفَرِ لِيَرَاهُ النَّاسُ",
+                "headingUrdu": "جس نے سفر میں (عام طور پر) اپنا صوم (روزہ) توڑا۔",
+                "headingEnglish": "Whoever broke his Saum (fast) on a journey (publicly).",
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1870,
+                "hadithNumber": "1949",
+                "englishNarrator": "Narrated Nafi`:",
+                "hadithEnglish": "Ibn `Umar رضی اللہ عنہما recited the verse: \"They had a choice either to fast or to feed a poor person for every day, and said that the order of this Verse was canceled.",
+                "hadithUrdu": "حضرت عبداللہ بن عمر رضی اللہ عنہما نے ( آیت مذکور بالا ) «فديه طعام مسكين» پڑھی اور فرمایا یہ منسوخ ہے ۔",
+                "urduNarrator": "ہم سے عیاش نے بیان کیا ، ان سے عبدالاعلیٰ نے بیان کیا ، ان سے عبیداللہ نے بیان کیا ، ان سے نافع نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَيَّاشٌ، حَدَّثَنَا عَبْدُ الأَعْلَى، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَرَأَ فِدْيَةٌ طَعَامُ مَسَاكِينَ‏.‏ قَالَ هِيَ مَنْسُوخَةٌ‏.‏",
+                "headingArabic": "{وَعَلَى الَّذِينَ يُطِيقُونَهُ فِدْيَةٌ}",
+                "headingUrdu": "جو لوگ مشکل سے روزہ رکھ سکتے ہیں انہیں ایک مسکین کو کھانا کھلانا ہے۔",
+                "headingEnglish": "Those who can fast with difficulty have to feed a poor person",
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1871,
+                "hadithNumber": "1950",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "Sometimes I missed some days of Ramadan, but could not fast in lieu of them except in the month of Sha'ban.\" Said Yahya, a sub-narrator, \"She used to be busy serving the Prophet (ﷺ) .\"",
+                "hadithUrdu": "رمضان کا روزہ مجھ سے چھوٹ جاتا ۔ شعبان سے پہلے اس کی قضاء کی توفیق نہ ہوتی ۔ یحییٰ نے کہا کہ یہ نبی کریم صلی اللہ علیہ وسلم کی خدمت میں مشغول رہنے کی وجہ سے تھا ۔",
+                "urduNarrator": "ہم سے احمد بن یونس نے بیان کیا ، کہا کہ ہم سے زہیر نے بیان کیا ، ان سے یحییٰ بن ابی کثیر نے بیان کیا ، ان سے ابوسلمہ نے بیان کیا کہ میں نے عائشہ رضی اللہ عنہا سے سنا وہ فرماتیں کہ",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا يَحْيَى، عَنْ أَبِي سَلَمَةَ، قَالَ سَمِعْتُ عَائِشَةَ ـ رضى الله عنها ـ تَقُولُ كَانَ يَكُونُ عَلَىَّ الصَّوْمُ مِنْ رَمَضَانَ، فَمَا أَسْتَطِيعُ أَنْ أَقْضِيَ إِلاَّ فِي شَعْبَانَ‏.‏ قَالَ يَحْيَى الشُّغْلُ مِنَ النَّبِيِّ أَوْ بِالنَّبِيِّ صلى الله عليه وسلم‏.‏",
+                "headingArabic": "مَتَى يُقْضَى قَضَاءُ رَمَضَانَ",
+                "headingUrdu": "روزوں کے چھوڑے ہوئے دنوں کی قضاء کرنا",
+                "headingEnglish": "To make up for the missed days of fasting",
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1872,
+                "hadithNumber": "1951",
+                "englishNarrator": "Narrated Abu Sa`id رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Isn't it true that a woman does not pray and does not fast on menstruating? And that is the defect (a loss) in her religion.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کیا جب عورت حائضہ ہوتی ہے تو نماز اور روزے نہیں چھوڑ دیتی ؟ یہی اس کے دین کا نقصان ہے ۔",
+                "urduNarrator": "ہم سے سعید بن ابی مریم نے بیان کیا ، کہا ہم سے محمد بن جعفر نے بیان کیا ، کہا کہ مجھ سے زید بن اسلم نے بیان کیا ، ان سے عیاض نے اور ان سے ابوسعید رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا ابْنُ أَبِي مَرْيَمَ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالَ حَدَّثَنِي زَيْدٌ، عَنْ عِيَاضٍ، عَنْ أَبِي سَعِيدٍ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ أَلَيْسَ إِذَا حَاضَتْ لَمْ تُصَلِّ، وَلَمْ تَصُمْ فَذَلِكَ نُقْصَانُ دِينِهَا ‏\"‏‏.‏",
+                "headingArabic": "الْحَائِضِ تَتْرُكُ الصَّوْمَ وَالصَّلاَةَ",
+                "headingUrdu": "حائضہ کو صوم اور نماز چھوڑ دینی چاہیے۔",
+                "headingEnglish": "The menstruating should leave the Saum and Salat",
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1873,
+                "hadithNumber": "1952",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"Whoever died and he ought to have fasted (the missed days of Ramadan) then his guardians must fast on his behalf.\" Ibn-e- Wahab corroborated him from Amr and reported it Yahya bin Ayyub from Ibn-e-Abi Jafar.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا اگر کوئی شخص مر جائے اور اس کے ذمہ روزے واجب ہوں تو اس کا ولی اس کی طرف سے روزے رکھ دے ، موسیٰ کے ساتھ اس حدیث کو ابن وہب نے بھی عمرو سے روایت کیا اور یحییٰ بن ایوب سختیانی نے بھی ابن ابی جعفر سے ۔",
+                "urduNarrator": "ہم سے محمد بن خالد نے بیان کیا ، کہا ہم سے محمد بن موسیٰ ابن اعین نے بیان کیا ، انہوں نے کہا کہ ہم سے ان کے والد نے بیان کیا ، ان سے عمرو بن حارث نے ، ان سے عبیداللہ بن ابی جعفر نے ، ان سے محمد بن جعفر نے کہا ، ان سے عروہ نے بیان کیا اور ان سے عائشہ رضی اللہ عنہا نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ خَالِدٍ، حَدَّثَنَا مُحَمَّدُ بْنُ مُوسَى بْنِ أَعْيَنَ، حَدَّثَنَا أَبِي، عَنْ عَمْرِو بْنِ الْحَارِثِ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي جَعْفَرٍ، أَنَّ مُحَمَّدَ بْنَ جَعْفَرٍ، حَدَّثَهُ عَنْ عُرْوَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ مَاتَ وَعَلَيْهِ صِيَامٌ صَامَ عَنْهُ وَلِيُّهُ ‏\"‏‏.‏ تَابَعَهُ ابْنُ وَهْبٍ عَنْ عَمْرٍو‏.‏ وَرَوَاهُ يَحْيَى بْنُ أَيُّوبَ عَنِ ابْنِ أَبِي جَعْفَرٍ‏.‏",
+                "headingArabic": "مَنْ مَاتَ وَعَلَيْهِ صَوْمٌ",
+                "headingUrdu": "کیا میت کے بجائے کوئی اور شخص صوم کا مشاہدہ کرسکتا ہے؟",
+                "headingEnglish": "Can somebody else observe Saum instead of the dead?",
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1874,
+                "hadithNumber": "1953",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "A man came to the Prophet (ﷺ) and said, \"O Allah's Messenger (ﷺ)! My mother died and she ought to have fasted one month (for her missed Ramadan). Shall I fast on her behalf?\" The Prophet (ﷺ) replied in the affirmative and said, \"Allah's debts have more right to be paid.\" In another narration a woman is reported to have said, \"My sister died...\" Narrated Ibn `Abbas رضی اللہ عنہما : A woman said to the Prophet (ﷺ) \"My mother died and she had vowed to fast but she didn't fast.\" In another narration Ibn `Abbas رضی اللہ عنہما is reported to have said, \"A woman said to the Prophet, \"My mother died while she ought to have fasted for fifteen days.\"",
+                "hadithUrdu": "ایک شخص رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوا اور عرض کی یا رسول اللہ ! میری ماں کا انتقال ہو گیا اور ان کے ذمے ایک مہینے کے روزے باقی رہ گئے ہیں ۔ کیا میں ان کی طرف سے قضاء رکھ سکتا ہوں ؟ آپ صلی اللہ علیہ وسلم نے فرمایا ہاں ضرور ، اللہ تعالیٰ کا قرض اس بات کا زیادہ مستحق ہے کہ اسے ادا کر دیا جائے ۔ سلیمان اعمش نے بیان کیا کہ حکم اور سلمہ نے کہا جب مسلم بطین نے یہ حدیث بیان کیا تو ہم سب وہیں بیٹھے ہوئے تھے ۔ ان دونوں حضرات نے فرمایا کہ ہم نے مجاہد سے بھی سنا تھا کہ وہ یہ حدیث ابن عباس رضی اللہ عنہما سے بیان کرتے تھے ۔ ابوخالد سے روایت ہے کہ اعمش نے بیان کیا ان سے حکم ، مسلم بطین اور سلمہ بن کہیل نے ، ان سے سعید بن جبیر ، عطاء اور مجاہد نے ابن عباس رضی اللہ عنہما سے کہ ایک خاتون نے نبی کریم صلی اللہ علیہ وسلم سے عرض کی کہ میری ” بہن “ کا انتقال ہو گیا ہے پھر یہی قصہ بیان کیا ، یحییٰ اور سعید اور ابومعاویہ نے کہا ، ان سے اعمش نے بیان کیا ، ان سے مسلم نے ، ان سے سعید نے اور ان سے ابن عباس رضی اللہ عنہما نے کہ ایک خاتون نے نبی کریم صلی اللہ علیہ وسلم سے عرض کی کہ میری ماں کا انتقال ہو گیا ہے اور عبیداللہ نے بیان کیا ، ان سے زید ابن ابی انیسہ نے ، ان سے حکم نے ، ان سے سعید بن جبیر نے اور ان سے ابن عباس رضی اللہ عنہما نے کہ ایک خاتون نے نبی کریم صلی اللہ علیہ وسلم سے عرض کی کہ میری ماں کا انتقال ہو گیا ہے اور ان پر نذر کا ایک روزہ واجب تھا اور ابوحریز عبداللہ بن حسین نے بیان کیا ، کہا ہم سے عکرمہ نے بیان کیا اور ان سے ابن عباس رضی اللہ عنہما نے کہ ایک خاتون نے نبی کریم صلی اللہ علیہ وسلم کی خدمت میں عرض کی کہ میری ماں کا انتقال ہو گیا ہے اور ان پر پندرہ دن کے روزے واجب تھے ۔",
+                "urduNarrator": "ہم سے محمد بن عبدالرحیم نے بیان کیا ، کہا ہم سے معاویہ بن عمرو نے بیان کیا ، کہا ہم سے زائدہ نے بیان کیا ، ان سے اعمش نے ، ان سے مسلم بطین نے ، ان سے سعید بن جبیر نے اور ان سے ابن عباس رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحِيمِ، حَدَّثَنَا مُعَاوِيَةُ بْنُ عَمْرٍو، حَدَّثَنَا زَائِدَةُ، عَنِ الأَعْمَشِ، عَنْ مُسْلِمٍ الْبَطِينِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ جَاءَ رَجُلٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ أُمِّي مَاتَتْ، وَعَلَيْهَا صَوْمُ شَهْرٍ، أَفَأَقْضِيهِ عَنْهَا قَالَ ‏ \"‏ نَعَمْ ـ قَالَ ـ فَدَيْنُ اللَّهِ أَحَقُّ أَنْ يُقْضَى ‏\"‏‏.‏ قَالَ سُلَيْمَانُ فَقَالَ الْحَكَمُ وَسَلَمَةُ، وَنَحْنُ جَمِيعًا جُلُوسٌ حِينَ حَدَّثَ مُسْلِمٌ بِهَذَا الْحَدِيثِ ـ قَالاَ ـ سَمِعْنَا مُجَاهِدًا يَذْكُرُ هَذَا عَنِ ابْنِ عَبَّاسٍ‏.‏ وَيُذْكَرُ عَنْ أَبِي خَالِدٍ، حَدَّثَنَا الأَعْمَشُ، عَنِ الْحَكَمِ، وَمُسْلِمٍ الْبَطِينِ، وَسَلَمَةَ بْنِ كُهَيْلٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، وَعَطَاءٍ، وَمُجَاهِدٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَتِ امْرَأَةٌ لِلنَّبِيِّ صلى الله عليه وسلم إِنَّ أُخْتِي مَاتَتْ‏.‏ وَقَالَ يَحْيَى وَأَبُو مُعَاوِيَةَ حَدَّثَنَا الأَعْمَشُ عَنْ مُسْلِمٍ عَنْ سَعِيدٍ عَنِ ابْنِ عَبَّاسٍ قَالَتِ امْرَأَةٌ لِلنَّبِيِّ صلى الله عليه وسلم إِنَّ أُمِّي مَاتَتْ‏.‏ وَقَالَ عُبَيْدُ اللَّهِ عَنْ زَيْدِ بْنِ أَبِي أُنَيْسَةَ عَنِ الْحَكَمِ عَنْ سَعِيدِ بْنِ جُبَيْرٍ عَنِ ابْنِ عَبَّاسٍ قَالَتِ امْرَأَةٌ لِلنَّبِيِّ صلى الله عليه وسلم إِنَّ أُمِّي مَاتَتْ وَعَلَيْهَا صَوْمُ نَذْرٍ‏.‏ وَقَالَ أَبُو حَرِيزٍ حَدَّثَنَا عِكْرِمَةُ عَنِ ابْنِ عَبَّاسٍ قَالَتِ امْرَأَةٌ لِلنَّبِيِّ صلى الله عليه وسلم مَاتَتْ أُمِّي وَعَلَيْهَا صَوْمُ خَمْسَةَ عَشَرَ يَوْمًا‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1875,
+                "hadithNumber": "1954",
+                "englishNarrator": "Narrated `Umar bin Al-Khattab رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"When night falls from this side and the day vanishes from this side and the sun sets, then the fasting person should break his fast.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ، جب رات اس طرف ( مشرق ) سے آئے اور دن ادھر مغرب میں چلا جائے کہ سورج ڈوب جائے تو روزہ کے افطار کا وقت آ گیا ۔",
+                "urduNarrator": "ہم سے حمیدی نے بیان کیا ، کہا ہم سے سفیان بن عیینہ نے بیان کیا ، ان سے ہشام بن عروہ نے بیان کیا ، کہا کہ میں نے اپنے باپ سے سنا ، انہوں نے فرمایا کہ میں نے عاصم بن عمر رضی اللہ عنہ بن خطاب سے سنا ، ان سے ان کے باپ حضرت عمر رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا الْحُمَيْدِيُّ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، قَالَ سَمِعْتُ أَبِي يَقُولُ، سَمِعْتُ عَاصِمَ بْنَ عُمَرَ بْنِ الْخَطَّابِ، عَنْ أَبِيهِ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِذَا أَقْبَلَ اللَّيْلُ مِنْ هَا هُنَا، وَأَدْبَرَ النَّهَارُ مِنْ هَا هُنَا، وَغَرَبَتِ الشَّمْسُ، فَقَدْ أَفْطَرَ الصَّائِمُ ‏\"‏‏.‏",
+                "headingArabic": "مَتَى يَحِلُّ فِطْرُ الصَّائِمِ",
+                "headingUrdu": "صوم (روزہ) کب توڑا جائے؟",
+                "headingEnglish": "When to break the Saum (fast)?",
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1876,
+                "hadithNumber": "1955",
+                "englishNarrator": "Narrated `Abdullah bin Abi `Aufa رضی اللہ عنہ :",
+                "hadithEnglish": "We were in the company of the Prophet (ﷺ) on a journey and he was fasting, and when the sun set, he addressed somebody, \"O so-and-so, get up and mix Sawiq with water for us.\" He replied, \"O Allah's Apostle! (Will you wait) till it is evening?\" The Prophet (ﷺ) said, \"Get down and mix Sawiq with water for us.\" He replied, \"O Allah's Messenger (ﷺ)! (If you wait) till it is evening.\" The Prophet (ﷺ) said again, \"Get down and mix Sawiq with water for us.\" He replied, \"It is still daytime.\"(1) The Prophet (ﷺ) said again, \"Get down and mix Sawiq with water for us.\" He got down and mixed Sawiq for them. The Prophet (ﷺ) drank it and then said, \"When you see night falling from this side, the fasting person should break his fast.\"",
+                "hadithUrdu": "ہم رسول اللہ صلی اللہ علیہ وسلم کے ساتھ ( غزوہ فتح جو رمضان میں ہوا ) سفر میں تھے اور آنحضرت صلی اللہ علیہ وسلم روزہ سے تھے ۔ جب سورج غروب ہو گیا آپ صلی اللہ علیہ وسلم نے ایک صحابی ( بلال رضی اللہ عنہ ) سے فرمایا کہ اے فلاں ! میرے لیے اٹھ کے ستو گھول ، انہوں نے عرض کی کہ یا رسول اللہ ! آپ تھوڑی دیر اور ٹھہرتے ۔ آپ صلی اللہ علیہ وسلم نے فرمایا اتر کر ہمارے لیے ستو گھول ، اس پر انہوں نے کہا یا رسول اللہ ! آپ تھوڑی دیر اور ٹھہرتے آنحضرت صلی اللہ علیہ وسلم نے پھر وہی حکم دیا کہ اتر کر ہمارے لیے ستو گھول لیکن ان کا اب بھی خیال تھا کہ ابھی دن باقی ہے ۔ آنحضرت صلی اللہ علیہ وسلم نے اس مرتبہ پھر فرمایا کہ اتر کر ہمارے لیے ستو گھول چنانچہ اترے اور ستو انہوں نے گھول دیا اور رسول اللہ صلی اللہ علیہ وسلم نے پیا ۔ پھر فرمایا کہ جب تم یہ دیکھ لو کہ رات اس اس طرف سے آ گئی تو روزہ دار کو افطار کر لینا چاہئے ۔",
+                "urduNarrator": "ہم سے اسحاق واسطی نے بیان کیا ، کہا ہم سے خالد نے بیان کیا ، ان سے سلیمان بن شیبانی نے ، ان سے عبداللہ بن ابی اوفی رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ الْوَاسِطِيُّ، حَدَّثَنَا خَالِدٌ، عَنِ الشَّيْبَانِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي أَوْفَى ـ رضى الله عنه ـ قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي سَفَرٍ، وَهُوَ صَائِمٌ، فَلَمَّا غَرَبَتِ الشَّمْسُ قَالَ لِبَعْضِ الْقَوْمِ ‏\"‏ يَا فُلاَنُ قُمْ، فَاجْدَحْ لَنَا ‏\"‏‏.‏ فَقَالَ يَا رَسُولَ اللَّهِ، لَوْ أَمْسَيْتَ‏.‏ قَالَ ‏\"‏ انْزِلْ، فَاجْدَحْ لَنَا ‏\"‏‏.‏ قَالَ يَا رَسُولَ اللَّهِ فَلَوْ أَمْسَيْتَ‏.‏ قَالَ ‏\"‏ انْزِلْ، فَاجْدَحْ لَنَا ‏\"‏‏.‏ قَالَ إِنَّ عَلَيْكَ نَهَارًا‏.‏ قَالَ ‏\"‏ انْزِلْ، فَاجْدَحْ لَنَا ‏\"‏‏.‏ فَنَزَلَ فَجَدَحَ لَهُمْ، فَشَرِبَ النَّبِيُّ صلى الله عليه وسلم ثُمَّ قَالَ ‏\"‏ إِذَا رَأَيْتُمُ اللَّيْلَ قَدْ أَقْبَلَ مِنْ هَا هُنَا، فَقَدْ أَفْطَرَ الصَّائِمُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "31",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 31,
+                    "chapterNumber": "31",
+                    "chapterEnglish": "Fasting",
+                    "chapterUrdu": "روزے کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الصوم",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 1851,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=74",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=72",
+                "label": "72",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=73",
+                "label": "73",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=74",
+                "label": "74",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=75",
+                "label": "75",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=76",
+                "label": "76",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=77",
+                "label": "77",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=78",
+                "label": "78",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=76",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=76",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=74",
+        "to": 1875,
+        "total": 40465
+    }
+}

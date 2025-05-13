@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 496,
+        "data": [
+            {
+                "id": 12664,
+                "hadithNumber": "5101",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Ibn Umar رضی اللہ عنہ through another chain of transmitters.",
+                "hadithUrdu": "مجھ سے محمد بن حاتم نے بیان کیا، ہم سے یحییٰ بن سعید نے بیان کیا, ابن جریج اور ضحاک بن عثمان دونوں نے نافع سے ، انھوں نے ابن عمر رضی اللہ عنہ سے انھوں نے نبی اکرم صلی اللہ علیہ وسلم سے لیث کی حدیث کے مانند روایت کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ عَنْ ابْنِ جُرَيْجٍ ح و حَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ أَخْبَرَنَا الضَّحَّاكُ يَعْنِي ابْنَ عُثْمَانَ كِلَاهُمَا عَنْ نَافِعٍ عَنْ ابْنِ عُمَرَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِ حَدِيثِ اللَّيْث.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12665,
+                "hadithNumber": "5102",
+                "englishNarrator": "Ibn 'Umar رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbade that the flesh of sacrificial animals be eaten beyond three (days) Salim (son of Ibn Umar رضی اللہ عنہ ) said: Ibn 'Umar رضی اللہ عنہ did not eat the flesh of the sacrificial animals beyond three (days). Ibn Abu 'Umar رضی اللہ عنہ said: Beyond three days.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ( اس بات سے ) منع کیا کہ تین دن کے بعد قربانی کا گو شت کھا یا جا ئے ۔ سالم نے کہا : حضرت ابن عمر رضی اللہ عنہ تین دن سے اوپر قربانی کا گوشت نہیں کھا تے تھے اور ابن ابی عمر نے ( تین دن سے اوپر کے بجائے ) \" تین کے بعد \" کے الفا ظ کہے ۔",
+                "urduNarrator": "ہم سے ابن ابی عمر اور عبد بن حمید نے بیان کیا, ابن ابی عمر اور عبد بن حمید نے ہمیں حدیث بیان کی ، کہا : عبد الرزاق نے کہا : معمر نے ہمیں زہری سے خبر دی ، انھوں نے سالم سے انھوں نے حضرت ابن عمر رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "و حَدَّثَنَا ابْنُ أَبِي عُمَرَ وَعَبْدُ بْنُ حُمَيْدٍ قَالَ ابْنُ أَبِي عُمَرَ حَدَّثَنَا وَقَالَ عَبْدٌ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ أَخْبَرَنَا مَعْمَرٌ عَنْ الزُّهْرِيِّ عَنْ سَالِمٍ عَنْ ابْنِ عُمَرَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى أَنْ تُؤْكَلَ لُحُومُ الْأَضَاحِيِّ بَعْدَ ثَلَاثٍ قَالَ سَالِمٌ فَكَانَ ابْنُ عُمَرَ لَا يَأْكُلُ لُحُومَ الْأَضَاحِيِّ فَوْقَ ثَلَاثٍ وَقَالَ ابْنُ أَبِي عُمَرَ بَعْدَ ثَلَاثٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12666,
+                "hadithNumber": "5103",
+                "englishNarrator": "Abdullah bin Waqid رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbade (people) to cat the flesh of sacrificed animals beyond three days. Abdullah bin Abu Bakr رضی اللہ عنہ said, I made a mention of that to 'Amra, whereupon she said: He has told the truth, for I heard 'A'isha رضی اللہ عنہاsay: The poor among the people of the desert come (to the towns) on the occasion of Id al-Adha during the lifetime of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌). Upon this Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: Retain with you (the flesh) sufficing for three (days), and whatever is left out of that give in charity. After this. they (the Muslims) said: Allah's Messenger, the people make water skins with the (hides) of their sacrificed animals and they melt fat out of them. Thereupon he said. What the then? They said: You forbade (us) to eat the flesh of sacrificial animals beyond there of (days), whereupon he said: I forbade you for those (poor persons) who flocked (to the towns on this occasion for getting meat) but now when (this situation has improved) you may eat, preserve and give-in charity.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے تین ( دن رات ) کے بعد قربانیوں کے گو شت کھا نے سے منع فر ما یا ۔ عبد اللہ بن ابی بکر نے کہا : میں نے یہ بات عمرہ ( بنت عبد الرحمن بن سعد انصار یہ ) کو بتا ئی عمرہ نے کہا : انھوں نے سچ کہا : میں نے حضرت عائشہ رضی اللہ عنہا کو یہ کہتے ہوئے سنا ہے کہ رسول اللہ صلی اللہ علیہ وسلم کے زمانے میں بادیہ کے کچھ گھرانے ( بھوک اور کمزوری کے سبب ) آہستہ آہستہ چلتے ہو ئے جہاں لو گ قربانیوں کے لیے مو جو د تھے ( قربان گا ہ میں ) آئے تو رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا : \" تین دن تک کے لیے گو شت رکھ لو ۔ جو باقی بچے ( سب کا سب ) صدقہ کر دو ۔ \" دوبارہ جب اس ( قربانی ) کا مو قع آیا تو لو گوں نے عرض کی : اللہ کے رسول صلی اللہ علیہ وسلم !لو گ تو اپنی قربانی ( کی کھا لوں ) سے مشکیں بنا تے ہی اور اس کی چربی پگھلا کر ان میں سنبھال رکھتے ہیں ۔ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" کیا مطلب ؟ \" انھوں نے کہا : یہ ( صورتحال ہم اس لیے بتا رہے ہیں کہ ) آپ نے منع فرما یا تھا کہ تین دن کے بعد قربانی کا گو شت ( وغیرہ استعمال نہ کیا جا ئے ۔ تو آپ صلی اللہ علیہ وسلم نے فر ما یا : \" میں نے تو تمھیں ان خانہ بدوشوں کی وجہ سے منع کیا تھا جو اس وقت بمشکل آپا ئے تھے ۔ اب ( قربانی کا گو شت ) کھا ؤ رکھو اور صدقہ کرو ۔ \"",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم الحنظَلی نے بیان کیا، کہا ہم سے ایک روح نے بیان کیا، کہا ہم سے مالک نے بیان کیا, عبد اللہ بن ابی بکر نے حضرت عبد اللہ بن واقد رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا إِسْحَقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ أَخْبَرَنَا رَوْحٌ حَدَّثَنَا مَالِكٌ عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ عَنْ عَبْدِ اللَّهِ بْنِ وَاقِدٍ قَالَ نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ أَكْلِ لُحُومِ الضَّحَايَا بَعْدَ ثَلَاثٍ قَالَ عَبْدُ اللَّهِ بْنُ أَبِي بَكْرٍ فَذَكَرْتُ ذَلِكَ لِعَمْرَةَ فَقَالَتْ صَدَقَ سَمِعْتُ عَائِشَةَ تَقُولُ دَفَّ أَهْلُ أَبْيَاتٍ مِنْ أَهْلِ الْبَادِيَةِ حَضْرَةَ الْأَضْحَى زَمَنَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ادَّخِرُوا ثَلَاثًا ثُمَّ تَصَدَّقُوا بِمَا بَقِيَ فَلَمَّا كَانَ بَعْدَ ذَلِكَ قَالُوا يَا رَسُولَ اللَّهِ إِنَّ النَّاسَ يَتَّخِذُونَ الْأَسْقِيَةَ مِنْ ضَحَايَاهُمْ وَيَجْمُلُونَ مِنْهَا الْوَدَكَ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَمَا ذَاكَ قَالُوا نَهَيْتَ أَنْ تُؤْكَلَ لُحُومُ الضَّحَايَا بَعْدَ ثَلَاثٍ فَقَالَ إِنَّمَا نَهَيْتُكُمْ مِنْ أَجْلِ الدَّافَّةِ الَّتِي دَفَّتْ فَكُلُوا وَادَّخِرُوا وَتَصَدَّقُوا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12667,
+                "hadithNumber": "5104",
+                "englishNarrator": "Jabir رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbade eating of the flesh of sacrificed animals beyond three (days). but afterwards said: Eat, make a provision, and keep it.",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے تین دن کے بعد قربانیوں کا گوشت کھا نے سے منع فر ما یا تھا پھر اس کے بعد آپ صلی اللہ علیہ وسلم نے یہ فر ما یا : \" کھا ؤ اور زاددراہ بنا ؤ اور رکھو ۔ \"",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، انہوں نے کہا: میں نے مالک سے پڑھا,  ابو زبیر نے حضرت جابر رضی اللہ عنہ سے اور انھوں نے رسول اللہ صلی اللہ علیہ وسلم سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ أَبِي الزُّبَيْرِ عَنْ جَابِرٍ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ نَهَى عَنْ أَكْلِ لُحُومِ الضَّحَايَا بَعْدَ ثَلَاثٍ ثُمَّ قَالَ بَعْدُ كُلُوا وَتَزَوَّدُوا وَادَّخِرُوا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12668,
+                "hadithNumber": "5105",
+                "englishNarrator": "Jabir bin Abdullah رضی اللہ عنہ reported:",
+                "hadithEnglish": "We did not eat the flesh of our sacrificial animals beyond three days in Mina. Then Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) permitted us saying: Eat and make it a provision (for journey). I asked 'Ata' whether Jabir رضی اللہ عنہ had also said: Till we came to Medina. He said: Yes.",
+                "hadithUrdu": "( پہلے ) ہم منیٰ کے تین دنوں سے زیادہ اپنے اونٹوں کی قربانیوں کا گوشت نہیں کھاتے تھے ، پھر رسول اللہ صلی اللہ علیہ وسلم نے ہمیں اجازت دے دی اور فرمایا : \"\" کھاؤ اور ساتھ لے جاؤ ۔ ( اور صدقہ کرو جس طرح دوسری احادیث میں ہے ۔ ) \"\" میں نے عطاء سے کہا : حضرت جابر رضی اللہ عنہ نے یہ کہا تھا کہ یہاں تک کہ ہم مدینہ آگئے؟ ( مدینہ تک پہنچنے کے آٹھ دنوں تک بطور زاد راہ استعمال کرتے رہے؟ ) انھوں نے کہا : ہاں ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، ہم سے علی بن مشر نے بیان کیا، ہم سے یحییٰ بن ایوب نے بیان کیا، ہم سے ابن اُلیّہ نے بیان کیا، ان دونوں نے ابن کی سند سے۔ جریج نے عطاء کی سند سے جابر کی سند سے مجھ سے محمد بن حاتم نے بیان کیا اور ہم سے ان کا تلفظ یحییٰ بن سعید نے بیان کیا,  ابن جریج نے کہا : ہمیں عطاء نے حدیث بیان کی ، انھوں نے کہا : میں نے حضرت جابربن عبداللہ رضی اللہ عنہ کو یہ کہتے ہوئے سنا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ ح و حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ حَدَّثَنَا ابْنُ عُلَيَّةَ كِلَاهُمَا عَنْ ابْنِ جُرَيْجٍ عَنْ عَطَاءٍ عَنْ جَابِرٍ ح و حَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ وَاللَّفْظُ لَهُ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ عَنْ ابْنِ جُرَيْجٍ حَدَّثَنَا عَطَاءٌ قَالَ سَمِعْتُ جَابِرَ بْنَ عَبْدِ اللَّهِ يَقُولُ كُنَّا لَا نَأْكُلُ مِنْ لُحُومِ بُدْنِنَا فَوْقَ ثَلَاثِ مِنًى فَأَرْخَصَ لَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ كُلُوا وَتَزَوَّدُوا قُلْتُ لِعَطَاءٍ قَالَ جَابِرٌ حَتَّى جِئْنَا الْمَدِينَةَ قَالَ نَعَمْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12669,
+                "hadithNumber": "5106",
+                "englishNarrator": "Jabir bin 'Abdullah رضی اللہ عنہ reported:",
+                "hadithEnglish": "We did not eat the flesh of sacrificed animals beyond three (days), but then Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) commanded us to make it a provision for journey and cat it (beyond three days).",
+                "hadithUrdu": "ہم تین دن سے زیادہ قربانیوں کا گوشت نہیں رکھتے تھے ۔ پھر رسول اللہ صلی اللہ علیہ وسلم نے ہمیں حکم دیا کہ ہم اس میں سے زادراہ بنائیں اور اس سے کھائیں ، یعنی تین سے زیادہ ( دنوں تک ).",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم نے بیان کیا، کہا ہم سے زکریا بن عدی نے بیان کیا، وہ عبید اللہ بن عمرو سے, زید بن ابی انیسہ نے عطاء بن ابی رباح سے ، انھوں نے جابر بن عبداللہ رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا إِسْحَقُ بْنُ إِبْرَاهِيمَ أَخْبَرَنَا زَكَرِيَّاءُ بْنُ عَدِيٍّ عَنْ عُبَيْدِ اللَّهِ بْنِ عَمْرٍو عَنْ زَيْدِ بْنِ أَبِي أُنَيْسَةَ عَنْ عَطَاءِ بْنِ أَبِي رَبَاحٍ عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ قَالَ كُنَّا لَا نُمْسِكُ لُحُومَ الْأَضَاحِيِّ فَوْقَ ثَلَاثٍ فَأَمَرَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ نَتَزَوَّدَ مِنْهَا وَنَأْكُلَ مِنْهَا يَعْنِي فَوْقَ ثَلَاثٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12670,
+                "hadithNumber": "5107",
+                "englishNarrator": "Jabir رضی اللہ عنہ reported:",
+                "hadithEnglish": "We made provision (out of the flesh of sacrificed animals for our journey) to Medina during the lifetime of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ).",
+                "hadithUrdu": "ہم رسول اللہ صلی اللہ علیہ وسلم کے عہد میں قربانیوں کا گوشت زاد راہ کے طور پر مدینہ تک ساتھ لے جاتے تھے ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، ہم سے سفیان بن عیینہ نے بیان کیا, عمرو ( بن دینار ) نے عطاء سے ، انھوں نے حضرت جابر رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنْ عَمْرٍو عَنْ عَطَاءٍ عَنْ جَابِرٍ قَالَ كُنَّا نَتَزَوَّدُهَا إِلَى الْمَدِينَةِ عَلَى عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12671,
+                "hadithNumber": "5108",
+                "englishNarrator": "Abu Sa'id al-Khudri رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) having said: O people of Medina, do not eat the flesh of sacrificed animals beyond three days. Ibn al-Muthanni said: Three days. They (the Companions of the Holy Prophet) complained to the Messenger of Allah (may peace he upon him) that they had children and servants of theirs (to feed), whereupon he said: Eat, and feed others, and store, and make it a provision of food.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایاتھا : \"\" مدینہ والو!قربانیوں کا گوشت تین ( دنوں ۔ راتوں ) سے زیادہ نہ کھاتے رہو ۔ \"\" ابن مثنیٰ نے ( صراحت سے ) \"\" تین دن ( سے زیادہ ) \"\" کہا ۔ صحابہ رضوان اللہ عنھم اجمعین نے رسول اللہ صلی اللہ علیہ وسلم سے یہ شکایت کی کہ ہمارے بال بچے اور نوکر چاکر ہیں ۔ آپ نے فرمایا : \"\" کھاؤ اور کھلاؤ اور روک کر رکھو یا ( فرمایا : ) ذخیرہ کرو ۔ \"\" ابن مثنیٰ نے کہا : عبدالاعلیٰ کو ( ان دو لفظوں میں ) شک ہے ( کہ آپ نے \"\" روک کررکھو \"\" فرمایا ، یا \"\" ذخیرہ کرو \"\" فرمایا )",
+                "urduNarrator": "ابو بکر بن ابی شیبہ نے کہا , ہمیں عبدالاعلیٰ نے جریری سے حدیث بیان کی ، انھوں نے ابونضرہ سے ، انھوں نے حضرت ابو سعید خدری رضی اللہ عنہ سے روایت کی ، نیز محمد بن مثنیٰ نے کہا , ہمیں عبدالاعلیٰ نے حدیث بیان کی ، ہمیں سعید نے قتادہ سے ، انھوں نے ابو نضرہ سے ، انھوں نے حضرت ابو سعید خدری رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا عَبْدُ الْأَعْلَى عَنْ الْجُرَيْرِيِّ عَنْ أَبِي نَضْرَةَ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ ح و حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنَا عَبْدُ الْأَعْلَى حَدَّثَنَا سَعِيدٌ عَنْ قَتَادَةَ عَنْ أَبِي نَضْرَةَ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَا أَهْلَ الْمَدِينَةِ لَا تَأْكُلُوا لُحُومَ الْأَضَاحِيِّ فَوْقَ ثَلَاثٍ و قَالَ ابْنُ الْمُثَنَّى ثَلَاثَةِ أَيَّامٍ فَشَكَوْا إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّ لَهُمْ عِيَالًا وَحَشَمًا وَخَدَمًا فَقَالَ كُلُوا وَأَطْعِمُوا وَاحْبِسُوا أَوْ ادَّخِرُوا قَالَ ابْنُ الْمُثَنَّى شَكَّ عَبْدُ الْأَعْلَى.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12672,
+                "hadithNumber": "5109",
+                "englishNarrator": "Salama bin al-Akwa' رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger (ﷺ) having said: He who sacrifices (animal) among you nothing should be left in his house (out of its flesh) on the morning of the third day. When it was the next year they (his Companions) said: Should we do this year as we did daring the previous year? Thereupon he said: Don't do that, for that was a year when the people were hard pressed (on account of poverty). so I wanted that the (flesh) might be distributed amongst them.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" تم میں سے جو شخص قربانی کرے تو تین دن کے بعد اس کے گھر میں ( اس گوشت میں سے ) کوئی چیز نہ رہے ۔ \" جب اگلے سال ( میں عید کادن ) آیاتو صحابہ رضوان اللہ عنھم اجمعین نے عرض کی : اللہ کے رسول صلی اللہ علیہ وسلم !کیا ہم اسی طرح کریں جس طرح پچھلے سال کیاتھا؟آپ نے فرمایا : \" نہیں ، وہ ایسا سال تھا کہ اس میں لوگ سخت ضرورت مند تھے تو میں نے چاہا کہ ( قربانی کا گوشت ) ان میں پھیل ( کر ہر ایک تک پہنچ ) جائے ۔ \"",
+                "urduNarrator": "ہم سے اسحاق بن منصور نے بیان کیا، کہا ہم سے ابو عاصم نے بیان کیا، وہ یزید بن ابی عبید کی سند سے, حضرت سلمہ بن اکوع رضی اللہ عنہ سے روایت ہے کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَقُ بْنُ مَنْصُورٍ أَخْبَرَنَا أَبُو عَاصِمٍ عَنْ يَزِيدَ بْنِ أَبِي عُبَيْدٍ عَنْ سَلَمَةَ بْنِ الْأَكْوَعِ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَنْ ضَحَّى مِنْكُمْ فَلَا يُصْبِحَنَّ فِي بَيْتِهِ بَعْدَ ثَالِثَةٍ شَيْئًا فَلَمَّا كَانَ فِي الْعَامِ الْمُقْبِلِ قَالُوا يَا رَسُولَ اللَّهِ نَفْعَلُ كَمَا فَعَلْنَا عَامَ أَوَّلَ فَقَالَ لَا إِنَّ ذَاكَ عَامٌ كَانَ النَّاسُ فِيهِ بِجَهْدٍ فَأَرَدْتُ أَنْ يَفْشُوَ فِيهِمْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12673,
+                "hadithNumber": "5110",
+                "englishNarrator": "Thauban رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger (ﷺ) slaughtered his sacrificial animal and then said: Thauban, make his meat usable (for journey), and I continuously served him that until he arrived in Medina.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ( اپنے قربانی کے جانوروں میں سے ) قربانی کا ایک جانور ذبح کرکے فرمایا : \"\" ثوبان! اس کے گوشت کو درست کرلو ( ساتھ لے جانے کے لیے تیار کرلو ۔ ) \"\" پھرمیں وہ گوشت آپ کو کھلاتا رہا یہاں تک کہ آپ مدینہ تشریف لے آئے ۔",
+                "urduNarrator": "مجھ سے زہیر بن حرب نے بیان کیا, معن بن عیسیٰ نے کہا : ہمیں معاویہ بن صالح نے ابوزاہریہ سے حدیث بیان کی ، انھوں نے جبیر بن نفیر سے ، انھوں نے حضرت ثوبان رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ حَدَّثَنَا مَعْنُ بْنُ عِيسَى حَدَّثَنَا مُعَاوِيَةُ بْنُ صَالِحٍ عَنْ أَبِي الزَّاهِرِيَّةِ عَنْ جُبَيْرِ بْنِ نُفَيْرٍ عَنْ ثَوْبَانَ قَالَ ذَبَحَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ضَحِيَّتَهُ ثُمَّ قَالَ يَا ثَوْبَانُ أَصْلِحْ لَحْمَ هَذِهِ فَلَمْ أَزَلْ أُطْعِمُهُ مِنْهَا حَتَّى قَدِمَ الْمَدِينَةَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12674,
+                "hadithNumber": "5111",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Mu'awiya bin Salih with the same chain of transmitters.",
+                "hadithUrdu": "ہم سے ابوبکر بن ابی شیبہ اور ابن رافع نے بیان کیا، انہوں نے کہا: زید بن حباب اور عبدالرحمن بن مہدی دونوں نے معاویہ بن صالح سے اسی سند کے ساتھ رویت کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَابْنُ رَافِعٍ قَالَا حَدَّثَنَا زَيْدُ بْنُ حُبَابٍ ح و حَدَّثَنَا إِسْحَقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ كِلَاهُمَا عَنْ مُعَاوِيَةَ بْنِ صَالِحٍ بِهَذَا الْإِسْنَادِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12675,
+                "hadithNumber": "5112",
+                "englishNarrator": "Thauban, the freed slave of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said to me on the occasion of Hajjat-al-Wada' (the Farewell Pilgrimage): Make the flesh usable. So I made it usable (for him) and he ate it constantly until he reached Medina. This hadith has been narrated on the authority of Yabya bin Hamza with the same chain of transmitters, but he did not say: On the occasion of Hajjat-al-Wada'.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے حجۃ الوداع کے موقع پر مجھ سے فرمایا : \" اس گوشت کو ( ساتھ لے جانے کے لئے ) درست کرلو ۔ \" انھوں نے کہا : پھر میں نے اس کو تیار کیا اورآپ اس گوشت کو تناول فرماتے رہے یہاں تک کہ مدینہ پہنچ گئے ۔یہ حدیث یبیہ بن حمزہ کی سند سے اسی سند کے ساتھ مروی ہے لیکن انہوں نے یہ نہیں کہا: حجۃ الوداع کے موقع پر۔",
+                "urduNarrator": "مجھ سے اسحاق بن منصور نے بیان کیا، انہوں نے ہم سے بیان کیا, ابو مسہر نے کہا , ہمیں یحییٰ بن حمزہ نے حدیث بیان کی ، کہا , مجھے زبیدی نے عبدالرحمن بن جبیر بن نفیر سے حدیث بیان کی ، انھوں نے اپنے والد سے ، انھوں نے رسول اللہ صلی اللہ علیہ وسلم کے آزاد کردہ غلام حضرت ثوبان رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "و حَدَّثَنِي إِسْحَقُ بْنُ مَنْصُورٍ أَخْبَرَنَا أَبُو مُسْهِرٍ حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ حَدَّثَنِي الزُّبَيْدِيُّ عَنْ عَبْدِ الرَّحْمَنِ بْنِ جُبَيْرِ بْنِ نُفَيْرٍ عَنْ أَبِيهِ عَنْ ثَوْبَانَ مَوْلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ قَالَ لِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي حَجَّةِ الْوَدَاعِ أَصْلِحْ هَذَا اللَّحْمَ قَالَ فَأَصْلَحْتُهُ فَلَمْ يَزَلْ يَأْكُلُ مِنْهُ حَتَّى بَلَغَ الْمَدِينَةَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12676,
+                "hadithNumber": "5113",
+                "englishNarrator": null,
+                "hadithEnglish": "Yahya bin Hamza narrated with this chain (a Hadith similar to no. 5112), but he did not say: \"During the farewell pilgrimage.\"",
+                "hadithUrdu": "مجھ سے عبداللہ بن عبدالرحمٰن دارمی نے بیان کیا جنہوں نے ہم سے بیان کیا, محمد بن مبارک نے کہا : \" ہمیں یحییٰ بن حمزہ نے اسی سند کے ساتھ حدیث بیان کی اور \" حجۃ الوداع میں \" کے الفاظ نہیں کہے ۔ \"",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنِيهِ عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ الدَّارِمِيُّ أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُبَارَكِ حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ بِهَذَا الْإِسْنَادِ وَلَمْ يَقُلْ فِي حَجَّةِ الْوَدَاعِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12677,
+                "hadithNumber": "5114",
+                "englishNarrator": "Abdullah bin Buraida reported on the authority of his father:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said this: I prohibited you from visiting the graves, but (now) you may visit them, and I prohibited you (from eating) the flesh of sacrific- ed animals beyond three days, but now keep it as long as you like. I prohibited you from the use of Nabidh except (that preoared) in dry waterskins. Now drink (Nabidh prepared in any utensil), but do not drink when it becomes intoxicant.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" میں نے ( پہلے ) تم کو قبروں کی زیارت سے منع کیاتھا ، ( اب ) تم زیارت کرلیا کرو اور میں نے ( پہلے ) تم کو تین دن سے زیادہ قربانی کا گوشت کھانے سے منع کیا تھا ، ( اب ) تمہارا جب تک کے لئے جی چاہے قربانی کاگوشت رکھو ۔ اور میں نے تم کو مشک کے علاوہ ( ہر قسم کے برتن میں ) نبیذ پینے سے منع یا تھا ، اب تم ہر طرح کے برتنوں میں پیو اور نشہ آور چیز نہ پیو ۔ \"",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ اور محمد بن المثنیٰ نے بیان کیا، کہا: ہم سے محمد بن فضیل نے بیان کیا، ان سے ابوبکر رضی اللہ عنہ نے بیان کیا, ابو سنان ضرار بن مرہ نے محارب بن دثار سے ، انھوں نے عبداللہ بن بریدہ سے ، انھوں نے اپنے والد سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَمُحَمَّدُ بْنُ الْمُثَنَّى قَالَا حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ قَالَ أَبُو بَكْرٍ عَنْ أَبِي سِنَانٍ و قَالَ ابْنُ الْمُثَنَّى عَنْ ضِرَارِ بْنِ مُرَّةَ عَنْ مُحَارِبٍ عَنْ ابْنِ بُرَيْدَةَ عَنْ أَبِيهِ ح و حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ حَدَّثَنَا ضِرَارُ بْنُ مُرَّةَ أَبُو سِنَانٍ عَنْ مُحَارِبِ بْنِ دِثَارٍ عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ عَنْ أَبِيهِ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَيْتُكُمْ عَنْ زِيَارَةِ الْقُبُورِ فَزُورُوهَا وَنَهَيْتُكُمْ عَنْ لُحُومِ الْأَضَاحِيِّ فَوْقَ ثَلَاثٍ فَأَمْسِكُوا مَا بَدَا لَكُمْ وَنَهَيْتُكُمْ عَنْ النَّبِيذِ إِلَّا فِي سِقَاءٍ فَاشْرَبُوا فِي الْأَسْقِيَةِ كُلِّهَا وَلَا تَشْرَبُوا مُسْكِرًا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12678,
+                "hadithNumber": "5115",
+                "englishNarrator": "Ibn Buraida, on the authority of his father reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) having said this: I used to forbid you. The rest of the hadith is the same.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" میں نے پہلے تمھیں منع کیا تھا ۔ \" پھر ابن سنان کی حدیث کے ہم معنی حدیث بیان کی ۔",
+                "urduNarrator": "مجھ سے حجاج بن الشعر نے بیان کیا اور ہم سے ضحاک بن مخلد نے سفیان کی سند سے بیان کیا, علقمہ بن مرثد نے ابن بریدہ سے ، انھوں نے اپنے والد سے روایت کی کہ",
+                "hadithArabic": "و حَدَّثَنِي حَجَّاجُ بْنُ الشَّاعِرِ حَدَّثَنَا الضَّحَّاكُ بْنُ مَخْلَدٍ عَنْ سُفْيَانَ عَنْ عَلْقَمَةَ بْنِ مَرْثَدٍ عَنْ ابْنِ بُرَيْدَةَ عَنْ أَبِيهِ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ كُنْتُ نَهَيْتُكُمْ فَذَكَرَ بِمَعْنَى حَدِيثِ أَبِي سِنَانٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12679,
+                "hadithNumber": "5116",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: (The sacrifice of Fara' and 'Atira) has no (sanction in Islam). Ibn Rafi' made this addition in his narration that Fara' means the first-born young one of a camel.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \"\" نہ جانور کا پہلوٹھا بچہ ذبح کرنا ( واجب/جائز ) ہے ، نہ رجب کے شروع میں جانور قربان کرنا درست ہے ۔ \"\" ابن رافع نے اپنی روایت میں اضافہ کیا : فرع سے مراد پہلوٹھی کا بچہ تھا ، جب وہ جنم پاتا تو وہ اسے ذبح کرتے تھے ۔",
+                "urduNarrator": "یحییٰ بن یحییٰ تمیمی ، ابو بکر بن ابی شیبہ ، عمرو ناقد اور زہیر بن حرب نے ہمیں سفیان بن عینیہ سے حدیث بیان کی ، انھوں نے زہری سے روایت کی ، انھوں نے سعید ( بن مسیب ) سے ، انھوں نے ابو ہریرہ رضی اللہ عنہ سےاور انھوں نے نبی کریم صلی اللہ علیہ وسلم سے روایت کی ، نیز محمد بن رافع اور عبد بن حمید نے کہا : ہمیں عبدالرزاق نے حدیث بیان کی ، کہا : ہمیں معمر نے زہری سے خبر دی ، انھوں نے ابن مسیب سے ، انھوں نے ابو ہریرہ رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَعَمْرٌو النَّاقِدُ وَزُهَيْرُ بْنُ حَرْبٍ قَالَ يَحْيَى أَخْبَرَنَا و قَالَ الْآخَرُونَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنْ الزُّهْرِيِّ عَنْ سَعِيدٍ عَنْ أَبِي هُرَيْرَةَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ح و حَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ وَعَبْدُ بْنُ حُمَيْدٍ قَالَ عَبْدٌ أَخْبَرَنَا و قَالَ ابْنُ رَافِعٍ حَدَّثَنَا عَبْدُ الرَّزَّاقِ أَخْبَرَنَا مَعْمَرٌ عَنْ الزُّهْرِيِّ عَنْ ابْنِ الْمُسَيَّبِ عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا فَرَعَ وَلَا عَتِيرَةَ زَادَ ابْنُ رَافِعٍ فِي رِوَايَتِهِ وَالْفَرَعُ أَوَّلُ النِّتَاجِ كَانَ يُنْتَجُ لَهُمْ فَيَذْبَحُونَهُ.",
+                "headingArabic": "الْفَرَعِ وَالْعَتِيرَةِ ‏‏",
+                "headingUrdu": "فارا اور عطیرہ",
+                "headingEnglish": "Fara' and 'Atirah",
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12680,
+                "hadithNumber": "5117",
+                "englishNarrator": "Umm Salama رضی اللہ عنہا reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) having said this: When any one of you intending to sacrifice the animal enters in the month (of Dhu'l-Hijja) he should not get his hair or nails touched (cut). It was said to Sufyan that some of the (scholars) did not deem this hadith to be Maffu'. He said: But I deem it as Marfu' (i.e. chain of narration traceable right up to the Holy Prophet ﷺ).",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا : \"\" جب عشرہ ( ذوالحجہ ) شروع ہوجائے اور تم میں سے کوئی شخص قربانی کرنے کا ارادہ رکھتاہو وہ اپنے بالوں اور ناخنوں کو نہ کاٹے ۔ \"\" سفیان سے کہا گیا کہ بعض راوی اس حدیث کو مرفوعاً ( رسول اللہ صلی اللہ علیہ وسلم سے ) بیان نہیں کرتے ( حضرت ام سلمہ رضی اللہ عنہا کا قول بتاتے ہیں ) ، انھوں نے کہا : لیکن میں اس کو مرفوعاً بیان کرتا ہوں ۔",
+                "urduNarrator": "ابن ابی عمر مکی نے کہا , ہمیں سفیان نے عبدالرحمن بن حمید بن عبدالرحمن بن عوف سے حدیث سنائی , انھوں نے سعید بن مسیب سے سنا ، وہ حضرت ام سلمہ رضی اللہ عنہا سے حدیث روایت کررہے تھے کہ",
+                "hadithArabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ الْمَكِّيُّ حَدَّثَنَا سُفْيَانُ عَنْ عَبْدِ الرَّحْمَنِ بْنِ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ سَمِعَ سَعِيدَ بْنَ الْمُسَيَّبِ يُحَدِّثُ عَنْ أُمِّ سَلَمَةَ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِذَا دَخَلَتْ الْعَشْرُ وَأَرَادَ أَحَدُكُمْ أَنْ يُضَحِّيَ فَلَا يَمَسَّ مِنْ شَعَرِهِ وَبَشَرِهِ شَيْئًا قِيلَ لِسُفْيَانَ فَإِنَّ بَعْضَهُمْ لَا يَرْفَعُهُ قَالَ لَكِنِّي أَرْفَعُهُ.",
+                "headingArabic": "نَهْيِ مَنْ دَخَلَ عَلَيْهِ عَشْرُ ذِي الْحِجَّةِ وَهُوَ مُرِيدُ التَّضْحِيَةِ أَنْ يَأْخُذَ مِنْ شَعْرِهِ أَوْ أَظْفَارِهِ شَيْئًا",
+                "headingUrdu": "جب ذوالحجہ کا پہلا عشرہ شروع ہوتا ہے تو قربانی کرنے والے کے لیے اپنے بال، ناخن یا جلد کی کوئی چیز نکالنا حرام ہے۔",
+                "headingEnglish": "When the first ten days of Dhul-Hijjah begin, it is forbidden for the one who wants to offer a sacrifice to remove anything from his hair, nails or skin",
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12681,
+                "hadithNumber": "5118",
+                "englishNarrator": "Umm Salama رضی اللہ عنہا reported:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: If anyone of you intends to offer sacrifice he should not get his hair cut or nails trimmed.",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا : \" جب عشرہ ( ذوالحجہ ) شروع ہوجائے تو جس شخص کے پاس قر بانی ہو اور وہ قربانی کرنے کا ارادہ رکھتاہو ، وہ اپنے بال اتارے نہ ناخن تراشے ۔ \"",
+                "urduNarrator": "اسحاق بن ابراہیم نے کہا : سفیان نے ہمیں خبر دی ، کہا : مجھے عبدالرحمن بن حمید بن عبدالرحمن بن عوف نے سعید بن مسیب سے حدیث بیان کی ، انھوں نے حضرت ام سلمہ رضی اللہ عنہا سے مرفوعاً روایت کی کہ",
+                "hadithArabic": "و حَدَّثَنَاه إِسْحَقُ بْنُ إِبْرَاهِيمَ أَخْبَرَنَا سُفْيَانُ حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ عَنْ أُمِّ سَلَمَةَ تَرْفَعُهُ قَالَ إِذَا دَخَلَ الْعَشْرُ وَعِنْدَهُ أُضْحِيَّةٌ يُرِيدُ أَنْ يُضَحِّيَ فَلَا يَأْخُذَنَّ شَعْرًا وَلَا يَقْلِمَنَّ ظُفُرًا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12682,
+                "hadithNumber": "5119",
+                "englishNarrator": "Umm Salama رضی اللہ عنہا reported:",
+                "hadithEnglish": "The Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: If anyone has in his possession a sacrificial animal to offer as a sacrifice (on 'Id al-Adha), he should not get his hair cut and nails trimmed after he has entered the first days of Dhu'l Hijja",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا : \" جب تم ذوالحجہ کا چاند دیکھو اور تم میں سے کوئی شخص قربانی کاا رادہ رکھتا ہو ، وہ اپنے بالوں اور ناخنوں کو ( نہ کاٹے ) اپنے حال پر رہنے دے ۔ \"",
+                "urduNarrator": "مجھ سے حجاج بن الشاعر نے بیان کیا، انہوں نے کہا:  یحییٰ بن کثیر عنبری ابو غسان نے کہا : ہمیں شعبہ نے مالک بن انس سے حدیث بیان کی ، انھوں نے عمر بن مسلم سے ، انھوں نے سعید بن مسیب سے ، انھوں نے ام سلمہ رضی اللہ عنہا سے روایت کی کہ",
+                "hadithArabic": "و حَدَّثَنِي حَجَّاجُ بْنُ الشَّاعِرِ حَدَّثَنِي يَحْيَى بْنُ كَثِيرٍ الْعَنْبَرِيُّ أَبُو غَسَّانَ حَدَّثَنَا شُعْبَةُ عَنْ مَالِكِ بْنِ أَنَسٍ عَنْ عُمَرَ بْنِ مُسْلِمٍ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ عَنْ أُمِّ سَلَمَةَ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِذَا رَأَيْتُمْ هِلَالَ ذِي الْحِجَّةِ وَأَرَادَ أَحَدُكُمْ أَنْ يُضَحِّيَ فَلْيُمْسِكْ عَنْ شَعْرِهِ وَأَظْفَارِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12683,
+                "hadithNumber": "5120",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of 'Amr bin Muslim with the same chain of transmitters.",
+                "hadithUrdu": "ہم سے احمد بن عبداللہ بن الحکم الہاشمی نے بیان کیا, محمد بن جعفر نے کہا : ہمیں شعبہ نے مالک بن انس سے حدیث بیا ن کی ، انھوں نے عمر یا عمرو بن مسلم سے اسی سند کے ساتھ اسی کے مانند روایت کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ بْنِ الْحَكَمِ الْهَاشِمِيُّ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ مَالِكِ بْنِ أَنَسٍ عَنْ عُمَرَ أَوْ عَمْرِو بْنِ مُسْلِمٍ بِهَذَا الْإِسْنَادِ نَحْوَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12684,
+                "hadithNumber": "5121",
+                "englishNarrator": "Umm Salama رضی اللہ عنہا the wife of Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) to have said: He who has a sacrificial animal with him whom (he intends) to offer as sacrifice, and he enters the month of Dhu'I-Hijja, he should not get his hair cut or nails trimmed until he has sacrificed the animal.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جس شخص کے پاس ذ بح کرنے کے لئے کوئی ذبیحہ ہوتو جب ذوالحجہ کا چاند نظر آجائے ، وہ ہرگز اپنے بال اور ناخن نہ کاٹے ، یہاں تک کہ قربانی کرلے ( پھر بال اور ناخن کاٹے ۔ ) \"",
+                "urduNarrator": "عبید اللہ بن معاذ عنبری نے کہا : ہمیں محمد بن عمر ولیثی نے عمر بن مسلم بن عمارہ بن اُکیمہ لیثی سے حدیث بیان کی ، کہا : میں نے سعید بن مسیب کو یہ کہتے ہوئے سنا : میں نے نبی کریم صلی اللہ علیہ وسلم کی زوجہ حضرت ام سلمہ رضی اللہ عنہا سے سنا ، وہ کہہ رہی تھیں",
+                "hadithArabic": "و حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ الْعَنْبَرِيُّ حَدَّثَنَا أَبِي حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرٍو اللَّيْثِيُّ عَنْ عُمَرَ بْنِ مُسْلِمِ بْنِ عَمَّارِ بْنِ أُكَيْمَةَ اللَّيْثِيِّ قَالَ سَمِعْتُ سَعِيدَ بْنَ الْمُسَيَّبِ يَقُولُ سَمِعْتُ أُمَّ سَلَمَةَ زَوْجَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَقُولُ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَنْ كَانَ لَهُ ذِبْحٌ يَذْبَحُهُ فَإِذَا أُهِلَّ هِلَالُ ذِي الْحِجَّةِ فَلَا يَأْخُذَنَّ مِنْ شَعْرِهِ وَلَا مِنْ أَظْفَارِهِ شَيْئًا حَتَّى يُضَحِّيَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12685,
+                "hadithNumber": "5122",
+                "englishNarrator": "Amr bin Muslim bin 'Ammar al-Laithi reported:",
+                "hadithEnglish": "While we were in a bathroom just before 'Id al-Adha some of the persons tried to remove the hair with the help of hair-removing chemicals. Thereupon some of the people owning the bath (or some of the people sitting therein) said that Sa'id bin Musayyib did not approve of it, or he prohibited it. Then I met Sa'id bin Musayyib and made a mention of that to him, whereupon he said: O my nephew, this is the hadith which has been forgotten, and abandoned. Umm Salama رضی اللہ  عنہا , the wife of Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌), narrated to me Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) having said as narrated above.",
+                "hadithUrdu": "عیدالاضحیٰ سے کچھ پہلے حمام میں تھے ، بعض لوگوں نے چونے سے اپنے بال صاف کیے ، اہل حمام میں سے کسی شخص نے کہا : سعید بن مسیب اس فعل ( عیدالاضحیٰ کی نماز پڑھنے اور قربانی کرنے سے پہلے جسم پر سے بال وغیرہ کاٹنے یا مونڈنے ) کو مکروہ قرار دیتے ہیں یا اس سے منع کرتے ہیں ۔ میری سعید بن مسیب سے ملاقات ہوئی تو میں نے ان سے اس بات کا ذکر کیا ۔ انھوں نے کہا : بھتیجے!یہ حدیث بھلا دی گئی اور ترک کردی گئی ہے ۔ ، ( یہ پابندی ملحوظ نہیں رکھی جاتی ویسے ) مجھے نبی کریم صلی اللہ علیہ وسلم کی زوجہ محترمہ ام سلمہ رضی اللہ  عنہا نے یہ حدیث بیان کی کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ۔ ۔ ۔ آگے محمد بن عمر و سے معاذ کی حدیث کےہم معنی حدیث بیان کی ۔",
+                "urduNarrator": "مجھے الحسن بن علی الحلوانی نے بیان کیا, ابواسامہ نے کہا , مجھے محمد بن عمرو نے حدیث بیان کی ، کہا : ہمیں عمرو بن مسلم بن عمارہ لیثی نے حدیث بیان کی ، کہا",
+                "hadithArabic": "حَدَّثَنِي الْحَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ حَدَّثَنَا أَبُو أُسَامَةَ حَدَّثَنِي مُحَمَّدُ بْنُ عَمْرٍو حَدَّثَنَا عَمْرُو بْنُ مُسْلِمِ بْنِ عَمَّارٍ اللَّيْثِيُّ قَالَ كُنَّا فِي الْحَمَّامِ قُبَيْلَ الْأَضْحَى فَاطَّلَى فِيهِ نَاسٌ فَقَالَ بَعْضُ أَهْلِ الْحَمَّامِ إِنَّ سَعِيدَ بْنَ الْمُسَيَّبِ يَكْرَهُ هَذَا أَوْ يَنْهَى عَنْهُ فَلَقِيتُ سَعِيدَ بْنَ الْمُسَيَّبِ فَذَكَرْتُ ذَلِكَ لَهُ فَقَالَ يَا ابْنَ أَخِي هَذَا حَدِيثٌ قَدْ نُسِيَ وَتُرِكَ حَدَّثَتْنِي أُمُّ سَلَمَةَ زَوْجُ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَتْ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِمَعْنَى حَدِيثِ مُعَاذٍ عَنْ مُحَمَّدِ بْنِ عَمْرٍو.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12686,
+                "hadithNumber": "5123",
+                "englishNarrator": "Amr bin Muslim al-Jundani reported that Ibn Musayyib had told him:",
+                "hadithEnglish": "It was Umm Salama رضی اللہ عنہا, the wife of Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌), who had informed him of that as narrated above.",
+                "hadithUrdu": "نبی اکرم صلی اللہ علیہ وسلم کی اہلیہ محترمہ حضرت ام سلمہ رضی اللہ عنہا نے انھیں بتایا اور نبی اکرم صلی اللہ علیہ وسلم کا نام لیا ( پھر ) ان سب کی حدیث کے ہم معنی ( حدیث بیان کی ۔ )",
+                "urduNarrator": "مجھ سے حَرملہ بن یحییٰ اور احمد بن عبدالرحمٰن بن اخی بن وہب نے بیان کیا، کہا کہ ہم سے عبداللہ بن وہب نے بیان کیا: مجھ سے حیا نے بیان کیا۔ مجھ سے خالد بن یزید نے بیان کیا, سعید بن ابی ہلال نے عمرو بن مسلم جندعی سے روایت کی کہ حضرت سعید بن مسیب نے انھیں خبر دی کہ",
+                "hadithArabic": "و حَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى وَأَحْمَدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ أَخِي ابْنِ وَهْبٍ قَالَا حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ أَخْبَرَنِي حَيْوَةُ أَخْبَرَنِي خَالِدُ بْنُ يَزِيدَ عَنْ سَعِيدِ بْنِ أَبِي هِلَالٍ عَنْ عُمَرَ بْنِ مُسْلِمٍ الْجُنْدَعِيِّ أَنَّ ابْنَ الْمُسَيَّبِ أَخْبَرَهُ أَنَّ أُمَّ سَلَمَةَ زَوْجَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَخْبَرَتْهُ وَذَكَرَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِمَعْنَى حَدِيثِهِمْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12687,
+                "hadithNumber": "5124",
+                "englishNarrator": "Abu Tufail 'Amir bin Withila رضی اللہ عنہ reported:",
+                "hadithEnglish": "I was in the company of 'Ali bin Abi Talib  رضی اللہ عنہ , when a person came to him, and said: What was it that Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) told you in secret? Thereupon he (liadrat 'All) was enraged and said: Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) did not tell me anything in secret that he hid from people, except that he told me four things. He said: Commander of Faithful, what are these? He said: Allah cursed him who cursed his father; Allah cursed him who sacrificed for anyone besides Allah; and Allah cursed him who accommodates an innovator (in religion); and Allah cursed him who changed the minarets (the boundary lines) of the land.",
+                "hadithUrdu": "میں حضرت علی بن ابی طا لب رضی اللہ عنہ کے پاس تھا ایک شخص آپ کے پاس آیا اور کہنے لگا : نبی صلی اللہ علیہ وسلم آپ کو راز داری سے کیا فر ما تے تھے؟ آپ ناراض ہو ئے اور کہا : نبی صلی اللہ علیہ وسلم نے مجھے کو ئی راز نہیں بتا یا جس کو اور لوگوں سے چھپایا ہو ۔ البتہ آپ نے مجھے چار باتیں ارشاد فر ما ئی تھیں ۔ اس نے پو چھا : امیر المومنین ! وہ کیا باتیں ہیں ؟ انھوں نے کہا : آپ صلی اللہ علیہ وسلم نے فر ما یا : \" جو شخص اپنے والد پر لعنت کرے اس پر اللہ کی لعنت ہے اور جو شخص غیر اللہ کے نام پر ذبح کرے اس پر اللہ لعنت کرے اور جو شخص کسی بدعتی کو پناہ دے اس پر اللہ لعنت کرے اور جس شخص نے زمین ( کی حد بندی ) کا نشان بدلا اس پر اللہ لعنت کرے ۔",
+                "urduNarrator": "ہم سے زہیر بن حرب اور سریج بن یونس نے مروان کی سند سے کہا, مروان بن معاویہ فزاری نے کہا : ہمیں منصور بن حیان نے حدیث بیان کی کہا : ابو طفیل عامر بن واثلہ رضی اللہ عنہ نے ہمیں بیان کیا کہا",
+                "hadithArabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ وَسُرَيْجُ بْنُ يُونُسَ كِلَاهُمَا عَنْ مَرْوَانَ قَالَ زُهَيْرٌ حَدَّثَنَا مَرْوَانُ بْنُ مُعَاوِيَةَ الْفَزَارِيُّ حَدَّثَنَا مَنْصُورُ بْنُ حَيَّانَ حَدَّثَنَا أَبُو الطُّفَيْلِ عَامِرُ بْنُ وَاثِلَةَ قَالَ كُنْتُ عِنْدَ عَلِيِّ بْنِ أَبِي طَالِبٍ فَأَتَاهُ رَجُلٌ فَقَالَ مَا كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُسِرُّ إِلَيْكَ قَالَ فَغَضِبَ وَقَالَ مَا كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُسِرُّ إِلَيَّ شَيْئًا يَكْتُمُهُ النَّاسَ غَيْرَ أَنَّهُ قَدْ حَدَّثَنِي بِكَلِمَاتٍ أَرْبَعٍ قَالَ فَقَالَ مَا هُنَّ يَا أَمِيرَ الْمُؤْمِنِينَ قَالَ قَالَ لَعَنَ اللَّهُ مَنْ لَعَنَ وَالِدَهُ وَلَعَنَ اللَّهُ مَنْ ذَبَحَ لِغَيْرِ اللَّهِ وَلَعَنَ اللَّهُ مَنْ آوَى مُحْدِثًا وَلَعَنَ اللَّهُ مَنْ غَيَّرَ مَنَارَ الْأَرْضِ.",
+                "headingArabic": "حْرِيمِ الذَّبْحِ لِغَيْرِ اللَّهِ تَعَالَى وَلَعْنِ فَاعِلِهِ ‏‏",
+                "headingUrdu": "دوسرے دیوتا کے اثر کے لیے ایک سوال پوچھنا، جب وہ اور وہ ایسا کرتا ہے",
+                "headingEnglish": "The prohibition of slaughtering a sacrifice for anything other than Allah, and the one who does that is cursed",
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12688,
+                "hadithNumber": "5125",
+                "englishNarrator": "Abu Tufail رضی اللہ عنہ reported:",
+                "hadithEnglish": "We said to 'Ali bin Abi Talib رضی اللہ عنہ : Inform us about something which Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) told you in secret, whereupon he said: He told me nothing in secret which he bid from people, but I heard him say: Allah cursed him who sacrificed for anyone besides Allah; and cursed him who accommodated an innovator; and Allah cursed him who cursed his parents and Allah cursed him who changed the boundary lines (of the land possessed by him).",
+                "hadithUrdu": "ہم نے حضرت علی بن ابی طالب رضی اللہ عنہ سے عرض کی ، ہمیں کو ئی ایسی چیز بتا ئیے جو رسول اللہ صلی اللہ علیہ وسلم نے راز داری سے آپ کو بتا ئی ہو ۔ انھوں نے کہا : آپ صلی اللہ علیہ وسلم نے مجھے راز داری سے کو ئی بات نہیں بتا ئی جو لوگوں سے چھپائی ہو البتہ میں نے آپ صلی اللہ علیہ وسلم کو یہ فرما تے ہو ئے سنا : \" جس شخص نے غیر اللہ کے نام پر ذبح کیا اس پر اللہ لعنت کرے ۔ اور اللہ اس پر لعنت کرے جس نے کسی بدعتی کو پناہ دی اور اللہ اس پر لعنت کرے ۔ جس نے اپنے والدین پر لعنت کی اور اللہ اس پر لعنت کرے کرے جس نے ( زمین کی حد بندی کا ) نشان تبدیل کیا ۔ \"",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا, ابوخالد احمر سلیمان بن حیان نے منصور بن حیان سے انھوں نے ابو طفیل رضی اللہ عنہ سے روایت کی , کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا أَبُو خَالِدٍ الْأَحْمَرُ سُلَيْمَانُ بْنُ حَيَّانَ عَنْ مَنْصُورِ بْنِ حَيَّانَ عَنْ أَبِي الطُّفَيْلِ قَالَ قُلْنَا لِعَلِيِّ بْنِ أَبِي طَالِبٍ أَخْبِرْنَا بِشَيْءٍ أَسَرَّهُ إِلَيْكَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ مَا أَسَرَّ إِلَيَّ شَيْئًا كَتَمَهُ النَّاسَ وَلَكِنِّي سَمِعْتُهُ يَقُولُ لَعَنَ اللَّهُ مَنْ ذَبَحَ لِغَيْرِ اللَّهِ وَلَعَنَ اللَّهُ مَنْ آوَى مُحْدِثًا وَلَعَنَ اللَّهُ مَنْ لَعَنَ وَالِدَيْهِ وَلَعَنَ اللَّهُ مَنْ غَيَّرَ الْمَنَارَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "36",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 136,
+                    "chapterNumber": "36",
+                    "chapterEnglish": "The Book of Sacrifices",
+                    "chapterUrdu": "قربانی کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْأَضَاحِيِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 12376,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=495",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=493",
+                "label": "493",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=494",
+                "label": "494",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=495",
+                "label": "495",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=496",
+                "label": "496",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=497",
+                "label": "497",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=498",
+                "label": "498",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=499",
+                "label": "499",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=497",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=497",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=495",
+        "to": 12400,
+        "total": 40465
+    }
+}

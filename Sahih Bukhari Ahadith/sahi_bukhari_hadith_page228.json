@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 228,
+        "data": [
+            {
+                "id": 5678,
+                "hadithNumber": "5930",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "During Hajjat-al-Wada`, I perfumed Allah's Messenger (ﷺ) with Dharira with my own hands, both on his assuming Ihram and on finishing it.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم کو حجۃ الوداع کے موقع پر احرام کھولنے اور احرام باندھنے کے وقت اپنے ہاتھ سے ذریرہ ( ایک قسم کی مرکب ) خوشبو لگائی تھی ۔",
+                "urduNarrator": "ہم سے عثمان بن ہشیم نے بیان کیا یا محمد بن یحییٰ دیلی نے ، انہیں عثمان بن ہشیم نے ( امام بخاری کو شک ہے ) ان سے ابن جریج نے انہوں نے کہا مجھ کو عمر بن عبداللہ بن عروہ بن شہر نے خبر دی ، انہوں نے عروہ اور قاسم دونوں سے سنا ، وہ دونوں ام المؤمنین حضرت عائشہ رضی اللہ عنہا سے نقل کرتے تھے کہ انہوں نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عُثْمَانُ بْنُ الْهَيْثَمِ، أَوْ مُحَمَّدٌ عَنْهُ عَنِ ابْنِ جُرَيْجٍ، أَخْبَرَنِي عُمَرُ بْنُ عَبْدِ اللَّهِ بْنِ عُرْوَةَ، سَمِعَ عُرْوَةَ، وَالْقَاسِمَ، يُخْبِرَانِ عَنْ عَائِشَةَ، قَالَتْ طَيَّبْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم بِيَدَىَّ بِذَرِيرَةٍ فِي حَجَّةِ الْوَدَاعِ، لِلْحِلِّ وَالإِحْرَامِ‏.‏",
+                "headingArabic": "الذَّرِيرَةِ",
+                "headingUrdu": "ذریرہ کا  بیان",
+                "headingEnglish": "Adh-Dharira",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5679,
+                "hadithNumber": "5931",
+                "englishNarrator": "Narrated `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "Allah has cursed those women who practise tattooing and those who get themselves tattooed, and those who remove their face hairs, and those who create a space between their teeth artificially to look beautiful, and such women as change the features created by Allah. Why then should I not curse those whom the Prophet (ﷺ) has cursed? And that is in Allah's Book. i.e. His Saying: 'And what the Apostle gives you take it and what he forbids you abstain (from it).' (59.7)",
+                "hadithUrdu": "اللہ تعالیٰ نے حسن کے لیے گودنے والیوں ، گدوانے والیوں پر اور چہرے کے بال اکھاڑنے والیوں پر اور دانتوں کے درمیان کشادگی پیدا کرنے والیوں پر ، جو اللہ کی خلقت کو بدلیں ان سب پر لعنت بھیجی ہے ، میں بھی کیوں نہ ان لوگوں پر لعنت کروں جن پر رسول کریم صلی اللہ علیہ وسلم نے لعنت کی ہے اور اس کی دلیل کہ آنحضرت صلی اللہ علیہ وسلم کی لعنت خود قرآن مجید میں موجود ہے ۔ آیت ” وما اتٰکم الرسول فخذوہ “ ہے ۔",
+                "urduNarrator": "ہم سے عثمان بن ابی شیبہ نے بیان کیا ، کہا ہم سے جریر بن عبدالحمید نے بیان کیا ، ان سے منصور بن معتمر نے ، ان سے ابراہیم نخعی نے ، ان سے علقمہ نے اور ان سے عبداللہ بن مسعود رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا عُثْمَانُ، حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ، لَعَنَ اللَّهُ الْوَاشِمَاتِ، وَالْمُسْتَوْشِمَاتِ، وَالْمُتَنَمِّصَاتِ وَالْمُتَفَلِّجَاتِ لِلْحُسْنِ، الْمُغَيِّرَاتِ خَلْقَ اللَّهِ تَعَالَى، مَالِي لاَ أَلْعَنُ مَنْ لَعَنَ النَّبِيُّ صلى الله عليه وسلم وَهْوَ فِي كِتَابِ اللَّهِ ‏{‏وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ‏}‏‏.‏",
+                "headingArabic": "الْمُتَفَلِّجَاتِ لِلْحُسْنِ",
+                "headingUrdu": "خوبصورت نظر آنے کے لیے دانتوں کے درمیان مصنوعی جگہ بنانا",
+                "headingEnglish": "Creating artificial spaces between the teeth to look beautiful",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5680,
+                "hadithNumber": "5932",
+                "englishNarrator": "Narrated Humaid bin `Abdur-Rahman bin `Auf:",
+                "hadithEnglish": "In the year he performed Hajj. he heard Mu'awiya bin Abi Sufyan رضی اللہ عنہ , who was on the pulpit and was taking a tuft of hair from one of his guards, saying, \"Where are your religious learned men? I heard Allah's Messenger (ﷺ) forbidding this (false hair) and saying, 'The children of Israel were destroyed when their women started using this.'\"",
+                "hadithUrdu": "حضرت معاویہ بن ابی سفیان رضی اللہ عنہ سے حج کے سال میں سنا وہ مدینہ منورہ میں منبر پر یہ فرما رہے تھے انہوں نے بالوں کی ایک چوٹی جو ان کے چوکیدار کے ہاتھ میں تھی لے کر کہا کہاں ہیں تمہارے علماء میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ہے آپ اس طرح بال بنانے سے منع فرما رہے تھے اور فرما رہے تھے کہ بنی اسرائیل اس وقت تباہ ہو گئے جب ان کی عورتوں نے اس طرح اپنے بال سنو ارنے شروع کر دیئے ۔",
+                "urduNarrator": "ہم سے اسماعیل بن ابی شیبہ نے بیان کیا ، کہا کہ مجھ سے امام مالک نے بیان کیا ، ان سے ابن شہاب نے ، ان سے حمید بن عبدالرحمٰن بن عوف اور انہوں نے",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، أَنَّهُ سَمِعَ مُعَاوِيَةَ بْنَ أَبِي سُفْيَانَ، عَامَ حَجَّ وَهْوَ عَلَى الْمِنْبَرِ، وَهْوَ يَقُولُ ـ وَتَنَاوَلَ قُصَّةً مِنْ شَعَرٍ كَانَتْ بِيَدِ حَرَسِيٍّ ـ أَيْنَ عُلَمَاؤُكُمْ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَنْهَى عَنْ مِثْلِ هَذِهِ وَيَقُولُ ‏ \"‏ إِنَّمَا هَلَكَتْ بَنُو إِسْرَائِيلَ حِينَ اتَّخَذَ هَذِهِ نِسَاؤُهُمْ ‏\"‏‏.‏",
+                "headingArabic": "جھوٹے بالوں کا استعمال",
+                "headingUrdu": "جھوٹے بالوں کا استعمال",
+                "headingEnglish": "The use of false hair",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5681,
+                "hadithNumber": "5933",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Allah has cursed the lady who artificially lengthens (her or someone else's) hair and the one who gets her hair lengthened and the One who tattoos (herself or someone else) and the one who gets herself tattooed\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا سرکے قدرتی بالوں میں مصنوعی بال لگانے والیوں پر اور لگوانے والیوں پر اور گودنے والیوں پر اور گدوانے والیوں پر اللہ نے لعنت بھیجی ہے ۔",
+                "urduNarrator": "اور ابن ابی شیبہ نے بیان کیا ، ان سے یونس بن محمد نے بیان کیا ، ان سے فلیح نے بیان کیا ، ان سے زید بن اسلم نے ، ان سے عطاء بن یسار نے اور ان سے حضرت ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "وَقَالَ ابْنُ أَبِي شَيْبَةَ حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ، حَدَّثَنَا فُلَيْحٌ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لَعَنَ اللَّهُ الْوَاصِلَةَ وَالْمُسْتَوْصِلَةَ، وَالْوَاشِمَةَ وَالْمُسْتَوْشِمَةَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5682,
+                "hadithNumber": "5934",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "An Ansari girl was married and she became sick and all her hair fell out intending to provide her with false hair. They asked the Prophet (ﷺ) who said, \"Allah has cursed the lady who artificially lengthens (her or someone else's) hair and also the one who gets her hair lengthened.\" Similarly, Ibn-e-Ishaq Aban bin Sualih, Hasan, Safiyyah reported from Hadrat Aishah رضی اللہ عنہا .",
+                "hadithUrdu": "انصار کی ایک لڑکی نے شادی کی ۔ اس کے بعد وہ بیمار ہو گئی اور اس کے سرکے بال جھڑگئے ، اس کے گھر والوں نے چاہا کہ اس کے بالوں میں مصنوعی بال لگادیں ۔ اس لئے انہوں نے نبی کریم صلی اللہ علیہ وسلم سے اس کے متعلق پوچھا ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ اللہ تعالیٰ نے مصنوعی بال جوڑنے والی اور جوڑوانے والی دونوں پر لعنت بھیجی ہے ۔ شعبہ کے ساتھ اس حدیث کو محمد بن اسحاق نے بھی ابان بن صالح سے ، انہوں نے حسن بن مسلم سے ، انہوں نے صفیہ سے ، انہوں نے حضرت عائشہ رضی اللہ عنہا سے روایت کی ہے ۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا ، کہا ہم سے شعبہ نے بیان کیا ، ان سے عمرو بن مرہ نے بیان کیا کہ میں نے حسن بن مسلم بن نیاق سے سنا ، وہ صفیہ بنت شیبہ سے بیان کرتے تھے اور ان سے حضرت عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ مُرَّةَ، قَالَ سَمِعْتُ الْحَسَنَ بْنَ مُسْلِمِ بْنِ يَنَّاقٍ، يُحَدِّثُ عَنْ صَفِيَّةَ بِنْتِ شَيْبَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ جَارِيَةً، مِنَ الأَنْصَارِ تَزَوَّجَتْ، وَأَنَّهَا مَرِضَتْ فَتَمَعَّطَ شَعَرُهَا، فَأَرَادُوا أَنْ يَصِلُوهَا فَسَأَلُوا النَّبِيَّ صلى الله عليه وسلم فَقَالَ ‏ \"‏ لَعَنَ اللَّهُ الْوَاصِلَةَ وَالْمُسْتَوْصِلَةَ ‏\"‏‏.‏ تَابَعَهُ ابْنُ إِسْحَاقَ عَنْ أَبَانَ بْنِ صَالِحٍ عَنِ الْحَسَنِ عَنْ صَفِيَّةَ عَنْ عَائِشَةَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5683,
+                "hadithNumber": "5935",
+                "englishNarrator": "Narrated Asma (the daughter of Abu' Bakr) رضی اللہ عنہما :",
+                "hadithEnglish": "A woman came to Allah's Messenger (ﷺ) and said, \"I married my daughter to someone, but she became sick and all her hair fell out, and (because of that) her husband does not like her. May I let her use false hair?\" On that the Prophet (ﷺ) cursed such a lady as artificially lengthening (her or someone else's) hair or got her hair lengthened artificially.",
+                "hadithUrdu": "ایک خاتون نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئیں اور کہا کہ میں نے اپنی لڑکی کی شادی کی ہے اس کے بعد وہ بیمار ہو گئی اور اس کے سر کے بال جھڑگئے اور اس کا شوہر مجھ پر اس کے معاملہ میں زور دیتا ہے ۔ کیا میں اس کے سر میں مصنوعی بال لگا دوں ؟ اس پر آنحضرت صلی اللہ علیہ وسلم نے مصنوعی بال جوڑنے والیوں اور جڑوانے والیوں کو برا کہا ۔ ان پر لعنت بھیجی ۔",
+                "urduNarrator": "مجھ سے احمد بن مقدام نے بیان کیا ، کہا ہم سے فضل بن سلیمان نے بیان کیا ، کہا ہم سے منصور بن عبدالرحمٰن نے بیان کیا ، کہا کہ مجھ سے میری والدہ صفیہ بنت شیبہ نے بیان کیا ، ان سے حضرت اسماء بنت ابی بکر رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي أَحْمَدُ بْنُ الْمِقْدَامِ، حَدَّثَنَا فُضَيْلُ بْنُ سُلَيْمَانَ، حَدَّثَنَا مَنْصُورُ بْنُ عَبْدِ الرَّحْمَنِ، قَالَ حَدَّثَتْنِي أُمِّي، عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ ـ رضى الله عنهما ـ أَنَّ امْرَأَةً، جَاءَتْ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَتْ إِنِّي أَنْكَحْتُ ابْنَتِي، ثُمَّ أَصَابَهَا شَكْوَى فَتَمَرَّقَ رَأْسُهَا، وَزَوْجُهَا يَسْتَحِثُّنِي بِهَا أَفَأَصِلُ رَأْسَهَا فَسَبَّ رَسُولُ اللَّهِ صلى الله عليه وسلم الْوَاصِلَةَ وَالْمُسْتَوْصِلَةَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5684,
+                "hadithNumber": "5936",
+                "englishNarrator": "Narrated Asma (the daughter of Abu Bakr) رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) has cursed such a lady as artificially lengthening (her or someone else's) hair or gets her hair lengthened.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے مصنوعی بال لگانے والی اور لگوانے والی پر لعنت بھیجی ہے ۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا ، کہا ہم سے شعبہ نے بیان کیا ، ان سے ہشام بن عروہ نے ، ان سے ان کی بیوی فاطمہ نے ، ان سے اسماء بنت ابی بکر رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنِ امْرَأَتِهِ، فَاطِمَةَ عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ، قَالَتْ لَعَنَ النَّبِيُّ صلى الله عليه وسلم الْوَاصِلَةَ وَالْمُسْتَوْصِلَةَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5685,
+                "hadithNumber": "5937",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"Allah has cursed such a lady as lengthens (her or someone else's) hair artificially or gets it lengthened, and also a lady who tattoos (herself or someone else) or gets herself tattooed. Nafi'o says: alasham is sometimes connected with the gums.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا اللہ نے مصنوعی بال جوڑنے والیوں پر ، جڑوانے والیوں پر ، گودنے والیوں پر اور گدوانے والیوں پر لعنت بھیجی ہے ۔ نافع نے کہا کہ ” گودنا کبھی مسوڑے پر بھی گودا جاتا ہے ۔ “",
+                "urduNarrator": "ہم سے محمد بن مقاتل نے بیان کیا ، کہا ہم کو حضرت عبداللہ بن مبارک نے خبر دی ، کہا ہم کو عبیداللہ عمری نے خبر دی ، انہیں نافع نے اور انہیں حضرت عبداللہ بن عمر رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدُ بْنُ مُقَاتِلٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لَعَنَ اللَّهُ الْوَاصِلَةَ وَالْمُسْتَوْصِلَةَ، وَالْوَاشِمَةَ وَالْمُسْتَوْشِمَةَ ‏\"‏‏.‏ قَالَ نَافِعٌ الْوَشْمُ فِي اللِّثَةِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5686,
+                "hadithNumber": "5938",
+                "englishNarrator": "Narrated Sa`id bin Al-Musaiyab:",
+                "hadithEnglish": "Mu'awiya رضی اللہ عنہ came to Medina for the last time and delivered a sermon. He took out a tuft of hair and said, \"I thought that none used to do this (i.e. use false hair) except Jews. The Prophet (ﷺ) labelled such practice, (i.e. the use of false hair), as cheating.",
+                "hadithUrdu": "حضرت معاویہ رضی اللہ عنہ آخری مرتبہ مدینہ منورہ تشریف لائے اور ہمیں خطبہ دیا ۔ آپ نے بالوں کا ایک گچھا نکال کے کہا کہ یہ یہودیوں کے سوا اور کوئی نہیں کرتا تھا ۔ نبی کریم صلی اللہ علیہ وسلم نے اسے ” زور “ یعنی فریبی فرمایا یعنی جو بالوں میں جوڑ لگائے تو ایسا آدمی مردہو یا عورت وہ مکار ہے جو اپنے مکروفریب پر اس طور پر پردہ ڈالتا ہے ۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا ، کہا ہم سے شعبہ نے بیان کیا ، کہا ہم سے عمرو بن مرہ نے بیان کیا کہ میں نے سعید بن مسیب سے سنا ، انہوں نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا عَمْرُو بْنُ مُرَّةَ، سَمِعْتُ سَعِيدَ بْنَ الْمُسَيَّبِ، قَالَ قَدِمَ مُعَاوِيَةُ الْمَدِينَةَ آخِرَ قَدْمَةٍ قَدِمَهَا، فَخَطَبَنَا فَأَخْرَجَ كُبَّةً مِنْ شَعَرٍ قَالَ مَا كُنْتُ أَرَى أَحَدًا يَفْعَلُ هَذَا غَيْرَ الْيَهُودِ، إِنَّ النَّبِيَّ صلى الله عليه وسلم سَمَّاهُ الزُّورَ‏.‏ يَعْنِي الْوَاصِلَةَ فِي الشَّعَرِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5687,
+                "hadithNumber": "5939",
+                "englishNarrator": "Narrated 'Alqama:",
+                "hadithEnglish": "`Abdullah رضی اللہ عنہما cursed those women who practiced tattooing and those who removed hair from their faces and those who created spaces between their teeth artificially to look beautiful, such ladies as changed what Allah has created. Um Ya'qub said, \"What is that?\" `Abdullah رضی اللہ عنہما said, \"Why should I not curse those who were cursed by Allah's Messenger (ﷺ) and are referred to in Allah's Book?\" She said to him \"By Allah, I have read the whole Qur'an but I have not found such a thing. `Abdullah رضی اللہ عنہما said, \"By Allah, if you had read it (carefully) you would have found it. (Allah says:) 'And what the Apostle gives you take it and what he forbids you abstain (from it).' (59.7)",
+                "hadithUrdu": "عبداللہ بن مسعود رضی اللہ عنہما نے خوبصورتی کے لیے گودنے والیوں ، چہرے کے بال اکھاڑ نے والیوں اورسامنے کے دانتوں کے درمیان کشادگی پیدا کرنے والیوں جو اللہ کی پیدائش میں تبدیلی کرتی ہیں ، ان سب پر لعنت بھیجی تو ام یعقوب نے کہا کہ یہ کیا بات ہوئی ۔ عبداللہ بن مسعود رضی اللہ عنہما نے کہا آخر میں کیوں نہ ان پر لعنت بھیجوں جن پر رسول اللہ صلی اللہ علیہ وسلم نے لعنت بھیجی ہے اور کتاب اللہ میں اس پر لعنت موجود ہے ۔ ام یعقوب نے کہا کہ اللہ کی قسم میں نے پورا قرآن مجید پڑھ ڈالا اور کہیں بھی ایسی کوئی آیت مجھے نہیں ملی ۔ عبداللہ بن مسعود رضی اللہ عنہما نے کہا اللہ کی قسم اگر تم نے پڑھا ہوتا تو تمہیں ضرور مل جاتا کیا تم کو یہ آیت معلوم نہیں ” وما اتا کم الرسول فخذوہ وما نھا کم عنہ فانتھوا “ یعنی ” اور جو کچھ رسول تمہیں دیں اسے لے لو اور جس سے بھی تمہیں منع کریں اس سے رک جاؤ ۔ “",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم بن راہویہ نے بیان کیا ، کہا ہم کو جریر نے خبر دی ، انہیں منصور نے ، انہیں ابراہیم نخعی نے اور ان سے علقمہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، قَالَ لَعَنَ عَبْدُ اللَّهِ الْوَاشِمَاتِ، وَالْمُتَنَمِّصَاتِ، وَالْمُتَفَلِّجَاتِ لِلْحُسْنِ، الْمُغَيِّرَاتِ خَلْقَ اللَّهِ‏.‏ فَقَالَتْ أُمُّ يَعْقُوبَ مَا هَذَا قَالَ عَبْدُ اللَّهِ وَمَا لِيَ لاَ أَلْعَنُ مَنْ لَعَنَ رَسُولُ اللَّهِ، وَفِي كِتَابِ اللَّهِ‏.‏ قَالَتْ وَاللَّهِ لَقَدْ قَرَأْتُ مَا بَيْنَ اللَّوْحَيْنِ فَمَا وَجَدْتُهُ‏.‏ قَالَ وَاللَّهِ لَئِنْ قَرَأْتِيهِ لَقَدْ وَجَدْتِيهِ ‏{‏وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا‏}‏‏.‏",
+                "headingArabic": "الْمُتَنَمِّصَاتِ",
+                "headingUrdu": "وہ خواتین جو چہرے، آنکھوں کے ابرو وغیرہ سے بال ہٹاتی ہیں۔",
+                "headingEnglish": "Ladies who remove hair from the face, eye-brows etc",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5688,
+                "hadithNumber": "5940",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) has cursed the lady who lengthens her hair artificially and the one who gets her hair lengthened, and also the lady who tattoos (herself or others) and the one who gets herself tattooed.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے مصنوعی بال جوڑنے والی اور جڑوانے والی ، گودنے والی اور گدوانے والی پر لعنت بھیجی ہے ۔",
+                "urduNarrator": "ہم سے محمد بن سلام نے بیان کیا ، ان سے عبدہ نے بیان کیا ، ان سے عبیداللہ نے بیان کیا ، ان سے نافع نے اور ان سے حضرت عبداللہ بن عمر رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدٌ، حَدَّثَنَا عَبْدَةُ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ لَعَنَ النَّبِيُّ صلى الله عليه وسلم الْوَاصِلَةَ وَالْمُسْتَوْصِلَةَ، وَالْوَاشِمَةَ وَالْمُسْتَوْشِمَةَ‏.‏",
+                "headingArabic": "الْمَوْصُولَةِ",
+                "headingUrdu": "وہ خاتون جو مصنوعی طریقے سے بالوں کو لمبا کرتی ہے۔",
+                "headingEnglish": "The lady who lengthens hair artificially",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5689,
+                "hadithNumber": "5941",
+                "englishNarrator": "Narrated Asma رضی اللہ عنہما :",
+                "hadithEnglish": "A woman asked the Prophet (ﷺ) saying, \"0 Allah's Messenger (ﷺ)! My daughter got measles and her hair fell out. Now that I got her married, may I let her use false hair?\" He said (to her), \"Allah has cursed the lady who lengthens hair artificially and the one who gets her hair lengthened artificially.\"",
+                "hadithUrdu": "ایک عورت نے نبی کریم صلی اللہ علیہ وسلم سے پوچھا کہ یا رسول اللہ ! میری لڑکی کو خسرے کا بخار ہو گیا اور اس سے اس کے بال جھڑ گئے ۔ میں اس کی شادی بھی کر چکی ہوں تو کیا اس کے مصنوعی بال لگا دوں ؟ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ اللہ نے مصنوعی بال لگانے والی اور جس کے لگایا جائے ، دونوں پر لعنت بھیجی ہے ۔",
+                "urduNarrator": "ہم سے امام حمیدی نے بیان کیا ، کہا ہم سے سفیان بن عیینہ نے ، ان سے ہشام بن عروہ نے بیان کیا ، انہوں نے فاطمہ بنت منذر سے سنا ، انہوں نے بیان کیا کہ میں نے اسماء بنت ابوبکر رضی اللہ عنہما سے سنا ، انہوں نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا الْحُمَيْدِيُّ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا هِشَامٌ، أَنَّهُ سَمِعَ فَاطِمَةَ بِنْتَ الْمُنْذِرِ، تَقُولُ سَمِعْتُ أَسْمَاءَ، قَالَتْ سَأَلَتِ امْرَأَةٌ النَّبِيَّ صلى الله عليه وسلم فَقَالَتْ يَا رَسُولَ اللَّهِ إِنَّ ابْنَتِي أَصَابَتْهَا الْحَصْبَةُ، فَامَّرَقَ شَعَرُهَا، وَإِنِّي زَوَّجْتُهَا أَفَأَصِلُ فِيهِ فَقَالَ ‏ \"‏ لَعَنَ اللَّهُ الْوَاصِلَةَ وَالْمَوْصُولَةَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5690,
+                "hadithNumber": "5942",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "I heard the Prophet (ﷺ) saying, (or the Prophet (ﷺ) said), \"Allah has cursed the lady who practices tattooing and that who gets it done for herself, and also the lady who lengthens hair artificially and that who gets her hair lengthened artificially.\" The Prophet (ﷺ) has cursed such ladies.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ، یا ( راوی نے اس طرح بیان کیا کہ ) نبی کریم صلی اللہ علیہ وسلم نے فرمایا گودنے والی ، گدوانے والی ، مصنوعی بال جوڑنے والی اور جڑوانے والی یعنی آنحضرت صلی اللہ علیہ وسلم نے ان سب پر لعنت بھیجی ہے ۔",
+                "urduNarrator": "مجھ سے یونس بن موسیٰ نے بیان کیا ، انہوں نے کہا ہم سے فضل بن دکین نے بیان کیا ، انہوں نے کہا ہم سے صخر بن جویریہ نے بیان کیا ، ان سے نافع نے اور ان سے عبداللہ بن عمر رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي يُوسُفُ بْنُ مُوسَى، حَدَّثَنَا الْفَضْلُ بْنُ دُكَيْنٍ، حَدَّثَنَا صَخْرُ بْنُ جُوَيْرِيَةَ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم أَوْ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ الْوَاشِمَةُ وَالْمُوتَشِمَةُ، وَالْوَاصِلَةُ وَالْمُسْتَوْصِلَةُ ‏\"‏‏.‏ يَعْنِي لَعَنَ النَّبِيُّ صلى الله عليه وسلم‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5691,
+                "hadithNumber": "5943",
+                "englishNarrator": "Narrated Ibn Mas`ud رضی اللہ عنہما:",
+                "hadithEnglish": "Allah has cursed those women who practise tattooing or get it done for themselves, and those who remove hair from their faces, and those who create spaces between their teeth artificially to look beautiful, such ladies as change the features created by Allah. Why then shall I not curse those whom Allah's Messenger (ﷺ) has cursed and who are cursed in Allah's Book too?",
+                "hadithUrdu": "اللہ تعالیٰ نے گودنے والیوں پر اور گدوانے والیوں پر اورچہرے کے بال اکھاڑنے والیوں پر اور خوبصورتی پیدا کرنے کے لیے سامنے کے دانتوں کے درمیان کشادگی کرنے والیوں پر جو اللہ کی پیدائش میں تبدیلی کرتی ہیں ، لعنت بھیجی ہے پھر میں کیوں نہ ان پر لعنت بھیجوں جن پر رسول اللہ صلی اللہ علیہ وسلم نے لعنت بھیجی ہے اور وہ اللہ کی کتاب میں موجود ہے ۔",
+                "urduNarrator": "مجھ سے محمد بن مقاتل نے بیان کیا ، کہا ہم کو عبداللہ بن مبارک نے خبر دی ، کہا ہم کو سفیان بن عیینہ نے خبر دی ، انہیں منصور نے ، انہیں ابراہیم نخعی نے ، انہیں علقمہ نے اور ان سے حضرت عبداللہ بن مسعود رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدُ بْنُ مُقَاتِلٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنِ ابْنِ مَسْعُودٍ ـ رضى الله عنه ـ قَالَ لَعَنَ اللَّهُ الْوَاشِمَاتِ، وَالْمُسْتَوْشِمَاتِ، وَالْمُتَنَمِّصَاتِ وَالْمُتَفَلِّجَاتِ لِلْحُسْنِ، الْمُغَيِّرَاتِ خَلْقَ اللَّهِ، مَا لِي لاَ أَلْعَنُ مَنْ لَعَنَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم وَهْوَ فِي كِتَابِ اللَّهِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5692,
+                "hadithNumber": "5944",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"The evil eye is a fact,\" and he forbade tattooing.\r\n Hadrat Sufyan narrates that he narrated to Abdur Rehman bin Abis the Hadith which Alqamah has reported from Hadrat Abdullah bin Masoud, he said: I, like Mansur's Hadith, have heard it from Umm-e-Yaqub and she from Hadrat Abdullah bin Masoud.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”نظر لگ جانا حق ہے“ اور نبی کریم صلی اللہ علیہ وسلم نے گودنے سے منع فرمایا۔\r\nحضرت سفیان روایت کرتے ہیں کہ انہوں نے عبدالرحمٰن بن ابیس سے وہ حدیث بیان کی جسے علقمہ نے حضرت عبداللہ بن مسعود سے روایت کیا ہے، انہوں نے کہا: میں نے منصور کی حدیث کی طرح اسے ام یعقوب سے اور انہوں نے حضرت عبداللہ بن مسعود سے سنا ہے۔",
+                "urduNarrator": "مجھ سے یحییٰ بن ابی بشیر نے بیان کیا ، کہا ہم سے عبدالرزاق نے بیان کیا ، ان سے معمر نے ، ان سے ہمام نے اور ان سے حضرت ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي يَحْيَى ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ ، عَنْ مَعْمَرٍ ، عَنْ هَمَّامٍ ، عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : الْعَيْنُ حَقٌّ ، وَنَهَى عَنِ الْوَشْمِ.\r\nحَدَّثَنِي ابْنُ بَشَّارٍ، حَدَّثَنَا ابْنُ مَهْدِيٍّ، حَدَّثَنَا سُفْيَانُ، قَالَ ذَكَرْتُ لِعَبْدِ الرَّحْمَنِ بْنِ عَابِسٍ حَدِيثَ مَنْصُورٍ عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ،، فَقَالَ سَمِعْتُهُ مِنْ أُمِّ يَعْقُوبَ، عَنْ عَبْدِ اللَّهِ، مِثْلَ حَدِيثِ مَنْصُورٍ‏.‏",
+                "headingArabic": "الْوَاشِمَةِ",
+                "headingUrdu": "وہ عورت جو ٹیٹو بنانے کی مشق کرتی ہے۔",
+                "headingEnglish": "The woman who practices tattooing",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5693,
+                "hadithNumber": "5945",
+                "englishNarrator": "Narrated Abu Juhaifa رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) forbade the use of the price of blood and the price of a dog, the one who takes (eats) usury the one who gives usury, the woman who practises tattooing and the woman who gets herself tattooed.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے خون کی قیمت ، کتے کی قیمت کھانے سے منع فرمایا اور سود لینے والے اور دینے والے ، گودنے والی اور گودانے والی ( پر لعنت بھیجی ) ۔",
+                "urduNarrator": "ہم سے سلیمان بن حرب نے بیان کیا ، کہا ہم سے شعبہ نے بیان کیا ، ان سے عون بن ابی حجیفہ نے بیان کیا کہ میں نے اپنے والد ( ابوحجیفہ رضی اللہ عنہ ) کو دیکھا ، انہوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا شُعْبَةُ، عَنْ عَوْنِ بْنِ أَبِي جُحَيْفَةَ، قَالَ رَأَيْتُ أَبِي فَقَالَ إِنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنْ ثَمَنِ الدَّمِ، وَثَمَنِ الْكَلْبِ، وَآكِلِ الرِّبَا وَمُوكِلِهِ، وَالْوَاشِمَةِ وَالْمُسْتَوْشِمَةِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5694,
+                "hadithNumber": "5946",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "A woman who used to practise tattooing was brought to `Umar رضی اللہ عنہ . `Umar رضی اللہ عنہ got up and said, \"I beseech you by Allah, which of you heard the Prophet (ﷺ) saying something about tattooing?\" l got up and said, \"O chief of the Believers! l heard something.\" He said, \"What did you hear?\" I said, \"I heard the Prophet (addressing the ladies), saying, 'Do not practise tattooing and do not get yourselves tattooed.'\"",
+                "hadithUrdu": "عمر رضی اللہ عنہ کے پاس ایک عورت لائی گئی جو گودنے کا کام کرتی تھی ۔ عمر رضی اللہ عنہ کھڑے ہو گئے ( اور اس وقت موجود صحابہ سے ) کہا میں تمہیں اللہ کا واسطہ دیتا ہوں کسی نے کچھ نبی کریم صلی اللہ علیہ وسلم سے گودنے کے متعلق سنا ہے ۔ ابوہریرہ رضی اللہ عنہ نے کہا کہ میں نے کھڑے ہو کر عرض کیا امیرالمؤمنین ! میں نے سنا ہے ۔ عمر رضی اللہ عنہ نے پوچھا کیا سنا ہے ؟ ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ میں نے نبی کریم صلی اللہ علیہ وسلم سے سنا ہے کہ گودنے کا کام نہ کرو اور نہ گدواؤ ۔",
+                "urduNarrator": "ہم سے زہیر بن حرب نے بیان کیا ، کہا ہم سے جریر نے بیان کیا ، ان سے عمارہ نے ، ان سے ابو زرعہ نے اور ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا جَرِيرٌ، عَنْ عُمَارَةَ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ أُتِيَ عُمَرُ بِامْرَأَةٍ تَشِمُ فَقَامَ فَقَالَ أَنْشُدُكُمْ بِاللَّهِ مَنْ سَمِعَ مِنَ النَّبِيِّ صلى الله عليه وسلم فِي الْوَشْمِ فَقَالَ أَبُو هُرَيْرَةَ فَقُمْتُ فَقُلْتُ يَا أَمِيرَ الْمُؤْمِنِينَ أَنَا سَمِعْتُ‏.‏ قَالَ مَا سَمِعْتَ قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ لاَ تَشِمْنَ وَلاَ تَسْتَوْشِمْنَ ‏\"‏‏.‏",
+                "headingArabic": "الْمُسْتَوْشِمَةِ",
+                "headingUrdu": "وہ عورت جو اپنے آپ کو ٹیٹو بنواتی ہے۔",
+                "headingEnglish": "The woman who gets herself tattooed",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5695,
+                "hadithNumber": "5947",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) has cursed the lady who lengthens hair artificially and that who gets her hair lengthened in such away, and the lady who practises tattooing and that who gets it done for herself.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے مصنوعی بال لگانے والی اورلگوانے والی اور گودنے والی اور گدوانے والی پر لعنت بھیجی ہے ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیا ، کہا ہم سے یحییٰ بن سعید نے بیان کیا ، انہیں عبیداللہ نے خبر دی ، کہا مجھ کو خبر دی نافع نے اور ان سے حضرت عبداللہ بن عمر رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ عُبَيْدِ اللَّهِ، أَخْبَرَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، قَالَ لَعَنَ النَّبِيُّ صلى الله عليه وسلم الْوَاصِلَةَ وَالْمُسْتَوْصِلَةَ، وَالْوَاشِمَةَ وَالْمُسْتَوْشِمَةَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5696,
+                "hadithNumber": "5948",
+                "englishNarrator": "Narrated `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "Allah has cursed those women who practise tattooing and those who get it done for themselves, and those who remove hair from their faces, and those who artificially create spaces between their teeth to look beautiful, such women as alter the features created by Allah. Why should I not then curse those whom Allah's Messenger (ﷺ) has cursed and that is in Allah's Book?",
+                "hadithUrdu": "گودنے والیوں پر اور گدوانے والیوں پر ، بال اکھاڑنے والیوں پر اور خوبصورتی کے لیے دانتوں کے درمیان کشادگی کرنے والیوں پر جو اللہ کی پیدائش میں تبدیلی کرتی ہیں ، اللہ تعالیٰ نے لعنت بھیجی ہے پھر میں بھی کیوں نہ ان پر لعنت بھیجوں جن پر رسول اللہ صلی اللہ علیہ وسلم نے لعنت بھیجی ہے اور وہ کتاب اللہ میں بھی موجود ہے ۔",
+                "urduNarrator": "ہم سے محمد بن مثنیٰ نے بیان کیا ، کہا ہم سے عبدالرحمٰن نے بیان کیا ، ان سے سفیان بن عیینہ نے ، ان سے منصور نے ، ان سے ابراہیم نے ، ان سے علقمہ نے اور ان سے حضرت عبداللہ بن مسعود رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ لَعَنَ اللَّهُ الْوَاشِمَاتِ وَالْمُسْتَوْشِمَاتِ، وَالْمُتَنَمِّصَاتِ وَالْمُتَفَلِّجَاتِ لِلْحُسْنِ، الْمُغَيِّرَاتِ خَلْقَ اللَّهِ‏.‏ مَا لِي لاَ أَلْعَنُ مَنْ لَعَنَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَهْوَ فِي كِتَابِ اللَّهِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5697,
+                "hadithNumber": "5949",
+                "englishNarrator": "Narrated Abu Talha رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Angels do not enter a house in which there is a dog or there are pictures.\" Laith, Younus, Ibn-e-Shihab, Obaidullah, Ibn-e-Abbas رضی اللہ عنہما , Hadrat Abu Talha heard the same from the prophet ﷺ.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا رحمت کے فرشتے اس گھر میں داخل نہیں ہوتے جس میں کتا یا مورتیں ہوں ۔ اور لیث بن سعد نے بیان کیا ، ان سے یونس بن یزید نے ، ان ابن شہاب نے کہا کہ مجھ کو عبیداللہ بن عبداللہ بن عتبہ نے خبر دی ، انہوں نے ابن عباس رضی اللہ عنہما سے سنا ، وہ کہتے تھے کہ میں نے ابوطلحہ رضی اللہ عنہ سے سنا ، پھر انہوں نے نبی کریم صلی اللہ علیہ وسلم سے یہی حدیث نقل کی ہے ۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا ، کہا ہم سے ابن ابی ذئب نے بیان کیا ، ان سے زہری نے ، ان سے عبیداللہ بن عبداللہ بن عتبہ نے ، ان سے حضرت ابن عباس رضی اللہ عنہما نے اور ان سے حضرت ابوطلحہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، عَنِ ابْنِ عَبَّاسٍ، عَنْ أَبِي طَلْحَةَ ـ رضى الله عنهم ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ لاَ تَدْخُلُ الْمَلاَئِكَةُ بَيْتًا فِيهِ كَلْبٌ وَلاَ تَصَاوِيرُ ‏\"‏‏.‏ وَقَالَ اللَّيْثُ حَدَّثَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي عُبَيْدُ اللَّهِ، سَمِعَ ابْنَ عَبَّاسٍ، سَمِعْتُ أَبَا طَلْحَةَ، سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم‏.‏",
+                "headingArabic": "التَّصَاوِيرِ",
+                "headingUrdu": "تصویریں",
+                "headingEnglish": "Pictures",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5698,
+                "hadithNumber": "5950",
+                "englishNarrator": "Narrated Muslim:",
+                "hadithEnglish": "We were with Masruq at the house of Yasar bin Numair. Masruq saw pictures on his terrace and said, \"I heard `Abdullah saying that he heard the Prophet (ﷺ) saying, \"The people who will receive the severest punishment from Allah will be the picture makers.'\"",
+                "hadithUrdu": "ہم مسروق بن اجدع کے ساتھ یسار بن نمیر کے گھر میں تھے ۔ مسروق نے ان کے گھر کے سائبان میں تصویر یں دیکھیں تو کہا کہ میں نے حضرت عبداللہ بن مسعود رضی اللہ عنہما سے سنا ہے ، انہوں نے بیان کیا کہ میں نے نبی کریم صلی اللہ علیہ وسلم سے سنا ، آنحضرت صلی اللہ علیہ وسلم نے فرمایا اللہ کے پاس قیامت کے دن تصویر بنانے والوں کو سخت سے سخت تر عذاب ہو گا ۔",
+                "urduNarrator": "ہم سے حمیدی عبداللہ بن زبیر نے بیان کیا ، کہا ہم سے سفیان بن عیینہ نے بیان کیا ، ان سے اعمش نے بیان کیا اور ان سے مسلم بن صبیحہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا الْحُمَيْدِيُّ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا الأَعْمَشُ، عَنْ مُسْلِمٍ، قَالَ كُنَّا مَعَ مَسْرُوقٍ فِي دَارِ يَسَارِ بْنِ نُمَيْرٍ، فَرَأَى فِي صُفَّتِهِ تَمَاثِيلَ فَقَالَ سَمِعْتُ عَبْدَ اللَّهِ قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ إِنَّ أَشَدَّ النَّاسِ عَذَابًا عِنْدَ اللَّهِ يَوْمَ الْقِيَامَةِ الْمُصَوِّرُونَ ‏\"‏‏.‏",
+                "headingArabic": "عَذَابِ الْمُصَوِّرِينَ يَوْمَ الْقِيَامَةِ",
+                "headingUrdu": "تصویر بنانے والوں کے لیے قیامت کے دن عذاب",
+                "headingEnglish": "The punishment for picture-makers on the Day of Resurrection",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5699,
+                "hadithNumber": "5951",
+                "englishNarrator": "Narrated `Abdullah bin `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"Those who make these pictures will be punished on the Day of Resurrection, and it will be said to them. 'Make alive what you have created.'\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا جو لوگ یہ مورتیں بناتے ہیں انہیں قیامت کے دن عذاب کیا جائے گا اور ان سے کہا جائے گا کہ جس کو تم نے بنایا ہے اب اس میں جان بھی ڈالو ۔",
+                "urduNarrator": "ہم سے ابراہیم بن المنذر نے بیان کیا ، انہوں نے کہا ہم سے انس بن عیاض نے بیان کیا ، انہوں نے کہا ہم سے عبیداللہ عمری نے بیان کیا ، ان سے نافع نے بیان کیا اور انہیں حضرت عبداللہ بن عمر رضی اللہ عنہما نے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ، حَدَّثَنَا أَنَسُ بْنُ عِيَاضٍ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ ـ رضى الله عنهما ـ أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ الَّذِينَ يَصْنَعُونَ هَذِهِ الصُّوَرَ يُعَذَّبُونَ يَوْمَ الْقِيَامَةِ يُقَالُ لَهُمْ أَحْيُوا مَا خَلَقْتُمْ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5700,
+                "hadithNumber": "5952",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا:",
+                "hadithEnglish": "I never used to leave in the Prophet (ﷺ) house anything carrying images or crosses but he obliterated it.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کو اپنے گھر میں جب بھی کوئی چیز ایسی ملتی جس پر صلیب کی مورت بنی ہو ( جیسے نصاریٰ رکھتے ہیں ) تو اس کو توڑ ڈالتے ۔",
+                "urduNarrator": "ہم سے معاذ بن فضالہ نے بیان کیا ، ان سے ہشام دستوائی نے بیان کیا ، ان سے یحییٰ بن ابی کثیر نے ، ان سے عمران بن حطان نے اور ان سے حضرت عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُعَاذُ بْنُ فَضَالَةَ، حَدَّثَنَا هِشَامٌ، عَنْ يَحْيَى، عَنْ عِمْرَانَ بْنِ حِطَّانَ، أَنَّ عَائِشَةَ ـ رضى الله عنها ـ حَدَّثَتْهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم لَمْ يَكُنْ يَتْرُكُ فِي بَيْتِهِ شَيْئًا فِيهِ تَصَالِيبُ إِلاَّ نَقَضَهُ‏.‏",
+                "headingArabic": "نَقْضِ الصُّوَرِ",
+                "headingUrdu": "تصویروں کا خاتمہ",
+                "headingEnglish": "The obliteration of pictures",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5701,
+                "hadithNumber": "5953",
+                "englishNarrator": "Narrated Abu Zur'a:",
+                "hadithEnglish": "l entered a house in Medina with Abu Huraira رضی اللہ عنہ , and he saw a man making pictures at the top of the house. Abu Huraira said, \"I heard Allah's Messenger (ﷺ) saying that Allah said, 'Who would be more unjust than the one who tries to create the like of My creatures? Let them create a grain: let them create a gnat.' \"Abu Huraira then asked for a water container and washed his arms up to his armpits. I said, \"0 Abu i Huraira! Is this something you have heard I from Allah's Messenger (ﷺ)?\" He said, I wash the arms to the extent of wearing ornaments.",
+                "hadithUrdu": "میں ابوہریرہ رضی اللہ عنہ کے ساتھ مدینہ منورہ میں ( مروان بن حکم کے گھر میں ) گیا تو انہوں نے چھت پر ایک مصور کو دیکھا جو تصویر بنا رہا تھا ، انہوں نے کہا کہ میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ہے ، آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ ( اللہ تعالیٰ ارشاد فرماتا ہے ) اس شخص سے بڑھ کر ظالم کون ہو گا جو میری مخلوق کی طرح پیدا کرنے چلا ہے اگر اسے یہی گھمنڈ ہے تو اسے چاہیئے کہ ایک دانہ پیدا کرے ، ایک چیونٹی پیداکرے ۔ پھر انہوں نے پانی کا ایک طشت منگوایا اور اپنے ہاتھ اس میں دھوئے ۔ جب بغل دھونے لگے تو میں نے عرض کیا ابوہریرہ ! کیا ( بغل تک دھونے کے بارے میں ) تم نے رسول اللہ صلی اللہ علیہ وسلم سے کچھ سنا ہے انہوں نے کہا میں نے جہاں تک زیور پہنا جا سکتا ہے وہاں تک دھویا ہے ۔",
+                "urduNarrator": "ہم سے موسیٰ نے بیان کیا ، کہا کہ ہم سے عبدالواحد نے ، کہا ہم سے عمارہ نے ، کہا ہم سے ابو زرعہ نے ، کہا کہ",
+                "hadithArabic": "حَدَّثَنَا مُوسَى، حَدَّثَنَا عَبْدُ الْوَاحِدِ، حَدَّثَنَا عُمَارَةُ، حَدَّثَنَا أَبُو زُرْعَةَ، قَالَ دَخَلْتُ مَعَ أَبِي هُرَيْرَةَ دَارًا بِالْمَدِينَةِ فَرَأَى أَعْلاَهَا مُصَوِّرًا يُصَوِّرُ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ وَمَنْ أَظْلَمُ مِمَّنْ ذَهَبَ يَخْلُقُ كَخَلْقِي، فَلْيَخْلُقُوا حَبَّةً، وَلْيَخْلُقُوا ذَرَّةً ‏\"‏‏.‏ ثُمَّ دَعَا بِتَوْرٍ مِنْ مَاءٍ فَغَسَلَ يَدَيْهِ حَتَّى بَلَغَ إِبْطَهُ فَقُلْتُ يَا أَبَا هُرَيْرَةَ أَشَىْءٌ سَمِعْتَهُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ مُنْتَهَى الْحِلْيَةِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5702,
+                "hadithNumber": "5954",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) returned from a journey when I had placed a curtain of mine having pictures over (the door of) a chamber of mine. When Allah's Messenger (ﷺ) saw it, he tore it and said, \"The people who will receive the severest punishment on the Day of Resurrection will be those who try to make the like of Allah's creations.\" So we turned it (i.e., the curtain) into one or two cushions.",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم سفر ( غزوہ تبوک ) سے تشریف لائے تو میں نے اپنے گھر کے سائبان پر ایک پردہ لٹکا دیا تھا ، اس پر تصویریں تھیں جب آپ نے دیکھا تو اسے کھینچ کر پھینک دیا اور فرمایا کہ قیامت کے دن سب سے زیادہ سخت عذاب میں وہ لوگ گرفتار ہوں گے جو اللہ کی مخلوق کی طرح خود بھی بناتے ہیں ۔ حضرت عائشہ رضی اللہ عنہا نے بیان کیا کہ پھر میں نے پھاڑ کر اس پردہ کی ایک یا دو توتکیے  بنا لیں ۔",
+                "urduNarrator": "ہم سے علی بن عبداللہ مدینی نے بیان کیا ، کہا ہم سے سفیان بن عیینہ نے بیان کیا ، کہا کہ میں نے عبدالرحمٰن بن قاسم سے سنا ، ان دنوں مدینہ منورہ میں ان سے بڑھ کر عالم فاضل نیک کوئی آدمی نہیں تھا ، انہوں نے بیان کیا کہ میں نے اپنے والد ( قاسم بن ابی بکر ) سے سنا ، انہوں نے بیان کیا کہ میں نے حضرت عائشہ رضی اللہ عنہا سے سنا کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، قَالَ سَمِعْتُ عَبْدَ الرَّحْمَنِ بْنَ الْقَاسِمِ ـ وَمَا بِالْمَدِينَةِ يَوْمَئِذٍ أَفْضَلُ مِنْهُ ـ قَالَ سَمِعْتُ أَبِي قَالَ سَمِعْتُ عَائِشَةَ ـ رضى الله عنها ـ قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنْ سَفَرٍ وَقَدْ سَتَرْتُ بِقِرَامٍ لِي عَلَى سَهْوَةٍ لِي فِيهَا تَمَاثِيلُ، فَلَمَّا رَآهُ رَسُولُ اللَّهِ صلى الله عليه وسلم هَتَكَهُ وَقَالَ ‏ \"‏ أَشَدُّ النَّاسِ عَذَابًا يَوْمَ الْقِيَامَةِ الَّذِينَ يُضَاهُونَ بِخَلْقِ اللَّهِ ‏\"‏‏.‏ قَالَتْ فَجَعَلْنَاهُ وِسَادَةً أَوْ وِسَادَتَيْنِ‏.‏",
+                "headingArabic": "مَا وُطِئَ مِنَ التَّصَاوِيرِ",
+                "headingUrdu": "ان چیزوں پر بنائی گئی تصویریں جن پر روندا جانا ہے۔",
+                "headingEnglish": "Pictures made on things that are to be trodden on",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 5676,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=227",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=225",
+                "label": "225",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=226",
+                "label": "226",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=227",
+                "label": "227",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=228",
+                "label": "228",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=229",
+                "label": "229",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=230",
+                "label": "230",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=231",
+                "label": "231",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=229",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=229",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=227",
+        "to": 5700,
+        "total": 40465
+    }
+}

@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 84,
+        "data": [
+            {
+                "id": 2077,
+                "hadithNumber": "2162",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) forbade the meeting (of caravans) on the way and the selling of goods by an inhabitant of the town on behalf of a desert dweller.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے ( تجارتی قافلوں سے ) آگے بڑھ کر ملنے سے منع فرمایا ہے اور بستی والوں کو باہر والوں کا مال بیچنے سے بھی منع فرمایا ۔",
+                "urduNarrator": "ہم سے محمد بن بشار نے بیان کیا ، کہا کہ ہم سے عبدالوہاب نے بیان کیا ، ان سے عبیداللہ عمری نے بیان کیا ، ان سے سعید بن ابی سعید نے اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ نَهَى النَّبِيُّ صلى الله عليه وسلم عَنِ التَّلَقِّي، وَأَنْ يَبِيعَ حَاضِرٌ لِبَادٍ‏.‏",
+                "headingArabic": "النَّهْىِ عَنْ تَلَقِّي الرُّكْبَان",
+                "headingUrdu": "راستے میں قافلوں سے ملنا منع ہے (بازار سے دور سامان خریدنا)",
+                "headingEnglish": "It is forbidden to meet the caravans on the way (to buy the goods away from the market)",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2078,
+                "hadithNumber": "2163",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "\"What is the meaning of, 'No town dweller should sell (or buy) for a desert dweller'?\" Ibn `Abbas said, \"It means he should not become his broker.\"",
+                "hadithUrdu": "آنحضرت صلی اللہ علیہ وسلم کے اس ارشاد کا مطلب کیا ہے کہ کوئی شہری کسی دیہاتی کا مال نہ بیچے ؟ تو انہوں نے کہا کہ مطلب یہ ہے کہ اس کا دلال نہ بنے ۔",
+                "urduNarrator": "مجھ سے عیاش بن عبدالولید نے بیان کیا ، کہا کہ ہم سے عبدالاعلیٰ نے بیان کیا ، کہا کہ ہم سے معمر نے بیان کیا ، ان سے ابن طاؤس نے ، ان سے ان کے باپ نے بیان کیا کہ میں نے ابن عباس رضی اللہ عنہما سے پوچھا کہ",
+                "hadithArabic": "حَدَّثَنِي عَيَّاشُ بْنُ الْوَلِيدِ، حَدَّثَنَا عَبْدُ الأَعْلَى، حَدَّثَنَا مَعْمَرٌ، عَنِ ابْنِ طَاوُسٍ، عَنْ أَبِيهِ، قَالَ سَأَلْتُ ابْنَ عَبَّاسٍ ـ رضى الله عنهما ـ مَا مَعْنَى قَوْلِهِ ‏ \"‏ لاَ يَبِيعَنَّ حَاضِرٌ لِبَادٍ ‏\"‏‏.‏ فَقَالَ لاَ يَكُنْ لَهُ سِمْسَارًا‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2079,
+                "hadithNumber": "2164",
+                "englishNarrator": "Narrated `Abdullah رضی اللہ عنہ :",
+                "hadithEnglish": "Whoever buys an animal which has been kept unmilked for a long time, could return it, but has to pay a Sa of dates along with it. And the Prophet (ﷺ) forbade meeting the owners of goods on the way away from the market.",
+                "hadithUrdu": "جو کوئی دودھ جمع کی ہوئی بکری خریدے ( وہ بکری پھیر دے ) اور اس کے ساتھ ایک صاع دیدے اور آنحضرت صلی اللہ علیہ وسلم نے قافلہ والوں سے آگے بڑھ کر ملنے سے منع فرمایا ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیا ، کہا کہ ہم سے یزید بن زریع نے بیان کیا ، کہ ہم سے تیمی نے بیان کیا ، ان سے ابوعثمان نے اور ان سے عبداللہ بن مسعود رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، قَالَ حَدَّثَنِي التَّيْمِيُّ، عَنْ أَبِي عُثْمَانَ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ قَالَ مَنِ اشْتَرَى مُحَفَّلَةً فَلْيَرُدَّ مَعَهَا صَاعًا‏.‏ قَالَ وَنَهَى النَّبِيُّ صلى الله عليه وسلم عَنْ تَلَقِّي الْبُيُوعِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2080,
+                "hadithNumber": "2165",
+                "englishNarrator": "Narrated `Abdullah bin `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"You should not try to cancel the purchases of one another (to get a benefit thereof), and do not go ahead to meet the caravan (for buying the goods) (but wait) till it reaches the market.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کوئی شخص کسی دوسرے کی بیع پر بیع نہ کرے اور جو مال باہر سے آ رہا ہو اس سے آگے جا کر نہ ملے جب تک وہ بازار میں نہ آئے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ، کہا کہ ہم کو امام مالک رحمہ اللہ نے خبر دی ، انہیں نافع نے اور انہیں عبداللہ بن عمر رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَبِيعُ بَعْضُكُمْ عَلَى بَيْعِ بَعْضٍ، وَلاَ تَلَقَّوُا السِّلَعَ حَتَّى يُهْبَطَ بِهَا إِلَى السُّوقِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2081,
+                "hadithNumber": "2166",
+                "englishNarrator": "Narrated `Abdullah:",
+                "hadithEnglish": "We used to go ahead to meet the caravan and used to buy foodstuff from them. The Prophet (ﷺ) forbade us to sell it till it was carried to the market. Imam Abu Abdullah Bukhari said: According to Hadith of Obaidullah, that place was at the upper part of the bazaar.",
+                "hadithUrdu": "ہم آگے قافلوں کے پاس خود ہی پہنچ جایا کرتے تھے اور ( شہر میں پہنچنے سے پہلے ہی ) ان سے غلہ خرید لیا کرتے ، لیکن نبی کریم صلی اللہ علیہ وسلم نے ہمیں اس بات سے منع فرمایا کہ ہم اس مال کو اسی جگہ بیچیں جب تک اناج کے بازار میں نہ لائیں ۔ امام بخاری رحمہ اللہ نے کہا کہ عبداللہ بن عمر رضی اللہ عنہما کا یہ ملنا بازار کے بلند کنارے پر تھا ۔ ( جدھر سے سوداگر آیا کرتے تھے ) اور یہ بات عبیداللہ کی حدیث سے نکلتی ہے ۔",
+                "urduNarrator": "ہم سے موسیٰ بن اسماعیل نے بیان کیا ، کہا کہ ہم سے جویریہ نے بیان کیا ، ان سے نافع نے اور ان سے عبداللہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا جُوَيْرِيَةُ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ قَالَ كُنَّا نَتَلَقَّى الرُّكْبَانَ فَنَشْتَرِي مِنْهُمُ الطَّعَامَ، فَنَهَانَا النَّبِيُّ صلى الله عليه وسلم أَنْ نَبِيعَهُ حَتَّى يُبْلَغَ بِهِ سُوقُ الطَّعَامِ‏.‏ قَالَ أَبُو عَبْدِ اللَّهِ هَذَا فِي أَعْلَى السُّوقِ، يُبَيِّنُهُ حَدِيثُ عُبَيْدِ اللَّهِ‏.‏",
+                "headingArabic": "مُنْتَهَى التَّلَقِّي",
+                "headingUrdu": "وہ حدیں جن سے آگے بڑھ کر قافلہ مل سکتا ہے۔",
+                "headingEnglish": "The limits to which one can go ahead to meet the caravan",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2082,
+                "hadithNumber": "2167",
+                "englishNarrator": "Narrated `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "Some people used to buy foodstuff at the head of the market and used to sell it on the spot. Allah's Apostle forbade them to sell it till they brought it to (their) places.",
+                "hadithUrdu": "لوگ بازار کی بلند جانب جا کر غلہ خریدتے اور وہیں بیچنے لگتے ۔ اس لیے رسول اللہ صلی اللہ علیہ وسلم نے اس سے منع فرمایا کہ غلہ وہاں نہ بیچیں جب تک اس کو اٹھوا کر دوسری جگہ نہ لے جائیں ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیا ، کہا کہ ہم سے یحییٰ بن قطان نے بیان کیا ، ان سے عبیداللہ نے ، کہا کہ مجھ سے نافع نے بیان کیا ، اور ان سے عبداللہ بن عمر رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، قَالَ حَدَّثَنِي نَافِعٌ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ قَالَ كَانُوا يَبْتَاعُونَ الطَّعَامَ فِي أَعْلَى السُّوقِ فَيَبِيعُونَهُ فِي مَكَانِهِمْ، فَنَهَاهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يَبِيعُوهُ فِي مَكَانِهِ حَتَّى يَنْقُلُوهُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2083,
+                "hadithNumber": "2168",
+                "englishNarrator": "Narrated Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "\"Barira رضی اللہ عنہا came to me and said, 'I have agreed with my masters to pay them nine Uqiyas (of gold) (in installments) one Uqiya per year; please help me.' I said, 'I am ready to pay the whole amount now provided your masters agree that your Wala' will be for me.' So, Barira went to her masters and told them about that offer but they refused to accept it. She returned, and at that time, Allah's Messenger (ﷺ) was sitting (present). Barira said, 'I told them of the offer but they did not accept it and insisted on having the Wala'.' The Prophet (ﷺ) heard that.\" `Aisha narrated the whole story to the Prophet. He said to her, \"Buy her and stipulate that her Wala' would be yours as the Wala' is for the manumitter.\" `Aisha did so. Then Allah's Messenger (ﷺ) stood up in front of the people, and after glorifying Allah he said, \"Amma Ba`du (i.e. then after)! What about the people who impose conditions which are not in Allah's Book (Laws)? Any condition that is not in Allah's Book (Laws) is invalid even if they were one hundred conditions, for Allah's decisions are the right ones and His conditions are the strong ones (firmer) and the Wala' will be for the manumitter.\"",
+                "hadithUrdu": "میرے پاس بریرہ رضی اللہ عنہا ( جو اس وقت تک باندی تھیں ) آئیں اور کہنے لگیں کہ میں نے اپنے مالکوں سے نو اوقیہ چاندی پر کتابت کر لی ہے ۔ شرط یہ ہوئی ہے کہ ہر سال ایک اوقیہ چاندی انہیں دیا کروں ۔ اب آپ بھی میری کچھ مدد کیجئے ۔ اس پر میں نے اس سے کہا کہ اگر تمہارے مالک یہ پسند کریں کہ یک مشت ان کا سب روپیہ میں ان کے لیے ( ابھی ) مہیا کر دوں اور تمہارا ترکہ میرے لیے ہو تو میں ایسا بھی کر سکتی ہوں ۔ بریرہ رضی اللہ عنہا اپنے مالکوں کے پاس گئیں ۔ اور عائشہ رضی اللہ عنہا کی تجویز ان کے سامنے رکھی ۔ لیکن انہوں نے اس سے انکار کیا ، پھر بریرہ رضی اللہ عنہا ان کے یہاں واپس آئیں تو رسول اللہ صلی اللہ علیہ وسلم ( عائشہ رضی اللہ عنہا کے یہاں ) بیٹھے ہوئے تھے ۔ انہوں نے کہا کہ میں نے تو آپ کی صورت ان کے سامنے رکھی تھی مگر وہ نہیں مانتے بلکہ کہتے ہیں کہ ترکہ تو ہمارا ہی رہے گا ۔ آنحضرت صلی اللہ علیہ وسلم نے یہ بات سنی اور عائشہ رضی اللہ عنہا نے بھی آپ کو حقیقت حال سے خبر کی ۔ تو آپ صلی اللہ علیہ وسلم نے فرمایا کہ بریرہ کو تم لے لو اور انہیں ترکہ کی شرط لگانے دو ۔ ترکہ تو اسی کا ہوتا ہے جو آزاد کرئے ۔ عائشہ رضی اللہ عنہا نے ایسا ہی کیا ۔ پھر نبی کریم صلی اللہ علیہ وسلم اٹھ کر لوگوں کے مجمع میں تشریف لے گئے اور اللہ کی حمد و ثنا کے بعد فرمایا ، امابعد ! کچھ لوگوں کو کیا ہو گیا ہے کہ وہ ( خریدوفروخت میں ) ایسی شرطیں لگاتے ہیں جن کی کتاب اللہ میں کوئی اصل نہیں ہے ۔ جو کوئی شرط ایسی لگائی جائے جس کی اصل کتاب اللہ میں نہ ہو وہ باطل ہو گی ۔ خواہ ایسی سو شرطیں کوئی کیوں نہ لگائے ۔ اللہ تعالیٰ کا حکم سب پر مقدم ہے اور اللہ کی شرط ہی بہت مضبوط ہے اور ولاء تو اسی کی ہوتی ہے جو آزاد کرے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ، کہا کہ ہم کو امام مالک نے خبر دی ، انہیں ہشام بن عروہ نے ، انہیں ان کے باپ عروہ نے ، اور ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ جَاءَتْنِي بَرِيرَةُ فَقَالَتْ كَاتَبْتُ أَهْلِي عَلَى تِسْعِ أَوَاقٍ فِي كُلِّ عَامٍ وَقِيَّةٌ، فَأَعِينِينِي‏.‏ فَقُلْتُ إِنْ أَحَبَّ أَهْلُكِ أَنْ أَعُدَّهَا لَهُمْ وَيَكُونَ وَلاَؤُكِ لِي فَعَلْتُ‏.‏ فَذَهَبَتْ بَرِيرَةُ إِلَى أَهْلِهَا، فَقَالَتْ لَهُمْ فَأَبَوْا عَلَيْهَا، فَجَاءَتْ مِنْ عِنْدِهِمْ وَرَسُولُ اللَّهِ صلى الله عليه وسلم جَالِسٌ، فَقَالَتْ إِنِّي قَدْ عَرَضْتُ ذَلِكَ عَلَيْهِمْ فَأَبَوْا، إِلاَّ أَنْ يَكُونَ الْوَلاَءُ لَهُمْ‏.‏ فَسَمِعَ النَّبِيُّ صلى الله عليه وسلم فَأَخْبَرَتْ عَائِشَةُ النَّبِيَّ صلى الله عليه وسلم فَقَالَ ‏\"‏ خُذِيهَا وَاشْتَرِطِي لَهُمُ الْوَلاَءَ، فَإِنَّمَا الْوَلاَءُ لِمَنْ أَعْتَقَ ‏\"‏‏.‏ فَفَعَلَتْ عَائِشَةُ ثُمَّ قَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي النَّاسِ، فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ، ثُمَّ قَالَ ‏\"‏ أَمَّا بَعْدُ مَا بَالُ رِجَالٍ يَشْتَرِطُونَ شُرُوطًا لَيْسَتْ فِي كِتَابِ اللَّهِ، مَا كَانَ مِنْ شَرْطٍ لَيْسَ فِي كِتَابِ اللَّهِ فَهُوَ بَاطِلٌ وَإِنْ كَانَ مِائَةَ شَرْطٍ، قَضَاءُ اللَّهِ أَحَقُّ، وَشَرْطُ اللَّهِ أَوْثَقُ، وَإِنَّمَا الْوَلاَءُ لِمَنْ أَعْتَقَ ‏\"‏‏.‏",
+                "headingArabic": "إِذَا اشْتَرَطَ شُرُوطًا فِي الْبَيْعِ لاَ تَحِلُّ",
+                "headingUrdu": "اگر کوئی اسلامی شریعت کے خلاف فروخت میں شرائط عائد کرتا ہے۔",
+                "headingEnglish": "If somebody imposes conditions in selling against the Islamic Law",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2084,
+                "hadithNumber": "2169",
+                "englishNarrator": "Narrated `Abdullah bin `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "Aisha رضی اللہ عنہا , (mother of the faithful believers) wanted to buy a slave girl and manumit her, but her masters said that they would sell her only on the condition that her Wala' would be for them. `Aisha رضی اللہ عنہا told Allah's Messenger (ﷺ) of that. He said, \"What they stipulate should not hinder you from buying her, as the Wala' is for the manumitted.\"",
+                "hadithUrdu": "ام المؤمنین حضرت عائشہ رضی اللہ عنہا نے چاہا کہ ایک باندی کو خرید کر آزاد کر دیں ، لیکن ان کے مالکوں نے کہا کہ ہم انہیں اس شرط پر آپ کو بیچ سکتے ہیں کہ ان کی ولاء ہمارے ساتھ رہے ۔ اس کا ذکر جب عائشہ رضی اللہ عنہا نے رسول اللہ صلی اللہ علیہ وسلم کے سامنے کیا تو آپ صلی اللہ علیہ وسلم نے فرمایا کہ اس شرط کی وجہ سے تم قطعاً نہ رکو ۔ ولاء تو اسی کی ہوتی ہے جو آزاد کرے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ، کہا کہ ہم کو امام مالک رحمہ اللہ نے خبر دی ، انہیں نافع نے اور انہیں عبداللہ بن عمر رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ عَائِشَةَ، أُمَّ الْمُؤْمِنِينَ أَرَادَتْ أَنْ تَشْتَرِيَ جَارِيَةً فَتُعْتِقَهَا، فَقَالَ أَهْلُهَا نَبِيعُكِهَا عَلَى أَنَّ وَلاَءَهَا لَنَا‏.‏ فَذَكَرَتْ ذَلِكَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏ \"‏ لاَ يَمْنَعُكِ ذَلِكَ، فَإِنَّمَا الْوَلاَءُ لِمَنْ أَعْتَقَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2085,
+                "hadithNumber": "2170",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"The selling of wheat for wheat is Riba (usury) except if it is handed from hand to hand and equal in amount. Similarly the selling of barley for barley, is Riba except if it is from hand to hand and equal in amount, and dates for dates is usury except if it is from hand to hand and equal in amount. (See Riba-Fadl in the glossary).",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا ، گیہوں کو گیہوں کے بدلہ میں بیچنا سود ہے ، لیکن یہ کہ سودا ہاتھوں ہاتھ ہو ۔ جَو کو جَو کے بدلہ میں بیچنا سود ہے ، لیکن یہ کہ ہاتھوں ہاتھ ہو ۔ اور کھجور کو کھجور کے بدلہ میں بیچنا سود ہے لیکن یہ کہ سودا ہاتھوں ہاتھ ، نقدا نقد ہو ۔",
+                "urduNarrator": "ہم سے ابوالولید نے بیان کیا ، کہا کہ ہم سے لیث نے بیان کیا ، ان سے ابن شہاب نے بیان کیا ، ان سے مالک بن اوس نے ، انہوں نے حضرت عمر رضی اللہ عنہ سے سنا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْوَلِيدِ، حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ، عَنْ مَالِكِ بْنِ أَوْسٍ، سَمِعَ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ الْبُرُّ بِالْبُرِّ رِبًا إِلاَّ هَاءَ وَهَاءَ، وَالشَّعِيرُ بِالشَّعِيرِ رِبًا إِلاَّ هَاءَ وَهَاءَ، وَالتَّمْرُ بِالتَّمْرِ رِبًا إِلاَّ هَاءَ وَهَاءَ ‏\"‏‏.‏",
+                "headingArabic": "بَيْعِ التَّمْرِ بِالتَّمْرِ",
+                "headingUrdu": "کھجور کے بدلے کھجوریں بیچنا",
+                "headingEnglish": "Selling of dates for dates",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2086,
+                "hadithNumber": "2171",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) forbade Muzabana; and Muzabana is the selling of fresh dates for dried old dates by measure, and the selling of fresh grapes for dried grapes by measure.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے مزابنہ سے منع فرمایا ، مزابنہ یہ کہ درخت پر لگی ہوئی کھجور خشک کھجور کے بدلہ ماپ کر کے بیچی جائے ۔ اسی طرح بیل پر لگے ہوئے انگور کو منقیٰ کے بدل بیچنا ۔",
+                "urduNarrator": "ہم سے اسماعیل نے بیان کیا ، کہا کہ ہم سے امام مالک نے بیان کیا ، ان سے نافع نے اور ان سے عبداللہ بن عمر رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الْمُزَابَنَةِ، وَالْمُزَابَنَةُ بَيْعُ الثَّمَرِ بِالتَّمْرِ كَيْلاً، وَبَيْعُ الزَّبِيبِ بِالْكَرْمِ كَيْلاً‏.‏",
+                "headingArabic": "بَيْعِ الزَّبِيبِ بِالزَّبِيبِ وَالطَّعَامِ بِالطَّعَامِ",
+                "headingUrdu": "سوکھے انگوروں کے لیے خشک انگور اور کھانے کے لیے کھانوں کی فروخت",
+                "headingEnglish": "The selling of dried grapes for dried grapes and meals for meals",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2087,
+                "hadithNumber": "2172, 2173",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) forbade Muzabana; and Muzabana is the selling of fresh fruit (without measuring it) for something by measure on the basis that if that thing turns to be more than the fruit, the increase would be for the seller of the fruit, and if it turns to be less, that would be of his lot. Narrated Ibn `Umar  رضی اللہ عنہما from Zaid bin Thabit رضی اللہ عنہ that the Prophet (ﷺ) allowed the selling of the fruits on the trees after estimation (when they are ripe).",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے مزابنہ سے منع فرمایا ۔ انہوں نے بیان کیا کہ مزابنہ یہ ہے کہ کوئی شخص درخت پر کی کھجور سوکھی کھجور کے بدل ماپ تول کر بیچے ۔ اور خریدار کہے اگر درخت کا پھل اس سوکھے پھل سے زیادہ نکلے تو وہ اس کا ہے اور کم نکلے تو وہ نقصان بھر دے گا ۔ عبداللہ بن عمر رضی اللہ عنہما نے بیان کیا ، کہ مجھ سے زید بن ثابت رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے مجھے عرایا کی اجازت دے دی تھی جو اندازے ہی سے بیع کی ایک صورت ہے ۔",
+                "urduNarrator": "ہم سے ابوالنعمان نے بیان کیا ، کہا کہ ہم سے حماد بن زید نے ، ان سے ایوب نے ، ان سے نافع نے اور ان سے ابن عمر رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنِ الْمُزَابَنَةِ قَالَ وَالْمُزَابَنَةُ أَنْ يَبِيعَ الثَّمَرَ بِكَيْلٍ، إِنْ زَادَ فَلِي وَإِنْ نَقَصَ فَعَلَىَّ‏. قَالَ وَحَدَّثَنِي زَيْدُ بْنُ ثَابِتٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم رَخَّصَ فِي الْعَرَايَا بِخَرْصِهَا‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2088,
+                "hadithNumber": "2174",
+                "englishNarrator": "Narrated Malik bin Aus رضی اللہ عنہ :",
+                "hadithEnglish": "\"I was in need of change for one-hundred Dinars. Talha bin 'Ubaidullah called me and we discussed the matter, and he agreed to change (my Dinars). He took the gold pieces in his hands and fidgeted with them, and then said, \"Wait till my storekeeper comes from the forest.\" `Umar was listening to that and said, \"By Allah! You should not separate from Talha till you get the money from him, for Allah's Messenger (ﷺ) said, 'The selling of gold for gold is Riba (usury) except if the exchange is from hand to hand and equal in amount, and similarly, the selling of wheat for wheat is Riba (usury) unless it is from hand to hand and equal in amount, and the selling of barley for barley is usury unless it is from hand to hand and equal in amount, and dates for dates, is usury unless it is from hand to hand and equal in amount\"",
+                "hadithUrdu": "انہیں سو اشرفیاں بدلنی تھیں ۔ ( انہوں نے بیان کیا کہ ) پھر مجھے طلحہ بن عبیداللہ رضی اللہ عنہما نے بلایا ۔ اور ہم نے ( اپنے معاملہ کی ) بات چیت کی ۔ اور ان سے میرا معاملہ طے ہو گیا ۔ وہ سونے ( اشرفیوں ) کو اپنے ہاتھ میں لے کر الٹنے پلٹنے لگے اور کہنے لگے کہ ذرا میرے خزانچی کو غابہ سے آ لینے دو ۔ عمر رضی اللہ عنہ بھی ہماری باتیں سن رہے تھے ، آپ نے فرمایا خدا کی قسم ! جب تک تم طلحہ سے روپیہ لے نہ لو ، ان سے جدا نہ ہونا کیونکہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ہے کہ سونا سونے کے بدلہ میں اگر نقد نہ ہو تو سود ہو جاتا ہے ۔ گیہوں ، گیہوں کے بدلے میں اگر نقد نہ ہو تو سود ہو جاتا ہے ۔ جَو ، جَو کے بدلہ میں اگر نقد نہ ہو تو سود ہو جاتا ہے اور کھجور ، کھجور کے بدلہ میں اگر نقد نہ ہو تو سود ہو جاتی ہے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ، کہا کہ ہم کو امام مالک نے خبر دی ، انہیں ابن شہاب نے ، اور انہیں مالک بن اوس رضی اللہ عنہ نے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ مَالِكِ بْنِ أَوْسٍ، أَخْبَرَهُ أَنَّهُ الْتَمَسَ، صَرْفًا بِمِائَةِ دِينَارٍ، فَدَعَانِي طَلْحَةُ بْنُ عُبَيْدِ اللَّهِ فَتَرَاوَضْنَا، حَتَّى اصْطَرَفَ مِنِّي، فَأَخَذَ الذَّهَبَ يُقَلِّبُهَا فِي يَدِهِ، ثُمَّ قَالَ حَتَّى يَأْتِيَ خَازِنِي مِنَ الْغَابَةِ، وَعُمَرُ يَسْمَعُ ذَلِكَ، فَقَالَ وَاللَّهِ لاَ تُفَارِقُهُ حَتَّى تَأْخُذَ مِنْهُ، قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الذَّهَبُ بِالذَّهَبِ رِبًا إِلاَّ هَاءَ وَهَاءَ، وَالْبُرُّ بِالْبُرِّ رِبًا إِلاَّ هَاءَ وَهَاءَ، وَالشَّعِيرُ بِالشَّعِيرِ رِبًا إِلاَّ هَاءَ وَهَاءَ، وَالتَّمْرُ بِالتَّمْرِ رِبًا إِلاَّ هَاءَ وَهَاءَ ‏\"‏‏.‏",
+                "headingArabic": "بَيْعِ الشَّعِيرِ بِالشَّعِيرِ",
+                "headingUrdu": "جَو کے عوض جَو بیچنا",
+                "headingEnglish": "Selling of barley for barley",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2089,
+                "hadithNumber": "2175",
+                "englishNarrator": "Narrated Abu Bakra رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"Don't sell gold for gold unless equal in weight, nor silver for silver unless equal in weight, but you could sell gold for silver or silver for gold as you like.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا ، سونا سونے کے بدلے میں اس وقت تک نہ بیچو جب تک ( دونوں طرف سے ) برابر برابر ( کی لین دین ) نہ ہو ۔ اسی طرح چاندی ، چاندی کے بدلہ میں اس وقت تک نہ بیچو جب تک ( دونوں طرف سے ) برابر برابر نہ ہو ۔ البتہ سونا ، چاندی کے بدل اور چاندی سونے کے بدل میں جس طرح چاہو بیچو ۔",
+                "urduNarrator": "ہم سے صدقہ بن فضل نے بیان کیا ، انہوں نے کہا کہ ہم کو اسماعیل بن علیہ نے خبر دی ، کہا کہ مجھے یحییٰ بن ابی اسحاق نے خبر دی ، ان سے عبدالرحمٰن بن ابی بکرہ نے بیان کیا ، ان سے ابوبکرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا صَدَقَةُ بْنُ الْفَضْلِ، أَخْبَرَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، قَالَ حَدَّثَنِي يَحْيَى بْنُ أَبِي إِسْحَاقَ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ أَبِي بَكْرَةَ، قَالَ قَالَ أَبُو بَكْرَةَ ـ رضى الله عنه ـ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ تَبِيعُوا الذَّهَبَ بِالذَّهَبِ إِلاَّ سَوَاءً بِسَوَاءٍ، وَالْفِضَّةَ بِالْفِضَّةِ إِلاَّ سَوَاءً بِسَوَاءٍ، وَبِيعُوا الذَّهَبَ بِالْفِضَّةِ وَالْفِضَّةَ بِالذَّهَبِ كَيْفَ شِئْتُمْ ‏\"‏‏.‏",
+                "headingArabic": "بَيْعِ الذَّهَبِ بِالذَّهَبِ",
+                "headingUrdu": "سونے کے بدلے سونے کی فروخت",
+                "headingEnglish": "Selling of gold for gold",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2090,
+                "hadithNumber": "2176",
+                "englishNarrator": "Narrated Abu Sa`id رضی اللہ عنہ :",
+                "hadithEnglish": "When Hadrat Abdullah bin Umer رضی اللہ عنہما met him, he said: O Hadrat Abu Saeed! What do youreport from Allah's Apostle (ﷺ)? Hadrat Abu Saeed رضی اللہ عنہ said about Serf transaction (Concerning exchange) that he heard Allah's Messenger (ﷺ) saying, \"Do not sell gold for gold unless equal in weight, and do not sell silver unless equal in weight.\"",
+                "hadithUrdu": "( جیسے ابوبکرہ رضی اللہ عنہ یا حضرت عمر رضی اللہ عنہ سے گزری ) پھر ایک مرتبہ عبداللہ بن عمر رضی اللہ عنہما کی ان سے ملاقات ہوئی تو انہوں نے پوچھا ، اے ابوسعید ! آپ رسول اللہ صلی اللہ علیہ وسلم کے حوالہ سے یہ کون سی حدیث بیان کرتے ہیں ؟ ابو سعید خدری رضی اللہ عنہ نے فرمایا کہ حدیث بیع صرف ( یعنی روپیہ اشرفیاں بدلنے یا تڑوانے ) سے متعلق ہے ۔ میں نے رسول اللہ صلی اللہ علیہ وسلم کا فرمان سنا تھا کہ سونا سونے کے بدلے میں برابر برابر ہی بیچا جا سکتا ہے اور چاندی ، چاندی کے بدلہ میں برابر برابر ہی بیچی جا سکتی ہے ۔",
+                "urduNarrator": "ہم سے عبیداللہ بن سعد نے بیان کیا ، کہا کہ مجھ سے میرے چچا نے بیان کیا ، کہا ہم سے زہری کے بھتیجے نے بیان کیا ، ان سے ان کے چچا نے بیان کیا کہ مجھ سے سالم بن عبداللہ رضی اللہ عنہ نے بیان کیا ، ان سے عبداللہ بن عمر رضی اللہ عنہما نے کہ ابو سعید خدری رضی اللہ عنہ نے اسی طرح ایک حدیث رسول اللہ صلی اللہ علیہ وسلم کے حوالہ سے بیان کی",
+                "hadithArabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ سَعْدٍ، حَدَّثَنَا عَمِّي، حَدَّثَنَا ابْنُ أَخِي الزُّهْرِيِّ، عَنْ عَمِّهِ، قَالَ حَدَّثَنِي سَالِمُ بْنُ عَبْدِ اللَّهِ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ أَبَا سَعِيدٍ، حَدَّثَهُ مِثْلَ، ذَلِكَ حَدِيثًا عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَلَقِيَهُ عَبْدُ اللَّهِ بْنُ عُمَرَ فَقَالَ يَا أَبَا سَعِيدٍ، مَا هَذَا الَّذِي تُحَدِّثُ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ أَبُو سَعِيدٍ فِي الصَّرْفِ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ الذَّهَبُ بِالذَّهَبِ مِثْلاً بِمِثْلٍ وَالْوَرِقُ بِالْوَرِقِ مِثْلاً بِمِثْلٍ ‏\"‏‏.‏",
+                "headingArabic": "بَيْعِ الْفِضَّةِ بِالْفِضَّةِ",
+                "headingUrdu": "چاندی کے بدلے چاندی کی فروخت",
+                "headingEnglish": "Selling of silver for silver",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2091,
+                "hadithNumber": "2177",
+                "englishNarrator": "Narrated Abu Sa`id Al-Khudri رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"Do not sell gold for gold unless equivalent in weight, and do not sell less amount for greater amount or vice versa; and do not sell silver for silver unless equivalent in weight, and do not sell less amount for greater amount or vice versa and do not sell gold or silver that is not present at the moment of exchange for gold or silver that is present.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ، سونا سونے کے بدلے اس وقت تک نہ بیچو جب تک دونوں طرف سے برابر برابر نہ ہو ، دونوں طرف سے کسی کمی یا زیادتی کو روا نہ رکھو ، اور چاندی کو چاندی کے بدلے میں اس وقت تک نہ بیچو جب تک دونوں طرف سے برابر برابر نہ ہو ۔ دونوں طرف سے کسی کمی یا زیادتی کو روا نہ رکھو اور نہ ادھار کو نقد کے بدلے میں بیچو ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف تنیسی نے بیان کیا ، کہا کہ ہم کو امام مالک نے خبر دی ، انہیں نافع نے اور انہیں ابو سعید خدری رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ تَبِيعُوا الذَّهَبَ بِالذَّهَبِ إِلاَّ مِثْلاً بِمِثْلٍ، وَلاَ تُشِفُّوا بَعْضَهَا عَلَى بَعْضٍ، وَلاَ تَبِيعُوا الْوَرِقَ بِالْوَرِقِ إِلاَّ مِثْلاً بِمِثْلٍ، وَلاَ تُشِفُّوا بَعْضَهَا عَلَى بَعْضٍ، وَلاَ تَبِيعُوا مِنْهَا غَائِبًا بِنَاجِزٍ ‏\"‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2092,
+                "hadithNumber": "2178, 2179",
+                "englishNarrator": "Narrated Abu Sa`id Al-Khudri رضی اللہ عنہ :",
+                "hadithEnglish": "\"The selling of a Dinar for a Dinar, and a Dirham for a Dirham (is permissible).\" I said to him, \"Ibn `Abbas does not say the same.\" Abu Sa`id رضی اللہ عنہ replied, \"I asked Ibn `Abbas رضی اللہ عنہما whether he had heard it from the Prophet (ﷺ) s or seen it in the Holy Book. Ibn `Abbas رضی اللہ عنہما replied, \"I do not claim that, and you know Allah's Messenger (ﷺ) better than I, but Usama رضی اللہ عنہ informed me that the Prophet had said, 'There is no Riba (in money exchange) except when it is not done from hand to hand (i.e. when there is delay in payment).' \"",
+                "hadithUrdu": "دینار ، دینار کے بدلے میں اور درہم ، درہم کے بدلے میں ( بیچا جا سکتا ہے ) اس پر میں نے ان سے کہا کہ ابن عباس رضی اللہ عنہما تو اس کی اجازت نہیں دیتے ۔ ابوسعید رضی اللہ عنہ نے بیان کیا کہ پھر میں نے ابن عباس رضی اللہ عنہما سے اس کے متعلق پوچھا کہ آپ نے یہ نبی کریم صلی اللہ علیہ وسلم سے سنا تھا یا کتاب اللہ میں آپ نے اسے پایا ہے ؟ انہوں نے کہا کہ ان میں سے کسی بات کا میں دعویدار نہیں ہوں ۔ رسول اللہ صلی اللہ علیہ وسلم ( کی احادیث ) کو آپ لوگ مجھ سے زیادہ جانتے ہیں ۔ البتہ مجھے اسامہ رضی اللہ عنہ نے خبر دی تھی کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ( مذکورہ صورتوں میں ) سود صرف ادھار کی صورت میں ہوتا ہے ۔",
+                "urduNarrator": "ہم سے علی بن عبداللہ نے بیان کیا ، کہا کہ ہم سے ضحاک بن مخلد نے بیان کیا ، کہا کہ ہم سے ابن جریج نے بیان کیا ، کہا کہ مجھے عمرو بن دینار نے خبر دی ، انہیں ابوصالح زیات نے خبر دی ، اور انہوں نے ابو سعید خدری رضی اللہ عنہ کو یہ کہتے سنا کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا الضَّحَّاكُ بْنُ مَخْلَدٍ، حَدَّثَنَا ابْنُ جُرَيْجٍ، قَالَ أَخْبَرَنِي عَمْرُو بْنُ دِينَارٍ، أَنَّ أَبَا صَالِحٍ الزَّيَّاتَ، أَخْبَرَهُ أَنَّهُ، سَمِعَ أَبَا سَعِيدٍ الْخُدْرِيَّ ـ رضى الله عنه ـ يَقُولُ الدِّينَارُ بِالدِّينَارِ، وَالدِّرْهَمُ بِالدِّرْهَمِ‏.‏ فَقُلْتُ لَهُ فَإِنَّ ابْنَ عَبَّاسٍ لاَ يَقُولُهُ‏.‏ فَقَالَ أَبُو سَعِيدٍ سَأَلْتُهُ فَقُلْتُ سَمِعْتَهُ مِنَ النَّبِيِّ، صلى الله عليه وسلم، أَوْ وَجَدْتَهُ فِي كِتَابِ اللَّهِ قَالَ كُلُّ ذَلِكَ لاَ أَقُولُ، وَأَنْتُمْ أَعْلَمُ بِرَسُولِ اللَّهِ صلى الله عليه وسلم مِنِّي، وَلَكِنَّنِي أَخْبَرَنِي أُسَامَةُ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ رِبًا إِلاَّ فِي النَّسِيئَةِ ‏\"‏‏.‏",
+                "headingArabic": "بَيْعِ الدِّينَارِ بِالدِّينَارِ نَسْأً",
+                "headingUrdu": "ادھار پر دینار کا دینار بیچنا",
+                "headingEnglish": "Selling of Dinar for Dinar on credit",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2093,
+                "hadithNumber": "2180, 2181",
+                "englishNarrator": "Narrated Abu Al-Minhal:",
+                "hadithEnglish": "I asked Al-Bara' bin `Azib and Zaid bin Arqam رضی اللہ عنہما about money exchanges. Each of them said, \"This is better than I,\" and both of them said, \"Allah's Messenger (ﷺ) forbade the selling of silver for gold on credit.\"",
+                "hadithUrdu": "میں نے براء بن عازب اور زید بن ارقم رضی اللہ عنہما سے بیع صرف کے متعلق پوچھا تو ان دونوں حضرات نے ایک دوسرے کے متعلق فرمایا کہ یہ مجھ سے بہتر ہیں ۔ آخر دونوں حضرات نے بتلایا کہ رسول اللہ صلی اللہ علیہ وسلم نے سونے کو چاندی کے بدلے میں ادھار کی صورت میں بیچنے سے منع فرمایا ہے ۔",
+                "urduNarrator": "ہم سے حفص بن عمر نے بیان کیا ، کہا ہم سے شعبہ نے بیان کیا ، کہا کہ مجھے حبیب بن ابی ثابت نے خبر دی ، کہا کہ میں نے ابوالمنہال سے سنا ، انہوں نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي حَبِيبُ بْنُ أَبِي ثَابِتٍ، قَالَ سَمِعْتُ أَبَا الْمِنْهَالِ، قَالَ سَأَلْتُ الْبَرَاءَ بْنَ عَازِبٍ وَزَيْدَ بْنَ أَرْقَمَ ـ رضى الله عنهم ـ عَنِ الصَّرْفِ،، فَكُلُّ وَاحِدٍ مِنْهُمَا يَقُولُ هَذَا خَيْرٌ مِنِّي‏.‏ فَكِلاَهُمَا يَقُولُ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ بَيْعِ الذَّهَبِ بِالْوَرِقِ دَيْنًا‏.‏",
+                "headingArabic": "بَيْعِ الْوَرِقِ بِالذَّهَبِ نَسِيئَةً",
+                "headingUrdu": "تاخیر سے ادائیگی پر سونے کے بدلے چاندی کی فروخت",
+                "headingEnglish": "Selling of silver for gold on delayed payment",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2094,
+                "hadithNumber": "2182",
+                "englishNarrator": "Narrated `Abdur-Rahman bin Abu Bakra رضی اللہ عنہ that his father said:",
+                "hadithEnglish": "\"The Prophet (ﷺ) forbade the selling of gold for gold and silver for silver except if they are equivalent in weight, and allowed us to sell gold for silver and vice versa as we wished.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے چاندی ، چاندی کے بدلے میں اور سونا سونے کے بدلے میں بیچنے سے منع فرمایا ہے ۔ مگر یہ کہ برابر برابر ہو ۔ البتہ سونا چاندی کے بدلے میں جس طرح چاہیں خریدیں ۔ اسی طرح چاندی سونے کے بدلے جس طرح چاہیں خریدیں ۔",
+                "urduNarrator": "ہم سے عمران بن میسرہ نے بیان کیا ، کہا کہ ہم سے عباد بن عوام نے ، کہا کہ ہم کو یحییٰ بن ابی اسحٰق نے خبر دی ، ان سے عبدالرحمٰن بن ابی بکرہ رضی اللہ عنہ نے بیان کیا ، اور ان سے ان کے باپ حضرت ابوبکرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عِمْرَانُ بْنُ مَيْسَرَةَ، حَدَّثَنَا عَبَّادُ بْنُ الْعَوَّامِ، أَخْبَرَنَا يَحْيَى بْنُ أَبِي إِسْحَاقَ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ أَبِي بَكْرَةَ، عَنْ أَبِيهِ ـ رضى الله عنه ـ قَالَ نَهَى النَّبِيُّ صلى الله عليه وسلم عَنِ الْفِضَّةِ بِالْفِضَّةِ وَالذَّهَبِ بِالذَّهَبِ، إِلاَّ سَوَاءً بِسَوَاءٍ، وَأَمَرَنَا أَنْ نَبْتَاعَ الذَّهَبَ بِالْفِضَّةِ كَيْفَ شِئْنَا، وَالْفِضَّةَ بِالذَّهَبِ كَيْفَ شِئْنَا‏.‏",
+                "headingArabic": "بَيْعِ الذَّهَبِ بِالْوَرِقِ يَدًا بِيَدٍ",
+                "headingUrdu": "سونے کی چاندی کے بدلے ہاتھ سے ہاتھ بیچنا",
+                "headingEnglish": "Selling of gold for silver from hand to hand",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2095,
+                "hadithNumber": "2183, 2184",
+                "englishNarrator": "Narrated `Abdullah bin `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"Do not sell fruits of dates until they become free from all the dangers of being spoilt or blighted; and do not sell fresh dates for dry dates.\"\r\nNarrated Salim and `Abdullah from Zaid bin Habit'  رضی اللہ عنہ \"Later on Allah's Messenger (ﷺ) permitted the selling of ripe fruits on trees for fresh dates or dried dates in Bai'-al-'Araya, and did not allow it for any other kind of sale.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ، پھل ( درخت پر کا ) اس وقت تک نہ بیچو جب تک اس کا پکا ہونا نہ کھل جائے ۔ اور درخت پر لگی ہوئی کھجور کو خشک کھجور کے بدلے میں نہ بیچو ۔\r\nسالم نے بیان کیا کہ مجھے عبداللہ رضی اللہ عنہ نے خبر دی ، اور انہیں زید بن ثابت رضی اللہ عنہ نے کہ بعد میں رسول اللہ صلی اللہ علیہ وسلم نے بیع عریہ کی تر یا خشک کھجور کے بدلہ میں اجازت دے دی تھی لیکن اس کے سوا کسی صورت کی اجازت نہیں دی تھی ۔",
+                "urduNarrator": "ہم سے یحییٰ بن بکیر نے بیان کیا ، کہا ہم سے لیث نے بیان کیا اور ان سے عقیل نے ، ان سے ابن شہاب نے ، انہیں سالم بن عبداللہ نے خبر دی ، اور انہیں عبداللہ بن عمر رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي سَالِمُ بْنُ عَبْدِ اللَّهِ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏لاَ تَبِيعُوا الثَّمَرَ حَتَّى يَبْدُوَ صَلاَحُهُ، وَلاَ تَبِيعُوا الثَّمَرَ بِالتَّمْرِ\". قَالَ سَالِمٌ وَأَخْبَرَنِي عَبْدُ اللَّهِ، عَنْ زَيْدِ بْنِ ثَابِتٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَخَّصَ بَعْدَ ذَلِكَ فِي بَيْعِ الْعَرِيَّةِ بِالرُّطَبِ أَوْ بِالتَّمْرِ، وَلَمْ يُرَخِّصْ فِي غَيْرِهِ‏.‏",
+                "headingArabic": "بَيْعِ الْمُزَابَنَة، وَهْيَ بَيْعُ الثَّمَرِ بِالتَّمْرِ وَبَيْعُ الزَّبِيبِ بِالْكَرْمِ وَبَيْعُ الْعَرَايَا",
+                "headingUrdu": "المزابانہ، العریہ",
+                "headingEnglish": "Al-Muzabana, Al-Araya",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2096,
+                "hadithNumber": "2185",
+                "englishNarrator": "Narrated `Abdullah bin `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) forbade Muzabana; and Muzabana means the selling of fresh dates (on the trees) for dried dates by measure and also the selling of fresh grapes for dried grapes by measure.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے مزابنہ سے منع فرمایا ، مزابنہ درخت پر لگی ہوئی کھجور کو ٹوٹی ہوئی کھجور کے بدلے ناپ کر اور درخت کے انگور کو خشک انگور کے بدلے میں ناپ کر بیچنے کو کہتے ہیں ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ، انہوں نے کہا کہ ہم کو امام مالک نے خبر دی ، انہیں نافع نے ، انہیں عبداللہ بن عمر رضی اللہ عنہمانے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الْمُزَابَنَةِ‏.‏ وَالْمُزَابَنَةُ اشْتِرَاءُ الثَّمَرِ بِالتَّمْرِ كَيْلاً، وَبَيْعُ الْكَرْمِ بِالزَّبِيبِ كَيْلاً‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2097,
+                "hadithNumber": "2186",
+                "englishNarrator": "Narrated Abu Sa`id Al-Khudri رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) forbade Muzabana and Muhaqala; and Muzabana means the selling of ripe dates for dates still on the trees.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے مزابنہ اور محاقلہ سے منع فرمایا ، مزابنہ درخت پر لگی کھجور ، توڑی ہوئی کھجور کے بدلے میں خریدنے کو کہتے ہیں ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ، انہوں نے کہا کہ ہم کو امام مالک نے خبر دی ، انہیں داؤد بن حصین نے ، انہیں ابن ابی احمد کے غلام ابوسفیان نے اور انہیں ابو سعید خدری رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ دَاوُدَ بْنِ الْحُصَيْنِ، عَنْ أَبِي سُفْيَانَ، مَوْلَى ابْنِ أَبِي أَحْمَدَ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ ـ رضى الله عنه أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الْمُزَابَنَةِ وَالْمُحَاقَلَةِ‏.‏ وَالْمُزَابَنَةُ اشْتِرَاءُ الثَّمَرِ بِالتَّمْرِ فِي رُءُوسِ النَّخْلِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2098,
+                "hadithNumber": "2187",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) forbade Muzabana and Muhaqala.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے محاقلہ اور مزابنہ سے منع فرمایا ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیا ، کہا کہ ہم سے معاویہ نے بیان کیا ، ان سے شیبانی نے ، ان سے عکرمہ نے اور ان سے ابن عباس رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الشَّيْبَانِيِّ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ نَهَى النَّبِيُّ صلى الله عليه وسلم عَنِ الْمُحَاقَلَةِ وَالْمُزَابَنَةِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2099,
+                "hadithNumber": "2188",
+                "englishNarrator": "Narrated Zaid bin Thabit رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) has granted the permission to the owner of Ariyyah to sell according to the estimation.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے صاحب عریہ کو اس کی اجازت دی کہ اپنا عریہ اس کے اندازے برابر میوے کے بدل بیچ ڈالے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ نے بیان کیا ، کہا کہ ہم سے امام مالک نے بیان کیا ، ان سے نافع نے ، ان سے حضرت عبداللہ بن عمر رضی اللہ عنہما نے کہ ان سے زید بن ثابت رضی اللہ عنہ سے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنْ زَيْدِ بْنِ ثَابِتٍ ـ رضى الله عنهم ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَرْخَصَ لِصَاحِبِ الْعَرِيَّةِ أَنْ يَبِيعَهَا بِخَرْصِهَا‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2100,
+                "hadithNumber": "2189",
+                "englishNarrator": "Narrated Jabir رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) forbade the selling of fruits unless they get ripe, and none of them should be sold except for Dinar or Dirham (i.e. money), except the 'Araya trees (the dates of which could be sold for dates).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے کھجور کے پکنے سے پہلے بیچنے سے منع کیا ہے اور یہ کہ اس میں سے ذرہ برابر بھی درہم و دینا کے سوا کسی اور چیز ( سوکھے پھل ) کے بدلے نہ بیچی جائے البتہ عریہ کی اجازت دی ۔",
+                "urduNarrator": "ہم سے یحییٰ بن سلیمان نے بیان کیا کہا کہ ہم سے عبداللہ بن وہب نے بیان کیا ، انہیں ابن جریج نے خبر دی ، انہیں عطاء اور ابوزبیر نے اور انہیں جابر رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ سُلَيْمَانَ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، عَنْ عَطَاءٍ، وَأَبِي الزُّبَيْرِ، عَنْ جَابِرٍ ـ رضى الله عنه ـ قَالَ نَهَى النَّبِيُّ صلى الله عليه وسلم عَنْ بَيْعِ الثَّمَرِ حَتَّى يَطِيبَ، وَلاَ يُبَاعُ شَىْءٌ مِنْهُ إِلاَّ بِالدِّينَارِ وَالدِّرْهَمِ إِلاَّ الْعَرَايَا‏.‏",
+                "headingArabic": "بَيْعِ الثَّمَرِ عَلَى رُءُوسِ النَّخْلِ بِالذَّهَبِ وَالْفِضَّةِ",
+                "headingUrdu": "درختوں پر کھجور کی فروخت جاری ہے۔",
+                "headingEnglish": "The selling of dates still on trees",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2101,
+                "hadithNumber": "2190",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) allowed the sale of the dates of 'Araya provided they were about five Awsuq (singular: Wasaq which means sixty Sa's) or less (in amount).",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے پانچ وسق یا اس سے کم میں بیع عریہ کی اجازت دے دی ہے ؟ تو انہوں نے کہا کہ ہاں !",
+                "urduNarrator": "ہم سے عبداللہ بن عبدالوہاب نے بیان کیا ، انہوں نے کہا کہ میں نے امام مالک سے سنا ، ان سے عبیداللہ بن ربیع نے پوچھا کہ کیا آپ سے داؤد نے سفیان سے اور انہوں نے ابوہریرہ رضی اللہ عنہ سے یہ حدیث بیان کی تھی کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الْوَهَّابِ، قَالَ سَمِعْتُ مَالِكًا، وَسَأَلَهُ، عُبَيْدُ اللَّهِ بْنُ الرَّبِيعِ أَحَدَّثَكَ دَاوُدُ عَنْ أَبِي سُفْيَانَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم رَخَّصَ فِي بَيْعِ الْعَرَايَا فِي خَمْسَةِ أَوْسُقٍ أَوْ دُونَ خَمْسَةِ أَوْسُقٍ قَالَ نَعَمْ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 2076,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=83",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=81",
+                "label": "81",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=82",
+                "label": "82",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=83",
+                "label": "83",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=84",
+                "label": "84",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=85",
+                "label": "85",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=86",
+                "label": "86",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=87",
+                "label": "87",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=85",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=85",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=83",
+        "to": 2100,
+        "total": 40465
+    }
+}

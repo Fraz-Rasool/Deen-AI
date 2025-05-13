@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 280,
+        "data": [
+            {
+                "id": 6981,
+                "hadithNumber": "7282",
+                "englishNarrator": "Narrated Hudhaifa رضی اللہ عنہ :",
+                "hadithEnglish": "\"O the Group of Al-Qurra! Follow the straight path, for then you have taken a great lead (and will be the leaders), but if you divert right or left, then you will go astray far away.\"",
+                "hadithUrdu": "اے قرآن و حدیث پڑھنے والو ! تم اگر قرآن و حدیث پر نہ جمو گے ‘ اھر ادھر دائیں بائیں راستہ لو گے تو بھی گمراہ ہو گے بہت ہی بڑے گمراہ ۔",
+                "urduNarrator": "ہم سے ابونعیم فاضل بن دکین نے بیان کیا ‘ کہا ہم سے سفیان ثوری نے بیان کیا ‘ ان سے اعمش نے ‘ ان سے ابراہیمی نے ‘ ان سے ہمام نے اور ان سے حذیفہ رضی اللہ عنہ نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ هَمَّامٍ، عَنْ حُذَيْفَةَ، قَالَ يَا مَعْشَرَ الْقُرَّاءِ اسْتَقِيمُوا فَقَدْ سُبِقْتُمْ سَبْقًا بَعِيدًا فَإِنْ أَخَذْتُمْ يَمِينًا وَشِمَالاً، لَقَدْ ضَلَلْتُمْ ضَلاَلاً بَعِيدًا‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6982,
+                "hadithNumber": "7283",
+                "englishNarrator": "Narrated Abu Musa رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"My example and the example of what I have been sent with is that of a man who came to some people and said, 'O people! I have seen the enemy's army with my own eyes, and I am the naked warner; so protect yourselves!' Then a group of his people obeyed him and fled at night proceeding stealthily till they were safe, while another group of them disbelieved him and stayed at their places till morning when the army came upon them, and killed and ruined them completely So this is the example of that person who obeys me and follows what I have brought (the Qur'an and the Sunna), and the example of the one who disobeys me and disbelieves the truth I have brought.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا میری اور جس دعوت کے ساتھ مجھے اللہ تعالیٰ نے بھیجا ہے اس کی مثال ایک ایسے شخص جیسی ہے جو کسی قوم کے پاس آئے اور کہے اے قوم ! میں نے ایک لشکر اپنی آنکھوں سے دیکھا ہے اور میں ننگ دھڑنگ تو کو ڈرانے والا ہوں ‘ پس بچاؤ کی صورت کرو تو اس قوم کے ایک گروہ نے بات مان لی اور رات کے شروع ہی میں نکل بھاگے اور حفاظت کی جگہ چلے گئے ۔ اس لیے نجات پا گئے لیکن ان کی دوسری جماعت نے جھٹلایا اور اپنی جگہ ہی پر موجود رہے ‘ پھر صبح سویرے ہی دشمن کے لشکر نے انہیں آ لیا اور انہیں ما را اور ان کو برباد کر دیا ۔ توبہ مثال ہے اس کی جو میری اعطاعت کریں اور جو دعوت میں لایا ہوں اس کی پیروی کریں اور اس کی مثال ہے جو میری نافرمانی کریں اور جو حق میں لے کر آیا ہوں اسے جھٹلائیں ۔",
+                "urduNarrator": "ہم سے ابو کریب محمد بن علاء نے بیان کیا ‘ کہا ہم سے اسامہ نے بیان کیا ‘ ان سے برید نے ‘ ان سے ان کے دادا ابوبردہ نے اور ان سے ابوموسیٰ اشعری رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ بُرَيْدٍ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّمَا مَثَلِي وَمَثَلُ مَا بَعَثَنِي اللَّهُ بِهِ كَمَثَلِ رَجُلٍ أَتَى قَوْمًا فَقَالَ يَا قَوْمِ إِنِّي رَأَيْتُ الْجَيْشَ بِعَيْنَىَّ، وَإِنِّي أَنَا النَّذِيرُ الْعُرْيَانُ فَالنَّجَاءَ‏.‏ فَأَطَاعَهُ طَائِفَةٌ مِنْ قَوْمِهِ فَأَدْلَجُوا، فَانْطَلَقُوا عَلَى مَهَلِهِمْ فَنَجَوْا، وَكَذَّبَتْ طَائِفَةٌ مِنْهُمْ فَأَصْبَحُوا مَكَانَهُمْ، فَصَبَّحَهُمُ الْجَيْشُ، فَأَهْلَكَهُمْ وَاجْتَاحَهُمْ، فَذَلِكَ مَثَلُ مَنْ أَطَاعَنِي، فَاتَّبَعَ مَا جِئْتُ بِهِ، وَمَثَلُ مَنْ عَصَانِي وَكَذَّبَ بِمَا جِئْتُ بِهِ مِنَ الْحَقِّ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6983,
+                "hadithNumber": "7284, 7285",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "When Allah's Messenger (ﷺ) died and Abu Bakr رضی اللہ عنہ was elected as a Caliph after him, some of the Arabs reverted to disbelief, `Umar رضی اللہ عنہ said to Abu Bakr رضی اللہ عنہ , \"How dare you fight the people while Allah's Messenger (ﷺ) said, 'I have been ordered to fight the people till they say: None has the right to be worshipped but Allah. And whoever says: None has the right to be worshipped but Allah, saves his wealth and his life from me unless he deserves a legal punishment lusty, and his account will be with Allah.' \" Abu Bakr رضی اللہ عنہ said, \"By Allah, I will fight him who discriminates between Zakat and prayers, for Zakat is the Compulsory right to be taken from the wealth By Allah, if they refuse to give me even a tying rope which they use to give to Allah's Messenger (ﷺ), I would fight them for withholding it.\" `Umar رضی اللہ عنہ said, \"By Allah, It was nothing, except I saw that Allah had opened the chest of Abu Bakr رضی اللہ عنہ to the fight, and I came to know for certain that was the truth.\" Abu Bakir and Abdullah bin Saleh called Layth \"عَنَاقًا‏\" (instead of ``Aqla'' meaning goat kid) and this is more correct.",
+                "hadithUrdu": "جب نبی کریم صلی اللہ علیہ وسلم کی وفات ہوئی اور آپ کے بعد ابوبکر رضی اللہ عنہ کو خلیفہ بنایا گیا اور عرب کے کئی قبائل پھر گئے ۔ ابوبکر رضی اللہ عنہ نے ان سے لڑنا چاہا تو عمر رضی اللہ عنہ نے ابوبکر رضی اللہ عنہ سے کہا کہ آپ لوگوں سے کس بنیاد پر جنگ کریں گے جب کہ آنحضرت صلی اللہ علیہ وسلم نے یہ فرمایا تھا کہ مجھے حکم دیا گیا ہے کہ لوگوں سے اس وقت تک جنگ کروں جب تک وہ کلمہ لا الہٰ الا اللہ کا اقرار نہ کر لیں پس جو شخص اقرار کر لے کہ لا الہٰ الا اللہ تو میری طرف سے اس کا مال اور اس کی جان محفوظ ہے ۔ البتہ کسی حق کے بدل ہو تو وہ اور بات ہے ( مثلاً کسی کا مال مار لے یا کسی کا خون کرے ) اب اس کے باقی اعمال کا حساب اللہ کے حوالے ہے لیکن ابوبکر رضی اللہ عنہ نے کہا کہ واللہ ! میں تو اس شخص سے جنگ کروں گا جس نے نماز اور زکوٰۃ میں فرق کیا ہے کیونکہ زکوٰۃ مال کا حق ہے ‘ واللہ اگر وہ مجھے ایک رسی بھی دینے سے رکیں گے جو وہ رسول اللہ صلی اللہ علیہ وسلم کو دیتے تھے تو میں ان سے ان کے انکارپر بھی جنگ کروں گا ۔ عمر رضی اللہ عنہ نے کہا پھر جو میں نے غور کیا مجھے یقین ہو گیا کہ اللہ تعالیٰ نے ابوبکر رضی اللہ عنہ کے دل میں لڑائی کی تجویز ڈالی ہے تو میں نے جان لیا کہ وہ حق پر ہیں ۔ ابو بکیر اور عبداللہ بن صالح نے لیث سے ” عنا قا “ ( بجائے عقلاً کہا یعنی بکری کا بچہ اور یہی زیادہ صحیح ہے ۔",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا ‘ کہا ہم سے لیث بن سعد نے بیان کیا ‘ ان سے عقیل نے ‘ ان سے زہری نے ‘ انہیں عبیداللہ بن عبداللہ بن عتبہ نے خبر دی ‘ ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، عَنْ عُقَيْلٍ، عَنِ الزُّهْرِيِّ، أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ لَمَّا تُوُفِّيَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَاسْتُخْلِفَ أَبُو بَكْرٍ بَعْدَهُ، وَكَفَرَ مَنْ كَفَرَ مِنَ الْعَرَبِ قَالَ عُمَرُ لأَبِي بَكْرٍ كَيْفَ تُقَاتِلُ النَّاسَ، وَقَدْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ أُمِرْتُ أَنْ أُقَاتِلَ النَّاسَ حَتَّى يَقُولُوا لاَ إِلَهَ إِلاَّ اللَّهُ‏.‏ فَمَنْ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ‏.‏ عَصَمَ مِنِّي مَالَهُ وَنَفْسَهُ، إِلاَّ بِحَقِّهِ، وَحِسَابُهُ عَلَى اللَّهِ ‏\"‏‏.‏ فَقَالَ وَاللَّهِ لأُقَاتِلَنَّ مَنْ فَرَّقَ بَيْنَ الصَّلاَةِ وَالزَّكَاةِ، فَإِنَّ الزَّكَاةَ حَقُّ الْمَالِ، وَاللَّهِ لَوْ مَنَعُونِي عِقَالاً كَانُوا يُؤَدُّونَهُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم لَقَاتَلْتُهُمْ عَلَى مَنْعِهِ‏.‏ فَقَالَ عُمَرُ فَوَاللَّهِ مَا هُوَ إِلاَّ أَنْ رَأَيْتُ اللَّهَ قَدْ شَرَحَ صَدْرَ أَبِي بَكْرٍ لِلْقِتَالِ فَعَرَفْتُ أَنَّهُ الْحَقُّ‏.‏ قَالَ ابْنُ بُكَيْرٍ وَعَبْدُ اللَّهِ عَنِ اللَّيْثِ عَنَاقًا‏.‏ وَهْوَ أَصَحُّ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6984,
+                "hadithNumber": "7286",
+                "englishNarrator": "Narrated `Abdullah bin `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "Oyainah bin Hisn bin Hodhaifah visited Badr and stayed with his nephew Hur bin Qais bin Hisn, an intimate Companion of Hadrat Umer رضی اللہ عنہ, for the Quran reads old or young would enjoy would Hadrat Umer's company and were the memebers of his Advisory Committee. So, Oyainahsaid to his nephew: Do you have any access to the Believers' Chief? If it is so, get me the permission to meet him. He said: I will soon get you the permission. Hadrat Ibn-e-Abbas رضی اللہ عنہ states: Oyainah was granted the permission. When he entered,he said: O Ibn-e-Khattab! By Allah!you neither grant us wealth nor pass fair judgement in our affairs. Hadrat Umer رضی اللہ عنہ got so much infuriated that he even intended to pounce upon him but Hurr said: O the Believers' Chief! Allah said to the prophet : '(O Beloved!) Adopt forgiveness and bid to do good and turn away from the ignorant.' And undoubtedly, he is amongst the ignorants. The reporter says: By Allah! When he recited this verse, Hadrat Umer رضی اللہ عنہ did not transgress the command, and he would totally withdraw before Allah's Book.",
+                "hadithUrdu": "عیینہ بن حذیفہ بن بدر مدینہ آئے اور اپنے بھتیجے الحر بن قیس بن حصن کے یہاں قیام کیا ۔ الحر بن قیس ان لوگوں میں سے تھے جنہیں عمر رضی اللہ عنہ اپنے قریب رکھتے تھے ۔ قرآن مجید کے علماء عمر رضی اللہ عنہ کے شریک مجلس و مشورہ رہتے تھے ‘خواہ وہ بوڑھے ہوں یا جوان ۔ پھر عیینہ نے اپنے بھتیجے حر سے کہا ‘ بھتیجے ! کیا امیر المؤ منین کے یہاں کچھ رسوخ حاصل ہے کہ تم میرے لیے ان کے یہاں حاضری کی اجازت لے دو ؟ انہوں نے کہا کہ میں آپ کے لیے اجازت مانگوں گا ۔ ابن عباس رضی اللہ عنہما نے بیان کیا کہ پھر انہوں نے عیینہ کے لیے اجازت چاہی ( اور آپ نے اجازت دی ) پھر جب عیینہ مجلس میں پہنچے تو کہا کہ اے ابن خطاب ! واللہ ! تم ہمیں بہت زیادہ نہیں دیتے اور نہ ہمارے درمیان انصاف کے ساتھ فیصلہ کرتے ہو ۔ اس پر عمر رضی اللہ عنہ غصہ ہو گئے ‘ یہاں تک کہ آپ نے انہیں سزا دینے کا ارادہ کر لیا ۔ اتنے میں حضرت الحر نے کہا ‘ امیر المؤ منین ! اللہ تعالیٰ نے اپنے نبی کریم صلی اللہ علیہ وسلم سے فرمایا کہ ” معاف کرنے کا طریقہ اختیار کرو اور بھلائی کا حکم دو اور جاہلوں سے اعراض کرو “ اور یہ شخص جاہلوں میں سے ہے ۔ پس واللہ ! عمر رضی اللہ عنہ کے سامنے جب یہ آیت انہوں نے تلاوت کی تو آپ ٹھنڈے ہو گئے اور عمر رضی اللہ عنہ کی عادت تھی کہ اللہ کی کتاب پر فوراً عمل کرتے ۔",
+                "urduNarrator": "مجھ سے اسماعیل بن ابی اویس نے بیان کیا ‘ کہا مجھ سے عبداللہ بن وہب نے بیان کیا ‘ ان سے یونس بن یزید ایلی نے ‘ ان سے ابن شہاب نے ‘ ان سے عبیداللہ بن عبداللہ بن عتبہ نے ‘ ان سے عبداللہ بن عباس رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي إِسْمَاعِيلُ، حَدَّثَنِي ابْنُ وَهْبٍ، عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، أَنَّ عَبْدَ اللَّهِ بْنَ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ قَدِمَ عُيَيْنَةُ بْنُ حِصْنِ بْنِ حُذَيْفَةَ بْنِ بَدْرٍ فَنَزَلَ عَلَى ابْنِ أَخِيهِ الْحُرِّ بْنِ قَيْسِ بْنِ حِصْنٍ، وَكَانَ مِنَ النَّفَرِ الَّذِينَ يُدْنِيهِمْ عُمَرُ، وَكَانَ الْقُرَّاءُ أَصْحَابَ مَجْلِسِ عُمَرَ وَمُشَاوَرَتِهِ كُهُولاً كَانُوا أَوْ شُبَّانًا فَقَالَ عُيَيْنَةُ لاِبْنِ أَخِيهِ يَا ابْنَ أَخِي هَلْ لَكَ وَجْهٌ عِنْدَ هَذَا الأَمِيرِ فَتَسْتَأْذِنَ لِي عَلَيْهِ قَالَ سَأَسْتَأْذِنُ لَكَ عَلَيْهِ‏.‏ قَالَ ابْنُ عَبَّاسٍ فَاسْتَأْذَنَ لِعُيَيْنَةَ فَلَمَّا دَخَلَ قَالَ يَا ابْنَ الْخَطَّابِ وَاللَّهِ مَا تُعْطِينَا الْجَزْلَ، وَمَا تَحْكُمُ بَيْنَنَا بِالْعَدْلِ‏.‏ فَغَضِبَ عُمَرُ حَتَّى هَمَّ بِأَنْ يَقَعَ بِهِ فَقَالَ الْحُرُّ يَا أَمِيرَ الْمُؤْمِنِينَ إِنَّ اللَّهَ تَعَالَى قَالَ لِنَبِيِّهِ صلى الله عليه وسلم ‏{‏خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ وَأَعْرِضْ عَنِ الْجَاهِلِينَ‏}‏ وَإِنَّ هَذَا مِنَ الْجَاهِلِينَ‏.‏ فَوَاللَّهِ مَا جَاوَزَهَا عُمَرُ حِينَ تَلاَهَا عَلَيْهِ، وَكَانَ وَقَّافًا عِنْدَ كِتَابِ اللَّهِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6985,
+                "hadithNumber": "7287",
+                "englishNarrator": "Narrated Asma' bint Abu Bakr رضی اللہ عنہما :",
+                "hadithEnglish": "I came to `Aisha رضی اللہ عنہا during the solar eclipse. The people were standing (offering prayer) and she too, was standing and offering prayer. I asked, \"What is wrong with the people?\" She pointed towards the sky with her hand and said, Subhan Allah!'' I asked her, \"Is there a sign?\" She nodded with her head meaning, yes. When Allah's Messenger (ﷺ) finished (the prayer), he glorified and praised Allah and said, \"There is not anything that I have not seen before but I have seen now at this place of mine, even Paradise and Hell. It has been revealed to me that you people will be put to trial nearly like the trial of Ad-Dajjal, in your graves. As for the true believer or a Muslim (the sub-narrator is not sure as to which of the two (words Asma' رضی اللہ عنہا had said) he will say, 'Muhammad came with clear signs from Allah, and we responded to him (accepted his teachings) and believed (what he said)' It will be said (to him) 'Sleep in peace; we have known that you were a true believer who believed with certainty.' As for a hypocrite or a doubtful person, (the sub-narrator is not sure as to which word Asma' رضی اللہ عنہا said) he will say, 'I do not know, but I heard the people saying something and so I said the same.' \"",
+                "hadithUrdu": "میں عائشہ رضی اللہ عنہا کے یہاں گئی ۔ جب سورج گرہن ہوا تھا اور لوگ نماز پڑھ رہے تھے عائشہ رضی اللہ عنہا بھی کھڑی نماز پڑھ رہی تھیں ۔ میں نے کہا لوگوں کو کیا ہو گیا ہے ( کہ بے وقت نماز پڑھ رہے ہیں ) تو انہوں نے ہاتھ سے آسمان کی طرف اشارہ کیا اور کہا سبحان اللہ ! میں نے کہا کوئی نشانی ہے ؟ انہوں نے سر سے اشارہ کیا کہ ہاں ۔ پھر جب رسول اللہ صلی اللہ علیہ وسلم نماز سے فارغ ہوئے تو آپ نے اللہ کی حمد و ثنا کے بعد فرمایا ‘ کوئی چیز ایسی نہیں لیکن میں نے آج اس جگہ سے اسے دیکھ لیا ‘ یہاں تک کہ جنت ودوزخ بھی اور مجھے وحی کی گئی ہے کہ تم لوگ قبروں میں بھی آزمائے جاؤ گے ‘ دجال کے فتنے کے قریب قریب پس مومن یا مسلم مجھے یقین نہیں کہ اسماء رضی اللہ عنہا نے ان میں سے کون سا لفظ کہا تھا تو وہ ( قبر میں فرشتوں کے سوال پر کہے گا ) محمد صلی اللہ علیہ وسلم ہمارے پاس روشن نشانات لے کر آئیں اور ہم نے ان کی دعوت قبول کی اور ایمان لائے ۔ اس سے کہا جائے گا کہ آرام سے سو رہو ‘ ہمیں معلوم تھا کہ تم مومن ہو اور منافق یا شک میں مبتلا مجھے یقین نہیں کہ ان میں سے کون سا لفظ اسماء رضی اللہ عنہا نے کہا تھا ‘ تو وہ کہے گا ( آنحضرت صلی اللہ علیہ وسلم کے متعلق سوال پر کہ مجھے معلوم نہیں ‘ میں نے لوگوں کو جو کہتے سنا وہی میں نے بھی بک دیا ۔",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ قعنبی نے بیان کیا ‘ ان سے مالک نے بیان کیا ‘ ان سے ہشام بن عروہ نے ‘ ان سے فاطمہ بنت منذر نے ‘ ان سے اسماء بنت ابی بکر رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ فَاطِمَةَ بِنْتِ الْمُنْذِرِ، عَنْ أَسْمَاءَ ابْنَةِ أَبِي بَكْرٍ ـ رضى الله عنهما ـ أَنَّهَا قَالَتْ أَتَيْتُ عَائِشَةَ حِينَ خَسَفَتِ الشَّمْسُ، وَالنَّاسُ قِيَامٌ وَهْىَ قَائِمَةٌ تُصَلِّي فَقُلْتُ مَا لِلنَّاسِ فَأَشَارَتْ بِيَدِهَا نَحْوَ السَّمَاءِ فَقَالَتْ سُبْحَانَ اللَّهِ‏.‏ فَقُلْتُ آيَةٌ‏.‏ قَالَتْ بِرَأْسِهَا أَنْ نَعَمْ‏.‏ فَلَمَّا انْصَرَفَ رَسُولُ اللَّهِ صلى الله عليه وسلم حَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ ثُمَّ قَالَ ‏ \"‏ مَا مِنْ شَىْءٍ لَمْ أَرَهُ إِلاَّ وَقَدْ رَأَيْتُهُ فِي مَقَامِي، حَتَّى الْجَنَّةَ وَالنَّارَ، وَأُوحِيَ إِلَىَّ أَنَّكُمْ تُفْتَنُونَ فِي الْقُبُورِ قَرِيبًا مِنْ فِتْنَةِ الدَّجَّالِ، فَأَمَّا الْمُؤْمِنُ ـ أَوِ الْمُسْلِمُ لاَ أَدْرِي أَىَّ ذَلِكَ قَالَتْ أَسْمَاءُ ـ فَيَقُولُ مُحَمَّدٌ جَاءَنَا بِالْبَيِّنَاتِ فَأَجَبْنَا وَآمَنَّا‏.‏ فَيُقَالُ نَمْ صَالِحًا عَلِمْنَا أَنَّكَ مُوقِنٌ‏.‏ وَأَمَّا الْمُنَافِقُ ـ أَوِ الْمُرْتَابُ لاَ أَدْرِي أَىَّ ذَلِكَ قَالَتْ أَسْمَاءُ ـ فَيَقُولُ لاَ أَدْرِي سَمِعْتُ النَّاسَ يَقُولُونَ شَيْئًا فَقُلْتُهُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6986,
+                "hadithNumber": "7288",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Leave me as I leave you, for the people who were before you were ruined because of their questions and their differences over their prophets. So, if I forbid you to do something, then keep away from it. And if I order you to do something, then do of it as much as you can.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا جب تک میں تم سے یکسو رہوں تم بھی مجھے چھوڑ دو ( اور سوالات وغیرہ نہ کرو ) کیونکہ تم سے پہلے کی امتیں اپنے ( غیر ضروری ) سوال اور انبیاء کے سامنے اختلاف کی وجہ سے تباہ ہو گئیں ۔ پس جب میں تمہیں کسی چیز سے روکوں تو تم بھی اس سے پرہیز کرو اور جب میں تمہیں کسی بات کا حکم دوں تو بجا لاؤ جس حد تک تم میں طاقت ہو ۔",
+                "urduNarrator": "ہم سے اسماعیل بن ابی اویس نے بیان کیا ‘ کہا مجھ سے امام مالک نے بیان کیا ‘ ان سے ابوالزناد نے ‘ ان سے اعرج نے ‘ ان سے ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنِي مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ دَعُونِي مَا تَرَكْتُكُمْ، إِنَّمَا هَلَكَ مَنْ كَانَ قَبْلَكُمْ بِسُؤَالِهِمْ وَاخْتِلاَفِهِمْ عَلَى أَنْبِيَائِهِمْ، فَإِذَا نَهَيْتُكُمْ عَنْ شَىْءٍ فَاجْتَنِبُوهُ، وَإِذَا أَمَرْتُكُمْ بِأَمْرٍ فَأْتُوا مِنْهُ مَا اسْتَطَعْتُمْ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6987,
+                "hadithNumber": "7289",
+                "englishNarrator": "Narrated Sa`d bin Abi Waqqas:",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"The most sinful person among the Muslims is the one who asked about something which had not been prohibited, but was prohibited because of his asking.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا ‘ سب سے بڑا مجرم وہ مسلمان ہے جس نے کسی ایسی چیز کے متلعق پوچھا جو حرام نہیں تھی اور اس کے سوال کی وجہ سے وہ حرام کر دی گئی ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یزید المقری نے بیان کیا ‘ کہا ہم سے سعید بن ابی ایوب نے بیان کیا ‘ کہا مجھ سے عقیل بن خالد نے بیان کیا ‘ ان سے ابن شہاب نے ‘ ان سے عامر بن سعد بن ابی وقاص نے ‘ ان سے ان کے والد نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ الْمُقْرِئُ، حَدَّثَنَا سَعِيدٌ، حَدَّثَنِي عُقَيْلٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عَامِرِ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ أَعْظَمَ الْمُسْلِمِينَ جُرْمًا مَنْ سَأَلَ عَنْ شَىْءٍ لَمْ يُحَرَّمْ، فَحُرِّمَ مِنْ أَجْلِ مَسْأَلَتِهِ ‏\"‏‏.‏",
+                "headingArabic": "مَا يُكْرَهُ مِنْ كَثْرَةِ السُّؤَالِ وَتَكَلُّفِ مَا لاَ يَعْنِيهِ",
+                "headingUrdu": "بہت سارے سوالات پوچھنا اور اس سے پریشان ہونا جس سے کسی کو کوئی سروکار نہیں ہے۔",
+                "headingEnglish": "Asking too many questions and troubling with what does not concern one",
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6988,
+                "hadithNumber": "7290",
+                "englishNarrator": "Narrated Zaid bin Thabit رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) took a room made of date palm leaves mats in the mosque. Allah's Messenger (ﷺ) prayed in it for a few nights till the people gathered (to pray the night prayer (Tarawih) (behind him.) Then on the 4th night the people did not hear his voice and they thought he had slept, so some of them started humming in order that he might come out. The Prophet (ﷺ) then said, \"You continued doing what I saw you doing till I was afraid that this (Tarawih prayer) might be enjoined on you, and if it were enjoined on you, you would not continue performing it. Therefore, O people! Perform your prayers at your homes, for the best prayer of a person is what is performed at his home except the compulsory congregational) prayer.\" (See Hadith No. 229,Vol. 3) (See Hadith No. 134, Vol. 8)",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے مسجدنبوی میں چٹائی سے گھیر کر ایک حجرہ بنا لیا اور رمضان کی راتوں میں اس کے اندر نماز پڑھنے لگے پھر اور لوگ بھی جمع ہو گئے تو ایک رات آنحضرت کی آواز نہیں آئی ۔ لوگوں نے سمجھا کہ آنحضرت صلی اللہ علیہ وسلم سو گئے ہیں ۔ اس لیے ان میں سے بعض کھنگار نے لگے تاکہ آپ باہر تشریف لائے ‘ پھر آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ میں تم لوگوں کے کام سے واقف ہوں ‘ یہاں تک کہ مجھے ڈر ہوا کہ کہیں تم پر یہ نماز تراویح فرض نہ کر دی جائے اور اگر فرض کر دی جائے تو تم اسے قائم نہیں رکھ سکو گے ۔ پس اے لوگو ! اپنے گھروں میں یہ نماز پڑھو کیونکہ فرض نماز کے سوا انسان کی سب سے افضل نماز اس کے گھر میں ہے ۔",
+                "urduNarrator": "ہم سے اسحاق بن منصور نے بیان کیا ‘ انہوں نے کہا ہم کو عفان بن مسلم نے خبر دی ‘ انہوں نے کہا ہم سے وہیب نے بیان کیا ‘ کہا ہم سے موسیٰ ابن عقبہ نے بیان کیا ‘ کہا میں نے ابو النضر سے سنا ‘ انہوں نے بسر بن سعید سے بیان کیا ‘ ان سے زید بن ثابت رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ، أَخْبَرَنَا عَفَّانُ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا مُوسَى بْنُ عُقْبَةَ، سَمِعْتُ أَبَا النَّضْرِ، يُحَدِّثُ عَنْ بُسْرِ بْنِ سَعِيدٍ، عَنْ زَيْدِ بْنِ ثَابِتٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم اتَّخَذَ حُجْرَةً فِي الْمَسْجِدِ مِنْ حَصِيرٍ، فَصَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم فِيهَا لَيَالِيَ، حَتَّى اجْتَمَعَ إِلَيْهِ نَاسٌ، ثُمَّ فَقَدُوا صَوْتَهُ لَيْلَةً فَظَنُّوا أَنَّهُ قَدْ نَامَ، فَجَعَلَ بَعْضُهُمْ يَتَنَحْنَحُ لِيَخْرُجَ إِلَيْهِمْ فَقَالَ ‏ \"‏ مَا زَالَ بِكُمُ الَّذِي رَأَيْتُ مِنْ صَنِيعِكُمْ، حَتَّى خَشِيتُ أَنْ يُكْتَبَ عَلَيْكُمْ، وَلَوْ كُتِبَ عَلَيْكُمْ مَا قُمْتُمْ بِهِ فَصَلُّوا أَيُّهَا النَّاسُ فِي بُيُوتِكُمْ، فَإِنَّ أَفْضَلَ صَلاَةِ الْمَرْءِ فِي بَيْتِهِ، إِلاَّ الصَّلاَةَ الْمَكْتُوبَةَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6989,
+                "hadithNumber": "7291",
+                "englishNarrator": "Narrated Abu Musa Al-Ash`ari رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) was asked about things which he disliked, and when the people asked too many questions, he became angry and said, \"Ask me (any question).\" A man got up and said, \"O Allah's Apostle! Who is my father?\" The Prophet (ﷺ) replied, \"Your father is Hudhaifa.\" Then another man got up and said, \"O Allah's Messenger (ﷺ)! Who is my father?\" The Prophet (ﷺ) said, \"Your father is Salim, Maula Shaiba.\" When `Umar saw the signs of anger on the face of Allah's Messenger (ﷺ), he said, \"We repent to Allah.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم سے کچھ چیزوں کے متعلق پوچھا گیا جنہیں آپ نے ناپسند کیا جب لوگوں نے بہت زیادہ پوچھنا شروع کر دیا تو آپ ناراض ہوئے اور فرمایا پوچھو ! اس پر ایک صحابی کھڑا ہوا اور پوچھا یا رسول اللہ ! میرے والد کون ہیں ؟ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ تمہارے والد حذافہ ہیں ۔ پھر دوسرا صحابی کھڑا ہوا اور پوچھا میرے والد کون ہیں ؟ فرمایا کہ تمہارے والد شیبہ کے مولیٰ سالم ہیں ۔ پھر جب عمر رضی اللہ عنہ نے آنحضرت صلی اللہ علیہ وسلم کے چہرہ پر غصہ کے آثار محسوس کئے تو عرض کیا ہم اللہ عزوجل کی بار گاہ میں آپ کو غصہ دلانے سے توبہ کرتے ہیں ۔",
+                "urduNarrator": "ہم سے یوسف بن موسیٰ نے بیان کیا ‘ کہا ہم سے ابواسامہ حماد بن اسامہ نے بیان کیا ‘ ان سے برید بن ابی بردہ نے ‘ ان سے ابوبردہ نے اور ان سے ابوموسیٰ اشعری رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا يُوسُفُ بْنُ مُوسَى، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ بُرَيْدِ بْنِ أَبِي بُرْدَةَ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى الأَشْعَرِيِّ، قَالَ سُئِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ أَشْيَاءَ كَرِهَهَا، فَلَمَّا أَكْثَرُوا عَلَيْهِ الْمَسْأَلَةَ غَضِبَ وَقَالَ ‏\"‏ سَلُونِي ‏\"‏‏.‏ فَقَامَ رَجُلٌ فَقَالَ يَا رَسُولَ اللَّهِ مَنْ أَبِي قَالَ ‏\"‏ أَبُوكَ حُذَافَةُ ‏\"‏‏.‏ ثُمَّ قَامَ آخَرُ فَقَالَ يَا رَسُولَ اللَّهِ مَنْ أَبِي فَقَالَ ‏\"‏ أَبُوكَ سَالِمٌ مَوْلَى شَيْبَةَ ‏\"‏‏.‏ فَلَمَّا رَأَى عُمَرُ مَا بِوَجْهِ رَسُولِ اللَّهِ صلى الله عليه وسلم مِنَ الْغَضَبِ قَالَ إِنَّا نَتُوبُ إِلَى اللَّهِ عَزَّ وَجَلَّ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6990,
+                "hadithNumber": "7292",
+                "englishNarrator": "Narrated Warrad:",
+                "hadithEnglish": "(The clerk of Al-Mughira) Muawiya wrote to Al-Mughira رضی اللہ عنہ  'Write to me what you have heard from Allah's Messenger (ﷺ).' So he (Al-Mughira) wrote to him: Allah's Prophet used to say at the end of each prayer: \"La ilaha illalla-h wahdahu la sharika lahu, lahul Mulku, wa lahul Hamdu wa hula ala kulli shai'in qadir. 'Allahumma la mani' a lima a'taita, wala mu'tiya lima mana'ta, wala yanfa'u dhuljadd minkal-jadd.\" He also wrote to him that the Prophet (ﷺ) used to forbid (1) Qil and Qal (idle useless talk or that you talk too much about others), (2) Asking too many questions (in disputed Religious matters); (3) And wasting one's wealth by extravagance; (4) and to be undutiful to one's mother (5) and to bury the daughters alive (6) and to prevent your favors (benevolence to others (i.e. not to pay the rights of others (7) And asking others for something (except when it is unavoidable).",
+                "hadithUrdu": "معاویہ رضی اللہ عنہ نے مغیرہ رضی اللہ عنہ کو لکھا کہ جو تم نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ہے وہ مجھے لکھئے تو انہوں نے انہیں لکھا کہ نبی کریم صلی اللہ علیہ وسلم ہر نماز کے بعد کہتے تھے ” تنہا اللہ کے سوا کوئی معبود نہیں ‘ اس کا کوئی شریک نہیں ‘ ملک اسی کا ہے اور تمام تعریف اسی کے لیے ہیں اور وہ ہر چیز پر قادر ہے ! اے اللہ جو تو عطا کرے اسے کوئی روکنے والا نہیں اور جسے تو روکے اسے کوئی دینے والا نہیں اور کسی نصیبہ تیرے مقابلہ میں اسے نفع نہیں پہنچا سکے گا اور انہیں یہ بھی لکھا کہ آنحضرت صلی اللہ علیہ وسلم بےفائدہ بہت سوال کرنے سے منع کرتے تھے اور مال ضائع کرنے سے اور آپ ماؤں کی نافرمانی کرنے سے منع کرتے تھے اور لڑکیوں کو زندہ درگور کرنے سے اور اپنا حق محفوظ رکھنے اور دوسروں کا حق روکںے سے بھی روکتے تھے ۔",
+                "urduNarrator": "ہم سے موسیٰ بن اسماعیل نے بیان کیا ‘ کہا ہم سے ابو عوانہ نے بیان کیا ‘ کہا ہم سے عبدالملک بن عمیر کوفی نے بیان کیا ‘ ان سے مغیرہ رضی اللہ عنہ کے کاتب وراد نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُوسَى، حَدَّثَنَا أَبُو عَوَانَةَ، حَدَّثَنَا عَبْدُ الْمَلِكِ، عَنْ وَرَّادٍ، كَاتِبِ الْمُغِيرَةِ قَالَ كَتَبَ مُعَاوِيَةُ إِلَى الْمُغِيرَةِ اكْتُبْ إِلَىَّ مَا سَمِعْتَ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم‏.‏ فَكَتَبَ إِلَيْهِ إِنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم كَانَ يَقُولُ فِي دُبُرِ كُلِّ صَلاَةٍ ‏ \"‏ لاَ إِلَهَ إِلاَّ اللَّهُ، وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهْوَ عَلَى كُلِّ شَىْءٍ قَدِيرٌ، اللَّهُمَّ لاَ مَانِعَ لِمَا أَعْطَيْتَ، وَلاَ مُعْطِيَ لِمَا مَنَعْتَ، وَلاَ يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ ‏\"‏‏.‏ وَكَتَبَ إِلَيْهِ إِنَّهُ كَانَ يَنْهَى عَنْ قِيلَ وَقَالَ، وَكَثْرَةِ السُّؤَالِ، وَإِضَاعَةِ الْمَالِ، وَكَانَ يَنْهَى عَنْ عُقُوقِ الأُمَّهَاتِ وَوَأْدِ الْبَنَاتِ وَمَنْعٍ وَهَاتِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6991,
+                "hadithNumber": "7293",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "We were with `Umar رضی اللہ عنہ and he said, \"We have been forbidden to undertake a difficult task beyond our capability (i.e. to exceed the religious limits e.g., to clean the inside of the eyes while doing ablution).",
+                "hadithUrdu": "ہم عمر رضی اللہ عنہ کے پاس تھے تو آپ نے فرمایا کہ ہمیں تکلف اختیار کرنے سے منع کیا گیا ہے  (یعنی حد سے تجاوز کرنا، مثلاً وضو کرتے ہوئے آنکھوں کا اندرونی حصہ صاف کرنا)۔ ۔",
+                "urduNarrator": "ہم سے سلیمان بن حرب نے بیان کیا ‘ کہا ہم سے حماد بن زید نے بیان کیا ‘ ان سے ثابت نے اور ان سے انس رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، قَالَ كُنَّا عِنْدَ عُمَرَ فَقَالَ نُهِينَا عَنِ التَّكَلُّفِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6992,
+                "hadithNumber": "7294",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) came out after the sun had declined and offered the Zuhr prayer (in congregation). After finishing it with Taslim, he stood on the pulpit and mentioned the Hour and mentioned there would happen great events before it. Then he said, \"Whoever wants to ask me any question, may do so, for by Allah, you will not ask me about anything but I will inform you of its answer as long as I am at this place of mine.\" On this, the Ansar wept violently, and Allah's Messenger (ﷺ) kept on saying, \"Ask Me! \" Then a man got up and asked, ''Where will my entrance be, O Allah's Messenger (ﷺ)?\" The Prophet (ﷺ) said, \"(You will go to) the Fire.\" Then `Abdullah bin Hudhaifa got up and asked, \"Who is my father, O Allah's Messenger (ﷺ)?\" The Prophet (ﷺ) replied, \"Your father is Hudhaifa رضی اللہ عنہ .\" The Prophet (ﷺ) then kept on saying (angrily), \"Ask me! Ask me!\" `Umar رضی اللہ عنہ then knelt on his knees and said, \"We have accepted Allah as our Lord and Islam as our religion and Muhammad as an Apostle.\" Allah's Messenger (ﷺ) became quiet when `Umar رضی اللہ عنہ said that. Then Allah's Messenger (ﷺ) said, \"By Him in Whose Hand my life is, Paradise and Hell were displayed before me across this wall while I was praying, and I never saw such good and evil as I have seen today.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم سورج ڈھلنے کے بعد باہر تشریف لائے اور ظہر کی نماز پڑھی ‘ پھر سلام پھیرنے کے بعد آپ منبر پر کھڑے ہوئے اور قیامت کا ذکر کیا اور آپ صلی اللہ علیہ وسلم نے ذکر کیا کہ اس سے پہلے بڑے بڑے واقعات ہوں گے اور آپ صلی اللہ علیہ وسلم نے فرمایا کہ تم میں سے جو شخص کسی چیز کے متعلق سوال کرنا چاہے تو سوال کرے ۔ آج مجھ سے جو سوال بھی کرو گے میں اس کا جواب دوں گا جب تک میں اپنی جگہ سے پر ہوں ۔ انس رضی اللہ عنہ نے بیان کیا کہ اس پر لوگ بہت زیادہ رونے لگے اور آنحضرت صلی اللہ علیہ وسلم باربار وہی فرماتے تھے کہ مجھ سے پوچھو ۔ انہوں نے بیان کیا کہ پھر ایک صحابی کھڑا ہوا اور پوچھا ‘ میری جگہ کہاں ہے ۔ ( جنت یا جہنم میں ) یا رسول اللہ ! آنحضرت صلی اللہ علیہ وسلم نے بیان کیا کہ جہنم میں ۔ پھر عبداللہ بن حذافہ رضی اللہ عنہ کھڑے ہوئے اور کہا میرے والد کون ہیں یا رسول اللہ ؟ فرمایا کہ تمہارے والد حذافہ ہیں ۔ بیان کیا کہ پھر آپ مسلسل کہتے رہے کہ مجھ سے پوچھو ‘ مجھ سے پوچھو ‘ آخر میں عمر رضی اللہ عنہ نے اپنے گھٹنوں کے بل بیٹھ کر کہا ‘ ہم اللہ سے رب کی حیثیت سے ‘ اسلام سے دین کی حیثیت سے ‘ محمد صلی اللہ علیہ وسلم سے رسول کی حیثیت سے راضی و خوش ہیں ۔ عمر رضی اللہ عنہ نے یہ کلمات کہے تو آنحضرت صلی اللہ علیہ وسلم خاموش ہو گئے ‘ پھر آپ نے فرمایا اس ذات کی قسم جس کی ہاتھ میں میری جان ہے ‘ ابھی مجھ پر جنت اور دوزخ اس دیوار کی چوڑائی میں میرے سامنے کی گئی تھی ( یعنی ان کی تصویریں ) جب میں نماز پڑھ رہا تھا ‘ آج کی طرح میں نے خیرو شر کو نہیں دیکھا ۔",
+                "urduNarrator": "ہم سے ابو الیمان نے بیان کیا ‘ انہوں نے کہا ہم سے شعیب نے خبر دی ‘ انہیں زہری نے ( دوسری سند ) امام بخاری رحمہ اللہ نے کہا اور مجھ سے محمود نے بیان کیا ‘ انہوں نے کہا ہم سے عبدالرزاق نے بیان کیا ‘ انہوں نے کہا ہم کو معمر نے خبر دی ‘ انہیں زہری نے ‘ انہوں نے کہا مجھ کو انس بن مالک رضی اللہ عنہ نے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ،‏.‏ وَحَدَّثَنِي مَحْمُودٌ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، أَخْبَرَنِي أَنَسُ بْنُ مَالِكٍ ـ رضى الله عنه‏.‏ أَنَّ النَّبِيَّ صلى الله عليه وسلم خَرَجَ حِينَ زَاغَتِ الشَّمْسُ فَصَلَّى الظُّهْرَ فَلَمَّا سَلَّمَ قَامَ عَلَى الْمِنْبَرِ فَذَكَرَ السَّاعَةَ، وَذَكَرَ أَنَّ بَيْنَ يَدَيْهَا أُمُورًا عِظَامًا ثُمَّ قَالَ ‏\"‏ مَنْ أَحَبَّ أَنْ يَسْأَلَ عَنْ شَىْءٍ فَلْيَسْأَلْ عَنْهُ، فَوَاللَّهِ لاَ تَسْأَلُونِي عَنْ شَىْءٍ إِلاَّ أَخْبَرْتُكُمْ بِهِ، مَا دُمْتُ فِي مَقَامِي هَذَا ‏\"‏‏.‏ قَالَ أَنَسٌ فَأَكْثَرَ النَّاسُ الْبُكَاءَ، وَأَكْثَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يَقُولَ ‏\"‏ سَلُونِي ‏\"‏‏.‏ فَقَالَ أَنَسٌ فَقَامَ إِلَيْهِ رَجُلٌ فَقَالَ أَيْنَ مَدْخَلِي يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ النَّارُ ‏\"‏‏.‏ فَقَامَ عَبْدُ اللَّهِ بْنُ حُذَافَةَ فَقَالَ مَنْ أَبِي يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ أَبُوكَ حُذَافَةُ ‏\"‏‏.‏ قَالَ ثُمَّ أَكْثَرَ أَنْ يَقُولَ ‏\"‏ سَلُونِي سَلُونِي ‏\"‏‏.‏ فَبَرَكَ عُمَرُ عَلَى رُكْبَتَيْهِ فَقَالَ رَضِينَا بِاللَّهِ رَبًّا، وَبِالإِسْلاَمِ دِينًا، وَبِمُحَمَّدٍ صلى الله عليه وسلم رَسُولاً‏.‏ قَالَ فَسَكَتَ رَسُولُ اللَّهِ صلى الله عليه وسلم حِينَ قَالَ عُمَرُ ذَلِكَ، ثُمَّ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ وَالَّذِي نَفْسِي بِيَدِهِ لَقَدْ عُرِضَتْ عَلَىَّ الْجَنَّةُ وَالنَّارُ آنِفًا فِي عُرْضِ هَذَا الْحَائِطِ وَأَنَا أُصَلِّي، فَلَمْ أَرَ كَالْيَوْمِ فِي الْخَيْرِ وَالشَّرِّ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6993,
+                "hadithNumber": "7295",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "A man said, \"O Allah's Prophet! Who is my father?\" The Prophet (ﷺ) said, \"Your father is so-and-so.\" And then the Divine Verse:-- 'O you who believe! Ask not questions about things..(5.101)",
+                "hadithUrdu": "ایک صاحب نے کہا یا نبی اللہ ! میرے والد کون ہیں ؟ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ ” تمہارے والد فلاں ہیں “ ۔ اور یہ آیت نازل ہوئی ” اے لوگو ! ایسی چیزیں نہ پوچھو “ الآیہ ۔",
+                "urduNarrator": "ہم سے محمد بن عبد الرحیم نے بیان کیا ‘ کہا ہم کو روح بن عبادہ نے خبر دی ‘ کہا ہم سے شعبہ نے بیان کیا ‘ کہا مجھ کو موسیٰ بن انس نے خبر دی کہ میں نے انس بن مالک رضی اللہ عنہ سے سنا ‘ انہوں نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحِيمِ، أَخْبَرَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا شُعْبَةُ، أَخْبَرَنِي مُوسَى بْنُ أَنَسٍ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، قَالَ قَالَ رَجُلٌ يَا نَبِيَّ اللَّهِ مَنْ أَبِي قَالَ ‏\"‏ أَبُوكَ فُلاَنٌ ‏\"‏‏.‏ وَنَزَلَتْ ‏{‏يَا أَيُّهَا الَّذِينَ آمَنُوا لاَ تَسْأَلُوا عَنْ أَشْيَاءَ‏}‏ الآيَةَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6994,
+                "hadithNumber": "7296",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"People will not stop asking questions till they say, 'This is Allah, the Creator of everything, then who created Allah?' \"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا انسان برابر سوال کرتا رہے گا ۔ یہاں تک کہ سوال کرے گا کہ یہ تو اللہ ہے ‘ ہر چیز کا پیدا کرنے والا لیکن اللہ کو کس نے پیدا کیا ۔",
+                "urduNarrator": "ہم سے حسن بن صباح نے بیان کیا ‘انہوں نے کہا ہم سے شبابہ نے بیان کیا ‘ انہوں نے کہا ہم سے ورقاء نے بیان کیا ان سے عبداللہ بن عبدالرحمٰن نے بیان کیا ‘ انہوں نے انس بن مالک رضی اللہ عنہ سے سنا کہ",
+                "hadithArabic": "حَدَّثَنَا الْحَسَنُ بْنُ صَبَّاحٍ، حَدَّثَنَا شَبَابَةُ، حَدَّثَنَا وَرْقَاءُ، عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ، سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لَنْ يَبْرَحَ النَّاسُ يَتَسَاءَلُونَ حَتَّى يَقُولُوا هَذَا اللَّهُ خَالِقُ كُلِّ شَىْءٍ فَمَنْ خَلَقَ اللَّهَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6995,
+                "hadithNumber": "7297",
+                "englishNarrator": "Narrated Ibn Masud رضی اللہ عنہ :",
+                "hadithEnglish": "I was with the Prophet (ﷺ) at one of the farms of Medina while he was leaning on a date palm leaf-stalk. He passed by a group of Jews and some of them said to the other, Ask him (the Prophet) about the spirit. Some others said, \"Do not ask him, lest he should tell you what you dislike\" But they went up to him and said, \"O Abal Qasim! Inform us bout the spirit.\" The Prophet (ﷺ) stood up for a while, waiting. I realized that he was being Divinely Inspired, so I kept away from him till the inspiration was over. Then the Prophet (ﷺ) said, \"(O Muhammad) they ask you regarding the spirit, Say: The spirit its knowledge is with my Lord (i.e., nobody has its knowledge except Allah)\" (17.85)",
+                "hadithUrdu": "میں نے نبی کریم صلی اللہ علیہ وسلم کے ساتھ مدینہ کے ایک کھیت میں تھا ۔ آنحضرت صلی اللہ علیہ وسلم کھجور کی ایک شاخ پر ٹیک لگائے ہوئے تھے کہ یہودی ادھر سے گزرے تو ان میں سے بعض نے کہا کہ ان سے روح کے بارے میں پوچھو ۔ لیکن دوسروں نے کہا کہ ان سے نہ پوچھو ۔ کہیں ایسی بات نہ سنا دیں جو تمہیں ناپسند ہے ۔ آخر آپ کے پاس وہ لوگ آئے اور کہا ‘ ابوالقاسم ! روح کے بارے میں ہمیں بتائیے ؟ پھر آنحضرت صلی اللہ علیہ وسلم تھوڑی دیر کھڑے دیکھتے رہے میں سمجھ گیا کہ آپ پر وحی نازل ہو رہی ہے ۔ میں تھوڑی دور ہٹ گیا ‘ یہاں تک کہ وحی کا نزول پورا ہو گیا ‘ پھر آپ نے یہ آیت پڑھی ” اور آپ روح کے بارے میں پوچھتے ہیں ۔ کہئے کہ روح میرے رب کے حکم میں سے ہے ۔ “",
+                "urduNarrator": "ہم سے محمد بن عبید بن میمون نے بیان کیا ‘ کہا ہم سے عیسیٰ بن یونس نے بیان کیا ‘ ان سے اعمش نے ‘ ان سے ابراہیم نے ‘ ان سے علقمہ نے ‘ ان سے ابن مسعود رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدِ بْنِ مَيْمُونٍ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنِ ابْنِ مَسْعُودٍ ـ رضى الله عنه ـ قَالَ كُنْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم فِي حَرْثٍ بِالْمَدِينَةِ، وَهْوَ يَتَوَكَّأُ عَلَى عَسِيبٍ، فَمَرَّ بِنَفَرٍ مِنَ الْيَهُودِ فَقَالَ بَعْضُهُمْ سَلُوهُ عَنِ الرُّوحِ‏.‏ وَقَالَ بَعْضُهُمْ لاَ تَسْأَلُوهُ لاَ يُسْمِعْكُمْ مَا تَكْرَهُونَ‏.‏ فَقَامُوا إِلَيْهِ فَقَالُوا يَا أَبَا الْقَاسِمِ حَدِّثْنَا عَنِ الرُّوحِ‏.‏ فَقَامَ سَاعَةً يَنْظُرُ فَعَرَفْتُ أَنَّهُ يُوحَى إِلَيْهِ، فَتَأَخَّرْتُ عَنْهُ حَتَّى صَعِدَ الْوَحْىُ، ثُمَّ قَالَ ‏{‏وَيَسْأَلُونَكَ عَنِ الرُّوحِ قُلِ الرُّوحُ مِنْ أَمْرِ رَبِّي‏}‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6996,
+                "hadithNumber": "7298",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) wore a gold ring and then the people followed him and wore gold rings too. Then the Prophet said, \"I had this golden ring made for myself. He then threw it away and said, \"I shall never put it on.\" Thereupon the people also threw their rings away.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے سونے کی ایک انگوٹھی بنوائی تو دوسرے لوگوں نے بھی سونے کی انگوٹھیاں بنوالیں‘پھر آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ میں نے سونے کی ایک انگوٹھی بنوائی تھی ‘ پھر آپ صلی اللہ علیہ وسلم نے پھینک دی اور فرمایا کہ میں اسے کبھی نہیں پہنوں گا اور لوگوں نے بھی اپنی انگوٹھیاں پھینک دیں ۔",
+                "urduNarrator": "ہم سے ابونعیم نے بیان کیا ‘ کہا ہم سے سفیان نے بیان کیا ‘ ان سے عبداللہ بن دینار نے اور ان سے عبداللہ بن عمر رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ اتَّخَذَ النَّبِيُّ صلى الله عليه وسلم خَاتَمًا مِنْ ذَهَبٍ فَاتَّخَذَ النَّاسُ خَوَاتِيمَ مِنْ ذَهَبٍ، فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ إِنِّي اتَّخَذْتُ خَاتَمًا مِنْ ذَهَبٍ ‏\"‏‏.‏ فَنَبَذَهُ وَقَالَ ‏\"‏ إِنِّي لَنْ أَلْبَسَهُ أَبَدًا ‏\"‏ فَنَبَذَ النَّاسُ خَوَاتِيمَهُمْ‏.‏",
+                "headingArabic": "الاِقْتِدَاءِ بِأَفْعَالِ النَّبِيِّ صلى الله عليه وسلم",
+                "headingUrdu": "رسول اللہ صلی اللہ علیہ وسلم کے اعمال پر عمل کرنا",
+                "headingEnglish": "To follow the actions of the Prophet (saws)",
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6997,
+                "hadithNumber": "7299",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said (to his companions), \"Do not fast Al-Wisal.\" They said, \"But you fast Al-Wisail.\" He said, \"I am not like you, for at night my Lord feeds me and makes me drink.\" But the people did not give up Al-Wisal, so the Prophet (ﷺ) fasted Al-Wisal with them for two days or two nights, and then they saw the crescent whereupon the Prophet (ﷺ) said, \"If the crescent had delayed, I would have continued fasting (because of you),\" as if he wanted to vanquish them completely (because they had refused to give up Al Wisal).",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا ‘ تم صوم وصال ( افطار وسحر کے بغیر کئی دن کے روزے ) نہ رکھا کرو ۔ صحابہ نے کہا کہ آنحضرت صلی اللہ علیہ وسلم تو صوم وصال رکھتے ہیں ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ میں تم جیسا نہیں ہوں ۔ میں رات گزارتا ہوں اورمیرا رب مجھے کھلاتا پلاتا ہے لیکن لوگ صوم وصال سے نہیں رکے ۔ بیان کیا کہ پھر آنحضرت صلی اللہ علیہ وسلم نے ان کے ساتھ دو دن یا دو راتوں میں صوم وصال کیا ‘ پھر لوگوں نے چاند دیکھ لیا تو آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ اگر چاند نہ نظر آتا تو میں اور وصال کرتا ۔ آنحضرت صلی اللہ علیہ وسلم کا مقصد انہیں سرزنش کرنا تھا ۔",
+                "urduNarrator": "ہم سے عبداللہ بن محمد نے بیان کیا ‘ کہا ہم سے ہشام نے ‘ کہا ہم کو معمر نے خبر دی ‘ انہیں زہری نے ‘ انہیں ابوسلمہ نے اور ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا هِشَامٌ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ لاَ تُوَاصِلُوا ‏\"‏‏.‏ قَالُوا إِنَّكَ تُوَاصِلُ‏.‏ قَالَ ‏\"‏ إِنِّي لَسْتُ مِثْلَكُمْ، إِنِّي أَبِيتُ يُطْعِمُنِي رَبِّي وَيَسْقِينِي ‏\"‏‏.‏ فَلَمْ يَنْتَهُوا عَنِ الْوِصَالِ ـ قَالَ ـ فَوَاصَلَ بِهِمُ النَّبِيُّ صلى الله عليه وسلم يَوْمَيْنِ أَوْ لَيْلَتَيْنِ، ثُمَّ رَأَوُا الْهِلاَلَ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ لَوْ تَأَخَّرَ الْهِلاَلُ لَزِدْتُكُمْ ‏\"‏‏.‏ كَالْمُنَكِّلِ لَهُمْ‏.‏",
+                "headingArabic": "مَا يُكْرَهُ مِنَ التَّعَمُّقِ وَالتَّنَازُعِ فِي الْعِلْمِ وَالْغُلُوِّ فِي الدِّينِ وَالْبِدَعِ",
+                "headingUrdu": "علم کے بارے میں گہرائی میں جانا اور بحث کرنا، اور دین میں غلو کرنا، اور بدعتیں ایجاد کرنا",
+                "headingEnglish": "Going deeply into and arguing about knowledge, and exaggerating in religion, and inventing heresies",
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6998,
+                "hadithNumber": "7300",
+                "englishNarrator": "Narrated Ibrahim At Taimi's father:",
+                "hadithEnglish": "`Ali رضی اللہ عنہ addressed us while he was standing on a brick pulpit and carrying a sword from which was hanging a scroll He said \"By Allah, we have no book to read except Allah's Book and whatever is on this scroll,\" And then he unrolled it, and behold, in it was written what sort of camels were to be given as blood money, and there was also written in it: 'Medina is a sanctuary form 'Air (mountain) to such and such place so whoever innovates in it an heresy or commits a sin therein, he will incur the curse of Allah, the angels, and all the people and Allah will not accept his compulsory or optional good deeds.' There was also written in it: 'The asylum (pledge of protection) granted by any Muslims is one and the same, (even a Muslim of the lowest status is to be secured and respected by all the other Muslims, and whoever betrays a Muslim in this respect (by violating the pledge) will incur the curse of Allah, the angels, and all the people, and Allah will not accept his compulsory or optional good deeds.' There was also written in it: 'Whoever (freed slave) befriends (takes as masters) other than his real masters (manumitters) without their permission will incur the curse of Allah, the angels, and all the people, and Allah will not accept his compulsory or optional good deeds. ' (See Hadith No. 94, Vol. 3)",
+                "hadithUrdu": "علی رضی اللہ عنہ نے ہمیں اینٹ کے بنے ہوئے منبر کر کھڑا ہو کر خطبہ دیا ۔ آپ تلوار لیے ہوئے تھے جس میں ایک صحیفہ لٹکا ہوا تھا ۔ آپ نے فرمایا واللہ ! ہمارے پاس کتاب اللہ کے سوا کوئی اور کتاب نہیں جسے پڑھا جائے اور سوا اس صحیفہ کے ۔ پھر انہوں نے اسے کھو لا تو اس میں دیت میں دئیے جانے والے اونٹوں کی عمروں کا بیان تھا ۔ ( کہ دیت میں اتنی اتنی عمر کے اونٹ دئیے جائیں ) اور اس میں یہ بھی تھا کہ مدینہ طیبہ کی زمین عیر پہاڑی سے ثور پہاڑی تک حرم ہے ۔ پس اس میں جو کوئی نئی بات ( بدعت ) نکالے گا اس پر اللہ کی لغت ہے اور فرشتوں کی اور تمام لوگوں کی ۔ اللہ اس سے کسی فرض یا نفل عبادت کو قبول کرے گا اور اس میں یہ بھی تھا کہ مسلمانوں کی ذمہ داری ( عہد یا امان ) ایک اس کے ذمہ دار ان میں سب سے ادنیٰ مسلمان بھی ہو سکتا ہے پس جس نے کسی مسلمان کا ذمہ توڑا ‘ اس پر اللہ کی لعنت ہے اور فرشتوں کی اور تمام لوگوں کی ۔ اللہ اس کی نہ فرض عبادت قبول کرے گا اور نہ نفل عبادت اور اس میں یہ بھی تھا کہ جس نے کسی سے اپنی والیوں کی اجازت کے بغیر ولاء کا رشتہ قائم کیا اس پر اور فرشتوں اور تمام انسانوں کی لعنت ہے ‘ اللہ نہ اس کی فرض نماز قبول کرے گا نہ نفل ۔",
+                "urduNarrator": "ہم سے عمر بن حفص بن غیاث نے بیان کیا ‘ کہا ہم سے ہمارے والد نے ‘ کہا ہم سے اعمش نے بیان کیا ‘ کہا مجھ سے ابراہیم تیمی نے بیان کیا ‘کہا مجھ سے میرے والد نے بیان کیا ‘ کہا کہ",
+                "hadithArabic": "حَدَّثَنَا عُمَرُ بْنُ حَفْصِ بْنِ غِيَاثٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا الأَعْمَشُ، حَدَّثَنِي إِبْرَاهِيمُ التَّيْمِيُّ، حَدَّثَنِي أَبِي قَالَ، خَطَبَنَا عَلِيٌّ ـ رضى الله عنه ـ عَلَى مِنْبَرٍ مِنْ آجُرٍّ، وَعَلَيْهِ سَيْفٌ فِيهِ صَحِيفَةٌ مُعَلَّقَةٌ فَقَالَ وَاللَّهِ مَا عِنْدَنَا مِنْ كِتَابٍ يُقْرَأُ إِلاَّ كِتَابُ اللَّهِ وَمَا فِي هَذِهِ الصَّحِيفَةِ‏.‏ فَنَشَرَهَا فَإِذَا فِيهَا أَسْنَانُ الإِبِلِ وَإِذَا فِيهَا ‏\"‏ الْمَدِينَةُ حَرَمٌ مِنْ عَيْرٍ إِلَى كَذَا، فَمَنْ أَحْدَثَ فِيهَا حَدَثًا فَعَلَيْهِ لَعْنَةُ اللَّهِ وَالْمَلاَئِكَةِ وَالنَّاسِ أَجْمَعِينَ، لاَ يَقْبَلُ اللَّهُ مِنْهُ صَرْفًا وَلاَ عَدْلاً ‏\"‏‏.‏ وَإِذَا فِيهِ ‏\"‏ ذِمَّةُ الْمُسْلِمِينَ وَاحِدَةٌ يَسْعَى بِهَا أَدْنَاهُمْ، فَمَنْ أَخْفَرَ مُسْلِمًا فَعَلَيْهِ لَعْنَةُ اللَّهِ وَالْمَلاَئِكَةِ وَالنَّاسِ أَجْمَعِينَ، لاَ يَقْبَلُ اللَّهُ مِنْهُ صَرْفًا وَلاَ عَدْلاً ‏\"‏‏.‏ وَإِذَا فِيهَا ‏\"‏ مَنْ وَالَى قَوْمًا بِغَيْرِ إِذْنِ مَوَالِيهِ فَعَلَيْهِ لَعْنَةُ اللَّهِ وَالْمَلاَئِكَةِ وَالنَّاسِ أَجْمَعِينَ لاَ يَقْبَلُ اللَّهُ مِنْهُ صَرْفًا وَلاَ عَدْلاً ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6999,
+                "hadithNumber": "7301",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "The Prophet (ﷺ) did something as it was allowed from the religious point of view but some people refrained from it. When the Prophet (ﷺ) heard of that, he, after glorifying and praising Allah, said, \"Why do some people refrain from doing something which I do? By Allah, I know Allah more than they.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے کوئی کام کیا جس سے بعض لوگوں نے پرہیز کرنا اختیار کیا ۔ جب آنحضرت صلی اللہ علیہ وسلم کو اس کی خبر پہنچی تو آپ صلی اللہ علیہ وسلم نے فرمایا کہ ان لوگوں کا کیا حال ہو گا جو ایسی چیز سے پرہیز کرتے ہیں جو میں کرتا ہوں ۔ واللہ میں ان سے زیادہ اللہ کے متعلق علم رکھتا ہوں اور ان سے زیادہ خشیت رکھتا ہوں ۔",
+                "urduNarrator": "ہم سے عمر بن حفص نے بیان کیا ، کہا مجھ سے میرے والد نے بیان کیا ، کہا ہم سے اعمش نے بیان کیا ، ان سے مسلم نے ، ان سے مسروق نے ، ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عُمَرُ بْنُ حَفْصٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا الأَعْمَشُ، حَدَّثَنَا مُسْلِمٌ، عَنْ مَسْرُوقٍ، قَالَ قَالَتْ عَائِشَةُ ـ رَضِيَ الله عنها ـ صَنَعَ النَّبِيُّ صلى الله عليه وسلم شَيْئًا تَرَخَّصَ وَتَنَزَّهَ عَنْهُ قَوْمٌ، فَبَلَغَ ذَلِكَ النَّبِيَّ صلى الله عليه وسلم فَحَمِدَ اللَّهَ ثُمَّ قَالَ ‏ \"‏ مَا بَالُ أَقْوَامٍ يَتَنَزَّهُونَ عَنِ الشَّىْءِ أَصْنَعُهُ، فَوَاللَّهِ إِنِّي أَعْلَمُهُمْ بِاللَّهِ، وَأَشَدُّهُمْ لَهُ خَشْيَةً ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7000,
+                "hadithNumber": "7302",
+                "englishNarrator": "Narrated Ibn Abi Mulaika:",
+                "hadithEnglish": "Once the two righteous men, i.e., Abu Bakr and `Umar رضی اللہ عنہما were on the verge of destruction (and that was because): When the delegate of Bani Tamim came to the Prophet, one of them (either Abu Bakr or `Umar رضی اللہ عنہما) recommended Al-Aqra' bin H`Abis at-Tamimi Al-Hanzali, the brother of Bani Majashi (to be appointed as their chief), while the other recommended somebody else. Abu Bakr  رضی اللہ عنہ said to `Umar رضی اللہ عنہ , \"You intended only to oppose me.\" `Umar رضی اللہ عنہ said, \"I did not intend to oppose you!\" Then their voices grew louder in front of the Prophet (ﷺ) whereupon there was revealed: 'O you who believe! Do not raise your voices above the voice of the Prophet..a great reward.' (49.2-3) Ibn Az-Zubair رضی اللہ عنہا said, 'Thence forward when `Umar رضی اللہ عنہ talked to the Prophet, he would talk like one who whispered a secret and would even fail to make the Prophet (ﷺ) hear him, in which case the Prophet (ﷺ) would ask him (to repeat his words).",
+                "hadithUrdu": "امت کے دوبہترین انسان قریب تھا کہ ہلاک ہو جاتے ( یعنی ابوبکر وعمر رضی اللہ عنہما ) جس وقت نبی کریم صلی اللہ علیہ وسلم کے پاس بنی تمیم کا وفد آیا تو ان میں سے ایک صاحب ( عمر رضی اللہ عنہ ) نے بنی مجاشع میں سے اقرع بن حابس حنظلی رضی اللہ عنہ کو ان کا سردار بنائے جانے کا مشورہ دیا ( تو انہوں نے یہ درخواست کی کہ کسی کو ہمارا سردار بنا دیجئیے ) اور دوسرے صاحب ( ابوبکر رضی اللہ عنہ ) نے دوسرے ( قعقاع بن سعید بن زرارہ ) کو بنائے جانے کا مشورہ دیا ۔ اس پر ابوبکرنے عمر سے کہا کہ آپ کا مقصد صرف میری مخالفت کرنا ہے ۔ عمر رضی اللہ عنہ نے کہا کہ میری نیت آپ کی مخالفت کرنا نہیں ہے اور نبی کریم صلی اللہ علیہ وسلم کی موجودگی میں دونوں بزرگوں کی آوازبلند ہو گئی ۔ چنانچہ یہ آیت نازل ہوئی ” اے لوگوں ! جو ایمان لے آئے ہو اپنی آواز کو بلند نہ کرو “ ارشاد خداوندی ” عظیم “ تک ابن ابی ملکیہ نے بیان کیا کہ ابن زبیر رضی اللہ عنہا کہتے تھے کہ عمر رضی اللہ نے اس آیت کے اترنے کے بعد یہ طریقہ اختیار کیا اور ابن زبیر نے ابوبکر رضی اللہ عنہ اپنے ناناکا ذکر کیا وہ جب آنحضرت صلی اللہ علیہ وسلم سے کچھ عرض کرتے تو اتنی آہستگی سے جیسے کوئی کان میں بات کرتا ہے حتیٰ کہ آنحضرت صلی اللہ علیہ وسلم کو بات سنائی نہ دیتی تو آپ دوبارہ پوچھتے کیا کہا ۔",
+                "urduNarrator": "ہم سے محمد بن مقاتل ابوالحسن مروزی نے بیان کیا ، کہا ہم کو وکیع نے خبر نے دی ، انہیں نافع بن عمر نے ، ان سے ابن ابی ملکیہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مُقَاتِلٍ، أَخْبَرَنَا وَكِيعٌ، عَنْ نَافِعِ بْنِ عُمَرَ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، قَالَ كَادَ الْخَيِّرَانِ أَنْ يَهْلِكَا أَبُو بَكْرٍ، وَعُمَرُ، لَمَّا قَدِمَ عَلَى النَّبِيِّ صلى الله عليه وسلم وَفْدُ بَنِي تَمِيمٍ، أَشَارَ أَحَدُهُمَا بِالأَقْرَعِ بْنِ حَابِسٍ الْحَنْظَلِيِّ أَخِي بَنِي مُجَاشِعٍ، وَأَشَارَ الآخَرُ بِغَيْرِهِ، فَقَالَ أَبُو بَكْرٍ لِعُمَرَ إِنَّمَا أَرَدْتَ خِلاَفِي‏.‏ فَقَالَ عُمَرُ مَا أَرَدْتُ خِلاَفَكَ‏.‏ فَارْتَفَعَتْ أَصْوَاتُهُمَا عِنْدَ النَّبِيِّ صلى الله عليه وسلم فَنَزَلَتْ ‏{‏يَا أَيُّهَا الَّذِينَ آمَنُوا لاَ تَرْفَعُوا أَصْوَاتَكُمْ‏}‏ إِلَى قَوْلِهِ ‏{‏عَظِيمٌ‏}‏‏.‏ قَالَ ابْنُ أَبِي مُلَيْكَةَ قَالَ ابْنُ الزُّبَيْرِ فَكَانَ عُمَرُ بَعْدُ ـ وَلَمْ يَذْكُرْ ذَلِكَ عَنْ أَبِيهِ يَعْنِي أَبَا بَكْرٍ ـ إِذَا حَدَّثَ النَّبِيَّ صلى الله عليه وسلم بِحَدِيثٍ حَدَّثَهُ كَأَخِي السِّرَارِ، لَمْ يُسْمِعْهُ حَتَّى يَسْتَفْهِمَهُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7001,
+                "hadithNumber": "7303",
+                "englishNarrator": "Narrated `Aisha (the mother of believers) رضی اللہ عنہا :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) during his fatal ailment said, \"Order Abu Bakr رضی اللہ عنہ to lead the people in prayer.\" I said, \"If Abu Bakr رضی اللہ عنہ stood at your place (in prayers, the people will not be able to hear him because of his weeping, so order `Umar رضی اللہ عنہ to lead the people in prayer.\" He again said, \"Order Abu Bakr رضی اللہ عنہ to lead the people in prayer \" Then I said to Hafsa رضی اللہ عنہا, \"Will you say (to the Prophet), 'If Abu Bakr رضی اللہ عنہ stood at your place, the people will not be able to hear him be cause of his weeping, so order `Umar   رضی اللہ عنہ to lead the people in prayer?\" Hafsa رضی اللہ عنہا did so, whereupon Allah's Messenger (ﷺ) said, \"You are like the companions of Joseph (See Qur'an, 12:30-32). Order Abu Bakr رضی اللہ عنہ to lead the people in prayer.\" Hafsa رضی اللہ عنہا then said to me, \"I have never received any good from you!\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے اپنی بیماری میں فرمایا ابوبکر سے کہو کہ لوگوں کو نماز پڑھائیں حضرت عائشہ نے کہا کہ میں نے جواباً عرض کیا کہ ابوبکر رضی اللہ عنہ اگر آپ صلی اللہ علیہ وسلم کی جگہ کھڑے ہوں گے تو رونے کی شدت کی وجہ سے اپنی آواز لوگوں کو نہیں سنا سکیں گے اس لئے آپ صلی اللہ علیہ وسلم عمر رضی اللہ عنہ کو حکم دیجئیے ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا ابوبکر سے کہو کہ لوگوں کو نماز پڑھائیں ۔ عائشہ رضی اللہ عنہا نے بیان کیا کہ میں نے حفصہ رضی اللہ عنہا سے کہا کہ تم کہو کہ ابوبکر رضی اللہ عنہ آپ کی جگہ کھڑے ہوں گے تو شدت بکاء کی وجہ سے لوگوں کو سنا نہیں سکیں گے ، اس لیے آپ صلی اللہ علیہ وسلم عمر رضی اللہ عنہ کو نماز پڑھانے کا حکم دیں ۔ حفصہ رضی اللہ عنہا نے ایسا ہی کیا ۔ اس پر آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ بلاشبہ تم یوسف پیغمبر کی ساتھ والیاں ہو ؟ ابوبکر سے کہو کہ لوگوں کو نماز پڑھائیں ۔ بعد میں حفصہ رضی اللہ عنہا نے عائشہ رضی اللہ عنہا سے کہا کہ میں نے تم سے کبھی کچھ بھلائی نہیں دیکھی ۔",
+                "urduNarrator": "ہم سے اسماعیل بن ابی اویس نے بیان کیا ، انہوں نے کہا مجھ سے امام مالک نے بیان کیا ، ان سے ہشام بن عروہ نے بیان کیا ، ان سے ان کے والد نے بیان کیا اور ان سے ام المؤمنین عائشہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنِي مَالِكٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ أُمِّ الْمُؤْمِنِينَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ فِي مَرَضِهِ ‏\"‏ مُرُوا أَبَا بَكْرٍ يُصَلِّي بِالنَّاسِ ‏\"‏‏.‏ قَالَتْ عَائِشَةُ قُلْتُ إِنَّ أَبَا بَكْرٍ إِذَا قَامَ فِي مَقَامِكَ لَمْ يُسْمِعِ النَّاسَ مِنَ الْبُكَاءِ، فَمُرْ عُمَرَ فَلْيُصَلِّ‏.‏ فَقَالَ ‏\"‏ مُرُوا أَبَا بَكْرٍ فَلْيُصَلِّ بِالنَّاسِ ‏\"‏‏.‏ فَقَالَتْ عَائِشَةُ فَقُلْتُ لِحَفْصَةَ قُولِي إِنَّ أَبَا بَكْرٍ إِذَا قَامَ فِي مَقَامِكَ لَمْ يُسْمِعِ النَّاسَ مِنَ الْبُكَاءِ، فَمُرْ عُمَرَ فَلْيُصَلِّ بِالنَّاسِ، فَفَعَلَتْ حَفْصَةُ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنَّكُنَّ لأَنْتُنَّ صَوَاحِبُ يُوسُفَ، مُرُوا أَبَا بَكْرٍ فَلْيُصَلِّ لِلنَّاسِ ‏\"‏‏.‏ قَالَتْ حَفْصَةُ لِعَائِشَةَ مَا كُنْتُ لأُصِيبَ مِنْكِ خَيْرًا‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7002,
+                "hadithNumber": "7304",
+                "englishNarrator": "Narrated Sahl bin Sa`d As-Sa`idi رضی اللہ عنہ :",
+                "hadithEnglish": "Uwaimir Al-`Ajlani came to `Asim bin `Adi and said, \"If a man found another man with his wife and killed him, would you sentence the husband to death (in Qisas,) i.e., equality in punishment)? O `Asim! Please ask Allah's Messenger (ﷺ) about this matter on my behalf.\" `Asim asked the Prophet (ﷺ) but the Prophet disliked the question and disapproved of it. `Asim رضی اللہ عنہ  returned and informed 'Uwaimir رضی اللہ عنہ that the Prophet disliked that type of question. 'Uwaimir رضی اللہ عنہ said, \"By Allah, I will go (personally) to the Prophet.\" 'Uwaimir رضی اللہ عنہ came to the Prophet (ﷺ) when Allah had already revealed Qur'anic Verses (in that respect), after `Asim  رضی اللہ عنہ had left (the Prophet (ﷺ) ). So the Prophet (ﷺ) said to 'Uwaimir, \"Allah has revealed Qur'anic Verses regarding you and your wife.\" The Prophet (ﷺ) then called for them, and they came and carried out the order of Lian. Then 'Uwaimir رضی اللہ عنہ said, \"O Allah's Messenger (ﷺ)! Now if I kept her with me, I would be accused of telling a lie.\" So 'Uwaimir رضی اللہ عنہ divorced her although the Prophet (ﷺ) did not order him to do so. Later on this practice of divorcing became the tradition of couples involved in a case of Li'an. The Prophet (ﷺ) said (to the people). \"Wait for her! If she delivers a red short (small) child like a Wahra (a short red animal). then I will be of the opinion that he ('Uwaimir رضی اللہ عنہ ) has told a lie but if she delivered a black big-eyed one with big buttocks, then I will be of the opinion that he has told the truth about her.\" 'Ultimately she gave birth to a child that proved the accusation. (See Hadith No. 269, Vol. 6)",
+                "hadithUrdu": "عویمر عجلانی عاصم بن عدی کے پاس آیا اور کہا اس شخص کے بارے میں آپ کا کیا خیال ہے جو اپنی بیوی کے ساتھ کسی دوسرے مرد کو پائے اور اسے قتل کر دے ، کیا آپ لوگ مقتول کے بدلہ میں اسے قتل کر دیں گے ؟ عاصم ! میرے لیے آپ رسول اللہ صلی اللہ علیہ وسلم سے اس کے متلعق پوچھ دیجئیے ۔ چنانچہ انہوں نے آنحضرت صلی اللہ علیہ وسلم سے پوچھا لیکن آپ نے اس طرح کے سوال کو ناپسند کیا اور معیوب جانا ۔ عاصم رضی اللہ عنہ نے واپس آ کر انہیں بتایا کہ آنحضرت صلی اللہ علیہ وسلم نے اس طرح کے سوال کو ناپسند کیا ہے ۔ اس پر عویمر رضی اللہ عنہ بولے کہ واللہ ! میں خود آنحضرت صلی اللہ علیہ وسلم کے پاس جاؤں گا خیر عویمر آپ کے پاس آئے اور عاصم کے لوٹ جانے کے بعد اللہ تعالیٰ نے قرآن مجید کی آیت آپ صلی اللہ علیہ وسلم پر نازل کی ۔ چنانچہ آنحضرت صلی اللہ علیہ وسلم نے ان سے کہا کہ تمہارے بارے میں اللہ تعالیٰ نے قرآن نازل کیا ہے ، پھر آپ نے دونوں ( میاں بیوی ) کو بلایا ۔ دونوں آگے بڑھے اور لعان کیا ۔ پھر عویمر نے کہا کہ یا رسول اللہ ! اگر میں اسے اب بھی اپنے پاس رکھتا ہوں تو اس کا مطلب یہ ہے کہ میں جھوٹا ہوں چنانچہ اس نے فوری اپنی بیوی کو جدا کر دیا ۔ آنحضرت صلی اللہ علیہ وسلم نے جدا کرنے کا حکم نہیں دیا تھا ۔ پھر لعان کرنے والوں میں یہی طریقہ رائج ہو گیا ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ دیکھتے رہو اس کا بچہ لال لال پست قد بامنی کی طرح کا پیدا ہو تو میں سمجھتا ہوں کہ وہ عویمر ہی کا بچہ ہے ۔ عویمر نے عورت پر جھوٹا طوفان باندھا اور اور اگر سانولے رنگ کا بڑی آنکھ والا بڑے بڑے چوتڑ والا پیدا ہو ، جب میں سمجھوں گا کہ عویمر سچا ہے پھر اس عورت کا بچہ اس مکروہ صورت کا یعنی جس مرد سے وہ بدنام ہوئی تھی ، اسی صورت کا پیدا ہوا ۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا ، کہا ہم سے ابن ابی ذئب نے کہا ، ہم سے زہری نے ، ان سے سہل بن سعد ساعدی رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، حَدَّثَنَا الزُّهْرِيُّ، عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ، قَالَ جَاءَ عُوَيْمِرٌ إِلَى عَاصِمِ بْنِ عَدِيٍّ فَقَالَ أَرَأَيْتَ رَجُلاً وَجَدَ مَعَ امْرَأَتِهِ رَجُلاً فَيَقْتُلُهُ، أَتَقْتُلُونَهُ بِهِ سَلْ لِي يَا عَاصِمُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَسَأَلَهُ فَكَرِهَ النَّبِيُّ صلى الله عليه وسلم الْمَسَائِلَ وَعَابَ، فَرَجَعَ عَاصِمٌ فَأَخْبَرَهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَرِهَ الْمَسَائِلَ فَقَالَ عُوَيْمِرٌ وَاللَّهِ لآتِيَنَّ النَّبِيَّ صلى الله عليه وسلم، فَجَاءَ وَقَدْ أَنْزَلَ اللَّهُ تَعَالَى الْقُرْآنَ خَلْفَ عَاصِمٍ فَقَالَ لَهُ ‏\"‏ قَدْ أَنْزَلَ اللَّهُ فِيكُمْ قُرْآنًا ‏\"‏‏.‏ فَدَعَا بِهِمَا فَتَقَدَّمَا فَتَلاَعَنَا، ثُمَّ قَالَ عُوَيْمِرٌ كَذَبْتُ عَلَيْهَا يَا رَسُولَ اللَّهِ، إِنْ أَمْسَكْتُهَا‏.‏ فَفَارَقَهَا وَلَمْ يَأْمُرْهُ النَّبِيُّ صلى الله عليه وسلم بِفِرَاقِهَا، فَجَرَتِ السُّنَّةُ فِي الْمُتَلاَعِنَيْنِ‏.‏ وَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ انْظُرُوهَا فَإِنْ جَاءَتْ بِهِ أَحْمَرَ قَصِيرًا مِثْلَ وَحَرَةٍ فَلاَ أُرَاهُ إِلاَّ قَدْ كَذَبَ، وَإِنْ جَاءَتْ بِهِ أَسْحَمَ أَعْيَنَ ذَا أَلْيَتَيْنِ فَلاَ أَحْسِبُ إِلاَّ قَدْ صَدَقَ عَلَيْهَا ‏\"‏‏.‏ فَجَاءَتْ بِهِ عَلَى الأَمْرِ الْمَكْرُوهِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7003,
+                "hadithNumber": "7305",
+                "englishNarrator": "Narrated Malik bin Aus An-Nasri:",
+                "hadithEnglish": "Muhammad bin Jubair bin Mutim had already narrated to me so I came  to Maalik (bin Aus) and asked him, he, whereupon, said: I proceeded till I entered upon `Umar رضی اللہ عنہ (and while I was sitting there), his gate-keeper Yarfa came to him and said, \" `Uthman, `Abdur-Rahman, Az-Zubair and Sa`d ask your permission to come in.\" `Umar رضی اللہ عنہ allowed them. So they entered, greeted, and sat down. (After a while the gatekeeper came) and said, \"Shall I admit `Ali and `Abbas رضی اللہ عنہ ?'' `Umar  رضی اللہ عنہ allowed them to enter. Al-`Abbas رضی اللہ عنہ said \"O Chief of the believers! Judge between me and the oppressor (`Ali).\" Then there was a dispute (regarding the property of Bani Nadir) between them (`Abbas and `Ali). `Uthman رضی اللہ عنہ and his companions said, \"O Chief of the Believers! Judge between them and relieve one from the other.\" `Umar رضی اللہ عنہ said, \"Be patient! beseech you by Allah, with Whose permission the Heaven and the Earth Exist! Do you know that Allah's Messenger (ﷺ) said, 'Our property is not to be inherited, and whatever we leave is to be given in charity,' and by this Allah's Messenger (ﷺ) meant himself?\" On that the group said, \"He verily said so.\" `Umar رضی اللہ عنہ then faced `Ali and `Abbas رضی اللہ عنہ and said, \"I beseech you both by Allah, do you both know that Allah's Messenger (ﷺ) said so?\" They both replied, \"Yes\". `Umar رضی اللہ عنہ then said, \"Now I am talking to you about this matter (in detail) . Allah favored Allah's Messenger (ﷺ) with some of this wealth which He did not give to anybody else, as Allah said: 'What Allah bestowed as Fai (Booty on His Apostle for which you made no expedition... ' (59.6) So that property was totally meant for Allah's Messenger (ﷺ), yet he did not collect it and ignore you, nor did he withhold it with your exclusion, but he gave it to you and distributed it among you till this much of it was left behind, and the Prophet, used to spend of this as the yearly expenditures of his family and then take what remained of it and spent it as he did with (other) Allah's wealth. The Prophet (ﷺ) did so during all his lifetime, and I beseech you by Allah, do you know that?\" They replied, \"Yes.\" `Umar رضی اللہ عنہ then addressed `Ali and `Abbas رضی اللہ عنہ , saying, \"I beseech you both by Allah, do you know that?\" Both of them replied, \"Yes.\" `Umar رضی اللہ عنہ added, \"Then Allah took His Apostle unto Him. Abu Bakr رضی اللہ عنہ then said 'I am the successor of Allah's Messenger (ﷺ)' and took over all the Prophet's property and disposed of it in the same way as Allah's Messenger (ﷺ) used to do, and you were present then.\" Then he turned to `Ali رضی اللہ عنہ and `Abbas and said, \"You both claim that Abu Bakr رضی اللہ عنہ did so-and-so in managing the property, but Allah knows that Abu Bakr رضی اللہ عنہ was honest, righteous, intelligent, and a follower of what is right in managing it. Then Allah took Abu Bakr رضی اللہ عنہ unto Him, 'I said: I am the successor of Allah's Messenger (ﷺ) and Abu Bakr رضی اللہ عنہ .' So I took over the property for two years and managed it in the same way as Allah's Messenger (ﷺ), and Abu Bakr رضی اللہ عنہ used to do. Then you both (`Ali and `Abbas رضی اللہ عنہ ) came to me and asked for the same thing! (O `Abbas! You came to me to ask me for your share from nephew's property; and this (`Ali رضی اللہ عنہ ) came to me asking for his wives share from her father's property, and I said to you both, 'If you wish, I will place it in your custody on condition that you both will manage it in the same way as Allah's Messenger (ﷺ) and Abu Bakr رضی اللہ عنہ did and as I have been doing since I took charge of managing it; otherwise, do not speak to me anymore about it.' Then you both said, 'Give it to us on that (condition).' So I gave it to you on that condition. Now I beseech you by Allah, did I not give it to them on that condition?\" The group (whom he had been addressing) replied, \"Yes.\" `Umar رضی اللہ عنہ then addressed `Abbas رضی اللہ عنہ and `Ali saying, \"I beseech you both by Allah, didn't I give you all that property on that condition?\" They said, \"Yes.\" `Umar رضی اللہ عنہ then said, \"Are you now seeking a verdict from me other than that? By Him with Whose Permission the Heaven and the Earth exists I will not give any verdict other than that till the Hour is established; and if you both are unable to manage this property, then you can hand it back to me, and I will be sufficient for it on your behalf.\" (See, Hadith No. 326, Vol. 4)",
+                "hadithUrdu": "محمد بن جبیر بن مطعم نے مجھ سے اس سلسلہ میں ذکر کیا تھا ، پھر میں مالک کے پاس گیا اور ان سے اس حدیث کے متعلق پوچھا ۔ انہوں نے بیان کیا کہ میں روانہ ہوا اور عمر رضی اللہ عنہ کی خدمت میں حاضر ہوا ۔ اتنے میں ان کے دربان یرفاء آئے اور کہا کہ عثمان ، عبدالرحمٰن ، زبیر اور سعد رضی اللہ عنہم اندر آنے کی اجازت چاہتے ہیں ، کیا انہیں اجازت دی جائے ؟ عمر رضی اللہ عنہ نے کہا کہ ہاں ۔ چنانچہ سب لوگ اندر آ گئے اور سلام کیا اور بیٹھ گئے ، پھر یرفاء نے آکرپوچھا کہ کیا علی اور عباس کو اجازت دی جائے ؟ ان حضرات کو بھی اندر بلایا ۔ عباس رضی اللہ عنہ نے کہا کہ امیرالمؤمنین ! میرے اور ظالم کے درمیان فیصلہ کر دیجئیے ۔ آپس میں دونوں نے سخت کلامی کی ۔ اس پر عثمان رضی اللہ عنہ اور ان کے ساتھیوں کی جماعت نے کہا کہ امیرالمؤمنین ! ان کے درمیان فیصلہ کردیئجے تاکہ دونوں کو آرام حاصل ہو ۔ عمر رضی اللہ عنہ نے کہا کہ صبر کرو میں تمہیں اللہ کی قسم دیتا ہوں جس کی اجازت سے آسمان و زمین قائم ہیں ۔ کیا آپ لوگوں کو معلوم ہے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا تھا کہ ہماری میراث تقسیم نہیں ہوتی ، ہم جو کچھ چھوڑیں وہ صدقہ ہے ۔ آنحضرت صلی اللہ علیہ وسلم نے اس سے خود اپنی ذات مراد لی تھی ۔ جماعت نے کہا کہ ہاں ۔ آنحضرت صلی اللہ علیہ وسلم نے یہ فرمایا تھا ، پھر آپ علی اور عباس کی طرف متوجہ ہوئے اور کہا کہ میں آپ لوگوں کو اللہ کی قسم دیتا ہوں ۔ کیا آپ لوگوں کو معلوم ہے کہ آنحضرت صلی اللہ علیہ وسلم نے یہ فرمایا ؟ انہوں نے بھی کہا کہ ہاں ۔ عمر رضی اللہ عنہ نے اس کے بعد کہا کہ پھر میں آپ لوگوں سے اس بارے میں گفتگو کرتا ہوں ۔ اللہ تعالیٰ نے اپنے رسول کا اس مال میں سے ایک حصہ مخصوص کیا تھا جو اس نے آپ کے سوا کسی کو نہیں دیا ۔ اس لیے کہ اللہ تعالیٰ فرماتا ہے کہ ما أفاء الله على رسوله منهم فما أوجفتم‏ ( الآیہ ) تو یہ مال خاص آنحضرت صلی اللہ علیہ وسلم کے لئے تھا ، پھر واللہ ! آنحضرت صلی اللہ علیہ وسلم نے اسے اپنے لوگوں کو نظرانداز کر کے اپنے لیے جمع نہیں کیا اور نہ اسے اپنی ذاتی جائیداد بنایا ۔ آنحضرت صلی اللہ علیہ وسلم نے اسے آپ لوگوں کو بھی دیا اور سب میں تقسیم کیا ‘ یہاں تک اس میں سے یہ مال باقی رہ گیا تو آنحضرت صلی اللہ علیہ وسلم اس میں سے اپنے گھر والوں کا سالانہ خرچ دیتے تھے ‘ پھر باقی اپنے قبضے میں لے لیتے تھے اور اسے بیت المال میں رکھ کر عام مسلمانوں کے ضروریات میں خرچ کرتے تھے ۔ آنحضرت صلی اللہ علیہ وسلم نے زندگی بھر اس کے مطابق عمل کیا ۔ میں آپ لوگوں کو اللہ کی قسم دیتا ہوں کیا آپ کو اس کا علم ہے ؟ صحابہ نے کہا کہ ہاں پھر آپ نے علی اور عباس رضی اللہ عنہما سے کہا ‘ میں آپ دونوں حضرات کو بھی اللہ کی قسم دیتا ہوں کیا آپ لوگوں کو اس کا علم ہے ؟ انہوں نے بھی کہا کہ ہاں ۔ پھر اللہ تعالیٰ نے اپنے نبی کریم صلی اللہ علیہ وسلم کو وفات دی اور ابوبکر رضی اللہ عنہ نے آنحضرت صلی اللہ علیہ وسلم کے ولی ہونے کی حیثیت سے اس پر قبضہ کیا اور اس میں اسی طرح عمل کیا جیسا کہ آنحضرت صلی اللہ علیہ وسلم کرتے تھے ۔ آپ دونوں حضرات بھی یہیں موجود تھے ۔ آپ نے علی اور عباس رضی اللہ عنہ کی طرف متوجہ ہو کر یہ بات کہی اور آپ لوگوں کا خیال تھا کہ ابوبکر رضی اللہ عنہ اس معاملے میں خطاکار ہیں اور اللہ خوب جانتا ہے کہ وہ اس معاملے میں سچے اور نیک اور سب سے زیادہ حق کی پیروی کرنے والے تھے ‘ پھر اللہ تعالیٰ نے ابوبکر رضی اللہ عنہ کو وفات دی اور میں نے کہا کہ میں رسول اللہ صلی اللہ علیہ وسلم اور ابوبکر صلی اللہ علیہ وسلم کا ولی ہوں اس طرح میں نے بھی اس جائیداد کو اپنے قبضے میں دو سال تک رکھا اور اس میں اسی کے مطابق عمل کرتا رہا جیسا کہ آنحضرت صلی اللہ علیہ وسلم اور ابوبکر صدیق رضی اللہ عنہ نے کیا تھا ‘ پھر آپ دونوں حضرات میرے پاس آئے اور آپ لوگوں کا معاملہ ایک ہی تھا ۔ کوئی اختلاف نہیں تھا ۔ آپ ( عباس رضی اللہ عنہ ! ) آئے اپنے بھائی کے لڑکے کی طرف سے اپنی میراث لینے آئے اور یہ ( علی رضی اللہ عنہ ) اپنی بیوی کی طرف سے ان کے والد کی میراث کا مطالبہ کرنے آئے ۔ میں نے تم سے کہا کہ یہ جائیداد تقسیم تو نہیں ہو سکتی لیکن تم لوگ چاہو تو میں اہتمام کے طور پر آپ کو یہ جائیداد دے دوں لیکن شرط یہ ہے کہ آپ لوگوں پر اللہ کا عہد اور اس کی میثاق ہے کہ اس کو اسی طرح خرچ کرو گے جس طرح رسول اللہ صلی اللہ علیہ وسلم نے کیا تھا اور جس طرح ابوبکر رضی اللہ عنہ نے کیا تھا اور جس طرح میں نے اپنے زمانہ ولایت میں کیا اگر یہ منظور نہ ہو تو پھر مجھ سے اس معاملہ میں بات نہ کریں ۔ آپ دونوں حضرات نے کہا کہ اس شرط کے ساتھ ہمارے حوالہ جائیداد کر دیں ۔ چنانچہ میں نے اس شرط کے ساتھ آپ کے حوالہ جائیداد کر دی تھی ۔ میں آپ لوگوں کو اللہ کی قسم دیتا ہوں ۔ کیا میں نے ان لوگوں کو اس شرط کے ساتھ جائیداد دی تھی ۔ جماعت نے کہا کہ ہا ں ‘ پھر آپ نے علی اور عباس رضی اللہ عنہ کی طرف متوجہ ہوئے اور کہا میں آپ لوگوں کو اللہ کی قسم دیتا ہوں ۔ کیا میں نے جائیداد آپ لوگووں کو اس شرط کے ساتھ حوالہ کی تھی ؟ انہوں نے کہا کہ ہاں ۔ پھر آپ نے کہا ‘ کیا آپ لوگ مجھ سے اس کے سوا کوئی اور فیصلہ چاہتے ہیں ۔ پس اس ذات کی قسم جس کے حکم سے آسمان و زمین قائم ہیں ‘ اس میں ‘ اس کے سوا کوئی فیصلہ نہیں کر سکتا یہاں تک کہ قیامت آ جائے ۔ اگر آپ لوگ اس کا انتظام نہیں کر سکتے تو پھر میرے حوالہ کر دو میں اس کا بھی انتظام کر لوں گا ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف تنیسی نے بیان کیا ، کہا ہم سے لیث بن سعد نے ، ان سے عقیل نے ، ان سے ابن شہاب نے ، انہیں مالک بن اوس نضری نے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، حَدَّثَنَا اللَّيْثُ، حَدَّثَنِي عُقَيْلٌ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي مَالِكُ بْنُ أَوْسٍ النَّصْرِيُّ، وَكَانَ، مُحَمَّدُ بْنُ جُبَيْرِ بْنِ مُطْعِمٍ ذَكَرَ لِي ذِكْرًا مِنْ ذَلِكَ فَدَخَلْتُ عَلَى مَالِكٍ فَسَأَلْتُهُ فَقَالَ انْطَلَقْتُ حَتَّى أَدْخُلَ عَلَى عُمَرَ أَتَاهُ حَاجِبُهُ يَرْفَا فَقَالَ هَلْ لَكَ فِي عُثْمَانَ وَعَبْدِ الرَّحْمَنِ وَالزُّبَيْرِ وَسَعْدٍ يَسْتَأْذِنُونَ‏.‏ قَالَ نَعَمْ‏.‏ فَدَخَلُوا فَسَلَّمُوا وَجَلَسُوا‏.‏ فَقَالَ هَلْ لَكَ فِي عَلِيٍّ وَعَبَّاسٍ‏.‏ فَأَذِنَ لَهُمَا‏.‏ قَالَ الْعَبَّاسُ يَا أَمِيرَ الْمُؤْمِنِينَ اقْضِ بَيْنِي وَبَيْنَ الظَّالِمِ‏.‏ اسْتَبَّا‏.‏ فَقَالَ الرَّهْطُ عُثْمَانُ وَأَصْحَابُهُ يَا أَمِيرَ الْمُؤْمِنِينَ اقْضِ بَيْنَهُمَا وَأَرِحْ أَحَدَهُمَا مِنَ الآخَرِ‏.‏ فَقَالَ اتَّئِدُوا أَنْشُدُكُمْ بِاللَّهِ الَّذِي بِإِذْنِهِ تَقُومُ السَّمَاءُ وَالأَرْضُ، هَلْ تَعْلَمُونَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ لاَ نُورَثُ مَا تَرَكْنَا صَدَقَةٌ ‏\"‏‏.‏ يُرِيدُ رَسُولُ اللَّهِ صلى الله عليه وسلم نَفْسَهُ‏.‏ قَالَ الرَّهْطُ قَدْ قَالَ ذَلِكَ‏.‏ فَأَقْبَلَ عُمَرُ عَلَى عَلِيٍّ وَعَبَّاسٍ فَقَالَ أَنْشُدُكُمَا بِاللَّهِ هَلْ تَعْلَمَانِ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ذَلِكَ‏.‏ قَالاَ نَعَمْ‏.‏ قَالَ عُمَرُ فَإِنِّي مُحَدِّثُكُمْ عَنْ هَذَا الأَمْرِ، إِنَّ اللَّهَ كَانَ خَصَّ رَسُولَهُ صلى الله عليه وسلم فِي هَذَا الْمَالِ بِشَىْءٍ لَمْ يُعْطِهِ أَحَدًا غَيْرَهُ، فَإِنَّ اللَّهَ يَقُولُ ‏{‏مَا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِنْهُمْ فَمَا أَوْجَفْتُمْ‏}‏ الآيَةَ، فَكَانَتْ هَذِهِ خَالِصَةً لِرَسُولِ اللَّهِ صلى الله عليه وسلم، ثُمَّ وَاللَّهِ مَا احْتَازَهَا دُونَكُمْ وَلاَ اسْتَأْثَرَ بِهَا عَلَيْكُمْ، وَقَدْ أَعْطَاكُمُوهَا وَبَثَّهَا فِيكُمْ، حَتَّى بَقِيَ مِنْهَا هَذَا الْمَالُ، وَكَانَ النَّبِيُّ صلى الله عليه وسلم يُنْفِقُ عَلَى أَهْلِهِ نَفَقَةَ سَنَتِهِمْ مِنْ هَذَا الْمَالِ، ثُمَّ يَأْخُذُ مَا بَقِيَ فَيَجْعَلُهُ مَجْعَلَ مَالِ اللَّهِ، فَعَمِلَ النَّبِيُّ صلى الله عليه وسلم بِذَلِكَ حَيَاتَهُ، أَنْشُدُكُمْ بِاللَّهِ هَلْ تَعْلَمُونَ ذَلِكَ فَقَالُوا نَعَمْ‏.‏ ثُمَّ قَالَ لِعَلِيٍّ وَعَبَّاسٍ أَنْشُدُكُمَا اللَّهَ هَلْ تَعْلَمَانِ ذَلِكَ قَالاَ نَعَمْ‏.‏ ثُمَّ تَوَفَّى اللَّهُ نَبِيَّهُ صلى الله عليه وسلم فَقَالَ أَبُو بَكْرٍ أَنَا وَلِيُّ رَسُولِ اللَّهِ صلى الله عليه وسلم، فَقَبَضَهَا أَبُو بَكْرٍ فَعَمِلَ فِيهَا بِمَا عَمِلَ فِيهَا رَسُولُ اللَّهِ صلى الله عليه وسلم، وَأَنْتُمَا حِينَئِذٍ ـ وَأَقْبَلَ عَلَى عَلِيٍّ وَعَبَّاسٍ ـ تَزْعُمَانِ أَنَّ أَبَا بَكْرٍ فِيهَا كَذَا، وَاللَّهُ يَعْلَمُ أَنَّهُ فِيهَا صَادِقٌ بَارٌّ رَاشِدٌ تَابِعٌ لِلْحَقِّ، ثُمَّ تَوَفَّى اللَّهُ أَبَا بَكْرٍ فَقُلْتُ أَنَا وَلِيُّ رَسُولِ اللَّهِ صلى الله عليه وسلم وَأَبِي بَكْرٍ‏.‏ فَقَبَضْتُهَا سَنَتَيْنِ أَعْمَلُ فِيهَا بِمَا عَمِلَ بِهِ رَسُولُ اللَّهِ صلى الله عليه وسلم وَأَبُو بَكْرٍ، ثُمَّ جِئْتُمَانِي وَكَلِمَتُكُمَا عَلَى كَلِمَةٍ وَاحِدَةٍ وَأَمْرُكُمَا جَمِيعٌ، جِئْتَنِي تَسْأَلُنِي نَصِيبَكَ مِنِ ابْنِ أَخِيكَ، وَأَتَانِي هَذَا يَسْأَلُنِي نَصِيبَ امْرَأَتِهِ مِنْ أَبِيهَا فَقُلْتُ إِنْ شِئْتُمَا دَفَعْتُهَا إِلَيْكُمَا، عَلَى أَنَّ عَلَيْكُمَا عَهْدَ اللَّهِ وَمِيثَاقَهُ تَعْمَلاَنِ فِيهَا بِمَا عَمِلَ بِهِ رَسُولُ اللَّهِ صلى الله عليه وسلم وَبِمَا عَمِلَ فِيهَا أَبُو بَكْرٍ وَبِمَا عَمِلْتُ فِيهَا مُنْذُ وَلِيتُهَا، وَإِلاَّ فَلاَ تُكَلِّمَانِي فِيهَا‏.‏ فَقُلْتُمَا ادْفَعْهَا إِلَيْنَا بِذَلِكَ‏.‏ فَدَفَعْتُهَا إِلَيْكُمَا بِذَلِكَ، أَنْشُدُكُمْ بِاللَّهِ هَلْ دَفَعْتُهَا إِلَيْهِمَا بِذَلِكَ قَالَ الرَّهْطُ نَعَمْ‏.‏ فَأَقْبَلَ عَلَى عَلِيٍّ وَعَبَّاسٍ فَقَالَ أَنْشُدُكُمَا بِاللَّهِ هَلْ دَفَعْتُهَا إِلَيْكُمَا بِذَلِكَ‏.‏ قَالاَ نَعَمْ‏.‏ قَالَ أَفَتَلْتَمِسَانِ مِنِّي قَضَاءً غَيْرَ ذَلِكَ فَوَالَّذِي بِإِذْنِهِ تَقُومُ السَّمَاءُ وَالأَرْضُ لاَ أَقْضِي فِيهَا قَضَاءً غَيْرَ ذَلِكَ حَتَّى تَقُومَ السَّاعَةُ، فَإِنْ عَجَزْتُمَا عَنْهَا فَادْفَعَاهَا إِلَىَّ، فَأَنَا أَكْفِيكُمَاهَا‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7004,
+                "hadithNumber": "7306",
+                "englishNarrator": "Narrated `Asim:",
+                "hadithEnglish": "I said to Anas رضی اللہ عنہ , \"Did Allah's Messenger (ﷺ) make Medina a sanctuary?\" He replied, \"Yes, (Medina is a sanctuary from such-and-such place to such-and-such place. It is forbidden to cut its trees, and whoever innovates an heresy in it or commits a sin therein, will incur the curse of Allah, the angels, and all the people.\" Then Musa bin Anas told me that Anas رضی اللہ عنہ added, \"..... or gives refuge to such an heretic or a sinner...\"",
+                "hadithUrdu": "میں نے انس رضی اللہ عنہ سے پوچھا کیا رسول اللہ صلی اللہ علیہ وسلم نے مدینہ منورہ کو حرمت والا شہر قرار دیا ہے ؟ فرمایا کہ ہاں فلاں جگہ عیر سے فلاں جگہ ( ثور ) تک ۔ اس علاقہ کا درخت نہیں کاٹا جائے گا جس نے اس حدود میں کوئی نئی بات پیدا کی ‘ اس پر اللہ کی ‘ فرشتوں کی اور تمام انسانوں کی لعنت ہے ۔ عاصم نے بیان کیا کہ پھر مجھے موسیٰ بن انس نے خبر دی کہ انس رضی اللہ عنہ نے یہ بھی بیان کیا تھا کہ ” یا کسی نے دین میں بدعت پیدا کرنے والے کو پناہ دی “ ۔",
+                "urduNarrator": "ہم سے موسیٰ بن اسماعیل نے بیان کیا ‘ کہا ہم سے عبد الواحد نے بیان کیا ‘ کہا ہم سے عاصم نے بیان کیا ‘ کہا کہ",
+                "hadithArabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا عَبْدُ الْوَاحِدِ، حَدَّثَنَا عَاصِمٌ، قَالَ قُلْتُ لأَنَسٍ أَحَرَّمَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْمَدِينَةَ‏.‏ قَالَ نَعَمْ مَا بَيْنَ كَذَا إِلَى كَذَا، لاَ يُقْطَعُ شَجَرُهَا، مَنْ أَحْدَثَ فِيهَا حَدَثًا فَعَلَيْهِ لَعْنَةُ اللَّهِ وَالْمَلاَئِكَةِ وَالنَّاسِ أَجْمَعِينَ‏.‏ قَالَ عَاصِمٌ فَأَخْبَرَنِي مُوسَى بْنُ أَنَسٍ أَنَّهُ قَالَ أَوْ آوَى مُحْدِثًا‏.‏",
+                "headingArabic": "إِثْمِ مَنْ آوَى مُحْدِثًا",
+                "headingUrdu": "بدعت کی اختراع کرنے والے شخص کو پناہ دینے یا مدد کرنے کا گناہ",
+                "headingEnglish": "The sin of giving refuge or helping a person innovating an heresy",
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7005,
+                "hadithNumber": "7307",
+                "englishNarrator": "Narrated `Abdullah bin `Amr رضی اللہ عنہ :",
+                "hadithEnglish": "I heard the Prophet (ﷺ) saying, \"Allah will not deprive you of knowledge after he has given it to you, but it will be taken away through the death of the religious learned men with their knowledge. Then there will remain ignorant people who, when consulted, will give verdicts according to their opinions whereby they will mislead others and go astray.\" I then narrated this Hadith to Hadrat Aishah رضی اللہ عنہا, the prophet's wife., when Hadrat Abdullah bin Umer performed the Hajj, Hadrat Aishah رضی اللہ عنہا said: O my sister's son! You should go to Hadrat Abdullah and, for my sake, get this Hadrat endorsed by him which you have narrated to me. I went and asked him, he, whereupon, narrated the Hadith as I had narrated it. It then came to Hadrat Aishah رضی اللہ عنہا and told her, so she in amazement, said: By Allah! Abdullah bin Umer رضی اللہ عنہا has retained it.",
+                "hadithUrdu": "میں نے نبی کریم صلی اللہ علیہ وسلم سے سنا ‘ آپ نے فرمایا کہ اللہ تعالیٰ علم کو ‘ اس کے بعد کہ تمہیں دیا ہے ایک دم سے نہیں اٹھا لے گا بلکہ اسے اس طرح ختم کرے گا کہ علماء کو ان کے علم کے ساتھ اٹھا لے گا پھر کچھ جاہل لوگ باقی رہ جائیں گے ‘ ان سے فتویٰ پوچھا جائے گا اور وہ فتویٰ اپنی رائے کے مطابق دیں گے ۔ پس وہ لوگوں کو گمراہ کریں گے اور وہ خود بھی گمراہ ہوں گے ۔ پھر میں نے یہ حدیث آنحضرت صلی اللہ علیہ وسلم کی زوجہ مطہرہ عائشہ رضی اللہ عنہا سے بیان کی ۔ ان کے بعد عبداللہ بن عمر رضی اللہ عنہما نے دوبارہ حج کیا تو ام المؤمنین نے مجھ سے کہا کہ بھانجے عبداللہ کے پاس جاؤ اور میرے لیے اس حدیث کو سن کر خوب مضبوط کر لو جو حدیث تم نے مجھ سے ان کا واسطہ سے بیان کی تھی ۔ چنانچہ میں اس کے پاس آیا اور میں نے ان سے پوچھا تو انہوں نے مجھ سے وہ حدیث بیان کی ‘ اسی طرح جیسا کہ وہ پہلے مجھ سے بیان کر چکے تھے ‘ پھر میں عائشہ رضی اللہ عنہا کے پاس آیا اور انہیں اس کی خبر دی تو انہیں تعجب ہوا اور بولیں کہ واللہ عبداللہ بن عمرو نے خوب یاد رکھا ۔",
+                "urduNarrator": "ہم سے سعید بن تلید نے بیان کیا ‘ کہا مجھ سے عبداللہ بن وہب نے ‘ کہا مجھ سے عبدالرحمٰن بن شریح اور ان کے علاوہ ابن لیعہ نے بیان کیا ‘ ان سے ابوالاسود نے اور ان سے عروہ نے بیان کیا کہ عبداللہ بن عمرو بن عاص رضی اللہ عنہ نے ہمیں لے کر حج کیا تو میں نے انہیں یہ کہتے سنا کہ",
+                "hadithArabic": "حَدَّثَنَا سَعِيدُ بْنُ تَلِيدٍ، حَدَّثَنِي ابْنُ وَهْبٍ، حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ شُرَيْحٍ، وَغَيْرُهُ، عَنْ أَبِي الأَسْوَدِ، عَنْ عُرْوَةَ، قَالَ حَجَّ عَلَيْنَا عَبْدُ اللَّهِ بْنُ عَمْرٍو فَسَمِعْتُهُ يَقُولُ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ إِنَّ اللَّهَ لاَ يَنْزِعُ الْعِلْمَ بَعْدَ أَنْ أَعْطَاهُمُوهُ انْتِزَاعًا، وَلَكِنْ يَنْتَزِعُهُ مِنْهُمْ مَعَ قَبْضِ الْعُلَمَاءِ بِعِلْمِهِمْ، فَيَبْقَى نَاسٌ جُهَّالٌ يُسْتَفْتَوْنَ فَيُفْتُونَ بِرَأْيِهِمْ، فَيُضِلُّونَ وَيَضِلُّونَ ‏\"‏‏.‏ فَحَدَّثْتُ عَائِشَةَ زَوْجَ النَّبِيِّ صلى الله عليه وسلم ثُمَّ إِنَّ عَبْدَ اللَّهِ بْنَ عَمْرٍو حَجَّ بَعْدُ فَقَالَتْ يَا ابْنَ أُخْتِي انْطَلِقْ إِلَى عَبْدِ اللَّهِ فَاسْتَثْبِتْ لِي مِنْهُ الَّذِي حَدَّثْتَنِي عَنْهُ‏.‏ فَجِئْتُهُ فَسَأَلْتُهُ فَحَدَّثَنِي بِهِ كَنَحْوِ مَا حَدَّثَنِي، فَأَتَيْتُ عَائِشَةَ فَأَخْبَرْتُهَا فَعَجِبَتْ فَقَالَتْ وَاللَّهِ لَقَدْ حَفِظَ عَبْدُ اللَّهِ بْنُ عَمْرٍو‏.‏",
+                "headingArabic": "مَا يُذْكَرُ مِنْ ذَمِّ الرَّأْىِ وَتَكَلُّفِ الْقِيَاسِ",
+                "headingUrdu": "رائے یا قیاس کی بنیاد پر فیصلہ کرنا",
+                "headingEnglish": "Judging made on the basis of opinion or Qiyas",
+                "chapterId": "98",
+                "bookSlug": "sahih-bukhari",
+                "volume": "9",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 98,
+                    "chapterNumber": "98",
+                    "chapterEnglish": "Holding Fast to the Qur'an and Sunnah",
+                    "chapterUrdu": "اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+                    "chapterArabic": "كتاب الاعتصام بال والسنة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 6976,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=279",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=277",
+                "label": "277",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=278",
+                "label": "278",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=279",
+                "label": "279",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=280",
+                "label": "280",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=281",
+                "label": "281",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=282",
+                "label": "282",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=283",
+                "label": "283",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=281",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=281",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=279",
+        "to": 7000,
+        "total": 40465
+    }
+}

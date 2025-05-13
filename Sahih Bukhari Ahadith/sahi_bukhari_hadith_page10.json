@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 10,
+        "data": [
+            {
+                "id": 226,
+                "hadithNumber": "226",
+                "englishNarrator": "Narrated Abu Wail:",
+                "hadithEnglish": "Abu Musa Al-Ash`ari used to lay great stress on the question of urination and he used to say, \"If anyone from Bani Israel happened to soil his clothes with urine, he used to cut that portion away.\" Hearing that, Hudhaifa said to Abu Wail, \"I wish he (Abu Musa) didn't (lay great stress on that matter).\" Hudhaifa added, \"Allah's Messenger (ﷺ) went to the dumps of some people and urinated while standing.\"",
+                "hadithUrdu": "ابوموسیٰ اشعری پیشاب ( کے بارہ ) میں سختی سے کام لیتے تھے اور کہتے تھے کہ بنی اسرائیل میں جب کسی کے کپڑے کو پیشاب لگ جاتا ۔ تو اسے کاٹ ڈالتے ۔ ابوحذیفہ کہتے ہیں کہ کاش ! وہ اپنے اس تشدد سے رک جاتے ( کیونکہ ) رسول اللہ صلی اللہ علیہ وسلم کسی قوم کی کوڑی پر تشریف لائے اور آپ صلی اللہ علیہ وسلم نے وہاں کھڑے ہو کر پیشاب کیا ۔",
+                "urduNarrator": "ہم سے محمد بن عرعرہ نے بیان کیا ، کہا ہم سے شعبہ نے منصور کے واسطے سے بیان کیا ، وہ ابووائل سے نقل کرتے ہیں ، وہ کہتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَرْعَرَةَ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ مَنْصُورٍ، عَنْ أَبِي وَائِلٍ، قَالَ كَانَ أَبُو مُوسَى الأَشْعَرِيُّ يُشَدِّدُ فِي الْبَوْلِ وَيَقُولُ إِنَّ بَنِي إِسْرَائِيلَ كَانَ إِذَا أَصَابَ ثَوْبَ أَحَدِهِمْ قَرَضَهُ‏.‏ فَقَالَ حُذَيْفَةُ لَيْتَهُ أَمْسَكَ، أَتَى رَسُولُ اللَّهِ صلى الله عليه وسلم سُبَاطَةَ قَوْمٍ فَبَالَ قَائِمًا‏.‏",
+                "headingArabic": "الْبَوْلِ عِنْدَ سُبَاطَةِ قَوْمٍ",
+                "headingUrdu": "کچھ لوگوں کے کوڑے کے قریب پیشاب کرنا",
+                "headingEnglish": "To urinate near the dumps of some people",
+                "chapterId": "4",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 4,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "Ablutions (Wudu')",
+                    "chapterUrdu": "وضو کے بیان میں",
+                    "chapterArabic": "كتاب الوضوء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 227,
+                "hadithNumber": "227",
+                "englishNarrator": "Narrated Asma':",
+                "hadithEnglish": "A woman came to the Prophet (ﷺ) and said, \"If anyone of us gets menses in her clothes then what should she do?\" He replied, \"She should (take hold of the soiled place), rub it and put it in the water and rub it in order to remove the traces of blood and then pour water over it. Then she can pray in it.\"",
+                "hadithUrdu": "ایک عورت نے رسول کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہو کر عرض کی کہ حضور فرمائیے ہم میں سے کسی عورت کو کپڑے میں حیض آ جائے ( تو ) وہ کیا کرے ، آپ صلی اللہ علیہ وسلم نے فرمایا ( کہ پہلے ) اسے کھرچے ، پھر پانی سے رگڑے اور پانی سے دھو ڈالے اور اسی کپڑے میں نماز پڑھ لے ۔",
+                "urduNarrator": "ہم سے محمد ابن المثنی نے بیان کیا ، انھوں نے کہا ہم سے یحییٰ نے ہشام کے واسطے سے بیان کیا ، ان سے فاطمہ نے اسماء کے واسطے سے ، وہ کہتی ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا يَحْيَى، عَنْ هِشَامٍ، قَالَ حَدَّثَتْنِي فَاطِمَةُ، عَنْ أَسْمَاءَ، قَالَتْ جَاءَتِ امْرَأَةٌ النَّبِيَّ صلى الله عليه وسلم فَقَالَتْ أَرَأَيْتَ إِحْدَانَا تَحِيضُ فِي الثَّوْبِ كَيْفَ تَصْنَعُ قَالَ ‏ \"‏ تَحُتُّهُ، ثُمَّ تَقْرُصُهُ بِالْمَاءِ، وَتَنْضَحُهُ وَتُصَلِّي فِيهِ ‏\"‏‏.‏",
+                "headingArabic": "غَسْلِ الدَّمِ",
+                "headingUrdu": "خون کا دھونا",
+                "headingEnglish": "The washing out of blood",
+                "chapterId": "4",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 4,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "Ablutions (Wudu')",
+                    "chapterUrdu": "وضو کے بیان میں",
+                    "chapterArabic": "كتاب الوضوء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 228,
+                "hadithNumber": "228",
+                "englishNarrator": "Narrated `Aisha:",
+                "hadithEnglish": "Fatima bint Abi Hubaish came to the Prophet (ﷺ) and said, \"O Allah's Messenger (ﷺ) I get persistent bleeding from the uterus and do not become clean. Shall I give up my prayers?\" Allah's Messenger (ﷺ) replied, \"No, because it is from a blood vessel and not the menses. So when your real menses begins give up your prayers and when it has finished wash off the blood (take a bath) and offer your prayers.\" Hisham (the sub narrator) narrated that his father had also said, (the Prophet (ﷺ) told her): \"Perform ablution for every prayer till the time of the next period comes.\"",
+                "hadithUrdu": "ابوحبیش کی بیٹی فاطمہ رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئی اور اس نے کہا کہ میں ایک ایسی عورت ہوں جسے استحاضہ کی بیماری ہے ۔ اس لیے میں پاک نہیں رہتی تو کیا میں نماز چھوڑ دوں ؟ آپ صلی اللہ علیہ وسلم نے فرمایا نہیں ، یہ ایک رگ ( کا خون ) ہے حیض نہیں ہے ۔ تو جب تجھے حیض آئے تو نماز چھوڑ دے اور جب یہ دن گزر جائیں تو اپنے ( بدن اور کپڑے ) سے خون کو دھو ڈال پھر نماز پڑھ ۔ ہشام کہتے ہیں کہ میرے باپ عروہ نے کہا کہ حضور صلی اللہ علیہ وسلم نے یہ ( بھی ) فرمایا کہ پھر ہر نماز کے لیے وضو کر یہاں تک کہ وہی ( حیض کا ) وقت پھر آ جائے ۔",
+                "urduNarrator": "ہم سے محمد بن سلام نے بیان کیا ، کہا مجھ سے ابومعاویہ نے ، کہا ہم سے ہشام بن عروہ نے اپنے باپ ( عروہ ) کے واسطے سے ، وہ حضرت عائشہ رضی اللہ عنہا سے نقل کرتے ہیں ، وہ فرماتی ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدٌ، قَالَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ جَاءَتْ فَاطِمَةُ ابْنَةُ أَبِي حُبَيْشٍ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَتْ يَا رَسُولَ اللَّهِ إِنِّي امْرَأَةٌ أُسْتَحَاضُ فَلاَ أَطْهُرُ، أَفَأَدَعُ الصَّلاَةَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لاَ، إِنَّمَا ذَلِكِ عِرْقٌ، وَلَيْسَ بِحَيْضٍ، فَإِذَا أَقْبَلَتْ حَيْضَتُكِ فَدَعِي الصَّلاَةَ، وَإِذَا أَدْبَرَتْ فَاغْسِلِي عَنْكِ الدَّمَ ثُمَّ صَلِّي ‏\"‏‏.‏ قَالَ وَقَالَ أَبِي ‏\"‏ ثُمَّ تَوَضَّئِي لِكُلِّ صَلاَةٍ، حَتَّى يَجِيءَ ذَلِكَ الْوَقْتُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 4,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "Ablutions (Wudu')",
+                    "chapterUrdu": "وضو کے بیان میں",
+                    "chapterArabic": "كتاب الوضوء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 229,
+                "hadithNumber": "229",
+                "englishNarrator": "Narrated `Aisha:",
+                "hadithEnglish": "I used to wash the traces of Janaba (semen) from the clothes of the Prophet (ﷺ) and he used to go for prayers while traces of water were still on it (water spots were still visible).",
+                "hadithUrdu": "میں رسول کریم صلی اللہ علیہ وسلم کے کپڑے سے جنابت کو دھوتی تھی ۔ پھر ( اس کو پہن کر ) آپ صلی اللہ علیہ وسلم نماز کے لیے تشریف لے جاتے اور پانی کے دھبے آپ صلی اللہ علیہ وسلم کے کپڑے میں ہوتے تھے ۔",
+                "urduNarrator": "ہم سے عبدان نے بیان کیا ، کہا مجھے عبداللہ ابن مبارک نے خبر دی ، کہا مجھے عمرو بن میمون الجزری نے بتلایا ، وہ سلیمان بن یسار سے ، وہ حضرت عائشہ رضی اللہ عنہا سے ۔ آپ فرماتی ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدَانُ، قَالَ أَخْبَرَنَا عَبْدُ اللَّهِ، قَالَ أَخْبَرَنَا عَمْرُو بْنُ مَيْمُونٍ الْجَزَرِيُّ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ عَائِشَةَ، قَالَتْ كُنْتُ أَغْسِلُ الْجَنَابَةَ مِنْ ثَوْبِ النَّبِيِّ صلى الله عليه وسلم، فَيَخْرُجُ إِلَى الصَّلاَةِ، وَإِنَّ بُقَعَ الْمَاءِ فِي ثَوْبِهِ‏.‏",
+                "headingArabic": "غَسْلِ الْمَنِيِّ وَفَرْكِهِ وَغَسْلِ مَا يُصِيبُ مِنَ الْمَرْأَةِ",
+                "headingUrdu": "منی کا پانی سے دھونا اور اسے رگڑنا (خشک ہونے پر) اور عورتوں سے نکلنے والی چیز کا دھونا (یعنی خارج ہونا)",
+                "headingEnglish": "The washing out of semen with water and rubbing it off (when it is dry) and the washing out of what comes out of women (i.e., discharge)",
+                "chapterId": "4",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 4,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "Ablutions (Wudu')",
+                    "chapterUrdu": "وضو کے بیان میں",
+                    "chapterArabic": "كتاب الوضوء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 230,
+                "hadithNumber": "230",
+                "englishNarrator": "Narrated Sulaiman bin Yasar:",
+                "hadithEnglish": "I asked `Aisha about the clothes soiled with semen. She replied, \"I used to wash it off the clothes of Allah's Messenger (ﷺ) and he would go for the prayer while water spots were still visible. \"",
+                "hadithUrdu": "میں نے حضرت عائشہ رضی اللہ عنہا سے اس منی کے بارہ میں پوچھا جو کپڑے کو لگ جائے ۔ تو انھوں نے فرمایا کہ میں منی کو رسول کریم صلی اللہ علیہ وسلم کے کپڑے سے دھو ڈالتی تھی پھر آپ نماز کے لیے باہر تشریف لے جاتے اور دھونے کا نشان ( یعنی ) پانی کے دھبے آپ صلی اللہ علیہ وسلم کے کپڑے میں باقی ہوتے ۔",
+                "urduNarrator": "ہم سے قتیبہ نے بیان کیا ، کہا ہم سے یزید نے ، کہا ہم سے عمرو نے سلیمان سے روایت کیا ، انھوں نے کہا کہ میں نے حضرت عائشہ رضی اللہ عنہا سے سنا ( دوسری سند یہ ہے ) ہم سے مسدد نے بیان کیا ، کہا ہم سے عبدالواحد نے ، کہا ہم سے عمرو بن میمون نے سلیمان بن یسار کے واسطے سے نقل کیا ، وہ کہتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا يَزِيدُ، قَالَ حَدَّثَنَا عَمْرٌو، عَنْ سُلَيْمَانَ، قَالَ سَمِعْتُ عَائِشَةَ، ح وَحَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا عَبْدُ الْوَاحِدِ، قَالَ حَدَّثَنَا عَمْرُو بْنُ مَيْمُونٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، قَالَ سَأَلْتُ عَائِشَةَ عَنِ الْمَنِيِّ، يُصِيبُ الثَّوْبَ فَقَالَتْ كُنْتُ أَغْسِلُهُ مِنْ ثَوْبِ رَسُولِ اللَّهِ صلى الله عليه وسلم، فَيَخْرُجُ إِلَى الصَّلاَةِ وَأَثَرُ الْغَسْلِ فِي ثَوْبِهِ بُقَعُ الْمَاءِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 4,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "Ablutions (Wudu')",
+                    "chapterUrdu": "وضو کے بیان میں",
+                    "chapterArabic": "كتاب الوضوء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 231,
+                "hadithNumber": "231",
+                "englishNarrator": "Narrated `Amr bin Maimun:",
+                "hadithEnglish": "I heard Sulaiman bin Yasar talking about the clothes soiled with semen. He said that `Aisha had said, \"I used to wash it off the clothes of Allah's Messenger (ﷺ) and he would go for the prayers while water spots were still visible on them.",
+                "hadithUrdu": "میں نے اس کپڑے کے متعلق جس میں جنابت ( ناپاکی ) کا اثر آ گیا ہو ، سلیمان بن یسار سے سنا وہ کہتے تھے کہ حضرت عائشہ رضی اللہ عنہا نے فرمایا کہ میں رسول کریم صلی اللہ علیہ وسلم کے کپڑے سے منی کو دھو ڈالتی تھی پھر آپ صلی اللہ علیہ وسلم نماز کے لیے باہر نکلتے اور دھونے کا نشان یعنی پانی کے دھبے کپڑے میں ہوتے ۔",
+                "urduNarrator": "ہم سے موسیٰ بن اسماعیل نے بیان کیا ، انھوں نے کہا ہم سے عبدالواحد نے بیان کیا ، انھوں نے کہا ہم سے عمرو بن میمون نے ، وہ کہتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا مُوسَى، قَالَ حَدَّثَنَا عَبْدُ الْوَاحِدِ، قَالَ حَدَّثَنَا عَمْرُو بْنُ مَيْمُونٍ، قَالَ سَأَلْتُ سُلَيْمَانَ بْنَ يَسَارٍ فِي الثَّوْبِ تُصِيبُهُ الْجَنَابَةُ قَالَ قَالَتْ عَائِشَةُ كُنْتُ أَغْسِلُهُ مِنْ ثَوْبِ رَسُولِ اللَّهِ صلى الله عليه وسلم، ثُمَّ يَخْرُجُ إِلَى الصَّلاَةِ وَأَثَرُ الْغَسْلِ فِيهِ بُقَعُ الْمَاءِ‏.‏",
+                "headingArabic": "إِذَا غَسَلَ الْجَنَابَةَ أَوْ غَيْرَهَا فَلَمْ يَذْهَبْ أَثَرُهُ",
+                "headingUrdu": "اگر غسل کرنے پر جنابت (منی) یا دیگر دھبے مکمل طور پر نہ ہٹائے جائیں۔",
+                "headingEnglish": "If the (traces of) Janaba (semen) or other spots are not removed completely on washing",
+                "chapterId": "4",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 4,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "Ablutions (Wudu')",
+                    "chapterUrdu": "وضو کے بیان میں",
+                    "chapterArabic": "كتاب الوضوء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 232,
+                "hadithNumber": "232",
+                "englishNarrator": "Narrated `Aishah:",
+                "hadithEnglish": "I used to wash the semen off the clothes of the Prophet (ﷺ) and even then I used to notice one or more spots on them.",
+                "hadithUrdu": "وہ رسول کریم صلی اللہ علیہ وسلم کے کپڑے سے منی کو دھو ڈالتی تھیں ( وہ فرماتی ہیں کہ ) پھر ( کبھی ) میں ایک دھبہ یا کئی دھبے دیکھتی تھی ۔",
+                "urduNarrator": "ہم سے عمرو بن خالد نے بیان کیا ، کہا ہم سے زہیر نے ، کہا ہم سے عمرو بن میمون بن مہران نے ، انھوں نے سلیمان بن یسار سے ، وہ حضرت عائشہ رضی اللہ عنہا سے روایت کرتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا عَمْرُو بْنُ خَالِدٍ، قَالَ حَدَّثَنَا زُهَيْرٌ، قَالَ حَدَّثَنَا عَمْرُو بْنُ مَيْمُونِ بْنِ مِهْرَانَ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ عَائِشَةَ، أَنَّهَا كَانَتْ تَغْسِلُ الْمَنِيَّ مِنْ ثَوْبِ النَّبِيِّ صلى الله عليه وسلم، ثُمَّ أَرَاهُ فِيهِ بُقْعَةً أَوْ بُقَعًا‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 4,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "Ablutions (Wudu')",
+                    "chapterUrdu": "وضو کے بیان میں",
+                    "chapterArabic": "كتاب الوضوء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 233,
+                "hadithNumber": "233",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "\"Some people of `Ukl or `Uraina tribe came to Medina and its climate did not suit them. So the Prophet (ﷺ) ordered them to go to the herd of (Milch) camels and to drink their milk and urine (as a medicine). So they went as directed and after they became healthy, they killed the shepherd of the Prophet and drove away all the camels. The news reached the Prophet (ﷺ) early in the morning and he sent (men) in their pursuit and they were captured and brought at noon. He then ordered to cut their hands and feet (and it was done), and their eyes were branded with heated pieces of iron, They were put in 'Al-Harra' and when they asked for water, no water was given to them.\" Abu Qilaba said, \"Those people committed theft and murder, became infidels after embracing Islam and fought against Allah and His Apostle .\"",
+                "hadithUrdu": "کچھ لوگ عکل یا عرینہ ( قبیلوں ) کے مدینہ میں آئے اور بیمار ہو گئے ۔ رسول اللہ صلی اللہ علیہ وسلم نے انہیں لقاح میں جانے کا حکم دیا اور فرمایا کہ وہاں اونٹوں کا دودھ اور پیشاب پئیں ۔ چنانچہ وہ لقاح چلے گئے اور جب اچھے ہو گئے تو رسول کریم صلی اللہ علیہ وسلم کے چرواہے کو قتل کر کے وہ جانوروں کو ہانک کر لے گئے ۔ علی الصبح رسول کریم صلی اللہ علیہ وسلم کے پاس ( اس واقعہ کی ) خبر آئی ۔ تو آپ نے ان کے پیچھے آدمی دوڑائے ۔ دن چڑھے وہ حضور صلی اللہ علیہ وسلم کی خدمت میں پکڑ کر لائے گئے ۔ آپ کے حکم کے مطابق ان کے ہاتھ پاؤں کاٹ دئیے گئے اور آنکھوں میں گرم سلاخیں پھیر دی گئیں اور ( مدینہ کی ) پتھریلی زمین میں ڈال دئیے گئے ۔ ( پیاس کی شدت سے ) وہ پانی مانگتے تھے مگر انہیں پانی نہیں دیا جاتا تھا ۔ ابوقلابہ نے ( ان کے جرم کی سنگینی ظاہر کرتے ہوئے ) کہا کہ ان لوگوں نے چوری کی اور چرواہوں کو قتل کیا اور ( آخر ) ایمان سے پھر گئے اور اللہ اور اس کے رسول سے جنگ کی ۔",
+                "urduNarrator": "ہم سے سلیمان بن حرب نے بیان کیا ، انھوں نے حماد بن زید سے ، وہ ایوب سے ، وہ ابوقلابہ سے ، وہ حضرت انس رضی اللہ عنہ سے روایت کرتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسٍ، قَالَ قَدِمَ أُنَاسٌ مِنْ عُكْلٍ أَوْ عُرَيْنَةَ، فَاجْتَوَوُا الْمَدِينَةَ، فَأَمَرَهُمُ النَّبِيُّ صلى الله عليه وسلم بِلِقَاحٍ، وَأَنْ يَشْرَبُوا مِنْ أَبْوَالِهَا وَأَلْبَانِهَا، فَانْطَلَقُوا، فَلَمَّا صَحُّوا قَتَلُوا رَاعِيَ النَّبِيِّ صلى الله عليه وسلم وَاسْتَاقُوا النَّعَمَ، فَجَاءَ الْخَبَرُ فِي أَوَّلِ النَّهَارِ، فَبَعَثَ فِي آثَارِهِمْ، فَلَمَّا ارْتَفَعَ النَّهَارُ جِيءَ بِهِمْ، فَأَمَرَ فَقَطَعَ أَيْدِيَهُمْ وَأَرْجُلَهُمْ، وَسُمِرَتْ أَعْيُنُهُمْ، وَأُلْقُوا فِي الْحَرَّةِ يَسْتَسْقُونَ فَلاَ يُسْقَوْنَ‏.‏ \r\nقَالَ أَبُو قِلاَبَةَ فَهَؤُلاَءِ سَرَقُوا وَقَتَلُوا وَكَفَرُوا بَعْدَ إِيمَانِهِمْ، وَحَارَبُوا اللَّهَ وَرَسُولَهُ‏.‏",
+                "headingArabic": "أَبْوَالِ الإِبِلِ وَالدَّوَابِّ وَالْغَنَمِ وَمَرَابِضِهَا",
+                "headingUrdu": "(کیا کہا جاتا ہے) اونٹوں، بھیڑوں اور دوسرے جانوروں کے پیشاب اور ان کی تہوں کے بارے میں",
+                "headingEnglish": "(What is said) about the urine of camels, sheep and other animals and about their folds",
+                "chapterId": "4",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 4,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "Ablutions (Wudu')",
+                    "chapterUrdu": "وضو کے بیان میں",
+                    "chapterArabic": "كتاب الوضوء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 234,
+                "hadithNumber": "234",
+                "englishNarrator": "Narrated Anas:",
+                "hadithEnglish": "Prior to the construction of the mosque, the Prophet (ﷺ) offered the prayers at sheep-folds.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم مسجد کی تعمیر سے پہلے نماز بکریوں کے باڑے میں پڑھ لیا کرتے تھے ۔ ( معلوم ہوا کہ بکریوں وغیرہ کے باڑے میں بوقت ضرورت نماز پڑھی جا سکتی ہے ) ۔",
+                "urduNarrator": "ہم سے آدم نے بیان کیا ، کہا ہم سے شعبہ نے ، کہا مجھے ابوالتیاح یزید بن حمید نے حضرت انس رضی اللہ عنہ سے خبر دی ، وہ کہتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنَا أَبُو التَّيَّاحِ، يَزِيدُ بْنُ حُمَيْدٍ عَنْ أَنَسٍ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يُصَلِّي قَبْلَ أَنْ يُبْنَى الْمَسْجِدُ فِي مَرَابِضِ الْغَنَمِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 4,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "Ablutions (Wudu')",
+                    "chapterUrdu": "وضو کے بیان میں",
+                    "chapterArabic": "كتاب الوضوء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 235,
+                "hadithNumber": "235",
+                "englishNarrator": "Narrated Maimuna:",
+                "hadithEnglish": "Allah's Messenger (ﷺ) was asked regarding ghee (cooking butter) in which a mouse had fallen. He said, \"Take out the mouse and throw away the ghee around it and use the rest.\"",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم سے چوہے کے بارہ میں پوچھا گیا جو گھی میں گر گیا تھا ۔ فرمایا اس کو نکال دو اور اس کے آس پاس ( کے گھی ) کو نکال پھینکو اور اپنا ( باقی ) گھی استعمال کرو ۔",
+                "urduNarrator": "ہم سے اسماعیل نے بیان کیا ، انھوں نے کہا مجھ کو مالک نے ابن شہاب کے واسطے سے روایت کی ، وہ عبیداللہ بن عبداللہ بن عتبہ بن مسعود سے ، وہ حضرت عبداللہ بن عباس رضی اللہ عنہما سے وہ ام المؤمنین حضرت میمونہ رضی اللہ عنہا سے روایت کرتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، عَنْ مَيْمُونَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم سُئِلَ عَنْ فَأْرَةٍ سَقَطَتْ فِي سَمْنٍ فَقَالَ ‏ \"‏ أَلْقُوهَا وَمَا حَوْلَهَا فَاطْرَحُوهُ‏.‏ وَكُلُوا سَمْنَكُمْ ‏\"‏‏.‏",
+                "headingArabic": "مَا يَقَعُ مِنَ النَّجَاسَاتِ فِي السَّمْنِ وَالْمَاءِ",
+                "headingUrdu": "نجاست (ناپاک اور غلیظ چیزیں) جو مکھن پکانے میں گرتی ہیں (گھی - جو مکھن سے نمی کو بخارات بنا کر حاصل کیا جاتا ہے) اور پانی",
+                "headingEnglish": "An-Najasat (impure and filthy things) which fall in cooking butter (ghee - which is obtained by evaporating moisture from butter) and water",
+                "chapterId": "4",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 4,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "Ablutions (Wudu')",
+                    "chapterUrdu": "وضو کے بیان میں",
+                    "chapterArabic": "كتاب الوضوء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 236,
+                "hadithNumber": "236",
+                "englishNarrator": "Narrated Maimuna:",
+                "hadithEnglish": "The Prophet (ﷺ) was asked regarding ghee in which a mouse had fallen. He said, \"Take out the mouse and throw away the ghee around it (and use the rest.)\"",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم سے چوہے کے بارے میں دریافت کیا گیا جو گھی میں گر گیا تھا ۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ اس چوہے کو اور اس کے آس پاس کے گھی کو نکال کر پھینک دو ۔ معن کہتے ہیں کہ مالک نے اتنی بار کہ میں گن نہیں سکتا ( یہ حدیث ) ابن عباس سے اور انھوں نے حضرت میمونہ رضی اللہ عنہا سے روایت کی ہے ۔",
+                "urduNarrator": "ہم سے علی بن عبداللہ نے بیان کیا ، کہا ہم سے معن نے ، کہا ہم سے مالک نے ابن شہاب کے واسطے سے بیان کیا ، وہ عبیداللہ ابن عبداللہ بن عتبہ بن مسعود سے ، وہ ابن عباس رضی اللہ عنہما سے وہ حضرت میمونہ رضی اللہ عنہا سے نقل کرتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا مَعْنٌ، قَالَ حَدَّثَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ بْنِ مَسْعُودٍ، عَنِ ابْنِ عَبَّاسٍ، عَنْ مَيْمُونَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم سُئِلَ عَنْ فَأْرَةٍ سَقَطَتْ فِي سَمْنٍ فَقَالَ ‏ \"‏ خُذُوهَا وَمَا حَوْلَهَا فَاطْرَحُوهُ ‏\"‏‏.‏ قَالَ مَعْنٌ حَدَّثَنَا مَالِكٌ مَا لاَ أُحْصِيهِ يَقُولُ عَنِ ابْنِ عَبَّاسٍ عَنْ مَيْمُونَةَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 4,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "Ablutions (Wudu')",
+                    "chapterUrdu": "وضو کے بیان میں",
+                    "chapterArabic": "كتاب الوضوء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 237,
+                "hadithNumber": "237",
+                "englishNarrator": "Narrated Abu Huraira:",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"A wound which a Muslim receives in Allah's cause will appear on the Day of Resurrection as it was at the time of infliction; blood will be flowing from the wound and its color will be that of the blood but will smell like musk.\"",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا ہر زخم جو اللہ کی راہ میں مسلمان کو لگے وہ قیامت کے دن اسی حالت میں ہو گا جس طرح وہ لگا تھا ۔ اس میں سے خون بہتا ہو گا ۔ جس کا رنگ ( تو ) خون کا سا ہو گا اور خوشبو مشک کی سی ہو گی ۔",
+                "urduNarrator": "ہم سے احمد بن محمد نے بیان کیا ، انھوں نے کہا ہمیں عبداللہ نے خبر دی ، انھوں نے کہا مجھے معمر نے ہمام بن منبہ سے خبر دی اور وہ حضرت ابوہریرہ رضی اللہ عنہ سے روایت کرتے ہیں ، وہ رسول اللہ صلی اللہ علیہ وسلم سے کہ",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدٍ، قَالَ أَخْبَرَنَا عَبْدُ اللَّهِ، قَالَ أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ كُلُّ كَلْمٍ يُكْلَمُهُ الْمُسْلِمُ فِي سَبِيلِ اللَّهِ يَكُونُ يَوْمَ الْقِيَامَةِ كَهَيْئَتِهَا إِذْ طُعِنَتْ، تَفَجَّرُ دَمًا، اللَّوْنُ لَوْنُ الدَّمِ، وَالْعَرْفُ عَرْفُ الْمِسْكِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 4,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "Ablutions (Wudu')",
+                    "chapterUrdu": "وضو کے بیان میں",
+                    "chapterArabic": "كتاب الوضوء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 238,
+                "hadithNumber": "238",
+                "englishNarrator": "Narrated Abu Huraira:",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"We (Muslims) are the last (people to come in the world) but (will be) the foremost (on the Day of Resurrection).\"",
+                "hadithUrdu": "ہم ( لوگ ) دنیا میں پچھلے زمانے میں آئے ہیں ( مگر آخرت میں ) سب سے آگے ہیں ۔",
+                "urduNarrator": "ہم سے ابوالیمان بیان کیا ، کہا ہم کو شعیب نے خبر دی ، کہا مجھے ابوالزناد نے خبر دی کہ ان سے عبدالرحمٰن بن ہرمزالاعرج نے بیان کیا ، انھوں نے حضرت ابوہریرہ رضی اللہ عنہ سے سنا ، انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ، آپ صلی اللہ علیہ وسلم فرماتے تھے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، قَالَ أَخْبَرَنَا شُعَيْبٌ، قَالَ أَخْبَرَنَا أَبُو الزِّنَادِ، أَنَّ عَبْدَ الرَّحْمَنِ بْنَ هُرْمُزَ الأَعْرَجَ، حَدَّثَهُ أَنَّهُ، سَمِعَ أَبَا هُرَيْرَةَ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ نَحْنُ الآخِرُونَ السَّابِقُونَ ‏\"‏‏.‏",
+                "headingArabic": "الْبَوْلِ فِي الْمَاءِ الدَّائِمِ",
+                "headingUrdu": "ٹھہرے ہوئے پانی میں پیشاب کرنا",
+                "headingEnglish": "Urinating in stagnant water",
+                "chapterId": "4",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 4,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "Ablutions (Wudu')",
+                    "chapterUrdu": "وضو کے بیان میں",
+                    "chapterArabic": "كتاب الوضوء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 239,
+                "hadithNumber": "239",
+                "englishNarrator": "The same narrator said that the Prophet (ﷺ) had said:",
+                "hadithEnglish": "\"You should not pass urine in stagnant water which is not flowing then (you may need to) wash in it.\"",
+                "hadithUrdu": "( یہ بھی ) فرمایا کہ تم میں سے کوئی ٹھہرے ہوئے پانی میں جو جاری نہ ہو پیشاب نہ کرے ۔ پھر اسی میں غسل کرنے لگے ؟",
+                "urduNarrator": "اور اسی سند سے",
+                "hadithArabic": "وَبِإِسْنَادِهِ قَالَ ‏ \"‏ لاَ يَبُولَنَّ أَحَدُكُمْ فِي الْمَاءِ الدَّائِمِ الَّذِي لاَ يَجْرِي، ثُمَّ يَغْتَسِلُ فِيهِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 4,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "Ablutions (Wudu')",
+                    "chapterUrdu": "وضو کے بیان میں",
+                    "chapterArabic": "كتاب الوضوء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 240,
+                "hadithNumber": "240",
+                "englishNarrator": "Narrated `Abdullah bin Mas`ud:",
+                "hadithEnglish": "Once the Prophet (ﷺ) was offering prayers at the Ka`ba. Abu Jahl was sitting with some of his companions. One of them said to the others, \"Who amongst you will bring the Abdominal contents (intestines, etc.) of a camel of Bani so and so and put it on the back of Muhammad, when he prostrates?\" The most unfortunate of them got up and brought it. He waited till the Prophet (ﷺ) prostrated and then placed it on his back between his shoulders. I was watching but could not do any thing. I wish I had some people with me to hold out against them. They started laughing and falling on one another. Allah's Messenger (ﷺ) was in prostration and he did not lift his head up till Fatima (Prophet's daughter) came and threw that (camel's Abdominal contents) away from his back. He raised his head and said thrice, \"O Allah! Punish Quraish.\" So it was hard for Abu Jahl and his companions when the Prophet invoked Allah against them as they had a conviction that the prayers and invocations were accepted in this city (Mecca). The Prophet (ﷺ) said, \"O Allah! Punish Abu Jahl, `Utba bin Rabi`a, Shaiba bin Rabi`a, Al-Walid bin `Utba, Umaiya bin Khalaf, and `Uqba bin Al Mu'it [??] (and he mentioned the seventh whose name I cannot recall). By Allah in Whose Hands my life is, I saw the dead bodies of those persons who were counted by Allah's Messenger (ﷺ) in the Qalib (one of the wells) of Badr.",
+                "hadithUrdu": "ایک دفعہ رسول کریم صلی اللہ علیہ وسلم کعبہ شریف میں سجدہ میں تھے ۔ ( ایک دوسری سند سے ) ہم سے احمد بن عثمان نے بیان کیا ، کہا ہم سے شریح بن مسلمہ نے ، کہا ہم سے ابراہیم بن یوسف نے اپنے باپ کے واسطے سے بیان کیا ، وہ ابواسحاق سے روایت کرتے ہیں ۔ ان سے عمرو بن میمون نے بیان کیا کہ عبداللہ بن مسعود رضی اللہ عنہما نے ان سے حدیث بیان کی کہ ایک دفعہ رسول کریم صلی اللہ علیہ وسلم کعبہ کے نزدیک نماز پڑھ رہے تھے اور ابوجہل اور اس کے ساتھی ( بھی وہیں ) بیٹھے ہوئے تھے تو ان میں سے ایک نے دوسرے سے کہا کہ تم میں سے کوئی شخص ہے جو قبیلے کی ( جو ) اونٹنی ذبح ہوئی ہے ( اس کی ) اوجھڑی اٹھا لائے اور ( لا کر ) جب محمد صلی اللہ علیہ وسلم سجدہ میں جائیں تو ان کی پیٹھ پر رکھ دے ۔ یہ سن کر ان میں سے ایک سب سے زیادہ بدبخت ( آدمی ) اٹھا اور وہ اوجھڑی لے کر آیا اور دیکھتا رہا جب آپ نے سجدہ کیا تو اس نے اس اوجھڑی کو آپ کے دونوں کندھوں کے درمیان رکھ دیا ( عبداللہ بن مسعود کہتے ہیں ) میں یہ ( سب کچھ ) دیکھ رہا تھا مگر کچھ نہ کر سکتا تھا ۔ کاش ! ( اس وقت ) مجھے روکنے کی طاقت ہوتی ۔ عبداللہ کہتے ہیں کہ وہ ہنسنے لگے اور ( ہنسی کے مارے ) لوٹ پوٹ ہونے لگے اور رسول اللہ صلی اللہ علیہ وسلم سجدہ میں تھے ( بوجھ کی وجہ سے ) اپنا سر نہیں اٹھا سکتے تھے ۔ یہاں تک کہ حضرت فاطمہ رضی اللہ عنہا آئیں اور وہ بوجھ آپ کی پیٹھ سے اتار کر پھینکا ، تب آپ صلی اللہ علیہ وسلم نے سر اٹھایا پھر تین بار فرمایا ۔ یا اللہ ! تو قریش کو پکڑ لے ، یہ ( بات ) ان کافروں پر بہت بھاری ہوئی کہ آپ صلی اللہ علیہ وسلم نے انہیں بددعا دی ۔ عبداللہ کہتے ہیں کہ وہ سمجھتے تھے کہ اس شہر ( مکہ ) میں جو دعا کی جائے وہ ضرور قبول ہوتی ہے پھر آپ نے ( ان میں سے ) ہر ایک کا ( جدا جدا ) نام لیا کہ اے اللہ ! ان ظالموں کو ضرور ہلاک کر دے ۔ ابوجہل ، عتبہ بن ربیعہ ، شیبہ بن ربیعہ ، ولید بن عتبہ ، امیہ بن خلف اور عقبہ بن ابی معیط کو ۔ ساتویں ( آدمی ) کا نام ( بھی ) لیا مگر مجھے یاد نہیں رہا ۔ اس ذات کی قسم جس کے قبضے میں میری جان ہے کہ جن لوگوں کے ( بددعا کرتے وقت ) آپ صلی اللہ علیہ وسلم نے نام لیے تھے ، میں نے ان کی ( لاشوں ) کو بدر کے کنویں میں پڑا ہوا دیکھا ۔",
+                "urduNarrator": "ہم سے عبدان نے بیان کیا ، کہا مجھے میرے باپ ( عثمان ) نے شعبہ سے خبر دی ، انھوں نے ابواسحاق سے ، انھوں نے عمرو بن میمون سے ، انھوں نے عبداللہ سے وہ کہتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدَانُ، قَالَ أَخْبَرَنِي أَبِي، عَنْ شُعْبَةَ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَمْرِو بْنِ مَيْمُونٍ، عَنْ عَبْدِ اللَّهِ، قَالَ بَيْنَا رَسُولُ اللَّهِ صلى الله عليه وسلم سَاجِدٌ ح قَالَ وَحَدَّثَنِي أَحْمَدُ بْنُ عُثْمَانَ قَالَ حَدَّثَنَا شُرَيْحُ بْنُ مَسْلَمَةَ قَالَ حَدَّثَنَا إِبْرَاهِيمُ بْنُ يُوسُفَ عَنْ أَبِيهِ عَنْ أَبِي إِسْحَاقَ قَالَ حَدَّثَنِي عَمْرُو بْنُ مَيْمُونٍ أَنَّ عَبْدَ اللَّهِ بْنَ مَسْعُودٍ حَدَّثَهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يُصَلِّي عِنْدَ الْبَيْتِ، وَأَبُو جَهْلٍ وَأَصْحَابٌ لَهُ جُلُوسٌ، إِذْ قَالَ بَعْضُهُمْ لِبَعْضٍ أَيُّكُمْ يَجِيءُ بِسَلَى جَزُورِ بَنِي فُلاَنٍ فَيَضَعُهُ عَلَى ظَهْرِ مُحَمَّدٍ إِذَا سَجَدَ فَانْبَعَثَ أَشْقَى الْقَوْمِ فَجَاءَ بِهِ، فَنَظَرَ حَتَّى إِذَا سَجَدَ النَّبِيُّ صلى الله عليه وسلم وَضَعَهُ عَلَى ظَهْرِهِ بَيْنَ كَتِفَيْهِ وَأَنَا أَنْظُرُ، لاَ أُغَيِّرُ شَيْئًا، لَوْ كَانَ لِي مَنْعَةٌ‏.‏ قَالَ فَجَعَلُوا يَضْحَكُونَ وَيُحِيلُ بَعْضُهُمْ عَلَى بَعْضٍ، وَرَسُولُ اللَّهِ صلى الله عليه وسلم سَاجِدٌ لاَ يَرْفَعُ رَأْسَهُ، حَتَّى جَاءَتْهُ فَاطِمَةُ، فَطَرَحَتْ عَنْ ظَهْرِهِ، فَرَفَعَ رَأْسَهُ ثُمَّ قَالَ ‏\"‏ اللَّهُمَّ عَلَيْكَ بِقُرَيْشٍ ‏\"‏‏.‏ ثَلاَثَ مَرَّاتٍ، فَشَقَّ عَلَيْهِمْ إِذْ دَعَا عَلَيْهِمْ ـ قَالَ وَكَانُوا يُرَوْنَ أَنَّ الدَّعْوَةَ فِي ذَلِكَ الْبَلَدِ مُسْتَجَابَةٌ ـ ثُمَّ سَمَّى ‏\"‏ اللَّهُمَّ عَلَيْكَ بِأَبِي جَهْلٍ، وَعَلَيْكَ بِعُتْبَةَ بْنِ رَبِيعَةَ، وَشَيْبَةَ بْنِ رَبِيعَةَ، وَالْوَلِيدِ بْنِ عُتْبَةَ، وَأُمَيَّةَ بْنِ خَلَفٍ، وَعُقْبَةَ بْنِ أَبِي مُعَيْطٍ ‏\"‏‏.‏ وَعَدَّ السَّابِعَ فَلَمْ يَحْفَظْهُ قَالَ فَوَالَّذِي نَفْسِي بِيَدِهِ، لَقَدْ رَأَيْتُ الَّذِينَ عَدَّ رَسُولُ اللَّهِ صلى الله عليه وسلم صَرْعَى فِي الْقَلِيبِ قَلِيبِ بَدْرٍ‏.‏",
+                "headingArabic": "إِذَا أُلْقِيَ عَلَى ظَهْرِ الْمُصَلِّي قَذَرٌ أَوْ جِيفَةٌ لَمْ تَفْسُدْ عَلَيْهِ صَلاَتُهُ",
+                "headingUrdu": "نماز پڑھنے والے کی پشت پر میت یا کوئی آلودہ چیز رکھ دی جائے تو اس کی نماز رد نہیں ہوگی",
+                "headingEnglish": "If a dead body or a polluted thing is put on the back of a person offering Salat (prayer), his Salat will not be annulled (rejected by Allah)",
+                "chapterId": "4",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 4,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "Ablutions (Wudu')",
+                    "chapterUrdu": "وضو کے بیان میں",
+                    "chapterArabic": "كتاب الوضوء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 241,
+                "hadithNumber": "241",
+                "englishNarrator": "Narrated Anas:",
+                "hadithEnglish": "The Prophet (ﷺ) once spat in his clothes.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ( ایک مرتبہ ) اپنے کپڑے میں تھوکا ۔",
+                "urduNarrator": "ابوعبداللہ امام بخاری رحمہ اللہ علیہ نے فرمایا کہ سعید بن ابی مریم نے اس حدیث کو طوالت کے ساتھ بیان کیا انھوں نے کہا ہم کو خبر دی یحییٰ بن ایوب نے ، کہا مجھ سے حمید نے بیان کیا ، کہا میں نے انس سے سنا ، وہ آنحضرت صلی اللہ علیہ وسلم سے روایت کرتے ہیں ۔",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ حُمَيْدٍ، عَنْ أَنَسٍ، قَالَ بَزَقَ النَّبِيُّ صلى الله عليه وسلم فِي ثَوْبِهِ‏.‏ طَوَّلَهُ ابْنُ أَبِي مَرْيَمَ قَالَ أَخْبَرَنَا يَحْيَى بْنُ أَيُّوبَ حَدَّثَنِي حُمَيْدٌ قَالَ سَمِعْتُ أَنَسًا عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+                "headingArabic": "الْبُزَاقِ وَالْمُخَاطِ وَنَحْوِهِ فِي الثَّوْبِ",
+                "headingUrdu": "تھوکنا یا ناک پھونکنا یا اپنے لباس میں ایسا ہی عمل کرنا",
+                "headingEnglish": "Spitting or blowing out the nose or doing similar action in one's own garment",
+                "chapterId": "4",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 4,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "Ablutions (Wudu')",
+                    "chapterUrdu": "وضو کے بیان میں",
+                    "chapterArabic": "كتاب الوضوء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 242,
+                "hadithNumber": "242",
+                "englishNarrator": "Narrated Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"All drinks that produce intoxication are Haram (forbidden to drink).",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا کہ پینے کی ہر وہ چیز جو نشہ لانے والی ہو حرام ہے ۔",
+                "urduNarrator": "ہم سے علی بن عبداللہ نے بیان کیا ، کہا ہم سے سفیان نے ، ان سے زہری نے ابوسلمہ کے واسطے سے بیان کیا ، وہ حضرت عائشہ رضی اللہ عنہا سے وہ رسول کریم صلی اللہ علیہ وسلم سے روایت کرتی ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا الزُّهْرِيُّ، عَنْ أَبِي سَلَمَةَ، عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ كُلُّ شَرَابٍ أَسْكَرَ فَهُوَ حَرَامٌ ‏\"‏‏.‏",
+                "headingArabic": "لاَ يَجُوزُ الْوُضُوءُ بِالنَّبِيذِ وَلاَ الْمُسْكِرِ",
+                "headingUrdu": "نبیذ (وہ پانی جس میں کھجور یا انگور وغیرہ بھگوئے گئے ہوں اور ابھی خمیر نہ ہوئے ہوں) یا کسی اور نشہ آور چیز سے وضو کرنا ناجائز ہے۔",
+                "headingEnglish": "It is unlawful to perform ablution with Nabidh (water in which dates or grapes etc, are soaked and is not yet fermented) or with any other intoxicant",
+                "chapterId": "4",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 4,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "Ablutions (Wudu')",
+                    "chapterUrdu": "وضو کے بیان میں",
+                    "chapterArabic": "كتاب الوضوء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 243,
+                "hadithNumber": "243",
+                "englishNarrator": "Narrated Abu Hazim:",
+                "hadithEnglish": "Sahl bin Sa`d As-Sa`idi, was asked by the people, \"With what was the wound of the Prophet (ﷺ) treated? Sahl replied, \"None remains among the people living who knows that better than I. `Ali [??] used to bring water in his shield and Fatima used to wash the blood off his face. Then straw mat was burnt and the wound was filled with it.\"",
+                "hadithUrdu": "لوگوں نے ان سے پوچھا ، اور ( میں اس وقت سہل کے اتنا قریب تھا کہ ) میرے اور ان کے درمیان کوئی دوسرا حائل نہ تھا کہ رسول اللہ صلی اللہ علیہ وسلم کے ( احد کے ) زخم کا علاج کس دوا سے کیا گیا تھا ۔ انھوں نے کہا کہ اس بات کا جاننے والا ( اب ) مجھ سے زیادہ کوئی نہیں رہا ۔ علی رضی اللہ عنہ اپنی ڈھال میں پانی لاتے اور حضرت فاطمہ رضی اللہ عنہا آپ صلی اللہ علیہ وسلم کے منہ سے خون دھوتیں پھر ایک بوریا کا ٹکڑا جلایا گیا اور آپ صلی اللہ علیہ وسلم کے زخم میں بھر دیا گیا ۔",
+                "urduNarrator": "ہم سے محمد نے بیان کیا ، کہا ہم سے سفیان بن عیینہ نے ابن ابی حازم کے واسطے سے نقل کیا ، انھوں نے سہل بن سعد الساعدی سے سنا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدٌ، قَالَ أَخْبَرَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ أَبِي حَازِمٍ، سَمِعَ سَهْلَ بْنَ سَعْدٍ السَّاعِدِيَّ،، وَسَأَلَهُ النَّاسُ، وَمَا بَيْنِي وَبَيْنَهُ أَحَدٌ بِأَىِّ شَىْءٍ دُووِيَ جُرْحُ النَّبِيِّ صلى الله عليه وسلم فَقَالَ مَا بَقِيَ أَحَدٌ أَعْلَمُ بِهِ مِنِّي، كَانَ عَلِيٌّ يَجِيءُ بِتُرْسِهِ فِيهِ مَاءٌ، وَفَاطِمَةُ تَغْسِلُ عَنْ وَجْهِهِ الدَّمَ، فَأُخِذَ حَصِيرٌ فَأُحْرِقَ فَحُشِيَ بِهِ جُرْحُهُ‏.‏",
+                "headingArabic": "غَسْلِ الْمَرْأَةِ أَبَاهَا الدَّمَ عَنْ وَجْهِهِ",
+                "headingUrdu": "ایک عورت کا اپنے باپ کے چہرے سے خون دھونا",
+                "headingEnglish": "Washing blood by a women off her father's face",
+                "chapterId": "4",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 4,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "Ablutions (Wudu')",
+                    "chapterUrdu": "وضو کے بیان میں",
+                    "chapterArabic": "كتاب الوضوء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 244,
+                "hadithNumber": "244",
+                "englishNarrator": "Narrated Abu Burda's father (Abu Musa):",
+                "hadithEnglish": "\"I came to the Prophet (ﷺ) and saw him carrying a Siwak in his hand and cleansing his teeth, saying, 'U' U',\" as if he was retching while the Siwak was in his mouth.\"",
+                "hadithUrdu": "میں ( ایک مرتبہ ) رسول کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوا تو میں نے آپ کو اپنے ہاتھ سے مسواک کرتے ہوئے پایا اور آپ صلی اللہ علیہ وسلم کے منہ سے اع اع کی آواز نکل رہی تھی اور مسواک آپ صلی اللہ علیہ وسلم کے منہ میں تھی جس طرح آپ صلی اللہ علیہ وسلم قے کر رہے ہوں ۔",
+                "urduNarrator": "ہم سے ابوالنعمان نے بیان کیا ، کہا ہم سے حماد بن زید نے غیلان بن جریر کے واسطے سے نقل کیا ، وہ ابوبردہ سے وہ اپنے باپ سے نقل کرتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو النُّعْمَانِ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ غَيْلاَنَ بْنِ جَرِيرٍ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِيهِ، قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فَوَجَدْتُهُ يَسْتَنُّ بِسِوَاكٍ بِيَدِهِ يَقُولُ ‏ \"‏ أُعْ أُعْ ‏\"‏، وَالسِّوَاكُ فِي فِيهِ، كَأَنَّهُ يَتَهَوَّعُ‏.‏",
+                "headingArabic": "السِّوَاكِ",
+                "headingUrdu": "مسواک کرنا",
+                "headingEnglish": "Siwak (to clean the teeth with Siwak which is a tooth-brush in the form of a pencil from the roots of the Arak tree",
+                "chapterId": "4",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 4,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "Ablutions (Wudu')",
+                    "chapterUrdu": "وضو کے بیان میں",
+                    "chapterArabic": "كتاب الوضوء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 245,
+                "hadithNumber": "245",
+                "englishNarrator": "Narrated Hudhaifa:",
+                "hadithEnglish": "Whenever the Prophet (ﷺ) got up at night, he used to clean his mouth with Siwak.",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم جب رات کو اٹھتے تو اپنے منہ کو مسواک سے صاف کرتے ۔",
+                "urduNarrator": "ہم سے عثمان بن ابی شیبہ نے بیان کیا ، کہا ہم سے جریر نے منصور کے واسطے سے ، وہ ابووائل سے ، وہ حضرت حذیفہ سے روایت کرتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا عُثْمَانُ، قَالَ حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ أَبِي وَائِلٍ، عَنْ حُذَيْفَةَ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا قَامَ مِنَ اللَّيْلِ يَشُوصُ فَاهُ بِالسِّوَاكِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 4,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "Ablutions (Wudu')",
+                    "chapterUrdu": "وضو کے بیان میں",
+                    "chapterArabic": "كتاب الوضوء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 246,
+                "hadithNumber": "246",
+                "englishNarrator": "Narrated Ibn 'Umar:",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"I dreamt that I was cleaning my teeth with a Siwak and two persons came to me. One of them was older than the other and I gave the Siwak to the younger. I was told that I should give it to the older and so I did.\"",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم نے فرمایا کہ میں نے دیکھا کہ ( خواب میں ) مسواک کر رہا ہوں تو میرے پاس دو آدمی آئے ۔ ایک ان میں سے دوسرے سے بڑا تھا ، تو میں نے چھوٹے کو مسواک دے دی پھر مجھ سے کہا گیا کہ بڑے کو دو ۔ تب میں نے ان میں سے بڑے کو دی ۔ ابوعبداللہ بخاری کہتے ہیں کہ اس حدیث کو نعیم نے ابن المبارک سے ، وہ اسامہ سے ، وہ نافع سے ، انھوں نے ابن عمر رضی اللہ عنہما سے مختصر طور پر روایت کیا ہے ۔",
+                "urduNarrator": "عفان نے کہا کہ ہم سے صخر بن جویریہ نے نافع کے واسطے سے بیان کیا ، وہ ابن عمر رضی اللہ عنہما سے نقل کرتے ہیں کہ",
+                "hadithArabic": "وَقَالَ عَفَّانُ حَدَّثَنَا صَخْرُ بْنُ جُوَيْرِيَةَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ أَرَانِي أَتَسَوَّكُ بِسِوَاكٍ، فَجَاءَنِي رَجُلاَنِ أَحَدُهُمَا أَكْبَرُ مِنَ الآخَرِ، فَنَاوَلْتُ السِّوَاكَ الأَصْغَرَ مِنْهُمَا، فَقِيلَ لِي كَبِّرْ‏.‏ فَدَفَعْتُهُ إِلَى الأَكْبَرِ مِنْهُمَا ‏\"‏‏.\r\n‏ قَالَ أَبُو عَبْدِ اللَّهِ اخْتَصَرَهُ نُعَيْمٌ عَنِ ابْنِ الْمُبَارَكِ عَنْ أُسَامَةَ عَنْ نَافِعٍ عَنِ ابْنِ عُمَرَ‏.‏",
+                "headingArabic": "دَفْعِ السِّوَاكِ إِلَى الأَكْبَرِ",
+                "headingUrdu": "بڑے شخص کومسواک کرنا",
+                "headingEnglish": "To give Siwak to the oldest person of the group",
+                "chapterId": "4",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 4,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "Ablutions (Wudu')",
+                    "chapterUrdu": "وضو کے بیان میں",
+                    "chapterArabic": "كتاب الوضوء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 247,
+                "hadithNumber": "247",
+                "englishNarrator": "Narrated Al-Bara 'bin `Azib:",
+                "hadithEnglish": "The Prophet (ﷺ) said to me, \"Whenever you go to bed perform ablution like that for the prayer, lie or your right side and say, \"Allahumma aslamtu wajhi ilaika, wa fauwadtu `Amri ilaika, wa alja'tu Zahri ilaika raghbatan wa rahbatan ilaika. La Malja'a wa la manja minka illa ilaika. Allahumma amantu bikitabika-l-ladhi anzalta wa bina-biyika-l ladhi arsalta\" (O Allah! I surrender to You and entrust all my affairs to You and depend upon You for Your Blessings both with hope and fear of You. There is no fleeing from You, and there is no place of protection and safety except with You O Allah! I believe in Your Book (the Qur'an) which You have revealed and in Your Prophet (Muhammad) whom You have sent). Then if you die on that very night, you will die with faith (i.e. or the religion of Islam). Let the aforesaid words be your last utterance (before sleep).\" I repeated it before the Prophet (ﷺ) and when I reached \"Allahumma amantu bikitabika-l-ladhi anzalta (O Allah I believe in Your Book which You have revealed).\" I said, \"Wa-rasulika (and your Apostle).\" The Prophet (ﷺ) said, \"No, (but say): 'Wanabiyika-l-ladhi arsalta (Your Prophet whom You have sent), instead.\"",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم نے فرمایا کہ جب تم اپنے بستر پر لیٹنے آؤ تو اس طرح وضو کرو جس طرح نماز کے لیے کرتے ہو ۔ پھر داہنی کروٹ پر لیٹ کر یوں کہو «اللهم أسلمت وجهي إليك ،‏‏‏‏ ‏‏‏‏ وفوضت أمري إليك ،‏‏‏‏ ‏‏‏‏ وألجأت ظهري إليك ،‏‏‏‏ ‏‏‏‏ رغبة ورهبة إليك ،‏‏‏‏ ‏‏‏‏ لا ملجأ ولا منجا منك إلا إليك ،‏‏‏‏ ‏‏‏‏ اللهم آمنت بكتابك الذي أنزلت ،‏‏‏‏ ‏‏‏‏ وبنبيك الذي أرسلت‏» ” اے اللہ ! میں نے اپنا چہرہ تیری طرف جھکا دیا ۔ اپنا معاملہ تیرے ہی سپرد کر دیا ۔ میں نے تیرے ثواب کی توقع اور تیرے عذاب کے ڈر سے تجھے ہی پشت پناہ بنا لیا ۔ تیرے سوا کہیں پناہ اور نجات کی جگہ نہیں ۔ اے اللہ ! جو کتاب تو نے نازل کی میں اس پر ایمان لایا ۔ جو نبی تو نے بھیجا میں اس پر ایمان لایا ۔ “ تو اگر اس حالت میں اسی رات مر گیا تو فطرت پر مرے گا اور اس دعا کو سب باتوں کے اخیر میں پڑھ ۔ حضرت براء رضی اللہ عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کے سامنے اس دعا کو دوبارہ پڑھا ۔ جب میں «اللهم آمنت بكتابك الذي أنزلت» پر پہنچا تو میں نے «ورسولك‏» ( کا لفظ ) کہہ دیا ۔ آپ صلی اللہ علیہ وسلم نے فرمایا نہیں ( یوں کہو ) «ونبيك الذي أرسلت» ۔",
+                "urduNarrator": "ہم سے محمد بن مقاتل نے بیان کیا ، انھوں نے کہا ہم کو عبداللہ نے خبر دی ، انھوں نے کہا ہمیں سفیان نے منصور کے واسطے سے خبر دی ، انھوں نے سعد بن عبیدہ سے ، وہ براء بن عازب رضی اللہ عنہما سے روایت کرتے ہیں ، وہ کہتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مُقَاتِلٍ، قَالَ أَخْبَرَنَا عَبْدُ اللَّهِ، قَالَ أَخْبَرَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ سَعْدِ بْنِ عُبَيْدَةَ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ إِذَا أَتَيْتَ مَضْجَعَكَ فَتَوَضَّأْ وُضُوءَكَ لِلصَّلاَةِ، ثُمَّ اضْطَجِعْ عَلَى شِقِّكَ الأَيْمَنِ، ثُمَّ قُلِ اللَّهُمَّ أَسْلَمْتُ وَجْهِي إِلَيْكَ، وَفَوَّضْتُ أَمْرِي إِلَيْكَ، وَأَلْجَأْتُ ظَهْرِي إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لاَ مَلْجَأَ وَلاَ مَنْجَا مِنْكَ إِلاَّ إِلَيْكَ، اللَّهُمَّ آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ، وَبِنَبِيِّكَ الَّذِي أَرْسَلْتَ‏.‏ فَإِنْ مُتَّ مِنْ لَيْلَتِكَ فَأَنْتَ عَلَى الْفِطْرَةِ، وَاجْعَلْهُنَّ آخِرَ مَا تَتَكَلَّمُ بِهِ ‏\"‏‏.‏ قَالَ فَرَدَّدْتُهَا عَلَى النَّبِيِّ صلى الله عليه وسلم فَلَمَّا بَلَغْتُ ‏\"‏ اللَّهُمَّ آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ ‏\"‏‏.‏ قُلْتُ وَرَسُولِكَ‏.‏ قَالَ ‏\"‏ لاَ، وَنَبِيِّكَ الَّذِي أَرْسَلْتَ ‏\"‏‏.‏",
+                "headingArabic": "فَضْلِ مَنْ بَاتَ عَلَى الْوُضُوءِ",
+                "headingUrdu": "وضو کر کے سونے والے کی فضیلت۔",
+                "headingEnglish": "The superiority of a person who sleeps with ablution.",
+                "chapterId": "4",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 4,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "Ablutions (Wudu')",
+                    "chapterUrdu": "وضو کے بیان میں",
+                    "chapterArabic": "كتاب الوضوء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 248,
+                "hadithNumber": "248",
+                "englishNarrator": "Narrated `Aisha:",
+                "hadithEnglish": "Whenever the Prophet (ﷺ) took a bath after Janaba he started by washing his hands and then performed ablution like that for the prayer. After that he would put his fingers in water and move the roots of his hair with them, and then pour three handfuls of water over his head and then pour water all over his body.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم جب غسل فرماتے تو آپ صلی اللہ علیہ وسلم پہلے اپنے دونوں ہاتھ دھوتے پھر اسی طرح وضو کرتے جیسا نماز کے لیے آپ صلی اللہ علیہ وسلم وضو کیا کرتے تھے ۔ پھر پانی میں اپنی انگلیاں داخل فرماتے اور ان سے بالوں کی جڑوں کا خلال کرتے ۔ پھر اپنے ہاتھوں سے تین چلو سر پر ڈالتے پھر تمام بدن پر پانی بہا لیتے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ، انھوں نے کہا ہمیں مالک نے ہشام سے خبر دی ، وہ اپنے والد سے ، وہ نبی کریم صلی اللہ علیہ وسلم کی زوجہ مطہرہ حضرت عائشہ رضی اللہ عنہا سے روایت کرتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا اغْتَسَلَ مِنَ الْجَنَابَةِ بَدَأَ فَغَسَلَ يَدَيْهِ، ثُمَّ يَتَوَضَّأُ كَمَا يَتَوَضَّأُ لِلصَّلاَةِ، ثُمَّ يُدْخِلُ أَصَابِعَهُ فِي الْمَاءِ، فَيُخَلِّلُ بِهَا أُصُولَ شَعَرِهِ ثُمَّ يَصُبُّ عَلَى رَأْسِهِ ثَلاَثَ غُرَفٍ بِيَدَيْهِ، ثُمَّ يُفِيضُ الْمَاءَ عَلَى جِلْدِهِ كُلِّهِ‏.‏",
+                "headingArabic": "الْوُضُوءِ قَبْلَ الْغُسْلِ",
+                "headingUrdu": "نہانے سے پہلے وضو کرنے کا عمل",
+                "headingEnglish": "The performance of ablution before taking a bath",
+                "chapterId": "5",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 5,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "Bathing (Ghusl)",
+                    "chapterUrdu": "غسل کے احکام و مسائل",
+                    "chapterArabic": "كتاب الغسل",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 249,
+                "hadithNumber": "249",
+                "englishNarrator": "Narrated Maimuna (the wife of the Prophet):",
+                "hadithEnglish": "Allah's Messenger (ﷺ) performed ablution like that for the prayer but did not wash his feet. He washed off the discharge from his private parts and then poured water over his body. He withdrew his feet from that place (the place where he took the bath) and then washed them. And that was his way of taking the bath of Janaba.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے نماز کے وضو کی طرح ایک مرتبہ وضو کیا ، البتہ پاؤں نہیں دھوئے ۔ پھر اپنی شرمگاہ کو دھویا اور جہاں کہیں بھی نجاست لگ گئی تھی ، اس کو دھویا ۔ پھر اپنے اوپر پانی بہا لیا ۔ پھر پہلی جگہ سے ہٹ کر اپنے دونوں پاؤں کو دھویا ۔ آپ کا غسل جنابت اسی طرح ہوا کرتا تھا ۔",
+                "urduNarrator": "ہم سے محمد بن یوسف نے حدیث بیان کی ، انھوں نے کہا کہ ہم سے سفیان نے بیان کیا اعمش سے روایت کر کے ، وہ سالم ابن ابی الجعد سے ، وہ کریب سے ، وہ ابن عباس رضی اللہ عنہما سے ، وہ میمونہ رضی اللہ عنہا نبی کریم صلی اللہ علیہ وسلم کی زوجہ مطہرہ سے روایت کرتے ہیں ، انھوں نے بتلایا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ، عَنْ مَيْمُونَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم قَالَتْ تَوَضَّأَ رَسُولُ اللَّهِ صلى الله عليه وسلم وُضُوءَهُ لِلصَّلاَةِ غَيْرَ رِجْلَيْهِ، وَغَسَلَ فَرْجَهُ، وَمَا أَصَابَهُ مِنَ الأَذَى، ثُمَّ أَفَاضَ عَلَيْهِ الْمَاءَ، ثُمَّ نَحَّى رِجْلَيْهِ فَغَسَلَهُمَا، هَذِهِ غُسْلُهُ مِنَ الْجَنَابَةِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 5,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "Bathing (Ghusl)",
+                    "chapterUrdu": "غسل کے احکام و مسائل",
+                    "chapterArabic": "كتاب الغسل",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 250,
+                "hadithNumber": "250",
+                "englishNarrator": "Narrated `Aisha:",
+                "hadithEnglish": "The Prophet (ﷺ) and I used to take a bath from a single pot called 'Faraq'.",
+                "hadithUrdu": "میں اور نبی کریم صلی اللہ علیہ وسلم ایک ہی برتن میں غسل کیا کرتے تھے اس برتن کو فرق کہا جاتا تھا ۔ ( نوٹ : فرق کے اندر 6.298 کلو گرام ہوتا ہے ۔ )",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے حدیث بیان کی ، انھوں نے کہا کہ ہم سے ابن ابی ذئب نے حدیث بیان کی ۔ انھوں نے زہری سے ، انھوں نے عروہ سے ، انھوں نے حضرت عائشہ رضی اللہ عنہا سے کہ آپ نے بتلایا کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ بْنُ أَبِي إِيَاسٍ، قَالَ حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ كُنْتُ أَغْتَسِلُ أَنَا وَالنَّبِيُّ، صلى الله عليه وسلم مِنْ إِنَاءٍ وَاحِدٍ مِنْ قَدَحٍ يُقَالُ لَهُ الْفَرَقُ‏.‏",
+                "headingArabic": "غُسْلِ الرَّجُلِ مَعَ امْرَأَتِهِ",
+                "headingUrdu": "مرد کا اپنی بیوی کے ساتھ غسل کرنا",
+                "headingEnglish": "Taking a bath by a man along with his wife",
+                "chapterId": "5",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 5,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "Bathing (Ghusl)",
+                    "chapterUrdu": "غسل کے احکام و مسائل",
+                    "chapterArabic": "كتاب الغسل",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 226,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=9",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=7",
+                "label": "7",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=8",
+                "label": "8",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=9",
+                "label": "9",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=10",
+                "label": "10",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=11",
+                "label": "11",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=12",
+                "label": "12",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=13",
+                "label": "13",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=11",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=11",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=9",
+        "to": 250,
+        "total": 40465
+    }
+}

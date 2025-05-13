@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 465,
+        "data": [
+            {
+                "id": 11889,
+                "hadithNumber": "4325",
+                "englishNarrator": "Ibn 'Umar رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: He who gives up his share in a slave, and has enough money to pay the full price of the slave, then full emancipation devolves upon him; but if he has not the money, then he emancipated what he emancipated.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جس نے کسی ( مشترکہ ) غلام ( کی ملکیت میں ) سے اپنا حصہ آزاد کیا اور اس کے پاس اتنا مال ہے جو غلام کی قیمت کو پہنچتا ہے تو اس کی مصفانہ قیمت لگائی جائے گی اور اس کے شریکوں کو ان کے حصے دیے جائیں گے اور غلام اس کی طرف سے آزاد ہو جائے گا ورنہ وہ اتنا ہی آزاد رہے گا جتنا پہلے ہو گیا ہے.",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، انہوں نے کہا امام مالک نے نافع سے اور انہوں نے حضرت ابن عمر رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ: قُلْتُ لِمَالِكٍ: حَدَّثَكَ نَافِعٌ، عَنِ ابْنِ عُمَرَ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنْ أَعْتَقَ شِرْكًا لَهُ فِي عَبْدٍ، فَكَانَ لَهُ مَالٌ يَبْلُغُ ثَمَنَ الْعَبْدِ، قُوِّمَ عَلَيْهِ قِيمَةَ الْعَدْلِ، فَأَعْطَى شُرَكَاءَهُ حِصَصَهُمْ، وَعَتَقَ عَلَيْهِ الْعَبْدُ، وَإِلَّا فَقَدْ عَتَقَ مِنْهُ مَا عَتَقَ.",
+                "headingArabic": "مَنْ أَعْتَقَ شِرْكًا لَهُ فِي عَبْدٍ ‏‏",
+                "headingUrdu": "جو غلام میں اپنا حصہ آزاد کرتا ہے۔",
+                "headingEnglish": "One who frees his share in a slave",
+                "chapterId": "28",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 128,
+                    "chapterNumber": "28",
+                    "chapterEnglish": "The Book Of Oaths",
+                    "chapterUrdu": "قسموں کا بیان",
+                    "chapterArabic": "كتاب الْأَيْمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11890,
+                "hadithNumber": "4326",
+                "englishNarrator": "Ibn 'Umar رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: He who emancipates his share in the slave, it is his responsibility to secure full freedom for him provided he (the slave) has enough money to pay the (remaining) price, but it he has not so much money he would be emancipated to the extent that the first man emancipated.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جس نے کسی غلام ( کی ملکیت میں ) سے اپنا حصہ آزاد کیا ، اگر اس کے پاس اتنا مال ہے جو اس کی قیمت کو پہنچتا ہے تو اس کی پوری آزادی اس پر ( لازم ) ہے ۔ اور اگر اس کے پاس مال نہیں ہے تو وہ جتنا آزاد ہو چکا تھا اتنا ہی آزاد رہے گا.",
+                "urduNarrator": "ہم سے ابن نمیر نے بیان کیا، ہم سے میرے والد نے بیان کیا,عبیداللہ نے نافع سے ، انہوں نے حضرت ابن عمر رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا عُبَيْدُ اللهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنْ أَعْتَقَ شِرْكًا لَهُ مِنْ مَمْلُوكٍ، فَعَلَيْهِ عِتْقُهُ كُلُّهُ، إِنْ كَانَ لَهُ مَالٌ يَبْلُغُ ثَمَنَهُ، فَإِنْ لَمْ يَكُنْ لَهُ مَالٌ، عَتَقَ مِنْهُ مَا عَتَقَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "28",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 128,
+                    "chapterNumber": "28",
+                    "chapterEnglish": "The Book Of Oaths",
+                    "chapterUrdu": "قسموں کا بیان",
+                    "chapterArabic": "كتاب الْأَيْمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11891,
+                "hadithNumber": "4327",
+                "englishNarrator": "Abdullah bin 'Umar رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: He who gives up his share in a slave, and he has money enough to meet the full price, a fair price for him should be fixed; otherwise be has emancipated him to the extent that he has emancipated.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جس نے کسی ( مشترکہ ) غلام ( کی ملکیت میں ) سے اپنا حصہ آزاد کیا اور اس کے پاس اتنی مقدار میں مال ہے جو اس کی قیمت کو پہنچتا ہے ، تو اس کی منصفانہ قیمت لگائی جائے گی ( اور شریک کو اس کا حصہ ادا کر کے غلام اس کی طرف سے آزاد کیا جائے گا ۔ ) ورنہ وہ جتنا آزاد ہو چکا تھا اتنا ہی آزاد رہے گا.",
+                "urduNarrator": "ہم سے شیبان بن فروخ نے بیان کیا,جریر بن حازم نے عبداللہ بن عمر رضی اللہ عنہ کے مولیٰ نافع سے ، انہوں نے حضرت عبداللہ بن عمر رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "وحَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، حَدَّثَنَا جَرِيرُ بْنُ حَازِمٍ، عَنْ نَافِعٍ، مَوْلَى عَبْدِ اللهِ بْنِ عُمَرَ، عَنْ عَبْدِ اللهِ بْنِ عُمَرَ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنْ أَعْتَقَ نَصِيبًا لَهُ فِي عَبْدٍ، فَكَانَ لَهُ مِنَ الْمَالِ قَدْرُ مَا يَبْلُغُ قِيمَتَهُ، قُوِّمَ عَلَيْهِ قِيمَةَ عَدْلٍ، وَإِلَّا فَقَدْ عَتَقَ مِنْهُ مَا عَتَقَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "28",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 128,
+                    "chapterNumber": "28",
+                    "chapterEnglish": "The Book Of Oaths",
+                    "chapterUrdu": "قسموں کا بیان",
+                    "chapterArabic": "كتاب الْأَيْمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11892,
+                "hadithNumber": "4328",
+                "englishNarrator": "This hadith was narrated from Ibn 'Umar رضی اللہ عنہ , (similar to no. 4326) from the prophet ﷺ but in their Hadith it does not say:",
+                "hadithEnglish": "If he does not enough money than he has freed only what he has freed.\" but in the hadith of Ayyub and yahya bin Saeed, they mention this phrase but they said: \"We do not know whether it is part of the Hadith or is something that was said by Nafi (a narrator through another chain of transmitters with a slight variation of words.",
+                "hadithUrdu": "\" اور اگر اس کے پال مال نہیں تو وہ جتنا آزاد ہو چکا تھا اتنا ہی آزاد رہے گا ۔ \" اور انہی دونوں نے یہ جملہ کہا اور ان دونوں ( ایوب اور یحییٰ ) نے یہ بھی کہا : ہمیں معلوم نہیں ہے کہ یہ حدیث کا حصہ ہے یا نافع نے اپنی طرف سے کہا ہے ۔ اور لیث بن سعد کی حدیث کے سوا ان میں سے کسی کی روایت میں سمعت رسول الله ﷺ ( میں نے رسول اللہ صلی اللہ علیہ وسلم سےسنا ) کے الفاظ نہیں ہیں ۔",
+                "urduNarrator": "ہم سے قتیبہ بن سعید اور محمد بن رومح نے بیان کیا, لیث بن سعد ، یحییٰ بن سعید ، ایوب ، اسماعیل بن امیہ ، ابن ابی ذئب اور اسامہ بن زید سب نے نافع سے ، انہوں نے حضرت ابن عمر رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے یہی حدیث بیان کی ، ایوب اور یحییٰ بن سعید کی حدیث کے سوا ان میں سے کسی کی حدیث میں یہ الفاظ نہیں ہیں",
+                "hadithArabic": "وحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَمُحَمَّدُ بْنُ رُمْحٍ، عَنِ اللَّيْثِ بْنِ سَعْدٍ، ح وحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الْوَهَّابِ، قَالَ: سَمِعْتُ يَحْيَى بْنَ سَعِيدٍ، ح وحَدَّثَنِي أَبُو الرَّبِيعِ، وَأَبُو كَامِلٍ، قَالَا: حَدَّثَنَا حَمَّادٌ وَهُوَ ابْنُ زَيْدٍ، ح وحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا إِسْمَاعِيلُ يَعْنِي ابْنَ عُلَيَّةَ، كِلَاهُمَا عَنْ أَيُّوبَ، ح وحَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، عَنِ ابْنِ جُرَيْجٍ، أَخْبَرَنِي إِسْمَاعِيلُ بْنُ أُمَيَّةَ، ح وحَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، عَنِ ابْنِ أَبِي ذِئْبٍ، ح وحَدَّثَنَا هَارُونُ بْنُ سَعِيدٍ الْأَيْلِيُّ، أَخْبَرَنَا ابْنُ وَهْبٍ، قَالَ: أَخْبَرَنِي أُسَامَةُ يَعْنِي ابْنَ زَيْدٍ، كُلُّ هَؤُلَاءِ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِهَذَا الْحَدِيثِ، وَلَيْسَ فِي حَدِيثِهِمْ: «وَإِنْ لَمْ يَكُنْ لَهُ مَالٌ فَقَدْ عَتَقَ مِنْهُ مَا عَتَقَ» إِلَّا فِي حَدِيثِ أَيُّوبَ، وَيَحْيَى بْنِ سَعِيدٍ فَإِنَّهُمَا ذَكَرَا هَذَا الْحَرْفَ فِي الْحَدِيثِ، وَقَالَا: لَا نَدْرِي أَهُوَ شَيْءٌ فِي الْحَدِيثِ، أَوْ قَالَهُ نَافِعٌ مِنْ قِبَلِهِ، وَلَيْسَ فِي رِوَايَةِ أَحَدٍ مِنْهُمْ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، إِلَّا فِي حَدِيثِ اللَّيْثِ بْنِ سَعْدٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "28",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 128,
+                    "chapterNumber": "28",
+                    "chapterEnglish": "The Book Of Oaths",
+                    "chapterUrdu": "قسموں کا بیان",
+                    "chapterArabic": "كتاب الْأَيْمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11893,
+                "hadithNumber": "4329",
+                "englishNarrator": "Salim bin 'Abdullah reported on the authority of his father:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: He who emancipates a slave (shared) by him and another one, his full price may be justly assessed from his wealth, neither less nor more, and he (the slave) would be emancipated if he (the partner) would be solvent enough (to forgo the amount of his share).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جس نے اپنے اور کسی دوسرے کے درمیان مشترک غلام کو آزاد کیا تو کمی بیشی کے بغیر اس کے مال میں سے ( غلام کی ) منصفانہ قیمت لگائی جائے گی ، پھر اگر وہ خوش حال ہوا تو وہ اس کے مال سے اس کی طرف سے آزاد ہو جائے گا.",
+                "urduNarrator": "ہم سے عمرو ناقد اور ابن ابی عمر نے بیان کیا، دونوں نے ابن عیینہ کی سند سے کہا: ہم سے سفیان بن عیینہ نے بیان کیا, عمرو نے سالم بن عبداللہ سے اور انہوں نے اپنے والد سے روایت کی کہ",
+                "hadithArabic": "دَّثَنَا عَمْرٌو النَّاقِدُ، وَابْنُ أَبِي عُمَرَ، كِلَاهُمَا عَنِ ابْنِ عُيَيْنَةَ، قَالَ ابْنُ أَبِي عُمَرَ: حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَمْرٍو، عَنْ سَالِمِ بْنِ عَبْدِ اللهِ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنْ أَعْتَقَ عَبْدًا بَيْنَهُ وَبَيْنَ آخَرَ، قُوِّمَ عَلَيْهِ فِي مَالِهِ قِيمَةَ عَدْلٍ، لَا وَكْسَ، وَلَا شَطَطَ، ثُمَّ عَتَقَ عَلَيْهِ فِي مَالِهِ إِنْ كَانَ مُوسِرًا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "28",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 128,
+                    "chapterNumber": "28",
+                    "chapterEnglish": "The Book Of Oaths",
+                    "chapterUrdu": "قسموں کا بیان",
+                    "chapterArabic": "كتاب الْأَيْمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11894,
+                "hadithNumber": "4330",
+                "englishNarrator": "Ibn 'Umar رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: He who gives up his share in a slave, the remaining (share) will be paid out of his riches if his riches are enough to meet the price of the slave.",
+                "hadithUrdu": "نبی صلی اللہ علیہ وسلم نے فرمایا : جس نے کسی غلام ( کی ملکیت میں ) سے اپنا حصہ آزاد کیا تو اس کا باقی حصہ بھی اس کے مال سے آزاد ہو گا ، بشرطیکہ اس کے پاس اتنا مال ہو جو غلام کی قیمت کو پہنچ جائے.",
+                "urduNarrator": "ہم سے عبد بن حمید نے بیان کیا، کہا ہم سے عبدالرزاق نے بیان کیا، کہا ہم سے معمر نے بیان کیا، زہری نے سالم سے اور انہوں نے حضرت ابن عمر رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "وحَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنْ أَعْتَقَ شِرْكًا لَهُ فِي عَبْدٍ، عَتَقَ مَا بَقِيَ فِي مَالِهِ، إِذَا كَانَ لَهُ مَالٌ يَبْلُغُ ثَمَنَ الْعَبْدِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "28",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 128,
+                    "chapterNumber": "28",
+                    "chapterEnglish": "The Book Of Oaths",
+                    "chapterUrdu": "قسموں کا بیان",
+                    "chapterArabic": "كتاب الْأَيْمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11895,
+                "hadithNumber": "4331",
+                "englishNarrator": "Abu Huraira reported:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: In case the slave is owned by two persons, and one of them emancipates him, he will guarantee (his full freedom).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: آپ نے دو آدمیوں کے مشترکہ غلام کے بارے میں جن میں سے ایک ( اپنا حصہ ) آزاد کر دیتا ہے ، فرمایا : \" وہ ( دوسرے کا ) ضامن ہے ۔ ( کہ اس کے حصے کی قیمت اسے مل جائے گی.",
+                "urduNarrator": "ہم سے محمد بن المثنیٰ اور محمد بن بشار نے بیان کیا، اور یہ قول ابن المثنیٰ کا ہے، انہوں نے کہا:محمد بن جعفر نے کہا : ہمیں شعبہ نے قتادہ سے حدیث بیان کی ، انہوں نے نضر بن انس سے ، انہوں نے بشیر بن نہیک سے ، انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے روایت کی",
+                "hadithArabic": "وحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، وَاللَّفْظُ لِابْنِ الْمُثَنَّى، قَالَا: حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنِ النَّضْرِ بْنِ أَنَسٍ، عَنْ بَشِيرِ بْنِ نَهِيكٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ فِي الْمَمْلُوكِ بَيْنَ الرَّجُلَيْنِ، فَيُعْتِقُ أَحَدُهُمَا، قَالَ: «يَضْمَنُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "28",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 128,
+                    "chapterNumber": "28",
+                    "chapterEnglish": "The Book Of Oaths",
+                    "chapterUrdu": "قسموں کا بیان",
+                    "chapterArabic": "كتاب الْأَيْمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11896,
+                "hadithNumber": "4332",
+                "englishNarrator": "This hadith has been narrated on the authority of Shu'ba with the same chain of transmitters (and the words are):",
+                "hadithEnglish": "He who emancipates a portion in a slave, he should (secure full) freedom for him from his property.",
+                "hadithUrdu": "\" جس نے غلام ( کی ملکیت ) میں سے اپنا حصہ آزاد کیا تو وہ اسی کے مال سے ( پورا ) آزاد ہو جائے گا.",
+                "urduNarrator": "عبیداللہ کے والد معاذ عنبری نے کہا : ہمیں شعبہ نے اسی سند کے ساتھ حدیث بیان کی ، آپ نے فرمایا",
+                "hadithArabic": "حَدَّثَنَاهُ عُبَيْدُ اللهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ بِهَذَا الْإِسْنَادِ، قَالَ: «مَنْ أَعْتَقَ شَقِيصًا مِنْ مَمْلُوكٍ، فَهُوَ حُرٌّ مِنْ مَالِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "28",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 128,
+                    "chapterNumber": "28",
+                    "chapterEnglish": "The Book Of Oaths",
+                    "chapterUrdu": "قسموں کا بیان",
+                    "chapterArabic": "كتاب الْأَيْمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11897,
+                "hadithNumber": "4333",
+                "englishNarrator": "Abu Huraira reported:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: He who emancipates his portion in a slave, full emancipation may be secured for him out of his property (if he has money) if he has enough property to meet (the required expenses), but if he has not enough property, the slave should be put to extra labour (in order to earn money for buying his freedom), but he should not be overburdened.",
+                "hadithUrdu": "آپ نے فرمایا : \" جس نے غلام ( کی ملکیت ) میں سے اپنا حصہ آزاد کیا ، اگر اس کے پاس مال ہے تو اس کی ( پوری ) آزادی اسی کے مال کے ذریعے سے ہو گی اور اگر اس کے پاس مال نہیں ہے تو کسی جبری مشقت میں ڈالے بغیر اس غلام سے ( بقیہ قیمت کی ادائیگی کے لیے ) کام کروایا جائے گا.",
+                "urduNarrator": "عمرو الناقد نے مجھ سے کہا, اسماعیل بن ابراہیم نے ابن ابی عروبہ سے ، انہوں نے قتادہ سے ، انہوں نے نضر بن انس سے ، انہوں نے بشیر بن نہیک سے ، انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے روایت کی",
+                "hadithArabic": "وحَدَّثَنِي عَمْرٌو النَّاقِدُ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، عَنِ ابْنِ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، عَنِ النَّضْرِ بْنِ أَنَسٍ، عَنْ بَشِيرِ بْنِ نَهِيكٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنْ أَعْتَقَ شَقِيصًا لَهُ فِي عَبْدٍ، فَخَلَاصُهُ فِي مَالِهِ، إِنْ كَانَ لَهُ مَالٌ، فَإِنْ لَمْ يَكُنْ لَهُ مَالٌ، اسْتُسْعِيَ الْعَبْدُ غَيْرَ مَشْقُوقٍ عَلَيْهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "28",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 128,
+                    "chapterNumber": "28",
+                    "chapterEnglish": "The Book Of Oaths",
+                    "chapterUrdu": "قسموں کا بیان",
+                    "chapterArabic": "كتاب الْأَيْمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11898,
+                "hadithNumber": "4334",
+                "englishNarrator": "It was narrated from Ibi Abi Arubah with (a different chain, a Hadith similar to no. 4333). In the Hadith of Eisa it say:",
+                "hadithEnglish": "He will be required to work (in order to secure freedom) for that portion in which he has not been emancipated, without overburdening him.",
+                "hadithUrdu": "\" اسے کسی مشقت میں ڈالے بغیر ، اس شخص کے حصے ( کی ادائیگی ) کے لیے کام لیا جائے گا جس نے آزاد نہیں کیا.",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا,علی بن مسہر ، محمد بن بشر اور عیسیٰ بن یونس سب نے ابن ابی عروبہ سے اسی سند کے ساتھ حدیث بیان کی اور عیسیٰ کی حدیث میں ہے",
+                "hadithArabic": "وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، وَمُحَمَّدُ بْنُ بِشْرٍ، ح وحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَلِيُّ بْنُ خَشْرَمٍ، قَالَا: أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، جَمِيعًا عَنِ ابْنِ أَبِي عَرُوبَةَ، بِهَذَا الْإِسْنَادِ، وَفِي حَدِيثِ عِيسَى: «ثُمَّ يُسْتَسْعَى فِي نَصِيبِ الَّذِي لَمْ يُعْتِقْ غَيْرَ مَشْقُوقٍ عَلَيْهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "28",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 128,
+                    "chapterNumber": "28",
+                    "chapterEnglish": "The Book Of Oaths",
+                    "chapterUrdu": "قسموں کا بیان",
+                    "chapterArabic": "كتاب الْأَيْمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11899,
+                "hadithNumber": "4335",
+                "englishNarrator": "Imran bin Husain رضی اللہ عنہ reported:",
+                "hadithEnglish": "A person who had no other property emancipated six slaves of his at the time of his death. Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) called for them and divided them into three sections, cast lots amongst them, and set two free and kept four in slavery; and he (the Holy Prophet) spoke severely of him.",
+                "hadithUrdu": "ایک آدمی نے اپنی موت کے وقت اپنے چھ غلام آزاد کیے اور اس کے پاس ان کے سوا اور کوئی مال نہ تھا تو رسول اللہ صلی اللہ علیہ وسلم نے انہیں بلوایا اور تین گروپوں میں تقسیم کیا ، پھر ان کے درمیان قرعہ ڈالا ، اس کے بعد دو کو آزاد کر دیا اور چار کو غلام ہی برقرار رکھا اور آپ نے اسے سرزنش کی.",
+                "urduNarrator": "ہم سے علی بن حجر السعدی، ابوبکر بن ابی شیبہ اور زہیر بن حرب نے بیان کیا، انہوں نے کہا:اسماعیل بن علیہ نے ایوب سے ، انہوں نے ابوقلابہ سے ، انہوں نے ابومہلب سے اور انہوں نے حضرت عمران بن حصین رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "دَّثَنَا عَلِيُّ بْنُ حُجْرٍ السَّعْدِيُّ، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَزُهَيْرُ بْنُ حَرْبٍ، قَالُوا: حَدَّثَنَا إِسْمَاعِيلُ وَهُوَ ابْنُ عُلَيَّةَ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلَابَةَ، عَنْ أَبِي الْمُهَلَّبِ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، «أَنَّ رَجُلًا أَعْتَقَ سِتَّةَ مَمْلُوكِينَ لَهُ عِنْدَ مَوْتِهِ، لَمْ يَكُنْ لَهُ مَالٌ غَيْرَهُمْ، فَدَعَا بِهِمْ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَجَزَّأَهُمْ أَثْلَاثًا، ثُمَّ أَقْرَعَ بَيْنَهُمْ، فَأَعْتَقَ اثْنَيْنِ، وَأَرَقَّ أَرْبَعَةً، وَقَالَ لَهُ قَوْلًا شَدِيدًا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "28",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 128,
+                    "chapterNumber": "28",
+                    "chapterEnglish": "The Book Of Oaths",
+                    "chapterUrdu": "قسموں کا بیان",
+                    "chapterArabic": "كتاب الْأَيْمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11900,
+                "hadithNumber": "4336",
+                "englishNarrator": "It was narrated from Ayyub with this chain (a Hadith similar to no. 4335). As for Hammad (a narrator), his Hadith is like the report of Ibn 'Ulayyah (no. 4335). As for Ath-Thaqafi in his Hadith it says:",
+                "hadithEnglish": "A person from among the Ansar willed away the freedom of six slaves of his at the time of his death.",
+                "hadithUrdu": "انصار کے ایک آدمی نے اپنی موت کے وقت وصیت کی اور چھ غلام آزاد کر دیے.",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا, حماد اور ( عبدالوہاب ) ثقفی دونوں نے ایوب سے اسی سند کے ساتھ حدیث بیان کی ، حماد کی حدیث ابن عُلیہ کی حدیث کی طرح ہے اور ثقفی کی حدیث میں ہے",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا حَمَّادٌ، ح وحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَابْنُ أَبِي عُمَرَ، عَنِ الثَّقَفِيِّ، كِلَاهُمَا عَنْ أَيُّوبَ، بِهَذَا الْإِسْنَادِ، أَمَّا حَمَّادٌ، فَحَدِيثُهُ كَرِوَايَةِ ابْنِ عُلَيَّةَ، وَأَمَّا الثَّقَفِيُّ، فَفِي حَدِيثِهِ أَنَّ رَجُلًا مِنَ الْأَنْصَارِ أَوْصَى عِنْدَ مَوْتِهِ فَأَعْتَقَ سِتَّةَ مَمْلُوكِينَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "28",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 128,
+                    "chapterNumber": "28",
+                    "chapterEnglish": "The Book Of Oaths",
+                    "chapterUrdu": "قسموں کا بیان",
+                    "chapterArabic": "كتاب الْأَيْمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11901,
+                "hadithNumber": "4337",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been reported on the authority of Imran bin Husain رضی اللہ عنہ through another chain of narrators.",
+                "hadithUrdu": "ہم سے محمد بن منہال الضریر اور احمد بن عبدہ نے بیان کیا، کہا: یزید بن زریع نے ہمیں حدیث بیان کی ، کہا : ہمیں ہشام بن حسان نے محمد بن سیرین سے حدیث بیان کی ، انہوں نے حضرت عمران بن حصین رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے ابن علیہ اور حماد کی حدیث کے مانند روایت کی.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنَا مُحَمَّدُ بْنُ مِنْهَالٍ الضَّرِيرُ، وَأَحْمَدُ بْنُ عَبْدَةَ، قَالَا: حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا هِشَامُ بْنُ حَسَّانَ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، بِمِثْلِ حَدِيثِ ابْنِ عُلَيَّةَ، وَحَمَّادٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "28",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 128,
+                    "chapterNumber": "28",
+                    "chapterEnglish": "The Book Of Oaths",
+                    "chapterUrdu": "قسموں کا بیان",
+                    "chapterArabic": "كتاب الْأَيْمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11902,
+                "hadithNumber": "4338",
+                "englishNarrator": "Jabir bin 'Abdullah رضی اللہ عنہ said:",
+                "hadithEnglish": "A person among the Ansar declared his slave free after his death, as he had no other property. This news reached the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم) and he said: Who will buy him from me? And Nu'aim bin al-Nahham bought him for eight hundred dirhams and he handed them over to him, 'Amr (one of the narrators) said: I heard Jabir bin 'Abdullah رضی اللہ عنہ as saying: He was a Coptic slave, and he died in the first year (of the Caliphate of 'Abdullah bin Zubair رضی اللہ عنہ).",
+                "hadithUrdu": "انصار میں سے ایک آدمی نے اپنی موت کے بعد اپنے غلام کو آزاد قرار دیا ، اس کے پاس اس کے سوا اور کوئی مال نہ تھا ۔ نبی صلی اللہ علیہ وسلم کو یہ بات پہنچی تو آپ نے فرمایا : \"\" اس ( غلام ) کو مجھ سے کون خریدے گا؟ \"\" اسے نعیم بن عبداللہ رضی اللہ عنہ نے آٹھ سو درہم میں خرید لیا تو آپ نے وہ ( رقم ) اس آدمی کے حوالے کر دی ۔ عمرو نے کہا : میں نے حضرت جابر بن عبداللہ رضی اللہ عنہ سے سنا ، وہ کہہ رہے تھے : وہ قبطی غلام تھا ( ابن زبیر رضی اللہ عنہ کی امارت کے ) پہلے سال فوت ہوا ۔ ( اپنی فوت کے بعد غلام کو آزاد کرنے والے کو ایک تہائی سے زیادہ ترکے میں وصیت کا اختیار ہی نہ تھا.",
+                "urduNarrator": "ہم سے ابو الربیع سلیمان بن داؤد العتکی نے بیان کیا,حماد بن زید نے عمرو بن دینار سے ، انہوں نے حضرت جابر بن عبداللہ رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الرَّبِيعِ سُلَيْمَانُ بْنُ دَاوُدَ الْعَتَكِيُّ، حَدَّثَنَا حَمَّادٌ يَعْنِي ابْنَ زَيْدٍ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللهِ، أَنَّ رَجُلًا مِنَ الْأَنْصَارِ أَعْتَقَ غُلَامًا لَهُ عَنْ دُبُرٍ، لَمْ يَكُنْ لَهُ مَالٌ غَيْرُهُ، فَبَلَغَ ذَلِكَ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ: «مَنْ يَشْتَرِيهِ مِنِّي؟» فَاشْتَرَاهُ نُعَيْمُ بْنُ عَبْدِ اللهِ بِثَمَانِ مِائَةِ دِرْهَمٍ، فَدَفَعَهَا إِلَيْهِ، قَالَ عَمْرٌو: سَمِعْتُ جَابِرَ بْنَ عَبْدِ اللهِ، يَقُولُ: «عَبْدًا قِبْطِيًّا مَاتَ عَامَ أَوَّلَ.",
+                "headingArabic": "جَوَازِ بَيْعِ الْمُدَبَّرِ ‏‏",
+                "headingUrdu": "مدبر بیچنے کی اجازت",
+                "headingEnglish": "Permissibility of selling a Mudabbar",
+                "chapterId": "28",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 128,
+                    "chapterNumber": "28",
+                    "chapterEnglish": "The Book Of Oaths",
+                    "chapterUrdu": "قسموں کا بیان",
+                    "chapterArabic": "كتاب الْأَيْمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11903,
+                "hadithNumber": "4339",
+                "englishNarrator": "Jabir رضی اللہ عنہ is reported to have said:",
+                "hadithEnglish": "A person amongst the Ansar who had no other property declared a slave free after his death. Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) sold him, and Ibn al-Nahham bought him and he was a Coptic slave (who) died in the first year of the Caliphate of Ibn Zubair رضی اللہ عنہ .",
+                "hadithUrdu": "انصار کے ایک آدمی نے اپنی موت کے بعد اپنے غلام کے آزاد ہونے کی وصیت کی ، کہا : اس کے پاس اس کے علاوہ اور کوئی مال نہ تھا تو رسول اللہ صلی اللہ علیہ وسلم نے اسے فروخت کر دیا ‘ حضرت جابر رضی اللہ عنہ نے کہا : اسے ابن نحام نے خریدا ، وہ قبطی غلام تھا ، حضرت ابن زبیر رضی اللہ عنہ کی امارت کے پہلے سال فوت ہوا.",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ اور اسحاق بن ابراہیم نے بیان کیا، ابن عیینہ کی سند سے، ابوبکر نے کہا, سفیان بن عیینہ نے کہا : عمرو ( بن دینار ) نے حضرت جابر رضی اللہ عنہ سے سنا ، وہ کہہ رہے تھے",
+                "hadithArabic": "وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، عَنِ ابْنِ عُيَيْنَةَ، قَالَ أَبُو بَكْرٍ: حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، قَالَ: سَمِعَ عَمْرٌو، جَابِرًا يَقُولُ: دَبَّرَ رَجُلٌ مِنَ الْأَنْصَارِ غُلَامًا لَهُ، لَمْ يَكُنْ لَهُ مَالٌ غَيْرُهُ، فَبَاعَهُ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَ جَابِرٌ: «فَاشْتَرَاهُ ابْنُ النَّحَّامِ عَبْدًا قِبْطِيًّا مَاتَ عَامَ أَوَّلَ فِي إِمَارَةِ ابْنِ الزُّبَيْرِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "28",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 128,
+                    "chapterNumber": "28",
+                    "chapterEnglish": "The Book Of Oaths",
+                    "chapterUrdu": "قسموں کا بیان",
+                    "chapterArabic": "كتاب الْأَيْمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11904,
+                "hadithNumber": "4340",
+                "englishNarrator": null,
+                "hadithEnglish": "A hadith like that Hammad from 'Amr bin Dinaar (as no. 4338) was narrated from Jabir رضی اللہ عنہ, from prophet ﷺ, concerning the Mudabbir.",
+                "hadithUrdu": "ہم سے قتیبہ بن سعید اور ابن روم نے بیان کیا, لیث بن سعد نے ابوزبیر سے ، انہوں نے حضرت جابر رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے مدبر ( مالک کی موت کے بعد آزاد ہونے والے غلام ) کے بارے میں عمرو بن دینار سے روایت کردہ حماد کی حدیث کے ہم معنی روایت کی.",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَابْنُ رُمْحٍ، عَنِ اللَّيْثِ بْنِ سَعْدٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فِي الْمُدَبَّرِ نَحْوَ حَدِيثِ حَمَّادٍ، عَنْ عَمْرِو بْنِ دِينَارٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "28",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 128,
+                    "chapterNumber": "28",
+                    "chapterEnglish": "The Book Of Oaths",
+                    "chapterUrdu": "قسموں کا بیان",
+                    "chapterArabic": "كتاب الْأَيْمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11905,
+                "hadithNumber": "4341",
+                "englishNarrator": null,
+                "hadithEnglish": "It was narrated from 'Ata bin Abi Rabah, Ibn Az Zubair and 'Amr bin Dinar that Jabir bin Abdullah رضی اللہ عنہ told them about the sale of a Mudabbar. All of them said, a Hadith like that of Hammad and Ibn Uyaynah from 'Amr from Jabir رضی اللہ عنہ (no. 4338, 4339)",
+                "hadithUrdu": "ہم سے قتیبہ بن سعید نے بیان کیا، کہا کہ ہم سے المغیرہ یعنی الحزامی نے بیان کیا,عبدالمجید بن سہیل اور حسین بن ذکوان معلم نے عطاء سے ، انہوں نے حضرت جابر رضی اللہ عنہ سے روایت کی ، اسی طرح مطر بن طہمان الوراق نے عطاء بن ابی رباح ، ابوزبیر اور عمرو بن دینار سے روایت کی کہ حضرت جابر رضی اللہ عنہ نے انہیں مدبر کی بیع کے بارے میں حدیث بیان کی ، ان سب ( عطاء ، ابوزبیر اور عمرو ) نے کہا : انہوں ( جابر رضی اللہ عنہ ) نے نبی صلی اللہ علیہ وسلم سے اس حدیث کے ہم معنی روایت کی جو حماد اور ابن عیینہ نے عمرو سے اور انہوں نے حضرت جابر رضی اللہ عنہ سے بیان کی.",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا الْمُغِيرَةُ يَعْنِي الْحِزَامِيَّ، عَنْ عَبْدِ الْمَجِيدِ بْنِ سُهَيْلٍ، عَنْ عَطَاءِ بْنِ أَبِي رَبَاحٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللهِ، ح وحَدَّثَنِي عَبْدُ اللهِ بْنُ هَاشِمٍ، حَدَّثَنَا يَحْيَى يَعْنِي ابْنَ سَعِيدٍ، عَنِ الْحُسَيْنِ بْنِ ذَكْوَانَ الْمُعَلِّمِ، حَدَّثَنِي عَطَاءٌ، عَنْ جَابِرٍ، ح وحَدَّثَنِي أَبُو غَسَّانَ الْمِسْمَعِيُّ، حَدَّثَنَا مُعَاذٌ، حَدَّثَنِي أَبِي، عَنْ مَطَرٍ، عَنْ عَطَاءِ بْنِ أَبِي رَبَاحٍ، وَأَبِي الزُّبَيْرِ، وَعَمْرِو بْنِ دِينَارٍ، أَنَّ جَابِرَ بْنَ عَبْدِ اللهِ، حَدَّثَهُمْ فِي بَيْعِ الْمُدَبَّرِ كُلُّ هَؤُلَاءِ، قَالَ: عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمَعْنَى حَدِيثِ حَمَّادٍ، وَابْنِ عُيَيْنَةَ، عَنْ عَمْرٍو، عَنْ جَابِرٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "28",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 128,
+                    "chapterNumber": "28",
+                    "chapterEnglish": "The Book Of Oaths",
+                    "chapterUrdu": "قسموں کا بیان",
+                    "chapterArabic": "كتاب الْأَيْمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11906,
+                "hadithNumber": "4342",
+                "englishNarrator": "Sahl bin Abu Hathma and Rafi' bin Khadij reported 'Abdullah bin Sahl bin Zaid and Muhayyisa bin Mas'ud bin Zaid:",
+                "hadithEnglish": "He went out and as they reached Khaibar they were separated. Then Muhayyisa found 'Abdullah bin Sahl having been killed. He buried him, and then came to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ). They were Huwayyisa bin Mas'ud and 'Abdul-Rahman bin Sahl, and he (the latter one) was the youngest of the people (those three who had come to seek an interview with the Holy Prophet) began to talk before his Companions (had spoken). Thereupon Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: The eldest one (eldest in regard to age should speak). So he kept quiet, and his companions (Muhayyisa and Huwayyisa) began to speak, and he ('Abdul Rahman) spoke along with them and they narrated to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) the murder of 'Abdullah bin Sahl. Thereupon he said to them: Are you prepared to take fifty oaths so that you may be entitled (to blood-wit) of your companion (or your man who has murdered)? They said: How can we take an oath on a matter which we have not witnessed? He (the Holy Prophet) said: Then the Jews will exonerate themselves by fifty oaths. They said: How can we accept the oaths of people who are unbelievers? When Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) saw that, he himself paid his blood-wit.",
+                "hadithUrdu": "جب خیبر میں پہنچے تو وہاں کسی جگہ الگ الگ ہو گئے ، پھر ( یہ ہوتا ہے کہ ) اچانک محیصہ ، عبداللہ بن سہل کو مقتول پاتے ہیں ۔ انہوں نے اسے دفن کیا ، پھر وہ خود ، حویصہ بن مسعود اور ( مقتول کا حقیقی بھائی ) عبدالرحمن بن سہل رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے ، وہ ( عبدالرحمن ) سب سے کم عمر تھا ، چنانچہ عبدالرحمن اپنے دونوں ساتھیوں سے پہلے بات کرنے لگا تو رسول اللہ صلی اللہ علیہ وسلم نے اس سے فرمایا : \" بڑے کو اس کا مقام دو ، \" یعنی عمر میں بڑے کو ، تو وہ خاموش ہو گیا ، اس کے دونوں ساتھیوں نے بات کی اور ان کے ساتھ اس نے بھی بات کی ، انہوں نے رسول اللہ صلی اللہ علیہ وسلم کو عبداللہ بن سہل کے قتل کی بات بتائی تو آپ صلی اللہ علیہ وسلم نے ان سے پوچھا : \" کیا تم پچاس قسمیں کھاؤ گے ، پھر اپنے ساتھی ( کے بدلے خون بہا ) ۔ ۔ یا ( فرمایا : ) بدلے میں اپنے قاتل ( سے دیت یا قصاص لینے ) ۔ ۔ کے حقدار بنو گے؟ \" انہوں نے جواب دیا : ہم قسمیں کیسے کھائیں جبکہ ہم نے دیکھا نہیں؟ آپ نے فرمایا : \" تو یہود پچاس قسمیں کھا کر تمہیں ( ان کے خلاف تمہارے مطالبے کے حق سے ) الگ کر دیں گے انہوں نے کہا : ہم کافر لوگوں کی قسمیں کیونکر قبول کریں؟ جب رسول اللہ صلی اللہ علیہ وسلم نے یہ صورت حال دیکھی آپ نے ( اپنی طرف سے ) اس کی دیت ادا کی.",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا,لیث نے یحییٰ بن سعید سے ، انہوں نے بشیر بن یسار سے اور انہوں نے حضرت سہل بن ابی حثمہ اور حضرت رافع بن خدیج رضی اللہ عنہ سے روایت کی ، ان دونوں نے کہا : عبداللہ بن سہل بن زید اور محیصہ بن مسعود بن زید ( مدینہ سے ) نکلے یہاں تک کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، عَنْ يَحْيَى وَهُوَ ابْنُ سَعِيدٍ، عَنْ بُشَيْرِ بْنِ يَسَارٍ، عَنْ سَهْلِ بْنِ أَبِي حَثْمَةَ، - قَالَ يَحْيَى وَحَسِبْتُ قَالَ - وَعَنْ رَافِعِ بْنِ خَدِيجٍ، أَنَّهُمَا قَالَا: خَرَجَ عَبْدُ اللهِ بْنُ سَهْلِ بْنِ زَيْدٍ، وَمُحَيِّصَةُ بْنُ مَسْعُودِ بْنِ زَيْدٍ، حَتَّى إِذَا كَانَا بِخَيْبَرَ تَفَرَّقَا فِي بَعْضِ مَا هُنَالِكَ، ثُمَّ إِذَا مُحَيِّصَةُ يَجِدُ عَبْدَ اللهِ بْنَ سَهْلٍ قَتِيلًا فَدَفَنَهُ، ثُمَّ أَقْبَلَ إِلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ هُوَ وَحُوَيِّصَةُ بْنُ مَسْعُودٍ، وَعَبْدُ الرَّحْمَنِ بْنُ سَهْلٍ، وَكَانَ أَصْغَرَ الْقَوْمِ، فَذَهَبَ عَبْدُ الرَّحْمَنِ لِيَتَكَلَّمَ قَبْلَ صَاحِبَيْهِ، فَقَالَ لَهُ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «كَبِّرِ الْكُبْرَ فِي السِّنِّ»، فَصَمَتَ، فَتَكَلَّمَ صَاحِبَاهُ، وَتَكَلَّمَ مَعَهُمَا، فَذَكَرُوا لِرَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مَقْتَلَ عَبْدِ اللهِ بْنِ سَهْلٍ، فَقَالَ لَهُمْ: «أَتَحْلِفُونَ خَمْسِينَ يَمِينًا فَتَسْتَحِقُّونَ صَاحِبَكُمْ أَوْ قَاتِلَكُمْ»، قَالُوا: وَكَيْفَ نَحْلِفُ، وَلَمْ نَشْهَدْ؟ قَالَ: «فَتُبْرِئُكُمْ يَهُودُ بِخَمْسِينَ يَمِينًا»، قَالُوا: وَكَيْفَ نَقْبَلُ أَيْمَانَ قَوْمٍ كُفَّارٍ؟ فَلَمَّا رَأَى ذَلِكَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَعْطَى عَقْلَهُ.",
+                "headingArabic": "الْقَسَامَةِ",
+                "headingUrdu": "قسامہ (حلفیں)",
+                "headingEnglish": "Qasamah (Oaths)",
+                "chapterId": "29",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 129,
+                    "chapterNumber": "29",
+                    "chapterEnglish": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",
+                    "chapterUrdu": "قتل کی ذمہ داری کے تعین کے لیے اجتماعی قسموں، لوٹ مار کرنے والوں (کی سزا)، قصاص اور دیت کے مسائل",
+                    "chapterArabic": "كتاب الْقَسَامَةِ وَالْمُحَارِبِينَ وَالْقِصَاصِ وَالدِّيَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11907,
+                "hadithNumber": "4343",
+                "englishNarrator": "Sahl bin Abu Hathma and Rafi' bin Khadij reported:",
+                "hadithEnglish": "Muhayyisa bin Mas'ud and 'Abdullah bin Sahl went towards Khaibar and they separated near the palm-trees. 'Abdullah bin Sahl was killed. They accused the Jews (for this act). And there came to Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) his brother (the brother of the slain person) 'Abdul-Rahman and his cousins Huwayyisa and Muhayyisa; and 'Abdul-Rahman talked to him about the matter pertaining to (the murder of) his brother, and he was the youngest among them. Thereupon Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: Show regard for the greatness of the old, or he said: Let the eldest begin speaking. Then they (Huwayyisa and Muhayyisa) spoke about the matter of their companion (murder of their cousin, 'Abdullah bin Sahl). Thereupon Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: Let fifty (persons) among you take oath for levelling the charge (of murder) against a person amongst them, and he would be surrendered to you. They said: We have not witnessed this matter ourselves. How can we then take oath? He (the Holy Prophet ﷺ) said: The Jews will exonerate themselves by the oaths of fifty of them. They said: Messenger of Allah ﷺ, they are non-believing people. Thereupon Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) paid the blood wit for him. Sahl said: As one day I entered the fold a she-camel amongst those camels hit me with its leg.",
+                "hadithUrdu": "محیصہ بن مسعود اور عبداللہ بن سہل خیبر کی طرف گئے اور ( وہاں ) کسی نخلستان میں الگ الگ ہو گئے ، عبداللہ بن سہل کو قتل کر دیا گیا تو ان لوگوں نے یہود پر الزام عائد کیا ، چنانچہ ان کے بھائی عبدالرحمان اور دو حویصہ اور محیصہ نبی صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے ۔ عبدالرحمان نے اپنے بھائی کے معاملے میں بات کی ، وہ ان سب میں کم عمر تھے تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \"\" بڑے کو بڑا بناؤ \"\" یا فرمایا : \"\" سب سے بڑا ( بات کا ) آغاز کرے ۔ \"\" ان دونوں نے اپنے ساتھی کے معاملے میں گفتگو کی تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \"\" تم میں سے پچاس آدمی ان میں سے ایک آدمی پر قسمیں کھائیں گے تو وہ اپنی رسی سمیت ( جس میں وہ بندھا ہو گا ) تمہارے حوالے کر دیا جائے گا؟ \"\" انہوں نے کہا : یہ ایسا معاملہ ہے جو ہم نے دیکھا نہیں ، ہم کیسے حلف اٹھائیں؟ آپ صلی اللہ علیہ وسلم نے فرمایا : \"\" تو یہود اپنے پچاس آدمیوں کی قسموں سے تم کو ( تمہارے دعوے کے استحقاق سے ) الگ کر دیں گے ۔ \"\" انہوں نے کہا : اے اللہ کے رسول! ( وہ تو ) کافر لوگ ہیں ۔ کہا : تو رسول اللہ صلی اللہ علیہ وسلم نے ان کی دیت اپنی طرف سے ادا کر دی ۔ سہل نے کہا : ایک دن میں ان کے باڑے میں گیا تو ان اونٹوں میں سے ایک اونٹنی نے مجھے لات ماری ۔ حماد نے کہا : یہ یا اس کی طرح ( بات کہی.",
+                "urduNarrator": "عبید اللہ بن عمر القواریری نے مجھ سے کہا, حماد بن زید نے کہا : ہمیں یحییٰ بن سعید نے بشیر بن یسار سے ، انہوں نے سہل بن ابی حثمہ اور رافع بن خدیج سے روایت کی کہ",
+                "hadithArabic": "وحَدَّثَنِي عُبَيْدُ اللهِ بْنُ عُمَرَ الْقَوَارِيرِيُّ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ بُشَيْرِ بْنِ يَسَارٍ، عَنْ سَهْلِ بْنِ أَبِي حَثْمَةَ، وَرَافِعِ بْنِ خَدِيجٍ، أَنَّ مُحَيِّصَةَ بْنَ مَسْعُودٍ، وَعَبْدَ اللهِ بْنَ سَهْلٍ، انْطَلَقَا قِبَلَ خَيْبَرَ، فَتَفَرَّقَا فِي النَّخْلِ، فَقُتِلَ عَبْدُ اللهِ بْنُ سَهْلٍ، فَاتَّهَمُوا الْيَهُودَ، فَجَاءَ أَخُوهُ عَبْدُ الرَّحْمَنِ، وَابْنَا عَمِّهِ حُوَيِّصَةُ، وَمُحَيِّصَةُ إِلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَتَكَلَّمَ عَبْدُ الرَّحْمَنِ فِي أَمْرِ أَخِيهِ، وَهُوَ أَصْغَرُ مِنْهُمْ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «كَبِّرِ الْكُبْرَ»، أَوْ قَالَ: «لِيَبْدَأِ الْأَكْبَرُ»، فَتَكَلَّمَا فِي أَمْرِ صَاحِبِهِمَا، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «يَقْسِمُ خَمْسُونَ مِنْكُمْ عَلَى رَجُلٍ مِنْهُمْ، فَيُدْفَعُ بِرُمَّتِهِ»، قَالُوا: أَمْرٌ لَمْ نَشْهَدْهُ، كَيْفَ نَحْلِفُ؟ قَالَ: «فَتُبْرِئُكُمْ يَهُودُ بِأَيْمَانِ خَمْسِينَ مِنْهُمْ»، قَالُوا: يَا رَسُولَ اللهِ، قَوْمٌ كُفَّارٌ؟ قَالَ: فَوَدَاهُ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مِنْ قِبَلِهِ، قَالَ سَهْلٌ: فَدَخَلْتُ مِرْبَدًا لَهُمْ يَوْمًا فَرَكَضَتْنِي نَاقَةٌ مِنْ تِلْكَ الْإِبِلِ رَكْضَةً بِرِجْلِهَا، قَالَ حَمَّادٌ: هَذَا أَوْ نَحْوَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "29",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 129,
+                    "chapterNumber": "29",
+                    "chapterEnglish": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",
+                    "chapterUrdu": "قتل کی ذمہ داری کے تعین کے لیے اجتماعی قسموں، لوٹ مار کرنے والوں (کی سزا)، قصاص اور دیت کے مسائل",
+                    "chapterArabic": "كتاب الْقَسَامَةِ وَالْمُحَارِبِينَ وَالْقِصَاصِ وَالدِّيَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11908,
+                "hadithNumber": "4344",
+                "englishNarrator": "A similar report (as no. 4343) was narrated from Sahl bin Abu Hathma from the prophet ﷺ and in his Hadith he said:",
+                "hadithEnglish": "The Messenger of Allah ﷺ paid the blood money himself.\" but he did not say in his Hadith \"A she-camel kicked me.",
+                "hadithUrdu": "تو رسول اللہ صلی اللہ علیہ وسلم نے اپنے پاس سے اس کی دیت دے دی اور انہوں نے اپنی حدیث میں یہ نہیں کہا : مجھے ایک اونٹنی نے لات مار دی.",
+                "urduNarrator": "ہم سے القواری نے بیان کیا، ہم سے بشر بن المفضل نے بیان کیا، ہم سے یحییٰ بن سعید نے بیان کیا، بشر بن مفضل نے کہا : ہمیں یحییٰ بن سعید نے بشیر بن یسار سے ، انہوں نے سہل بن ابی حثمہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے اسی طرح روایت کی ، اور انہوں نے اپنی حدیث میں کہا",
+                "hadithArabic": "وحَدَّثَنَا الْقَوَارِيرِيُّ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ بُشَيْرِ بْنِ يَسَارٍ، عَنْ سَهْلِ بْنِ أَبِي حَثْمَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَحْوَهُ، وَقَالَ فِي حَدِيثِهِ: فَعَقَلَهُ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مِنْ عِنْدِهِ، وَلَمْ يَقُلْ فِي حَدِيثِهِ: فَرَكَضَتْنِي نَاقَةٌ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "29",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 129,
+                    "chapterNumber": "29",
+                    "chapterEnglish": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",
+                    "chapterUrdu": "قتل کی ذمہ داری کے تعین کے لیے اجتماعی قسموں، لوٹ مار کرنے والوں (کی سزا)، قصاص اور دیت کے مسائل",
+                    "chapterArabic": "كتاب الْقَسَامَةِ وَالْمُحَارِبِينَ وَالْقِصَاصِ وَالدِّيَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11909,
+                "hadithNumber": "4345",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Sahl bin Abu Hathma through another chain of transmitters.",
+                "hadithUrdu": "عمرو الناقد نے ہمیں بتایا,سفیان بن عیینہ اور عبدالوہاب ثقفی نے یحییٰ بن سعید سے ، انہوں نے بشیر بن یسار سے اور انہوں نے سہل بن ابی حثمہ سے انہی کی حدیث کی طرح حدیث بیان کی.",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا عَمْرٌو النَّاقِدُ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، ح وحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الْوَهَّابِ يَعْنِي الثَّقَفِيَّ، جَمِيعًا عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ بُشَيْرِ بْنِ يَسَارٍ، عَنْ سَهْلِ بْنِ أَبِي حَثْمَةَ، بِنَحْوِ حَدِيثِهِمْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "29",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 129,
+                    "chapterNumber": "29",
+                    "chapterEnglish": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",
+                    "chapterUrdu": "قتل کی ذمہ داری کے تعین کے لیے اجتماعی قسموں، لوٹ مار کرنے والوں (کی سزا)، قصاص اور دیت کے مسائل",
+                    "chapterArabic": "كتاب الْقَسَامَةِ وَالْمُحَارِبِينَ وَالْقِصَاصِ وَالدِّيَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11910,
+                "hadithNumber": "4346",
+                "englishNarrator": "Bushair bin Yasar reported:",
+                "hadithEnglish": "'Abdullah bin Sahl bin Zaid and Muhayyisa bin Mas'ud bin Zaid, both of them were Ansar belonging to the tribe of Banu Haritha, set out to Khaibar during the lifetime of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ). There was peace during those days and (this place) was inhabited by the Jews. They parted company for their (respective) needs. 'Abdullab bin Sahl was killed, and his dead body was found in a tank. His companion (Muhayyisa) buried him and came to Medina, and the brothers of the slain 'Abd al-Rahman bin Sahl. and Muhayyisa and Huwayyisa told Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) the case of 'Abdullah and the place where he had been murdered. Bushair reported on the authority of one who had seen Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) that he had said to them: You take fifty oaths and you are entitled to blood-wit of (one) slain among you (or your companion). They said: Messenger of Allah, we neither saw (with our own eyes this murder) nor were we present there. Thereupon (Allah's Messenger is reported to have said): Then the Jews will exonerate themselves by taking fifty oaths. They said: Allah's Messenger, how can we accept the oath of unbelieving people? Bushair said that Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) paid the blood-wit himself.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کے عہد میں عبداللہ بن سہل بن زید انصاری اور محیصہ بن مسعود بن زید انصاری ، جن کا تعلق قبیلہ بنو حارثہ سے تھا ، خیبر کی طرف نکلے ، ان دنوں وہاں صلح تھی ، اور وہاں کے باشندے یہودی تھے ، تو وہ دونوں اپنی ضروریات کے پیش نظر الگ الگ ہو گئے ، بعد ازاں عبداللہ بن سہل قتل ہو گئے اور کھجور کے تنے کے ارد گرد بنائے گئے پانی کے ایک گڑھے میں مقتول حالت میں ملے ، ان کے ساتھی نے انہیں دفن کیا ، پھر مدینہ آئے اور مقتول کے بھائی عبدالرحمن بن سہل اور ( چچا زاد ) محیصہ اور حویصہ گئے اور رسول اللہ صلی اللہ علیہ وسلم سے عبداللہ اور ان کو قتل کیے جانے کی صورت حال اور جگہ بتائی ۔ بشیر کا خیال ہے اور وہ ان لوگوں سے حدیث بیان کرتے ہیں جنہوں نے رسول اللہ صلی اللہ علیہ وسلم کے اصحاب کو پایا کہ آپ نے ان سے فرمایا : \" کیا تم پچاس قسمیں کھا کر اپنے اتل ۔ ۔ یا اپنے ساتھی ۔ ۔ ( سے بدلہ/دیت ) کے حق دار بنو گے؟ \" انہوں نے کہا : اللہ کے رسول! نہ ہم نے دیکھا ، نہ وہاں موجود تھے ۔ ان ( بشیر ) کا خیال ہے کہ آپ نے فرمایا : \" تو یہود پچاس قسمیں کھا کر تمہیں ( اپنے دعوے کے استحقاق سے ) الگ کر دیں گے ۔ \" انہوں نے کہا : اے اللہ کے رسول! ہم کافر لوگوں کی قسمیں کیسے قبول کریں؟ بشیر کا خیال ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے اپنی طرف سے اس کی دیت ادا فرما دی.",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ بن قعنب نے بیان کیا, سلیمان بن بلال نے یحییٰ بن سعید سے ، انہوں نے بشیر بن یسار سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ مَسْلَمَةَ بْنِ قَعْنَبٍ، حَدَّثَنَا سُلَيْمَانُ بْنُ بِلَالٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ بُشَيْرِ بْنِ يَسَارٍ، أَنَّ عَبْدَ اللهِ بْنَ سَهْلِ بْنِ زَيْدٍ، وَمُحَيِّصَةَ بْنَ مَسْعُودِ بْنِ زَيْدٍ الْأَنْصَارِيَّيْنِ، ثُمَّ مِنْ بَنِي حَارِثَةَ خَرَجَا إِلَى خَيْبَرَ فِي زَمَانِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَهِيَ يَوْمَئِذٍ صُلْحٌ، وَأَهْلُهَا يَهُودُ، فَتَفَرَّقَا لِحَاجَتِهِمَا، فَقُتِلَ عَبْدُ اللهِ بْنُ سَهْلٍ، فَوُجِدَ فِي شَرَبَةٍ مَقْتُولًا، فَدَفَنَهُ صَاحِبُهُ، ثُمَّ أَقْبَلَ إِلَى الْمَدِينَةِ، فَمَشَى أَخُو الْمَقْتُولِ عَبْدُ الرَّحْمَنِ بْنُ سَهْلٍ، وَمُحَيِّصَةُ، وَحُوَيِّصَةُ، فَذَكَرُوا لِرَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ شَأْنَ عَبْدِ اللهِ وَحَيْثُ قُتِلَ، فَزَعَمَ بُشَيْرٌ وَهُوَ يُحَدِّثُ عَمَّنْ أَدْرَكَ مِنْ أَصْحَابِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، أَنَّهُ قَالَ لَهُمْ: «تَحْلِفُونَ خَمْسِينَ يَمِينًا وَتَسْتَحِقُّونَ قَاتِلَكُمْ أَوْ صَاحِبَكُمْ»، قَالُوا: يَا رَسُولَ اللهِ، مَا شَهِدْنَا وَلَا حَضَرْنَا، فَزَعَمَ أَنَّهُ قَالَ: «فَتُبْرِئُكُمْ يَهُودُ بِخَمْسِينَ»، فَقَالُوا: يَا رَسُولَ اللهِ، كَيْفَ نَقْبَلُ أَيْمَانَ قَوْمٍ كُفَّارٍ؟ فَزَعَمَ بُشَيْرٌ أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَقَلَهُ مِنْ عِنْدِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "29",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 129,
+                    "chapterNumber": "29",
+                    "chapterEnglish": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",
+                    "chapterUrdu": "قتل کی ذمہ داری کے تعین کے لیے اجتماعی قسموں، لوٹ مار کرنے والوں (کی سزا)، قصاص اور دیت کے مسائل",
+                    "chapterArabic": "كتاب الْقَسَامَةِ وَالْمُحَارِبِينَ وَالْقِصَاصِ وَالدِّيَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11911,
+                "hadithNumber": "4347",
+                "englishNarrator": "Bushair bin Yasar reported:",
+                "hadithEnglish": "A person from the Ansar belonging to the tribe of Banu Haritha who was called 'Abdullah bin Sahl bin Zaid set out and the son of his uncle called Muhayyisa bin Mas'ud bin Zaid, the rest of the hadith is the same up to the words: Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) paid the blood-wit himself. Bushair bin Yasar reported that Sahl bin Abu Hathma said: One camel amongst the camels paid as blood-wit kicked me while I was in the (camel) enclosure.",
+                "hadithUrdu": "انصار میں سے بنو حارثہ کا ایک آدمی جسے عبداللہ بن سہل بن زید کہا جاتا تھا اور اس کا چچا زاد بھائی جسے محیصہ بن مسعود بن زید کہا جاتا تھا ، سفر پر روانہ ہوئے ، اور انہوں نے اس قول تک ، لیث کی ( حدیث : 4342 ) کی طرح حدیث بیان کی : \"\" رسول اللہ صلی اللہ علیہ وسلم نے اپنے پاس سے اس کی دیت ادا فرما دی ۔ \"\" یحییٰ نے کہا : مجھے بشیر بن یسار نے حدیث بیان کی ، انہوں نے کہا : مجھے سہل بن ابی حثمہ نے خبر دی ، انہوں نے کہا : دیت کی ان اونٹنیوں میں سے ایک اونٹنی نے مجھے باڑے میں لات ماری تھی.",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا, ہشیم نے یحییٰ بن سعید سے ، انہوں نے بشیر بن یسار سے روایت کی کہ",
+                "hadithArabic": "وحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا هُشَيْمٌ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ بُشَيْرِ بْنِ يَسَارٍ، أَنَّ رَجُلًا مِنَ الْأَنْصَارِ مِنْ بَنِي حَارِثَةَ يُقَالُ لَهُ: عَبْدُ اللهِ بْنُ سَهْلِ بْنِ زَيْدٍ انْطَلَقَ هُوَ وَابْنُ عَمٍّ لَهُ يُقَالُ لَهُ: مُحَيِّصَةُ بْنُ مَسْعُودِ بْنِ زَيْدٍ وَسَاقَ الْحَدِيثَ بِنَحْوِ حَدِيثِ اللَّيْثِ إِلَى قَوْلِهِ فَوَدَاهُ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مِنْ عِنْدِهِ، قَالَ يَحْيَى، فَحَدَّثَنِي بُشَيْرُ بْنُ يَسَارٍ، قَالَ: أَخْبَرَنِي سَهْلُ بْنُ أَبِي حَثْمَةَ، قَالَ: لَقَدْ رَكَضَتْنِي فَرِيضَةٌ مِنْ تِلْكَ الْفَرَائِضِ بِالْمِرْبَدِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "29",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 129,
+                    "chapterNumber": "29",
+                    "chapterEnglish": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",
+                    "chapterUrdu": "قتل کی ذمہ داری کے تعین کے لیے اجتماعی قسموں، لوٹ مار کرنے والوں (کی سزا)، قصاص اور دیت کے مسائل",
+                    "chapterArabic": "كتاب الْقَسَامَةِ وَالْمُحَارِبِينَ وَالْقِصَاصِ وَالدِّيَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11912,
+                "hadithNumber": "4348",
+                "englishNarrator": "Bushair bin Yasar al-Ansari reported on the authority of Sahl bin Abu Hathma al-Ansari:",
+                "hadithEnglish": "Some men (of his tribe went to Khaibar, and they were separated from one another, and they found one of them slain. The rest of the hadith is the same. And it was said in this connection: Allah's Messenger (may peace be him) did not approve of his blood go waste. He paid blood-wit of one hundred camels of Sadaqa.",
+                "hadithUrdu": "ان ( کے خاندان ) میں سے چند لوگ خیبر کی طرف نکلے اور وہاں الگ الگ ہو گئے ، بعد ازاں انہوں نے اپنے ایک آدمی کو قتل کیا ہوا پایا ۔ ۔ اور انہوں نے ( پوری ) حدیث بیان کی اور اس میں کہا : رسول اللہ صلی اللہ علیہ وسلم نے ناپسند کیا کہ اس کے خوب کو رائیگاں قرار دیں ، چنانچہ آپ نے صدقے کے اونٹوں سے سو اونٹ اس کی دیت ادا فرما دی ۔",
+                "urduNarrator": "ہم سے محمد بن عبداللہ بن نمیر نے بیان کیا، کہا ہم سے میرے والد نے بیان کیا، انہوں نے کہا سعید بن عبید نے ہمیں حدیث بیان کی ، ( کہا : ) ہمیں بشیر بن یسار انصاری نے سہل بن ابی حثمہ انصاری سے حدیث بیان کی ، انہوں نے ان کو بتایا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللهِ بْنِ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا سَعِيدُ بْنُ عُبَيْدٍ، حَدَّثَنَا بُشَيْرُ بْنُ يَسَارٍ الْأَنْصَارِيُّ، عَنْ سَهْلِ بْنِ أَبِي حَثْمَةَ الْأَنْصَارِيِّ، أَنَّهُ أَخْبَرَهُ أَنَّ نَفَرًا مِنْهُمُ انْطَلَقُوا إِلَى خَيْبَرَ فَتَفَرَّقُوا فِيهَا، فَوَجَدُوا أَحَدَهُمْ قَتِيلًا وَسَاقَ الْحَدِيثَ، وَقَالَ فِيهِ: فَكَرِهَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَنْ يُبْطِلَ دَمَهُ فَوَدَاهُ مِائَةً مِنْ إِبِلِ الصَّدَقَةِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "29",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 129,
+                    "chapterNumber": "29",
+                    "chapterEnglish": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",
+                    "chapterUrdu": "قتل کی ذمہ داری کے تعین کے لیے اجتماعی قسموں، لوٹ مار کرنے والوں (کی سزا)، قصاص اور دیت کے مسائل",
+                    "chapterArabic": "كتاب الْقَسَامَةِ وَالْمُحَارِبِينَ وَالْقِصَاصِ وَالدِّيَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11913,
+                "hadithNumber": "4349",
+                "englishNarrator": "Abu Laila 'Abdullah bin 'Abdul-Rahman bin Sahl reported:",
+                "hadithEnglish": "The elderly persons of (the tribe) had informed Sahl bin Abu Hathma that 'Abdullah bin Sahl and Muhayyisa went out to Khaibar under some distress which had afflicted them. Muhayyisa came and informed that Abdutlah bin Sahl had been killed, and (his dead body) had been thrown in a well or in a ditch. He came to the Jews and said: By Allah, it is you who have killed him. They said: By Allah, we have not killed him. He then came to his people, and made mention of that to them. Then came he and his brother Huwayyisa, and he was older than he, and 'Abdul-Rahman bin Sahl. Then Muhayyisa went to speak, and it was he who had accompanied ('Abdullah) to Khaibar, whereupon Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said to Muhayyisa: Observe greatness of the great (he meant the seniority of age). Then Huwayyisa spoke and then Muhayyisa also spoke. Thereupon Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: They should either pay blood-wit for your companion, or be prepared for war. Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) wrote about it to them (to the Jews). They wrote: Verily, by Allah, we have not killed him. Thereupon Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said to Huwayyisa and Muhayyisa and Abdul-Rahman: Are you prepared to take oath in order to entitle yourselves for the blood-wit of your companion? They said: No. He (the Holy Prophet ﷺ) said: Then the Jews will take oath (of their innocence). They said: They are not Muslims. Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), however, himself paid the blood-wit to them and sent to them one hundred camels until they entered into their houses, Sahl said: One red she-camel among them kicked me.",
+                "hadithUrdu": "انہیں ان کی قوم کے بڑی عمر کے لوگوں سے خبر دی کہ عبداللہ بن سہل اور محیصہ اپنی تنگدستی کی بنا پر جو انہیں لاحق ہو گئی تھی ، ( تجارت وغیرہ کے لیے ) خیبر کی طرف نکلے ، بعد ازاں محیصہ آئے اور بتایا کہ عبداللہ بن سہل قتل کر دیے گئے ہیں اور انہیں کسی چشمے یا پانی کے کچے کنویں ( فقیر ) میں پھینک دیا گیا ، چنانچہ وہ یہود کے پاس آئے اور کہا : اللہ کی قسم! تم لوگوں نے ہی انہیں قتل کیا ہے ۔ انہوں نے کہا : اللہ کی قسم! ہم نے انہیں قتل نہیں کیا ، پھر وہ آئے حتی کہ اپنی قوم کے پاس پہنچے اور ان کو یہ بات بتائی ، پھر وہ خود ، ان کے بھائی حویصہ ، اور وہ ان سے بڑے تھے ، اور عبدالرحمن بن سہل ( رسول اللہ صلی اللہ علیہ وسلم کے پاس ) آئے ، محیصہ نے گفتگو شروع کی اور وہی خیبر میں موجود تھے تو رسول اللہ صلی اللہ علیہ وسلم نے محیصہ سے فرمایا : \"\" بڑے کو بات کرنے دو ، بڑے کو موقع دو \"\" آپ کی مراد عمر ( میں بڑے ) سے تھی ، تو حویصہ نے بات کی ، اس کے بعد محیصہ نے بات کی ، تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \"\" یا وہ تمہارے ساتھی کی دیت دیں یا پھر جنگ کا اعلان کریں ۔ \"\" رسول اللہ صلی اللہ علیہ وسلم نے اس سلسلے میں ان کی طرف خط لکھا ، تو انہوں نے ( جوابا ) لکھا : اللہ کی قسم! ہم نے انہیں قتل نہیں کیا ۔ اس پر رسول اللہ صلی اللہ علیہ وسلم نے حویصہ ، محیصہ اور عبدالرحمن سے فرمایا : \"\" کیا تم قسم کھا کر اپنے ساتھی کے خون ( کا بدلہ لینے ) کے حقدار بنو گے؟ \"\" انہوں نے کہا : نہیں ۔ آپ نے پوچھا : \"\" تو تمہارے سامنے یہود قسمیں کھائیں؟ \"\" انہوں نے جواب دیا : وہ مسلمان نہیں ہیں ۔ اس پر رسول اللہ صلی اللہ علیہ وسلم نے اپنے پاس سے اس کی دیت ادا کر دی ، رسول اللہ صلی اللہ علیہ وسلم نے ایک سو اونٹنیاں ان کی طرف روانہ کیں حتی کہ ان کے گھر ( باڑے ) پہنچا دی گئیں ۔ سہل نے کہا : ان میں سے ایک سرخ اونٹنی نے مجھے لات ماری تھی.",
+                "urduNarrator": "مجھ سے اسحاق بن منصور نے بیان کیا، کہا ہم سے بشر بن عمر نے بیان کیا، انہوں نے کہا: میں نے مالک بن انس رضی اللہ عنہ کو یہ کہتے ہوئے سنا, ابولیلیٰ بن عبداللہ بن عبدالرحمن بن سہل ( بن زید انصاری ) نے سہل بن ابی حثمہ ( انصاری ) سے حدیث بیان کی ، انہوں نے",
+                "hadithArabic": "حَدَّثَنِي إِسْحَاقُ بْنُ مَنْصُورٍ، أَخْبَرَنَا بِشْرُ بْنُ عُمَرَ، قَالَ: سَمِعْتُ مَالِكَ بْنَ أَنَسٍ، يَقُولُ: حَدَّثَنِي أَبُو لَيْلَى عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ بْنِ سَهْلٍ، عَنْ سَهْلِ بْنِ أَبِي حَثْمَةَ، أَنَّهُ أَخْبَرَهُ عَنْ رِجَالٍ مِنْ كُبَرَاءِ قَوْمِهِ، أَنَّ عَبْدَ اللهِ بْنَ سَهْلٍ، وَمُحَيِّصَةَ، خَرَجَا إِلَى خَيْبَرَ مِنْ جَهْدٍ أَصَابَهُمْ، فَأَتَى مُحَيِّصَةُ، فَأَخْبَرَ أَنَّ عَبْدَ اللهِ بْنَ سَهْلٍ قَدْ قُتِلَ وَطُرِحَ فِي عَيْنٍ - أَوْ فَقِيرٍ - فَأَتَى يَهُودَ، فَقَالَ: أَنْتُمْ وَاللهِ قَتَلْتُمُوهُ، قَالُوا: وَاللهِ مَا قَتَلْنَاهُ، ثُمَّ أَقْبَلَ حَتَّى قَدِمَ عَلَى قَوْمِهِ، فَذَكَرَ لَهُمْ ذَلِكَ، ثُمَّ أَقْبَلَ هُوَ وَأَخُوهُ حُوَيِّصَةُ وَهُوَ أَكْبَرُ مِنْهُ وَعَبْدُ الرَّحْمَنِ بْنُ سَهْلٍ، فَذَهَبَ مُحَيِّصَةُ لِيَتَكَلَّمَ وَهُوَ الَّذِي كَانَ بِخَيْبَرَ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ لِمُحَيِّصَةَ: «كَبِّرْ كَبِّرْ»، يُرِيدُ السِّنَّ، فَتَكَلَّمَ حُوَيِّصَةُ، ثُمَّ تَكَلَّمَ مُحَيِّصَةُ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إِمَّا أَنْ يَدُوا صَاحِبَكُمْ، وَإِمَّا أَنْ يُؤْذِنُوا بِحَرْبٍ»، فَكَتَبَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِلَيْهِمْ فِي ذَلِكَ، فَكَتَبُوا إِنَّا وَاللهِ مَا قَتَلْنَاهُ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ لِحُوَيِّصَةَ، وَمُحَيِّصَةَ، وَعَبْدِ الرَّحْمَنِ: «أَتَحْلِفُونَ وَتَسْتَحِقُّونَ دَمَ صَاحِبِكُمْ؟» قَالُوا: لَا، قَالَ: «فَتَحْلِفُ لَكُمْ يَهُودُ»، قَالُوا: لَيْسُوا بِمُسْلِمِينَ، فَوَادَاهُ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مِنْ عِنْدِهِ، فَبَعَثَ إِلَيْهِمْ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مِائَةَ نَاقَةٍ حَتَّى أُدْخِلَتْ عَلَيْهِمِ الدَّارَ، فَقَالَ سَهْلٌ: فَلَقَدْ رَكَضَتْنِي مِنْهَا نَاقَةٌ حَمْرَاءُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "29",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 129,
+                    "chapterNumber": "29",
+                    "chapterEnglish": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",
+                    "chapterUrdu": "قتل کی ذمہ داری کے تعین کے لیے اجتماعی قسموں، لوٹ مار کرنے والوں (کی سزا)، قصاص اور دیت کے مسائل",
+                    "chapterArabic": "كتاب الْقَسَامَةِ وَالْمُحَارِبِينَ وَالْقِصَاصِ وَالدِّيَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 11601,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=464",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=462",
+                "label": "462",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=463",
+                "label": "463",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=464",
+                "label": "464",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=465",
+                "label": "465",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=466",
+                "label": "466",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=467",
+                "label": "467",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=468",
+                "label": "468",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=466",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=466",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=464",
+        "to": 11625,
+        "total": 40465
+    }
+}

@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 107,
+        "data": [
+            {
+                "id": 2653,
+                "hadithNumber": "2776",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"My heirs will not inherit a Dinar or a Dirham (i.e. money), for whatever I leave (excluding the adequate support of my wives and the wages of my employees) is given in charity.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا جو آدمی میرے وارث ہیں ‘ وہ روپیہ اشرفی اگر میں چھوڑ جاؤں تو وہ تقسیم نہ کریں ‘ وہ میری بیویوں کا خرچ اور جائیداد کا اہتمام کرنے والے کا خرچ نکالنے کے بعد صدقہ ہے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف تنیسی نے بیان کیا ‘ کہا ہم کو امام مالک نے خبر دی ‘ انہیں ابوالزناد نے ‘ انہیں اعرج نے اور انہیں ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَقْتَسِمْ وَرَثَتِي دِينَارًا، مَا تَرَكْتُ بَعْدَ نَفَقَةِ نِسَائِي وَمَئُونَةِ عَامِلِي فَهْوَ صَدَقَةٌ ‏\"‏‏.‏",
+                "headingArabic": "نَفَقَةِ الْقَيِّمِ لِلْوَقْفِ",
+                "headingUrdu": "اوقاف کے منتظم کی تنخواہ",
+                "headingEnglish": "The salary of the administrator of an endowment",
+                "chapterId": "56",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 56,
+                    "chapterNumber": "56",
+                    "chapterEnglish": "Wills and Testaments (Wasaayaa)",
+                    "chapterUrdu": "وصیتوں کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الوصايا",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2654,
+                "hadithNumber": "2777",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "When `Umar رضی اللہ عنہما founded an endowment he stipulated that its administrator could eat from it and also feed his friend on the condition that he would not store anything for himself from it.",
+                "hadithUrdu": "عمر رضی اللہ عنہ نے اپنے وقف میں یہ شرط لگائی تھی کہ اس کا متولی اس میں سے کھا سکتا ہے اور اپنے دوست کو کھلا سکتا ہے پر وہ دولت نہ جوڑے ۔",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا ‘ کہا ہم سے حماد بن زید نے بیان کیا ‘ ان سے ایوب سختیانی نے ‘ ان سے نافع نے اور ان سے عبداللہ بن عمر رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ عُمَرَ، اشْتَرَطَ فِي وَقْفِهِ أَنْ يَأْكُلَ مَنْ وَلِيَهُ وَيُوكِلَ صَدِيقَهُ غَيْرَ مُتَمَوِّلٍ مَالاً‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "56",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 56,
+                    "chapterNumber": "56",
+                    "chapterEnglish": "Wills and Testaments (Wasaayaa)",
+                    "chapterUrdu": "وصیتوں کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الوصايا",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2655,
+                "hadithNumber": "2778",
+                "englishNarrator": "Narrated Abu 'Abdur-Rahman:",
+                "hadithEnglish": "When 'Uthman (رضی اللہ عنہ) was circled (by the rebels), he looked upon them from above and said, \"Ias you by Allah, I ask nobody but the Companions of the Prophet (ﷺ), dont you know that Allah's Messenger (ﷺ) said, 'Whoever will (buy and) dig the well of Ruma will be granted Paradise,' and I (bought and) dug it? Don't you know that he said. 'Whoever equip the army of 'Usra (i.e., Tabuk's Ghazwa) will be granted Paradise,' and I equipped it ?\" They attested whatever he said. When 'Umar founded his endowment he said, \"Its administrator can eat from it.\" The management of the endowment can be taken over by the founder himself or any other person, for both cases are permissible.",
+                "hadithUrdu": "جب حضرت عثمان غنی رضی اللہ عنہ محاصرے میں لئے گئے تو ( اپنے گھر کے ) اوپر چڑھ کر آپ نے باغیوں سے فرمایا میں تم کو خدا کی قسم دے کر پوچھتا ہوں اور صرف نبی کریم صلی اللہ علیہ وسلم کے اصحاب سے قسمیہ پوچھتا ہوں کہ کیا آپ لوگوں کو معلوم نہیں ہے کہ جب رسول اللہ صلی اللہ علیہ وسلم نے فرمایا جو شخص بیئر رومہ کو کھودے گا اور اسے مسلمانوں کے لئے وقف کر دے گا تو اسے جنت کی بشارت ہے تو میں نے ہی اس کنویں کو کھودہ تھا ۔ کیا آپ لوگوں کو معلوم نہیں ہے کہ آنحضرت صلی اللہ علیہ وسلم نے جب فرمایا تھا کہ جیش عسرت ( غزوہ تبوک پر جانے والے لشکر ) کو جو شخص ساز و سامان سے لیس کر دے گا تو اسے جنت کی بشارت ہے تو میں نے ہی اسے مسلح کیا تھا ۔ راوی نے بیان کیا کہ آپ کی ان باتوں کی سب نے تصدیق کی تھی ۔ حضرت عمر رضی اللہ عنہ نے اپنے وقف کے متعلق فرمایا تھا کہ اس کا منتظم اگر اس میں سے کھائے تو کوئی حرج نہیں ہے ۔ ظاہر ہے کہ منتظم خود واقف بھی ہو سکتا ہے اور کبھی دوسرے بھی ہو سکتے ہیں اور ہر ایک کے لئے یہ جائز ہے ۔",
+                "urduNarrator": "عبدان نے بیان کیا کہ مجھے میرے والد نے خبر دی’ انہیں شعبہ نے ‘ انہیں ابواسحاق نے ‘ انہیں ابوعبدالرحمن نے کہ",
+                "hadithArabic": "وَقَالَ عَبْدَانُ أَخْبَرَنِي أَبِي، عَنْ شُعْبَةَ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ، أَنَّ عُثْمَانَ ـ رضى الله عنه ـ حَيْثُ حُوصِرَ أَشْرَفَ عَلَيْهِمْ وَقَالَ أَنْشُدُكُمْ وَلاَ أَنْشُدُ إِلاَّ أَصْحَابَ النَّبِيِّ صلى الله عليه وسلم، أَلَسْتُمْ تَعْلَمُونَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ مَنْ حَفَرَ رُومَةَ فَلَهُ الْجَنَّةُ ‏\"‏‏.‏ فَحَفَرْتُهَا، أَلَسْتُمْ تَعْلَمُونَ أَنَّهُ قَالَ ‏\"‏ مَنْ جَهَّزَ جَيْشَ الْعُسْرَةِ فَلَهُ الْجَنَّةُ ‏\"‏‏.‏ فَجَهَّزْتُهُمْ‏.‏ قَالَ فَصَدَّقُوهُ بِمَا قَالَ‏.‏ وَقَالَ عُمَرُ فِي وَقْفِهِ لاَ جُنَاحَ عَلَى مَنْ وَلِيَهُ أَنْ يَأْكُلَ‏.‏ وَقَدْ يَلِيهِ الْوَاقِفُ وَغَيْرُهُ فَهْوَ وَاسِعٌ لِكُلٍّ‏.‏",
+                "headingArabic": "إِذَا وَقَفَ أَرْضًا أَوْ بِئْرًا وَاشْتَرَطَ لِنَفْسِهِ مِثْلَ دِلاَءِ الْمُسْلِمِينَ",
+                "headingUrdu": "اگر کوئی شخص وقف رکھے یا یہ شرط رکھے کہ اس سے استفادہ کرے جیسا کہ دوسرے مسلمان کرتے ہیں۔",
+                "headingEnglish": "If somebody keeps an endowment, or stipulates that he should benefit by it as the other Muslims do",
+                "chapterId": "56",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 56,
+                    "chapterNumber": "56",
+                    "chapterEnglish": "Wills and Testaments (Wasaayaa)",
+                    "chapterUrdu": "وصیتوں کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الوصايا",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2656,
+                "hadithNumber": "2779",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said (at the time of building the Mosque), \"O Ban, An-Najjar! Suggest to me a price for your garden.\" They replied, \"We do not ask its price except from Allah.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا تھا اے بنو نجار ! تم اپنے باغ کی قیمت مجھ سے وصول کر لو تو انہوں نے عرض کیا کہ ہم اس کی قیمت اللہ تعالیٰ کے سوا کسی سے نہیں چاہتے ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیا ‘ کہا ہم سے عبدالوارث نے بیان کیا ‘ ان سے ابوالتیاح نے اور ان سے انس رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ أَبِي التَّيَّاحِ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ يَا بَنِي النَّجَّارِ ثَامِنُونِي بِحَائِطِكُمْ ‏\"‏‏.‏ قَالُوا لاَ نَطْلُبُ ثَمَنَهُ إِلاَّ إِلَى اللَّهِ‏.‏",
+                "headingArabic": "إِذَا قَالَ الْوَاقِفُ لاَ نَطْلُبُ ثَمَنَهُ إِلاَّ إِلَى اللَّهِ فَهْوَ جَائِزٌ",
+                "headingUrdu": "یہ کہنا: \"ہم اس کی قیمت اللہ کے سوا کسی سے نہیں مانگیں گے۔\"",
+                "headingEnglish": "To say: \"We will demand its price, from none but Allah.\"",
+                "chapterId": "56",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 56,
+                    "chapterNumber": "56",
+                    "chapterEnglish": "Wills and Testaments (Wasaayaa)",
+                    "chapterUrdu": "وصیتوں کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الوصايا",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2657,
+                "hadithNumber": "2780",
+                "englishNarrator": "Narrated Ibn-e-Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "A man from the tribe of Bani Sahm went out in the company of Tamim Ad-Dari and 'Adi bin Badda'. The man of Bani Sahm died in a land where there was no Muslim. When Tamim and 'Adi returned conveying the property of the deceased, they claimed that they had lost a silver bowl with gold engraving. Allah's Messenger (saws) made them take an oath (to confirm their claim), and then the bowl was found in Makkah with some people who claimed that they had bought it from Tamim and 'Adu, Then two witnesses from the relatives of the deceased got up and swore that their witnesses were more valid than the witnesses of 'Adi and Tamim, and that the bowl belonged to their deceased fellow. So, (Ibn-e-Abbas رضی اللہ عنہما) this verse was revealed in connection with this case ; 'O you who believe! When death approached any of you ...', (V 5:106)",
+                "hadithUrdu": "بنی سہم کا ایک شخص تمیم داری اور عدی بن بداء کے ساتھ سفر کو نکلا ‘ وہ ایسے ملک میں جا کر مر گیا جہاں کوئی مسلمان نہ تھا ۔ یہ دونوں شخص اس کا متروکہ مال لے کر مدینہ واپس آئے ۔ اس کے اسباب میں چاندی کا ایک گلاس گم تھا ۔ آنحضرت صلی اللہ علیہ وسلم نے ان دونوں کو قسم کھانے کا حکم فرمایا ( انہوں نے قسم کھا لی ) پھر ایسا ہوا کہ وہ گلاس مکہ میں ملا ، انہوں نے کہا ہم نے یہ گلاس تمیم اور عدی سے خریدا ہے ۔ اس وقت میت کے دو عزیز ( عمرو بن عاص اور مطلب کھڑے ہوئے اور انہوں نے قسم کھائی کہ یہ ہماری گواہی تمیم اور عدی کی گواہی سے زیادہ معتبر ہے ‘ یہ گلاس میت ہی کا ہے ۔ عبداللہ بن عباس رضی اللہ عنہما نے کہا ان ہی کے بارے میں یہ آیت نازل ہوئی «يا أيها الذين آمنوا شهادة بينكم‏» آخر آیت تک۔",
+                "urduNarrator": "حضرت امام بخاری رضی اللہ عنہ نے کہا مجھ سے علی بن عبداللہ مدینی نے کہا ہم سے یحیٰی بن آدم نے ‘ کہا ہم سے ابن ابی زائدہ نے ‘ انہوں نے محمد بن ابی القاسم سے ‘ انہوں نے عبدالملک بن سعید بن جبیر سے‘انہوں نے اپنے باپ سے ‘ کہا ہم سے عبداللہ بن عباس رضی اللہ عنہما سے انہوں نے کہا",
+                "hadithArabic": "وَقَالَ لِي عَلِيُّ بْنُ عَبْدِ اللَّهِ حَدَّثَنَا يَحْيَى بْنُ آدَمَ، حَدَّثَنَا ابْنُ أَبِي زَائِدَةَ، عَنْ مُحَمَّدِ بْنِ أَبِي الْقَاسِمِ، عَنْ عَبْدِ الْمَلِكِ بْنِ سَعِيدِ بْنِ جُبَيْرٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ خَرَجَ رَجُلٌ مِنْ بَنِي سَهْمٍ مَعَ تَمِيمٍ الدَّارِيِّ وَعَدِيِّ بْنِ بَدَّاءٍ فَمَاتَ السَّهْمِيُّ بِأَرْضٍ لَيْسَ بِهَا مُسْلِمٌ، فَلَمَّا قَدِمَا بِتَرِكَتِهِ فَقَدُوا جَامًا مِنْ فِضَّةٍ مُخَوَّصًا مِنْ ذَهَبٍ، فَأَحْلَفَهُمَا رَسُولُ اللَّهِ صلى الله عليه وسلم، ثُمَّ وُجِدَ الْجَامُ بِمَكَّةَ فَقَالُوا ابْتَعْنَاهُ مِنْ تَمِيمٍ وَعَدِيٍّ‏.‏ فَقَامَ رَجُلاَنِ مِنْ أَوْلِيَائِهِ، فَحَلَفَا لَشَهَادَتُنَا أَحَقُّ مِنْ شَهَادَتِهِمَا، وَإِنَّ الْجَامَ لِصَاحِبِهِمْ‏.‏ قَالَ وَفِيهِمْ نَزَلَتْ هَذِهِ الآيَةُ ‏{‏يَا أَيُّهَا الَّذِينَ آمَنُوا شَهَادَةُ بَيْنِكُمْ ‏إِذَا حَضَرَ أَحَدَكُمُ الْمَوْتُ}‏",
+                "headingArabic": "قَوْلِ اللَّهِ تَعَالَى: {يَا أَيُّهَا الَّذِينَ آمَنُوا شَهَادَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ الْمَوْتُ حِينَ الْوَصِيَّةِ اثْنَانِ ذَوَا عَدْلٍ مِنْكُمْ أَوْ آخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنْتُمْ ضَرَبْتُمْ فِي الأَرْضِ فَأَصَابَتْكُمْ مُصِيبَةُ الْمَوْتِ تَحْبِسُونَهُمَا مِنْ بَعْدِ الصَّلاَةِ فَيُقْسِمَانِ بِاللَّهِ إِنِ ارْتَبْتُمْ لاَ نَشْتَرِي بِهِ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَى وَلاَ نَكْتُمُ شَهَادَةَ اللَّهِ إِنَّا إِذًا لَمِنَ الآثِمِينَ فَإِنْ عُثِرَ عَلَى أَنَّهُمَا اسْتَحَقَّا إِثْمًا فَآخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ الَّذِينَ اسْتُحِقَّ عَلَيْهِمُ الأَوْلَيَانِ فَيُقْسِمَانِ بِاللَّهِ لَشَهَادَتُنَا أَحَقُّ مِنْ شَهَادَتِهِمَا وَمَا اعْتَدَيْنَا إِنَّا إِذًا لَمِنَ الظَّالِمِينَ ذَلِكَ أَدْنَى أَنْ يَأْتُوا بِالشَّهَادَةِ عَلَى وَجْهِهَا أَوْ يَخَافُوا أَنْ تُرَدَّ أَيْمَانٌ بَعْدَ أَيْمَانِهِمْ وَاتَّقُوا اللَّهَ وَاسْمَعُوا وَاللَّهُ لاَ يَهْدِي الْقَوْمَ الْفَاسِقِينَ}الْأَوْلَيَانِ وَاحِدُهُمَا أَوْلَى وَمِنْهُ أَوْلَى بِهِ عُثِرَ أُظْهِرَ أَعْثَرْنَا أَظْهَرْنَا",
+                "headingUrdu": "اللہ تعالیٰ کا ارشاد ہے: اے ایمان والو! وصیت کرتے وقت جب تم میں سے کسی کی موت واقع ہو جائے تو تم میں سے دو عادل آدمیوں کی گواہی ہے یا دوسرے میں سے دو، جب تم زمین میں سفر پر ہو اور تم پر موت کی آفت آجائے۔ ان دونوں کو نماز کے بعد روک لو، اگر تمہیں کوئی شک ہو تو وہ اللہ کی قسم کھائیں کہ ہم قسم کے بدلے کوئی مال نہیں خریدیں گے، چاہے وہ قریبی رشتہ دار ہی کیوں نہ ہو، اور اللہ کی گواہی کو نہیں چھپائیں گے۔ اگر ہم ایسا کریں گے تو یقیناً ہم گنہگاروں میں سے ہیں۔ پھر اگر یہ معلوم ہو کہ وہ کسی گناہ کے مرتکب ہوئے ہیں تو ان کی جگہ دو اور آدمی کھڑے ہوں جن کا حق اس گناہ سے مجروح ہوا ہو (اس جھوٹی دلیل سے) تو وہ اللہ کی قسم اٹھائیں کہ ہمارے شہادت ان دونوں کی شہادت سے زیادہ درست ہے اور ہم نے حد سے تجاوز نہیں کیا، اگر ایسا ہے تو ہم ظالموں میں سے ہو جائیں۔ قریب ہے کہ وہ گواہی دیں جیسا کہ ہونا چاہیے یا اندیشہ ہے کہ ان کی قسموں کے بعد بعض قسمیں رد ہو جائیں۔ اور اللہ سے ڈرو اور اس کے احکام سنو۔ اور اللہ سے ڈرو اور اس کے احکام سنو۔ اور اللہ نافرمانوں کو راستہ نہیں دیتا\"",
+                "headingEnglish": "Allah Almighty say: O  Believers! The evidence among yourselves when death approaches any of you at the time of making a will is of two just persons from among you or two of the others, when you be on journey in the land, and the calamity of death befall you. Detain them both after prayer, they should swear by Allah, if you are in any doubt, that we shall not purchase any wealth in exchange of the oath, even though he may be a near relation, and will not hide the testimony of Allah, if we do so, we are surely among the sinners. Then if it is known that they became guilty of any sin, then two others should stand in their place from amongst those nearer to the deceased whose right has been injured by this sin (by this false evidence), then they should swear by Allah our evidence is more upright than the evidence of those two, and we crossed not the limit, if it be so, then we should be of the unjust. It is nearer that they may give the evidence as it should be or fear that some oaths may be rebutted after their oaths. And fear Allah and listen to His commands. And fear Allah and listen to his commands. And Allah gives not the way to the disobedients''",
+                "chapterId": "56",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 56,
+                    "chapterNumber": "56",
+                    "chapterEnglish": "Wills and Testaments (Wasaayaa)",
+                    "chapterUrdu": "وصیتوں کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الوصايا",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2658,
+                "hadithNumber": "2781",
+                "englishNarrator": "Narrated Jabir bin `Abdullah Al-Ansari رضی اللہ عنہ ن:",
+                "hadithEnglish": "My father was martyred on the day (of the Ghazwa) of Uhud and left six daughters and some debts to be paid. When the time of plucking the date-fruits came, I went to Allah's Messenger (ﷺ) and said, \"O Allah's Apostle! you know that my father was martyred on Uhud's day and owed much debt, and I wish that the creditors would see you.\" The Prophet (ﷺ) said, \"Go and collect the various kinds of dates and place them separately in heaps\"' I did accordingly and called him. On seeing him, the creditors started claiming their rights pressingly at that time. When the Prophet (ﷺ) saw how they behaved, he went round the biggest heap for three times and sat over it and said, \"Call your companions (i.e. the creditors).\" Then he kept on measuring and giving them, till Allah cleared all my father's debts. By Allah, it would have pleased me that Allah would clear the debts of my father even though I had not taken a single date to my sisters. But by Allah, all the heaps were complete, (as they were) and I looked at the heap where Allah's Messenger (ﷺ) was sitting and noticed as if not a single date had been taken thereof.",
+                "hadithUrdu": "ان کے والد ( عبداللہ رضی اللہ عنہ ) احد کی لڑائی میں شہید ہو گئے تھے ۔ اپنے پیچھے چھ لڑکیاں چھوڑی تھیں اور قرض بھی ۔ جب کجھور کے پھل توڑنے کا وقت آیا تو میں رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوا اور عرض کیا یا رسول اللہ ! آپ کو یہ معلوم ہی ہے کہ میرے والد ماجد احد کی لڑائی میں شہید ہو چکے ہیں اور بہت زیادہ قرض چھوڑ گئے ہیں ‘ میں چاہتا تھا کہ قرض خواہ آپ کو دیکھ لیں ( تاکہ قرض میں کچھ رعایت کر دیں ) لیکن وہ یہودی تھے اور وہ نہیں مانے ‘ اس لئے رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ جاؤ اور کھلیان میں ہر قسم کی کجھور الگ الگ کر لو جب میں نے ایسا ہی کر لیا تو آنحضرت صلی اللہ علیہ وسلم کو بلایا ‘ قرض خواہوں نے آنحضرت صلی اللہ علیہ وسلم کو دیکھ کر اور زیادہ سختی شروع کر دی تھی ۔ آنحضرت صلی اللہ علیہ وسلم نے جب یہ طرز عمل ملاحظہ فرمایا تو سب سے بڑے کجھور کے ڈھیر کے گرد آپ صلی اللہ علیہ وسلم نے تین چکر لگائے اور وہیں بیٹھ گئے پھر فرمایا کہ اپنے قرض خواہوں کو بلاؤ ۔ آپ صلی اللہ علیہ وسلم نے ناپ ناپ کر دینا شروع کیا اور واللہ میرے والد کی تمام امانت ادا کر دی ‘ اللہ گواہ ہے کہ میں اتنے پر بھی راضی تھا کہ اللہ تعالیٰ میرے والد کا تمام قرض ادا کر دے اور میں اپنی بہنوں کیلئے ایک کجھور بھی اس میں سے نہ لے جاؤں لیکن ہوا یہ کہ ڈھیر کے ڈھیر بچ رہے اور میں نے دیکھا کہ رسول اللہ صلی اللہ علیہ وسلم جس ڈھیر پر بیٹھے ہوئے تھے اس میں سے تو ایک کجھور بھی نہیں دی گئی تھی ۔",
+                "urduNarrator": "ہم سے محمد بن سابق نے بیان کیا یا فضل بن یعقوب نے محمد بن سابق سے ( یہ شک خود حضرت امام بخاری رحمہ اللہ کو ہے ) کہا ہم سے شیبان بن عبدالرحمٰن ابومعاویہ نے بیان کیا ‘ ان سے فراس بن یحییٰ نے بیان کیا ‘ ان سے شعبی نے بیان کیا اور ان سے جابر بن عبداللہ انصاری رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سَابِقٍ، أَوِ الْفَضْلُ بْنُ يَعْقُوبَ عَنْهُ حَدَّثَنَا شَيْبَانُ أَبُو مُعَاوِيَةَ، عَنْ فِرَاسٍ، قَالَ قَالَ الشَّعْبِيُّ حَدَّثَنِي جَابِرُ بْنُ عَبْدِ اللَّهِ الأَنْصَارِيُّ ـ رضى الله عنهما ـ أَنَّ أَبَاهُ اسْتُشْهِدَ يَوْمَ أُحُدٍ، وَتَرَكَ سِتَّ بَنَاتٍ، وَتَرَكَ عَلَيْهِ دَيْنًا، فَلَمَّا حَضَرَ جِدَادُ النَّخْلِ أَتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقُلْتُ يَا رَسُولَ اللَّهِ قَدْ عَلِمْتَ أَنَّ وَالِدِي اسْتُشْهِدَ يَوْمَ أُحُدٍ وَتَرَكَ عَلَيْهِ دَيْنًا كَثِيرًا، وَإِنِّي أُحِبُّ أَنْ يَرَاكَ الْغُرَمَاءُ قَالَ ‏\"‏ اذْهَبْ فَبَيْدِرْ كُلَّ تَمْرٍ عَلَى نَاحِيَتِهِ ‏\"‏‏.‏ فَفَعَلْتُ ثُمَّ دَعَوْتُهُ، فَلَمَّا نَظَرُوا إِلَيْهِ أُغْرُوا بِي تِلْكَ السَّاعَةَ، فَلَمَّا رَأَى مَا يَصْنَعُونَ أَطَافَ حَوْلَ أَعْظَمِهَا بَيْدَرًا ثَلاَثَ مَرَّاتٍ ثُمَّ جَلَسَ عَلَيْهِ ثُمَّ قَالَ ‏\"‏ ادْعُ أَصْحَابَكَ ‏\"‏‏.‏ فَمَا زَالَ يَكِيلُ لَهُمْ حَتَّى أَدَّى اللَّهُ أَمَانَةَ وَالِدِي، وَأَنَا وَاللَّهِ رَاضٍ أَنْ يُؤَدِّيَ اللَّهُ أَمَانَةَ وَالِدِي وَلاَ أَرْجِعَ إِلَى أَخَوَاتِي بِتَمْرَةٍ، فَسَلِمَ وَاللَّهِ الْبَيَادِرُ كُلُّهَا حَتَّى أَنِّي أَنْظُرُ إِلَى الْبَيْدَرِ الَّذِي عَلَيْهِ رَسُولُ اللَّهِ صلى الله عليه وسلم كَأَنَّهُ لَمْ يَنْقُصْ تَمْرَةً وَاحِدَةً‏.‏",
+                "headingArabic": "قَضَاءِ الْوَصِيِّ دُيُونَ الْمَيِّتِ بِغَيْرِ مَحْضَرٍ مِنَ الْوَرَثَةِ",
+                "headingUrdu": "میت کے قرضوں کی ادائیگی",
+                "headingEnglish": "The payments of the debts of the deceased",
+                "chapterId": "56",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 56,
+                    "chapterNumber": "56",
+                    "chapterEnglish": "Wills and Testaments (Wasaayaa)",
+                    "chapterUrdu": "وصیتوں کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الوصايا",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2659,
+                "hadithNumber": "2782",
+                "englishNarrator": "Narrated `Abdullah bin Masud رضی اللہ عنہما :",
+                "hadithEnglish": "I asked Allah's Messenger (ﷺ), \"O Allah's Messenger (ﷺ)! What is the best deed?\" He replied, \"To offer the prayers at their early stated fixed times.\" I asked, \"What is next in goodness?\" He replied, \"To be good and dutiful to your parents.\" I further asked, what is next in goodness?\" He replied, \"To participate in Jihad in Allah's Cause.\" I did not ask Allah's Messenger (ﷺ) anymore and if I had asked him more, he would have told me more.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم سے پوچھا کہ دین کے کاموں میں کون سا عمل افضل ہے ؟ آپ صلی اللہ علیہ وسلم نے فرمایا کہ وقت پر نماز پڑھنا ‘ میں نے پوچھا اس کے بعد ؟ آپ صلی اللہ علیہ وسلم نے فرمایا والدین کے ساتھ نیک سلوک کرنا ‘ میں نے پوچھا اور اس کے بعد ؟ آپ صلی اللہ علیہ وسلم نے فرمایا کہ اللہ کے راستے میں جہاد کرنا ۔ پھر میں نے آپ صلی اللہ علیہ وسلم سے زیادہ سوالات نہیں کئے ‘ ورنہ آپ صلی اللہ علیہ وسلم اسی طرح ان کے جوابات عنایت فرماتے ۔",
+                "urduNarrator": "ہم سے حسن بن صباح نے بیان کیا ‘ کہا ہم سے محمد بن سابق نے بیان کیا ‘ کہا ہم سے مالک بن مغول نے بیان کیا ‘ کہا کہ میں نے ولید بن عیزار سے سنا ‘ ان سے سعید بن ایاس ابو عمروشیبانی نے بیان کیا اور ان سے عبداللہ بن مسعود رضی اللہ عنہما نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا الْحَسَنُ بْنُ صَبَّاحٍ، حَدَّثَنَا مُحَمَّدُ بْنُ سَابِقٍ، حَدَّثَنَا مَالِكُ بْنُ مِغْوَلٍ، قَالَ سَمِعْتُ الْوَلِيدَ بْنَ الْعَيْزَارِ، ذَكَرَ عَنْ أَبِي عَمْرٍو الشَّيْبَانِيِّ، قَالَ قَالَ عَبْدُ اللَّهِ بْنُ مَسْعُودٍ ـ رضى الله عنه ـ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم قُلْتُ يَا رَسُولَ اللَّهِ أَىُّ الْعَمَلِ أَفْضَلُ قَالَ ‏\"‏ الصَّلاَةُ عَلَى مِيقَاتِهَا ‏\"‏‏.‏ قُلْتُ ثُمَّ أَىٌّ‏.‏ قَالَ ‏\"‏ ثُمَّ بِرُّ الْوَالِدَيْنِ ‏\"‏‏.‏ قُلْتُ ثُمَّ أَىٌّ قَالَ ‏\"‏ الْجِهَادُ فِي سَبِيلِ اللَّهِ ‏\"‏‏.‏ فَسَكَتُّ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم وَلَوِ اسْتَزَدْتُهُ لَزَادَنِي‏.‏",
+                "headingArabic": "فَضْلُ الْجِهَادِ وَالسِّيَرِ",
+                "headingUrdu": "جہاد کی فضیلت",
+                "headingEnglish": "The superiority of Jihad",
+                "chapterId": "57",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 57,
+                    "chapterNumber": "57",
+                    "chapterEnglish": "Fighting for the Cause of Allah (Jihaad)",
+                    "chapterUrdu": "جہاد کا بیان",
+                    "chapterArabic": "كتاب الجهاد والسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2660,
+                "hadithNumber": "2783",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"There is no Hijra (i.e. migration) (from Mecca to Medina) after the Conquest (of Mecca), but Jihad and good intention remain; and if you are called (by the Muslim ruler) for fighting, go forth immediately.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا فتح مکہ کے بعد اب ہجرت ( فرض ) نہیں رہی البتہ جہاد اور نیت بخیر کرنا اب بھی باقی ہیں اور جب تمہیں جہاد کے لئے بلایا جائے تو نکل کھڑے ہوا کرو ۔",
+                "urduNarrator": "ہم سے علی بن عبداللہ نے بیان کیا ‘ کہا ہم سے یحییٰ بن سعید قطان نے بیان کیا ‘ کہا ہم سے سفیان ثوری نے بیان کیا ‘ کہا کہ مجھ سے منصور بن معتمر نے بیان کیا مجاہد سے ‘ انہوں نے طاؤس سے اور ان سے ابن عباس رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنِي مَنْصُورٌ، عَنْ مُجَاهِدٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏لاَ هِجْرَةَ بَعْدَ الْفَتْحِ وَلَكِنْ جِهَادٌ وَنِيَّةٌ، وَإِذَا اسْتُنْفِرْتُمْ فَانْفِرُوا ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "57",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 57,
+                    "chapterNumber": "57",
+                    "chapterEnglish": "Fighting for the Cause of Allah (Jihaad)",
+                    "chapterUrdu": "جہاد کا بیان",
+                    "chapterArabic": "كتاب الجهاد والسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2661,
+                "hadithNumber": "2784",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "(That she said), \"O Allah's Messenger (ﷺ)! We consider Jihad as the best deed. Should we not fight in Allah's Cause?\" He said, \"The best Jihad (for women) is Hajj-Mabrur (i.e. Hajj which is done according to the Prophet's tradition and is accepted by Allah).",
+                "hadithUrdu": "انہوں پوچھا یا رسول اللہ ! ہم سمجھتے ہیں کہ جہاد افضل اعمال میں سے ہے پھر ہم ( عورتیں ) بھی کیوں نہ جہاد کریں ؟ آپ صلی اللہ علیہ وسلم نے فرمایا لیکن سب سے افضل جہاد مقبول حج ہے جس میں گناہ نہ ہوں ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیا‘کہا ہم سے خالد بن عبداللہ نے بیان کیا ‘ کہا ہم سے حبیب بن ابی عمرہ نے بیان کیا عائشہ بنت طلحہ سے اور ان سے عائشہ رضی اللہ عنہا ( ام المؤمنین ) نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا خَالِدٌ، حَدَّثَنَا حَبِيبُ بْنُ أَبِي عَمْرَةَ، عَنْ عَائِشَةَ بِنْتِ طَلْحَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّهَا قَالَتْ يَا رَسُولَ اللَّهِ تُرَى الْجِهَادَ أَفْضَلَ الْعَمَلِ، أَفَلاَ نُجَاهِدُ قَالَ ‏ \"‏ لَكِنَّ أَفْضَلَ الْجِهَادِ حَجٌّ مَبْرُورٌ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "57",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 57,
+                    "chapterNumber": "57",
+                    "chapterEnglish": "Fighting for the Cause of Allah (Jihaad)",
+                    "chapterUrdu": "جہاد کا بیان",
+                    "chapterArabic": "كتاب الجهاد والسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2662,
+                "hadithNumber": "2785",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "A man came to Allah's Messenger (ﷺ) and said, \"Instruct me as to such a deed as equals Jihad (in reward).\" He replied, \"I do not find such a deed.\" Then he added, \"Can you, while the Muslim fighter is in the battle-field, enter your mosque to perform prayers without cease and fast and never break your fast?\" The man said, \"But who can do that?\" Abu- Huraira رضی اللہ عنہ added, \"The Mujahid (i.e. Muslim fighter) is rewarded even for the footsteps of his horse while it wanders bout (for grazing) tied in a long rope.\"",
+                "hadithUrdu": "ایک صاحب ( نام نامعلوم ) رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں آئے اور عرض کیا کہ مجھے کوئی ایسا عمل بتا دیجئیے جو ثواب میں جہاد کے برابر ہو ۔ حضور اکرم صلی اللہ علیہ وسلم نے فرمایا ایسا کوئی عمل میں نہیں پاتا ۔ پھر آپ صلی اللہ علیہ وسلم نے فرمایا کیا تم اتنا کر سکتے ہو کہ جب مجاہد ( جہاد کے لئے ) نکلے تو تم اپنی مسجد میں آ کر برابر نماز پڑھنی شروع کر دو اور ( نماز پڑھتے رہو اور درمیان میں ) کوئی سستی اور کاہلی تمہیں محسوس نہ ہو ، اسی طرح روزے رکھنے لگو اور کوئی دن بغیر روزے کے نہ گزرے ۔ ان صاحب نے عرض کیا بھلا ایسا کون کر سکتا ہے ؟ ابوہریرہ رضی اللہ عنہ نے فرمایا کہ مجاہد کا گھوڑا جب رسی میں بندھا ہوا زمین ( پر پاؤں ) مارتا ہے تو اس پر بھی اس کے لئے نیکیاں لکھی جاتی ہیں ۔",
+                "urduNarrator": "ہم سے اسحاق بن منصور نے بیان کیا ‘ کہا ہم کو عفان بن مسلم نے خبر دی ‘ کہا ہم سے ہمام نے ‘ کہا ہم سے محمد بن حجادہ نے بیان کیا ‘ کہا کہ مجھے ابو حصین نے خبر دی ‘ ان سے ذکوان نے بیان کیا اور ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، أَخْبَرَنَا عَفَّانُ، حَدَّثَنَا هَمَّامٌ، حَدَّثَنَا مُحَمَّدُ بْنُ جُحَادَةَ، قَالَ أَخْبَرَنِي أَبُو حَصِينٍ، أَنَّ ذَكْوَانَ، حَدَّثَهُ أَنَّ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ حَدَّثَهُ قَالَ جَاءَ رَجُلٌ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ دُلَّنِي عَلَى عَمَلٍ يَعْدِلُ الْجِهَادَ‏.‏ قَالَ ‏ \"‏ لاَ أَجِدُهُ ـ قَالَ ـ هَلْ تَسْتَطِيعُ إِذَا خَرَجَ الْمُجَاهِدُ أَنْ تَدْخُلَ مَسْجِدَكَ فَتَقُومَ وَلاَ تَفْتُرَ وَتَصُومَ وَلاَ تُفْطِرَ ‏\"‏‏.‏ قَالَ وَمَنْ يَسْتَطِيعُ ذَلِكَ قَالَ أَبُو هُرَيْرَةَ إِنَّ فَرَسَ الْمُجَاهِدِ لَيَسْتَنُّ فِي طِوَلِهِ فَيُكْتَبُ لَهُ حَسَنَاتٍ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "57",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 57,
+                    "chapterNumber": "57",
+                    "chapterEnglish": "Fighting for the Cause of Allah (Jihaad)",
+                    "chapterUrdu": "جہاد کا بیان",
+                    "chapterArabic": "كتاب الجهاد والسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2663,
+                "hadithNumber": "2786",
+                "englishNarrator": "Narrated Abu Sa`id Al-Khudri رضی اللہ عنہ :",
+                "hadithEnglish": "Somebody asked, \"O Allah's Messenger (ﷺ)! Who is the best among the people?\" Allah's Messenger (ﷺ) replied \"A believer who strives his utmost in Allah's Cause with his life and property.\" They asked, \"Who is next?\" He replied, \"A believer who stays in one of the mountain paths worshipping Allah and leaving the people secure from his mischief.\"",
+                "hadithUrdu": "کہ عرض کیا گیا یا رسول اللہ صلی اللہ علیہ وسلم ! کون شخص سب سے افضل ہے ؟ آپ صلی اللہ علیہ وسلم نے فرمایا وہ مومن جو اللہ کے راستے میں اپنی جان اور مال سے جہاد کرے ۔ صحابہ رضی اللہ عنہم نے پوچھا اس کے بعد کون ؟ فرمایا وہ مومن جو پہاڑ کی کسی گھاٹی میں رہنا اختیار کرے ‘ اللہ تعالیٰ کا خوف رکھتا ہو اور لوگوں کو چھوڑ کر اپنی برائی سے ان کو محفوظ رکھے ۔",
+                "urduNarrator": "ہم سے ابوالیمان نے بیان کیا ‘ انہوں نے کہا کہ ہم کو شعیب نے خبر دی ‘ انہیں زہری نے ‘ انہوں نے کہا کہ مجھ سے عطاء بن یزید لیثی نے کہا اور ان سے ابو سعید خدری رضی اللہ عنہ نے بیان کیا",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ حَدَّثَنِي عَطَاءُ بْنُ يَزِيدَ اللَّيْثِيُّ، أَنَّ أَبَا سَعِيدٍ الْخُدْرِيَّ ـ رضى الله عنه ـ حَدَّثَهُ قَالَ قِيلَ يَا رَسُولَ اللَّهِ، أَىُّ النَّاسِ أَفْضَلُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مُؤْمِنٌ يُجَاهِدُ فِي سَبِيلِ اللَّهِ بِنَفْسِهِ وَمَالِهِ ‏\"‏‏.‏ قَالُوا ثُمَّ مَنْ قَالَ ‏\"‏ مُؤْمِنٌ فِي شِعْبٍ مِنَ الشِّعَابِ يَتَّقِي اللَّهَ، وَيَدَعُ النَّاسَ مِنْ شَرِّهِ ‏\"‏‏.‏",
+                "headingArabic": "أَفْضَلُ النَّاسِ مُؤْمِنٌ مُجَاهِدٌ بِنَفْسِهِ وَمَالِهِ فِي سَبِيلِ",
+                "headingUrdu": "جان و مال دونوں کے ساتھ جدوجہد کرنا",
+                "headingEnglish": "Striving with both, life and property",
+                "chapterId": "57",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 57,
+                    "chapterNumber": "57",
+                    "chapterEnglish": "Fighting for the Cause of Allah (Jihaad)",
+                    "chapterUrdu": "جہاد کا بیان",
+                    "chapterArabic": "كتاب الجهاد والسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2664,
+                "hadithNumber": "2787",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "I heard Allah's Messenger (ﷺ) saying, \"The example of a Mujahid in Allah's Cause-- and Allah knows better who really strives in His Cause----is like a person who fasts and prays continuously. Allah guarantees that He will admit the Mujahid in His Cause into Paradise if he is killed, otherwise He will return him to his home safely with rewards and war booty.\"",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ‘ آپ صلی اللہ علیہ وسلم فرما رہے تھے کہ اللہ کے راستے میں جہاد کرنے والے کی مثال ۔ ۔ ۔ ۔ اور اللہ تعالیٰ اس شخص کو خوب جانتا ہے جو ( خلوص دل کے ساتھ صرف اللہ تعالیٰ کی رضا کیلئے ) اللہ کے راستے میں جہاد کرتا ہے ۔ ۔ ۔ ۔ ۔ اس شخص کی سی ہے جو رات میں برابر نماز پڑھتا رہے اور دن میں برابر روزے رکھتا رہے اور اللہ تعالیٰ نے اپنے راستے میں جہاد کرنے والے کیلئے اس کی ذمہ داری لے لی ہے کہ اگر اسے شہادت دے گا تو اسے بے حساب و کتاب جنت میں داخل کرے گا یا پھر زندہ و سلامت ( گھر ) ثواب اور مال غنیمت کے ساتھ واپس کرے گا ۔",
+                "urduNarrator": "ہم سے ابوالیمان نے بیان کیا ‘ کہا ہم کو شعیب نے خبر دی ‘ ان سے زہری نے بیان کیا کہ مجھے سعید بن مسیب نے خبر دی اور ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، أَنَّ أَبَا هُرَيْرَةَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ مَثَلُ الْمُجَاهِدِ فِي سَبِيلِ اللَّهِ ـ وَاللَّهُ أَعْلَمُ بِمَنْ يُجَاهِدُ فِي سَبِيلِهِ ـ كَمَثَلِ الصَّائِمِ الْقَائِمِ، وَتَوَكَّلَ اللَّهُ لِلْمُجَاهِدِ فِي سَبِيلِهِ بِأَنْ يَتَوَفَّاهُ أَنْ يُدْخِلَهُ الْجَنَّةَ، أَوْ يَرْجِعَهُ سَالِمًا مَعَ أَجْرٍ أَوْ غَنِيمَةٍ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "57",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 57,
+                    "chapterNumber": "57",
+                    "chapterEnglish": "Fighting for the Cause of Allah (Jihaad)",
+                    "chapterUrdu": "جہاد کا بیان",
+                    "chapterArabic": "كتاب الجهاد والسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2665,
+                "hadithNumber": "2788, 2789",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) used to visit Umm Haram bint Milhan, who would offer him meals. Umm Haram was the wife of Ubada bin As-Samit. Allah's Messenger (ﷺ), once visited her and she provided him with food and started looking for lice in his head. Then Allah's Messenger (ﷺ) slept, and afterwards woke up smiling. Umm Haram رضی اللہ عنہا asked, \"What causes you to smile, O Allah's Messenger (ﷺ)?\" He said. \"Some of my followers who (in a dream) were presented before me as fighters in Allah's cause (on board a ship) amidst this sea caused me to smile; they were as kings on the thrones (or like kings on the thrones).\" (Ishaq, a sub-narrator is not sure as to which expression the Prophet (ﷺ) used.) Umm Haram رضی اللہ عنہا said, \"O Allah's Messenger (ﷺ)! Invoke Allah that he makes me one of them. Allah's Messenger (ﷺ) invoked Allah for her and slept again and woke up smiling. Once again Umm Haram asked, \"What makes you smile, O Allah's Messenger (ﷺ)?\" He replied, \"Some of my followers were presented to me as fighters in Allah's Cause,\" repeating the same dream. Umm Haram رضی اللہ عنہا said, \"O Allah's Messenger (ﷺ)! Invoke Allah that He makes me one of them.\" He said, \"You are amongst the first ones.\" It happened that she sailed on the sea during the Caliphate of Mu'awiya bin Abi Sufyan رضی اللہ عنہ , and after she disembarked, she fell down from her riding animal and died.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم ام حرام رضی اللہ عنہا کے یہاں تشریف لے جایا کرتے تھے ( یہ انس کی خالہ تھیں جو عبادہ بن صامت کے نکاح میں تھیں ) ایک دن رسول اللہ صلی اللہ علیہ وسلم تشریف لے گئے تو انہوں نے آپ صلی اللہ علیہ وسلم کی خدمت میں کھانا پیش کیا اور آپ صلی اللہ علیہ وسلم کے سر سے جوئیں نکالنے لگیں ‘ اس عرصے میں آپ صلی اللہ علیہ وسلم سو گئے ‘ جب بیدار ہوئے تو آپ صلی اللہ علیہ وسلم مسکرا رہے تھے ۔ ام حرام رضی اللہ عنہا نے بیان کیا میں نے پوچھا یا رسول اللہ صلی اللہ علیہ وسلم ! کس بات پر آپ ہنس رہے ہیں ؟ آپ صلی اللہ علیہ وسلم نے فرمایا کہ میری امت کے کچھ لوگ میرے سامنے اس طرح پیش کئے گئے کہ وہ اللہ کے راستے میں غزوہ کرنے کے لئے دریا کے بیچ میں سوار اس طرح جا رہے ہیں جس طرح بادشاہ تخت پر ہوتے ہیں یا جیسے بادشاہ تخت رواں پر سوار ہوتے ہیں یہ شک اسحاق راوی کو تھا ۔ انہوں نے بیان کیا کہ میں نے عرض کیا یا رسول اللہ ! آپ صلی اللہ علیہ وسلم دعا فرمایئے کہ اللہ مجھے بھی انہیں میں سے کر دے ‘ رسول اللہ صلی اللہ علیہ وسلم نے ان کے لئے دعا فرمائی پھر آپ صلی اللہ علیہ وسلم اپنا سر رکھ کر سو گئے ‘ اس مرتبہ بھی آپ بیدار ہوئے تو مسکرا رہے تھے ۔ میں نے پوچھا یا رسول اللہ ! کس بات پر آپ ہنس رہے ہیں ؟ آپ صلی اللہ علیہ وسلم نے فرمایا میری امت کے کچھ لوگ میرے سامنے اس طرح پیش کئے گئے کہ وہ اللہ کی راہ میں غزوہ کے لئے جا رہے ہیں پہلے کی طرح ‘ اس مرتبہ بھی فرمایا انہوں نے بیان کیا کہ میں نے عرض کیا یا رسول اللہ صلی اللہ علیہ وسلم ! اللہ سے میرے لئے دعا کیجئے کہ مجھے بھی انہیں میں سے کر دے ۔ آنحضرت صلی اللہ علیہ وسلم نے اس پر فرمایا کہ تو سب سے پہلی فوج میں شامل ہو گی ( جو بحری راستے سے جہاد کرے گی ) چنانچہ حضرت معاویہ رضی اللہ عنہ کے زمانہ میں ام حرام رضی اللہ عنہا نے بحری سفر کیا پھر جب سمندر سے باہر آئیں تو ان کی سواری نے انہیں نیچے گرا دیا اور اسی حادثہ میں ان کی وفات ہو گئی ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا امام مالک سے ‘ انہوں نے اسحاق بن عبداللہ بن ابی طلحہ سے انہوں نے انس بن مالک رضی اللہ عنہ سے سنا ‘ آپ بیان کرتے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، عَنْ مَالِكٍ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ أَنَّهُ سَمِعَهُ يَقُولُ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَدْخُلُ عَلَى أُمِّ حَرَامٍ بِنْتِ مِلْحَانَ، فَتُطْعِمُهُ، وَكَانَتْ أُمُّ حَرَامٍ تَحْتَ عُبَادَةَ بْنِ الصَّامِتِ، فَدَخَلَ عَلَيْهَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَأَطْعَمَتْهُ وَجَعَلَتْ تَفْلِي رَأْسَهُ، فَنَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم ثُمَّ اسْتَيْقَظَ وَهُوَ يَضْحَكُ‏.‏ قَالَتْ فَقُلْتُ وَمَا يُضْحِكُكَ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ نَاسٌ مِنْ أُمَّتِي عُرِضُوا عَلَىَّ، غُزَاةً فِي سَبِيلِ اللَّهِ، يَرْكَبُونَ ثَبَجَ هَذَا الْبَحْرِ، مُلُوكًا عَلَى الأَسِرَّةِ، أَوْ مِثْلُ الْمُلُوكِ عَلَى الأَسِرَّةِ ‏\"‏‏.‏ شَكَّ إِسْحَاقُ‏.‏ قَالَتْ فَقُلْتُ يَا رَسُولَ اللَّهِ ادْعُ اللَّهَ أَنْ يَجْعَلَنِي مِنْهُمْ‏.‏ فَدَعَا لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ثُمَّ وَضَعَ رَأْسَهُ، ثُمَّ اسْتَيْقَظَ وَهُوَ يَضْحَكُ فَقُلْتُ وَمَا يُضْحِكُكَ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ نَاسٌ مِنْ أُمَّتِي عُرِضُوا عَلَىَّ، غُزَاةً فِي سَبِيلِ اللَّهِ ‏\"‏‏.‏ كَمَا قَالَ فِي الأَوَّلِ‏.‏ قَالَتْ فَقُلْتُ يَا رَسُولَ اللَّهِ، ادْعُ اللَّهَ أَنْ يَجْعَلَنِي مِنْهُمْ‏.‏ قَالَ ‏\"‏ أَنْتِ مِنَ الأَوَّلِينَ ‏\"‏‏.‏ فَرَكِبَتِ الْبَحْرَ فِي زَمَانِ مُعَاوِيَةَ بْنِ أَبِي سُفْيَانَ، فَصُرِعَتْ عَنْ دَابَّتِهَا حِينَ خَرَجَتْ مِنَ الْبَحْرِ، فَهَلَكَتْ‏.‏",
+                "headingArabic": "الدُّعَاءِ بِالْجِهَادِ وَالشَّهَادَةِ لِلرِّجَالِ وَالنِّسَاءِ",
+                "headingUrdu": "دعا ہے کہ اللہ شہادت سے آراستہ کرے۔",
+                "headingEnglish": "The invocation that Allah may let adorn with martyrdom",
+                "chapterId": "57",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 57,
+                    "chapterNumber": "57",
+                    "chapterEnglish": "Fighting for the Cause of Allah (Jihaad)",
+                    "chapterUrdu": "جہاد کا بیان",
+                    "chapterArabic": "كتاب الجهاد والسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2666,
+                "hadithNumber": "2790",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Whoever believes in Allah and His Apostle, offer prayer perfectly and fasts the month of Ramadan, will rightfully be granted Paradise by Allah, no matter whether he fights in Allah's Cause or remains in the land where he is born.\" The people said, \"O Allah's Messenger (ﷺ) ! Shall we acquaint the people with the is good news?\" He said, \"Paradise has one-hundred grades which Allah has reserved for the Mujahidin who fight in His Cause, and the distance between each of two grades is like the distance between the Heaven and the Earth. So, when you ask Allah (for something), ask for Al-firdaus which is the best and highest part of Paradise.\" (i.e. The sub-narrator added, \"I think the Prophet also said, 'Above it (i.e. Al-Firdaus) is the Throne of Beneficent (i.e. Allah), and from it originate the rivers of Paradise.\") He said: Above it is the Throne of the Affectionate One and from it the canals of paradise gush. And Muhammad bin Folaih reports from his father that above it is the Throne of the Affectionate One.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا جو شخص اللہ اور اس کے رسول پر ایمان لائے اور نماز قائم کرے اور رمضان کے روزے رکھے تو اللہ تعالیٰ پر حق ہے کہ وہ جنت میں داخل کرے گا خواہ اللہ کے راستے میں وہ جہاد کرے یا اسی جگہ پڑا رہے جہاں پیدا ہوا تھا ۔ صحابہ نے عرض کیا یا رسول اللہ صلی اللہ علیہ وسلم کیا ہم لوگوں کو اس کی بشارت نہ دے دیں ۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ جنت میں سو درجے ہیں جو اللہ تعالیٰ نے اپنے راستے میں جہاد کرنے والوں کے لئے تیار کئے ہیں ‘ ان کے دو درجوں میں اتنا فاصلہ ہے جتنا آسمان و زمین میں ہے ۔ اس لئے جب اللہ تعالیٰ سے مانگنا ہو تو فردوس مانگو کیونکہ وہ جنت کا سب سے درمیانی حصہ اور جنت کے سب سے بلند درجے پر ہے ۔ یحییٰ بن صالح نے کہا کہ میں سمجھتا ہوں یوں کہا کہ اس کے اوپر پروردگار کا عرش ہے اور وہیں سے جنت کی نہریں نکلتی ہیں ۔ محمد بن فلیح نے اپنے والد سے وفوقہ عرش الرحمن ہی کی روایت کی ہے ۔",
+                "urduNarrator": "ہم سے یحییٰ بن صالح نے بیان کیا ‘ کہا ہم سے فلیح نے بیان کیا ‘ ان سے ہلال بن علی نے ‘ ان سے عطاء بن یسار نے اور ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ صَالِحٍ، حَدَّثَنَا فُلَيْحٌ، عَنْ هِلاَلِ بْنِ عَلِيٍّ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَنْ آمَنَ بِاللَّهِ وَبِرَسُولِهِ وَأَقَامَ الصَّلاَةَ وَصَامَ رَمَضَانَ، كَانَ حَقًّا عَلَى اللَّهِ أَنْ يُدْخِلَهُ الْجَنَّةَ جَاهَدَ فِي سَبِيلِ اللَّهِ، أَوْ جَلَسَ فِي أَرْضِهِ الَّتِي وُلِدَ فِيهَا ‏\"‏‏.‏ فَقَالُوا يَا رَسُولَ اللَّهِ أَفَلاَ نُبَشِّرُ النَّاسَ‏.‏ قَالَ ‏\"‏ إِنَّ فِي الْجَنَّةِ مِائَةَ دَرَجَةٍ أَعَدَّهَا اللَّهُ لِلْمُجَاهِدِينَ فِي سَبِيلِ اللَّهِ، مَا بَيْنَ الدَّرَجَتَيْنِ كَمَا بَيْنَ السَّمَاءِ وَالأَرْضِ، فَإِذَا سَأَلْتُمُ اللَّهَ فَاسْأَلُوهُ الْفِرْدَوْسَ، فَإِنَّهُ أَوْسَطُ الْجَنَّةِ وَأَعْلَى الْجَنَّةِ، أُرَاهُ فَوْقَهُ عَرْشُ الرَّحْمَنِ، وَمِنْهُ تَفَجَّرُ أَنْهَارُ الْجَنَّةِ ‏\"‏‏.‏ قَالَ مُحَمَّدُ بْنُ فُلَيْحٍ عَنْ أَبِيهِ ‏\"‏ وَفَوْقَهُ عَرْشُ الرَّحْمَنِ ‏\"‏‏.‏",
+                "headingArabic": "دَرَجَاتِ الْمُجَاهِدِينَ فِي سَبِيلِ اللَّهِ يُقَالُ هَذِهِ سَبِيلِي وَهَذَا سَبِيلِي",
+                "headingUrdu": "مجاہدین کے درجات",
+                "headingEnglish": "The grades of the Mujahidun",
+                "chapterId": "57",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 57,
+                    "chapterNumber": "57",
+                    "chapterEnglish": "Fighting for the Cause of Allah (Jihaad)",
+                    "chapterUrdu": "جہاد کا بیان",
+                    "chapterArabic": "كتاب الجهاد والسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2667,
+                "hadithNumber": "2791",
+                "englishNarrator": "Narrated Samura رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Last night two men came to me (in a dream) and made me ascend a tree and then admitted me into a better and superior house, better of which I have never seen. One of them said, 'This house is the house of martyrs.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا ، میں نے رات میں دو آدمی دیکھے جو میرے پاس آئے پھر وہ مجھے لے کر ایک درخت پر چڑھے اور اس کے بعد مجھے ایک ایسے مکان میں لے گئے جو نہایت خوبصورت اور بڑا پاکیزہ تھا ، ایسا خوبصورت مکان میں نے کبھی نہیں دیکھا تھا ۔ ان دونوں نے کہا کہ یہ گھر شہیدوں کا ہے ۔",
+                "urduNarrator": "ہم سے موسیٰ بن اسماعیل نے بیان کیا ‘ کہا ہم سے جریر نے ‘ کہا ہم سے ابورجاء نے ‘ ان سے سمرہ بن جندب رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُوسَى، حَدَّثَنَا جَرِيرٌ، حَدَّثَنَا أَبُو رَجَاءٍ، عَنْ سَمُرَةَ، قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ رَأَيْتُ اللَّيْلَةَ رَجُلَيْنِ أَتَيَانِي فَصَعِدَا بِي الشَّجَرَةَ، فَأَدْخَلاَنِي دَارًا هِيَ أَحْسَنُ وَأَفْضَلُ، لَمْ أَرَ قَطُّ أَحْسَنَ مِنْهَا قَالاَ أَمَّا هَذِهِ الدَّارُ فَدَارُ الشُّهَدَاءِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "57",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 57,
+                    "chapterNumber": "57",
+                    "chapterEnglish": "Fighting for the Cause of Allah (Jihaad)",
+                    "chapterUrdu": "جہاد کا بیان",
+                    "chapterArabic": "كتاب الجهاد والسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2668,
+                "hadithNumber": "2792",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"A single endeavor (of fighting) in Allah's Cause in the forenoon or in the afternoon is better than the world and whatever is in it.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا اللہ کے راستے میں گزرنے والی ایک صبح یا ایک شام دنیا سے اور جو کچھ دنیا میں ہے سب سے بہتر ہے ۔",
+                "urduNarrator": "ہم سے معلی بن اسد نے بیان کیا ‘ کہا ہم سے وہب بن خالد نے ( فضل جہاد میں ) بیان کیا ‘ کہا ہم سے حمید طویل نے اور ان سے انس بن مالک رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُعَلَّى بْنُ أَسَدٍ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا حُمَيْدٌ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لَغَدْوَةٌ فِي سَبِيلِ اللَّهِ أَوْ رَوْحَةٌ خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا ‏\"‏‏.‏",
+                "headingArabic": "الْغَدْوَةِ وَالرَّوْحَةِ فِي سَبِيلِ اللَّهِ، وَقَابُ قَوْسِ أَحَدِكُمْ مِنَ الْجَنَّةِ",
+                "headingUrdu": "اللہ کی راہ میں آگے بڑھنا",
+                "headingEnglish": "To proceed in Allah's Cause",
+                "chapterId": "57",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 57,
+                    "chapterNumber": "57",
+                    "chapterEnglish": "Fighting for the Cause of Allah (Jihaad)",
+                    "chapterUrdu": "جہاد کا بیان",
+                    "chapterArabic": "كتاب الجهاد والسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2669,
+                "hadithNumber": "2793",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"A place in Paradise as small as a bow is better than all that on which the sun rises and sets (i.e. all the world).\" He also said, \"A single endeavor in Allah's Cause in the afternoon or in the forenoon is better than all that on which the sun rises and sets.\"",
+                "hadithUrdu": "نبی کرم صلی اللہ علیہ وسلم نے فرمایا جنت میں ایک ( کمان ) ہاتھ جگہ دنیا کی ان تمام چیزوں سے بہتر ہے جن پر سورج طلوع اور غروب ہوتا ہے اور آپ صلی اللہ علیہ وسلم نے فرمایا اللہ کے راستے میں ایک صبح یا ایک شام چلنا ان سب چیزوں سے بہتر ہے جن پر سورج طلوع اور غروب ہوتا ہے ۔",
+                "urduNarrator": "سے ابراہیم بن المنذر نے بیان کیا ‘ انہوں نے کہا ہم سے محمد بن فلیح نے بیان کیا ‘ انہوں نے کہا مجھ سے میرے والد نے بیان کیا ہلال بن علی سے ‘ ان سے عبدالرحمٰن بن ابی نمرہ نے اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ، حَدَّثَنَا مُحَمَّدُ بْنُ فُلَيْحٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ هِلاَلِ بْنِ عَلِيٍّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي عَمْرَةَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏لَقَابُ قَوْسٍ فِي الْجَنَّةِ خَيْرٌ مِمَّا تَطْلُعُ عَلَيْهِ الشَّمْسُ وَتَغْرُبُ ‏\"‏‏.‏ وَقَالَ ‏\"‏ لَغَدْوَةٌ أَوْ رَوْحَةٌ فِي سَبِيلِ اللَّهِ خَيْرٌ مِمَّا تَطْلُعُ عَلَيْهِ الشَّمْسُ وَتَغْرُبُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "57",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 57,
+                    "chapterNumber": "57",
+                    "chapterEnglish": "Fighting for the Cause of Allah (Jihaad)",
+                    "chapterUrdu": "جہاد کا بیان",
+                    "chapterArabic": "كتاب الجهاد والسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2670,
+                "hadithNumber": "2794",
+                "englishNarrator": "Narrated Sahl bin Sa`d رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"A single endeavor in Allah's Cause in the afternoon and in the forenoon is better than the world and whatever is in it.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا اللہ کے راستے میں گزرنے والی ایک صبح و شام دنیا اور جو کچھ دنیا میں ہے سب سے بڑھ کر ہے ۔",
+                "urduNarrator": "ہم سے قبیصہ نے بیان کیا ‘ انہوں نے کہا کہ ہم سے سفیان نے بیان کیا انہوں نے ابوحازم سے اور ان سے سہل بن سعد رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا قَبِيصَةُ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ الرَّوْحَةُ وَالْغَدْوَةُ فِي سَبِيلِ اللَّهِ أَفْضَلُ مِنَ الدُّنْيَا وَمَا فِيهَا ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "57",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 57,
+                    "chapterNumber": "57",
+                    "chapterEnglish": "Fighting for the Cause of Allah (Jihaad)",
+                    "chapterUrdu": "جہاد کا بیان",
+                    "chapterArabic": "كتاب الجهاد والسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2671,
+                "hadithNumber": "2795",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Nobody who dies and finds good from Allah (in the Hereafter) would wish to come back to this world even if he were given the whole world and whatever is in it, except the martyr who, on seeing the superiority of martyrdom, would like to come back to the world and get killed again (in Allah's Cause).\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا کوئی بھی اللہ کا بندہ جو مر جائے اور اللہ کے پاس اس کی کچھ بھی نیکی جمع ہو وہ پھر دنیا میں آنا پسند نہیں کرتا گو اس کی ساری دنیا اور جو کچھ اس میں ہے سب کچھ مل جائے مگر شہید پھر دنیا میں آنا چاہتا ہے کہ جب وہ ( اللہ تعالیٰ کے ( یہاں شہادت کی فضیلت کو دیکھے گا تو چاہے گا کہ دنیا میں دوبارہ آئے اور پھر قتل ہو ( اللہ تعالیٰ کے راستے میں ) ۔",
+                "urduNarrator": "ہم سے عبداللہ بن محمد نے بیان کیا ‘ کہا ہم سے معاویہ بن عمرو نے بیان کیا ‘ کہا کہ ہم سے ابواسحاق نے بیان کیا‘ان سے حمید نے بیان کیا اور انہوں نے انس بن مالک رضی اللہ عنہ سے سنا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا مُعَاوِيَةُ بْنُ عَمْرٍو، حَدَّثَنَا أَبُو إِسْحَاقَ، عَنْ حُمَيْدٍ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَا مِنْ عَبْدٍ يَمُوتُ لَهُ عِنْدَ اللَّهِ خَيْرٌ، يَسُرُّهُ أَنْ يَرْجِعَ إِلَى الدُّنْيَا، وَأَنَّ لَهُ الدُّنْيَا وَمَا فِيهَا، إِلاَّ الشَّهِيدَ، لِمَا يَرَى مِنْ فَضْلِ الشَّهَادَةِ، فَإِنَّهُ يَسُرُّهُ أَنْ يَرْجِعَ إِلَى الدُّنْيَا فَيُقْتَلَ مَرَّةً أُخْرَى ‏\"‏‏.‏",
+                "headingArabic": "الْحُورُ الْعِينُ وَصِفَتُهُنَّ",
+                "headingUrdu": "الحر العین",
+                "headingEnglish": "Al-Hur-ul-'Ein",
+                "chapterId": "57",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 57,
+                    "chapterNumber": "57",
+                    "chapterEnglish": "Fighting for the Cause of Allah (Jihaad)",
+                    "chapterUrdu": "جہاد کا بیان",
+                    "chapterArabic": "كتاب الجهاد والسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2672,
+                "hadithNumber": "2796",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"A single endeavor (of fighting) in Allah's Cause in the afternoon or in the forenoon is better than all the world and whatever is in it. A place in Paradise as small as the bow or lash of one of you is better than all the world and whatever is in it. And if a houri from Paradise appeared to the people of the earth, she would fill the space between Heaven and the Earth with light and pleasant scent and her head cover is better than the world and whatever is in it.\"",
+                "hadithUrdu": "اللہ کے راستے میں ایک صبح یا ایک شام بھی گزار دینا دنیا اور جو کچھ اس میں ہے ، سب سے بہتر ہے اور کسی کے لئے جنت میں ایک ہاتھ کے برابر جگہ بھی یا ( راوی کو شبہ ہے ) ایک قید جگہ ، قید سے مراد کوڑا ہے ، دنیا وما فیھا سے بہتر ہے اور اگر جنت کی کوئی عورت زمین کی طرف جھانک بھی لے تو زمین و آسمان اپنی تمام وسعتوں کے ساتھ منور ہو جائیں اور خوشبو سے معطر ہو جائیں ۔ اس کے سر کا دوپٹہ بھی دنیا اور اس کی ساری چیزوں سے بڑھ کر ہے ۔",
+                "urduNarrator": "اور میں نے انس بن مالک رضی اللہ عنہ سے سنا وہ نبی کریم صلی اللہ علیہ وسلم کے حوالے سے بیان کرتے تھے کہ",
+                "hadithArabic": "وَسَمِعْتُ أَنَسَ بْنَ مَالِكٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏ \"‏ لَرَوْحَةٌ فِي سَبِيلِ اللَّهِ أَوْ غَدْوَةٌ خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا، وَلَقَابُ قَوْسِ أَحَدِكُمْ مِنَ الْجَنَّةِ أَوْ مَوْضِعُ قِيدٍ ـ يَعْنِي سَوْطَهُ ـ خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا، وَلَوْ أَنَّ امْرَأَةً مِنْ أَهْلِ الْجَنَّةِ اطَّلَعَتْ إِلَى أَهْلِ الأَرْضِ لأَضَاءَتْ مَا بَيْنَهُمَا وَلَمَلأَتْهُ رِيحًا، وَلَنَصِيفُهَا عَلَى رَأْسِهَا خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "57",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 57,
+                    "chapterNumber": "57",
+                    "chapterEnglish": "Fighting for the Cause of Allah (Jihaad)",
+                    "chapterUrdu": "جہاد کا بیان",
+                    "chapterArabic": "كتاب الجهاد والسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2673,
+                "hadithNumber": "2797",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"By Him in Whose Hands my life is! Were it not for some men amongst the believers who dislike to be left behind me and whom I cannot provide with means of conveyance, I would certainly never remain behind any Sariya' (army-unit) setting out in Allah's Cause. By Him in Whose Hands my life is! I would love to be martyred in Allah's Cause and then get resurrected and then get martyred, and then get resurrected again and then get martyred and then get resurrected again and then get martyred.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ، آپ صلی اللہ علیہ وسلم فرما رہے تھے اس ذات کی قسم جس کے ہاتھ میں میری جان ہے ! اگر مسلمانوں کے دلوں میں اس سے رنج نہ ہوتا کہ میں ان کو چھوڑ کر جہاد کے لئے نکل جاؤں اور مجھے خود اتنی سواریاں میسر نہیں ہیں کہ ان سب کو سوار کر کے اپنے ساتھ لے چلو ں تو میں کسی چھوٹے سے چھوٹے ایسے لشکر کے ساتھ جانے سے بھی نہ رکتا جو اللہ کے راستے میں غزوہ کے لئے جا رہا ہوتا ۔ اس ذات کی قسم جس کے ہاتھ میں میری جان ہے ! میری تو آرزو ہے کہ میں اللہ کے راستے میں قتل کیا جاؤں پھر زندہ کیا جاؤں پھر قتل کیا جاؤں اور پھر زندہ کیا جاؤں پھر قتل کیا جاؤں اور پھر زندہ کیا جاؤں اور پھر قتل کر دیا جاؤں ۔",
+                "urduNarrator": "ہم سے ابوالیمان نے بیان کیا ، کہا ہم کو شعیب نے خبر د ی ، ان سے زہری نے بیان کیا ، انہیں سعید بن مسیب نے ، ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، أَنَّ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ وَالَّذِي نَفْسِي بِيَدِهِ لَوْلاَ أَنَّ رِجَالاً مِنَ الْمُؤْمِنِينَ لاَ تَطِيبُ أَنْفُسُهُمْ أَنْ يَتَخَلَّفُوا عَنِّي، وَلاَ أَجِدُ مَا أَحْمِلُهُمْ عَلَيْهِ، مَا تَخَلَّفْتُ عَنْ سَرِيَّةٍ تَغْزُو فِي سَبِيلِ اللَّهِ، وَالَّذِي نَفْسِي بِيَدِهِ لَوَدِدْتُ أَنِّي أُقْتَلُ فِي سَبِيلِ اللَّهِ ثُمَّ أُحْيَا، ثُمَّ أُقْتَلُ ثُمَّ أُحْيَا، ثُمَّ أُقْتَلُ ثُمَّ أُحْيَا، ثُمَّ أُقْتَلُ ‏\"‏‏.‏",
+                "headingArabic": "تَمَنِّي الشَّهَادَةِ",
+                "headingUrdu": "شہادت کی تمنا",
+                "headingEnglish": "The wish for martyrdom",
+                "chapterId": "57",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 57,
+                    "chapterNumber": "57",
+                    "chapterEnglish": "Fighting for the Cause of Allah (Jihaad)",
+                    "chapterUrdu": "جہاد کا بیان",
+                    "chapterArabic": "كتاب الجهاد والسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2674,
+                "hadithNumber": "2798",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) delivered a sermon and said, \"Zaid took the flag and was martyred, and then Ja`far took the flag and was martyred, and then `Abdullah bin Rawaha took the flag and was martyred too, and then Khalid bin Al-Walid took the flag though he was not appointed as a commander and Allah made him victorious.\" The Prophet (ﷺ) further added, \"It would not please us to have them with us.\" Aiyub, a sub-narrator, added, \"Or the Prophet, shedding tears, said, 'It would not please them to be with us.'\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے خطبہ دیا آپ نے فرمایا فوج کا جھنڈا اب زید نے اپنے ہاتھ میں لیا اور وہ شہید کر دیئے گئے پھر جعفر نے لے لیا اور وہ بھی شہید کر دیئے گئے پھر عبداللہ بن رواحہ نے لے لیا اور وہ بھی شہید کر دیئے گئے اور اب کسی ہدایت کا انتظار کئے بغیر خالد بن ولید نے جھنڈا اپنے ہاتھ میں لے لیا ۔ اور ان کے ہاتھ پر اسلامی لشکر کو فتح ہوئی ۔ آپ صلی اللہ علیہ وسلم نے فرمایا اور ہمیں کوئی اس کی خوشی بھی نہیں تھی کہ یہ لوگ جو شہید ہو گئے ہیں ہمارے پاس زندہ رہتے کیونکہ وہ بہت عیش و آرام میں چلے گئے ہیں ۔ ایوب نے بیان کیا یا آپ نے یہ فرمایا کہ انہیں کوئی اس کی خوشی بھی نہیں تھی کہ ہمارے ساتھ زندہ رہتے ، اس وقت آنحضرت کی صلی اللہ علیہ وسلم آنکھوں سے آنسو جاری تھے ۔",
+                "urduNarrator": "ہم سے یوسف بن یعقوب صفار نے بیان کیا ، کہا ہم سے اسماعیل بن علیہ نے ، ان سے ایوب نے ، ان سے حمید بن ہلال نے اور ان سے انس بن مالک رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا يُوسُفُ بْنُ يَعْقُوبَ الصَّفَّارُ، حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، عَنْ أَيُّوبَ، عَنْ حُمَيْدِ بْنِ هِلاَلٍ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ خَطَبَ النَّبِيُّ صلى الله عليه وسلم فَقَالَ ‏\"‏ أَخَذَ الرَّايَةَ زَيْدٌ فَأُصِيبَ، ثُمَّ أَخَذَهَا جَعْفَرٌ فَأُصِيبَ، ثُمَّ أَخَذَهَا عَبْدُ اللَّهِ بْنُ رَوَاحَةَ فَأُصِيبَ، ثُمَّ أَخَذَهَا خَالِدُ بْنُ الْوَلِيدِ عَنْ غَيْرِ إِمْرَةٍ فَفُتِحَ لَهُ ـ وَقَالَ ـ مَا يَسُرُّنَا أَنَّهُمْ عِنْدَنَا ‏\"‏‏.‏ قَالَ أَيُّوبُ أَوْ قَالَ ‏\"‏ مَا يَسُرُّهُمْ أَنَّهُمْ عِنْدَنَا ‏\"‏‏.‏ وَعَيْنَاهُ تَذْرِفَانِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "57",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 57,
+                    "chapterNumber": "57",
+                    "chapterEnglish": "Fighting for the Cause of Allah (Jihaad)",
+                    "chapterUrdu": "جہاد کا بیان",
+                    "chapterArabic": "كتاب الجهاد والسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2675,
+                "hadithNumber": "2799 , 2800",
+                "englishNarrator": "Narrated Um Haram رضی اللہ عنہا :",
+                "hadithEnglish": "\"Once the Prophet (ﷺ) slept in my house near to me and got up smiling. I said, 'What makes you smile?' He replied, 'Some of my followers who (i.e. in a dream) were presented to me sailing on this green sea like kings on thrones.' I said, 'O Allah's Messenger (ﷺ)! Invoke Allah to make me one of them.\" So the Prophet (ﷺ) invoked Allah for her and went to sleep again. He did the same (i.e. got up and told his dream) and Um Haram رضی اللہ عنہا repeated her question and he gave the same reply. She said, \"Invoke Allah to make me one of them.\" He said, \"You are among the first batch.\" Later on it happened that she went out in the company of her husband 'Ubada bin As-Samit رضی اللہ عنہ who went for Jihad and it was the first time the Muslims undertook a naval expedition led by Mu'awiya. When the expedition came to an end and they were returning to Sham, a riding animal was presented to her to ride, but the animal let her fall and thus she died.",
+                "hadithUrdu": "ایک دن نبی کریم صلی اللہ علیہ وسلم میرے قریب ہی سو گئے ۔ پھر جب آپ صلی اللہ علیہ وسلم بیدار ہوئے تو مسکرا رہے تھے ، میں عرض کیا کہ آپ صلی اللہ علیہ وسلم کس بات پر ہنس رہے ہیں ؟ فرمایا میری امت کے کچھ لوگ میرے سامنے پیش کئے گئے جو غزوہ کرنے کے لئے اس بہتے دریا پر سوار ہو کر جا رہے تھے جیسے بادشاہ تخت پر چڑھتے ہیں ۔ میں نے عرض کیا پھر آپ صلی اللہ علیہ وسلم میرے لئے بھی دعا کر دیجئیے کہ اللہ تعالیٰ مجھے بھی انہیں میں سے بنا دے ۔ آپ صلی اللہ علیہ وسلم نے ان کے لئے دعا فرمائی ۔ پھر دوبارہ آپ سو گئے اور پہلے ہی کی طرح اس مرتبہ بھی کیا ( بیدار ہوتے ہوئے مسکرائے ) ام حرام رضی اللہ عنہا نے پہلے ہی کی طرح اس مرتبہ بھی عرض کی اور آپ صلی اللہ علیہ وسلم نے وہی جواب دیا ۔ ام حرام رضی اللہ عنہا نے عرض کیا آپ دعا کر دیں کہ اللہ تعالیٰ مجھے بھی انہیں میں سے بنا دے تو آنحضرت صلی اللہ علیہ وسلم نے فرمایا تم سب سے پہلے لشکر کے ساتھ ہو گی چنانچہ وہ اپنے شوہر عبادہ بن صامت رضی اللہ عنہ کے ساتھ مسلمانوں کے سب سے پہلے بحری بیڑے میں شریک ہوئیں معاویہ رضی اللہ عنہ کے زمانے میں غزوہ سے لوٹتے وقت جب شام کے ساحل پر لشکر اترا تو ام حرام رضی اللہ عنہا کے قریب ایک سواری لائی گئی تاکہ اس پر سوار ہو جائیں لیکن جانور نے انہیں گرا دیا اور اسی میں ان کا انتقال ہو گیا ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ، کہا کہ مجھ سے لیث نے بیان کیا ، کہا ہم سے یحییٰ بن سعید انصاری نے بیان کیا ، ان سے محمد بن یحییٰ بن حبان نے اور ان سے انس بن مالک رضی اللہ عنہ نے اور ان سے ان کی خالہ ام حرام بنت ملحان رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ حَدَّثَنِي اللَّيْثُ، حَدَّثَنَا يَحْيَى، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنْ أَنَسِ بْنِ مَالِكٍ، عَنْ خَالَتِهِ أُمِّ حَرَامٍ بِنْتِ مِلْحَانَ، قَالَتْ نَامَ النَّبِيُّ صلى الله عليه وسلم يَوْمًا قَرِيبًا مِنِّي، ثُمَّ اسْتَيْقَظَ يَتَبَسَّمُ‏.‏ فَقُلْتُ مَا أَضْحَكَكَ قَالَ ‏\"‏ أُنَاسٌ مِنْ أُمَّتِي عُرِضُوا عَلَىَّ يَرْكَبُونَ هَذَا الْبَحْرَ الأَخْضَرَ، كَالْمُلُوكِ عَلَى الأَسِرَّةِ ‏\"‏‏.‏ قَالَتْ فَادْعُ اللَّهَ أَنْ يَجْعَلَنِي مِنْهُمْ‏.‏ فَدَعَا لَهَا، ثُمَّ نَامَ الثَّانِيَةَ، فَفَعَلَ مِثْلَهَا، فَقَالَتْ مِثْلَ قَوْلِهَا، فَأَجَابَهَا مِثْلَهَا‏.‏ فَقَالَتِ ادْعُ اللَّهَ أَنْ يَجْعَلَنِي مِنْهُمْ‏.‏ فَقَالَ ‏\"‏ أَنْتِ مِنَ الأَوَّلِينَ ‏\"‏‏.‏ فَخَرَجَتْ مَعَ زَوْجِهَا عُبَادَةَ بْنِ الصَّامِتِ غَازِيًا أَوَّلَ مَا رَكِبَ الْمُسْلِمُونَ الْبَحْرَ مَعَ مُعَاوِيَةَ، فَلَمَّا انْصَرَفُوا مِنْ غَزْوِهِمْ قَافِلِينَ فَنَزَلُوا الشَّأْمَ، فَقُرِّبَتْ إِلَيْهَا دَابَّةٌ لِتَرْكَبَهَا فَصَرَعَتْهَا فَمَاتَتْ‏.‏",
+                "headingArabic": "فَضْلِ مَنْ يُصْرَعُ فِي سَبِيلِ اللَّهِ فَمَاتَ فَهُوَ مِنْهُمْ",
+                "headingUrdu": "اس کی فضیلت جو اللہ کی راہ میں جائے اور راستے میں ہی مر جائے۔",
+                "headingEnglish": "The superiority of him who goes in Allah's Cause and dies on the way",
+                "chapterId": "57",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 57,
+                    "chapterNumber": "57",
+                    "chapterEnglish": "Fighting for the Cause of Allah (Jihaad)",
+                    "chapterUrdu": "جہاد کا بیان",
+                    "chapterArabic": "كتاب الجهاد والسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2676,
+                "hadithNumber": "2801",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) sent seventy men from the tribe of Bani Salim to the tribe of Bani Amir. When they reached there, my maternal uncle said to them, \"I will go ahead of you, and if they allow me to convey the message of Allah's Messenger (ﷺ) (it will be all right); otherwise you will remain close to me.\" So he went ahead of them and the pagans granted him security But while he was reporting the message of the Prophet (ﷺ) , they beckoned to one of their men who stabbed him to death. My maternal uncle said, \"Allah is Greater! By the Lord of the Ka`ba, I am successful.\" After that they attached the rest of the party and killed them all except a lame man who went up to the top of the mountain. (Hammam, a sub-narrator said, \"I think another man was saved along with him).\" Gabriel informed the Prophet (ﷺ) that they (i.e the martyrs) met their Lord, and He was pleased with them and made them pleased. We used to recite, \"Inform our people that we have met our Lord, He is pleased with us and He has made us pleased \" Later on this Qur'anic Verse was cancelled. The Prophet (ﷺ) invoked Allah for forty days to curse the murderers from the tribe of Ral, Dhakwan, Bani Lihyan and Bam Usaiya who disobeyed Allah and his Apostle.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے بنو سلیم کے ( 70 ) ستر آدمی ( جو قاری تھے ) بنو عامر کے یہاں بھیجے ۔ جب یہ سب حضرات ( بئرمعونہ پر ) پہنچے تو میرے ماموں حرام بن ملحان رضی اللہ عنہ نے کہا میں ( بنو سلیم کے یہاں ) آگے جاتا ہوں اگر مجھے انہوں نے اس بات کا امن دے دیا کہ میں رسول اللہ صلی اللہ علیہ وسلم کی باتیں ان تک پہنچاؤں تو ۔ بہتر ورنہ تم لوگ میرے قریب تو ہو ہی ۔ چنانچہ وہ ان کے یہاں گئے اور انہوں نے امن بھی دے دیا ۔ ابھی وہ قبیلہ کے لوگوں کو رسول اللہ صلی اللہ علیہ وسلم کی باتیں سنا ہی رہے تھے کہ قبیلہ والوں نے اپنے ایک آدمی ( عامر بن طفیل ) کو اشارہ کیا اور اس نے آپ رضی اللہ عنہ کے جسم پر برچھا پیوست کر دیا جو آرپار ہو گیا ۔ اس وقت ان کی زبان سے نکلا اللہ اکبر میں کامیاب ہو گیا کعبہ کے رب کی قسم ! اس کے بعد قبیلہ والے حرام رضی اللہ عنہ کے دوسرے ساتھیوں کی طرف ( جو ستر کی تعداد میں تھے ) بڑھے اور سب کو قتل کر دیا ۔ البتہ ایک صاحب جو لنگڑے تھے ‘ پہاڑ پر چڑھ گئے ۔ ہمام ( راوی حدیث ) نے بیان کیا میں سمجھتا ہوں کہ ایک اور ان کے ساتھ ( پہاڑ پر چڑھے تھے ) ( عمر بن امیہ ضمری ) اس کے بعد جبرائیل علیہ السلام نے نبی کریم صلی اللہ علیہ وسلم کو خبر دی کہ آپ کے ساتھی اللہ تعالیٰ سے جا ملے ہیں پس اللہ خود بھی ان سے خوش ہے اور انہیں بھی خوش کر دیا ہے ۔ اس کے بعد ہم ( قرآن کی دوسری آیتوں کے ساتھ یہ آیت بھی ) پڑھتے تھے ( ترجمہ ) ہماری قوم کے لوگوں کو یہ پیغام پہنچا دو کہ ہم اپنے رب سے آ ملے ہیں ‘ پس ہمارا رب خود بھی خوش ہے اور ہمیں بھی خوش کر دیا ہے ۔ اس کے بعد یہ آیت منسوخ ہو گئی ‘ نبی کریم صلی اللہ علیہ وسلم نے چالیس دن تک صبح کی نماز میں قبیلہ رعل ‘ ذکوان ‘ بنی لحیان اور بنی عصیہ کے لئے بددعا کی تھی جنہوں نے اللہ اور اس کے رسول صلی اللہ علیہ وسلم کی نافرمانی کی تھی ۔",
+                "urduNarrator": "ہم سے حفص بن عمر حوضی نے بیان کیا ‘ کہا ہم سے ہمام نے ان سے اسحاق نے اور ان سے انس رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ الْحَوْضِيُّ، حَدَّثَنَا هَمَّامٌ، عَنْ إِسْحَاقَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ بَعَثَ النَّبِيُّ صلى الله عليه وسلم أَقْوَامًا مِنْ بَنِي سُلَيْمٍ إِلَى بَنِي عَامِرٍ فِي سَبْعِينَ، فَلَمَّا قَدِمُوا، قَالَ لَهُمْ خَالِي أَتَقَدَّمُكُمْ، فَإِنْ أَمَّنُونِي حَتَّى أُبَلِّغَهُمْ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم وَإِلاَّ كُنْتُمْ مِنِّي قَرِيبًا‏.‏ فَتَقَدَّمَ، فَأَمَّنُوهُ، فَبَيْنَمَا يُحَدِّثُهُمْ عَنِ النَّبِيِّ صلى الله عليه وسلم إِذْ أَوْمَئُوا إِلَى رَجُلٍ مِنْهُمْ، فَطَعَنَهُ فَأَنْفَذَهُ فَقَالَ اللَّهُ أَكْبَرُ، فُزْتُ وَرَبِّ الْكَعْبَةِ‏.‏ ثُمَّ مَالُوا عَلَى بَقِيَّةِ أَصْحَابِهِ فَقَتَلُوهُمْ، إِلاَّ رَجُلاً أَعْرَجَ صَعِدَ الْجَبَلَ‏.‏ قَالَ هَمَّامٌ فَأُرَاهُ آخَرَ مَعَهُ، فَأَخْبَرَ جِبْرِيلُ ـ عَلَيْهِ السَّلاَمُ ـ النَّبِيَّ صلى الله عليه وسلم أَنَّهُمْ قَدْ لَقُوا رَبَّهُمْ، فَرَضِيَ عَنْهُمْ وَأَرْضَاهُمْ، فَكُنَّا نَقْرَأُ أَنْ بَلِّغُوا قَوْمَنَا أَنْ قَدْ لَقِينَا رَبَّنَا فَرَضِيَ عَنَّا وَأَرْضَانَا‏.‏ ثُمَّ نُسِخَ بَعْدُ، فَدَعَا عَلَيْهِمْ أَرْبَعِينَ صَبَاحًا، عَلَى رِعْلٍ وَذَكْوَانَ وَبَنِي لِحْيَانَ وَبَنِي عُصَيَّةَ الَّذِينَ عَصَوُا اللَّهَ وَرَسُولَهُ صلى الله عليه وسلم‏.‏",
+                "headingArabic": "مَنْ يُنْكَبُ فِي سَبِيلِ اللَّهِ",
+                "headingUrdu": "اللہ کی راہ میں زخمیوں کا (انعام)",
+                "headingEnglish": "(The reward of) the injured in Allah's Cause",
+                "chapterId": "57",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 57,
+                    "chapterNumber": "57",
+                    "chapterEnglish": "Fighting for the Cause of Allah (Jihaad)",
+                    "chapterUrdu": "جہاد کا بیان",
+                    "chapterArabic": "كتاب الجهاد والسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2677,
+                "hadithNumber": "2802",
+                "englishNarrator": "Narrated Jundab bin Sufyan رضی اللہ عنہ :",
+                "hadithEnglish": "In one of the holy Battles a finger of Allah's Messenger (ﷺ) (got wounded and) bled. He said, \"You are just a finger that bled, and what you got is in Allah's Cause.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم کسی لڑائی کے موقع پر موجود تھے اور آپ صلی اللہ علیہ وسلم کی انگلی زخمی ہو گئی تھی ۔ آپ صلی اللہ علیہ وسلم نے انگلی سے مخاطب ہو کر فرمایا تیری حقیقت ایک زخمی انگلی کے سوا کیا ہے اور جو کچھ ملا ہے اللہ کے راستے میں ملا ہے ( مولانا وحیدالزماں مرحوم نے ترجمہ یوں کیا ہے ) ایک انگلی ہے تیری ہستی یہی ۔ ۔ ۔ تو خدا کی راہ میں زخمی ہوئی ۔ ۔ ۔",
+                "urduNarrator": "ہم سے موسیٰ بن اسمٰعیل نے بیان کیا ‘ کہا ہم سے ابو عوانہ نے بیان کیا ‘ ان سے اسود بن قیس نے اور ان سے جندب بن سفیان رضی اللہ عنہ کہ",
+                "hadithArabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنِ الأَسْوَدِ بْنِ قَيْسٍ، عَنْ جُنْدُبِ بْنِ سُفْيَانَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ فِي بَعْضِ الْمَشَاهِدِ وَقَدْ دَمِيَتْ إِصْبَعُهُ، فَقَالَ ‏ \"‏ هَلْ أَنْتِ إِلاَّ إِصْبَعٌ دَمِيتِ، وَفِي سَبِيلِ اللَّهِ مَا لَقِيتِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "57",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 57,
+                    "chapterNumber": "57",
+                    "chapterEnglish": "Fighting for the Cause of Allah (Jihaad)",
+                    "chapterUrdu": "جہاد کا بیان",
+                    "chapterArabic": "كتاب الجهاد والسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 2651,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=106",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=104",
+                "label": "104",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=105",
+                "label": "105",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=106",
+                "label": "106",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=107",
+                "label": "107",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=108",
+                "label": "108",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=109",
+                "label": "109",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=110",
+                "label": "110",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=108",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=108",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=106",
+        "to": 2675,
+        "total": 40465
+    }
+}

@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 499,
+        "data": [
+            {
+                "id": 12739,
+                "hadithNumber": "5176",
+                "englishNarrator": "A'isha رضی اللہ عنہا reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbidding (the preparation of Nabidh) in varnished jar, green pitcher, gourd, and hollow stump.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے کدو کے ( بنے ہوئے ) برتن ، سبز گھڑوں ، کھوکھلی لکڑی کے برتنوں اور روغن زفت ملے ہوئے برتنوں کے استعمال سے منع فرمایا ۔",
+                "urduNarrator": "ہم سے یعقوب بن ابراہیم نے بیان کیا, ابن علیہ نے کہا , ہمیں اسحاق بن سوید نے معاذہ سےحدیث بیان کی ، انھوں نےحضرت عائشہ رضی اللہ عنہا سے روایت کی ، کہا",
+                "hadithArabic": "و حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ حَدَّثَنَا ابْنُ عُلَيَّةَ حَدَّثَنَا إِسْحَقُ بْنُ سُوَيْدٍ عَنْ مُعَاذَةَ عَنْ عَائِشَةَ قَالَتْ نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ الدُّبَّاءِ وَالْحَنْتَمِ وَالنَّقِيرِ وَالْمُزَفَّتِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12740,
+                "hadithNumber": "5177",
+                "englishNarrator": null,
+                "hadithEnglish": "Ishaq bin Suwaid reported through the same chain of transmitters but for the difference: Ishaq bin Ibrahim narrated it with this chain of narrators, except that instead of Al-Muzaffat he said: \"Al-Muqayar.\"",
+                "hadithUrdu": "ہم سے اسحاق بن ابراہیم نے بیان کیا، کہا ہم سےعبدالوہاب ثقفی نے کہا : ہمیں اسحاق بن سوید نے اسی سند کے ساتھ حدیث بیان کی مگر انھوں نے روغن زفت ملے ہوئے برتن کی بجائےمقير ( روغن قار ملا برتن ) بتایا ۔ ( دونوں سے ایک ہی چیز ، نباتاتی تیل مراد ہے ۔ ).",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنَاه إِسْحَقُ بْنُ إِبْرَاهِيمَ أَخْبَرَنَا عَبْدُ الْوَهَّابِ الثَّقَفِيُّ حَدَّثَنَا إِسْحَقُ بْنُ سُوَيْدٍ بِهَذَا الْإِسْنَادِ إِلَّا أَنَّهُ جَعَلَ مَكَانَ الْمُزَفَّتِ الْمُقَيَّرَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12741,
+                "hadithNumber": "5178",
+                "englishNarrator": "Ibn 'Abbas رضی اللہ عنہ reported:",
+                "hadithEnglish": "There came to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) a group of people from the tribe of 'Abdul-Qais. Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said to them: I forbid you to prepare Nabidh in gourd, in pitcher besmeared with pitch, in hollow stump and in water skin (meant for preserving wine). In the hadith transmitted on the authority of Hammad the word. gourd has been used in place of water skin .",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں عبدالقیس کا وفدحاضر ہواتو نبی کریم صلی اللہ علیہ وسلم نے فرمایا؛ \"\" میں تم کو کدوکے ( بنے ہوئے ) برتنوں ، سبز گھڑوں ، کھوکھلی لکڑی کے برتنوں اور روغن قار ملے ہوئے برتنوں ( میں نبیذ بنانے اور پینے ) سے منع کرتاہوں ۔ حماد نے اپنی حدیث میں مقیر کے بجائے مزفت کالفظ بیان کیا ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا, عباد بن عباد اورحماد بن زید نے ابو حمزہ سے روایت کی ، انھوں نے کہا : میں نے حضرت ابن عباس رضی اللہ عنہ کو کہتے ہوئے سنا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى أَخْبَرَنَا عَبَّادُ بْنُ عَبَّادٍ عَنْ أَبِي جَمْرَةَ عَنْ ابْنِ عَبَّاسٍ ح و حَدَّثَنَا خَلَفُ بْنُ هِشَامٍ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ عَنْ أَبِي جَمْرَةَ قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ يَقُولُ قَدِمَ وَفْدُ عَبْدِ الْقَيْسِ عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْهَاكُمْ عَنْ الدُّبَّاءِ وَالْحَنْتَمِ وَالنَّقِيرِ وَالْمُقَيَّرِ وَفِي حَدِيثِ حَمَّادٍ جَعَلَ مَكَانَ الْمُقَيَّرِ الْمُزَفَّتِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12742,
+                "hadithNumber": "5179",
+                "englishNarrator": "Ibn 'Abbas رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbade the (preparation of Nabidh) in gourd in pitcher besmeared with pitch, in varnished jar, and in hollow stumps.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے کھوکھلے کدو ، سبز گھڑوں ، روغن زفت ملے برتنوں اور کھوکھلی لکڑی ( کے برتنوں ) سے منع فرمایا ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے علی بن مسهر نے بیان کیا، شیبانی کی سند سے, حبیب بن ابی ثابت نے سعید بن جبیر سے ، انھوں نے حضرت ابن عباس رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ عَنْ الشَّيْبَانِيِّ عَنْ حَبِيبٍ عَنْ سَعِيدِ بْنِ جُبَيْرٍ عَنْ ابْنِ عَبَّاسٍ قَالَ نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ الدُّبَّاءِ وَالْحَنْتَمِ وَالْمُزَفَّتِ وَالنَّقِيرِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12743,
+                "hadithNumber": "5180",
+                "englishNarrator": "Ibn Abbas رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbade, the preparation of Nabidh in gourd, in varnished jar, hollow stump and from mixing up ripe dates with nearly ripe dates.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے کھوکھلے کدو ، سبز گھڑوں ، روغن زفت ملے ہوئے برتنوں ( میں نبیذ بنانے ) سے اور کچی اور نیم  پختہ کھجوروں کو ( مشروب بناتے ہوئے باہم ) ملانے سے منع فرمایا ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے محمد بن فضیل نے بیان کیا, حبیب بن ابی عمرہ نے سعید بن جبیر سے ، انھوں نے حضرت ابن عباس رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ عَنْ حَبِيبِ بْنِ أَبِي عَمْرَةَ عَنْ سَعِيدِ بْنِ جُبَيْرٍ عَنْ ابْنِ عَبَّاسٍ قَالَ نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ الدُّبَّاءِ وَالْحَنْتَمِ وَالْمُزَفَّتِ وَالنَّقِيرِ وَأَنْ يُخْلَطَ الْبَلَحُ بِالزَّهْوِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12744,
+                "hadithNumber": "5181",
+                "englishNarrator": "Ibn 'Abbas رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbade (preparation) of Nabidh in gourd, in hollow stump and in varnished jar.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے کدو کے ( بنے ہوئے ) برتنوں ، کھوکھلی لکڑی اور روغن زفت ملے ہوئے برتنوں سے منع فرمایا ۔",
+                "urduNarrator": "ہم سے محمد بن المثنیٰ نے بیان کیا، ہم سے عبدالرحمٰن بن مہدی نے شعبہ کی سند سے، وہ یحییٰ البحرانی سے، انہوں نے کہا: میں نے ابن عباس رضی اللہ عنہما سے سنا، انہوں نے کہا: ہم سے محمد بن بشار نے بیان کیا، ہم سے محمد بن جعفر نے بیان کیا، ہم سے شعبہ نے بیان کیا, یحییٰ بن ابی عمر نے حضرت ابن عباس رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ عَنْ شُعْبَةَ عَنْ يَحْيَى الْبَهْرَانِيِّ قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ ح و حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ يَحْيَى بْنِ أَبِي عُمَرَ عَنْ ابْنِ عَبَّاسٍ قَالَ نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ الدُّبَّاءِ وَالنَّقِيرِ وَالْمُزَفَّتِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12745,
+                "hadithNumber": "5182",
+                "englishNarrator": "Abu Sa'id رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbade (the preparation) of Nabidh in a green pitcher (besmeared with pitch).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے گھڑوں میں نبیذ بنانے سے منع فرمایا ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، کہا ہم سے یزید بن زریع نے بیان کیا، وہ تیمی کی سند سے، اور ہم سے یحییٰ بن ایوب نے بیان کیا، کہا ہم سے ابن اُلیّہ نے بیان کیا۔ سلیمان التیمی، ابو نضرہ کی طرف سے، حضرت ابو سعید خدری رضی اللہ عنہ سے روایت ہے کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى أَخْبَرَنَا يَزِيدُ بْنُ زُرَيْعٍ عَنْ التَّيْمِيِّ ح و حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ حَدَّثَنَا ابْنُ عُلَيَّةَ أَخْبَرَنَا سُلَيْمَانُ التَّيْمِيُّ عَنْ أَبِي نَضْرَةَ عَنْ أَبِي سَعِيدٍ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ الْجَرِّ أَنْ يُنْبَذَ فِيهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12746,
+                "hadithNumber": "5183",
+                "englishNarrator": "Abu Sa'id Khudri رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbade (the preparation) of Nabidh in gourd, in pitcher besmeared with green pitch, in hollow stump and in varnished jar.",
+                "hadithUrdu": "رسو ل اللہ صلی اللہ علیہ وسلم نے کھوکھلے کدو ، سبزگھڑوں ، کھوکھلی لکڑی اور روغن زفت ملے ہوئے برتنوں سے منع فرمایا ۔",
+                "urduNarrator": "ہم سے یحییٰ بن ایوب نے بیان کیا، کہا ہم سے ابن علیہ نے بیان کیا، انہوں نے بیان کیا: سعید بن ابی عروبہ نے قتادہ سے ، انھوں نے ابو نضرہ سے ، انھوں نے حضرت ابو سعید خدری رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ حَدَّثَنَا ابْنُ عُلَيَّةَ أَخْبَرَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ عَنْ قَتَادَةَ عَنْ أَبِي نَضْرَةَ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ الدُّبَّاءِ وَالْحَنْتَمِ وَالنَّقِيرِ وَالْمُزَفَّتِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12747,
+                "hadithNumber": "5184",
+                "englishNarrator": "It was narrated from Qatadah:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbade (the preparation of) Nabidh, the rest of the hadith is the same.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے ( ان برتنوں میں ) نبیذ بنانے سے منع فرمایا ۔ ۔ ۔ اسی ( سابقہ روایت ) کے مانند بیان کیا ۔",
+                "urduNarrator": "ہم سے محمد بن المثنی نے بیان کیا، ہم سے معاذ بن ہشام نے قتادہ سے اسی سند کے ساتھ روایت کی کہ",
+                "hadithArabic": "و حَدَّثَنَاه مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ حَدَّثَنِي أَبِي عَنْ قَتَادَةَ بِهَذَا الْإِسْنَادِ أَنَّ نَبِيَّ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى أَنْ يُنْتَبَذَ فَذَكَرَ مِثْلَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12748,
+                "hadithNumber": "5185",
+                "englishNarrator": "Abu Sa'id رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbade drinking in green pitcher, in gourd and in the hollow stump.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے سبز گھڑے ، کدو کے ( بنے ہوئے ) برتن اور کھوکھلی لکڑی کے برتن میں ( نبیذ بنا کر ) پینے سے منع فرمایا ۔",
+                "urduNarrator": "ہم سے نصر بن علی الجہضمی نے بیان کیا، کہا ہم سے میرے والد نے بیان کیا، ہم سے المثنی یعنی ابن سعید نے بیان کیا, ابو متوکل نے حضرت ابو سعید رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "و حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ حَدَّثَنِي أَبِي حَدَّثَنَا الْمُثَنَّى يَعْنِي ابْنَ سَعِيدٍ عَنْ أَبِي الْمُتَوَكِّلِ عَنْ أَبِي سَعِيدٍ قَالَ نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ الشُّرْبِ فِي الْحَنْتَمَةِ وَالدُّبَّاءِ وَالنَّقِيرِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12749,
+                "hadithNumber": "5186",
+                "englishNarrator": "Sa'id bin Jubair reported:",
+                "hadithEnglish": "I bear testimony to the fact that Ibn 'Umar رضی اللہ عنہ and Ibn 'Abbas رضی اللہ عنہ testified to the fact that Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbade (the preparation) of Nabidh in gourd in vessel besmeared with pitch and hollow stump.",
+                "hadithUrdu": "میں حضرت ابن عمر رضی اللہ عنہ اور حضرت ابن عباس رضی اللہ عنہ کے متعلق شہادت دیتا ہوں کہ ان دونوں نے رسول اللہ صلی اللہ علیہ وسلم کے متعلق شہادت دی کہ آپ صلی اللہ علیہ وسلم نے کدوکے ( بنے ہوئے ) برتنوں ، سبز گھڑوں ، روغن زفت ملے برتنوں اور کھوکھلی لکڑی ( کے برتنوں ) سے منع فرمایا ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ اور سریج بن یونس نے بیان کیا، اور یہ قول ابوبکر کا ہے، انہوں نے کہا: ہم سے مروان بن معاویہ نے بیان کیا، منصور بن حیان نے سعید بن جبیر سے روایت کی ، کہا",
+                "hadithArabic": "وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَسُرَيْجُ بْنُ يُونُسَ، وَاللَّفْظُ لِأَبِي بَكْرٍ، قَالَا: حَدَّثَنَا مَرْوَانُ بْنُ مُعَاوِيَةَ، عَنْ مَنْصُورِ بْنِ حَيَّانَ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، قَالَ: أَشْهَدُ عَلَى ابْنِ عُمَرَ، وَابْنِ عَبَّاسٍ، أَنَّهُمَا شَهِدَا، «أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنِ الدُّبَّاءِ وَالْحَنْتَمِ وَالْمُزَفَّتِ وَالنَّقِيرِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12750,
+                "hadithNumber": "5187",
+                "englishNarrator": "Sa'id bin Jubair رضی اللہ عنہ reported:",
+                "hadithEnglish": "I asked Ibn 'Umar رضی اللہ عنہ about (the preparation of) Nabidh in a green pitcher (besmeared with pitch), whereupon he said that Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) forbade the (preparation of) Nabidh in green pitcher (besmeared with pitch). I then came to Ibn Abbas رضی اللہ عنہ and said: Do you hear what Ibn 'Umar رضی اللہ عنہ has said? Thereupon he said: What does he say? I said: He stated that Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) has forbidden the (preparation of) Nabidh in a green pitcher (besmeared with pitch), whereupon he said: Ibn 'Umar رضی اللہ عنہ has told the truth. Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) declared unlawful the preparation of Nabidh in a green pitcher (besmeared with pitch). I said: What is this thing, the Nabidh of a pitcher (Nabidh prepared in a pitcher)? Thereupon, he said: Everything that is prepared in earthen pitcher.",
+                "hadithUrdu": "ہم سے شیبان بن فرخ نے بیان کیا، کہا ہم سے جریر یعنی ابن حازم نے بیان کیا, یعلیٰ بن حکیم نے سعید بن جبیر سے روایت کی ، کہا : میں نے حضرت ابن عمر رضی اللہ عنہ سے گھڑوں کی نبیذ کے متعلق سوال کیا ، انھوں نے کہا : رسول اللہ صلی اللہ علیہ وسلم نے گھڑوں میں بنائی ہوئی نبیذ کوحرام قرار دیا ہے ۔ میں حضرت ابن عباس رضی اللہ عنہ کے پاس گیا اور کہا : کہا آپ نے نہیں سنا کہ حضرت ابن عمر رضی اللہ عنہ کیا فرماتے ہیں؟انھوں نےکہا : وہ کیا کہتے ہیں؟میں نے کہا : وہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے گھڑوں میں نبیذ بنانے کو حرام کر دیا ہے ۔ تو انھوں ( ابن عباس رضی اللہ عنہ ) نے کہا : حضرت ابن عمر رضی اللہ عنہ نے سچ کہا کہ رسول اللہ صلی اللہ علیہ وسلم نے گھڑوں میں بنائی ہوئی نبیذ کو حرام کردیا ہے ۔ میں نے پوچھا : گھڑوں کی نبیذسے کیا مراد ہے؟انھوں نے کہا : ہر وہ برتن جو مٹی سے بنایا جائے ۔ ( اس میں بنائی گئی نبیذ )",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، حَدَّثَنَا جَرِيرٌ يَعْنِي ابْنَ حَازِمٍ، حَدَّثَنَا يَعْلَى بْنُ حَكِيمٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، قَالَ: سَأَلْتُ ابْنَ عُمَرَ عَنْ نَبِيذِ الْجَرِّ، فَقَالَ: «حَرَّمَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَبِيذَ الْجَرِّ»، فَأَتَيْتُ ابْنَ عَبَّاسٍ، فَقُلْتُ: أَلَا تَسْمَعُ مَا يَقُولُ ابْنُ عُمَرَ؟ قَالَ: وَمَا يَقُولُ؟ قُلْتُ: قَالَ: حَرَّمَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَبِيذَ الْجَرِّ، فَقَالَ: صَدَقَ ابْنُ عُمَرَ، حَرَّمَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَبِيذَ الْجَرِّ، فَقُلْتُ: وَأَيُّ شَيْءٍ نَبِيذُ الْجَرِّ؟ فَقَالَ: «كُلُّ شَيْءٍ يُصْنَعُ مِنَ الْمَدَرِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12751,
+                "hadithNumber": "5188",
+                "englishNarrator": "Ibn 'Umar رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) addressed people in one of his expeditions. Ibn 'Umar رضی اللہ عنہ said: I went forward to him but he went away before I reached him. I asked (the people present there): What did he say? They said that he (the Holy Prophet ﷺ) had forbidden the preparation of Nabidh in gourd and varnished jar.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ایک غزوے کے دوران میں لوگوں کو خطبہ دیا ۔ حضرت ابن عمر رضی اللہ عنہ نے کہا : میں ( آپ صلی اللہ علیہ وسلم کا ا رشادسننے کے لئے ) آپ صلی اللہ علیہ وسلم کی طرف بڑھا ، لیکن آپ میرے پہنچنے سے پہلے ( وہاں سے ) تشریف لے گئے ۔ میں نے پوچھا : آپ صلی اللہ علیہ وسلم نے کیا فرمایا؟لوگوں نے مجھے بتایا کہ آپ صلی اللہ علیہ وسلم نے کدو کے برتن اور روغن زفت لگے ہوئے برتنوں میں نبیذ بنانے سےمنع فرمایا ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا, امام مالک رحمۃ اللہ علیہ نے نافع سے ، انھوں نے حضرت ابن عمر رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ: قَرَأْتُ عَلَى مَالِكٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ خَطَبَ النَّاسَ فِي بَعْضِ مَغَازِيهِ، قَالَ ابْنُ عُمَرَ: فَأَقْبَلْتُ نَحْوَهُ، فَانْصَرَفَ قَبْلَ أَنْ أَبْلُغَهُ، فَسَأَلْتُ مَاذَا، قَالَ: قَالُوا: «نَهَى أَنْ يُنْتَبَذَ فِي الدُّبَّاءِ وَالْمُزَفَّتِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12752,
+                "hadithNumber": "5189",
+                "englishNarrator": null,
+                "hadithEnglish": "A hadith like that of Malik (no. 5188) was narrated from Ibn Umar رضی اللہ عنہ, but they did not mention the world (the world) during one of his campaigns,' apart from Malik nd Usamah.",
+                "hadithUrdu": "لیث بن سعد ، ایوب ، عبیداللہ ، یحییٰ بن سعید ، ضحاک بن عثمان اور اسامہ ان سب نے حضرت ابن عمر رضی اللہ عنہ سے مالک کی حدیث کے مانند روایت کی ، مالک اور اسامہ کے سوا ان میں سے کسی نے \" ایک غزوے کے دوران میں \" کے الفاظ نہیں کہے ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنَا قُتَيْبَةُ، وَابْنُ رُمْحٍ، عَنِ اللَّيْثِ بْنِ سَعْدٍ، ح وحَدَّثَنَا أَبُو الرَّبِيعِ، وَأَبُو كَامِلٍ، قَالَا: حَدَّثَنَا حَمَّادٌ، ح وحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا إِسْمَاعِيلُ، جَمِيعًا عَنْ أَيُّوبَ، ح وحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا عُبَيْدُ اللهِ، ح وحَدَّثَنَا ابْنُ الْمُثَنَّى، وَابْنُ أَبِي عُمَرَ، عَنِ الثَّقَفِيِّ، عَنْ يَحْيَى بْنِ سَعِيدٍ، ح وحَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، أَخْبَرَنَا الضَّحَّاكُ يَعْنِي ابْنَ عُثْمَانَ، ح وحَدَّثَنِي هَارُونُ الْأَيْلِيُّ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي أُسَامَةُ، كُلُّ هَؤُلَاءِ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، بِمِثْلِ حَدِيثِ مَالِكٍ، وَلَمْ يَذْكُرُوا فِي بَعْضِ مَغَازِيهِ إِلَّا مَالِكٌ، وَأُسَامَةُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12753,
+                "hadithNumber": "5190",
+                "englishNarrator": "Thabit reported:",
+                "hadithEnglish": "I said to Ibn 'Umar رضی اللہ عنہ that Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) had forbidden the preparation of Nabidh in the green pitcher (besmeared with pitch). He said: This is what they stated. I said: Did Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ) forbid this? He said: They said so.",
+                "hadithUrdu": "میں نےحضرت ابن عمر رضی اللہ عنہ سے پوچھا : رسول اللہ صلی اللہ علیہ وسلم نے مٹی کے گھڑوں کی نبیذ سے منع فرمایا تھا؟حضرت ابن عمر رضی اللہ عنہ نے کہا : لوگوں نے یہی کہا ہے ، میں نے کہا : رسول اللہ صلی اللہ علیہ وسلم نے اس ( قسم کے گھڑوں کی نبیذ ) سے منع فرمایاتھا؟حضرت ابن عمر رضی اللہ عنہ نے کہا : لوگوں نے یہی کہا ہے ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، کہا ہم سے حماد بن زید نے بیان کیا، ثابت سے روایت ہے ، کہا",
+                "hadithArabic": "وحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ ثَابِتٍ، قَالَ: قُلْتُ لِابْنِ عُمَرَ: نَهَى رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنْ نَبِيذِ الْجَرِّ؟، قَالَ: فَقَالَ: «قَدْ زَعَمُوا ذَاكَ»، قُلْتُ: أَنَهَى عَنْهُ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ؟ قَالَ: «قَدْ زَعَمُوا ذَاكَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12754,
+                "hadithNumber": "5191",
+                "englishNarrator": "It was narrated that Tawus said:",
+                "hadithEnglish": "A person asked Ibn 'Umar رضی اللہ عنہ if the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) forbade the preparation of Nabidh in a green pitcher (besmeared with pitch). He said: Yes. Then Tawus said: By Allah, I heard it from him.",
+                "hadithUrdu": "ایک شخص نے ابن عمر رضی اللہ عنہ سے پوچھا کہ نبی کریم صلی اللہ علیہ وسلم نے گھڑوں کی نبیذ سے منع فرمایاتھا؟انھوں نے کہا : ہاں ۔ پھر طاوس نےکہا : اللہ کی قسم! میں نے حضرت ابن عمر رضی اللہ عنہ سے اس طرح سناہے ۔",
+                "urduNarrator": "ہم سے یحییٰ بن ایوب نے بیان کیا، کہا ہم سے ابن اُلیہ نے بیان کیا, سلیمان تیمی نے طاوس سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، حَدَّثَنَا ابْنُ عُلَيَّةَ، حَدَّثَنَا سُلَيْمَانُ التَّيْمِيُّ، عَنْ طَاوُسٍ، قَالَ: قَالَ رَجُلٌ لِابْنِ عُمَرَ: أَنَهَى نَبِيُّ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنْ نَبِيذِ الْجَرِّ؟ قَالَ: «نَعَمْ»، ثُمَّ قَالَ طَاوُسٌ: «وَاللهِ إِنِّي سَمِعْتُهُ مِنْهُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12755,
+                "hadithNumber": "5192",
+                "englishNarrator": "Ibn 'Umar رضی اللہ عنہ reported:",
+                "hadithEnglish": "A person came to him and said: Did Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) forbid the preparation of Nabidh in a green pitcher (besmeared with pitch and) in varnished jar? He said: Yes.",
+                "hadithUrdu": "ایک شخص ان کے پاس آیا اور پوچھا : کیا رسول اللہ صلی اللہ علیہ وسلم نے مٹی کے گھڑوں اور کدو کے ( بنے ہوئے ) برتن میں نبیذ بنانے سے منع فرمایاتھا؟انھوں نے کہاہاں ۔",
+                "urduNarrator": "مجھ سے محمد بن رافع نے بیان کیا، کہا ہم سے عبدالرزاق نے بیان کیا, ابن جریج نے کہا : مجھے ابن طاوس نے اپنے والد سے خبر دی ، انھوں نے حضرت ابن عمر رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "وحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي ابْنُ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عُمَرَ، أَنَّ رَجُلًا جَاءَهُ، فَقَالَ: أَنَهَى النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَنْ يُنْبَذَ فِي الْجَرِّ وَالدُّبَّاءِ؟ قَالَ: «نَعَمْ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12756,
+                "hadithNumber": "5193",
+                "englishNarrator": "Ibn 'Umar رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbade (the preparation) of Nabidh in a green pitcher (besmeared with pitch) and in varnished jar.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے مٹی کے گھڑوں اور کدو کے ( بنے ہوئے ) برتن میں نبیذ بنانے سے منع فرمایاتھا ۔",
+                "urduNarrator": "مجھ سے محمد بن حاتم نے بیان کیا، انہوں نے کہا: وہیب نے عبداللہ بن طاوس سے ، انھوں نے اپنے والد سے ، انھوں نے حضرت ابن عمر رضی اللہ عنہ سے روایت کی",
+                "hadithArabic": "وحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا بَهْزٌ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا عَبْدُ اللهِ بْنُ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عُمَرَ، «أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنِ الْجَرِّ وَالدُّبَّاءِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12757,
+                "hadithNumber": "5194",
+                "englishNarrator": "Ibrahim bin Maisarah reported:",
+                "hadithEnglish": "He heard Tawus as saying: I was sitting with Ibn 'Umar when a man came to him, and said: Did Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbid the preparation of Nabidh in a green pitcher (besmeared with pitch), in varnished jar and in gourd? Thereupon he said: Yes.",
+                "hadithUrdu": "انھوں نے طاوس کو یہ کہتے ہوئے سنا : میں حضرت ابن عمر رضی اللہ  عنہ کے پاس بیٹھا ہوا تھا کہ ایک شخص نے آکر ان سے پوچھا : کیا رسول اللہ صلی اللہ علیہ وسلم نے گھڑوں ، کدو کے برتن اور زفت ملے ہوئے برتن میں بنی ہوئی نبیذ سے منع فرمایاتھا؟انھوں نے فرمایا : ہاں ۔",
+                "urduNarrator": "ہم سے عمرو ناقد نے بیان کیا، کہا ہم سے سفیان بن عیینہ نے بیان کیا، ابراہیم بن میسرہ سے روایت ہے کہ",
+                "hadithArabic": "حَدَّثَنَا عَمْرٌو النَّاقِدُ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ إِبْرَاهِيمَ بْنِ مَيْسَرَةَ، أَنَّهُ سَمِعَ طَاوُسًا، يَقُولُ: كُنْتُ جَالِسًا عِنْدَ ابْنِ عُمَرَ، فَجَاءَهُ رَجُلٌ، فَقَالَ: أَنَهَى رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنْ نَبِيذِ الْجَرِّ وَالدُّبَّاءِ وَالْمُزَفَّتِ؟ قَالَ: «نَعَمْ»",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12758,
+                "hadithNumber": "5195",
+                "englishNarrator": "Muharib bin Dithar reported:",
+                "hadithEnglish": "I heard Ibn 'Umar رضی اللہ عنہ say: Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) forbade (the preparation of Nabidh) in a pitcher besmeared with pitch, in gourd, in varnished jar. He said, I heard it from him more than once.",
+                "hadithUrdu": "میں نے حضرت ابن عمر رضی اللہ عنہ کو یہ کہتے ہوئے سنا کہ رسول اللہ صلی اللہ علیہ وسلم نے سبز گھڑوں اور کدو کے ( بنے ہوئے ) برتن اور روغن زفت ملے ہوئے برتن میں نبیذ بنانے سے منع فرمایاتھا ۔ اور ( محارب بن دثار نے ) کہا : میں نے یہ ( حدیث ) ان سے ایک سے زیادہ بار سنی ۔",
+                "urduNarrator": "ہم سے محمد بن المثنیٰ اور ابن بشار نے بیان کیا، کہا کہ ہم سے محمد بن جعفر نے بیان کیا، شعبہ نے محارب بن دثار سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ بَشَّارٍ، قَالَا: حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ مُحَارِبِ بْنِ دِثَارٍ، قَالَ: سَمِعْتُ ابْنَ عُمَرَ، يَقُولُ: «نَهَى رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنِ الْحَنْتَمِ وَالدُّبَّاءِ وَالْمُزَفَّتِ»، قَالَ: سَمِعْتُهُ غَيْرَ مَرَّةٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12759,
+                "hadithNumber": "5196",
+                "englishNarrator": "A similar report (as no. 5195) was narrated from Ibn 'Umar رضی اللہ عنہ from the prophet ﷺ. He said:",
+                "hadithEnglish": "I think he also made a mention of hollow stump.",
+                "hadithUrdu": "اور میرا گمان ہے ( محارب نے ) کھوکھلی لکڑی کا بھی ذکر کیا ۔",
+                "urduNarrator": "ہم سے سعید بن عمرو اشعثی نے بیان کیا، کہا ہم سے عبتر نے بیان کیا, شیبانی نے محارب بن دثار سے ، انھوں نے حضرت ابن عمر رضی اللہ عنہ سے اور انھوں نے نبی کریم صلی اللہ علیہ وسلم سے اسی کے مانند روایت کی ۔ ( شیبانی نے ) کہا",
+                "hadithArabic": "وحَدَّثَنَا سَعِيدُ بْنُ عَمْرٍو الْأَشْعَثِيُّ، أَخْبَرَنَا عَبْثَرٌ، عَنِ الشَّيْبَانِيِّ، عَنْ مُحَارِبِ بْنِ دِثَارٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ، قَالَ: وَأُرَاهُ قَالَ: وَالنَّقِيرِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12760,
+                "hadithNumber": "5197",
+                "englishNarrator": "Uqba bin Huraith said:",
+                "hadithEnglish": "I heard Ibn 'Umar رضی اللہ عنہ saying: The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) forbade (the preparation of Nabidh) in a green pitcher (besmeared with pitch), in varnished jar, and in gourd, and he said: Prepare Nabidh in small water skins.",
+                "hadithUrdu": "میں نے حضرت ابن عمر رضی اللہ عنہ کو یہ کہتے ہوئے سنا : رسول اللہ صلی اللہ علیہ وسلم نے مٹی کے گھڑے ، کدو کے ( بنے ہوئے ) برتن اور روغن زفت ملے ہوئے برتنوں سے منع کیا اور فرمایا : \" مشکیزوں میں نبیذ بناؤ ۔ \"",
+                "urduNarrator": "ہم سے محمد بن المثنیٰ اور ابن بشار نے بیان کیا، کہا: ہم سے محمد بن جعفر نے بیان کیا، ہم سے شعبہ نے بیان کیا, عقبہ بن حریث نے کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ بَشَّارٍ، قَالَا: حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ عُقْبَةَ بْنِ حُرَيْثٍ، قَالَ: سَمِعْتُ ابْنَ عُمَرَ، يَقُولُ: نَهَى رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنِ الْجَرِّ وَالدُّبَّاءِ وَالْمُزَفَّتِ، وَقَالَ: «انْتَبِذُوا فِي الْأَسْقِيَةِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12761,
+                "hadithNumber": "5198",
+                "englishNarrator": "Jabalah said: I heard Ibn 'Umar رضی اللہ عنہ say:",
+                "hadithEnglish": "Allah's messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) had forbidden (the preparation of Nabidh) in the pitcher besmeared with pitch. I said to him: What is Huntama? He said: It is a pitcher (besmeared with pitch).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے حنتمہ سے منع فر ما یا ( جبلہ نے ) کہا : میں نے پو چھا : حنتمہ کیا ہے ؟ ( ابن عمر رضی اللہ عنہ نے ) کہا : گھڑا ۔",
+                "urduNarrator": "ہم سے محمد بن مثنیٰ نے بیان کیا، ہم سے محمد بن جعفر نے بیان کیا، ہم سے شعبہ نے بیان کیا، جبلہ نے کہا : میں نے حضرت ابن عمر رضی اللہ عنہ کو حدیث بیان کرتے ہوئے سنا ، کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ جَبَلَةَ، قَالَ: سَمِعْتُ ابْنَ عُمَرَ، يُحَدِّثُ، قَالَ: «نَهَى رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنِ الْحَنْتَمَةِ»، فَقُلْتُ: مَا الْحَنْتَمَةُ؟ قَالَ: «الْجَرَّةُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12762,
+                "hadithNumber": "5199",
+                "englishNarrator": "Zadhan reported:",
+                "hadithEnglish": "I said to Ibn 'Umar رضی اللہ عنہ : Tell me in your own language and then explain it to me in any language because your language is different from our language (about the vessels) in which Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) has forbidden (us) to drink. He said: Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) has forbidden (the preparation) of Nabidh in Hantama and that is a pitcher (besmeared with pitch), in gourd and that is pumpkin, in the varnished jar, in hollow stump and in wooden vessels. This Naqir is the wood of date-palm from which the vessel is fashioned out or hollowed out, but he commanded us to prepare Nabidh in water skins.",
+                "hadithUrdu": "میں نے حضرت ابن عمر رضی اللہ عنہ سے عرض کی کہ پینے کی چیزوں کے حوالے سے رسول اللہ صلی اللہ علیہ وسلم نے جن چیزوں سے منع کیا ہے ان کے متعلق مجھے ( پہلے ) اپنی زبان میں حدیث سنائیں پھر ہماری زبان میں اس کی وضا حت کریں کیونکہ آپ کی زبان ہماری زبان سے مختلف ہے ۔ انھوں نے کہا : رسول اللہ صلی اللہ علیہ وسلم نے حنتم سے اور وہ گھڑا ہے اور دباء سے اور کدو ہے اور مزفت سے اور وہ روغن قار ملا ہوا برتن ہے اور نقیر سے اور وہ کھجور کا تنا ہے اسے چھیلا جا تا ہے اور اس کو کریدا جا تا ہے منع فرما یا ہے اور آپ صلی اللہ علیہ وسلم نے حکم دیا کہ مشکیزوں میں نبیذ بنا ئی جا ئے ۔",
+                "urduNarrator": "عبید اللہ کے والد معاذ نے کہا : ہمیں شعبہ نے عمرو بن مرہ سے حدیث کی ، کہا : مجھے زاذان نے حدیث بیان کی کہا",
+                "hadithArabic": "حَدَّثَنَا عُبَيْدُ اللهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ مُرَّةَ، حَدَّثَنِي زَاذَانُ، قَالَ: قُلْتُ لِابْنِ عُمَرَ: حَدِّثْنِي بِمَا نَهَى عَنْهُ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مِنَ الْأَشْرِبَةِ بِلُغَتِكَ، وَفَسِّرْهُ لِي بِلُغَتِنَا، فَإِنَّ لَكُمْ لُغَةً سِوَى لُغَتِنَا، فَقَالَ: «نَهَى رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنِ الْحَنْتَمِ، وَهِيَ الْجَرَّةُ، وَعَنِ الدُّبَّاءِ، وَهِيَ الْقَرْعَةُ، وَعَنِ الْمُزَفَّتِ، وَهُوَ الْمُقَيَّرُ، وَعَنِ النَّقِيرِ، وَهِيَ النَّخْلَةُ تُنْسَحُ نَسْحًا، وَتُنْقَرُ نَقْرًا، وَأَمَرَ أَنْ يُنْتَبَذَ فِي الْأَسْقِيَةِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12763,
+                "hadithNumber": "5200",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Shu'ba with the same chain of transmitters.",
+                "hadithUrdu": "ہم سے محمد بن المثنیٰ اور ابن بشار نے بیان کیا،  ابو داؤد نے کہا : ہمیں شعبہ نے اسی سند کے ساتھ حدیث بیان کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ بَشَّارٍ، قَالَا: حَدَّثَنَا أَبُو دَاوُدَ، حَدَّثَنَا شُعْبَةُ، فِي هَذَا الْإِسْنَادِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "37",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 137,
+                    "chapterNumber": "37",
+                    "chapterEnglish": "The Book of Drink",
+                    "chapterUrdu": "مشروبات کا بیان",
+                    "chapterArabic": "كتاب الْأَشْرِبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 12451,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=498",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=496",
+                "label": "496",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=497",
+                "label": "497",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=498",
+                "label": "498",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=499",
+                "label": "499",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=500",
+                "label": "500",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=501",
+                "label": "501",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=502",
+                "label": "502",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=500",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=500",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=498",
+        "to": 12475,
+        "total": 40465
+    }
+}

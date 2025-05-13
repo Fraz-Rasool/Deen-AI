@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 534,
+        "data": [
+            {
+                "id": 13614,
+                "hadithNumber": "6051",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Hisham through another chain of transmitters but with a slight variation of wording.",
+                "hadithUrdu": "ہم سے ابوبکر بن ابی شیبہ اور ابن نمیر نے بیان کیا، انہوں نے کہا:عبدہ ، وکیع ، اور ابو معاویہ ، سب نے ہشام سے اسی سند کے ساتھ حدیث بیان کی ، ان میں سے کوئی راوی دوسرے سے کچھ زائد ( الفاظ ) بیان کر تا ہے ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَابْنُ نُمَيْرٍ، قَالَا: حَدَّثَنَا عَبْدَةُ، وَوَكِيعٌ، وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ كُلُّهُمْ، عَنْ هِشَامٍ، بِهَذَا الْإِسْنَادِ، يَزِيدُ بَعْضُهُمْ عَلَى بَعْضٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13615,
+                "hadithNumber": "6052",
+                "englishNarrator": "Jabir bin Samura رضی اللہ عنہ reported:",
+                "hadithEnglish": "I prayed along with Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) the first prayer. He then went to his family and I also went along with him when he met some children (on the way). He began to pat the cheeks of each one of them. He also patted my cheek and I experienced a coolness or a fragrance of his hand as if it had been brought out from the scent bag of a perfumer.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم کے ساتھ ظہر کی نماز پڑھی ، پھر آپ صلی اللہ علیہ وسلم اپنے گھر جانے کو نکلے اور میں بھی آپ صلی اللہ علیہ وسلم کے ساتھ نکلا ۔ سامنے کچھ بچے آئے تو آپ صلی اللہ علیہ وسلم نے ہر ایک بچے کے رخسار پر ہاتھ پھیرا اور میرے رخسار پر بھی ہاتھ پھیرا ۔ میں نے آپ صلی اللہ علیہ وسلم کے ہاتھ میں وہ ٹھنڈک اور وہ خوشبو دیکھی جیسے نبی کریم صلی اللہ علیہ وسلم نے خوشبو ساز کے ڈبہ میں سے ہاتھ نکالا ہو ۔",
+                "urduNarrator": "ہم سے عمرو بن حماد بن طلحہ کنند نے بیان کیا جو کہ ابن نصر ہمدانی ہیں ,سماک نے حضرت جابر بن سمرہ رضی اللہ عنہ سے روایت کی ، کہا : کہ",
+                "hadithArabic": "حَدَّثَنَا عَمْرُو بْنُ حَمَّادِ بْنِ طَلْحَةَ الْقَنَّادُ، حَدَّثَنَا أَسْبَاطٌ وَهُوَ ابْنُ نَصْرٍ الْهَمْدَانِيُّ، عَنْ سِمَاكٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ: صَلَّيْتُ مَعَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ صَلَاةَ الْأُولَى، ثُمَّ خَرَجَ إِلَى أَهْلِهِ وَخَرَجْتُ مَعَهُ، فَاسْتَقْبَلَهُ وِلْدَانٌ، فَجَعَلَ يَمْسَحُ خَدَّيْ أَحَدِهِمْ وَاحِدًا وَاحِدًا، قَالَ: وَأَمَّا أَنَا فَمَسَحَ خَدِّي، قَالَ: فَوَجَدْتُ لِيَدِهِ بَرْدًا أَوْ رِيحًا كَأَنَّمَا أَخْرَجَهَا مِنْ جُؤْنَةِ عَطَّارٍ.",
+                "headingArabic": "طِيبِ رَائِحَةِ النَّبِيِّ صلى الله عليه وسلم وَلِينِ مَسِّهِ وَالتَّبَرُّكِ بِمَسْحِهِ ‏.‏",
+                "headingUrdu": "آپ (ﷺ) کی خوشبو اور نرم لمس، اور اس کے لمس سے برکت کا طلب گار",
+                "headingEnglish": "His (ﷺ) Good Fragrance And Soft Touch, And Seeking Blessing From His Touch",
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13616,
+                "hadithNumber": "6053",
+                "englishNarrator": "Anas رضی اللہ عنہ reported:",
+                "hadithEnglish": "I never smelt ambergris or musk as fragrant as the fragrance of the body of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and I never touched brocade or silk and found it as soft as the body of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌).",
+                "hadithUrdu": "میں نے کبھی کوئی عنبر ، کوئی کستوری اور کوئی بھی ایسی خوشبونہیں سونگھی جو رسول اللہ صلی اللہ علیہ وسلم ( کے جسم اطہر ) کی خوشبو سے زیادہ اچھی اور پاکیزہ ہو اور میں نے کبھی کوئی ریشم یا دیباج نہیں چھوا جو چھونے میں رسول اللہ صلی اللہ علیہ وسلم ( کے ہاتھوں ) سے زیادہ نرم وملائم ہو ۔",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا, جعفر بن سلیمان اور سلیمان بن مغیرہ نے ثابت سے ، انھوں نے حضرت انس رضی اللہ عنہ سے روایت کی ، انس رضی اللہ تعالیٰ عنہ نے کہا",
+                "hadithArabic": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا جَعْفَرُ بْنُ سُلَيْمَانَ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، وحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ - وَاللَّفْظُ لَهُ - حَدَّثَنَا هَاشِمٌ يَعْنِي ابْنَ الْقَاسِمِ، حَدَّثَنَا سُلَيْمَانُ وَهُوَ ابْنُ الْمُغِيرَةِ، عَنْ ثَابِتٍ، قَالَ أَنَسٌ: «مَا شَمَمْتُ عَنْبَرًا قَطُّ، وَلَا مِسْكًا، وَلَا شَيْئًا أَطْيَبَ مِنْ رِيحِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَلَا مَسِسْتُ شَيْئًا قَطُّ دِيبَاجًا، وَلَا حَرِيرًا أَلْيَنَ مَسًّا مِنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13617,
+                "hadithNumber": "6054",
+                "englishNarrator": "Anas رضی اللہ عنہ سreported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) had a very fair complexion and (the drops) of his perspiration shone like pearls, and when he walked he walked inclining forward, and I never touched brocade and silk (and found it) as soft as the softness of the palm of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and I never smelt musk or ambergris and found its fragrance as sweet as the fragrance of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کا رنگ مبارک سفید ، چمکتا ہوا تھا اور آپ صلی اللہ علیہ وسلم کا پسینہ مبارک موتی کی طرح تھا اور جب چلتے تو اور میں نے دیباج اور حریر بھی اتنا نرم نہیں پایا جتنی آپ صلی اللہ علیہ وسلم کی ہتھیلی نرم تھی اور میں نے مشک اور عنبر میں بھی وہ خوشبو نہ پائی جو آپ صلی اللہ علیہ وسلم کے جسم مبارک میں تھی ۔",
+                "urduNarrator": "مجھ سے احمد بن سعید بن صخر الدارمی نے بیان کیا، کہا ہم سے حبان نے بیان کیا, حماد نے کہا ,  ہمیں ثابت نے حضرت انس رضی اللہ عنہ سے روایت کی ، کہا : کہ",
+                "hadithArabic": "وحَدَّثَنِي أَحْمَدُ بْنُ سَعِيدِ بْنِ صَخْرٍ الدَّارِمِيُّ، حَدَّثَنَا حَبَّانُ، حَدَّثَنَا حَمَّادٌ، حَدَّثَنَا ثَابِتٌ، عَنْ أَنَسٍ، قَالَ: «كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَزْهَرَ اللَّوْنِ، كَأَنَّ عَرَقَهُ اللُّؤْلُؤُ، إِذَا مَشَى تَكَفَّأَ، وَلَا مَسِسْتُ دِيبَاجَةً، وَلَا حَرِيرَةً أَلْيَنَ مِنْ كَفِّ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَلَا شَمِمْتُ مِسْكَةً وَلَا عَنْبَرَةً أَطْيَبَ مِنْ رَائِحَةِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13618,
+                "hadithNumber": "6055",
+                "englishNarrator": "Anas bin Malik رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) used to come to our house and there was perspiration upon his body. My mother brought a bottle and began to pour the sweat in that. When Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) got up he said: Umm Sulaim, what is this that you are doing? Thereupon she said: That is your sweat which we mix in our perfume and it becomes the most fragrant perfume.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم ہمارے گھر میں تشریف لائے اور آرام فرمایا ، آپ صلی اللہ علیہ وسلم کو پسینہ آیا ، میری ماں ایک شیشی لائی اور آپ صلی اللہ علیہ وسلم کا پسینہ پونچھ پونچھ کر اس میں ڈالنے لگی ، آپ صلی اللہ علیہ وسلم کی آنکھ کھل گئی ۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ اے ام سلیم یہ کیا کر رہی ہو؟ وہ بولی کہ آپ صلی اللہ علیہ وسلم کا پسینہ ہے جس کو ہم اپنی خوشبو میں شامل کرتے ہیں اور وہ سب سے بڑھ کر خود خوشبو ہے ۔",
+                "urduNarrator": "مجھ سے زہیر بن حرب نے بیان کیا، کہا ہم سے ہاشم نے، یعنی ابن القاسم نے، سلیمان کی سند سے بیان کیا, ثابت نے حضرت انس بن مالک رضی اللہ عنہ سے روایت کی ، کہا : کہ",
+                "hadithArabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا هَاشِمٌ يَعْنِي ابْنَ الْقَاسِمِ، عَنْ سُلَيْمَانَ، عَنْ ثَابِتٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ: دَخَلَ عَلَيْنَا النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَقَالَ عِنْدَنَا، فَعَرِقَ، وَجَاءَتْ أُمِّي بِقَارُورَةٍ، فَجَعَلَتْ تَسْلِتُ الْعَرَقَ فِيهَا، فَاسْتَيْقَظَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: «يَا أُمَّ سُلَيْمٍ مَا هَذَا الَّذِي تَصْنَعِينَ؟» قَالَتْ: هَذَا عَرَقُكَ نَجْعَلُهُ فِي طِيبِنَا، وَهُوَ مِنْ أَطْيَبِ الطِّيبِ.",
+                "headingArabic": "طِيبِ عَرَقِ النَّبِيِّ صلى الله عليه وسلم وَالتَّبَرُّكِ بِهِ ‏.‏",
+                "headingUrdu": "آپ (صلی اللہ علیہ وسلم) کے پسینے کی خوشبو اور اس سے برکت کی طلب",
+                "headingEnglish": "The Fragrance Of His(ﷺ) Sweat, And Seeking Blessing Therefrom",
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13619,
+                "hadithNumber": "6056",
+                "englishNarrator": "Anas bin Malik رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) came to the house of Umm Sulaim and slept in her bed while she was away from her house. On the other day too he slept in her bed. She came and it was said to her: It is Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) who is having siesta in your house, lying in your bed. She came and found him sweating and his sweat falling on the leather cloth spread on her bed. She opened her scent-bag and began to fill the bottles with it. Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) was startled and woke up and said: Umm Sulaim, what are you doing? She said: Allah's Messenger, we seek blessings for our children through it. Thereupon he said: You have done something right.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم ام سلیم کے گھر میں جاتے اور ان کے بچھونے پر سو رہتے ، اور وہ گھر میں نہیں ہوتیں تھیں ایک دن آپ صلی اللہ علیہ وسلم تشریف لائے اور ان کے بچھونے پر سو رہے ۔ لوگوں نے انہیں بلا کر کہا کہ رسول اللہ صلی اللہ علیہ وسلم تمہارے گھر میں تمہارے بچھونے پر سو رہے ہیں ، یہ سن کر وہ آئیں دیکھا تو آپ صلی اللہ علیہ وسلم کو پسینہ آیا ہوا ہے اور آپ صلی اللہ علیہ وسلم کا پسینہ چمڑے کے بچھونے پر جمع ہو گیا ہے ۔ ام سلیم نے اپنا ڈبہ کھولا اور یہ پسینہ پونچھ پونچھ کر شیشوں میں بھرنے لگیں ۔ رسول اللہ صلی اللہ علیہ وسلم گھبرا کر اٹھ بیٹھے اور فرمایا کہ اے ام سلیم! کیا کرتی ہے؟ انہوں نے کہا کہ یا رسول اللہ! ہم اپنے بچوں کے لئے برکت کی امید رکھتے ہیں ۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ تم نے ٹھیک کیا ۔",
+                "urduNarrator": "مجھ سے محمد بن رافع نے بیان کیا، کہا ہم سے حجين بن المثنیٰ نے بیان کیا، ہم سے عبدالعزیز نے جو ابن ابی سلمہ ہیں، بیان کیا, اسحاق بن عبداللہ بن ابی طلحہ نے حضرت انس رضی اللہ عنہ بن مالک رضی اللہ عنہ سے روایت کی ، کہا : کہ",
+                "hadithArabic": "وحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا حُجَيْنُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الْعَزِيزِ وَهُوَ ابْنُ أَبِي سَلَمَةَ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللهِ بْنِ أَبِي طَلْحَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ: كَانَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَدْخُلُ بَيْتَ أُمِّ سُلَيْمٍ فَيَنَامُ عَلَى فِرَاشِهَا، وَلَيْسَتْ فِيهِ، قَالَ: فَجَاءَ ذَاتَ يَوْمٍ فَنَامَ عَلَى فِرَاشِهَا، فَأُتِيَتْ فَقِيلَ لَهَا: هَذَا النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَامَ فِي بَيْتِكِ، عَلَى فِرَاشِكِ، قَالَ فَجَاءَتْ وَقَدْ عَرِقَ، وَاسْتَنْقَعَ عَرَقُهُ عَلَى قِطْعَةِ أَدِيمٍ، عَلَى الْفِرَاشِ، فَفَتَحَتْ عَتِيدَتَهَا فَجَعَلَتْ تُنَشِّفُ ذَلِكَ الْعَرَقَ فَتَعْصِرُهُ فِي قَوَارِيرِهَا، فَفَزِعَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: «مَا تَصْنَعِينَ؟ يَا أُمَّ سُلَيْمٍ» فَقَالَتْ: يَا رَسُولَ اللهِ نَرْجُو بَرَكَتَهُ لِصِبْيَانِنَا، قَالَ: «أَصَبْتِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13620,
+                "hadithNumber": "6057",
+                "englishNarrator": "Umm Sulaim رضی اللہ عنہا reported:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) visited her house and (took rest) and she spread a piece of cloth for him and he had had a siesta on it. And he sweated profusely and she collected his sweat and put it in a perfume and in bottles. Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: Umm Sulaim, what is this? She said: It is your sweat, which I put in my perfume. Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) sweated in cold weather when revelation descended upon him.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم ہمارے گھر میں تشریف لائے اور آرام فرمایا ، آپ صلی اللہ علیہ وسلم کو پسینہ آیا ، میری ماں ایک شیشی لائی اور آپ صلی اللہ علیہ وسلم کا پسینہ پونچھ پونچھ کر اس میں ڈالنے لگی ، آپ صلی اللہ علیہ وسلم کی آنکھ کھل گئی ۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ اے ام سلیم یہ کیا کر رہی ہو؟ وہ بولی کہ آپ صلی اللہ علیہ وسلم کا پسینہ ہے جس کو ہم اپنی خوشبو میں شامل کرتے ہیں اور وہ سب سے بڑھ کر خود خوشبو ہے ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے عفان بن مسلم نے بیان کیا، کہا ہم سے وہیب نے بیان کیا، کہا ہم سے ایوب نے بیان کیا, ابو قلابہ نے حضرت انس رضی اللہ تعالیٰ عنہ سے ، انھوں نے حضرت ام سلیم رضی اللہ عنہا سے روایت کی کہ سیدنا انس رضی اللہ عنہ سے روایت ہے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَفَّانُ بْنُ مُسْلِمٍ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا أَيُّوبُ، عَنْ أَبِي قِلَابَةَ، عَنْ أَنَسٍ، عَنْ أُمِّ سُلَيْمٍ، أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ كَانَ يَأْتِيهَا فَيَقِيلُ عِنْدَهَا فَتَبْسُطُ لَهُ نِطْعًا فَيَقِيلُ عَلَيْهِ، وَكَانَ كَثِيرَ الْعَرَقِ، فَكَانَتْ تَجْمَعُ عَرَقَهُ فَتَجْعَلُهُ فِي الطِّيبِ وَالْقَوَارِيرِ، فَقَالَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «يَا أُمَّ سُلَيْمٍ مَا هَذَا؟» قَالَتْ: عَرَقُكَ أَدُوفُ بِهِ طِيبِي.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13621,
+                "hadithNumber": "6058",
+                "englishNarrator": "A'isha رضی اللہ عنہا reported:",
+                "hadithEnglish": "When revelation descended upon Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) even during the cold days, his forehead perspired.",
+                "hadithUrdu": "سخت سردی کی صبح وحی نازل ہوتی تھی ، پھر آپ صلی اللہ علیہ وسلم کی پیشانی سے پسینہ بہنے لگتا تھا ۔",
+                "urduNarrator": "ہم سے ابو کریب محمد بن الاعلٰی نے بیان کیا، کہا ہم سے ابو اسامہ نے، ہشام کی سند سے، اپنے والد سے, حضرت عائشہ رضی اللہ عنہا سے روایت ہے ، کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو كُرَيْبٍ مُحَمَّدُ بْنُ الْعَلَاءِ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ: «إِنْ كَانَ لَيُنْزَلُ عَلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي الْغَدَاةِ الْبَارِدَةِ، ثُمَّ تَفِيضُ جَبْهَتُهُ عَرَقًا».",
+                "headingArabic": "عَرَقِ النَّبِيِّ صلى الله عليه وسلم فِي الْبَرْدِ وَحِينَ يَأْتِيهِ الْوَحْىُ ‏.‏",
+                "headingUrdu": "رسول اللہ صلی اللہ علیہ وسلم کو جب سردی ہوتی تھی اور جب آپ پر وحی آتی تھی تو پسینہ آتا تھا۔",
+                "headingEnglish": "The Prophet (SAW) Sweated When It Was Cold, And When The Revelation Came To Him",
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13622,
+                "hadithNumber": "6059",
+                "englishNarrator": "A'isha رضی اللہ عنہا reported:",
+                "hadithEnglish": "Harith bin Hisham رضی اللہ عنہ asked Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ): How does the the wahi (inspiration) come to you? He said: At times it comes to me like the ringing of a bell and that is most severe for me and when it is over I retain that (what I had received in the form of wahi), and at times an Angel in the form of a human being comes to me (and speaks) and I retain whatever he speaks.",
+                "hadithUrdu": "حارث بن ہشام رضی اللہ عنہ نے نبی کریم صلی اللہ علیہ وسلم سے سوال کیا کہ آپ کے پاس وحی کیسے آتی ہے؟آپ صلی اللہ علیہ وسلم نے فرمایا : \" کبھی وحی گھنٹی کی آواز کی طرح میں آتی ہے اور وہ مجھ پر زیادہ سخت ہوتی ہے ، پھر وحی منقطع ہوتی ہے تو میں اس کو یاد کرچک ہوتاہوں اور کبھی فرشتہ آدمی کی شکل میں آتا ہے اور وہ جو کچھ کہتا ہے میں اسے یاد رکھتا ہوں ۔ \"",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے سفیان بن عیینہ نے بیان کیا، ہم سے ابو کریب نے بیان کیا، ہم سے ابو اسامہ نے بیان کیا اور ہم سے ابن بشر نے بیان کیا۔ ان سب نے ہم سے ہشام کی سند سے بیان کیا اور ہم سے محمد بن عبداللہ بن نمیر نے بیان کیا - اور قول ان کا ہے - ہم سے محمد بن بشر نے بیان کیا، ہم سے ہشام نے اپنے والد سے بیان کیا، حضرت عائشہ رضی اللہ عنہا سے روایت ہے کہ",
+                "hadithArabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، ح وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو أُسَامَةَ، وَابْنُ بِشْرٍ جَمِيعًا، عَنْ هِشَامٍ، وَحَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللهِ بْنِ نُمَيْرٍ - وَاللَّفْظُ لَهُ - حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، حَدَّثَنَا هِشَامٌ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ الْحَارِثَ بْنَ هِشَامٍ سَأَلَ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: كَيْفَ يَأْتِيكَ الْوَحْيُ؟ فَقَالَ: «أَحْيَانًا يَأْتِينِي فِي مِثْلِ صَلْصَلَةِ الْجَرَسِ وَهُوَ أَشَدُّهُ عَلَيَّ، ثُمَّ يَفْصِمُ عَنِّي وَقَدْ وَعَيْتُهُ، وَأَحْيَانًا مَلَكٌ فِي مِثْلِ صُورَةِ الرَّجُلِ، فَأَعِي مَا يَقُولُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13623,
+                "hadithNumber": "6060",
+                "englishNarrator": "Ubida bin Samit رضی اللہ عنہ reported:",
+                "hadithEnglish": "When wahi (inspiration) descended upon Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), he felt a burden on that account and the colour of his face underwent a change.",
+                "hadithUrdu": "جب نبی کریم صلی اللہ علیہ وسلم پر وحی نازل ہوتی تو آپ صلی اللہ علیہ وسلم اس کی بناء پر کرب کی سی کیفیت سے دو چار ہوجاتے اور آپ کے چہرے کا رنگ متغیر ہوجاتا ۔",
+                "urduNarrator": "ہم سے محمد بن المثنی نے بیان کیا، کہا ہم سے عبد العلا نے بیان کیا، سعید نے قتادہ سے ، انھوں نے حسن سے ، انھوں نے حطان بن عبداللہ سے ، انھوں نے حضرت عبادہ بن صامت رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الْأَعْلَى، حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ حِطَّانَ بْنِ عَبْدِ اللهِ، عَنْ عُبَادَةَ بْنِ الصَّامِتِ، قَالَ: «كَانَ نَبِيُّ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِذَا أُنْزِلَ عَلَيْهِ الْوَحْيُ كُرِبَ لِذَلِكَ وَتَرَبَّدَ وَجْهُهُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13624,
+                "hadithNumber": "6061",
+                "englishNarrator": "Ubida bin Samit رضی اللہ عنہ reported:",
+                "hadithEnglish": "When wahi descended upon Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), he lowered his head and so lowered his Companions their heads, and when (this state) was over, he raised his head.",
+                "hadithUrdu": "جب رسول اللہ صلی اللہ علیہ وسلم پر وحی نازل کی جاتی تو آپ اپنا سر مبارک جھکا لیتے اور آپ کے صحابہ رضوان اللہ عنھم اجمعین بھی سر جھکا لیتے اور جب ( یہ کیفیت ) آپ سے ہٹا لی جاتی تو آپ اپنا سر اقدس اٹھاتے ۔",
+                "urduNarrator": "ہم سے محمد بن بشار نے بیان کیا، معاذ بن ہشام نے قتادہ سے ، انھوں نے حسن سے ، انھوں نے حطان بن عبداللہ رقاشی سے ، انھوں نے حضرت عبادہ بن صامت رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، حَدَّثَنَا أَبِي، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ حِطَّانَ بْنِ عَبْدِ اللهِ الرَّقَاشِيِّ، عَنْ عُبَادَةَ بْنِ الصَّامِتِ، قَالَ: «كَانَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِذَا أُنْزِلَ عَلَيْهِ الْوَحْيُ نَكَسَ رَأْسَهُ وَنَكَسَ أَصْحَابُهُ رُءُوسَهُمْ، فَلَمَّا أُتْلِيَ عَنْهُ رَفَعَ رَأْسَهُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13625,
+                "hadithNumber": "6062",
+                "englishNarrator": "Ibn Abbas رضی اللہ عنہ reported:",
+                "hadithEnglish": "The People of the Book used to let their hair fall (on their foreheads) and the polytheists used to part them on their heads, and Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) liked to conform his behaviour to the People of the Book in matters in which he received no command (from God) ; so Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) let fall his hair upon his forehead, and then he began to part it after this.",
+                "hadithUrdu": "اہل کتاب یعنی یہود اور نصاریٰ اپنے بالوں کو پیشانی پر لٹکتے ہوئے چھوڑ دیتے تھے ( یعنی مانگ نہیں نکالتے تھے ) اور مشرک مانگ نکالتے تھے اور رسول اللہ صلی اللہ علیہ وسلم اہل کتاب کے طریق پر چلنا دوست رکھتے تھے جس مسئلہ میں آپ صلی اللہ علیہ وسلم کو کوئی حکم نہ ہوتا ( یعنی بہ نسبت مشرکین کے اہل کتاب بہتر ہیں تو جس باب میں کوئی حکم نہ آتا آپ صلی اللہ علیہ وسلم اہل کتاب کی موافقت اس مسئلے میں اختیار کرتے ) تو آپ صلی اللہ علیہ وسلم بھی پیشانی پر بال لٹکانے لگے اس کے بعد آپ صلی اللہ علیہ وسلم مانگ نکالنے لگے ۔",
+                "urduNarrator": "ہم سے منصور بن ابی مزاحم اور محمد بن جعفر بن زیاد نے بیان کیا - منصور نے کہا : ہم سے انہوں نے بیان کیا اور ابن جعفر نے کہا , ابراہیم بن سعد نے ابن شہاب سے ، انھوں نے عبیداللہ بن عبداللہ سے اور انھوں نے حضرت ابن عباس رضی اللہ عنہ سے روایت کی ، کہا : کہ",
+                "hadithArabic": "حَدَّثَنَا مَنْصُورُ بْنُ أَبِي مُزَاحِمٍ، وَمُحَمَّدُ بْنُ جَعْفَرِ بْنِ زِيَادٍ - قَالَ مَنْصُورٌ: حَدَّثَنَا، وقَالَ ابْنُ جَعْفَرٍ - أَخْبَرَنَا إِبْرَاهِيمُ يَعْنِيَانِ ابْنَ سَعْدٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللهِ بْنِ عَبْدِ اللهِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ: كَانَ أَهْلُ الْكِتَابِ يَسْدِلُونَ أَشْعَارَهُمْ، وَكَانَ الْمُشْرِكُونَ يَفْرُقُونَ رُءُوسَهُمْ، «وَكَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يُحِبُّ مُوَافَقَةَ أَهْلِ الْكِتَابِ فِيمَا لَمْ يُؤْمَرْ بِهِ، فَسَدَلَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَاصِيَتَهُ، ثُمَّ فَرَقَ بَعْدُ».",
+                "headingArabic": "فِي سَدْلِ النَّبِيِّ صلى الله عليه وسلم شَعْرَهُ وَفَرْقِهِ",
+                "headingUrdu": "آپ (صلی اللہ علیہ وآلہ وسلم) کے بالوں، صفات اور صورت کا بیان",
+                "headingEnglish": "Description Of His (ﷺ) Hair, Attributes And Appearance",
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13626,
+                "hadithNumber": "6063",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Ibn Shihab with the same chain of transmitters.",
+                "hadithUrdu": "مجھ سے ابو الطاہر نے بیان کیا، کہا ہم سے ابن وہب نے بیان کیا، مجھ سے یونس نے بیان کیا, یونس نے ابن شہاب سے اسی سند کے ساتھ اسی کے مانند روایت کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنِي أَبُو الطَّاهِرِ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ بِهَذَا الْإِسْنَادِ نَحْوَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13627,
+                "hadithNumber": "6064",
+                "englishNarrator": "Al-Bara' رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) was of medium height, having broad shoulders, with his hair hanging down on the lobes of his ears. He put on a red mantle over him, and never have I seen anyone more handsome than Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم درمیانہ قد کے آدمی تھے ، دونوں شانوں کے درمیان بہت فاصلہ تھا ، بال بڑے تھے جو کانوں کی لوتک آتے تھے ، آپ پرسرخ جوڑاتھا ، میں نے آپ صلی اللہ علیہ وسلم سے بڑھ کر کبھی کوئی خوبصورت نہیں دیکھا ۔",
+                "urduNarrator": "ہم سے محمد بن المثنیٰ اور محمد بن بشار نے بیان کیا، کہا: ہم سے محمد بن جعفر نے بیان کیا، شعبہ نے کہا : میں نے ابو اسحاق سے سنا ، انھوں نے کہا : میں نے حضرت براء رضی اللہ عنہ سے سنا ، کہہ رہے تھے",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، قَالَا: حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، قَالَ: سَمِعْتُ أَبَا إِسْحَاقَ، قَالَ: سَمِعْتُ الْبَرَاءَ، يَقُولُ: «كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ رَجُلًا مَرْبُوعًا بَعِيدَ مَا بَيْنَ الْمَنْكِبَيْنِ عَظِيمَ الْجُمَّةِ إِلَى شَحْمَةِ أُذُنَيْهِ عَلَيْهِ حُلَّةٌ حَمْرَاءُ مَا رَأَيْتُ شَيْئًا قَطُّ أَحْسَنَ مِنْهُ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ».",
+                "headingArabic": "ي صِفَةِ النَّبِيِّ صلى الله عليه وسلم وَأَنَّهُ كَانَ أَحْسَنَ النَّاسِ وَجْهًا ‏.‏",
+                "headingUrdu": "نبی صلی اللہ علیہ وسلم کا بیان؛ وہ لوگوں میں سب سے خوبصورت تھا۔",
+                "headingEnglish": "Description Of The Prophet (SAW); He Was The Most Handsome Of People",
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13628,
+                "hadithNumber": "6065",
+                "englishNarrator": "Al-Bara' رضی اللہ عنہ reported:",
+                "hadithEnglish": "Never did I see anyone more handsome than Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) in the red mantle. His hair had been hanging down on the shoulders and his shoulders were very broad, and he was neither very tall nor short-statured. Ibn Kuraib said he had hair.",
+                "hadithUrdu": "میں نے کسی د راز گیسوؤں والے شخص کو سرخ جوڑے میں رسول اللہ صلی اللہ علیہ وسلم سے بڑھ کر حسین نہیں دیکھا ، آپ کے بال کندھوں کو چھوتے تھے ، آپ کے دونوں کندھوں کے د رمیان فاصلہ تھا ، قد بہت لمبا تھا نہ بہت چھوٹا تھا ۔ ابو کریب نے کہا : آپ صلی اللہ علیہ وسلم کے بال ایسے تھے ( جو کندھوں کو چھوتے تھے ۔ )",
+                "urduNarrator": "عمرو ناقد اور ابو کریب نے کہا : ہمیں وکیع نے سفیان سے حدیث بیان کی ، انھوں نے ابو اسحاق سے ، انھوں نے حضرت براء رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا عَمْرٌو النَّاقِدُ، وَأَبُو كُرَيْبٍ، قَالَا: حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ، قَالَ: «مَا رَأَيْتُ مِنْ ذِي لِمَّةٍ أَحْسَنَ فِي حُلَّةٍ حَمْرَاءَ مِنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ شَعْرُهُ يَضْرِبُ مَنْكِبَيْهِ بَعِيدَ مَا بَيْنَ الْمَنْكِبَيْنِ، لَيْسَ بِالطَّوِيلِ وَلَا بِالْقَصِيرِ» قَالَ أَبُو كُرَيْبٍ: لَهُ شَعَرٌ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13629,
+                "hadithNumber": "6066",
+                "englishNarrator": "Al-Bara' رضی اللہ عنہ سreported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) had the most handsome face amongst men and he had the best disposition and he was neither very tall nor short-statured.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کا چہرہ مبارک سب لوگوں سے زیادہ حسین تھا اور ( باقی تمام اعضاء کی ) ساخت میں سب سے زیادہ حسین تھے ، آپ کا قد بہت زیادہ لمبا تھا نہ بہت چھوٹا ۔",
+                "urduNarrator": "ہم سے ابو کریب محمد بن العلاء نے بیان کیا، ہم سے اسحاق بن منصور نے، ابراہیم بن یوسف نے ابو اسحاق سے روایت کی ، انھوں نے کہا : میں نے حضرت براء رضی اللہ عنہ سے سنا ، وہ کہتے تھے",
+                "hadithArabic": "حَدَّثَنَا أَبُو كُرَيْبٍ مُحَمَّدُ بْنُ الْعَلَاءِ، حَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ بْنِ يُوسُفَ، عَنْ أَبِيهِ، عَنْ أَبِي إِسْحَاقَ، قَالَ: سَمِعْتُ الْبَرَاءَ، يَقُولُ: «كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَحْسَنَ النَّاسِ وَجْهًا وَأَحْسَنَهُمْ خَلْقًا لَيْسَ بِالطَّوِيلِ الذَّاهِبِ وَلَا بِالْقَصِيرِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13630,
+                "hadithNumber": "6067",
+                "englishNarrator": "Qatada reported:",
+                "hadithEnglish": "I asked Anas bin Malik رضی اللہ عنہ : How was the hair of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ )? Thereupon he said: His hair was neither very curly nor very straight, and they hung over his shoulders and earlobes.",
+                "hadithUrdu": "میں نے حضرت انس بن مالک رضی اللہ عنہ سے پوچھا : رسول اللہ صلی اللہ علیہ وسلم کے بال کیسے تھے؟انہوں نے کہا : آپ صلی اللہ علیہ وسلم کے بال تقریباً سیدھے تھے ، بہت گھنگرالے تھے نہ بالکل سیدھے ، آپ کے کانوں اور کندھوں کے درمیان تک آتے تھے ۔",
+                "urduNarrator": "ہم سے شیبان بن فروخ نے بیان کیا, جریر بن حازم نے کہا : ہمیں قتادہ نے حدیث بیان کی ، انھوں نےکہا",
+                "hadithArabic": "حَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، حَدَّثَنَا جَرِيرُ بْنُ حَازِمٍ، حَدَّثَنَا قَتَادَةُ، قَالَ: قُلْتُ لِأَنَسِ بْنِ مَالِكٍ: كَيْفَ كَانَ شَعَرُ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ؟ قَالَ: كَانَ شَعَرًا رَجِلًا لَيْسَ بِالْجَعْدِ وَلَا السَّبْطِ بَيْنَ أُذُنَيْهِ وَعَاتِقِهِ.",
+                "headingArabic": "صِفَةِ شَعْرِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+                "headingUrdu": "آپ صلی اللہ علیہ وسلم کے بالوں کی تفصیل",
+                "headingEnglish": "Description Of His (ﷺ) Hair",
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13631,
+                "hadithNumber": "6068",
+                "englishNarrator": "Anas رضی اللہ عنہ reported:",
+                "hadithEnglish": "The hair of Allah's Messenger (ﷺ) came upon his shoulders.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کے بال کندھوں تک آتے تھے ۔",
+                "urduNarrator": "مجھ سے زہیر بن حرب نے بیان کیا، ہم سے حبان بن ہلال نے بیان کیا، ہم سے محمد بن المثنیٰ نے بیان کیا، ہم سے عبد الصمد نے بیان کیا، انہوں نے کہا: ہمام نے کہا ,  ہمیں قتادہ نے حضرت انس رضی اللہ عنہ سے ر وایت کی کہ",
+                "hadithArabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا حَبَّانُ بْنُ هِلَالٍ، وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الصَّمَدِ، قَالَا: حَدَّثَنَا هَمَّامٌ، حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ، «أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ كَانَ يَضْرِبُ شَعَرُهُ مَنْكِبَيْهِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13632,
+                "hadithNumber": "6069",
+                "englishNarrator": "Anas رضی اللہ عنہ reported:",
+                "hadithEnglish": "The hair of Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) reached half of the earlobe.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کے بال کانوں کے وسط تک تھے ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ اور ابو کریب نے بیان کیا، کہا کہ ہم سے اسماعیل بن اولیاء نے بیان کیا، حمید نے حضرت انس رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَأَبُو كُرَيْبٍ، قَالَا: حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، عَنْ حُمَيْدٍ، عَنْ أَنَسٍ، قَالَ: «كَانَ شَعَرُ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِلَى أَنْصَافِ أُذُنَيْهِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13633,
+                "hadithNumber": "6070",
+                "englishNarrator": "Jabir bin Samura رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) had a broad face with reddish (wide) eyes, and lean heels. Shu'ba reported: I said to Simak: What does this dali-ul-fam mean? And he said: This means broad face. I said: What does this ashkal mean? He said: Long in the slit of the eye. I said: What is this manhus-ul-aqibain? He said: It implies little flesh at the heels.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کا دہن کشادہ تھا آنکھوں میں سرخ ڈورے چھوٹے ہوئے اور ایڑیاں کم گوشت والی تھیں ۔ سماک سے ( شعبہ نے ) پوچھا کہ ”ضلیع الفم“ کیا ہے؟ تو انہوں نے کہا کہ بڑا چہرہ ۔ پھر ( شعبہ ) نے کہا ”اشکل العین“ کیا ہے؟ تو انہوں نے کہا دراز شگاف آنکھوں کے ( لیکن سماک کا یہ کہنا غلط ہے اور صحیح وہی ہے کہ سفیدی میں سرخی ملی ہوئی ) شعبہ نے کہا ”منہوس العقبین“ کیا ہے تو انہوں نے کہا ایڑی پر کم گوشت والے ۔",
+                "urduNarrator": "ہم سے محمد بن المثنیٰ اور محمد بن بشار نے بیان کیا - اور یہ قول ابن المثنیٰ کا ہے - انہوں نے کہا: ہم سے محمد بن جعفر نے بیان کیا، ہم سے شعبہ نے بیان کیا، سماک بن حرب نےکہا : میں نے حضرت جابر بن سمرۃ رضی اللہ عنہ سے سنا ، انھوں نے کہا : کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ - وَاللَّفْظُ لِابْنِ الْمُثَنَّى - قَالَا: حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ سِمَاكِ بْنِ حَرْبٍ، قَالَ: سَمِعْتُ جَابِرَ بْنَ سَمُرَةَ، قَالَ: «كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ضَلِيعَ الْفَمِ، أَشْكَلَ الْعَيْنِ مَنْهُوسَ الْعَقِبَيْنِ» قَالَ: قُلْتُ لِسِمَاكٍ: مَا ضَلِيعُ الْفَمِ؟ قَالَ: «عَظِيمُ الْفَمِ»، قَالَ قُلْتُ: مَا أَشْكَلُ الْعَيْنِ؟ قَالَ: «طَوِيلُ شَقِّ الْعَيْنِ»، قَالَ: قُلْتُ: مَا مَنْهُوسُ الْعَقِبِ؟ قَالَ: «قَلِيلُ لَحْمِ الْعَقِبِ».",
+                "headingArabic": "فِي صِفَةِ فَمِ النَّبِيِّ صلى الله عليه وسلم وَعَيْنَيْهِ وَعَقِبَيْهِ ‏.‏",
+                "headingUrdu": "رسول اللہ صلی اللہ علیہ وسلم کا منہ، آنکھیں اور ایڑیاں",
+                "headingEnglish": "The Mouth, Eyes And Heels Of The Prophet (SAW)",
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13634,
+                "hadithNumber": "6071",
+                "englishNarrator": "Jurairi reported:",
+                "hadithEnglish": "I said to Abu Tufail رضی اللہ عنہ : Did you see Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ )? He said: Yes, he had a white handsome face. Muslim bin Hajjaj said: Abu Tufail who died in 100 Hijra was the last of the Companions of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ).",
+                "hadithUrdu": "انھوں نے حضرت ابو طفیل رضی اللہ تعالیٰ عنہ سے روایت کی ، کہا : میں نے ان ( ابو طفیل رضی اللہ تعالیٰ عنہ ) سے پوچھا : کیا آپ نے رسول اللہ صلی اللہ علیہ وسلم کو د یکھا؟انھوں نے کہا : ہاں ، آپ کا رنگ سفید تھا ، چہرے پر ملاحت تھی ۔ امام مسلم بن حجاج نے کہا : حضرت ابو طفیل رضی اللہ عنہ ایک سو ہجری میں فوت ہوئے اور وہ رسول اللہ صلی اللہ علیہ وسلم کے صحابہ رضوان اللہ عنھم اجمعین میں سب سے آخر میں فوت ہوئے تھے ۔",
+                "urduNarrator": "ہم سے سعید بن منصور نے بیان کیا, خالد بن عبداللہ نے جریری سے ،",
+                "hadithArabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، حَدَّثَنَا خَالِدُ بْنُ عَبْدِ اللهِ، عَنِ الْجُرَيْرِيِّ، عَنْ أَبِي الطُّفَيْلِ، قَالَ: قُلْتُ لَهُ: أَرَأَيْتَ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: نَعَمْ، «كَانَ أَبْيَضَ مَلِيحَ الْوَجْهِ» قَالَ مُسْلِمُ بْنُ الْحَجَّاجِ: مَاتَ أَبُو الطُّفَيْلِ سَنَةَ مِائَةٍ وَكَانَ آخِرَ مَنْ مَاتَ مِنْ أَصْحَابِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ.",
+                "headingArabic": "كَانَ النَّبِيُّ صلى الله عليه وسلم أَبْيَضَ مَلِيحَ الْوَجْهِ ‏.‏",
+                "headingUrdu": "رسول اللہ صلی اللہ علیہ وسلم کا چہرہ مبارک سفید تھا۔",
+                "headingEnglish": "The Prophet (SAW) Was White With An Elegant Face",
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13635,
+                "hadithNumber": "6072",
+                "englishNarrator": "Abu Tufail رضی اللہ عنہ reported:",
+                "hadithEnglish": "I saw Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and there is one amongst the people of the earth who (are living at the present time and) had seen him except me. I said to him: How did you find him? He said: He had an elegant white color, and he was of an average height.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم کو دیکھا اور اب زمین پر سوا میرے آپ صلی اللہ علیہ وسلم کو دیکھنے والوں میں کوئی نہیں رہا ۔ ( راوی حدیث جریری ) کہتے ہیں کہ میں نے ان سے کہا کہ آپ نے دیکھا آپ صلی اللہ علیہ وسلم کیسے تھے؟ انہوں نے کہا کہ آپ صلی اللہ علیہ وسلم سفید رنگ ملاحت لیے ہوئے تھا ، میانہ قامت تھے ۔",
+                "urduNarrator": "ہم سے عبید اللہ بن عمر القواری نے بیان کیا, عبدالاعلیٰ بن عبدالاعلیٰ نے ہمیں جریری سے حدیث بیان کی ، انھوں نے حضرت ابو طفیل رضی اللہ عنہ سے روایت کی ، کہا : کہ",
+                "hadithArabic": "حَدَّثَنَا عُبَيْدُ اللهِ بْنُ عُمَرَ الْقَوَارِيرِيُّ، حَدَّثَنَا عَبْدُ الْأَعْلَى بْنُ عَبْدِ الْأَعْلَى، عَنِ الْجُرَيْرِيِّ، عَنْ أَبِي الطُّفَيْلِ، قَالَ: رَأَيْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَمَا عَلَى وَجْهِ الْأَرْضِ رَجُلٌ رَآهُ غَيْرِي، قَالَ فَقُلْتُ لَهُ: فَكَيْفَ رَأَيْتَهُ؟ قَالَ: «كَانَ أَبْيَضَ مَلِيحًا مُقَصَّدًا».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13636,
+                "hadithNumber": "6073",
+                "englishNarrator": "Ibn Sirin reported:",
+                "hadithEnglish": "Anas bin Malik رضی اللہ عنہ was asked whether Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) dyed his hair. He said: He had not become old enough to have white hair. Ibn Idris said that he had a few white hair. Abu Bakr and Umar رضی اللہ عنہ , however, dyed hair with hina' (henna).",
+                "hadithUrdu": "حضرت انس رضی اللہ عنہ سے پوچھا گیا : کیا رسول اللہ صلی اللہ علیہ وسلم نے ( کبھی ) بالوں کو رنگاتھا : کہا : انھوں نے رسول اللہ صلی اللہ علیہ وسلم کے سفید بال نہیں دیکھے تھے ، سوائے ( چند ایک کے ) ۔ ابن ادریس نے کہا : گویا وہ ان کی بہت ہی کم تعداد بتارہے تھے ۔ جبکہ حضرت ابو بکر اور عمر رضی اللہ تعالیٰ عنہ مہندی اور کَتَم ( کو ملاکر ان ) سے رنگتے تھے ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ، ابن نمیر اور عمرو ناقد سب نے بیان کیا,ابن ادریس نے ہشام سے ، انھوں نے سیرین سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَابْنُ نُمَيْرٍ، وَعَمْرٌو النَّاقِدُ جَمِيعًا، عَنِ ابْنِ إِدْرِيسَ، قَالَ عَمْرٌو: حَدَّثَنَا عَبْدُ اللهِ بْنُ إِدْرِيسَ الْأَوْدِيُّ، عَنْ هِشَامٍ، عَنِ ابْنِ سِيرِينَ، قَالَ: سُئِلَ أَنَسُ بْنُ مَالِكٍ هَلْ خَضَبَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ؟ قَالَ: «إِنَّهُ لَمْ يَكُنْ رَأَى مِنَ الشَّيْبِ إِلَّا» - قَالَ ابْنُ إِدْرِيسَ كَأَنَّهُ يُقَلِّلُهُ - وَقَدْ خَضَبَ أَبُو بَكْرٍ، وَعُمَرُ بِالْحِنَّاءِ وَالْكَتَمِ.",
+                "headingArabic": null,
+                "headingUrdu": "آپ صلی اللہ علیہ وسلم کے سفید بال",
+                "headingEnglish": "His (ﷺ) Grey Hairs",
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13637,
+                "hadithNumber": "6074",
+                "englishNarrator": "Ibn Sirin reported:",
+                "hadithEnglish": "I asked Anas bin Malik رضی اللہ عنہ whether Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) dyed his hair. He said: He had not reached the stage when (he needed) dyeing (of his white hair). He had a few white hair in his beard. I said to him: Did Abu Bakr رضی اللہ عنہ dye his hair? He said: Yes, with hina' (henna).",
+                "hadithUrdu": "میں نےحضرت انس بن مالک رضی اللہ عنہ سے سوال کیا : کیا ر سول اللہ صلی اللہ علیہ وسلم نے بالوں کو رنگ لگایاتھا؟انھوں نے کہا : آپ رنگنے کے مرحلے تک نہیں پہنچے تھے ، کہا : آپ کی داڑھی میں چند ہی بال سفید تھے ۔ میں نے کہا : کیا حضرت ابو بکر رضی اللہ عنہ رنگتے تھے؟انھوں نے کہا : ہاں ، وہ مہندی اور کتم سے رنگتے تھے ۔",
+                "urduNarrator": "ہم سے محمد بن بکر بن الریان نے بیان کیا، کہا ہم سے اسماعیل بن زکریا نے بیان کیا,عاصم احول نے ابن سیرین سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَكَّارِ بْنِ الرَّيَّانِ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ زَكَرِيَّاءَ، عَنْ عَاصِمٍ الْأَحْوَلِ، عَنِ ابْنِ سِيرِينَ، قَالَ: سَأَلْتُ أَنَسَ بْنَ مَالِكٍ هَلْ كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ خَضَبَ؟ فَقَالَ: «لَمْ يَبْلُغِ الْخِضَابَ كَانَ فِي لِحْيَتِهِ شَعَرَاتٌ بِيضٌ» قَالَ قُلْتُ لَهُ: أَكَانَ أَبُو بَكْرٍ يَخْضِبُ؟ قَالَ فَقَالَ: نَعَمْ، بِالْحِنَّاءِ وَالْكَتَمِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13638,
+                "hadithNumber": "6075",
+                "englishNarrator": "Muhammad bin Sirin reported:",
+                "hadithEnglish": "I asked Anas bin Malik رضی اللہ عنہ whether Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) dyed his hair. He said: He had but little white hair.",
+                "hadithUrdu": "میں نے حضرت انس بن مالک رضی اللہ عنہ سے سوال کیا : کیا رسول اللہ صلی اللہ علیہ وسلم نے بالوں کو رنگا تھا؟کہا : انھوں نے آپ کے بہت ہی کم سفید بال دیکھے تھے ۔",
+                "urduNarrator": "مجھ سے حجاج بن الشاعر نے بیان کیا، کہا ہم سے معالی بن اسد نے بیان کیا، ہم سے وہیب بن خالد نے بیان کیا,,ایوب نے محمد بن سیرین سے روایت کی ، کہا",
+                "hadithArabic": "وحَدَّثَنِي حَجَّاجُ بْنُ الشَّاعِرِ، حَدَّثَنَا مُعَلَّى بْنُ أَسَدٍ، حَدَّثَنَا وُهَيْبُ بْنُ خَالِدٍ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، قَالَ: سَأَلْتُ أَنَسَ بْنَ مَالِكٍ أَخَضَبَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ؟ قَالَ: «إِنَّهُ لَمْ يَرَ مِنَ الشَّيْبِ إِلَّا قَلِيلًا».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "44",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 144,
+                    "chapterNumber": "44",
+                    "chapterEnglish": "The Book of Virtues",
+                    "chapterUrdu": "انبیائے کرام علیہم السلام کے فضائل",
+                    "chapterArabic": "كتاب الْفَضَائِلِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 13326,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=533",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=531",
+                "label": "531",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=532",
+                "label": "532",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=533",
+                "label": "533",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=534",
+                "label": "534",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=535",
+                "label": "535",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=536",
+                "label": "536",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=537",
+                "label": "537",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=535",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=535",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=533",
+        "to": 13350,
+        "total": 40465
+    }
+}

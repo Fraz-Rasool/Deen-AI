@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 175,
+        "data": [
+            {
+                "id": 4353,
+                "hadithNumber": "4574",
+                "englishNarrator": "Narrated `Urwa bin Az-Zubair:",
+                "hadithEnglish": "He asked `Aisha رضی اللہ عنہا regarding the Statement of Allah: \"If you fear that you shall not be able to deal justly with the orphan girls...\" (4.3) She said, \"O son of my sister! An Orphan girl used to be under the care of a guardian with whom she shared property. Her guardian, being attracted by her wealth and beauty, would intend to marry her without giving her a just Mahr, i.e. the same Mahr as any other person might give her (in case he married her). So such guardians were forbidden to do that unless they did justice to their female wards and gave them the highest Mahr their peers might get. They were ordered (by Allah, to marry women of their choice other than those orphan girls.\" `Aisha added,\" The people asked Allah's Messenger (ﷺ) his instructions after the revelation of this Divine Verse whereupon Allah revealed: \"They ask your instruction regarding women \" (4.127) `Aisha رضی اللہ عنہا further said, \"And the Statement of Allah: \"And yet whom you desire to marry.\" (4.127) as anyone of you refrains from marrying an orphan girl (under his guardianship) when she is lacking in property and beauty.\" `Aisha رضی اللہ عنہا added, \"So they were forbidden to marry those orphan girls for whose wealth and beauty they had a desire unless with justice, and that was because they would refrain from marrying them if they were lacking in property and beauty.\"",
+                "hadithUrdu": "انہوں نے عائشہ رضی اللہ عنہا سے آیت «وإن خفتم أن لا تقسطوا في اليتامى‏» کا مطلب پوچھا۔ انہوں نے کہا میرے بھانجے اس کا مطلب یہ ہے کہ ایک یتیم لڑکی اپنے ولی کی پرورش میں ہو اور اس کی جائیداد کی حصہ دار ہو ( ترکے کی رو سے اس کا حصہ ہو ) اب اس ولی کو اس کی مالداری خوبصورتی پسند آئے۔ اس سے نکاح کرنا چاہے پر انصاف کے ساتھ پورا مہر جتنا مہر اس کو دوسرے لوگ دیں، نہ دینا چاہے، تو اللہ تعالیٰ نے اس آیت میں لوگوں کو ایسی یتیم لڑکیوں کے ساتھ جب تک ان کا پورا مہر انصاف کے ساتھ نہ دیں، نکاح کرنے سے منع فرمایا اور ان کو یہ حکم دیا کہ تم دوسری عورتوں سے جو تم کو بھلی لگیں نکاح کر لو۔ ( یتیم لڑکی کا نقصان نہ کرو ) عروہ نے کہا عائشہ رضی اللہ عنہا کہتی تھیں، اس آیت کے اترنے کے بعد لوگوں نے پھر نبی کریم صلی اللہ علیہ وسلم سے اس بارے میں مسئلہ پوچھا، اس وقت اللہ نے یہ آیت «ويستفتونك في النساء‏» اتاری۔ عائشہ رضی اللہ عنہا نے کہا دوسری آیت میں یہ جو فرمایا «وترغبون أن تنكحوهن‏» یعنی وہ یتیم لڑکیاں جن کا مال و جمال کم ہو اور تم ان کے ساتھ نکاح کرنے سے نفرت کرو۔ اس کا مطلب یہ ہے کہ جب تم ان یتیم لڑکیوں سے جن کا مال و جمال کم ہو نکاح کرنا نہیں چاہتے تو مال اور جمال والی یتیم لڑکیوں سے بھی جن سے تم کو نکاح کرنے کی رغبت ہے نکاح نہ کرو، مگر جب انصاف کے ساتھ ان کا مہر پورا ادا کرو۔",
+                "urduNarrator": "ہم سے عبدالعزیز بن عبداللہ نے بیان کیا، انہوں نے کہا ہم سے ابراہیم بن سعد نے بیان کیا، ان سے صالح بن کیسان نے، ان سے ابن شہاب نے، انہوں نے کہا مجھ کو عروہ بن زبیر نے خبر دی",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنْ صَالِحِ بْنِ كَيْسَانَ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي عُرْوَةُ بْنُ الزُّبَيْرِ، أَنَّهُ سَأَلَ عَائِشَةَ عَنْ قَوْلِ اللَّهِ، تَعَالَى ‏{‏وَإِنْ خِفْتُمْ أَنْ لاَ تُقْسِطُوا فِي الْيَتَامَى‏}‏‏.‏ فَقَالَتْ يَا ابْنَ أُخْتِي، هَذِهِ الْيَتِيمَةُ تَكُونُ فِي حَجْرِ وَلِيِّهَا، تَشْرَكُهُ فِي مَالِهِ وَيُعْجِبُهُ مَالُهَا وَجَمَالُهَا، فَيُرِيدُ وَلِيُّهَا أَنْ يَتَزَوَّجَهَا، بِغَيْرِ أَنْ يُقْسِطَ فِي صَدَاقِهَا، فَيُعْطِيَهَا مِثْلَ مَا يُعْطِيهَا غَيْرُهُ، فَنُهُوا عَنْ أَنْ يَنْكِحُوهُنَّ، إِلاَّ أَنْ يُقْسِطُوا لَهُنَّ، وَيَبْلُغُوا لَهُنَّ أَعْلَى سُنَّتِهِنَّ فِي الصَّدَاقِ، فَأُمِرُوا أَنْ يَنْكِحُوا مَا طَابَ لَهُمْ مِنَ النِّسَاءِ سِوَاهُنَّ‏.‏ قَالَ عُرْوَةُ قَالَتْ عَائِشَةُ وَإِنَّ النَّاسَ اسْتَفْتَوْا رَسُولَ اللَّهِ صلى الله عليه وسلم بَعْدَ هَذِهِ الآيَةِ فَأَنْزَلَ اللَّهُ ‏{‏وَيَسْتَفْتُونَكَ فِي النِّسَاءِ‏}‏ قَالَتْ عَائِشَةُ وَقَوْلُ اللَّهِ تَعَالَى فِي آيَةٍ أُخْرَى ‏{‏وَتَرْغَبُونَ أَنْ تَنْكِحُوهُنَّ‏}‏ رَغْبَةُ أَحَدِكُمْ عَنْ يَتِيمَتِهِ حِينَ تَكُونُ قَلِيلَةَ الْمَالِ وَالْجَمَالِ قَالَتْ فَنُهُوا أَنْ يَنْكِحُوا عَنْ مَنْ رَغِبُوا فِي مَالِهِ وَجَمَالِهِ فِي يَتَامَى النِّسَاءِ، إِلاَّ بِالْقِسْطِ، مِنْ أَجْلِ رَغْبَتِهِمْ عَنْهُنَّ إِذَا كُنَّ قَلِيلاَتِ الْمَالِ وَالْجَمَالِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4354,
+                "hadithNumber": "4575",
+                "englishNarrator": "Narrated Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "regarding the Statement of Allah: \"And whoever amongst the guardian is rich, he should take no wages, but if he is poor, let him have for himself what is just and reasonable (according to his work). This Verse was revealed regarding the orphan's property. If the guardian is poor, he can take from the property of the orphan, what is just and reasonable according to his work and the time he spends on managing it.",
+                "hadithUrdu": "اللہ تعالیٰ کے ارشاد «ومن كان غنيا فليستعفف ومن كان فقيرا فليأكل بالمعروف‏» ”بلکہ جو شخص خوشحال ہو وہ اپنے کو بالکل روکے رکھے۔ البتہ جو شخص نادار ہو وہ واجبی طور پر کھا سکتا ہے۔“ کے بارے میں فرمایا کہ یہ آیت یتیم کے بارے میں اتری ہے کہ اگر ولی نادار ہو تو یتیم کی پرورش اور دیکھ بھال کی اجرت میں وہ واجبی طور پر ( یتیم کے مال میں سے کچھ ) کھا سکتا ہے ( بشرطیکہ نیت میں فساد نہ ہو ) ۔",
+                "urduNarrator": "ہم سے اسحاق بن راہویہ نے بیان کیا، کہا ہم کو عبداللہ بن نمیر نے خبر دی، کہا ہم سے ہشام بن عروہ نے بیان کیا، ان سے ان کے والد نے اور ان سے عائشہ رضی اللہ عنہا نے",
+                "hadithArabic": "حَدَّثَنِي إِسْحَاقُ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، حَدَّثَنَا هِشَامٌ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ فِي قَوْلِهِ تَعَالَى ‏{‏وَمَنْ كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ وَمَنْ كَانَ فَقِيرًا فَلْيَأْكُلْ بِالْمَعْرُوفِ‏}‏ أَنَّهَا نَزَلَتْ فِي مَالِ الْيَتِيمِ إِذَا كَانَ فَقِيرًا، أَنَّهُ يَأْكُلُ مِنْهُ مَكَانَ قِيَامِهِ عَلَيْهِ، بِمَعْرُوفٍ‏.‏",
+                "headingArabic": "‏{‏وَمَنْ كَانَ فَقِيرًا فَلْيَأْكُلْ بِالْمَعْرُوفِ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَالَهُمْ فَأَشْهِدُوا عَلَيْهِمْ‏}‏ الآيَةَ",
+                "headingUrdu": "\"...لیکن اگر وہ (ولی) غریب ہے، تو اسے چاہیے کہ وہ اپنے لیے جو جائز اور معقول ہو (اس کے کام کے مطابق) اور جب تم ان کا مال ان کے لیے چھوڑ دو تو ان کی موجودگی میں گواہی دینا، اور اللہ سب کچھ ہے۔ - حساب لینے میں کافی ہے۔\" (V.4:6)",
+                "headingEnglish": "\"...But if he (the guardian) is poor, let him have for himself what is just and reasonable (according to his work). And when you release their property to them, take witness in their presence; and Allah is All-Sufficient in taking account.\" (V.4:6)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4355,
+                "hadithNumber": "4576",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "( regarding the verse), \"And when the relatives and the orphans and the poor are present at the time of division, \"this verse and its order is valid and not abrogated.\" Similarly, Hadrat Saeed (bin Javir) has reported it from Hadrat Ibn-e-Abbas رضی اللہ عنہما .",
+                "hadithUrdu": "آیت «وإذا حضر القسمة أولو القربى واليتامى والمساكين‏» ”اور جب تقسیم کے وقت عزیز و اقارب اور یتیم اور مسکین موجود ہوں۔“ کے متعلق فرمایا کہ یہ محکم ہے، منسوخ نہیں ہے۔ عکرمہ کے ساتھ اس حدیث کو سعید بن جبیر نے بھی عبداللہ بن عباس رضی اللہ عنہما سے روایت کیا ہے۔",
+                "urduNarrator": "ہم سے احمد بن حمید نے بیان کیا، ہم کو عبیداللہ اشجعی نے خبر دی، انہیں سفیان ثوری نے، انہیں ابواسحاق شیبانی نے، انہیں عکرمہ نے اور ان سے عبداللہ بن عباس رضی اللہ عنہما نے",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ حُمَيْدٍ، أَخْبَرَنَا عُبَيْدُ اللَّهِ الأَشْجَعِيُّ، عَنْ سُفْيَانَ، عَنِ الشَّيْبَانِيِّ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ ‏{‏وَإِذَا حَضَرَ الْقِسْمَةَ أُولُو الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينُ‏}‏ قَالَ هِيَ مُحْكَمَةٌ وَلَيْسَتْ بِمَنْسُوخَةٍ‏.‏ تَابَعَهُ سَعِيدٌ عَنِ ابْنِ عَبَّاسٍ‏.‏",
+                "headingArabic": "‏{‏وَإِذَا حَضَرَ الْقِسْمَةَ أُولُو الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينُ‏}‏ الآيَةَ",
+                "headingUrdu": "\"اور جب تقسیم کے وقت رشتہ دار اور یتیم اور مساکین موجود ہوں...\" (V.4:8)",
+                "headingEnglish": "\"And when the relatives and the orphans and the poor are present at the time of division...\" (V.4:8)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4356,
+                "hadithNumber": "4577",
+                "englishNarrator": "Narrated Jabir رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) and Abu Bakr رضی اللہ عنہ came on foot to pay me a visit (during my illness) at Banu Salama's (dwellings). The Prophet (ﷺ) found me unconscious, so he asked for water and performed the ablution from it and sprinkled some water over it. I came to my senses and said, \"O Allah's Messenger (ﷺ)! What do you order me to do as regards my wealth?\" So there was revealed:-- \"Allah commands you as regards your children's (inheritance):\" (4.11)",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم اور ابوبکر صدیق رضی اللہ عنہ قبیلہ بنو سلمہ تک پیدل چل کر میری عیادت کے لیے تشریف لائے۔ آپ نے ملاحظہ فرمایا کہ مجھ پر بے ہوشی طاری ہے، اس لیے آپ نے پانی منگوایا اور وضو کر کے اس کا پانی مجھ پر چھڑکا، میں ہوش میں آ گیا، پھر میں نے عرض کیا: یا رسول اللہ! آپ کا کیا حکم ہے، میں اپنے مال کا کیا کروں؟ اس پر یہ آیت نازل ہوئی «يوصيكم الله في أولادكم‏» کہ ”اللہ تمہیں تمہاری اولاد ( کی میراث ) کے بارے میں حکم دیتا ہے۔“",
+                "urduNarrator": "ہم سے ابراہیم بن موسیٰ نے بیان کیا، کہا ہم سے ہشام بن یوسف نے بیان کیا کہ انہیں ابن جریج نے خبر دی، بیان کیا کہ مجھے ابن منکدر نے خبر دی اور ان سے جابر رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، حَدَّثَنَا هِشَامٌ، أَنَّ ابْنَ جُرَيْجٍ، أَخْبَرَهُمْ قَالَ أَخْبَرَنِي ابْنُ مُنْكَدِرٍ، عَنْ جَابِرٍ ـ رضى الله عنه ـ قَالَ عَادَنِي النَّبِيُّ صلى الله عليه وسلم وَأَبُو بَكْرٍ فِي بَنِي سَلِمَةَ مَاشِيَيْنِ فَوَجَدَنِي النَّبِيُّ صلى الله عليه وسلم لاَ أَعْقِلُ، فَدَعَا بِمَاءٍ فَتَوَضَّأَ مِنْهُ، ثُمَّ رَشَّ عَلَىَّ، فَأَفَقْتُ فَقُلْتُ مَا تَأْمُرُنِي أَنْ أَصْنَعَ فِي مَالِي يَا رَسُولَ اللَّهِ فَنَزَلَتْ ‏{‏يُوصِيكُمُ اللَّهُ فِي أَوْلاَدِكُمْ‏}‏",
+                "headingArabic": "‏{‏يُوصِيكُمُ اللَّهُ‏}‏",
+                "headingUrdu": "’’اللہ تمہیں تمہاری اولاد (میراث) کے بارے میں حکم دیتا ہے...‘‘ (V.4:11)",
+                "headingEnglish": "\"Allah commands you as regards your children's (inheritance)...\" (V.4:11)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4357,
+                "hadithNumber": "4578",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "(In the Pre-Islamic Period ) the children used to inherit all the property but the parents used to inherit only through a will. So Allah cancelled that which He liked to cancel and put decreed that the share of a son was to be twice the share of a daughter, and for the parents one-sixth for each one of them, or one third, and for the wife one-eighth or one-fourth, and for the husband one-half, or one-fourth.",
+                "hadithUrdu": "ابتداء اسلام میں میت کا سارا مال اولاد کو ملتا تھا، البتہ والدین کو وہ ملتا جو میت ان کے لیے وصیت کر جائے، پھر اللہ تعالیٰ نے جیسا مناسب سمجھا اس میں نسخ کر دیا۔ چنانچہ اب مرد کا حصہ دو عورتوں کے حصہ کے برابر ہے اور میت کے والدین یعنی ان دونوں میں ہر ایک کے لیے اس مال کا چھٹا حصہ ہے۔ بشرطیکہ میت کے کوئی اولاد ہو، لیکن اگر اس کے کوئی اولاد نہ ہو، بلکہ اس کے والدین ہی اس کے وارث ہوں تو اس کی ماں کا ایک تہائی حصہ ہو گا اور بیوی کا آٹھواں حصہ ہو گا، جبکہ اولاد ہو، لیکن اگر اولاد نہ ہو تو چوتھائی ہو گا اور شوہر کا آدھا حصہ ہو گا، جبکہ اولاد نہ ہو لیکن اگر اولاد ہو تو چوتھائی ہو گا۔",
+                "urduNarrator": "ہم سے محمد بن یوسف نے بیان کیا، ان سے ورقاء بن عمر یشکری نے، ان سے ابن ابی نجیح نے، ان سے عطاء نے اور ان سے ابن عباس رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، عَنْ وَرْقَاءَ، عَنِ ابْنِ أَبِي نَجِيحٍ، عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ كَانَ الْمَالُ لِلْوَلَدِ، وَكَانَتِ الْوَصِيَّةُ لِلْوَالِدَيْنِ، فَنَسَخَ اللَّهُ مِنْ ذَلِكَ مَا أَحَبَّ، فَجَعَلَ لِلذَّكَرِ مِثْلَ حَظِّ الأُنْثَيَيْنِ، وَجَعَلَ لِلأَبَوَيْنِ لِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسَ وَالثُّلُثَ، وَجَعَلَ لِلْمَرْأَةِ الثُّمُنَ وَالرُّبُعَ، وَلِلزَّوْجِ الشَّطْرَ وَالرُّبُعَ‏.‏",
+                "headingArabic": "‏{‏وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَاجُكُمْ‏}‏",
+                "headingUrdu": "اللہ تعالیٰ کا فرمان ہے \"تمہاری بیویاں جو کچھ چھوڑیں اس میں تمہارا حصہ آدھا ہے...\" (V.4:12)",
+                "headingEnglish": "Allah's Statement \"In that which your wives leave, your share is a half...\" (V.4:12)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4358,
+                "hadithNumber": "4579",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "regarding the Divine Verse: \"O you who believe! You are forbidden to inherit women against their will, and you should not treat them with harshness that you may take back part of the (Mahr) dower you have given them.\" (4.19) (Before this revelation) if a man died, his relatives used to have the right to inherit his wife, and one of them could marry her if he would, or they would give her in marriage if they wished, or, if they wished, they would not give her in marriage at all, and they would be more entitled to dispose her, than her own relatives. So the above Verse was revealed in this connection.",
+                "hadithUrdu": "آیت «يا أيها الذين آمنوا لا يحل لكم أن ترثوا النساء كرها ولا تعضلوهن لتذهبوا ببعض ما آتيتموهن‏» ”اے ایمان والو! تمہارے لیے جائز نہیں کہ تم عورتوں کے زبردستی مالک ہو جاؤ اور نہ انہیں اس غرض سے قید رکھو کہ تم نے انہیں جو کچھ دے رکھا ہے، اس کا کچھ حصہ وصول کر لو، انہوں نے بیان کیا کہ جاہلیت میں کسی عورت کا شوہر مر جاتا تو شوہر کے رشتہ دار اس عورت کے زیادہ مستحق سمجھے جاتے۔ اگر انہیں میں سے کوئی چاہتا تو اس سے شادی کر لیتا، یا پھر وہ جس سے چاہتے اسی سے اس کی شادی کرتے اور چاہتے تو نہ بھی کرتے، اس طرح عورت کے گھر والوں کے مقابلہ میں بھی شوہر کے رشتہ دار اس کے زیادہ مستحق سمجھے جاتے، اسی پر یہ آیت «يا أيها الذين آمنوا لا يحل لكم أن ترثوا النساء كرها» نازل ہوئی۔",
+                "urduNarrator": "ہم سے محمد بن مقاتل نے بیان کیا، کہا ہم سے اسباط بن محمد نے بیان کیا، کہا ہم سے ابواسحاق شیبانی نے بیان کیا، ان سے عکرمہ نے اور ان سے ابن عباس رضی اللہ عنہما نے اور شیبانی نے کہا کہ یہ حدیث ابوالحسن عطا سوائی نے بھی بیان کی ہے اور جہاں تک مجھے یقین ہے ابن عباس رضی اللہ عنہما ہی سے بیان کیا ہے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مُقَاتِلٍ، حَدَّثَنَا أَسْبَاطُ بْنُ مُحَمَّدٍ، حَدَّثَنَا الشَّيْبَانِيُّ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ،‏.‏ قَالَ الشَّيْبَانِيُّ وَذَكَرَهُ أَبُو الْحَسَنِ السُّوَائِيُّ وَلاَ أَظُنُّهُ ذَكَرَهُ إِلاَّ عَنِ ابْنِ عَبَّاسٍ، ‏{‏يَا أَيُّهَا الَّذِينَ آمَنُوا لاَ يَحِلُّ لَكُمْ أَنْ تَرِثُوا النِّسَاءَ كَرْهًا وَلاَ تَعْضُلُوهُنَّ لِتَذْهَبُوا بِبَعْضِ مَا آتَيْتُمُوهُنَّ‏}‏ قَالَ كَانُوا إِذَا مَاتَ الرَّجُلُ كَانَ أَوْلِيَاؤُهُ أَحَقَّ بِامْرَأَتِهِ، إِنْ شَاءَ بَعْضُهُمْ تَزَوَّجَهَا، وَإِنْ شَاءُوا زَوَّجُوهَا، وَإِنْ شَاءُوا لَمْ يُزَوِّجُوهَا، فَهُمْ أَحَقُّ بِهَا مِنْ أَهْلِهَا، فَنَزَلَتْ هَذِهِ الآيَةُ فِي ذَلِكَ‏.‏",
+                "headingArabic": "‏{‏لاَ يَحِلُّ لَكُمْ أَنْ تَرِثُوا النِّسَاءَ كَرْهًا‏}‏ الآيَةَ",
+                "headingUrdu": "\"...تمہیں عورتوں کو ان کی مرضی کے خلاف وراثت دینے سے منع کیا گیا ہے، اور تمہیں ان کے ساتھ سختی سے پیش نہیں آنا چاہیے، تاکہ تم مہر کا کچھ حصہ واپس لے لو۔ انہیں دیا...\" (V.4:19)",
+                "headingEnglish": "\"...You are forbidden to inherit women against their will, and you should not treat them with harshness, that you may take back part of the Mahr (bridal money given by the husband to his wife at the time of marriage) you have given them...\" (V.4:19)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4359,
+                "hadithNumber": "4580",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "Regarding the Verse: \"To everyone, We have appointed heirs.\" (4.33) 'Mawali' means heirs. And regarding:-- \"And those to whom your right hands have pledged.\" When the Emigrants came to Medina, an Emigrant used to be the heir of an Ansari with the exclusion of the latter's relatives, and that was because of the bond of brotherhood which the Prophet (ﷺ) had established between them (i.e. the Emigrants and the Ansar). So when the Verses:-- \"To everyone We have appointed heirs.\" was revealed, (the inheritance through bond of brotherhood) was cancelled. Ibn `Abbas then said: \"And those to whom your right hands have pledged.\" is concerned with the covenant of helping and advising each other. So allies are no longer to be the heir of each other, but they can bequeath each other some of their property by means of a will. Abu Osamah has heard it from Idrees and he from Hadrat Talha.",
+                "hadithUrdu": "( آیت میں ) «ولكل جعلنا موالي‏» سے مراد وارث ہیں اور «والذين عاقدت أيمانكم‏» کی تفسیر یہ ہے کہ شروع میں جب مہاجرین مدینہ آئے تو قرابت داروں کے علاوہ انصار کے وارث مہاجرین بھی ہوتے تھے۔ اس بھائی چارہ کی وجہ سے جو نبی کریم صلی اللہ علیہ وسلم نے مہاجرین اور انصار کے درمیان کرایا تھا، پھر جب یہ آیت نازل ہوئی کہ «ولكل جعلنا موالي‏» تو پہلا طریقہ منسوخ ہو گیا پھر بیان کیا کہ «والذين عاقدت أيمانكم‏» سے وہ لوگ مراد ہیں، جن سے دوستی اور مدد اور خیر خواہی کی قسم کھا کر عہد کیا جائے۔ لیکن اب ان کے لیے میراث کا حکم منسوخ ہو گیا مگر وصیت کا حکم رہ گیا۔ اس اسناد میں ابواسامہ نے ادریس سے اور ادریس نے طلحہ بن مصرف سے سنا ہے۔",
+                "urduNarrator": "ہم سے صلت بن محمد نے بیان کیا، انہوں نے کہا ہم سے ابواسامہ نے بیان کیا، ان سے ادریس نے، ان سے طلحہ بن مصرف نے، ان سے سعید بن جبیر نے بیان کیا اور ان سے عبداللہ بن عباس رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي الصَّلْتُ بْنُ مُحَمَّدٍ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ إِدْرِيسَ، عَنْ طَلْحَةَ بْنِ مُصَرِّفٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاس ٍ ـ رضى الله عنهما ـ ‏{‏وَلِكُلٍّ جَعَلْنَا مَوَالِيَ‏}‏ قَالَ وَرَثَةً‏.‏ ‏{‏وَالَّذِينَ عَاقَدَتْ أَيْمَانُكُمْ‏}‏ كَانَ الْمُهَاجِرُونَ لَمَّا قَدِمُوا الْمَدِينَةَ يَرِثُ الْمُهَاجِرُ الأَنْصَارِيَّ دُونَ ذَوِي رَحِمِهِ لِلأُخُوَّةِ الَّتِي آخَى النَّبِيُّ صلى الله عليه وسلم بَيْنَهُمْ فَلَمَّا نَزَلَتْ ‏{‏وَلِكُلٍّ جَعَلْنَا مَوَالِيَ‏}‏ نُسِخَتْ، ثُمَّ قَالَ ‏{‏وَالَّذِينَ عَاقَدَتْ أَيْمَانُكُمْ ‏}‏ مِنَ النَّصْرِ، وَالرِّفَادَةِ وَالنَّصِيحَةِ، وَقَدْ ذَهَبَ الْمِيرَاثُ وَيُوصِي لَهُ‏.‏ سَمِعَ أَبُو أُسَامَةَ إِدْرِيسَ، وَسَمِعَ إِدْرِيسُ طَلْحَةَ‏.‏",
+                "headingArabic": "{‏وَلِكُلٍّ جَعَلْنَا مَوَالِيَ مِمَّا تَرَكَ الْوَالِدَانِ وَالأَقْرَبُونَ‏}‏ الآيَةَ",
+                "headingUrdu": "\"اور ہر ایک کے لیے، ہم نے والدین اور رشتہ داروں کے چھوڑے ہوئے (جائیداد) کے وارث مقرر کیے ہیں، جن کے ساتھ تم نے (بھائی کا) عہد کیا ہے، ان کو بھی ان کا حصہ دو۔ اللہ ہر چیز پر گواہ ہے۔\" (V.4:33)",
+                "headingEnglish": "\"And to everyone, We have appointed heirs of that (property) left by parents and relatives. To those, also, with whom you have made a pledge (brotherhood), give them their due portion [by Wasiya (wills)]. Truly, Allah is Ever a Witness over all things.\" (V.4:33)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4360,
+                "hadithNumber": "4581",
+                "englishNarrator": "Narrated Abu Sa`id Al-Khudri رضی اللہ عنہ :",
+                "hadithEnglish": "During the lifetime of the Prophet (ﷺ) some people said, : O Allah's Messenger (ﷺ)! Shall we see our Lord on the Day of Resurrection?\" The Prophet (ﷺ) said, \"Yes; do you have any difficulty in seeing the sun at midday when it is bright and there is no cloud in the sky?\" They replied, \"No.\" He said, \"Do you have any difficulty in seeing the moon on a full moon night when it is bright and there is no cloud in the sky?\" They replied, \"No.\" The Prophet (ﷺ) said, \"(Similarly) you will have no difficulty in seeing Allah on the Day of Resurrection as you have no difficulty in seeing either of them. On the Day of Resurrection, a call-maker will announce, \"Let every nation follow that which they used to worship.\" Then none of those who used to worship anything other than Allah like idols and other deities but will fall in Hell (Fire), till there will remain none but those who used to worship Allah, both those who were obedient (i.e. good) and those who were disobedient (i.e. bad) and the remaining party of the people of the Scripture. Then the Jews will be called upon and it will be said to them, 'Who do you use to worship?' They will say, 'We used to worship Ezra, the son of Allah.' It will be said to them, 'You are liars, for Allah has never taken anyone as a wife or a son. What do you want now?' They will say, 'O our Lord! We are thirsty, so give us something to drink.' They will be directed and addressed thus, 'Will you drink,' whereupon they will be gathered unto Hell (Fire) which will look like a mirage whose different sides will be destroying each other. Then they will fall into the Fire. Afterwards the Christians will be called upon and it will be said to them, 'Who do you use to worship?' They will say, 'We used to worship Jesus, the son of Allah.' It will be said to them, 'You are liars, for Allah has never taken anyone as a wife or a son,' Then it will be said to them, 'What do you want?' They will say what the former people have said. Then, when there remain (in the gathering) none but those who used to worship Allah (Alone, the real Lord of the Worlds) whether they were obedient or disobedient. Then (Allah) the Lord of the worlds will come to them in a shape nearest to the picture they had in their minds about Him. It will be said, 'What are you waiting for?' Every nation have followed what they used to worship.' They will reply, 'We left the people in the world when we were in great need of them and we did not take them as friends. Now we are waiting for our Lord Whom we used to worship.' Allah will say, 'I am your Lord.' They will say twice or thrice, 'We do not worship any besides Allah.' \"",
+                "hadithUrdu": "کچھ صحابہ رضی اللہ عنہم نے رسول اللہ صلی اللہ علیہ وسلم کے زمانہ میں آپ صلی اللہ علیہ وسلم سے پوچھا: یا رسول اللہ! کیا قیامت کے دن ہم اپنے رب کو دیکھ سکیں گے؟ آپ صلی اللہ علیہ وسلم نے فرمایا کہ ہاں، کیا سورج کو دوپہر کے وقت دیکھنے میں تمہیں کوئی دشواری ہوتی ہے، جبکہ اس پر بادل بھی نہ ہو؟ صحابہ رضی اللہ عنہم نے عرض کیا کہ نہیں۔ پھر آپ صلی اللہ علیہ وسلم نے فرمایا اور کیا چودھویں رات کے چاند کو دیکھنے میں تمہیں کچھ دشواری پیش آتی ہے، جبکہ اس پر بادل نہ ہو؟ صحابہ رضی اللہ عنہم نے عرض کیا کہ نہیں۔ پھر آپ صلی اللہ علیہ وسلم نے فرمایا کہ بس اسی طرح تم بلا کسی دقت اور رکاوٹ کے اللہ تعالیٰ کو دیکھو گے۔ قیامت کے دن ایک منادی ندا کرے گا کہ ہر امت اپنے جھوٹے معبودوں کے ساتھ حاضر ہو جائے۔ اس وقت اللہ کے سوا جتنے بھی بتوں اور پتھروں کی پوجا ہوتی تھی، سب کو جہنم میں جھونک دیا جائے گا۔ پھر جب وہی لوگ باقی رہ جائیں گے جو صرف اللہ کی پوجا کیا کرتے تھے، خواہ نیک ہوں یا گنہگار اور اہل کتاب کے کچھ لوگ، تو پہلے یہود کو بلایا جائے گا اور پوچھا جائے گا کہ تم ( اللہ کے سوا ) کس کی پوجا کرتے تھے؟ وہ عرض کریں گے کہ عزیر ابن اللہ کی، اللہ تعالیٰ ان سے فرمائے گا لیکن تم جھوٹے تھے، اللہ نے نہ کسی کو اپنی بیوی بنایا اور نہ بیٹا، اب تم کیا چاہتے ہو؟ وہ کہیں گے، ہمارے رب! ہم پیاسے ہیں، ہمیں پانی پلا دے۔ انہیں اشارہ کیا جائے گا کہ کیا ادھر نہیں چلتے۔ چنانچہ سب کو جہنم کی طرف لے جایا جائے گا۔ وہاں چمکتی ریت پانی کی طرح نظر آئے گی، بعض بعض کے ٹکڑے کئے دے رہی ہو گی۔ پھر سب کو آگ میں ڈال دیا جائے گا۔ پھر نصاریٰ کو بلایا جائے گا اور ان سے پوچھا جائے گا کہ تم کس کی عبادت کیا کرتے تھے؟ وہ کہیں گے کہ ہم مسیح ابن اللہ کی عبادت کرتے تھے۔ ان سے بھی کہا جائے گا کہ تم جھوٹے تھے۔ اللہ نے کسی کو بیوی اور بیٹا نہیں بنایا، پھر ان سے پوچھا جائے گا کہ کیا چاہتے ہو؟ اور ان کے ساتھ یہودیوں کی طرح برتاؤ کیا جائے گا۔ یہاں تک کہ جب ان لوگوں کے سوا اور کوئی باقی نہ رہے گا جو صرف اللہ کی عبادت کرتے تھے، خواہ وہ نیک ہوں یا گنہگار، تو ان کے پاس ان کا رب ایک صورت میں جلوہ گر ہو گا، جو پہلی صورت سے جس کو وہ دیکھ چکے ہوں گے، ملتی جلتی ہو گی ( یہ وہ صورت نہ ہو گی ) اب ان سے کہا جائے گا۔ اب تمہیں کس کا انتظار ہے؟ ہر امت اپنے معبودوں کو ساتھ لے کر جا چکی، وہ جواب دیں گے کہ ہم دنیا میں جب لوگوں سے ( جنہوں نے کفر کیا تھا ) جدا ہوئے تو ہم ان میں سب سے زیادہ محتاج تھے، پھر بھی ہم نے ان کا ساتھ نہیں دیا اور اب ہمیں اپنے سچے رب کا انتظار ہے جس کی ہم دنیا میں عبادت کرتے رہے۔ اللہ تعالیٰ فرمائے گا کہ تمہارا رب میں ہی ہوں۔ اس پر تمام مسلمان بول اٹھیں گے کہ ہم اپنے رب کے ساتھ کسی کو شریک نہیں ٹھہراتے، دو یا تین مرتبہ یوں کہیں گے ہم اللہ کے ساتھ کسی کو شریک کرنے والے نہیں ہیں۔",
+                "urduNarrator": "مجھ سے محمد بن عبدالعزیز نے بیان کیا، کہا ہم سے ابوعمر حفص بن میسرہ نے بیان کیا، ان سے زید بن اسلم نے، ان سے عطاء بن یسار نے اور ان سے ابو سعید خدری رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدُ بْنُ عَبْدِ الْعَزِيزِ، حَدَّثَنَا أَبُو عُمَرَ، حَفْصُ بْنُ مَيْسَرَةَ عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ ـ رضى الله عنه ـ أَنَّ أُنَاسًا فِي زَمَنِ النَّبِيِّ صلى الله عليه وسلم قَالُوا يَا رَسُولَ اللَّهِ، هَلْ نَرَى رَبَّنَا يَوْمَ الْقِيَامَةِ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ نَعَمْ، هَلْ تُضَارُّونَ فِي رُؤْيَةِ الشَّمْسِ بِالظَّهِيرَةِ، ضَوْءٌ لَيْسَ فِيهَا سَحَابٌ ‏\"‏‏.‏ قَالُوا لاَ‏.‏ قَالَ ‏\"‏ وَهَلْ تُضَارُّونَ فِي رُؤْيَةِ الْقَمَرِ لَيْلَةَ الْبَدْرِ، ضَوْءٌ لَيْسَ فِيهَا سَحَابٌ ‏\"‏‏.‏ قَالُوا لاَ‏.‏ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ مَا تُضَارُّونَ فِي رُؤْيَةِ اللَّهِ عَزَّ وَجَلَّ يَوْمَ الْقِيَامَةِ، إِلاَّ كَمَا تُضَارُّونَ فِي رُؤْيَةِ أَحَدِهِمَا، إِذَا كَانَ يَوْمُ الْقِيَامَةِ أَذَّنَ مُؤَذِّنٌ تَتْبَعُ كُلُّ أُمَّةٍ مَا كَانَتْ تَعْبُدُ‏.‏ فَلاَ يَبْقَى مَنْ كَانَ يَعْبُدُ غَيْرَ اللَّهِ مِنَ الأَصْنَامِ وَالأَنْصَابِ إِلاَّ يَتَسَاقَطُونَ فِي النَّارِ، حَتَّى إِذَا لَمْ يَبْقَ إِلاَّ مَنْ كَانَ يَعْبُدُ اللَّهَ، بَرٌّ أَوْ فَاجِرٌ وَغُبَّرَاتُ أَهْلِ الْكِتَابِ، فَيُدْعَى الْيَهُودُ فَيُقَالُ لَهُمْ مَنْ كُنْتُمْ تَعْبُدُونَ قَالُوا كُنَّا نَعْبُدُ عُزَيْرَ ابْنَ اللَّهِ‏.‏ فَيُقَالُ لَهُمْ كَذَبْتُمْ، مَا اتَّخَذَ اللَّهُ مِنْ صَاحِبَةٍ وَلاَ وَلَدٍ، فَمَاذَا تَبْغُونَ فَقَالُوا عَطِشْنَا رَبَّنَا فَاسْقِنَا‏.‏ فَيُشَارُ أَلاَ تَرِدُونَ، فَيُحْشَرُونَ إِلَى النَّارِ كَأَنَّهَا سَرَابٌ، يَحْطِمُ بَعْضُهَا بَعْضًا فَيَتَسَاقَطُونَ فِي النَّارِ، ثُمَّ يُدْعَى النَّصَارَى، فَيُقَالُ لَهُمْ مَنْ كُنْتُمْ تَعْبُدُونَ قَالُوا كُنَّا نَعْبُدُ الْمَسِيحَ ابْنَ اللَّهِ‏.‏ فَيُقَالُ لَهُمْ كَذَبْتُمْ، مَا اتَّخَذَ اللَّهُ مِنْ صَاحِبَةٍ وَلاَ وَلَدٍ‏.‏ فَيُقَالُ لَهُمْ مَاذَا تَبْغُونَ فَكَذَلِكَ مِثْلَ الأَوَّلِ، حَتَّى إِذَا لَمْ يَبْقَ إِلاَّ مَنْ كَانَ يَعْبُدُ اللَّهَ مِنْ بَرٍّ أَوْ فَاجِرٍ، أَتَاهُمْ رَبُّ الْعَالَمِينَ فِي أَدْنَى صُورَةٍ مِنَ الَّتِي رَأَوْهُ فِيهَا، فَيُقَالُ مَاذَا تَنْتَظِرُونَ تَتْبَعُ كُلُّ أُمَّةٍ مَا كَانَتْ تَعْبُدُ‏.‏ قَالُوا فَارَقْنَا النَّاسَ فِي الدُّنْيَا عَلَى أَفْقَرِ مَا كُنَّا إِلَيْهِمْ، وَلَمْ نُصَاحِبْهُمْ، وَنَحْنُ نَنْتَظِرُ رَبَّنَا الَّذِي كُنَّا نَعْبُدُ‏.‏ فَيَقُولُ أَنَا رَبُّكُمْ، فَيَقُولُونَ لاَ نُشْرِكُ بِاللَّهِ شَيْئًا‏.‏ مَرَّتَيْنِ أَوْ ثَلاَثًا ‏\"‏‏.‏",
+                "headingArabic": "‏{‏إِنَّ اللَّهَ لاَ يَظْلِمُ مِثْقَالَ ذَرَّةٍ‏}‏ يَعْنِي زِنَةَ ذَرَّةٍ",
+                "headingUrdu": "\"بے شک اللہ ذرہ برابر بھی ظلم نہیں کرتا\" (4:40)",
+                "headingEnglish": "\"Surely! Allah wrongs not even of the weight of an atom (or a small ant)...\" (V.4:40)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4361,
+                "hadithNumber": "4582",
+                "englishNarrator": "Narrated `Abdullah bin Masud رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said to me, \"Recite (of the Qur'an) for me,\" I said, \"Shall I recite it to you although it had been revealed to you?\" He said, \"I like to hear (the Qur'an) from others.\" So I recited Surat-an- Nisa' till I reached: \"How (will it be) then when We bring from each nation a witness, and We bring you (O Muhammad) as a witness against these people?\" (4.41) Then he said, \"Stop!\" And behold, his eyes were overflowing with tears.\"",
+                "hadithUrdu": "مجھ سے نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ مجھے قرآن پڑھ کر سناؤ۔ میں نے عرض کیا، نبی صلی اللہ علیہ وسلم کو میں پڑھ کے سناؤں؟ وہ تو آپ صلی اللہ علیہ وسلم پر ہی نازل ہوتا ہے۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ میں دوسرے سے سننا چاہتا ہوں۔ چنانچہ میں نے آپ کو سورۃ نساء سنانی شروع کی، جب میں «فكيف إذا جئنا من كل أمة بشهيد وجئنا بك على هؤلاء شهيدا‏» پر پہنچا تو آپ صلی اللہ علیہ وسلم نے فرمایا کہ ٹھہر جاؤ۔ میں نے دیکھا تو آپ صلی اللہ علیہ وسلم کی آنکھوں سے آنسو بہہ رہے تھے۔",
+                "urduNarrator": "ہم سے صدقہ بن فضل نے بیان کیا، کہا ہم کو یحییٰ بن سعید قطان نے خبر دی، انہیں سفیان ثوری نے، انہیں سلیمان نے، انہیں ابراہیم نے، انہیں عبیدہ نے اور انہیں عبداللہ بن مسعود رضی اللہ عنہ نے، یحییٰ نے بیان کیا کہ حدیث کا کچھ حصہ عمرو بن مرہ سے ہے ( بواسطہ ابراہیم ) کہ عبداللہ بن مسعود رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا صَدَقَةُ، أَخْبَرَنَا يَحْيَى، عَنْ سُفْيَانَ، عَنْ سُلَيْمَانَ، عَنْ إِبْرَاهِيمَ، عَنْ عَبِيدَةَ، عَنْ عَبْدِ اللَّهِ، قَالَ يَحْيَى بَعْضُ الْحَدِيثِ عَنْ عَمْرِو بْنِ مُرَّةَ، قَالَ قَالَ لِي النَّبِيُّ صلى الله عليه وسلم ‏\"‏ اقْرَأْ عَلَىَّ ‏\"‏‏.‏ قُلْتُ آقْرَأُ عَلَيْكَ وَعَلَيْكَ أُنْزِلَ قَالَ ‏\"‏ فَإِنِّي أُحِبُّ أَنْ أَسْمَعَهُ مِنْ غَيْرِي ‏\"‏‏.‏ فَقَرَأْتُ عَلَيْهِ سُورَةَ النِّسَاءِ حَتَّى بَلَغْتُ ‏{‏فَكَيْفَ إِذَا جِئْنَا مِنْ كُلِّ أُمَّةٍ بِشَهِيدٍ وَجِئْنَا بِكَ عَلَى هَؤُلاَءِ شَهِيدًا‏}‏ قَالَ ‏\"‏ أَمْسِكْ ‏\"‏‏.‏ فَإِذَا عَيْنَاهُ تَذْرِفَانِ‏.‏",
+                "headingArabic": "‏{‏فَكَيْفَ إِذَا جِئْنَا مِنْ كُلِّ أُمَّةٍ بِشَهِيدٍ وَجِئْنَا بِكَ عَلَى هَؤُلاَءِ شَهِيدًا‏}‏",
+                "headingUrdu": "پھر کیا حال ہوگا جب ہم ہر امت میں سے ایک گواہ لائیں گے اور آپ کو ان لوگوں پر گواہ بنا کر لائیں گے؟ (V.4:41)",
+                "headingEnglish": "\"How (will it be) then when We bring from each nation a witness and We bring you (O Muhammad) as a witness against these people?\" (V.4:41)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4362,
+                "hadithNumber": "4583",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "The necklace of Asma' رضی اللہ عنہا was lost, so the Prophet (ﷺ) sent some men to look for it. The time for the prayer became due and they had not performed ablution and could not find water, so they offered the prayer without ablution. Then Allah revealed (the Verse of Tayammum).",
+                "hadithUrdu": "( مجھ سے ) اسماء رضی اللہ عنہا کا ایک ہار گم ہو گیا تو رسول اللہ صلی اللہ علیہ وسلم نے چند صحابہ رضی اللہ عنہم کو اسے تلاش کرنے کے لیے بھیجا۔ ادھر نماز کا وقت ہو گیا، نہ لوگ وضو سے تھے اور نہ پانی موجود تھا۔ اس لیے وضو کے بغیر نماز پڑھی گئی اس پر اللہ تعالیٰ نے تیمم کی آیت نازل کی۔",
+                "urduNarrator": "ہم سے محمد بن سلام بیکندی نے بیان کیا، کہا ہم کو عبدہ بن سلیمان نے خبر دی، انہیں ہشام بن عروہ نے، انہیں ان کے والد نے اور ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدٌ، أَخْبَرَنَا عَبْدَةُ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ هَلَكَتْ قِلاَدَةٌ لأَسْمَاءَ فَبَعَثَ النَّبِيُّ صلى الله عليه وسلم فِي طَلَبِهَا، رِجَالاً فَحَضَرَتِ الصَّلاَةُ وَلَيْسُوا عَلَى وُضُوءٍ‏.‏ وَلَمْ يَجِدُوا مَاءً، فَصَلَّوْا وَهُمْ عَلَى غَيْرِ وُضُوءٍ، فَأَنْزَلَ اللَّهُ‏.‏ يَعْنِي آيَةَ التَّيَمُّمِ‏.‏",
+                "headingArabic": "قَوْلِهِ ‏{‏وَإِنْ كُنْتُمْ مَرْضَى أَوْ عَلَى سَفَرٍ أَوْ جَاءَ أَحَدٌ مِنْكُمْ مِنَ الْغَائِطِ‏}‏",
+                "headingUrdu": "\"...اور اگر تم بیمار ہو، یا سفر پر ہو، یا تم میں سے کوئی فطرت کی پکار کا جواب دینے کے بعد آئے...\" (V.4:43)",
+                "headingEnglish": "\"...And if you are ill, or on a journey, or one of you comes after answering the call of nature...\" (V.4:43)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4363,
+                "hadithNumber": "4584",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "The Verse: \"Obey Allah and Obey the Apostle and those of you (Muslims) who are in authority.\" (4.59) was revealed in connection with `Abdullah bin Hudhafa bin Qais bin `Adi' رضی اللہ عنہما when the Prophet (ﷺ) appointed him as the commander of a Sariyya (army detachment).",
+                "hadithUrdu": "آیت «أطيعوا الله وأطيعوا الرسول وأولي الأمر منكم‏» ”اللہ کی اطاعت کرو اور رسول ( صلی اللہ علیہ وسلم ) کی اور اپنے میں سے حاکموں کی۔“ عبداللہ بن حذافہ بن قیس بن عدی رضی اللہ عنہ کے بارے میں نازل ہوئی تھی۔ جب رسول اللہ صلی اللہ علیہ وسلم نے انہیں ایک مہم پر بطور افسر کے روانہ کیا تھا۔",
+                "urduNarrator": "ہم سے صدقہ بن فضل نے بیان کیا، انہوں نے کہا ہم کو حجاج بن محمد نے خبر دی، انہیں ابن جریج نے، انہیں یعلیٰ بن مسلم نے، انہیں سعید بن جبیر نے اور ان سے عبداللہ بن عباس رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا صَدَقَةُ بْنُ الْفَضْلِ، أَخْبَرَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، عَنِ ابْنِ جُرَيْجٍ، عَنْ يَعْلَى بْنِ مُسْلِمٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ ‏{‏أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الأَمْرِ مِنْكُمْ‏}‏‏.‏ قَالَ نَزَلَتْ فِي عَبْدِ اللَّهِ بْنِ حُذَافَةَ بْنِ قَيْسِ بْنِ عَدِيٍّ، إِذْ بَعَثَهُ النَّبِيُّ صلى الله عليه وسلم فِي سَرِيَّةٍ‏.‏",
+                "headingArabic": "‏{‏أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنكُمْ}‏ ذَوِي الأَمْرِ",
+                "headingUrdu": "\"اللہ کی اطاعت کرو اور رسول (محمد صلی اللہ علیہ وسلم) کی اطاعت کرو اور تم میں سے ان (مسلمانوں) کی جو حاکم ہیں...\" (آیت 4:59)",
+                "headingEnglish": "\"Obey Allah and obey the Messenger (Muhammad ﷺ ) and those of you (Muslims) who are in authority...\" (V.4:59)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4364,
+                "hadithNumber": "4585",
+                "englishNarrator": "Narrated `Urwa:",
+                "hadithEnglish": "Az-Zubair رضی اللہ عنہ quarrelled with a man from the Ansar because of a natural mountainous stream at Al-Harra. The Prophet (ﷺ) said \"O Zubair! Irrigate (your lands and the let the water flow to your neighbor The Ansar said, \"O Allah's Messenger (ﷺ) (This is because) he (Zubair رضی اللہ عنہ ) is your cousin?\" At that, the Prophet's face became red (with anger) and he said \"O Zubair! Irrigate (your land) and then withhold the water till it fills the land up to the walls and then let it flow to your neighbor.\" So the Prophet (ﷺ) enabled Az- Zubair رضی اللہ عنہ to take his full right after the Ansari provoked his anger. The Prophet (ﷺ) had previously given a order that was in favor of both of them Az-Zubair رضی اللہ عنہ said, \"I don't think but the Verse was revealed in this connection: \"But no, by your Lord, they can have no faith, until they make you judge in all disputes between them.\" (4.65)",
+                "hadithUrdu": "زبیر رضی اللہ عنہ کا ایک انصاری صحابی سے مقام حرہ کی ایک نالی کے بارے میں جھگڑا ہو گیا ( کہ اس سے کون اپنے باغ کو پہلے سینچنے کا حق رکھتا ہے ) نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ زبیر! پہلے تم اپنے باغ سینچ لو پھر اپنے پڑوسی کو جلد پانی دے دینا۔ اس پر اس انصاری صحابی نے کہا: یا رسول اللہ! اس لیے کہ یہ آپ کے پھوپھی زاد بھائی ہیں؟ یہ سن کر نبی کریم صلی اللہ علیہ وسلم کے چہرہ مبارک کا رنگ بدل گیا اور آپ صلی اللہ علیہ وسلم نے فرمایا: زبیر! اپنے باغ کو سینچو اور پانی اس وقت تک روکے رکھو کہ منڈیر تک بھر جائے، پھر اپنے پڑوسی کے لیے اسے چھوڑو۔ ( پہلے نبی کریم صلی اللہ علیہ وسلم نے انصاری کے ساتھ اپنے فیصلے میں رعایت رکھی تھی ) لیکن اس مرتبہ آپ صلی اللہ علیہ وسلم نے زبیر رضی اللہ عنہ کو صاف طور پر ان کا پورا حق دے دیا کیونکہ انصاری نے ایسی بات کہی تھی۔ جس سے آپ کا غصہ ہونا قدرتی تھا۔ آپ صلی اللہ علیہ وسلم نے اپنے پہلے فیصلہ میں دونوں کے لیے رعایت رکھی تھی۔ زبیر رضی اللہ عنہ نے بیان کیا کہ میرا خیال ہے، یہ آیات اسی سلسلے میں نازل ہوئی تھیں «فلا وربك لا يؤمنون حتى يحكموك فيما شجر بينهم‏» ”تیرے پروردگار کی قسم ہے کہ یہ لوگ ایماندار نہ ہوں گے جب تک یہ اس جھگڑے میں جو ان کے آپس میں ہوں آپ کو حکم نہ بنا لیں اور آپ کے فیصلے کو کھلے دل کے ساتھ برضا و رغبت تسلیم کرنے کے لیے تیار نہ ہوں۔“",
+                "urduNarrator": "ہم سے علی بن عبداللہ مدینی نے بیان کیا، کہا ہم سے محمد بن جعفر نے بیان کیا، کہا ہم کو معمر نے خبر دی، انہیں زہری نے اور ان سے عروہ بن زبیر نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، قَالَ خَاصَمَ الزُّبَيْرُ رَجُلاً مِنَ الأَنْصَارِ فِي شَرِيجٍ مِنَ الْحَرَّةِ، فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ اسْقِ يَا زُبَيْرُ ثُمَّ أَرْسِلِ الْمَاءَ إِلَى جَارِكَ ‏\"‏‏.‏ فَقَالَ الأَنْصَارِيُّ يَا رَسُولَ اللَّهِ أَنْ كَانَ ابْنَ عَمَّتِكَ فَتَلَوَّنَ وَجْهُهُ ثُمَّ قَالَ ‏\"‏ اسْقِ يَا زُبَيْرُ ثُمَّ احْبِسِ الْمَاءَ حَتَّى يَرْجِعَ إِلَى الْجَدْرِ، ثُمَّ أَرْسِلِ الْمَاءَ إِلَى جَارِكَ ‏\"‏‏.‏ وَاسْتَوْعَى النَّبِيُّ صلى الله عليه وسلم لِلزُّبَيْرِ حَقَّهُ فِي صَرِيحِ الْحُكْمِ حِينَ أَحْفَظَهُ الأَنْصَارِيُّ، كَانَ أَشَارَ عَلَيْهِمَا بِأَمْرٍ لَهُمَا فِيهِ سَعَةٌ‏.‏ قَالَ الزُّبَيْرُ فَمَا أَحْسِبُ هَذِهِ الآيَاتِ إِلاَّ نَزَلَتْ فِي ذَلِكَ ‏{‏فَلاَ وَرَبِّكَ لاَ يُؤْمِنُونَ حَتَّى يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ‏}‏",
+                "headingArabic": "‏{‏فَلاَ وَرَبِّكَ لاَ يُؤْمِنُونَ حَتَّى يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ‏}‏",
+                "headingUrdu": "\"لیکن نہیں، آپ کے رب کی قسم، وہ اس وقت تک ایمان نہیں لا سکتے جب تک کہ وہ آپ (محمد صلی اللہ علیہ وسلم) کو اپنے آپس کے تمام جھگڑوں میں فیصلہ کرنے والا نہ بنائیں...\" (آیت 4:65)",
+                "headingEnglish": "\"But no, by your Lord, they can have no Faith, until they make you (Muhammad ﷺ ) judge in all disputes between them...\" (V.4:65)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4365,
+                "hadithNumber": "4586",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "I heard Allah's Messenger (ﷺ) saying, \"No prophet gets sick but he is given the choice to select either this world or the Hereafter.\" `Aisha added: During his fatal illness, his voice became very husky and I heard him saying: \"In the company of those whom is the Grace of Allah, of the prophets, the Siddiqin (those followers of the prophets who were first and foremost to believe in them), the martyrs and the pious.' (4.69) And from this I came to know that he has been given the option.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا تھا، آپ صلی اللہ علیہ وسلم نے فرمایا کہ جو نبی مرض الموت میں بیمار ہوتا ہے تو اسے دنیا اور آخرت کا اختیار دیا جاتا ہے۔ چنانچہ نبی کریم صلی اللہ علیہ وسلم کی مرض الموت میں جب آواز گلے میں پھنسنے لگی تو میں نے سنا کہ آپ صلی اللہ علیہ وسلم فرما رہے تھے «مع الذين أنعم الله عليهم من النبيين والصديقين والشهداء والصالحين‏» ”ان لوگوں کے ساتھ جن پر اللہ نے انعام کیا ہے یعنی انبیاء، صدیقین، شہداء اور صالحین کے ساتھ۔“ اس لیے میں سمجھ گئی کہ آپ کو بھی اختیار دیا گیا ہے ( اور آپ صلی اللہ علیہ وسلم نے «اللهم بالرفيق الاعلي» کہہ کر آخرت کو پسند فرمایا ) ۔",
+                "urduNarrator": "ہم سے محمد بن عبداللہ بن حوشب نے بیان کیا، کہا ہم سے ابراہیم بن سعد نے بیان کیا، ان سے ان کے والد نے، ان سے عروہ نے اور ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ حَوْشَبٍ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنْ أَبِيهِ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ مَا مِنْ نَبِيٍّ يَمْرَضُ إِلاَّ خُيِّرَ بَيْنَ الدُّنْيَا وَالآخِرَةِ ‏\"‏‏.‏ وَكَانَ فِي شَكْوَاهُ الَّذِي قُبِضَ فِيهِ أَخَذَتْهُ بُحَّةٌ شَدِيدَةٌ فَسَمِعْتُهُ يَقُولُ ‏{‏مَعَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِمْ مِنَ النَّبِيِّينَ وَالصِّدِّيقِينَ وَالشُّهَدَاءِ وَالصَّالِحِينَ‏}‏ فَعَلِمْتُ أَنَّهُ خُيِّرَ‏.‏",
+                "headingArabic": "‏{‏فَأُولَئِكَ مَعَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِمْ مِنَ النَّبِيِّينَ‏}‏",
+                "headingUrdu": "\"...پھر وہ ان لوگوں کی صحبت میں ہوں گے جن پر اللہ نے اپنا فضل کیا ہے، انبیاء کی...\" (V.4:69)",
+                "headingEnglish": "\"...Then they will be in the company of those on whom Allah has bestowed His Grace, of the Prophets...\" (V.4:69)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4366,
+                "hadithNumber": "4587",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "My mother and I were among the weak and oppressed (Muslims at Mecca).",
+                "hadithUrdu": "میں اور میری والدہ «مستضعفين‏» ( کمزوروں ) میں سے تھے۔",
+                "urduNarrator": "ہم سے عبداللہ بن محمد نے بیان کیا، کہا ہم سے سفیان نے بیان کیا، ان سے عبیداللہ نے بیان کیا کہ میں نے ابن عباس رضی اللہ عنہما سے سنا، انہوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا سُفْيَانُ، عَنْ عُبَيْدِ اللَّهِ، قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ، قَالَ كُنْتُ أَنَا وَأُمِّي، مِنَ الْمُسْتَضْعَفِينَ‏.‏",
+                "headingArabic": "قَوْلُهُ ‏{‏وَمَا لَكُمْ لاَ تُقَاتِلُونَ فِي سَبِيلِ اللَّهِ‏}‏ إِلَى ‏{‏الظَّالِمِ أَهْلُهَا‏}‏",
+                "headingUrdu": "اللہ تعالیٰ کا فرمان ہے \"اور تمہیں کیا ہو گیا ہے کہ تم اللہ کی راہ میں نہیں لڑتے... (یہاں تک) کہ جس کے لوگ ظالم ہوں...\" (آیت 4:75)",
+                "headingEnglish": "Allah's Statement \"And what is wrong with you that you fight not in the Cause of Allah... (till) ... whose people are oppressors...\" (V.4:75)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4367,
+                "hadithNumber": "4588",
+                "englishNarrator": "Narrated Ibn Abi Mulaika:",
+                "hadithEnglish": "Ibn `Abbas رضی اللہ عنہما recited:-- \"Except the weak ones among men women and children,\" (4.98) and said, \"My mother and I were among those whom Allah had excused.\" Ibn-e-Abbas رضی اللہ عنہما says ''حصرت'' means straitened. ''تلووا‏'' means the place where one emigrates. ''راغمت''  means I have forsaken my people. ''موقوتا‏'' means: A fixed time.",
+                "hadithUrdu": "کہ ابن عباس رضی اللہ عنہما نے آیت «لا المستضعفين من الرجال والنساء والولدان‏» کی تلاوت کی اور فرمایا کہ میں اور میری والدہ بھی ان لوگوں میں سے تھیں، جنہیں اللہ تعالیٰ نے معذور رکھا تھا۔ اور ابن عباس رضی اللہ عنہما سے روایت ہے کہ «حصرت‏» معنی میں «ضاقت» کے ہے۔ «تلووا‏» یعنی تمہاری زبانوں سے گواہی ادا ہو گی۔ اور ابن عباس رضی اللہ عنہما کے سوا دوسرے شخص ( ابوعبیدہ رضی اللہ عنہ ) نے کہا «مراغم» کا معنی ہجرت کا مقام۔ عرب لوگ کہتے ہیں «راغمت قومي‏.‏» یعنی میں نے اپنی قوم والوں کو جمع کر دیا۔ «موقوتا‏» کے معنی ایک وقت مقررہ پر یعنی جو وقت ان کے لیے مقرر ہو۔",
+                "urduNarrator": "ہم سے سلیمان بن حرب نے بیان کیا، کہا ہم سے حماد بن زید نے بیان کیا، ان سے ایوب نے، ان سے ابن ابی ملیکہ نے",
+                "hadithArabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، أَنَّ ابْنَ عَبَّاسٍ، تَلاَ ‏{‏ِلاَّ الْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ‏}‏ قَالَ كُنْتُ أَنَا وَأُمِّي مِمَّنْ عَذَرَ اللَّهُ‏.‏ وَيُذْكَرُ عَنِ ابْنِ عَبَّاسٍ ‏{‏حَصِرَتْ‏}‏ ضَاقَتْ ‏{‏تَلْوُوا‏}‏ أَلْسِنَتَكُمْ بِالشَّهَادَةِ‏.‏ وَقَالَ غَيْرُهُ الْمُرَاغَمُ الْمُهَاجَرُ‏.‏ رَاغَمْتُ هَاجَرْتُ قَوْمِي‏.‏ ‏{‏مَوْقُوتًا‏}‏ مُوَقَّتًا وَقْتَهُ عَلَيْهِمْ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4368,
+                "hadithNumber": "4589",
+                "englishNarrator": "Narrated Zaid bin Thabit رضی اللہ عنہ :",
+                "hadithEnglish": "Regarding the Verse:-- \"Then what is the matter with you that you are divided into two parties about the hypocrites?\" (4.88) Some of the companions of the Prophet (ﷺ) returned from the battle of Uhud (i.e. refused to fight) whereupon the Muslims got divided into two parties; one of them was in favor of their execution and the other was not in favour of it. So there ware revealed: \"Then what is the matter with you that you are divided into two parties about the hypocrites?\" (4.88). Then the Prophet (ﷺ) said \"It (i.e. Medina) is a Tayyaboh (good), it expels impurities as the fire expels the impurities of silver.\"",
+                "hadithUrdu": "آیت «فما لكم في المنافقين فئتين‏» ”اور تمہیں کیا ہو گیا ہے کہ تم منافقین کے بارے میں دو فریق ہو گئے ہو۔“ کے بارے میں فرمایا کہ کچھ لوگ منافقین جو ( اوپر سے ) نبی کریم صلی اللہ علیہ وسلم کے ساتھ تھے، جنگ احد میں ( آپ چھوڑ کر ) واپس چلے آئے تو ان کے بارے میں مسلمانوں کی دو جماعتیں ہو گئیں۔ ایک جماعت تو یہ کہتی تھی کہ ( یا رسول اللہ! ) ان ( منافقین ) سے قتال کیجئے اور ایک جماعت یہ کہتی تھی کہ ان سے قتال نہ کیجئے۔ اس پر یہ آیت اتری «فما لكم في المنافقين فئتين‏» کہ ”تمہیں کیا ہو گیا ہے کہ تم منافقین کے بارے میں دو گروہ ہو گئے ہو۔“ اور نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ یہ مدینہ «طيبة» ہے۔ یہ خباثت کو اس طرح دور کر دیتا ہے جیسے آگ چاندی کی میل کچیل کو دور کر دیتی ہے۔",
+                "urduNarrator": "مجھ سے محمد بن بشار نے بیان کیا، کہا ہم سے غندر اور عبدالرحمٰن نے بیان کیا، کہا کہ ہم سے شعبہ نے بیان کیا، ان سے عدی نے، ان سے عبداللہ بن یزید نے اور ان سے زید بن ثابت رضی اللہ عنہ نے",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، وَعَبْدُ الرَّحْمَنِ، قَالاَ حَدَّثَنَا شُعْبَةُ، عَنْ عَدِيٍّ، عَنْ عَبْدِ اللَّهِ بْنِ يَزِيدَ، عَنْ زَيْدِ بْنِ ثَابِت ٍ ـ رضى الله عنه ـ ‏{‏فَمَا لَكُمْ فِي الْمُنَافِقِينَ فِئَتَيْنِ‏}‏ رَجَعَ نَاسٌ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم مِنْ أُحُدٍ، وَكَانَ النَّاسُ فِيهِمْ فِرْقَتَيْنِ فَرِيقٌ يَقُولُ اقْتُلْهُمْ‏.‏ وَفَرِيقٌ يَقُولُ لاَ فَنَزَلَتْ ‏{‏فَمَا لَكُمْ فِي الْمُنَافِقِينَ فِئَتَيْنِ‏}‏ وَقَالَ ‏\"‏ إِنَّهَا طَيْبَةُ تَنْفِي الْخَبَثَ كَمَا تَنْفِي النَّارُ خَبَثَ الْفِضَّةِ ‏\"‏‏.‏",
+                "headingArabic": "‏{‏فَمَا لَكُمْ فِي الْمُنَافِقِينَ فِئَتَيْنِ وَاللَّهُ أَرْكَسَهُمْ‏}‏",
+                "headingUrdu": "\"پھر تمہیں کیا ہو گیا ہے کہ تم منافقوں کے بارے میں دو گروہوں میں بٹ گئے ہو، اللہ نے ان کو ان کی کمائی کی وجہ سے (کفر کی طرف) پھیر دیا ہے\" (4:88)",
+                "headingEnglish": "\"Then what is the matter with you that you are divided into two parties about the hypocrites? Allah has cast them back (to disbelief) because of what they have earned...\" (V.4:88)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4369,
+                "hadithNumber": "4590",
+                "englishNarrator": "Narrated Sa`id bin Jubair:",
+                "hadithEnglish": "The people of Kufa disagreed (disputed) about the above Verse. So I went to Ibn `Abbas رضی اللہ عنہما and asked him about it. He said, \"This Verse:-- \"And whoever kills a believer intentionally, his recompense is Hell.\" was revealed last of all (concerning premeditated murder) and nothing abrogated it.\"",
+                "hadithUrdu": "علماء کوفہ کا اس آیت کے بارے میں اختلاف ہو گیا تھا۔ چنانچہ میں ابن عباس رضی اللہ عنہما کی خدمت میں اس کے لیے سفر کر کے گیا اور ان سے اس کے متعلق پوچھا۔ انہوں نے فرمایا کہ یہ آیت «ومن يقتل مؤمنا متعمدا فجزاؤه جهنم‏» ”اور جو کوئی مسلمان کو جان بوجھ کر قتل کرے اس کی سزا دوزخ ہے۔“ نازل ہوئی اور اس باب کی یہ سب سے آخری آیت ہے اسے کسی آیت نے منسوخ نہیں کیا ہے۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا، کہا ہم سے شعبہ نے بیان کیا، کہا ہم سے مغیرہ بن نعمان نے بیان کیا، کہا میں نے سعید بن جبیر سے سنا، انہوں نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ بْنُ أَبِي إِيَاسٍ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا مُغِيرَةُ بْنُ النُّعْمَانِ، قَالَ سَمِعْتُ سَعِيدَ بْنَ جُبَيْرٍ، قَالَ ‏{‏آيَةٌ‏}‏ اخْتَلَفَ فِيهَا أَهْلُ الْكُوفَةِ، فَرَحَلْتُ فِيهَا إِلَى ابْنِ عَبَّاسٍ فَسَأَلْتُهُ عَنْهَا فَقَالَ نَزَلَتْ هَذِهِ الآيَةُ ‏{‏وَمَنْ يَقْتُلْ مُؤْمِنًا مُتَعَمِّدًا فَجَزَاؤُهُ جَهَنَّمُ‏}‏ هِيَ آخِرُ مَا نَزَلَ وَمَا نَسَخَهَا شَىْءٌ‏.‏",
+                "headingArabic": "‏{‏وَمَنْ يَقْتُلْ مُؤْمِنًا مُتَعَمِّدًا فَجَزَاؤُهُ جَهَنَّمُ‏}‏",
+                "headingUrdu": "’’اور جو شخص کسی مومن کو جان بوجھ کر قتل کرتا ہے اس کی سزا جہنم ہے‘‘ (آیت 4:93)",
+                "headingEnglish": "\"And whoever kills a believer intentionally, his recompense is Hell...\" (V.4:93)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4370,
+                "hadithNumber": "4591",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "Regarding the Verse: \"And say not to anyone who offers you peace (by accepting Islam), You are not a believer.\" There was a man amidst his goats. The Muslims pursued him, and he said (to them) \"Peace be on you.\" But they killed him and took over his goats. Thereupon Allah revealed in that concern, the above Verse up to:-- \"...seeking the perishable good of this life.\" (4.94) i.e. those goats. Hadrat Ibn-e-Abbas رضی اللہ عنہما reads ''السلام‏'' in the verse.",
+                "hadithUrdu": "آیت «ولا تقولوا لمن ألقى إليكم السلام لست مؤمنا‏» ”اور جو تمہیں سلام کرتا ہو اسے یہ مت کہہ دیا کرو کہ تو تو مومن ہی نہیں ہے۔“ کے بارے میں فرمایا کہ ایک صاحب ( مرداس نامی ) اپنی بکریاں چرا رہے تھے، ایک مہم پر جاتے ہوئے کچھ مسلمان انہیں ملے تو انہوں نے کہا ”السلام علیکم“ لیکن مسلمانوں نے بہانہ خور جان کر انہیں قتل کر دیا اور ان کی بکریوں پر قبضہ کر لیا۔ اس پر اللہ تعالیٰ نے یہ آیت نازل کی تھی آخر آیت «عرض الحياة الدنيا‏» اس سے اشارہ انہیں بکریوں کی طرف تھا۔ بیان کیا کہ ابن عباس رضی اللہ عنہما نے «السلام‏» قرآت کی ہے، مشہور قرآت بھی یہی ہے۔",
+                "urduNarrator": "مجھ سے علی بن عبداللہ مدینی نے بیان کیا، کہا ہم سے سفیان بن عیینہ نے بیان کیا، ان سے عمرو بن دینار نے، ان سے عطاء نے اور ان سے ابن عباس رضی اللہ عنہما نے",
+                "hadithArabic": "حَدَّثَنِي عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ ‏{‏وَلاَ تَقُولُوا لِمَنْ أَلْقَى إِلَيْكُمُ السَّلاَمَ لَسْتَ مُؤْمِنًا‏}‏‏.‏ قَالَ قَالَ ابْنُ عَبَّاسٍ كَانَ رَجُلٌ فِي غُنَيْمَةٍ لَهُ فَلَحِقَهُ الْمُسْلِمُونَ فَقَالَ السَّلاَمُ عَلَيْكُمْ، فَقَتَلُوهُ وَأَخَذُوا غُنَيْمَتَهُ، فَأَنْزَلَ اللَّهُ فِي ذَلِكَ إِلَى قَوْلِهِ ‏{‏عَرَضَ الْحَيَاةِ الدُّنْيَا‏}‏ تِلْكَ الْغُنَيْمَةُ‏.‏ قَالَ قَرَأَ ابْنُ عَبَّاسٍ السَّلاَمَ‏.‏",
+                "headingArabic": "‏{‏وَلاَ تَقُولُوا لِمَنْ أَلْقَى إِلَيْكُمُ السَّلاَمَ لَسْتَ مُؤْمِنًا‏}‏ السِّلْمُ وَالسَّلَمُ وَالسَّلاَمُ وَاحِدٌ‏.‏",
+                "headingUrdu": "\"اور جو تمھیں سلام کرے اسے نہ کہو کہ تم مومن نہیں ہو...\" (V.4:94)",
+                "headingEnglish": "\"And say not to anyone who greets you (by embracing Islam), 'You are not a believer...\" (V.4:94)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4371,
+                "hadithNumber": "4592",
+                "englishNarrator": "Narrated Zaid bin Thabit رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) dictated to him: \"Not equal are those of the believers who sit (at home) and those who strive and fight in the Cause of Allah.\" Zaid added: Ibn Um Maktum رضی اللہ عنہ came while the Prophet (ﷺ) was dictating to me and said, \"O Allah's Apostle! By Allah, if I had the power to fight (in Allah's Cause), I would,\" and he was a blind man. So Allah revealed to his Apostle while his thigh was on my thigh, and his thigh became so heavy that I was afraid it might fracture my thigh. Then that state of the Prophet (ﷺ) passed and Allah revealed:-- \"Except those who are disabled (by injury or are blind or lame etc).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ان سے یہ آیت لکھوائی «لا يستوي القاعدون من المؤمنين والمجاهدون في سبيل الله» ”مسلمانوں میں سے ( گھر ) بیٹھ رہنے والے اور اللہ کی راہ میں اپنے مال اور اپنی جان سے جہاد کرنے والے برابر نہیں ہو سکتے۔“ ابھی آپ یہ آیت لکھوا ہی رہے تھے کہ ابن ام مکتوم رضی اللہ عنہ آ گئے اور عرض کیا: اللہ کی قسم! یا رسول اللہ! اگر میں جہاد میں شرکت کر سکتا تو یقیناً جہاد کرتا۔ وہ اندھے تھے۔ اس کے بعد اللہ نے اپنے رسول پر وحی اتاری۔ آپ کی ران میری ران پر تھی ( شدت وحی کی وجہ سے ) اس کا مجھ پر اتنا بوجھ پڑا کہ مجھے اپنی ران کے پھٹ جانے کا اندیشہ ہو گیا۔ آخر یہ کیفیت ختم ہوئی اور اللہ تعالیٰ نے «غير أولي الضرر‏» کے الفاظ اور نازل کئے۔",
+                "urduNarrator": "ہم سے اسماعیل بن عبداللہ نے بیان کیا، انہوں نے کہا کہ مجھ سے ابراہیم بن سعد نے بیان کیا، ان سے صالح بن کیسان نے، ان سے ابن شہاب نے اور ان سے سہل بن سعد ساعدی رضی اللہ عنہ نے بیان کیا انہوں نے مروان بن حکم بن عاص کو مسجد میں دیکھا ( بیان کیا کہ ) پھر میں ان کے پاس آیا اور ان کے پہلو میں بیٹھ گیا، انہوں نے مجھے خبر دی اور انہیں زید بن ثابت رضی اللہ عنہ نے خبر دی تھی کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنْ صَالِحِ بْنِ كَيْسَانَ، عَنِ ابْنِ شِهَابٍ، قَالَ حَدَّثَنِي سَهْلُ بْنُ سَعْدٍ السَّاعِدِيُّ، أَنَّهُ رَأَى مَرْوَانَ بْنَ الْحَكَمِ فِي الْمَسْجِدِ، فَأَقْبَلْتُ حَتَّى جَلَسْتُ إِلَى جَنْبِهِ، فَأَخْبَرَنَا أَنَّ زَيْدَ بْنَ ثَابِتٍ أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَمْلَى عَلَيْهِ لاَ يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ وَالْمُجَاهِدُونَ فِي سَبِيلِ اللَّهِ فَجَاءَهُ ابْنُ أُمِّ مَكْتُومٍ وَهْوَ يُمِلُّهَا عَلَىَّ قَالَ يَا رَسُولَ اللَّهِ، وَاللَّهِ لَوْ أَسْتَطِيعُ الْجِهَادَ لَجَاهَدْتُ ـ وَكَانَ أَعْمَى ـ فَأَنْزَلَ اللَّهُ عَلَى رَسُولِهِ صلى الله عليه وسلم وَفَخِذُهُ عَلَى فَخِذِي، فَثَقُلَتْ عَلَىَّ حَتَّى خِفْتُ أَنْ تُرَضَّ فَخِذِي، ثُمَّ سُرِّيَ عَنْهُ، فَأَنْزَلَ اللَّهُ ‏{‏غَيْرَ أُولِي الضَّرَرِ‏}‏",
+                "headingArabic": "{لاَ يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ وَالْمُجَاهِدُونَ فِي سَبِيلِ اللَّهِ}",
+                "headingUrdu": "\"گھر میں بیٹھنے والے مومنین برابر نہیں ہیں...\" (V.4:95)",
+                "headingEnglish": "\"Not equal are those of the believers who sit (at home)...\" (V.4:95)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4372,
+                "hadithNumber": "4593",
+                "englishNarrator": "Narrated Al-Bara رضی اللہ عنہ :",
+                "hadithEnglish": "When the Verse:-- \"Not equal are those of the believers who sit (at home)\" (4.95) was revealed, Allah Apostle called for Zaid رضی اللہ عنہ who wrote it. In the meantime Ibn Um Maktum رضی اللہ عنہ came and complained of his blindness, so Allah revealed: \"Except those who are disabled (by injury or are blind or lame...\" etc.) (4.95)",
+                "hadithUrdu": "جب آیت «لا يستوي القاعدون من المؤمنين‏» نازل ہوئی تو رسول اللہ صلی اللہ علیہ وسلم نے زید بن ثابت رضی اللہ عنہ کو کتابت کے لیے بلایا اور انہوں نے وہ آیت لکھ دی۔ پھر عبداللہ بن ام مکتوم رضی اللہ عنہ حاضر ہوئے اور اپنے نابینا ہونے کا عذر پیش کیا، تو اللہ تعالیٰ نے «غير أولي الضرر‏» کے الفاظ اور نازل کئے۔",
+                "urduNarrator": "ہم سے حفص بن عمر نے بیان کیا، کہا ہم سے شعبہ نے بیان کیا، ان سے ابواسحاق نے اور ان سے براء بن عازب رضی اللہ عنہ نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ ـ رضى الله عنه ـ قَالَ لَمَّا نَزَلَتْ ‏{‏لاَ يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ‏}‏ دَعَا رَسُولُ اللَّهِ صلى الله عليه وسلم زَيْدًا فَكَتَبَهَا، فَجَاءَ ابْنُ أُمِّ مَكْتُومٍ فَشَكَا ضَرَارَتَهُ، فَأَنْزَلَ اللَّهُ ‏{‏غَيْرَ أُولِي الضَّرَرِ‏}‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4373,
+                "hadithNumber": "4594",
+                "englishNarrator": "Narrated Al-Bara رضی اللہ عنہ :",
+                "hadithEnglish": "When the Verse:--\"Not equal are those of the believers who sit (at home),\" (4.95) was revealed, the Prophet said, \"Call so-and-so.\" That person came to him with an ink-pot and a wooden board or a shoulder scapula bone. The Prophet (ﷺ) said (to him), \"Write: 'Not equal are those believers who sit (at home) and those who strive and fight in the Cause of Allah.\" Ibn Um Maktum رضی اللہ عنہ  who was sitting behind the Prophet (ﷺ) then said, \"O Allah's Messenger (ﷺ)! I am a blind man.\" So there was revealed in the place of that Verse, the Verse:--\"Not equal are those of the believers who sit (at home) except those who are disabled (by injury, or are blind or lame etc.) and those who strive and fight in the Cause of Allah.\" (4.95)",
+                "hadithUrdu": "جب آیت «لا يستوي القاعدون من المؤمنين‏» نازل ہوئی تو نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ فلاں ( یعنی زید بن ثابت رضی اللہ عنہ ) کو بلاؤ۔ وہ اپنے ساتھ دوات اور تختی یا شانہ کی ہڈی لے کر حاضر ہوئے تو نبی کریم صلی اللہ علیہ وسلم نے فرمایا لکھو «لا يستوي القاعدون من المؤمنين والمجاهدون في سبيل الله» ۔ ابن ام مکتوم رضی اللہ عنہ نے جو نبی کریم صلی اللہ علیہ وسلم کے پیچھے موجود تھے، عرض کیا: یا رسول اللہ! میں نابینا ہوں۔ چنانچہ وہیں اس طرح آیت نازل ہوئی «لا يستوي القاعدون من المؤمنين غير أولي الضرر والمجاهدون في سبيل الله» ۔",
+                "urduNarrator": "ہم سے محمد بن یوسف نے بیان کیا، ان سے اسرائیل نے بیان کیا، ان سے ابواسحاق نے بیان کیا اور ان سے براء بن عازب رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، عَنْ إِسْرَائِيلَ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ، قَالَ لَمَّا نَزَلَتْ ‏{‏لاَ يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ‏}‏ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ ادْعُوا فُلاَنًا ‏\"‏‏.‏ فَجَاءَهُ وَمَعَهُ الدَّوَاةُ وَاللَّوْحُ أَوِ الْكَتِفُ فَقَالَ ‏\"‏ اكْتُبْ لاَ يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ وَالْمُجَاهِدُونَ فِي سَبِيلِ اللَّهِ ‏\"‏‏.‏ وَخَلْفَ النَّبِيِّ صلى الله عليه وسلم ابْنُ أُمِّ مَكْتُومٍ فَقَالَ يَا رَسُولَ اللَّهِ أَنَا ضَرِيرٌ‏.‏ فَنَزَلَتْ مَكَانَهَا ‏{‏لاَ يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ غَيْرُ أُولِي الضَّرَرِ وَالْمُجَاهِدُونَ فِي سَبِيلِ اللَّهِ ‏}‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4374,
+                "hadithNumber": "4595",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "Not equal are those believers who sat (at home) and did not join the Badr battle and those who joined the Badr battle.",
+                "hadithUrdu": "«لا يستوي القاعدون من المؤمنين‏» سے اشارہ ہے ان لوگوں کی طرف جو بدر میں شریک تھے اور جنہوں نے بلا کسی عذر کے بدر کی لڑائی میں شرکت نہیں کی تھی، وہ دونوں برابر نہیں ہو سکتے۔",
+                "urduNarrator": "ہم سے ابراہیم بن موسیٰ نے بیان کیا، کہا ہم کو ہشام نے خبر دی، انہیں ابن جریج نے خبر دی (دوسری سند) امام بخاری رحمہ اللہ نے کہا اور مجھ سے اسحاق بن منصور نے بیان کیا، کہا ہم کو عبدالرزاق نے خبر دی، کہا ہم کو ابن جریج نے خبر دی، کہا ہم کو عبدالکریم جرزی نے خبر دی، انہیں عبداللہ بن حارث کے غلام مقسم نے خبر دی اور انہیں ابن عباس رضی اللہ عنہما نے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا هِشَامٌ، أَنَّ ابْنَ جُرَيْجٍ، أَخْبَرَهُمْ ح، وَحَدَّثَنِي إِسْحَاقُ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي عَبْدُ الْكَرِيمِ، أَنَّ مِقْسَمًا، مَوْلَى عَبْدِ اللَّهِ بْنِ الْحَارِثِ أَخْبَرَهُ أَنَّ ابْنَ عَبَّاسٍ ـ رضى الله عنهما ـ أَخْبَرَهُ ‏{‏لاَ يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ‏}‏ عَنْ بَدْرٍ وَالْخَارِجُونَ إِلَى بَدْرٍ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4375,
+                "hadithNumber": "4596",
+                "englishNarrator": "Narrated Muhammad bin `Abdur-Rahman Abu Al-Aswad:",
+                "hadithEnglish": "The people of Medina were forced to prepare an army (to fight against the people of Sham during the caliphate of `Abdullah bin Az-Zubair رضی اللہ عنہما at Mecca), and I was enlisted in it; Then I met `Ikrima, the freed slave of Ibn `Abbas رضی اللہ عنہما , and informed him (about it), and he forbade me strongly to do so (i.e. to enlist in that army), and then said, \"Ibn `Abbas رضی اللہ عنہما informed me that some Muslim people were with the pagans, increasing the number of the pagans against Allah's Messenger (ﷺ). An arrow used to be shot which would hit one of them (the Muslims in the company of the pagans) and kill him, or he would be struck and killed (with a sword).\" Then Allah revealed:-- \"Verily! as for those whom the angels take (in death) while they are wronging themselves (by staying among the disbelievers)\" (4.97) Abu Al Aswad also narrated it.",
+                "hadithUrdu": "اہل مدینہ کو ( جب مکہ میں ابن زبیر رضی اللہ عنہما کی خلافت کا دور تھا ) شام والوں کے خلاف ایک فوج نکالنے کا حکم دیا گیا۔ اس فوج میں میرا نام بھی لکھا گیا تو ابن عباس رضی اللہ عنہما کے غلام عکرمہ سے میں ملا اور انہیں اس صورت حال کی اطلاع کی۔ انہوں نے بڑی سختی کے ساتھ اس سے منع کیا اور فرمایا کہ مجھے ابن عباس رضی اللہ عنہما نے خبر دی تھی کہ کچھ مسلمان مشرکین کے ساتھ رہتے تھے اور اس طرح رسول اللہ صلی اللہ علیہ وسلم کے خلاف ان کی زیادتی کا سبب بنتے، پھر تیر آتا اور وہ سامنے پڑ جاتے تو انہیں لگ جاتا اور اس طرح ان کی جان جاتی یا تلوار سے ( غلطی میں ) انہیں قتل کر دیا جاتا۔ اس پر اللہ تعالیٰ نے یہ آیت نازل فرمائی «إن الذين توفاهم الملائكة ظالمي أنفسهم‏» ”بیشک ان لوگوں کی جان جنہوں نے اپنے اوپر ظلم کر رکھا ہے ( جب ) فرشتے قبض کرتے ہیں۔“ آخر آیت تک۔ اس روایت کو لیث بن سعد نے بھی ابوالاسود سے نقل کیا ہے۔",
+                "urduNarrator": "ہم سے عبداللہ بن یزید المقری نے بیان کیا، کہا ہم سے حیوہ بن شریح وغیرہ (ابن لہیعہ) نے بیان کیا، کہا کہ ہم سے محمد بن عبدالرحمٰن ابوالاسود نے بیان کیا، کہا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ الْمُقْرِئُ، حَدَّثَنَا حَيْوَةُ، وَغَيْرُهُ، قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ أَبُو الأَسْوَدِ، قَالَ قُطِعَ عَلَى أَهْلِ الْمَدِينَةِ بَعْثٌ فَاكْتُتِبْتُ فِيهِ، فَلَقِيتُ عِكْرِمَةَ مَوْلَى ابْنِ عَبَّاسٍ فَأَخْبَرْتُهُ، فَنَهَانِي عَنْ ذَلِكَ أَشَدَّ النَّهْىِ، ثُمَّ قَالَ أَخْبَرَنِي ابْنُ عَبَّاسٍ أَنَّ نَاسًا مِنَ الْمُسْلِمِينَ كَانُوا مَعَ الْمُشْرِكِينَ يُكَثِّرُونَ سَوَادَ الْمُشْرِكِينَ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم يَأْتِي السَّهْمُ فَيُرْمَى بِهِ، فَيُصِيبُ أَحَدَهُمْ فَيَقْتُلُهُ أَوْ يُضْرَبُ فَيُقْتَلُ، فَأَنْزَلَ اللَّهُ ‏{‏إِنَّ الَّذِينَ تَوَفَّاهُمُ الْمَلاَئِكَةُ ظَالِمِي أَنْفُسِهِمْ‏}‏ الآيَةَ‏.‏ رَوَاهُ اللَّيْثُ عَنْ أَبِي الأَسْوَدِ‏.‏",
+                "headingArabic": "‏{‏إِنَّ الَّذِينَ تَوَفَّاهُمُ الْمَلاَئِكَةُ ظَالِمِي أَنْفُسِهِمْ قَالُوا فِيمَ كُنْتُمْ قَالُوا كُنَّا مُسْتَضْعَفِينَ فِي الأَرْضِ قَالُوا أَلَمْ تَكُنْ أَرْضُ اللَّهِ وَاسِعَةً فَتُهَاجِرُوا فِيهَا‏}‏ الآيَةَ‏.‏",
+                "headingUrdu": "’’بے شک جن کو فرشتے اس حال میں پکڑتے ہیں کہ وہ اپنے اوپر ظلم کر رہے ہوں (جب کہ ان پر ہجرت واجب تھی) تو وہ (فرشتے) کہتے ہیں: کس حال میں؟ کیا آپ تھے؟...\" (V.4:97)",
+                "headingEnglish": "\"Verily! As for those whom the angels take (in death) while they are wronging themselves (as they stayed among the disbelievers even though emigration was obligatory for them), they (angels) say (to them): In what (condition) were you?...\"(V.4:97)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4376,
+                "hadithNumber": "4597",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "\"Except the weak ones\" (4.98) and added: My mother was one of those whom Allah excused.",
+                "hadithUrdu": "«إلا المستضعفين‏» کے متعلق فرمایا کہ میری ماں بھی ان ہی لوگوں میں تھیں جنہیں اللہ نے معذور رکھا تھا۔",
+                "urduNarrator": "ہم سے ابوالنعمان نے بیان کیا، کہا ہم سے حماد بن زید نے بیان کیا، ان سے ایوب سختیانی نے، ان سے عبداللہ بن ابی ملیکہ نے اور ان سے ابن عباس رضی اللہ عنہما نے",
+                "hadithArabic": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ ‏{‏إِلاَّ الْمُسْتَضْعَفِينَ‏}‏ قَالَ كَانَتْ أُمِّي مِمَّنْ عَذَرَ اللَّهُ‏.‏",
+                "headingArabic": "‏{‏إِلاَّ الْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ لاَ يَسْتَطِيعُونَ حِيلَةً وَلاَ يَهْتَدُونَ سَبِيلاً‏}‏",
+                "headingUrdu": "\"سوائے مردوں کے کمزوروں کے، عورتوں کے...\" (V.4:98)",
+                "headingEnglish": "\"Except the weak ones among men, women...\" (V.4:98)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4377,
+                "hadithNumber": "4598",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "While the Prophet (ﷺ) was offering the `Isha' prayer, he said, \"Allah hears him who sends his praises to Him,\" and then said before falling in prostration, \"O Allah, save `Aiyash bin Rabi`a. O Allah, save Salama bin Hisham. O Allah, save Al-Walid bin Al-Wahd. O Allah, save the weak ones among the believers. O Allah, let Your punishment be severe on the tribe of Mudar. O Allah, inflict upon them years (of famine) like the years of Joseph.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے عشاء کی نماز میں ( رکوع سے اٹھتے ہوئے ) «سمع الله لمن حمده‏ ‏‏.‏» کہا اور پھر سجدہ میں جانے سے پہلے یہ دعا کی ”اے اللہ! عیاش بن ابی ربیعہ کو نجات دے۔ اے اللہ! سلمہ بن ہشام کو نجات دے۔ اے اللہ! ولید بن ولید کو نجات دے۔ اے اللہ کمزور مومنوں کو نجات دے۔ اے اللہ! کفار مضر کو سخت سزا دے۔ اے اللہ انہیں ایسی قحط سالی میں مبتلا کر جیسی یوسف علیہ السلام کے زمانے میں قحط سالی آئی تھی۔“",
+                "urduNarrator": "ہم سے ابونعیم نے بیان کیا، انہوں نے کہا ہم سے شیبان نے بیان کیا، ان سے یحییٰ بن ابی کثیر نے بیان کیا، ان سے ابوسلمہ نے بیان کیا اور ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا شَيْبَانُ، عَنْ يَحْيَى، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ بَيْنَا النَّبِيُّ صلى الله عليه وسلم يُصَلِّي الْعِشَاءَ إِذْ قَالَ ‏\"‏ سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ ‏\"‏‏.‏ ثُمَّ قَالَ قَبْلَ أَنْ يَسْجُدَ ‏\"‏ اللَّهُمَّ نَجِّ عَيَّاشَ بْنَ أَبِي رَبِيعَةَ، اللَّهُمَّ نَجِّ سَلَمَةَ بْنَ هِشَامٍ، اللَّهُمَّ نَجِّ الْوَلِيدَ بْنَ الْوَلِيدِ، اللَّهُمَّ نَجِّ الْمُسْتَضْعَفِينَ مِنَ الْمُؤْمِنِينَ، اللَّهُمَّ اشْدُدْ وَطْأَتَكَ عَلَى مُضَرَ، اللَّهُمَّ اجْعَلْهَا سِنِينَ كَسِنِي يُوسُفَ ‏\"‏‏.‏",
+                "headingArabic": "‏{‏فَأُولَئِكَ عَسَى اللَّهُ أَنْ يَعْفُوَ عَنْهُمْ وَكَانَ اللَّهُ عَفُوًّا غَفُورًا ‏}",
+                "headingUrdu": "’’یہ وہ لوگ ہیں جن کو اللہ تعالیٰ معاف کر دے گا‘‘ (V.4:99)",
+                "headingEnglish": "\"These are they whom Allah is likely to forgive them...\" (V.4:99)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 4351,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=174",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=172",
+                "label": "172",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=173",
+                "label": "173",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=174",
+                "label": "174",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=175",
+                "label": "175",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=176",
+                "label": "176",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=177",
+                "label": "177",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=178",
+                "label": "178",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=176",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=176",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=174",
+        "to": 4375,
+        "total": 40465
+    }
+}

@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 397,
+        "data": [
+            {
+                "id": 10189,
+                "hadithNumber": "2625",
+                "englishNarrator": "A'isha (رضی اللہ تعالیٰ عنہا) reported:",
+                "hadithEnglish": "Hamza bin 'Amr al-Aslami رضی اللہ تعالیٰ عنہ asked the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) about fasting on a journey, and he (the Holy Prophet) said: Fast if you like and break it if you like.",
+                "hadithUrdu": "حضرت حمزہ بن عمر اسلمی رضی اللہ تعالیٰ عنہ نے رسول اللہ صلی اللہ علیہ وسلم سے سفر میں روزے رکھنے کے بارے میں پوچھا تو آپ صلی اللہ علیہ وسلم نے ارشاد فرمایا کہ اگر تو چاہے تو روزہ رکھ لے اور اگر توچاہے تو روزہ افطار کرلے ۔",
+                "urduNarrator": "قتیبہ بن سعید ، لیث ، ہشام بن عروۃ ، سید عائشہ صدیقہ رضی اللہ تعالیٰ عنہا فرماتی ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ رَضِيَ اللهُ عَنْهَا، أَنَّهَا قَالَتْ: سَأَلَ حَمْزَةُ بْنُ عَمْرٍو الْأَسْلَمِيُّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنِ الصِّيَامِ فِي السَّفَرِ؟ فَقَالَ: «إِنْ شِئْتَ فَصُمْ وَإِنْ شِئْتَ فَأَفْطِرْ».",
+                "headingArabic": "التَّخْيِيرِ فِي الصَّوْمِ وَالْفِطْرِ فِي السَّفَرِ",
+                "headingUrdu": "سفر میں روزہ رکھنے اور نہ رکھنے کے درمیان انتخاب",
+                "headingEnglish": "The choice between fasting and not fasting when travelling",
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10190,
+                "hadithNumber": "2626",
+                "englishNarrator": "A'isha (رضی اللہ تعالیٰ عنہا ) reported:",
+                "hadithEnglish": "Hamza bin Amr al-Aslami رضی اللہ تعالیٰ عنہ asked the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) thus: Messenger of Allah, I am a person devoted much to fasting. Should I fast during the journey? He (the Holy Prophet) said: Fast if you like and break it if you like.",
+                "hadithUrdu": "حضرت حمزہ بن عمرو اسلمی رضی اللہ تعالیٰ عنہ نے نبی کریم صلی اللہ علیہ وسلم سے عرض کیا اے اللہ کے رسول صلی اللہ علیہ وسلم !میں ایک ایسا آدمی ہوں کہ مسلسل روزے رکھتا ہوں تو کیا میں سفر میں بھی روزہ رکھوں؟آپ صلی اللہ علیہ وسلم نے فرمایا کہ اگر تو چاہے تو روزہ رکھ لے اور اگر چاہے تو افطارکرلے ۔",
+                "urduNarrator": "ابوربیع ، حماد ، ابن زید ، ہشام ، سیدہ عائشہ صدیقہ رضی اللہ تعالیٰ عنہا سے روایت ہے کہ",
+                "hadithArabic": "وحَدَّثَنَا أَبُو الرَّبِيعِ الزَّهْرَانِيُّ، حَدَّثَنَا حَمَّادٌ وَهُوَ ابْنُ زَيْدٍ، حَدَّثَنَا هِشَامٌ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ رَضِيَ اللهُ عَنْهَا، أَنَّ حَمْزَةَ بْنَ عَمْرٍو الْأَسْلَمِيَّ، سَأَلَ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: يَا رَسُولَ اللهِ، إِنِّي رَجُلٌ أَسْرُدُ الصَّوْمَ، أَفَأَصُومُ فِي السَّفَرِ؟ قَالَ: «صُمْ إِنْ شِئْتَ، وَأَفْطِرْ إِنْ شِئْتَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10191,
+                "hadithNumber": "2627",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Hisham with the same chain of transmitters.",
+                "hadithUrdu": "اور ان سے یحییٰ بن یحییٰ نے بیان کیا، ہم سے ابو معاویہ نے ہشام کی سند سے بیان کیا،  جیسا کہ حماد بن زید کی حدیث ہے۔",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنَاه يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا أَبُو مُعَاوِيَةَ، عَنْ هِشَامٍ، بِهَذَا الْإِسْنَادِ، مِثْلَ حَدِيثِ حَمَّادِ بْنِ زَيْدٍ، إِنِّي رَجُلٌ أَسْرُدُ الصَّوْمَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10192,
+                "hadithNumber": "2628",
+                "englishNarrator": "This hadith has been narrated on the authority of Hisham with the same chain of transmitters that Hamza رضی اللہ تعالیٰ عنہ said:",
+                "hadithEnglish": "I am a person much used to fasting. Should I fast during the journey? (The rest of the hadith is the same.)",
+                "hadithUrdu": "میں ایک روزے دار آدمی ہوں تو کیا میں سفر میں بھی روزہ رکھوں؟",
+                "urduNarrator": "ابو بکر بن ابی شیبہ ابو کریب ، ابن نمیر ، ابو بکر عبداالرحیم بن سلیمان ، حضرت ہشام سے اس سند کے ساتھ روایت ہے کہ حضرت حمزہ رضی اللہ تعالیٰ عنہ نے کہا کہ",
+                "hadithArabic": "وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ، قَالَا: حَدَّثَنَا ابْنُ نُمَيْرٍ، وَقَالَ أَبُو بَكْرٍ: حَدَّثَنَا عَبْدُ الرَّحِيمِ بْنُ سُلَيْمَانَ، كِلَاهُمَا عَنْ هِشَامٍ، بِهَذَا الْإِسْنَادِ أَنَّ حَمْزَةَ قَالَ: إِنِّي رَجُلٌ أَصُومُ، أَفَأَصُومُ فِي السَّفَرِ؟",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10193,
+                "hadithNumber": "2629",
+                "englishNarrator": "Hamza bin 'Amr al-Aslami (رضی اللہ تعالیٰ عنہ) said:",
+                "hadithEnglish": "Messenger of Allah, I find strength in me for fasting on a journey; is there any sin upon me (in doing it)? Thereupon the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ) said: It is a concession from Allah. He who took advantage of it, it is good for him, and he who preferred to observe fast, there is no sin upon him. Harun (one of the narrators) in his narration said: 'lt is a concession, and he made no mention of from Allah .",
+                "hadithUrdu": "اے اللہ کے رسول صلی اللہ علیہ وسلم ! میں سفر میں روزے رکھنے کی طاقت ر کھتا ہوں تو کیا مجھ پر کوئی گناہ تو نہیں؟تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ یہ اللہ کی طرف سے ایک رخصت ہے تو جس نے اس رخصت پر عمل کیا تو اس نے اچھاکیا اور جس نے روزہ رکھنا پسند کیا تو اس پر کوئی گناہ نہیں ہارون نے اپنی حدیث میں رخصۃ کا لفظ کہا ہے اور من اللہ کا ذکر نہیں کیا ۔",
+                "urduNarrator": "ابو طاہر ، ہارون بن سعید ، ہارون ، ابو طاہر ، ابن وہب ، عمرو بن حارث ، ابی اسود ، عروۃ بن زبیر ، ابی مرواح ، حضرت حمزہ بن عمراسلمی رضی اللہ تعالیٰ عنہ سے روایت ہے انہوں نے عرض کیا",
+                "hadithArabic": "وَحَدَّثَنِي أَبُو الطَّاهِرِ، وَهَارُونُ بْنُ سَعِيدٍ الْأَيْلِيُّ، قَالَ هَارُونُ: حَدَّثَنَا، وقَالَ أَبُو الطَّاهِرِ: أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي عَمْرُو بْنُ الْحَارِثِ، عَنْ أَبِي الْأَسْوَدِ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ أَبِي مُرَاوِحٍ، عَنْ حَمْزَةَ بْنِ عَمْرٍو الْأَسْلَمِيِّ رَضِيَ اللهُ عَنْهُ، أَنَّهُ قَالَ: يَا رَسُولَ اللهِ، أَجِدُ بِي قُوَّةً عَلَى الصِّيَامِ فِي السَّفَرِ، فَهَلْ عَلَيَّ جُنَاحٌ؟ فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «هِيَ رُخْصَةٌ مِنَ اللهِ، فَمَنْ أَخَذَ بِهَا، فَحَسَنٌ وَمَنْ أَحَبَّ أَنْ يَصُومَ فَلَا جُنَاحَ عَلَيْهِ» قَالَ هَارُونُ فِي حَدِيثِهِ «هِيَ رُخْصَةٌ» وَلَمْ يَذْكُرْ: مِنَ اللهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10194,
+                "hadithNumber": "2630",
+                "englishNarrator": "Abu Darda' (رضی اللہ تعالیٰ عنہ) reported:",
+                "hadithEnglish": "We set out during the month of Ramadan with the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) in such an intense heat that one of us would place his hand over his head (in order to protect himself) against the excessive heat, and none among us was observing the fast, except the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and 'Abdullah bin Rawaha رضی اللہ تعالیٰ عنہ .",
+                "hadithUrdu": "ہم رسول اللہ صلی اللہ علیہ وسلم کے ساتھ رمضان کے مہینے میں گرمی کے موسم میں ایک سفر میں نکلے یہاں تک کہ گرمی کی وجہ سے ہم میں سے کچھ لوگ اپنے ہاتھوں کو اپنے سر پر رکھ لیتے تھے اور ہم میں سے کوئی بھی روزہ دار نہیں تھا سوائے رسول اللہ صلی اللہ علیہ وسلم اور حضرت عبداللہ بن رواحۃ رضی اللہ تعالیٰ عنہ کے ۔",
+                "urduNarrator": "داود بن رشید ، ولید بن مسلم ، سعید بن عبدالعزیز ، اسماعیل ، عبیداللہ ، ام درداء ، حضرت ابو درداء رضی اللہ تعالیٰ عنہ سے روایت ہے کہ",
+                "hadithArabic": "حَدَّثَنَا دَاوُدُ بْنُ رُشَيْدٍ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، عَنْ سَعِيدِ بْنِ عَبْدِ الْعَزِيزِ، عَنْ إِسْمَاعِيلَ بْنِ عُبَيْدِ اللهِ، عَنْ أُمِّ الدَّرْدَاءِ، عَنْ أَبِي الدَّرْدَاءِ رَضِيَ اللهُ عَنْهُ، قَالَ: «خَرَجْنَا مَعَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي شَهْرِ رَمَضَانَ فِي حَرٍّ شَدِيدٍ، حَتَّى إِنْ كَانَ أَحَدُنَا لَيَضَعُ يَدَهُ عَلَى رَأْسِهِ مِنْ شِدَّةِ الْحَرِّ، وَمَا فِينَا صَائِمٌ، إِلَّا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَعَبْدُ اللهِ بْنُ رَوَاحَةَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10195,
+                "hadithNumber": "2631",
+                "englishNarrator": "Abu Darda' رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "We were with the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) on some of his journeys on an intensely hot day so much so that a person would place his hand on his head (in order to protect himself) against excessive heat, and none amongst us was fasting but the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and Abdullah bin Rawaha رضی اللہ تعالیٰ عنہ .",
+                "hadithUrdu": "ہم نے رسول اللہ صلی اللہ علیہ وسلم کے ساتھ سخت گرمیوں کے دنوں میں بعض سفروں میں دیکھاکہ لوگ سخت گرمی کی وجہ سے اپنے ہاتھوں کو اپنے سروں پر رکھ لیتے ہیں اور ہم میں سے سوائے رسول اللہ صلی اللہ علیہ وسلم اور عبداللہ بن رواحۃ کے کوئی بھی روزہ دار نہیں تھا ۔",
+                "urduNarrator": "عبداللہ بن مسلمۃ ، ہشام بن سعید ، عثمان ابن حیان ، دمشقی ، حضرت ام درداء رضی اللہ تعالیٰ عنہ سے روایت ہے کہ حضرت ابو درداء رضی اللہ تعالیٰ عنہ فرماتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ، حَدَّثَنَا هِشَامُ بْنُ سَعْدٍ، عَنْ عُثْمَانَ بْنِ حَيَّانَ الدِّمَشْقِيِّ، عَنْ أُمِّ الدَّرْدَاءِ، قَالَتْ: قَالَ أَبُو الدَّرْدَاءِ: «لَقَدْ رَأَيْتُنَا مَعَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي بَعْضِ أَسْفَارِهِ فِي يَوْمٍ شَدِيدِ الْحَرِّ، حَتَّى إِنَّ الرَّجُلَ لَيَضَعُ يَدَهُ عَلَى رَأْسِهِ مِنْ شِدَّةِ الْحَرِّ، وَمَا مِنَّا أَحَدٌ صَائِمٌ، إِلَّا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَعَبْدُ اللهِ بْنُ رَوَاحَةَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10196,
+                "hadithNumber": "2632",
+                "englishNarrator": "Umm al-Fadl bint-al-Harith reported:",
+                "hadithEnglish": "Some people argued about the fasting of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) on the day of 'Arafa. Some of them said that he had been fasting, whereas the others said that he had not been fasting. I sent a cup of milk to him while he was riding his camel at 'Arafa, and he drank it.",
+                "hadithUrdu": "کچھ لوگوں نے ان کے پاس عرفہ کے دن رسول اللہ صلی اللہ علیہ وسلم کے روزے کے بارے میں بات چیت کی ان میں سے کچھ نے کہا کہ آپ صلی اللہ علیہ وسلم روزے کی حالت میں تھے اور کچھ نے کہا کہ آپ صلی اللہ علیہ وسلم روزے کی حالت میں نہیں تھے آپ صلی اللہ علیہ وسلم کی طرف دودھ کا ایک پیالہ اس وقت بھیجا جب آپ صلی اللہ علیہ وسلم اپنے اونٹ پر عرفہ کے دن سوار تھے تو آپ صلی اللہ علیہ وسلم نے وہ دودھ پی لیا ۔",
+                "urduNarrator": "یحییٰ بن یحییٰ ، مالک ، ابی نضر ، عمیر ، مولی ابن عباس ، حضرت ام الفضل بنت حارثہ سے روایت ہے کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ: قَرَأْتُ عَلَى مَالِكٍ، عَنْ أَبِي النَّضْرِ، عَنْ عُمَيْرٍ، مَوْلَى عَبْدِ اللهِ بْنِ عَبَّاسٍ، عَنْ أُمِّ الْفَضْلِ بِنْتِ الْحَارِثِ، أَنَّ نَاسًا تَمَارَوْا عِنْدَهَا يَوْمَ عَرَفَةَ، فِي صِيَامِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ بَعْضُهُمْ: هُوَ صَائِمٌ، وَقَالَ بَعْضُهُمْ: لَيْسَ بِصَائِمٍ، فَأَرْسَلْتُ إِلَيْهِ بِقَدَحِ لَبَنٍ، وَهُوَ وَاقِفٌ عَلَى بَعِيرِهِ بِعَرَفَةَ، فَشَرِبَهُ.",
+                "headingArabic": "اسْتِحْبَابِ الْفِطْرِ لِلْحَاجِّ بِعَرَفَاتٍ يَوْمَ عَرَفَةَ ‏‏",
+                "headingUrdu": "عرفات میں حج کرنے والے کے لیے مستحب ہے کہ عرفہ کے دن روزہ نہ رکھے۔",
+                "headingEnglish": "It is recommended for the person performing Hajj in 'Arafat not to fast on the day of 'Arafah.",
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10197,
+                "hadithNumber": "2633",
+                "englishNarrator": "This hadith has been narrated on the authority of Abu Nadr with the same chain of transmitters:",
+                "hadithEnglish": "But he did not mention that he was mounting (riding on) his camel.",
+                "hadithUrdu": "لیکن اس میں \"آپ صلی اللہ علیہ وسلم کا اونٹ پر سوار ہونے کا ذکر نہیں\" آپ نے فرمایا: عمیر کے اختیار سے، ام الفضل کے آزاد کردہ غلام۔۔",
+                "urduNarrator": "اسحاق بن ابراہیم ، ابن ابی عمر ، سفیان ، حضرت ابی انصر سے اس سند کے ساتھ روایت ہے",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَابْنُ أَبِي عُمَرَ، عَنْ سُفْيَانَ، عَنْ أَبِي النَّضْرِ بِهَذَا الْإِسْنَادِ، وَلَمْ يَذْكُرْ: وَهُوَ وَاقِفٌ عَلَى بَعِيرِهِ، وَقَالَ: عَنْ عُمَيْرٍ مَوْلَى أُمِّ الْفَضْلِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10198,
+                "hadithNumber": "2634",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated by Abu Nadr رضی اللہ تعالیٰ عنہ on the authority of Umair, the freed slave of Umm al-Fadl, through the same chain of transmitters.",
+                "hadithUrdu": "زہیر بن حرب ، عبدالرحمان بن مہدی ، سفیان ، حضرت سالم بن ابی النضر رضی اللہ تعالیٰ عنہ سے اس سند کے ساتھ اسی طرح روایت نقل کی گئی ہے ۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ سُفْيَانَ، عَنْ سَالِمٍ أَبِي النَّضْرِ، بِهَذَا الْإِسْنَادِ، نَحْوَ حَدِيثِ ابْنِ عُيَيْنَةَ، وَقَالَ: عَنْ عُمَيْرٍ مَوْلَى أُمِّ الْفَضْلِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10199,
+                "hadithNumber": "2635",
+                "englishNarrator": "Umm al-Fadl (رضی اللہ تعالیٰ عنہما) is reported to have said:",
+                "hadithEnglish": "Some people among the Companions of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) were in doubt about fasting on the day of 'Arafa and we were with him on that day. I (Umm al-Fadl) sent him a cup of milk and he was halting at 'Arafa, and he drank that.",
+                "hadithUrdu": "ر سول اللہ صلی اللہ علیہ وسلم کے صحابہ رضوان اللہ عنھم اجمعین میں سے کچھ لوگوں نے عرفہ کے دن روزہ کے بارے میں شک کیا حضرت ام فضل رضی اللہ تعالیٰ عنہا فرماتی ہیں کہ ہم بھی رسول اللہ صلی اللہ علیہ وسلم کے ساتھ تھے تو میں نے آپ صلی اللہ علیہ وسلم کی طرف ایک پیالہ بھیجا جس میں دودھ تھا عرفہ کے دن تو آپ صلی اللہ علیہ وسلم نے وہ دودھ پی لیا ۔",
+                "urduNarrator": "ہارون بن سعید ، ابن وہب ، عمرو ، ابی نضر ، مولی ابن عباس ، حضرت ام فضل رضی اللہ تعالیٰ عنہما فرماتی ہیں کہ",
+                "hadithArabic": "وحَدَّثَنِي هَارُونُ بْنُ سَعِيدٍ الْأَيْلِيُّ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي عَمْرٌو، أَنَّ أَبَا النَّضْرِ، حَدَّثَهُ أَنَّ عُمَيْرًا، مَوْلَى ابْنِ عَبَّاسٍ رَضِيَ اللهُ عَنْهُمَا، حَدَّثَهُ أَنَّهُ سَمِعَ أُمَّ الْفَضْلِ، رَضِيَ اللهُ عَنْهَا، تَقُولُ: «شَكَّ نَاسٌ مِنْ أَصْحَابِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي صِيَامِ يَوْمِ عَرَفَةَ، وَنَحْنُ بِهَا مَعَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَأَرْسَلْتُ إِلَيْهِ بِقَعْبٍ فِيهِ لَبَنٌ، وَهُوَ بِعَرَفَةَ، فَشَرِبَهُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10200,
+                "hadithNumber": "2636",
+                "englishNarrator": "Kuraib, the freed slave of Ibn 'Abbas ( رضی اللہ تعالیٰ عنہ), reported from Maimuna رضی اللہ تعالیٰ عنہا , the wife of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌):",
+                "hadithEnglish": "People had doubt about the fasting of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) on the day of 'Arafa. Maimuna رضی اللہ تعالیٰ عنہا sent him a cup of milk and he was halting at a place and he drank it and the people were seeing him.",
+                "hadithUrdu": "لوگ عرفہ کے دن رسول اللہ صلی اللہ علیہ وسلم کے روزے کے بارے میں شک میں پڑ گئے چنانچہ حضرت میمونہ رضی اللہ تعالیٰ عنہا نے آپ صلی اللہ علیہ وسلم کی طرف دودھ کا ایک لوٹا بھیجا جس وقت کہ آپ صلی اللہ علیہ وسلم عرفات کے میدان میں کھڑے ہوئے تھے آپ صلی اللہ علیہ وسلم نے اس سےدودھ پیا جبکہ لوگ آپ صلی اللہ علیہ وسلم کی طرف دیکھ رہے تھے ۔",
+                "urduNarrator": "ہارون بن سعید ، ابن وہب ، عمر ، بکیر ، بن اشج ، کریب ، مولی ابن عباس ، حضرت میمونہ رضی اللہ تعالیٰ عنہا نبی کریم صلی اللہ علیہ وسلم کی زوجہ مطہرہ سے روایت ہے وہ فرماتی ہیں کہ",
+                "hadithArabic": "وحَدَّثَنِي هَارُونُ بْنُ سَعِيدٍ الْأَيْلِيُّ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي عَمْرٌو، عَنْ بُكَيْرِ بْنِ الْأَشَجِّ، عَنْ كُرَيْبٍ، مَوْلَى ابْنِ عَبَّاسٍ رَضِيَ اللهُ عَنْهُمَا، عَنْ مَيْمُونَةَ زَوْجِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، أَنَّهَا قَالَتْ: «إِنَّ النَّاسَ شَكُّوا فِي صِيَامِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَوْمَ عَرَفَةَ، فَأَرْسَلَتْ إِلَيْهِ مَيْمُونَةُ بِحِلَابِ اللَّبَنِ، وَهُوَ وَاقِفٌ فِي الْمَوْقِفِ، فَشَرِبَ مِنْهُ وَالنَّاسُ يَنْظُرُونَ إِلَيْهِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10201,
+                "hadithNumber": "2637",
+                "englishNarrator": "A'isha (رضی اللہ تعالیٰ عنہا) reported:",
+                "hadithEnglish": "The Quraish used to fast on the day of 'Ashura in the pre-Islamic days and the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) also observed it. When he migrated to Medina, he himself observed this fast and commanded (others) to observe it. But when fasting during the month of Ramadan was made obligatory he said: He who wishes to observe this fast may do so, and he who wishes to abandon it may do so.",
+                "hadithUrdu": "قریش جاہلیت کے زمانہ میں عاشورہ کے دن روزہ رکھتے تھے ۔ اور رسول اللہ صلی اللہ علیہ وسلم نے بھی جب مدینہ کی طرف ہجرت فرمائی تواپنے صحابہ رضوان اللہ عنھم اجمعین کو بھی اس کا روزہ رکھنے کاحکم فرمایا تو جب رمضان کے روزے فرض کر دیئے گئے تو آ پ صلی اللہ علیہ وسلم نے فرمایا کہ جو چاہے یوم عاشورہ کا روزہ رکھے اور جو چاہے چھوڑدے ۔",
+                "urduNarrator": "زہیر بن حرب ، جریر ، ہشام بن عروۃ ، سیدہ عائشہ رضی اللہ تعالیٰ عنہا سے روایت ہے فرماتی ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا جَرِيرٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ رَضِيَ اللهُ عَنْهَا، قَالَتْ: كَانَتْ قُرَيْشٌ تَصُومُ عَاشُورَاءَ فِي الْجَاهِلِيَّةِ، وَكَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَصُومُهُ، فَلَمَّا هَاجَرَ إِلَى الْمَدِينَةِ، صَامَهُ وَأَمَرَ بِصِيَامِهِ، فَلَمَّا فُرِضَ شَهْرُ رَمَضَانَ قَالَ: «مَنْ شَاءَ صَامَهُ وَمَنْ شَاءَ تَرَكَهُ».",
+                "headingArabic": "صَوْمِ يَوْمِ عَاشُورَاءَ ‏‏",
+                "headingUrdu": "عاشورہ کے دن روزہ رکھنا",
+                "headingEnglish": "Fasting on the day of Ashura'",
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10202,
+                "hadithNumber": "2638",
+                "englishNarrator": "This hadith is narrated on the authority of Hisham with the same chain of transmitters, but he made no mention in the first part of the hadith:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) used to observe fast, and said about the second part that he abandoned the (fast) of Ashura, and he who wished observed the fast and who wished otherwise abandoned it, and he did not hold it as the words of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as mentioned in the narration transmitted by Jarir.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم یوم عاشورہ کا روزہ رکھتے تھے اور حدیث کے آخر میں ہے کہ آپ صلی اللہ علیہ وسلم نے عاشورہ کا روزہ چھوڑ دیا کہ جو چاہے اس کا روزہ رکھے اور جو چاہے چھوڑ دےجیسا کہ جریر نے روایت کیا ہے ۔",
+                "urduNarrator": "ابو بکر بن ابی شیبہ ، ابو کریب ، ابن نمیر ، حضرت ہشام سے اس سند کے ساتھ روایت ہے اور حدیث کے شروع میں ذکر نہیں کیا کہ",
+                "hadithArabic": "وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ، قَالَا: حَدَّثَنَا ابْنُ نُمَيْرٍ، عَنْ هِشَامٍ بِهَذَا الْإِسْنَادِ، وَلَمْ يَذْكُرْ فِي أَوَّلِ الْحَدِيثِ، وَكَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَصُومُهُ، وَقَالَ فِي آخِرِ الْحَدِيثِ: وَتَرَكَ عَاشُورَاءَ، فَمَنْ شَاءَ صَامَهُ وَمَنْ شَاءَ تَرَكَهُ، وَلَمْ يَجْعَلْهُ مِنْ قَوْلِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، كَرِوَايَةِ جَرِيرٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10203,
+                "hadithNumber": "2639",
+                "englishNarrator": "A'isha (رضی اللہ تعالیٰ عنہا) reported:",
+                "hadithEnglish": "In the pre-Islamic days fast was observed on the day of Ashura, but with the advent of Islam (its position was ascertained as that of a voluntary fast). Then he who wished to fast fasted, and he who liked to abandon it abandoned it.",
+                "hadithUrdu": "عاشورہ کے دن جاہلیت کے زمانہ میں روزہ رکھا جاتاتھا تو جب اسلام آیا کہ جوچاہے اس کا روزہ رکھے اور جو چاہے چھوڑ دے ۔",
+                "urduNarrator": "عمرو ناقد ، سفیان ، زہری ، عروۃ ، سیدہ عائشہ صدیقہ رضی اللہ تعالیٰ عنہا سے روایت ہے کہ",
+                "hadithArabic": "حَدَّثَنِي عَمْرٌو النَّاقِدُ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ رَضِيَ اللهُ عَنْهَا: «أَنَّ يَوْمَ عَاشُورَاءَ كَانَ يُصَامُ فِي الْجَاهِلِيَّةِ، فَلَمَّا جَاءَ الْإِسْلَامُ مَنْ شَاءَ صَامَهُ وَمَنْ شَاءَ تَرَكَهُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10204,
+                "hadithNumber": "2640",
+                "englishNarrator": "A'isha ( رضی اللہ تعالیٰ عنہا) reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) had ordered to observe fast (on 'Ashura) before the fasting in Ramadan was made obligatory. But when it became obligatory, then he who wished fasted on the day of Ashura, and he who wished did not observe it (on that day).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم رمضان کے روزے فرض ہونے سے پہلے عاشورہ کے روزہ کا حکم فرمایا کرتے تھے تو جب رمضان کے روزے فرض ہوگئے تو جو چاہے عاشورہ کے دن روزہ رکھے اور جو چاہے چھوڑ دے ۔",
+                "urduNarrator": "حرملہ بن یحییٰ ، ابن وہب ، یونس ، ابن شہاب ، عروۃ بن زبیر ، سیدہ عائشہ صدیقہ رضی اللہ تعالیٰ عنہا فرماتی ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي عُرْوَةُ بْنُ الزُّبَيْرِ، أَنَّ عَائِشَةَ رَضِيَ اللهُ عَنْهَا، قَالَتْ: «كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَأْمُرُ بِصِيَامِهِ قَبْلَ أَنْ يُفْرَضَ رَمَضَانُ، فَلَمَّا فُرِضَ رَمَضَانُ، كَانَ مَنْ شَاءَ صَامَ يَوْمَ عَاشُورَاءَ وَمَنْ شَاءَ أَفْطَرَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10205,
+                "hadithNumber": "2641",
+                "englishNarrator": "A'isha ( رضی اللہ تعالیٰ عنہا) reported:",
+                "hadithEnglish": "The Quraish used to fast on the day of Ashura during the pre-Islamic days. The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) then commanded to fast on that day till (fasting) in Ramadan became obligatory. Then the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: He who wishes to fast should do so, and he who wishes to break it may do so.",
+                "hadithUrdu": "جاہلیت کے زمانے میں قریشی لوگ عاشورہ کے دن روزہ رکھنے کا حکم صادر فرمایا کرتے تھے تو جب رمضان کے روزے فرض ہوگئے تو ( آپ صلی اللہ علیہ وسلم نے ارشاد فرمایا ) جو چاہے عاشورہ کے دن روزہ رکھے اور جو چاہے چھوڑ دے ۔",
+                "urduNarrator": "قتیبہ بن سعید ، محمد بن رمح ، لیث بن سعید ، یزید بن ابی حبیب ، عروۃ ، عائشہ صدیقہ رضی اللہ تعالیٰ عنہا فرماتی ہیں ، کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَمُحَمَّدُ بْنُ رُمْحٍ، جَمِيعًا عَنِ اللَّيْثِ بْنِ سَعْدٍ، قَالَ ابْنُ رُمْحٍ: أَخْبَرَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، أَنَّ عِرَاكًا، أَخْبَرَهُ أَنَّ عُرْوَةَ، أَخْبَرَهُ، أَنَّ عَائِشَةَ أَخْبَرَتْهُ: أَنَّ قُرَيْشًا كَانَتْ تَصُومُ عَاشُورَاءَ فِي الْجَاهِلِيَّةِ، ثُمَّ أَمَرَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِصِيَامِهِ، حَتَّى فُرِضَ رَمَضَانُ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنْ شَاءَ فَلْيَصُمْهُ، وَمَنْ شَاءَ فَلْيُفْطِرْهُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10206,
+                "hadithNumber": "2642",
+                "englishNarrator": "Abdullah bin 'Umar ( رضی اللہ تعالیٰ عنہ) reported:",
+                "hadithEnglish": "Pre-Islamic days used to observe fast on the day of Ashura and the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) observed it and the Muslims too (observed it) before fasting in Ramadan became obligatory. But when it became obligatory, the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: 'Ashura is one of the days of Allah, so he who wished should observe fast and he who wished otherwise should abandon it.",
+                "hadithUrdu": "جاہلیت کے زمانے کے لوگ عاشورہ کے دن روزہ رکھتے تھے ۔ تو رسول اللہ صلی اللہ علیہ وسلم اورمسلمانوں نے بھی رمضان کے روزے فرض ہونے سے پہلے اس کا روزہ رکھا جب ر مضان کے روزے فرض ہوگئے تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ عاشورہ اللہ کے دنوں میں سے ایک دن ہے تو جو چاہے عاشورہ کا روزہ رکھے اور جو چاہے اسے چھوڑ دے ۔",
+                "urduNarrator": "ابو بکر بن ابی شیبہ ، عبداللہ بن نمیر ، ابن نمیر ، عبیداللہ ، نافع ، حضرت ابن عمر رضی اللہ تعالیٰ عنہ فرماتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللهِ بْنُ نُمَيْرٍ، ح وحَدَّثَنَا ابْنُ نُمَيْرٍ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا أَبِي، حَدَّثَنَا عُبَيْدُ اللهِ، عَنْ نَافِعٍ، أَخْبَرَنِي عَبْدُ اللهِ بْنُ عُمَرَ رَضِيَ اللهُ عَنْهُمَا، أَنَّ أَهْلَ الْجَاهِلِيَّةِ كَانُوا يَصُومُونَ يَوْمَ عَاشُورَاءَ، وَأَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ صَامَهُ، وَالْمُسْلِمُونَ قَبْلَ أَنْ يُفْتَرَضَ رَمَضَانُ، فَلَمَّا افْتُرِضَ رَمَضَانُ، قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ عَاشُورَاءَ يَوْمٌ مِنْ أَيَّامِ اللهِ، فَمَنْ شَاءَ صَامَهُ وَمَنْ شَاءَ تَرَكَهُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10207,
+                "hadithNumber": "2643",
+                "englishNarrator": null,
+                "hadithEnglish": "A hadith like this has been narrated on the authority of Abdullah through the same chain of transmitters.",
+                "hadithUrdu": "محمد بن مثنی ، زہیر بن حرب ، یحییٰ ، ابو بکر بن ابی شیبہ ، ابواسامہ ، حضرت عبیداللہ سے اس سند کے ساتھ بھی یہ حدیث روایت کی گئی ہے ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنَاه مُحَمَّدُ بْنُ الْمُثَنَّى، وَزُهَيْرُ بْنُ حَرْبٍ، قَالَا: حَدَّثَنَا يَحْيَى وَهُوَ الْقَطَّانُ، ح وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، كِلَاهُمَا عَنْ عُبَيْدِ اللهِ، بِمِثْلِهِ فِي هَذَا الْإِسْنَادِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10208,
+                "hadithNumber": "2644",
+                "englishNarrator": "Ibn 'Umar ( رضی اللہ تعالیٰ عنہ) said:",
+                "hadithEnglish": "The day of 'Ashura was mentioned before the Messenger of Allah (may peace he upon him). Thereupon the Messenger of Allah, ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: That was a day on which the people of pre-Islamic days used to observe fast. So he who amongst you likes to observe fast should do so, and he who does not like it should abandon it.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کے پاس عاشورہ کے دن کا ذکر کیا گیا تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ جاہلیت والے لوگ اس دن روزہ رکھتے تھے تو تم میں جو کوئی پسند کرتا ہے کہ وہ روزہ رکھے تو رکھ لے اور جو کوئی ناپسند کرتاہے تو وہ چھوڑ دے ۔",
+                "urduNarrator": "قتیبہ بن سعید ، لیث ، ابن رمح ، لیث ، نافع ، حضرت ابن عمر رضی اللہ تعالیٰ عنہ سے روایت ہے کہ",
+                "hadithArabic": "وحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، ح وحَدَّثَنَا ابْنُ رُمْحٍ، أَخْبَرَنَا اللَّيْثُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ رَضِيَ اللهُ عَنْهُمَا، أَنَّهُ ذُكِرَ عِنْدَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَوْمُ عَاشُورَاءَ فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «كَانَ يَوْمًا يَصُومُهُ أَهْلُ الْجَاهِلِيَّةِ، فَمَنْ أَحَبَّ مِنْكُمْ أَنْ يَصُومَهُ فَلْيَصُمْهُ، وَمَنْ كَرِهَ فَلْيَدَعْهُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10209,
+                "hadithNumber": "2645",
+                "englishNarrator": "Abdullah bin 'Umar ( رضی اللہ تعالیٰ عنہ) reported:",
+                "hadithEnglish": "He heard the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌)bin say about the day of Ashura: It is a day on which the people of pre-Islamic days observed fast. So he who liked to fast on this day should do so, and he who liked to abandon it should abandon it. 'Abdullah رضی اللہ تعالیٰ عنہ did not observe fast except when it coincided (with the days when he was in the habit of observing voluntary fasts during every month).",
+                "hadithUrdu": "انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے عاشورہ کے دن کے بارے میں فرماتےہوئے سنا کہ یہ وہ دن ہے جس دن جاہلیت کےلوگ روزہ رکھتے تھے تو جو کوئی پسند کرتاہے کہ اس دن روزہ رکھے تو وہ روزہ رکھ لے اور جو کوئی یہ پسند کرتا ہے کہ چھوڑ دے تو وہ چھوڑ دے اور حضرت عبداللہ رضی اللہ تعالیٰ عنہ روزہ نہیں رکھتے تھے سوائے اس کے کہ ان روزوں سے موافقت ہوجائے ۔",
+                "urduNarrator": "ابو کریب ، ابو اسامہ ، ولید ، ابن کثیر ، نافع ، حضرت ابن عمر رضی اللہ تعالیٰ عنہ بیان کرتے ہیں",
+                "hadithArabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنِ الْوَلِيدِ يَعْنِي ابْنَ كَثِيرٍ، حَدَّثَنِي نَافِعٌ، أَنَّ عَبْدَ اللهِ بْنَ عُمَرَ رَضِيَ اللهُ عَنْهُمَا، حَدَّثَهُ أَنَّهُ سَمِعَ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ فِي يَوْمِ عَاشُورَاءَ: «إِنَّ هَذَا يَوْمٌ كَانَ يَصُومُهُ أَهْلُ الْجَاهِلِيَّةِ، فَمَنْ أَحَبَّ أَنْ يَصُومَهُ فَلْيَصُمْهُ، وَمَنْ أَحَبَّ أَنْ يَتْرُكَهُ فَلْيَتْرُكْهُ» وَكَانَ عَبْدُ اللهِ رَضِيَ اللهُ عَنْهُ لَا يَصُومُهُ، إِلَّا أَنْ يُوَافِقَ صِيَامَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10210,
+                "hadithNumber": "2646",
+                "englishNarrator": "Abdullah bin Umar (رضی اللہ تعالیٰ عنہ) reported:",
+                "hadithEnglish": "The day of 'Ashura was mentioned before the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) and he narrated a hadith like one (narrated above).",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم کے پاس عاشورہ کے دن کے روزہ کا ذکر کیاگیا پھر آگے اسی طرح حدیث بیان کی ۔",
+                "urduNarrator": "محمد بن احمد بن ابی خلف ، روح ، ابو مالک ، عبیداللہ بن اخنس ، نافع ، حضرت ابن عمر رضی اللہ تعالیٰ عنہ سے روایت ہے کہ",
+                "hadithArabic": "وحَدَّثَنِي مُحَمَّدُ بْنُ أَحْمَدَ بْنِ أَبِي خَلَفٍ، حَدَّثَنَا رَوْحٌ، حَدَّثَنَا أَبُو مَالِكٍ عُبَيْدُ اللهِ بْنُ الْأَخْنَسِ، أَخْبَرَنِي نَافِعٌ، عَنْ عَبْدِ اللهِ بْنِ عُمَرَ رَضِيَ اللهُ عَنْهُمَا، قَالَ: ذُكِرَ عِنْدَ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ صَوْمُ يَوْمِ عَاشُورَاءَ فَذَكَرَ مِثْلَ حَدِيثِ اللَّيْثِ بْنِ سَعْدٍ سَوَاءً.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10211,
+                "hadithNumber": "2647",
+                "englishNarrator": "Abdullah bin Umar (رضی اللہ تعالیٰ عنہ) reported:",
+                "hadithEnglish": "The day of 'Ashura was mentioned before the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) and he said: It is a day when the people in the pre-Islamic days need to observe fast, so he who wishes to observe fast should do so, and he who wishes to abandon it should do so.",
+                "hadithUrdu": "ر سول اللہ صلی اللہ علیہ وسلم کے پاس عاشورہ کے دن کا ذکر کیا گیا تو آپ صلی اللہ علیہ وسلم نے فرمایا کہ یہ وہ دن ہے کہ جس دن جاہلیت کے لوگ روزہ رکھتے تھے تو جو چاہے ر وزہ رکھے اور جو چاہے روزہ چھوڑ دے ۔",
+                "urduNarrator": "احمد بن عثمان نوفلی ، ابو عاصم ، عمر بن محمد بن زیدعسقلانی ، سالم بن عبداللہ ، حضرت ابن عمر رضی اللہ تعالیٰ عنہ فرماتے ہیں کہ",
+                "hadithArabic": "وحَدَّثَنَا أَحْمَدُ بْنُ عُثْمَانَ النَّوْفَلِيُّ، حَدَّثَنَا أَبُو عَاصِمٍ، حَدَّثَنَا عُمَرُ بْنُ مُحَمَّدِ بْنِ زَيْدٍ الْعَسْقَلَانِيُّ، حَدَّثَنَا سَالِمُ بْنُ عَبْدِ اللهِ، حَدَّثَنِي عَبْدُ اللهِ بْنُ عُمَرَ رَضِيَ اللهُ عَنْهُمَا، قَالَ: ذُكِرَ عِنْدَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَوْمُ عَاشُورَاءَ، فَقَالَ: «ذَاكَ يَوْمٌ كَانَ يَصُومُهُ أَهْلُ الْجَاهِلِيَّةِ، فَمَنْ شَاءَ صَامَهُ وَمَنْ شَاءَ تَرَكَهُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10212,
+                "hadithNumber": "2648",
+                "englishNarrator": "Abdul-Rahman bin Yazid said:",
+                "hadithEnglish": "When al-Ash'ath bin Qais entered the house of 'Abdullah he was having his breakfast. He ('Abdullah bin Umar) said: Abd Muhammad (al-Asha'th), come near to the breakfast. Thereupon he said: Is not today the day of 'Ashura? He ('Abdul-Rahman) said: Do you know what the day of 'Ashura is? He said: What is it? He said: It is a day on which the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) used to observe fast before the (fasting) in the month of Ramadan (became) obligatory. But when it became obligatory the (fasting of 'Ashura) was abandoned (as compulsory). Abu Kuraib said: He (the Holy Prophet) abandoned it.",
+                "hadithUrdu": "اشعث بن قیس حضرت عبداللہ کی خدمت میں آئے اس حال میں کہ وہ صبح کا ناشتہ کررہے تھے انہوں نے فرمایا اے ابو محمد !آؤ ناشتہ کرلوتو انہوں نے کہا کہ کیا آج عاشورہ کا دن نہیں ہے؟حضرت عبداللہ نے فرمایا کہ کیا تو جانتا ہے کہ عاشورہ کا دن کیا ہے؟اشعث نے کہا وہ کیا ہے؟حضرت عبداللہ نے فرمایا کہ یہ وہ دن ہے کہ جس دن رسول اللہ صلی اللہ علیہ وسلم رمضان کے مہینے کے روزے فرض ہونے سے پہلے روزہ رکھا کرتے تھے تو جب رمضان کے مہینے کے روزے فرض ہوگئے تو آپ صلی اللہ علیہ وسلم نے عاشورہ کے دن کا روزہ چھوڑ دیا ۔ابو کریب نے کہا کہ  آپ صلی اللہ علیہ وسلم  نے اسے چھوڑ دیا۔",
+                "urduNarrator": "ابو بکر بن ابی شیبہ ، ابو کریب ، ابی معاویہ ، ابو بکر ، ابومعاویہ ، اعمش ، عمارۃ ، حضرت عبدالرحمن بن یزید فرماتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ، جَمِيعًا عَنْ أَبِي مُعَاوِيَةَ، قَالَ أَبُو بَكْرٍ: حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الْأَعْمَشِ، عَنْ عُمَارَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ، قَالَ: دَخَلَ الْأَشْعَثُ بْنُ قَيْسٍ عَلَى عَبْدِ اللهِ، وَهُوَ يَتَغَدَّى فَقَالَ: يَا أَبَا مُحَمَّدٍ ادْنُ إِلَى الْغَدَاءِ، فَقَالَ: أَوَلَيْسَ الْيَوْمُ يَوْمَ عَاشُورَاءَ؟ قَالَ: وَهَلْ تَدْرِي مَا يَوْمُ عَاشُورَاءَ؟ قَالَ: وَمَا هُوَ؟ قَالَ: «إِنَّمَا هُوَ يَوْمٌ كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَصُومُهُ قَبْلَ أَنْ يَنْزِلَ شَهْرُ رَمَضَانَ، فَلَمَّا نَزَلَ شَهْرُ رَمَضَانَ تُرِكَ» وقَالَ أَبُو كُرَيْبٍ تَرَكَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10213,
+                "hadithNumber": "2649",
+                "englishNarrator": "This hadith has been narrated from Jarir on the authority of A'mash with the same chain of transmitters and he said (these words with a little bit of variation from the previous hadith):",
+                "hadithEnglish": "When (fasting) in Ramadan was (made) obligatory, he aban- doned it (the practice of observing fast on Ashura).",
+                "hadithUrdu": "جب رمضان آیا تو اس نے اسے چھوڑ دیا۔",
+                "urduNarrator": "زہیر بن حرب ، عثمان بن ابی شیبہ ، جریر ، حضرت اعمش سے اس سند کے ساتھ یہ حدیث اس طرح نقل کی گئی ہے ۔تو انہوں نے کہا",
+                "hadithArabic": "وحَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَعُثْمَانُ بْنُ أَبِي شَيْبَةَ، قَالَا: حَدَّثَنَا جَرِيرٌ، عَنِ الْأَعْمَشِ، بِهَذَا الْإِسْنَادِ، وَقَالَا: فَلَمَّا نَزَلَ رَمَضَانُ تَرَكَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 9901,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=396",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=394",
+                "label": "394",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=395",
+                "label": "395",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=396",
+                "label": "396",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=397",
+                "label": "397",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=398",
+                "label": "398",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=399",
+                "label": "399",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=400",
+                "label": "400",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=398",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=398",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=396",
+        "to": 9925,
+        "total": 40465
+    }
+}

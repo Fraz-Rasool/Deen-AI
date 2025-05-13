@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 423,
+        "data": [
+            {
+                "id": 10839,
+                "hadithNumber": "3275",
+                "englishNarrator": "Ibn Umar (رضی اللہ عنہما) reported:",
+                "hadithEnglish": "Whenever Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) mounted his camel while setting out on a journey, he glorified Allah (uttered Allah-o-Akbar) thrice, and then said: Hallowed is He Who subdued for us this (ride) and we were not ourselves powerful enough to use It as a ride, and we are going to return to our Lord. O Allah, we seek virtue and piety from Thee in this journey of ours and the act which pleaseth Thee. O Allah, lighten this journey of ours, and make its distance easy for us. O Allah, Thou art (our) companion during the journey, and guardian of (our) family. O Allah, I seek refuge with Thee from hardships of the journey, gloominess of the sights, and finding of evil changes in property and family on return. And he (the Holy Prophet) uttered (these words), and made this addition to them: We are returning, repentant, worshipping our Lord. and praising Him.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کہیں سفر میں جانے کے لئے اپنے اونٹ پر سوار ہوتے تو تین بار اللہ اکبر فرماتے ، پھر یہ دعا پڑھتے : سبْحانَ الذي سخَّرَ لَنَا هذا وما كنَّا له مُقرنينَ ، وَإِنَّا إِلى ربِّنَا لمُنقَلِبُونَ . اللَّهُمَّ إِنَّا نَسْأَلُكَ في سَفَرِنَا هذا البرَّ والتَّقوى ، ومِنَ العَمَلِ ما تَرْضى . اللَّهُمَّ هَوِّنْ علَيْنا سفَرَنَا هذا وَاطْوِ عنَّا بُعْدَهُ ، اللَّهُمَّ أَنتَ الصَّاحِبُ في السَّفَرِ ، وَالخَلِيفَةُ في الأهْلِ. اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وعْثَاءِ السَّفَرِ ، وكآبةِ المنظَرِ ، وَسُوءِ المنْقلَبِ في المالِ والأهلِ \" پاک ہے وہ ذات جس نے اس جانور کو ہمارے تابع کر دیا اور ہم اس کو دبا نہ سکتے تھے اور ہم اپنے پروردگار کے پاس لوٹ جانے والے ہیں } الزخرف : 14,13 { اے اللہ! ہم تجھ سے اپنے اس سفر میں نیکی اور پرہیزگاری مانگتے ہیں اور ایسے کام کا سوال کرتے ہیں جسے تو پسند کرے ۔ اے اللہ! ہم پر اس سفر کو آسان کر دے اور اس کی مسافت کو ہم پر تھوڑا کر دے ۔ اے اللہ تو ہی سفر میں رفیق سفر اور گھر میں نگران ہے ۔ اے اللہ! میں تجھ سے سفر کی تکلیفوں اور رنج و غم سے اور اپنے مال اور گھر والوں میں برے حال میں لوٹ کر آنے سے تیری پناہ مانگتا ہوں ۔ ( یہ تو جاتے وقت پڑھتے ) اور جب لوٹ کر آتے تو بھی یہی دعا پڑھتے مگر اس میں اتنا زیادہ کرتے کہآيبون تائبون عائدون عابدون لربنا حامدون ”ہم لوٹنے والے ہیں ، توبہ کرنے والے ، خاص اپنے رب کی عبادت کرنے والے اور اسی کی تعریف کرنے والے ہیں“ ۔",
+                "urduNarrator": "مجھ سے ہارون بن عبداللہ نے بیان کیا، کہا ہم سے حجاج بن محمد نے بیان کیا، انہوں نے کہا کہ ابن جریج نے کہا: مجھ سے ابو الزبیر نے بیان کیا, سیدنا علی ازدی رضی اللہ عنہ سے روایت ہے کہ سیدنا ابن عمر رضی اللہ عنہما نے انہیں سکھایا کہ",
+                "hadithArabic": "حَدَّثَنِي هَارُونُ بْنُ عَبْدِ اللهِ، حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، قَالَ: قَالَ ابْنُ جُرَيْجٍ: أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّ عَلِيًّا الْأَزْدِيَّ، أَخْبَرَهُ أَنَّ ابْنَ عُمَرَ عَلَّمَهُمْ؛ أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ كَانَ إِذَا اسْتَوَى عَلَى بَعِيرِهِ خَارِجًا إِلَى سَفَرٍ، كَبَّرَ ثَلَاثًا، ثُمَّ قَالَ: «سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا، وَمَا كُنَّا لَهُ مُقْرِنِينَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ، اللهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى، وَمِنَ الْعَمَلِ مَا تَرْضَى، اللهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا، وَاطْوِ عَنَّا بُعْدَهُ، اللهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ، وَالْخَلِيفَةُ فِي الْأَهْلِ، اللهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ، وَكَآبَةِ الْمَنْظَرِ، وَسُوءِ الْمُنْقَلَبِ فِي الْمَالِ وَالْأَهْلِ»، وَإِذَا رَجَعَ قَالَهُنَّ وَزَادَ فِيهِنَّ: «آيِبُونَ تَائِبُونَ عَابِدُونَ لِرَبِّنَا حَامِدُونَ».",
+                "headingArabic": "استجاب الزكر إذا ركب دابته متوجها لسفر حج أوغيره وبيان الأفضل من ذلك الزكر",
+                "headingUrdu": "حج یا کسی اور مقصد کے لیے نکلتے وقت ذکر کے کلمات پڑھنا مستحب ہے اور اس میں سے بہترین ذکر",
+                "headingEnglish": "It is recommended to recite statements of remembrance when setting out for Hajj or any other purpose, and the best of this remembrances",
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10840,
+                "hadithNumber": "3276",
+                "englishNarrator": "Abdullah bin Sarjis reported:",
+                "hadithEnglish": "When Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) set forth on a journey, he sought refuge (with Allah) from the hardships of the travelling, and finding of evil changes on return, and disgrace after honour, and the curse of the oppressed and a gloomy sad scene in family and property.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم جب سفرکرتے توسفر کی مشقت ، واپسی میں اکتاہٹ ، اکھٹا ہونے کے بعد بکھر جانے ، مظلوم کی بدعا سے اور اہل ومال میں سے کسی برے منظر سے پناہ مانگتے ۔",
+                "urduNarrator": "مجھ سے زہیر بن حرب نے کہا, اسماعیل بن علیہ نے ہمیں عاصم احول سے حدیث بیان کی ، انھوں نے عبداللہ بن سرجس سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، عَنْ عَاصِمٍ الْأَحْوَلِ، عَنْ عَبْدِ اللهِ بْنِ سَرْجِسَ، قَالَ: «كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِذَا سَافَرَ يَتَعَوَّذُ مِنْ وَعْثَاءِ السَّفَرِ، وَكَآبَةِ الْمُنْقَلَبِ، وَالْحَوْرِ بَعْدَ الْكَوْرِ، وَدَعْوَةِ الْمَظْلُومِ، وَسُوءِ الْمَنْظَرِ فِي الْأَهْلِ وَالْمَالِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10841,
+                "hadithNumber": "3277",
+                "englishNarrator": "A similar report (as no. 3276) was narrated from 'Asim with this chain, except that in the Hadith off 'Abdul Wahid (a narrator) it says: \"With regards to wealth and family. \"In the report of Muhmmad bin Hazim:",
+                "hadithEnglish": "It says family first when he returns. And in the report of both it says: \"Allahhumma, a inni a udhu bika min watha is-safar (O Allah, I seek refuge with you from the difficulties of travel.)\"",
+                "hadithUrdu": "\" جب آپ واپس آتے تواہل ( کی سلامتی کی دعا ) سے ابتدا کرتے \" اور ( یہ ) دونوں کی روایت میں ہے؛ \" اے اللہ ! میں سفر کی تکان سے تیری پناہ مانگتا ہوں ۔ \"",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ اور زہیر بن حرب نے بیان کیا, ابومعاویہ ( محمد بن خازم ) اور عبدالواحد دونوں نے عاصم سے اسی سند کے ساتھ اسی کے مانند روایت بیان کی ، مگر عبدالواحد کی حدیث میں \" مال اوراہل میں \" کے الفاظ ہیں اور محمد بن خازم کی روایت میں ہے ، کہا",
+                "hadithArabic": "وحدثنا يَحْيَى بْنُ يَحْيَى، وَزُهَيْرُ بْنُ حَرْبٍ، جَمِيعًا، عَنْ أَبِي مُعَاوِيَةَ، ح وحَدَّثَنِي حَامِدُ بْنُ عُمَرَ، حَدَّثَنَا عَبْدُ الْوَاحِدِ، كِلَاهُمَا عَنْ عَاصِمٍ، بِهَذَا الْإِسْنَادِ مِثْلَهُ، غَيْرَ أَنَّ فِي حَدِيثِ عَبْدِ الْوَاحِدِ: فِي الْمَالِ وَالْأَهْلِ، وَفِي رِوَايَةِ مُحَمَّدِ بْنِ خَازِمٍ، قَالَ: يَبْدَأُ بِالْأَهْلِ إِذَا رَجَعَ، وَفِي رِوَايَتِهِمَا جَمِيعًا: «اللهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10842,
+                "hadithNumber": "3278",
+                "englishNarrator": "Abdullah bin 'Umar رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Whenever Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) came back from the battle or from expeditions or from Hajj or Umra and as he reached the top of the hillock or upon the elevated hard ground, he uttered Allah-o-Akbar thrice, and then said: There is no god but Allah. He is One, there is no partner with Him, His is the sovereignty and His is the praise and He is Potent over everything. (We are) returning, repenting, worshipping, prostrating before our Lord, and we praise Him Allah fulfilled His promise and helped His servant, and routed the confederates alone.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم جب بڑے لشکروں یا چھوٹے دستوں ( کی مہموں ) سے یاحج یا عمرے سے لوٹتے تو جب آپ کسی گھاٹی یا اونچی جگہ پر چڑھتے ، تین مرتبہ اللہ اکبرکہتے ، پھر فرماتے : لا إله إلا الله وحده لا شريك له له الملك وله الحمد وهو على كل شيء قدير آيبون تائبون عابدون ساجدون لربنا حامدون صدق الله وعده ونصر عبده وهزم الأحزاب وحده, \"\" اللہ کے سوا کوئی عبادت کے لائق نہیں ، وہ اکیلا ہے ، اس کا کوئی شریک نہیں ، سارااختیاراسی کا ہے ۔ حمد اسی کے لئے ہے اور وہی ہر چیز پر قادر ہے ۔ حمد اسی کےلئے ہے اور وہی ہر چیز پر قادر ہے ۔ ہم لوٹنے و الے ، توبہ کرنے والے ، عبادت کرنے والے ، سجدہ کرنے والے ، اپنے رب کی تعریف کرنے والے ہیں ، اللہ نے اپنا وعدہ سچا کیا ، اپنے بندے کی مدد کی اور تنہا اسی نے تمام جماعتوں کو شکست دی ۔ \"\"",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے ابو اسامہ نے بیان کیا, عبیداللہ نے نافع سے ، انھوں نے عبداللہ بن عمر رضی اللہ تعالیٰ عنہ سے روایت کی ، انھوں نےکہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنَا عُبَيْدُ اللهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، ح وحَدَّثَنَا عُبَيْدُ اللهِ بْنُ سَعِيدٍ، وَاللَّفْظُ لَهُ، حَدَّثَنَا يَحْيَى وَهُوَ الْقَطَّانُ، عَنْ عُبَيْدِ اللهِ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللهِ بْنِ عُمَرَ، قَالَ: كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِذَا قَفَلَ مِنَ الْجُيُوشِ، أَوِ السَّرَايَا، أَوِ الْحَجِّ، أَوِ الْعُمْرَةِ، إِذَا أَوْفَى عَلَى ثَنِيَّةٍ أَوْ فَدْفَدٍ، كَبَّرَ ثَلَاثًا، ثُمَّ قَالَ: «لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، آيِبُونَ تَائِبُونَ عَابِدُونَ سَاجِدُونَ لِرَبِّنَا حَامِدُونَ، صَدَقَ اللهُ وَعْدَهُ، وَنَصَرَ عَبْدَهُ، وَهَزَمَ الْأَحْزَابَ وَحْدَهُ».",
+                "headingArabic": "مَا يَقُولُ إِذَا قَفَلَ مِنْ سَفَرٍ الْحَجِّ وَغَيْرِهِ ‏‏",
+                "headingUrdu": "حج اور دوسرے سفر سے واپسی پر کیا کہنا چاہیے؟",
+                "headingEnglish": "What should be said when returning from Hajj and other journeys",
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10843,
+                "hadithNumber": "3279",
+                "englishNarrator": "A similar report (as no. 3278) was narrated from Ibn Umar, from the prophet , but in the Hadith of Ayyub (a narrator) it says:",
+                "hadithEnglish": "He said the Takbir twice.",
+                "hadithUrdu": "اس میں تکبیر دو مرتبہ ہے ۔",
+                "urduNarrator": "مجھ سے زہیر بن حرب نے بیان کیا، کہا کہ ہم سے اسماعیل نے بیان کیا، یعنی ابن اُعلیّہ نے, ایوب ، مالک اورضحاک سب نے نافع سے ، انھوں نے ابن عمر رضی اللہ تعالیٰ عنہ سے اور انھوں نے نبی کریم صلی اللہ علیہ وسلم سے اسی کے مانند حدیث بیان کی ، سوائے ایوب کی حدیث کے",
+                "hadithArabic": "وحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا إِسْمَاعِيلُ يَعْنِي ابْنَ عُلَيَّةَ، عَنْ أَيُّوبَ، ح وحَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا مَعْنٌ، عَنْ مَالِكٍ، ح وحَدَّثَنَا ابْنُ رَافِعٍ، حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، أَخْبَرَنَا الضَّحَّاكُ، كُلُّهُمْ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ، إِلَّا حَدِيثَ أَيُّوبَ، فَإِنَّ فِيهِ التَّكْبِيرَ مَرَّتَيْنِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10844,
+                "hadithNumber": "3280",
+                "englishNarrator": "Anas bin Malik ( رضی اللہ تعالیٰ عنہ) reported:",
+                "hadithEnglish": "I and Abu Talha (both) came back along with Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌). Safiyyah  رضی اللہ تعالیٰ عنہا (the wife of the Holy Prophet) rode behind him on his camel and as we came to the out- skirts of Medina he said: (We are those) who return, who repent, who worship our Lord, who praise (Him), and he went on uttering this until we entered Medina.",
+                "hadithUrdu": "میں اور ابو طلحہ نبی صلی اللہ علیہ وسلم کی معیت میں ( سفر سے ) و اپس آئے اورحضرت صفیہ رضی اللہ تعالیٰ عنہا آپ کی اونٹنی پر آپ کے پیچھے ( سوار ) تھیں ۔ جب ہم مدینہ کے بالائی حصے میں تھے تو آپ صلی اللہ علیہ وسلم نے فرمایا : \" ہم لوٹنے و الے ، توبہ کرنے والے ، عبادت کرنے والے ، اپنے رب کی تعریف کرنے والے ہیں ، \" آپ مسلسل یہی بات کہتے رہے یہاں تک کہ ہم مدینہ آگئے ۔",
+                "urduNarrator": "مجھ سے زہیر بن حرب نے بیان کیا، انہوں نے ہم سے بیان کیا اسماعیل بن علیہ نے ہمیں یحییٰ بن ابی اسحاق سے حدیث بیان کی ، انھوں نے کیا : حضرت انس بن مالک رضی اللہ تعالیٰ عنہ نے کہا",
+                "hadithArabic": "وحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، عَنْ يَحْيَى بْنِ أَبِي إِسْحَاقَ، قَالَ: قَالَ أَنَسُ بْنُ مَالِكٍ: أَقْبَلْنَا مَعَ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، أَنَا وَأَبُو طَلْحَةَ، وَصَفِيَّةُ رَدِيفَتُهُ عَلَى نَاقَتِهِ، حَتَّى إِذَا كُنَّا بِظَهْرِ الْمَدِينَةِ، قَالَ: «آيِبُونَ تَائِبُونَ عَابِدُونَ لِرَبِّنَا حَامِدُونَ»، فَلَمْ يَزَلْ يَقُولُ ذَلِكَ حَتَّى قَدِمْنَا الْمَدِينَةَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10845,
+                "hadithNumber": "3281",
+                "englishNarrator": null,
+                "hadithEnglish": "A hadith like this has been narrated by Anas bin Malik (رضی اللہ تعالیٰ عنہ) through another chain of transmitters.",
+                "hadithUrdu": "ہم سے حمید بن مسعدہ نے بیان کیا، انہوں نے بیان کیا بشر بن مفضل نے ہمیں حدیث بیان کی ، ( کہا : ) ہمیں یحییٰ بن ابی اسحاق نے حضرت انس بن مالک رضی اللہ تعالیٰ عنہ سے حدیث بیان کی ، انھوں نے نبی کریم صلی اللہ علیہ وسلم سے اسی کے مانندروایت کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وحدثنا حُمَيْدُ بْنُ مَسْعَدَةَ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، حَدَّثَنَا يَحْيَى بْنُ أَبِي إِسْحَاقَ، عَنْ أَنَسِ بْنِ مَالِكٍ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، بِمِثْلِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10846,
+                "hadithNumber": "3282",
+                "englishNarrator": "Abdullah bin 'Umar (رضی اللہ تعالیٰ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) made (his camel) kneel down (i, e. halt at the stony ground of Dhu'l-Hulaifa) and prayed there, and so did Abdullah bin Umar (رضی اللہ تعالیٰ عنہ).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے بارانی پانی کی سنگریزوں اور ریت والی گزرگاہ ( بطحاء ) میں جو ذوالحلیفہ میں ہے ، اونٹنی کو بٹھایا اوروہاں نماز ادا کی ۔ ( نافع نے ) کہا : عبداللہ بن عمر رضی اللہ تعالیٰ عنہ اسی طرح کیا کرتے تھے ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، انہوں نے کہا: میں نے پڑھا امام مالک ؒ نے نافع سے ، انھوں نے عبداللہ بن عمر رضی اللہ تعالیٰ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ: قَرَأْتُ عَلَى مَالِكٍ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللهِ بْنِ عُمَرَ، «أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَنَاخَ بِالْبَطْحَاءِ الَّتِي بِذِي الْحُلَيْفَةِ، فَصَلَّى بِهَا»، «وَكَانَ عَبْدُ اللهِ بْنُ عُمَرَ يَفْعَلُ ذَلِكَ».",
+                "headingArabic": "استحباب النزول ببطحاء ذي الحليفه والصلاة بها إذا صدر من الحج والعمرة وغيرهما فمر بها",
+                "headingUrdu": "ذوالحلیفہ کے غسل میں رک جانا اور حج اور عمرہ سے نکلتے وقت یا جب بھی وہاں سے گزرنا مستحب ہے",
+                "headingEnglish": "It is recommended to stop in Batha' of Dhul-Hulaifah and pray there when departing from Hajj and 'Umrah, or any time one passes through it",
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10847,
+                "hadithNumber": "3283",
+                "englishNarrator": "Nafi' reported:",
+                "hadithEnglish": "'Abdullah bin Umar (رضی اللہ تعالیٰ عنہ) used to halt his camel in the stony ground at Dhu'l-Hulaifa, where Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) used to make a halt (and pray).",
+                "hadithUrdu": "حضرت ابن عمر رضی اللہ تعالیٰ عنہ اس ر یتلی پتھریلی وادی میں اونٹ کو بٹھاتے جو ذوالحلیفہ میں ہے جہاں رسول اللہ صلی اللہ علیہ وسلم اونٹنی کو بٹھاتے تھے اور نماز ادا کرتے ۔",
+                "urduNarrator": "مجھ سے محمد بن روم بن المہاجر المصری نے بیان کیا، ہم سے لیث، ح، قتیبہ نے بیان کیا، اور تلفظ ان کا ہے، انہوں نے کہا لیث نے ہمیں نافع سے حدیث بیان کی ، انھوں نےکہا",
+                "hadithArabic": "وحَدَّثَنِي مُحَمَّدُ بْنُ رُمْحِ بْنِ الْمُهَاجِرِ الْمِصْرِيُّ، أَخْبَرَنَا اللَّيْثُ، ح وحَدَّثَنَا قُتَيْبَةُ، وَاللَّفْظُ لَهُ، قَالَ: حَدَّثَنَا لَيْثٌ، عَنْ نَافِعٍ، قَالَ: «كَانَ ابْنُ عُمَرَ يُنِيخُ بِالْبَطْحَاءِ الَّتِي بِذِي الْحُلَيْفَةِ، الَّتِي كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يُنِيخُ بِهَا، وَيُصَلِّي بِهَا».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10848,
+                "hadithNumber": "3284",
+                "englishNarrator": "Nafi' reported:",
+                "hadithEnglish": "When 'Abdullah bin 'Umar رضی اللہ تعالیٰ عنہ returned from Hajj or 'Umra he made his camel kneel down (i. e. halted) in the stony ground of Dhu'l-Hulaifa where Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) had made his camel halt.",
+                "hadithUrdu": "ابن عمر رضی اللہ تعالیٰ عنہ جب حج یا عمرے سے لوٹتے تواس پتھریلی ریتلی وادی میں اونٹ کو بٹھاتے جو ذوالحلیفہ میں ہے جہاں رسول اللہ صلی اللہ علیہ وسلم اونٹنی کو بٹھاتے تھے ۔",
+                "urduNarrator": "ہم سے محمد بن اسحاق المسیبی نے بیان کیا، انہوں نے مجھ سے بیان کیا انس ( بن عیاض ) ، یعنی ابوضمرہ نے موسیٰ بن عقبہ سے حدیث بیان کی ، انھوں نے نافع سے روایت کی کہ",
+                "hadithArabic": "وحَدَّثَنَا مُحَمَّدُ بْنُ إِسْحَاقَ الْمُسَيِّبِيُّ، حَدَّثَنِي أَنَسٌ يَعْنِي أَبَا ضَمْرَةَ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللهِ بْنَ عُمَرَ، «كَانَ إِذَا صَدَرَ مِنَ الْحَجِّ، أَوِ الْعُمْرَةِ، أَنَاخَ بِالْبَطْحَاءِ الَّتِي بِذِي الْحُلَيْفَةِ، الَّتِي كَانَ يُنِيخُ بِهَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10849,
+                "hadithNumber": "3285",
+                "englishNarrator": "Salim (bin Abdullah bin 'Umar رضی اللہ تعالیٰ عنہ) reported on the authority of his father (رضی اللہ تعالیٰ عنہ):",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) was visited by (someone, i.e. an angel) during the fag end of the night at Dhu'l-Hulaifa, and it was said to him: Verily it is a blessed stony-ground.",
+                "hadithUrdu": "ذوالحلیفہ میں رسول اللہ صلی اللہ علیہ وسلم کی رات کی استراحت کی جگہ پر ( ایک آنے والے کو ) بھیجا گیا ، اور آپ سے کہا گیا کہ آپ ایک مبارک وادی میں ہیں ۔",
+                "urduNarrator": "ہم سے محمد بن عباد نے بیان کیا، انہوں نے بیان کیا حاتم ، یعنی ابن اسماعیل نے ہمیں موسیٰ بن عقبہ سے حدیث بیان کی ، انھوں نے سالم سے ، انھوں نے اپنے والد ( عبداللہ بن عمر رضی اللہ تعالیٰ عنہ ) سے روایت کی کہ",
+                "hadithArabic": "وحَدَّثَنَا مُحَمَّدُ بْنُ عَبَّادٍ، حَدَّثَنَا حَاتِمٌ وَهُوَ ابْنُ إِسْمَاعِيلَ، عَنْ مُوسَى وَهُوَ ابْنُ عُقْبَةَ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أُتِيَ فِي مُعَرَّسِهِ بِذِي الْحُلَيْفَةِ، فَقِيلَ لَهُ: إِنَّكَ بِبَطْحَاءَ مُبَارَكَةٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10850,
+                "hadithNumber": "3286",
+                "englishNarrator": "Salim bin Abdullah bin Umar رضی اللہ تعالیٰ عنہ reported on the authority of his father:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) came to Dhu'l-Hulaifa in the heart of the valley at the fag end of the night, and it was said to him: It is a blessed stony ground. Musa (one of the narrators) said: Salim made his came) halt at the mosque where 'Abdullah رضی اللہ تعالیٰ عنہ made his camel halt as seeking the place of stay of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌). It is, in fact, situated at a lower plain than the mosque, which stands in the heart of the valley, and it is between it (the mosque) (and Qibla) that that place (where Allah's Apostle used to get down for rest and prayer) is situated.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم کے پاس ، جب آپ ذوالحلیفہ میں اپنی آرام گاہ میں جو وادی کے درمیان تھی ، ( کسی آنے والے کو ) بھیجا گیا ، اور آپ سے کہا گیا : آپ مبارک وادی میں ہیں ۔ موسیٰ ( بن عقبہ ) نے کہا : سالم نے ہمارے ساتھ مسجد کے قریب اسی جگہ اونٹ بٹھائے جہاں حضرت عبداللہ رضی اللہ تعالیٰ عنہ بٹھایا کرتے تھے ، وہ رسول اللہ صلی اللہ علیہ وسلم کی رات کے پچھلے پہر کی استراحت کی جگہ تلاش کرتے تھے ، اور وہ جگہ اسی مسجد سے نیچے تھی ، جو وادی کے درمیان میں تھی ، اس ( مسجد ) کے اور قبلے کے درمیان ، اس کے وسط میں ۔ اسماعیل بن جعفر نے ہمیں حدیث بیان کی ، ( کہا : ) ہمیں موسیٰ عقبہ نے سالم بن عبداللہ بن عمر رضی اللہ تعالیٰ عنہ سے خبر دی ، انھوں نے اپنے والد سے روایت کی کہ نبی کریم صلی اللہ علیہ وسلم کے پاس ، جب آپ ذوالحلیفہ میں اپنی آرام گاہ میں جو وادی کے درمیان تھی ، ( کسی آنے والے کو ) بھیجا گیا ، اور آپ سے کہا گیا : آپ مبارک وادی میں ہیں ۔ موسیٰ ( بن عقبہ ) نے کہا : سالم نے ہمارے ساتھ مسجد کے قریب اسی جگہ اونٹ بٹھائے جہاں حضرت عبداللہ رضی اللہ تعالیٰ عنہ بٹھایا کرتے تھے ، وہ رسول اللہ صلی اللہ علیہ وسلم کی رات کے پچھلے پہر کی استراحت کی جگہ تلاش کرتے تھے ، اور وہ جگہ اسی مسجد سے نیچے تھی ، جو وادی کے درمیان میں تھی ، اس ( مسجد ) کے اور قبلے کے درمیان ، اس کے وسط میں ۔",
+                "urduNarrator": "ہم سے محمد بن بکر بن ریان اور سوریج بن یونس نے بیان کیا، اور لفظ سریج ہے، انہوں نے کہا: انہوں نے ہم سے بیان کیا اسماعیل بن جعفر نے ہمیں حدیث بیان کی ، ( کہا : ) ہمیں موسیٰ عقبہ نے سالم بن عبداللہ بن عمر رضی اللہ تعالیٰ عنہ سے خبر دی ، انھوں نے اپنے والد سے روایت کی کہ",
+                "hadithArabic": "وحَدَّثَنَا مُحَمَّدُ بْنُ بَكَّارِ بْنِ الرَّيَّانِ، وَسُرَيْجُ بْنُ يُونُسَ، وَاللَّفْظُ لِسُرَيْجٍ، قَالَا: حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، أَخْبَرَنِي مُوسَى بْنُ عُقْبَةَ، عَنْ سَالِمِ بْنِ عَبْدِ اللهِ بْنِ عُمَرَ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أُتِيَ وَهُوَ فِي مُعَرَّسِهِ مِنْ ذِي الْحُلَيْفَةِ فِي بَطْنِ الْوَادِي، فَقِيلَ: إِنَّكَ بِبَطْحَاءَ مُبَارَكَةٍ ، قَالَ مُوسَى: وَقَدْ أَنَاخَ بِنَا سَالِمٌ بِالْمُنَاخِ مِنَ الْمَسْجِدِ الَّذِي كَانَ عَبْدُ اللهِ يُنِيخُ بِهِ، يَتَحَرَّى مُعَرَّسَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَهُوَ أَسْفَلُ مِنَ الْمَسْجِدِ الَّذِي بِبَطْنِ الْوَادِي، بَيْنَهُ وَبَيْنَ الْقِبْلَةِ، وَسَطًا مِنْ ذَلِكَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10851,
+                "hadithNumber": "3287",
+                "englishNarrator": "Abu Huraira ( رضی اللہ تعالیٰ عنہ) reported:",
+                "hadithEnglish": "Abu Bakr Siddiq ( رضی اللہ تعالیٰ عنہ) sent me during Hajj before the Farewell Pilgrimage for which Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ) had appointed him an Amir, among a group of people whom he had ordered to make announcement to the people on the Day of Nahr: After this year no polytheist may perform the Pilgrimage and no naked person may circumambulate the House. Ibn Shihab stated that Humaid bin Abdul-Rahman said that according to this narration of Abu Huraira (رضی اللہ تعالیٰ عنہ) the day of Hajj al-Akbar (Great Hajj) is this Day of Nahr (10th of Dhu'l-Hijja).",
+                "hadithUrdu": "حضرت ابو بکر صدیق رضی اللہ تعالیٰ عنہ نے مجھے اس حج میں جس میں رسول اللہ صلی اللہ علیہ وسلم نے حجۃ الوداع سے پہلے انھیں امیر بنایا تھا ، ایک چھوٹی جماعت کے ساتھ روانہ کیا کہ وہ لوگ قربانی کے دن لوگوں میں ( یہ ) اعلان کریں کہ اس سال کے بعد کوئی مشرک حج نہیں کرے گا اور نہ کوئی برہنہ شخص بیت اللہ کا طواف کرے گا ۔ ابن شہاب نے کہا : حمید بن عبدالرحمن ( بن عوف ) حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ کی حدیث کی بنا پر کہاکرتے تھے : قربانی کا دن ہی حج اکبر کا دن ہے ۔",
+                "urduNarrator": "مجھ سے ہارون بن سعید الایلی نے بیان کیا، ہم سے ابن وہب نے بیان کیا, عمرو ( بن حارث ) نے ابن شہاب سے ، انھوں نے حمید بن عبدالرحمن ( بن عوف ) سے خبردی ، انھوں نے حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ سے روایت کی ، نیز بونس ( بن یزید ایلی ) نے ابن شہاب سے اسی سندکے ساتھ حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنِي هَارُونُ بْنُ سَعِيدٍ الْأَيْلِيُّ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي عَمْرٌو، عَنِ ابْنِ شِهَابٍ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، ح وحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى التُّجِيبِيُّ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونسُ، أَنَّ ابْنَ شِهَابٍ، أَخْبَرَهُ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: بَعَثَنِي أَبُو بَكْرٍ الصِّدِّيقُ فِي الْحَجَّةِ الَّتِي أَمَّرَهُ عَلَيْهَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَبْلَ حَجَّةِ الْوَدَاعِ، فِي رَهْطٍ، يُؤَذِّنُونَ فِي النَّاسِ يَوْمَ النَّحْرِ: «لَا يَحُجُّ بَعْدَ الْعَامِ مُشْرِكٌ، وَلَا يَطُوفُ بِالْبَيْتِ عُرْيَانٌ»، قَالَ ابْنُ شِهَابٍ: فَكَانَ حُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ يَقُولُ يَوْمُ النَّحْرِ: يَوْمُ الْحَجِّ الْأَكْبَرِ مِنْ أَجْلِ حَدِيثِ أَبِي هُرَيْرَةَ.",
+                "headingArabic": "لاَ يَحُجُّ الْبَيْتَ مُشْرِكٌ وَلاَ يَطُوفُ بِالْبَيْتِ عُرْيَانٌ وَبَيَانُ يَوْمِ الْحَجِّ الأَكْبَبَرِ",
+                "headingUrdu": "کوئی مشرک گھر کا طواف نہیں کر سکتا اور نہ کوئی برہنہ ہو کر گھر کا طواف کر سکتا ہے اور جب حج کا سب سے بڑا دن ہو",
+                "headingEnglish": "No idolator may circumambulate the house, and no one may circumambulate the house naked, and when the greatest day of Hajj is",
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10852,
+                "hadithNumber": "3288",
+                "englishNarrator": "A'isha ( رضی اللہ تعالیٰ عنہا) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: There is no day when God sets free more servants from Hell than the Day of 'Arafa. He draws near, then praises them to the angels, saying: What do these want?",
+                "hadithUrdu": "بلاشبہ اللہ کے رسول صلی اللہ علیہ وسلم نے فرمایا : \" کوئی دن نہیں جس میں اللہ تعالیٰ عرفہ کے دن سے بڑھ کر بندوں کو آگ سے آزاد فرماتا ہو ، وہ ( اپنے بندوں کے ) قریب ہوتا ہے ۔ اور فرشتوں کے سامنے ان لوگوں کی بناء پر فخر کرتا ہے اور پوچھتا ہے : یہ لوگ کیا چاہتے ہیں؟ \"",
+                "urduNarrator": "ہم سے ہارون بن سعید الایلی اور احمد بن عیسیٰ نے بیان کیا، کہا کہ ہم سے ابن وہب نے بیان کیا، مجھ سے مخرمہ بن بکیر نے اپنے والد سے بیان کیا، انہوں نے کہا: میں نے یونس بن یوسف کو کہتے سنا: ابن المسیب کی روایت سے، انہوں نے کہا حضرت عائشہ رضی اللہ تعالیٰ عنہا نے کہا",
+                "hadithArabic": "حَدَّثَنَا هَارُونُ بْنُ سَعِيدٍ الْأَيْلِيُّ، وَأَحْمَدُ بْنُ عِيسَى، قَالَا: حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي مَخْرَمَةُ بْنُ بُكَيْرٍ، عَنْ أَبِيهِ، قَالَ: سَمِعْتُ يُونُسَ بْنَ يُوسُفَ، يَقُولُ: عَنِ ابْنِ الْمُسَيِّبِ، قَالَ: قَالَتْ عَائِشَةُ: إِنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: مَا مِنْ يَوْمٍ أَكْثَرَ مِنْ أَنْ يُعْتِقَ اللهُ فِيهِ عَبْدًا مِنَ النَّارِ، مِنْ يَوْمِ عَرَفَةَ، وَإِنَّهُ لَيَدْنُو، ثُمَّ يُبَاهِي بِهِمِ الْمَلَائِكَةَ، فَيَقُولُ: مَا أَرَادَ هَؤُلَاءِ؟",
+                "headingArabic": "فِي فَضْلِ الْحَجِّ وَالْعُمْرَةِ وَيَوْمِ عَرَفَةَ ‏‏",
+                "headingUrdu": "عرفات کے دن کی فضیلت",
+                "headingEnglish": "The virtue of the day of 'Arafat",
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10853,
+                "hadithNumber": "3289",
+                "englishNarrator": "Abu Huraira ( رضی اللہ تعالیٰ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: An Umra is an expiation for the sins committed between it and the next, and Hajj which is accepted will receive no other reward than Paradise.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" ایک عمرہ دوسرے عمرے تک ( کےگناہوں ) کا کفارہ ہے اور حج مبرور ، اس کا بدلہ جنت کے سوا اور کوئی نہیں ۔ \"",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، انہوں نے کہا: میں نے پڑھا امام مالک نےابو بکر بن عبدالرحمن کے آزاد کردہ غلام سمی سے ، انھوں نےابو صالح اور سمان سے اور ا نھوں نے حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ: قَرَأْتُ عَلَى مَالِكٍ، عَنْ سُمَيٍّ، مَوْلَى أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي صَالِحٍ السَّمَّانِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «الْعُمْرَةُ إِلَى الْعُمْرَةِ كَفَّارَةٌ لِمَا بَيْنَهُمَا، وَالْحَجُّ الْمَبْرُورُ لَيْسَ لَهُ جَزَاءٌ إِلَّا الْجَنَّةُ».",
+                "headingArabic": "فضل الحج والعمرة",
+                "headingUrdu": "حج اور عمرہ کی فضیلت",
+                "headingEnglish": "The virtue of Hajj and 'Umrah",
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10854,
+                "hadithNumber": "3290",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Abu Huraira ( رضی اللہ تعالیٰ عنہ) through another chain of transmitters.",
+                "hadithUrdu": "ہم سے سعید بن منصور، ابوبکر بن ابی شیبہ، عمرو ناقد اور زہیر بن حرب نے بیان کیا، انہوں نے کہا سفیان بن عینیہ ، سہیل ، عبیداللہ ، وکیع اورسفیان ( ثوری ) سب نے سمی سے ، انھوں نے ابوصالح سے ، انھوں نے حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ سے اورانھوں نے نبی کریم صلی اللہ علیہ وسلم سے مالک بن انس کی حدیث کے مانند روایت کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وَحَدَّثَنَاهُ سَعِيدُ بْنُ مَنْصُورٍ، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَمْرٌو النَّاقِدُ، وَزُهَيْرُ بْنُ حَرْبٍ، قَالُوا: حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، ح وحَدَّثَنِي مُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ الْأُمَوِيُّ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ الْمُخْتَارِ، عَنْ سُهَيْلٍ، ح وحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا عُبَيْدُ اللهِ ح، وحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا وَكِيعٌ، ح وَحَدَّثَنِي مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الرَّحْمَنِ، جَمِيعًا عَنْ سُفْيَانَ، كُلُّ هَؤُلَاءِ عَنْ سُمَيٍّ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِ حَدِيثِ مَالِكٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10855,
+                "hadithNumber": "3291",
+                "englishNarrator": "Abu Huraira (رضی اللہ تعالیٰ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying. He who came to this House (Ka'ba) (with the intention of performing Pilgrimage), and neither spoke indecently nor did he act wickedly. would return (free from sin) as on the (very first day) his mother bore him.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جو شخص ( اللہ ) کے اس گھر میں آیا ، نہ کوئی فحش گوئی کی اور نہ گناہ کیاتو وہ ( گناہوں سے پاک ہوکر ) اس طرح لوٹے گا جس طرح اسے اس کی ماں نےجنم دیاتھا ۔ \"",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ اور زہیر بن حرب نے بیان کیا، یحییٰ نے کہا کہ ہمیں خبر دی اور زہیر نے کہا , جریر نے منصور سے ، انھوں نے ابو حازم سے اور انھوں نے ابو ہریرہ رضی اللہ تعالیٰ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَزُهَيْرُ بْنُ حَرْبٍ، قَالَ يَحْيَى: أَخْبَرَنَا، وقَالَ زُهَيْرٌ: حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنْ أَتَى هَذَا الْبَيْتَ، فَلَمْ يَرْفُثْ، وَلَمْ يَفْسُقْ، رَجَعَ كَمَا وَلَدَتْهُ أُمُّهُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10856,
+                "hadithNumber": "3292",
+                "englishNarrator": "This hadith has been narrated on the authority of Mainsur with the same chain of transmitters (and the words are):",
+                "hadithEnglish": "He who performed Pilgrimage but neither spoke indecently nor acted wickedly.",
+                "hadithUrdu": "\" جس نے حج کیا اور اس نے نہ فحش گوئی کی اور نہ کوئی گناہ کیا ۔ \"",
+                "urduNarrator": "ہم سے سعید بن منصور نے بیان کیا,ابو عوانہ ، ابو احوص ، مسعر ، سفیان اورشعبہ سب نے منصور سے اسی سند کے ساتھ یہ حدیث بیا ن کی اور ان سب کی حدیث میں یہ الفاظ ہیں",
+                "hadithArabic": "وَحَدَّثَنَاهُ سَعِيدُ بْنُ مَنْصُورٍ، عَنْ أَبِي عَوَانَةَ، وَأَبِي الْأَحْوَصِ، ح وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنْ مِسْعَرٍ، وَسُفْيَانَ، ح وحَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، كُلُّ هَؤُلَاءِ عَنْ مَنْصُورٍ، بِهَذَا الْإِسْنَادِ، وَفِي حَدِيثِهِمْ جَمِيعًا: «مَنْ حَجَّ فَلَمْ يَرْفُثْ، وَلَمْ يَفْسُقْ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10857,
+                "hadithNumber": "3293",
+                "englishNarrator": null,
+                "hadithEnglish": "A hadith like this has been narrated on the authority of Abu Huraira (رضی اللہ تعالیٰ عنہ).",
+                "hadithUrdu": "ہم سے سعید بن منصور نے بیان کیا، کہا ہم سے ہشیم نے بیان کیا, سیار نے ابو حازم سے ، انھوں نے حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ سے اورانھوں نے نبی کریم صلی اللہ علیہ وسلم سے روایت کی ، اسی کے مانند ۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، حَدَّثَنَا هُشَيْمٌ، عَنْ سَيَّارٍ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، مِثْلَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10858,
+                "hadithNumber": "3294",
+                "englishNarrator": "Usama bin Zaid bin Haritha (رضی اللہ تعالیٰ عنہ) said to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ):",
+                "hadithEnglish": "Will you stay in your house at Mecca (which you abandoned at the time of migration)? Thereupon he said: Has 'Aqil left for as any land or house? And 'Aqil and Talib became the Inheritors of Abu Talib's (property), and neither Ja'far nor 'Ali inherited anything from him, for both (Ja'far and 'Ali رضی اللہ تعالیٰ عنہ) were Muslims whereas 'Aqil and Talib were non-Muslims.",
+                "hadithUrdu": "اے اللہ کے رسول اللہ صلی اللہ علیہ وسلم ! کیا آپ مکہ میں اپنے ( آبائی ) گھر میں قیام فر ما ئیں گے؟آپ نے فر ما یا : \"\" کیا عقیل نے ہمارے لیے احا طوں یا گھروں میں سے کو ئی چیز چھوڑی ہے ۔ اور طالب ابو طا لب کے وارث بنے تھے اور جعفر اور علی رضی اللہ تعالیٰ عنہ نے ان سے کو ئی چیز وراثت میں حا صل نہ کی ، کیونکہ وہ دونوں مسلمان تھے ، جبکہ عقیل اور طالب کا فر تھے ۔",
+                "urduNarrator": "مجھ سے ابو الطاہر اور ہرملہ بن یحییٰ نے بیان کیا، انہوں نے کہا: ہم سے ابن وہب نے بیان کیا، انہوں نے کہا یو نس بن یزید نے مجھے ابن شہاب سے خبر دی کہ علی بن حسین نے انھیں خبر دی کہ عمرو بن عثمان بن عفان نے انھیں اسامہ بن یزید بن حا رثہ رضی اللہ تعالیٰ عنہ سے خبر دی انھوں نے پو چھا",
+                "hadithArabic": "حَدَّثَنِي أَبُو الطَّاهِرِ، وَحَرْمَلَةُ بْنُ يَحْيَى، قَالَا: أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنَا يُونُسُ بْنُ يَزِيدَ، عَنِ ابْنِ شِهَابٍ، أَنَّ عَلِيَّ بْنَ حُسَيْنٍ، أَخْبَرَهُ، أَنَّ عَمْرَو بْنَ عُثْمَانَ بْنِ عَفَّانَ، أَخْبَرَهُ، عَنْ أُسَامَةَ بْنِ زَيْدِ بْنِ حَارِثَةَ، أَنَّهُ قَالَ: يَا رَسُولَ اللهِ، أَتَنْزِلُ فِي دَارِكَ بِمَكَّةَ؟ فَقَالَ «وَهَلْ تَرَكَ لَنَا عَقِيلٌ مِنْ رِبَاعٍ، أَوْ دُورٍ»، «وَكَانَ عَقِيلٌ وَرِثَ أَبَا طَالِبٍ هُوَ وَطَالِبٌ، وَلَمْ يَرِثْهُ جَعْفَرٌ، وَلَا عَلِيٌّ شَيْئًا لِأَنَّهُمَا كَانَا مُسْلِمَيْنِ، وَكَانَ عَقِيلٌ وَطَالِبٌ كَافِرَيْنِ».",
+                "headingArabic": "النُّزُولِ بِمَكَّةَ لِلْحَاجِّ وَتَوْرِيثِ دُورِهَا ‏‏",
+                "headingUrdu": "مکہ مکرمہ میں مقیم حجاج اور اس کے مکانات کا وارث",
+                "headingEnglish": "Pilgrims staying in Makkah, and Inheriting its houses",
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10859,
+                "hadithNumber": "3295",
+                "englishNarrator": "Usama bin Zaid (رضی اللہ تعالیٰ عنہ) said:",
+                "hadithEnglish": "O Allah's Messenger, God willing, where will you stay tomorrow? And it was at the time of the Conquest (of Mecca). Thereupon he (the Holy Prophet) said: Has 'Aqil left any accommodation for us?",
+                "hadithUrdu": "اے اللہ کے رسول صلی اللہ علیہ وسلم ! آپ کل کہاں قیام کریں گے ؟یہ بات آپ کے حج کے دورا ن میں ہو ئی جب ہم مکہ کے قریب پہنچ چکے تھےتو آپ نے فرمایا : \" کیا عقیل نے ہمارے لیے کو ئی گھر چھوڑا ہے ! \"",
+                "urduNarrator": "ہم سے محمد بن مہران رازی، ابن ابی عمر اور عبد بن حمید سب نے عبد الرزاق کی سند سے بیان کیا: ہم سے عبد نے بیان کیا۔ الرزاق، کے بارے میں معمر نے زہری سے انھوں نے علی بن حسین سے انھوں نے عمرو بن عثمان سے اور انھوں نے اسامہ بن زید رضی اللہ تعالیٰ عنہ سے روایت کی ، ( انھوں نے کہا ) میں نے عرض کی",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مِهْرَانَ الرَّازِيُّ، وَابْنُ أَبِي عُمَرَ، وَعَبْدُ بْنُ حُمَيْدٍ، جَمِيعًا عَنْ عَبْدِ الرَّزَّاقِ، قَالَ ابْنُ مِهْرَانَ: حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ عَلِيِّ بْنِ حُسَيْنٍ، عَنْ عَمْرِو بْنِ عُثْمَانَ، عَنْ أُسَامَةَ بْنِ زَيْدٍ، قُلْتُ: يَا رَسُولَ اللهِ، أَيْنَ تَنْزِلُ غَدًا؟ وَذَلِكَ فِي حَجَّتِهِ حِينَ دَنَوْنَا مِنْ مَكَّةَ، فَقَالَ: «وَهَلْ تَرَكَ لَنَا عَقِيلٌ مَنْزِلًا».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10860,
+                "hadithNumber": "3296",
+                "englishNarrator": "Narrated Usama bin Zaid:",
+                "hadithEnglish": "Usama bin Zaid (رضی اللہ تعالیٰ عنہ) said: Allah's Messenger, God willing, where will you stay tomorrow? Thereupon he (the Holy Prophet) said: Has 'Aqil left any accommodation for us?",
+                "hadithUrdu": "اسامہ بن زید رضی اللہ تعالیٰ عنہ سے روایت کی انھوں نے عرض کی : اللہ کے رسول صلی اللہ علیہ وسلم ! کل ان شاء اللہ آپ کہاں ٹھہریں گے؟ یہ فتح مکہ کا زمانہ تھا آپ نے فر ما یا : \" کیا عقیل نے ہمارے لیے کو ئی گھر چھوڑا ہے! \"",
+                "urduNarrator": "ہم سے محمد بن حاتم نے بیان کیا، ہم سے روح بن عبادہ نے بیان کیا، انہوں نے کہا محمد بن ابی حفصہ اور زمعہ بن صالح دونوں نے کہا ابن شہاب نے ہمیں حدیث بیان کی انھوں نے علی بن حسین سے ، انھوں نے عمرو بن عثمان سے انھوں نے",
+                "hadithArabic": "وحَدَّثَنِيهِ مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي حَفْصَةَ، وَزَمْعَةُ بْنُ صَالِح قَالَا: حَدَّثَنَا ابْنُ شِهَابٍ، عَنْ عَلِيِّ بْنِ حُسَيْنٍ، عَنْ عَمْرِو بْنِ عُثْمَانَ، عَنْ أُسَامَةَ بْنِ زَيْدٍ؛ أَنَّهُ قَالَ: يَا رَسُولَ اللهِ، أَيْنَ تَنْزِلُ غَدًا إِنْ شَاءَ اللهُ؟ وَذَلِكَ زَمَنَ الْفَتْحِ، قَالَ: «وَهَلْ تَرَكَ لَنَا عَقِيلٌ مِنْ مَنْزِلٍ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10861,
+                "hadithNumber": "3297",
+                "englishNarrator": "Al-'Ali' bin al-Hadrami رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ﷺ as saying: For a Mahijir, it is only three (days') stay at Mecca, after completing (the Hajj or 'Umra) that is allowed, and it seemed as if he was saying that he should not (stay) beyond this (period).",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ، آپ فر ما رہے تھے : ( مکہ سے ) ہجرت کر جا نے والے کے لیے ( منیٰ سے ) لوٹنے کے بعد مکہ میں تین دن قیام کرنا جا ئز ہے ۔ گو یا آپ یہ فر ما رہے تھے ۔ کہ اس سے زیادہ نہ ٹھہرے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ بن قعنب نے بیان کیا، انہوں نے بیان کیا سلیمان بن بلال نے ہمیں عبد الرحمٰن بن حمید ( بن عبد الرحمٰن بن عوف ) سے حدیث بیان کی کہ انھوں نے عمر بن عبد العز یز کو سائب بن یزید رضی اللہ تعالیٰ عنہ سے پو چھتے ہو ئے سنا کہہ رہے تھے : کیا آپ نے مکہ میں قیام کرنے کے بارے میں ( رسول اللہ کا ) کو ئی فرما ن سنا ہے؟ سائب نے جواب دیا : میں نے علاء بن حضرمی رضی اللہ تعالیٰ عنہ سے سنا : کہہ رہے تھے",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ مَسْلَمَةَ بْنِ قَعْنَبٍ، حَدَّثَنَا سُلَيْمَانُ يَعْنِي ابْنَ بِلَالٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ حُمَيْدٍ، أَنَّهُ سَمِعَ عُمَرَ بْنَ عَبْدِ الْعَزِيزِ، يَسْأَلُ السَّائِبَ بْنَ يَزِيدَ، يَقُولُ: هَلْ سَمِعْتَ فِي الْإِقَامَةِ بِمَكَّةَ شَيْئًا؟ فَقَالَ السَّائِبُ: سَمِعْتُ الْعَلَاءَ بْنَ الْحَضْرَمِيِّ، يَقُولُ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «لِلْمُهَاجِرِ إِقَامَةُ ثَلَاثٍ بَعْدَ الصَّدَرِ بِمَكَّةَ»، «كَأَنَّهُ يَقُولُ لَا يَزِيدُ عَلَيْهَا».",
+                "headingArabic": "جَوَازِ الإِقَامَةِ بِمَكَّةَ لِلْمُهَاجِرِ مِنْهَا بَعْدَ فَرَاغِ الْحَجِّ وَالْعُمْرَةِ ثَلاَثَةَ أَيَّامٍ بِلاَ زِيَادَةٍ",
+                "headingUrdu": "مکہ سے ہجرت کرنے والے کے لیے حج اور عمرہ سے فارغ ہونے کے بعد تین دن تک وہاں رہنا جائز ہے اور اس سے زیادہ نہیں۔",
+                "headingEnglish": "It is permissible for the one who emigrated from Makkah to stay there for three days after completing Hajj and 'Umrah, and no more than that",
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10862,
+                "hadithNumber": "3298",
+                "englishNarrator": "Al-'Ala' bin al-Hadrami رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: The Muhijir should stay at Mecca after performing the rituals (of Hajj) but for three (days) only.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا : \" ہجرت کر جا نے والا اپنی عبادت ( حج یا عمرہ ) مکمل کرنے کے بعد مکہ میں تین دن ٹھہر سکتا ہے ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، انہوں نے بیان کیا سفیان بن عیینہ نے ہمیں عبد الرحمٰن بن حمید سے خبر دی انھوں نے کہا : میں نے عمر بن عبد لعزیز سے سنا ، وہ اپنے نشینوں سے کہہ رہے تھے : تم ( حج کے بعد مکہ میں ٹھہرنے کے بارے میں کیا سنا ، ؟سائب بن یزید رضی اللہ تعالیٰ عنہ نے کہا : میں علاء ۔ ۔ ۔ یا کہا : علاء بن حضرمی رضی اللہ تعالیٰ عنہ ۔ ۔ ۔ ۔ سے سنا کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ حُمَيْدٍ، قَالَ: سَمِعْتُ عُمَرَ بْنَ عَبْدِ الْعَزِيزِ يَقُولُ لِجُلَسَائِهِ: مَا سَمِعْتُمْ فِي سُكْنَى مَكَّةَ؟ فَقَالَ السَّائِبُ بْنُ يَزِيدَ: سَمِعْتُ الْعَلَاءَ، - أَوْ قَالَ الْعَلَاءَ بْنَ الْحَضْرَمِيِّ - قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «يُقِيمُ الْمُهَاجِرُ بِمَكَّةَ بَعْدَ قَضَاءِ نُسُكِهِ ثَلَاثًا».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10863,
+                "hadithNumber": "3299",
+                "englishNarrator": "Al-'Ala' bin al-Hadrami رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: It is only for three nights that a Muhajir should stay at Mecca after the completion of the rituals of Hajj.",
+                "hadithUrdu": "میں نے نبی صلی اللہ علیہ وسلم سے سنا ، آپ فر ما رہے تھے ۔ مہاجر ( منیٰ سے ) لو ٹنے کے بعد تین را تیں مکہ میں ٹھہرسکتا ۔",
+                "urduNarrator": "ہم سے حسن الحلوانی اور عبد بن حمید نے بیان کیا، یعقوب بن ابراہیم بن سعد کی سند سے، میرے والد نے ہم سے بیان کیا، صالح نے عبد الرحمٰن بن حمید سے روایت کی کہ انھوں نے عمر بن عبد العزیز سے سنا ، وہ سائب بن یزید رضی اللہ تعالیٰ عنہ سے سوال کر رہے تھے تو سائب رضی اللہ تعالیٰ عنہ نے جواب دیا , میں نے علاء بن حضری رضی اللہ تعالیٰ عنہ سے سنا وہ کہہ رہے تھے",
+                "hadithArabic": "وحَدَّثَنَا حَسَنٌ الْحُلْوَانِيُّ، وَعَبْدُ بْنُ حُمَيْدٍ، جَمِيعًا عَنْ يَعْقُوبَ بْنِ إِبْرَاهِيمَ بْنِ سَعْدٍ، حَدَّثَنَا أَبِي، عَنْ صَالحِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ حُمَيْدٍ، أَنَّهُ سَمِعَ عُمَرَ بْنَ عَبْدِ الْعَزِيزِ يَسْأَلُ السَّائِبَ بْنَ يَزِيدَ، فَقَالَ السَّائِبُ: سَمِعْتُ الْعَلَاءَ بْنَ الْحَضْرَمِيِّ، يَقُولُ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «ثَلَاثُ لَيَالٍ يَمْكُثُهُنَّ الْمُهَاجِرُ بِمَكَّةَ بَعْدَ الصَّدَرِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "16",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 116,
+                    "chapterNumber": "16",
+                    "chapterEnglish": "The Book of Pilgrimage",
+                    "chapterUrdu": "حج کے احکام و مسائل",
+                    "chapterArabic": "كتاب الْحَجِّ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 10551,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=422",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=420",
+                "label": "420",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=421",
+                "label": "421",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=422",
+                "label": "422",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=423",
+                "label": "423",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=424",
+                "label": "424",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=425",
+                "label": "425",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=426",
+                "label": "426",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=424",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=424",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=422",
+        "to": 10575,
+        "total": 40465
+    }
+}

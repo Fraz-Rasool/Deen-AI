@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 223,
+        "data": [
+            {
+                "id": 5553,
+                "hadithNumber": "5802",
+                "englishNarrator": "Narrated Mu'tamir's father:",
+                "hadithEnglish": "\"I saw Anas رضی اللہ عنہ wearing a yellow hooded cloak of Khazz.\"",
+                "hadithUrdu": "میں نے حضرت انس رضی اللہ عنہ پر ریشمی زرد ٹوپی کو دیکھا ۔",
+                "urduNarrator": "اور کہا مجھ سے مسدد نے اور کہا ہم سے معتمر نے کہ میں نے اپنے باپ سے سنا ، کہا انہوں نے کہ",
+                "hadithArabic": "وَقَالَ لِي مُسَدَّدٌ حَدَّثَنَا مُعْتَمِرٌ، سَمِعْتُ أَبِي قَالَ، رَأَيْتُ عَلَى أَنَسٍ بُرْنُسًا أَصْفَرَ مِنْ خَزٍّ‏.‏",
+                "headingArabic": "الْبَرَانِسِ",
+                "headingUrdu": "ڈھکے ہوئے چادر",
+                "headingEnglish": "Hooded cloaks",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5554,
+                "hadithNumber": "5803",
+                "englishNarrator": "Narrated `Abdullah bin `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "A man said, \"O Allah's Messenger (ﷺ). What type of clothes should a Muhrim wear Allah's Messenger (ﷺ) replied, 'Do not wear shirts, turbans trousers hooded cloaks or Khuffs (socks made from thick fabric or leather); but if someone cannot get sandals, then he can wear Khuffs after cutting them short below the ankles. Do not wear clothes touched by saffon or wars (two kinds of perfumes).",
+                "hadithUrdu": "ایک شخص نے عرض کیا یا رسول اللہ ( صلی اللہ علیہ وسلم ) ! محرم کس طرح کا کپڑا پہنے ؟ آنحضرت صلی اللہ علیہ وسلم نے فرمایا ( محرم کے لیے ) کہ قمیص نہ پہنو نہ عمامے نہ پاجامے نہ برنس اور نہ موزے البتہ اگر کسی کو چپل نہ ملے تو وہ ( چمڑے کے ) موزوں کو ٹخنہ سے نیچے تک کاٹ کر انہیں پہن سکتا ہے اور نہ کوئی ایسا کپڑا پہنو جس میں زعفران یا ورس لگایا گیا ہو ۔",
+                "urduNarrator": "ہم سے اسماعیل نے بیان کیا ، انہوں نے کہا کہ مجھ سے امام مالک نے بیان کیا ، ان سے نافع نے بیان کیا ، ان سے حضرت عبداللہ بن عمر رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَجُلاً، قَالَ يَا رَسُولَ اللَّهِ مَا يَلْبَسُ الْمُحْرِمُ مِنَ الثِّيَابِ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ تَلْبَسُوا الْقُمُصَ، وَلاَ الْعَمَائِمَ، وَلاَ السَّرَاوِيلاَتِ، وَلاَ الْبَرَانِسَ، وَلاَ الْخِفَافَ، إِلاَّ أَحَدٌ لاَ يَجِدُ النَّعْلَيْنِ، فَلْيَلْبَسْ خُفَّيْنِ، وَلْيَقْطَعْهُمَا أَسْفَلَ مِنَ الْكَعْبَيْنِ، وَلاَ تَلْبَسُوا مِنَ الثِّيَابِ شَيْئًا مَسَّهُ زَعْفَرَانٌ وَلاَ الْوَرْسُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5555,
+                "hadithNumber": "5804",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Whoever cannot get an Izar, can wear trousers, and whoever cannot wear sandals can wear Khuffs (socks made from thick fabric or leather).\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے ( محرم کے بارے میں ) فرمایا جسے تہمد نہ ملے وہ پاجامہ پہنے اور جسے چپل نہ ملیں وہ موزے پہنیں ۔",
+                "urduNarrator": "ہم سے ابونعیم نے بیان کیا ، کہا ہم سے سفیان ثوری نے بیان کیا ، ان سے عمرو نے ، ان سے جابر بن زید نے اور ان سے حضرت عبداللہ بن عباس رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ جَابِرِ بْنِ زَيْدٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ لَمْ يَجِدْ إِزَارًا فَلْيَلْبَسْ سَرَاوِيلَ، وَمَنْ لَمْ يَجِدْ نَعْلَيْنِ فَلْيَلْبَسْ خُفَّيْنِ ‏\"‏‏.‏",
+                "headingArabic": "السَّرَاوِيلِ",
+                "headingUrdu": "پتلون",
+                "headingEnglish": "Trousers",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5556,
+                "hadithNumber": "5805",
+                "englishNarrator": "Narrated `Abdullah:",
+                "hadithEnglish": "A man got up and said, O Allah's Messenger (ﷺ)! What do you order us to wear when we assume the state of Ihram?\" The Prophet (ﷺ) replied, \"Do not wear shirts, trousers, turbans, hooded cloaks or Khuffs (socks made from thick fabric or leather), but if a man has no sandals, he can wear Khuffs after cutting them short below the ankles; and do not wear clothes touched with (perfumes) of saffron or wars.\"",
+                "hadithUrdu": "ایک صاحب نے کھڑے ہو کر عرض کیا یا رسول اللہ ! احرام باندھنے کے بعد ہمیں کس چیز کے پہننے کا حکم ہے ؟ فرمایا کہ قمیص نہ پہنو نہ پاجامے ، نہ عمامے ، نہ برنس اور نہ موزے پہنو ۔ البتہ اگر کسی کے پاس چپل نہ ہوں تو وہ چمڑے کے ایسے موزے پہنے جو ٹخنوں سے نیچے ہوں اور کوئی ایسا کپڑا نہ پہنو جس میں زعفران اور ورس لگا ہوا ہو ۔",
+                "urduNarrator": "ہم سے موسیٰ بن اسماعیل نے بیان کیا ، انہوں نے کہا ہم سے جویریہ نے بیان کیا ، ان سے نافع نے اور ان سے حضرت عبداللہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا جُوَيْرِيَةُ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قَامَ رَجُلٌ فَقَالَ يَا رَسُولَ اللَّهِ مَا تَأْمُرُنَا أَنْ نَلْبَسَ إِذَا أَحْرَمْنَا‏.‏ قَالَ ‏ \"‏ لاَ تَلْبَسُوا الْقَمِيصَ، وَالسَّرَاوِيلَ، وَالْعَمَائِمَ وَالْبَرَانِسَ، وَالْخِفَافَ، إِلاَّ أَنْ يَكُونَ رَجُلٌ لَيْسَ لَهُ نَعْلاَنِ، فَلْيَلْبَسِ الْخُفَّيْنِ أَسْفَلَ مِنَ الْكَعْبَيْنِ، وَلاَ تَلْبَسُوا شَيْئًا مِنَ الثِّيَابِ مَسَّهُ زَعْفَرَانٌ وَلاَ وَرْسٌ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5557,
+                "hadithNumber": "5806",
+                "englishNarrator": "Narrated `Abdullah bin `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"A Muhrim should not wear a shirt, a turban, trousers, hooded cloaks, a garment touched with (perfumes) of saffron or wars, or Khuffs (socks made from thick fabric or leather) except if one has no sandals in which case he should cut short the Khuffs below the ankles.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ محرم قمیص نہ پہنے نہ عمامہ پہنے نہ پاجامہ نہ برنس اور نہ کوئی ایسا کپڑا پہنے جس میں زعفران اور ورس لگا ہو اور نہ موزے پہنے البتہ اگر کسی کو چپل نہ ملیں تو موزوں کو ٹخنوں کے نیچے تک کاٹ دے ۔ ( پھر پہنے )",
+                "urduNarrator": "ہم سے علی بن عبداللہ مدینی نے بیان کیا ، انہوں نے کہا ہم سے سفیان ثوری نے بیان کیا ، انہوں نے کہا کہ میں نے زہری سے سنا ، انہوں نے کہا کہ مجھے سالم نے خبر دی ، انہیں ان کے والد ( حضرت عبداللہ بن عمر رضی اللہ عنہما ) نے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، قَالَ سَمِعْتُ الزُّهْرِيَّ، قَالَ أَخْبَرَنِي سَالِمٌ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَلْبَسُ الْمُحْرِمُ الْقَمِيصَ، وَلاَ الْعِمَامَةَ، وَلاَ السَّرَاوِيلَ، وَلاَ الْبُرْنُسَ، وَلاَ ثَوْبًا مَسَّهُ زَعْفَرَانٌ، وَلاَ وَرْسٌ، وَلاَ الْخُفَّيْنِ، إِلاَّ لِمَنْ لَمْ يَجِدِ النَّعْلَيْنِ، فَإِنْ لَمْ يَجِدْهُمَا فَلْيَقْطَعْهُمَا أَسْفَلَ مِنَ الْكَعْبَيْنِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5558,
+                "hadithNumber": "5807",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "Some Muslim men emigrated to Ethiopia whereupon Abu Bakr رضی اللہ عنہ also prepared himself for the emigration, but the Prophet (ﷺ) said (to him), \"Wait, for I hope that Allah will allow me also to emigrate.\" Abu Bakr رضی اللہ عنہ said, \"Let my father and mother be sacrificed for you. Do you hope that (emigration)?\" The Prophet said, 'Yes.\" So Abu Bakr رضی اللہ عنہ waited to accompany the Prophet (ﷺ) and fed two she-camels he had on the leaves of As-Samur tree regularly for four months One day while we were sitting in our house at midday, someone said to Abu Bakr رضی اللہ عنہ , \"Here is Allah's Messenger (ﷺ), coming with his head and a part of his face covered with a cloth-covering at an hour he never used to come to us.\" Abu Bakr رضی اللہ عنہ said, \"Let my father and mother be sacrificed for you, (O Prophet)! An urgent matter must have brought you here at this hour.\" The Prophet (ﷺ) came and asked the permission to enter, and he was allowed. The Prophet (ﷺ) entered and said to Abu Bakr رضی اللہ عنہ , \"Let those who are with you, go out.\" Abu Bakr رضی اللہ عنہ replied, \"(There is no stranger); they are your family. Let my father be sacrificed for you, O Allah's Apostle!\" The Prophet (ﷺ) said, \"I have been allowed to leave (Mecca).\" Abu Bakr رضی اللہ عنہ said, \" I shall accompany you, O Allah's Messenger (ﷺ), Let my father be sacrificed for you!\" The Prophet (ﷺ) said, \"Yes,\" Abu Bakr رضی اللہ عنہ  said, 'O Allah's Messenger (ﷺ)s! Let my father be sacrificed for you. Take one of these two shecamels of mine\" The Prophet (ﷺ) said. I will take it only after paying its price.\" So we prepared their baggage and put their journey food In a leather bag. And Asma' bint Abu Bakr cut a piece of her girdle and tied the mouth of the leather bag with it. That is why she was called Dhatan- Nitaqaln. Then the Prophet (ﷺ) and Abu Bakr رضی اللہ عنہ went to a cave in a mountain called Thour and remained there for three nights. `Abdullah bin Abu Bakr رضی اللہ عنہ . who was a young intelligent man. used to stay with them at night and leave before dawn so that in the morning, he would he with the Quraish at Mecca as if he had spent the night among them. If he heard of any plot contrived by the Quraish against the Prophet and Abu Bakr رضی اللہ عنہ , he would understand it and (return to) inform them of it when it became dark. 'Amir bin Fuhaira رضی اللہ عنہ , the freed slave of Abu Bakr رضی اللہ عنہ used to graze a flock of milch sheep for them and he used to take those sheep to them when an hour had passed after the `Isha prayer. They would sleep soundly till 'Amir bin Fuhaira رضی اللہ عنہ awakened them when it was still dark. He used to do that in each of those three nights.",
+                "hadithUrdu": "بہت سے مسلمان حبشہ ہجرت کر کے چلے گئے اور ابوبکر رضی اللہ عنہ بھی ہجرت کی تیاریاں کرنے لگے لیکن نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ ابھی ٹھہر جاؤ کیونکہ مجھے بھی امید ہے کہ مجھے ( ہجرت کی ) اجازت دی جائے گی ۔ ابوبکر رضی اللہ عنہ نے عرض کیا کیا آپ کو بھی امید ہے ؟ میرا باپ آپ پر قربان ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ ہاں ۔ چنانچہ ابوبکر رضی اللہ عنہ آنحضرت صلی اللہ علیہ وسلم کے ساتھ رہنے کے خیال سے رک گئے اور اپنی دو اونٹنیوں کو ببول کے پتے کھلا کر چار مہینے تک انہیں خوب تیار کرتے رہے ۔ عروہ نے بیان کیا کہ عائشہ رضی اللہ عنہا نے کہا ہم ایک دن دوپہر کے وقت اپنے گھر میں بیٹھے ہوئے تھے کہ ایک شخص نے ابوبکر رضی اللہ عنہ سے کہا رسول اللہ صلی اللہ علیہ وسلم سر ڈھکے ہوئے تشریف لا رہے ہیں ۔ اس وقت عموماً آنحضرت صلی اللہ علیہ وسلم ہمارے یہاں تشریف نہیں لاتے تھے ۔ ابوبکر رضی اللہ عنہ نے کہا میرے ماں باپ آنحضور صلی اللہ علیہ وسلم پر قربان ہوں ، آنحضور صلی اللہ علیہ وسلم ایسے وقت کسی وجہ ہی سے تشریف لا سکتے ہیں ۔ آنحضور صلی اللہ علیہ وسلم نے مکان پرپہنچ کر اجازت چاہی اور ابوبکر صدیق رضی اللہ عنہ نے انہیں اجازت دی ۔ آنحضور صلی اللہ علیہ وسلم اندر تشریف لائے اور اندر داخل ہوتے ہی ابوبکر رضی اللہ عنہ سے فرمایا کہ جو لوگ تمہارے پاس اس وقت ہیں انہیں اٹھا دو ۔ ابوبکر صدیق رضی اللہ عنہ نے عرض کی میرا باپ آپ پر قربان ہو یا رسول اللہ ( صلی اللہ علیہ وسلم ) ! یہ سب آپ کے گھر ہی کے افراد ہیں ۔ آنحضور صلی اللہ علیہ وسلم نے فرمایا کہ مجھے ہجرت کی اجازت مل گئی ہے ۔ ابوبکر صدیق رضی اللہ عنہ نے عرض کی پھر یا رسول اللہ ! مجھے رفاقت کا شرف حاصل رہے گا ؟ آپ نے فرمایا کہ ہاں ۔ عرض کی یا رسول اللہ ! میرے باپ آپ پر قربان ہوں ان دو اونٹنیوں میں سے ایک آپ لے لیں ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا لیکن قیمت سے ۔ عائشہ رضی اللہ عنہا نے بیان کیا کہ پھر ہم نے بہت جلدی جلدی سامان سفر تیار کیا اور سفر کا ناشتہ ایک تھیلے میں رکھا ۔ اسماء بنت ابی بکر رضی اللہ عنہ نے اپنے پٹکے کے ایک ٹکڑے سے تھیلہ کے منہ کو باندھا ۔ اسی وجہ سے انہیں ” ذات النطاق “ ( پٹکے والی ) کہنے لگے ۔ پھر آنحضرت صلی اللہ علیہ وسلم اور ابوبکر رضی اللہ عنہ ثور نامی پہاڑ کی ایک غار میں جا کر چھپ گئے اور تین دن تک اسی میں ٹھہرے رہے ۔ عبداللہ بن ابی بکر رضی اللہ عنہما رات آپ حضرات کے پاس ہی گزارتے تھے ۔ وہ نو جوان ذہین اور سمجھدار تھے ۔ صبح تڑ کے میں وہاں سے چل دیتے تھے اور صبح ہوتے ہوتے مکہ کے قریش میں پہنچ جاتے تھے ۔ جیسے رات میں مکہ ہی میں رہے ہوں ۔ مکہ مکرمہ میں جو بات بھی ان حضرات کے خلاف ہوتی اسے محفوظ رکھتے اور جوں ہی رات کا اندھیرا چھا جاتا غار ثور میں ان حضرات کے پاس پہنچ کر تمام تفصیلات کی اطلاع دیتے ۔ ابوبکر رضی اللہ عنہ کے مولیٰ عامر بن فہیرہ رضی اللہ عنہ دودھ دینے والی بکریاں چراتے تھے اور جب رات کا ایک حصہ گزر جاتا تو ان بکریوں کو غار ثور کی طرف ہانک لاتے تھے ۔ آپ حضرات بکریوں کے دودھ پر رات گزارتے اور صبح کی پوپھٹتے ہی عامر بن فہیرہ رضی اللہ عنہ وہاں سے روانہ ہو جاتے ۔ ان تین راتوں میں انہوں نے ہر رات ایسا ہی کیا ۔",
+                "urduNarrator": "ہم سے ابراہیم بن موسیٰ نے بیان کیا ، کہا ہم کو ہشام بن عروہ نے خبر دی ، انہیں معمر نے ، انہیں زہری نے ، انہیں عروہ نے اور ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا هِشَامٌ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ هَاجَرَ إِلَى الْحَبَشَةِ نَاسٌ مِنَ الْمُسْلِمِينَ، وَتَجَهَّزَ أَبُو بَكْرٍ مُهَاجِرًا، فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ عَلَى رِسْلِكَ، فَإِنِّي أَرْجُو أَنْ يُؤْذَنَ لِي ‏\"‏‏.‏ فَقَالَ أَبُو بَكْرٍ أَوَ تَرْجُوهُ بِأَبِي أَنْتَ قَالَ ‏\"‏ نَعَمْ ‏\"‏‏.‏ فَحَبَسَ أَبُو بَكْرٍ نَفْسَهُ عَلَى النَّبِيِّ صلى الله عليه وسلم لِصُحْبَتِهِ، وَعَلَفَ رَاحِلَتَيْنِ كَانَتَا عِنْدَهُ وَرَقَ السَّمُرِ أَرْبَعَةَ أَشْهُرٍ‏.‏ قَالَ عُرْوَةُ قَالَتْ عَائِشَةُ فَبَيْنَا نَحْنُ يَوْمًا جُلُوسٌ فِي بَيْتِنَا فِي نَحْرِ الظَّهِيرَةِ فَقَالَ قَائِلٌ لأَبِي بَكْرٍ هَذَا رَسُولُ اللَّهِ صلى الله عليه وسلم مُقْبِلاً مُتَقَنِّعًا، فِي سَاعَةٍ لَمْ يَكُنْ يَأْتِينَا فِيهَا‏.‏ قَالَ أَبُو بَكْرٍ فِدًا لَهُ بِأَبِي وَأُمِّي، وَاللَّهِ إِنْ جَاءَ بِهِ فِي هَذِهِ السَّاعَةِ إِلاَّ لأَمْرٍ‏.‏ فَجَاءَ النَّبِيُّ صلى الله عليه وسلم فَاسْتَأْذَنَ، فَأَذِنَ لَهُ فَدَخَلَ، فَقَالَ حِينَ دَخَلَ لأَبِي بَكْرٍ ‏\"‏ أَخْرِجْ مَنْ عِنْدَكَ ‏\"‏‏.‏ قَالَ إِنَّمَا هُمْ أَهْلُكَ بِأَبِي أَنْتَ يَا رَسُولَ اللَّهِ‏.‏ قَالَ ‏\"‏ فَإِنِّي قَدْ أُذِنَ لِي فِي الْخُرُوجِ ‏\"‏‏.‏ قَالَ فَالصُّحْبَةُ بِأَبِي أَنْتَ يَا رَسُولَ اللَّهِ‏.‏ قَالَ ‏\"‏ نَعَمْ ‏\"‏‏.‏ قَالَ فَخُذْ بِأَبِي أَنْتَ يَا رَسُولَ اللَّهِ إِحْدَى رَاحِلَتَىَّ هَاتَيْنِ‏.‏ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ بِالثَّمَنِ ‏\"‏‏.‏ قَالَتْ فَجَهَّزْنَاهُمَا أَحَثَّ الْجِهَازِ، وَضَعْنَا لَهُمَا سُفْرَةً فِي جِرَابٍ، فَقَطَعَتْ أَسْمَاءُ بِنْتُ أَبِي بَكْرٍ قِطْعَةً مِنْ نِطَاقِهَا، فَأَوْكَتْ بِهِ الْجِرَابَ، وَلِذَلِكَ كَانَتْ تُسَمَّى ذَاتَ النِّطَاقِ، ثُمَّ لَحِقَ النَّبِيُّ صلى الله عليه وسلم وَأَبُو بَكْرٍ بِغَارٍ فِي جَبَلٍ يُقَالُ لَهُ ثَوْرٌ، فَمَكُثَ فِيهِ ثَلاَثَ لَيَالٍ يَبِيتُ عِنْدَهُمَا عَبْدُ اللَّهِ بْنُ أَبِي بَكْرٍ، وَهْوَ غُلاَمٌ شَابٌّ لَقِنٌ ثَقِفٌ، فَيَرْحَلُ مِنْ عِنْدِهِمَا سَحَرًا، فَيُصْبِحُ مَعَ قُرَيْشٍ بِمَكَّةَ كَبَائِتٍ، فَلاَ يَسْمَعُ أَمْرًا يُكَادَانِ بِهِ إِلاَّ وَعَاهُ، حَتَّى يَأْتِيَهُمَا بِخَبَرِ ذَلِكَ حِينَ يَخْتَلِطُ الظَّلاَمُ، وَيَرْعَى عَلَيْهِمَا عَامِرُ بْنُ فُهَيْرَةَ مَوْلَى أَبِي بَكْرٍ مِنْحَةً مِنْ غَنَمٍ، فَيُرِيحُهَا عَلَيْهِمَا حِينَ تَذْهَبُ سَاعَةٌ مِنَ الْعِشَاءِ، فَيَبِيتَانِ فِي رِسْلِهَا حَتَّى يَنْعِقَ بِهَا عَامِرُ بْنُ فُهَيْرَةَ بِغَلَسٍ، يَفْعَلُ ذَلِكَ كُلَّ لَيْلَةٍ مِنْ تِلْكَ اللَّيَالِي الثَّلاَثِ‏.‏",
+                "headingArabic": "التَّقَنُّعِ",
+                "headingUrdu": "التقانو",
+                "headingEnglish": "At-Taqannu",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5559,
+                "hadithNumber": "5808",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "In the year of the conquest of Mecca the Prophet (ﷺ) entered Mecca, wearing a helmet on his head.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم فتح مکہ کے سال ( مکہ مکرمہ میں ) داخل ہوئے تو آپ کے سر پر خود تھی ۔",
+                "urduNarrator": "ہم سے ابو الولید نے بیان کیا ، کہا ہم سے امام مالک نے بیان کیا ، ان سے زہری نے اور ان سے حضرت انس رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْوَلِيدِ، حَدَّثَنَا مَالِكٌ، عَنِ الزُّهْرِيِّ، عَنْ أَنَسٍ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم دَخَلَ مَكَّةَ عَامَ الْفَتْحِ وَعَلَى رَأْسِهِ الْمِغْفَرُ‏.‏",
+                "headingArabic": "الْمِغْفَرِ",
+                "headingUrdu": "خودپہننےکابیان",
+                "headingEnglish": "The helmet",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5560,
+                "hadithNumber": "5809",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "Once I was walking with Allah's Messenger (ﷺ) and he was wearing a Najram Burd with thick margin. A bedouin followed him and pulled his Burd so violently that I noticed the side of the shoulder of Allah's Messenger (ﷺ) affected by the margin of the Burd because of that violent pull. The Bedouin said, \"O Muhammad! Give me some of Allah's wealth which is with you.\" Allah's Messenger (ﷺ) turned and looked at him, and smiling, 'he ordered that he be given something.",
+                "hadithUrdu": "میں رسول اللہ صلی اللہ علیہ وسلم کے ساتھ چل رہا تھا ۔ آنحضرت صلی اللہ علیہ وسلم کے جسم مبارک پر ( یمن کے ) نجران کی بنی ہوئی موٹے حاشیے کی ایک چادر تھی ۔ اتنے میں ایک دیہاتی آ گیا اور اس نے آنحضرت صلی اللہ علیہ وسلم کی چادر کو پکڑ کر اتنی زور سے کھینچا کہ میں نے حضور اکرم صلی اللہ علیہ وسلم کے مونڈھے پر دیکھا کہ اس کے زورسے کھینچنے کی وجہ سے نشان پڑ گیا تھا ۔ پھر اس نے کہا اے محمد ( صلی اللہ علیہ وسلم ) ! مجھے اس مال میں سے دیئے جانے کا حکم کیجیئے جو اللہ کا مال آپ کے پاس ہے ۔ آنحضرت صلی اللہ علیہ وسلم اس کی طرف متوجہ ہوئے اور مسکرائے اور آپ نے اسے دیئے جانے کا حکم فرمایا ۔",
+                "urduNarrator": "ہم سے اسماعیل بن عبداللہ نے بیان کیا ، کہا کہ مجھ سے امام مالک نے بیان کیا ، ان سے اسحاق بن عبداللہ بن ابی طلحہ نے اور ان سے حضرت انس بن مالک رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كُنْتُ أَمْشِي مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَعَلَيْهِ بُرْدٌ نَجْرَانِيٌّ غَلِيظُ الْحَاشِيَةِ، فَأَدْرَكَهُ أَعْرَابِيٌّ فَجَبَذَهُ بِرِدَائِهِ جَبْذَةً شَدِيدَةً، حَتَّى نَظَرْتُ إِلَى صَفْحَةِ عَاتِقِ رَسُولِ اللَّهِ صلى الله عليه وسلم قَدْ أَثَّرَتْ بِهَا حَاشِيَةُ الْبُرْدِ مِنْ شِدَّةِ جَبْذَتِهِ، ثُمَّ قَالَ يَا مُحَمَّدُ مُرْ لِي مِنْ مَالِ اللَّهِ الَّذِي عِنْدَكَ‏.‏ فَالْتَفَتَ إِلَيْهِ رَسُولُ اللَّهِ صلى الله عليه وسلم ثُمَّ ضَحِكَ ثُمَّ أَمَرَ لَهُ بِعَطَاءٍ‏.‏",
+                "headingArabic": "الْبُرُودِ وَالْحِبَرَةِ وَالشَّمْلَةِ",
+                "headingUrdu": "البرود، الحبر اور اششملہ",
+                "headingEnglish": "Al-Burud, Al-Hibar and Ash-Shamla",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5561,
+                "hadithNumber": "5810",
+                "englishNarrator": "Narrated Shahl bin Sa`d رضی اللہ عنہ :",
+                "hadithEnglish": "\"A lady came with a Burda. Sahl then asked (the people), \"Do you know what Burda is?\" Somebody said, \"Yes. it is a Shamla with a woven border.\" Sahl added, \"The lady said, 'O Allah's Messenger (ﷺ)! I have knitted this (Burda) with my own hands for you to wear it.\" Allah's Messenger (ﷺ) took it and he was in need of it. Allah's Messenger (ﷺ) came out to us and he was wearing it as an Izar. A man from the people felt it and said, 'O Allah's Messenger (ﷺ)! Give it to me to wear.' The Prophet (ﷺ) s said, 'Yes.' Then he sat there for some time (and when he went to his house), he folded it and sent it to him. The people said to that man, 'You have not done a right thing. You asked him for it, though you know that he does not put down anybody's request.' The man said, 'By Allah! I have only asked him so that it may be my shroud when I die.\" Sahl رضی اللہ عنہ added, \"Late it was his shroud.\"",
+                "hadithUrdu": "ایک عورت ایک چادر لے کر آئیں ( جو اس نے خود بنی تھی ) حضرت سہل رضی اللہ عنہ نے کہا تمہیں معلوم ہے وہ پردہ کیا تھا پھر بتلایا کہ یہ ایک اونی چادرتھی جس کے کناروں پر حاشیہ ہوتا ہے ۔ ان خاتون نے حاضر ہو کر عرض کیا یا رسول اللہ ( صلی اللہ علیہ وسلم ) ! یہ چادر میں نے خاص آپ کے اوڑھنے کے لیے بنی ہے ۔ حضور اکرم صلی اللہ علیہ وسلم نے وہ چادر ان سے اس طرح لی گویا آپ کو اس کی ضرورت ہے ۔ پھر آنحضرت صلی اللہ علیہ وسلم اسے تہمد کے طور پر پہن کر ہمارے پاس تشریف لائے ۔ جماعت صحابہ میں سے ایک صاحب ( عبدالرحمٰن بن عوف ) نے اس چادر کو چھوا اور عرض کی یا رسول اللہ ! یہ مجھے عنایت فرما دیجئیے ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ اچھا ۔ جتنی دیر اللہ نے چاہا آپ مجلس میں بیٹھے رہے پھر تشریف لے گئے اور اس چادر کو لپیٹ کر ان صاحب کے پاس بھجوادیا ۔ صحابہ نے اس پر ان سے کہا تم نے اچھی بات نہیں کی کہ آنحضرت صلی اللہ علیہ وسلم سے وہ چادر مانگ لی ۔ تمہیں معلوم ہے کہ آنحضرت صلی اللہ علیہ وسلم کبھی سائل کو محروم نہیں فرماتے ۔ ان صاحب نے کہا اللہ کی قسم میں نے تو صرف آنحضرت سے یہ اس لیے مانگی ہے کہ جب میں مروں تو یہ میرا کفن ہو ۔ حضرت سہل رضی اللہ عنہ نے بیان کیا چنانچہ وہ چادر اس صحابی کے کفن ہی میں استعمال ہوئی ۔",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا ، کہا ہم سے یعقوب بن عبدالرحمٰن نے بیان کیا ، ان سے ابوحازم نے اور ان سے حضرت سہل بن سعد رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا يَعْقُوبُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، قَالَ جَاءَتِ امْرَأَةٌ بِبُرْدَةٍ ـ قَالَ سَهْلٌ هَلْ تَدْرِي مَا الْبُرْدَةُ قَالَ نَعَمْ هِيَ الشَّمْلَةُ، مَنْسُوجٌ فِي حَاشِيَتِهَا ـ قَالَتْ يَا رَسُولَ اللَّهِ إِنِّي نَسَجْتُ هَذِهِ بِيَدِي أَكْسُوكَهَا‏.‏ فَأَخَذَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم مُحْتَاجًا إِلَيْهَا، فَخَرَجَ إِلَيْنَا وَإِنَّهَا لإِزَارُهُ، فَجَسَّهَا رَجُلٌ مِنَ الْقَوْمِ فَقَالَ يَا رَسُولَ اللَّهِ اكْسُنِيهَا‏.‏ قَالَ ‏ \"‏ نَعَمْ ‏\"‏‏.‏ فَجَلَسَ مَا شَاءَ اللَّهُ فِي الْمَجْلِسِ، ثُمَّ رَجَعَ، فَطَوَاهَا ثُمَّ أَرْسَلَ بِهَا إِلَيْهِ‏.‏ فَقَالَ لَهُ الْقَوْمُ مَا أَحْسَنْتَ، سَأَلْتَهَا إِيَّاهُ وَقَدْ عَرَفْتَ أَنَّهُ لاَ يَرُدُّ سَائِلاً‏.‏ فَقَالَ الرَّجُلُ وَاللَّهِ مَا سَأَلْتُهَا إِلاَّ لِتَكُونَ كَفَنِي يَوْمَ أَمُوتُ‏.‏ قَالَ سَهْلٌ فَكَانَتْ كَفَنَهُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5562,
+                "hadithNumber": "5811",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "I heard Allah's Messenger (ﷺ) saying \"From among my followers, a group (o 70,000) will enter Paradise without being asked for their accounts, Their faces will be shining like the moon.\" 'Ukasha bin Muhsin Al-Asadi رضی اللہ عنہ got up, lifting his covering sheet and said, \"O Allah's Messenger (ﷺ) Invoke Allah for me that He may include me with them.\" The Prophet (ﷺ) said! \"O Allah! Make him from them.\" Then another man from Al-Ansar got up and said, \"O Allah's Messenger (ﷺ)! Invoke Allah for me that He may include me with them.\" On that Allah's Messenger (ﷺ) said, \"'Ukasha has anticipated you.\"",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ، آنحضرت صلی اللہ علیہ وسلم نے فرمایا میری امت میں سے جنت میں ستر ہزار کی ایک جماعت داخل ہو گی ان کے چہرے چاند کی طرح چمک رہے ہوں گے ۔ حضرت عکاشہ بن محصن اسدی رضی اللہ عنہ اپنی دھاری دار چادر سنبھالتے ہوئے اٹھے اور عرض کیا یا رسول اللہ ! میرے لیے بھی دعا کیجئے کہ اللہ تعالیٰ مجھے انہیں میں سے بنا دے ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ اے اللہ ! عکاشہ کو بھی انہیں میں سے بنا دے ۔ اس کے بعد قبیلہ انصار کے ایک صحابی سعد بن عبادہ رضی اللہ عنہ کھڑے ہوئے اور عرض کیا یا رسول اللہ ! دعا فرمائیں کہ اللہ تعالیٰ مجھے بھی ان میں سے بنا دے ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ تم سے پہلے عکاشہ دعا کرا چکا ۔",
+                "urduNarrator": "ہم سے ابو الیمان نے بیان کیا ، کہا ہم کو شعیب نے خبر دی ، ان سے زہری نے بیان کیا ، کہا مجھ سے حضرت سعید بن مسیب نے بیان کیا اور ان سے حضرت ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ حَدَّثَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، أَنَّ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ يَدْخُلُ الْجَنَّةَ مِنْ أُمَّتِي زُمْرَةٌ هِيَ سَبْعُونَ أَلْفًا، تُضِيءُ وُجُوهُهُمْ إِضَاءَةَ الْقَمَرِ ‏\"‏‏.‏ فَقَامَ عُكَاشَةُ بْنُ مِحْصَنٍ الأَسَدِيُّ يَرْفَعُ نَمِرَةً عَلَيْهِ قَالَ ادْعُ اللَّهَ لِي يَا رَسُولَ اللَّهِ أَنْ يَجْعَلَنِي مِنْهُمْ‏.‏ فَقَالَ ‏\"‏ اللَّهُمَّ اجْعَلْهُ مِنْهُمْ ‏\"‏‏.‏ ثُمَّ قَامَ رَجُلٌ مِنَ الأَنْصَارِ فَقَالَ يَا رَسُولَ اللَّهِ ادْعُ اللَّهَ أَنْ يَجْعَلَنِي مِنْهُمْ‏.‏ فَقَالَ رَسُولُ اللَّهِ ‏\"‏ سَبَقَكَ عُكَاشَةُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5563,
+                "hadithNumber": "5812",
+                "englishNarrator": "Narrated Qatada Anas رضی اللہ عنہ :",
+                "hadithEnglish": "\"What kind of clothes was most beloved to the Prophet?\" He replied, \"The Hibra (a kind of Yemenese cloth).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کو کس طرح کا کپڑا زیادہ پسند تھا بیان کیا کہ حبرۃ کی سبز یمنی چادر ۔",
+                "urduNarrator": "ہم سے عمرو بن عاصم نے بیان کیا ، کہا ہم سے ہمام بن یحییٰ نے بیان کیا ، ان سے قتادہ نے اور ان سے حضرت انس بن مالک رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَمْرُو بْنُ عَاصِمٍ، حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ قُلْتُ لَهُ أَىُّ الثِّيَابِ كَانَ أَحَبَّ إِلَى النَّبِيِّ صلى الله عليه وسلم قَالَ الْحِبَرَةُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5564,
+                "hadithNumber": "5813",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "The most beloved garment to the Prophet (ﷺ) to wear was the Hibra (a kind of Yemenese cloth).",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم کو تمام کپڑوں میں یمنی سبز چادر پہننا بہت پسند تھی ۔",
+                "urduNarrator": "مجھ سے عبداللہ بن ابی الاسود نے بیان کیا ، انہوں نے کہا ہم سے معاذ دستوائی نے بیان کیا ، انہوں نے کہا کہ مجھ سے میرے والد نے بیان کیا ، ان سے قتادہ نے اور ان سے حضرت انس بن مالک رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ أَبِي الأَسْوَدِ، حَدَّثَنَا مُعَاذٌ، قَالَ حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، رضى الله عنه ـ قَالَ كَانَ أَحَبُّ الثِّيَابِ إِلَى النَّبِيِّ صلى الله عليه وسلم أَنْ يَلْبَسَهَا الْحِبَرَةَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5565,
+                "hadithNumber": "5814",
+                "englishNarrator": "Narrated `Aisha (the wife of the Prophet) رضی اللہ عنہا :",
+                "hadithEnglish": "When Allah's Messenger (ﷺ) died, he was covered with a Hibra Burd (green square decorated garment).",
+                "hadithUrdu": "جب رسول اللہ صلی اللہ علیہ وسلم کی وفات ہوئی تو آپ کی نعش مبارک پر ایک سبز یمنی چادر ڈال دی گئی تھی ۔",
+                "urduNarrator": "ہم سے ابوالیمان نے بیان کیا ، انہوں نے کہا ہم کو شعیب نے خبر دی ، انہیں زہری نے ، انہوں نے کہا کہ مجھے ابوسلمہ بن عبدالرحمٰن بن عوف رضی اللہ عنہ نے خبر دی کہ نبی کریم صلی اللہ علیہ وسلم کی زوجہ مطہرہ حضرت عائشہ رضی اللہ عنہا نے انہیں خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، أَنَّ عَائِشَةَ ـ رضى الله عنها ـ زَوْجَ النَّبِيِّ صلى الله عليه وسلم أَخْبَرَتْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم حِينَ تُوُفِّيَ سُجِّيَ بِبُرْدٍ حِبَرَةٍ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5566,
+                "hadithNumber": "5815, 5816",
+                "englishNarrator": "Narrated `Aisha and `Abdullah bin `Abbas رضی اللہ عنہم :",
+                "hadithEnglish": "When the disease of Allah's Messenger (ﷺ) got aggravated, he covered his face with a Khamisa, but when he became short of breath, he would remove it from his face and say, \"It is like that! May Allah curse the Jews Christians because they took the graves of their prophets as places of worship.\" By that he warned his follower of imitating them, by doing that which they did.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم پر جب آخری مرض طاری ہوا تو آپ اپنی کملی چہرہ مبارک پر ڈالتے تھے اور جب سانس گھٹنے لگتا تو چہرہ کھول لیتے اور اسی حالت میں فرماتے ” یہود و نصاریٰ اللہ تعالیٰ کی رحمت سے دور ہو گئے کہ انہوں نے اپنے انبیاء کی قبروں کو سجدہ گاہ بنا لیا ۔ “ آنحضرت صلی اللہ علیہ وسلم ان کے عمل بد سے ( مسلمانوں کو ) ڈرا رہے تھے ۔",
+                "urduNarrator": "مجھ سے یحییٰ بن بکیر نے بیان کیا ، انہوں نے کہا ہم سے لیث بن سعدنے بیان کیا ، ان سے عقیل نے بیان کیا ، ان سے ابن شہاب نے بیان کیا کہ مجھے عبیداللہ بن عبداللہ بن عتبہ نے خبر دی ، ان سے حضرت عائشہ اور حضرت عبداللہ بن عباس رضی اللہ عنہم نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، أَنَّ عَائِشَةَ، وَعَبْدَ اللَّهِ بْنَ عَبَّاسٍ، رضى الله عنهم قَالاَ لَمَّا نَزَلَ بِرَسُولِ اللَّهِ صلى الله عليه وسلم طَفِقَ يَطْرَحُ خَمِيصَةً لَهُ عَلَى وَجْهِهِ، فَإِذَا اغْتَمَّ كَشَفَهَا عَنْ وَجْهِهِ، فَقَالَ وَهْوَ كَذَلِكَ ‏ \"‏ لَعْنَةُ اللَّهِ عَلَى الْيَهُودِ وَالنَّصَارَى اتَّخَذُوا قُبُورَ أَنْبِيَائِهِمْ مَسَاجِدَ ‏\"‏‏.‏ يُحَذِّرُ مَا صَنَعُوا‏.‏",
+                "headingArabic": "الأَكْسِيَةِ وَالْخَمَائِصِ",
+                "headingUrdu": "الاقسیہ اور الخامس",
+                "headingEnglish": "Al-Aksiya and Al-Khama'is",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5567,
+                "hadithNumber": "5817",
+                "englishNarrator": "Narrated Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) offered prayer while he was wearing a Khamisa of his that had printed marks. He looked at its marks and when he finished prayer, he said, \"Take this Khamisa of mine to Abu Jahm, for it has just now diverted my attention from my prayer, and bring to me the Anbijania (a plain thick sheet) of Abu Jahm bin Hudhaifa bin Ghanim who belonged to Bani Adi bin Ka`b.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے اپنی ایک نقشی چادر میں نماز پڑھی اور اس کے نقش ونگار پر نماز ہی میں ایک نظر ڈالی ۔ پھر سلام پھیر کر فرمایا کہ میری یہ چادر ابوجہم کو واپس دے دو ۔ اس نے ابھی مجھے میری نماز سے غافل کر دیا تھا اور ابوجہم کی سادی چادر لیتے آؤ ۔ یہ ابوجہم بن حذیفہ بن غانم بنی عدی بن کعب قبیلے میں سے تھے ۔",
+                "urduNarrator": "ہم سے موسیٰ بن اسماعیل نے بیان کیا ، انہوں نے کہا ہم سے ابراہیم بن سعد نے بیان کیا ، انہوں نے کہا ہم سے ابن شہاب نے بیان کیا ، ان سے عروہ بن زبیر نے اور ان سے حضرت عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، حَدَّثَنَا ابْنُ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم فِي خَمِيصَةٍ لَهُ لَهَا أَعْلاَمٌ، فَنَظَرَ إِلَى أَعْلاَمِهَا نَظْرَةً، فَلَمَّا سَلَّمَ قَالَ ‏ \"‏ اذْهَبُوا بِخَمِيصَتِي هَذِهِ إِلَى أَبِي جَهْمٍ، فَإِنَّهَا أَلْهَتْنِي آنِفًا عَنْ صَلاَتِي، وَائْتُونِي بِأَنْبِجَانِيَّةِ أَبِي جَهْمِ بْنِ حُذَيْفَةَ بْنِ غَانِمٍ مِنْ بَنِي عَدِيِّ بْنِ كَعْبٍ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5568,
+                "hadithNumber": "5818",
+                "englishNarrator": "Narrated Abu Burda:",
+                "hadithEnglish": "Aisha رضی اللہ عنہا brought out to us a Kisa and an Izar and said, \"The Prophet (ﷺ) died while wearing these two.\" (Kisa, a square black piece of woolen cloth. Izar, a sheet cloth garment covering the lower half of the body).",
+                "hadithUrdu": "حضرت عائشہ رضی اللہ عنہا نے ہمیں ایک موٹی کملی ( کساء ) اور ایک موٹی ازار نکال کر دکھائی اور کہا کہ رسول اللہ صلی اللہ علیہ وسلم کی روح ان ہی دو کپڑوں میں قبض ہوئی تھی ۔ (کیسہ، اونی کپڑے کا ایک مربع سیاہ ٹکڑا۔ ازار، ایک چادر والا لباس جو جسم کے نچلے حصے کو ڈھانپتا ہے)۔",
+                "urduNarrator": "ہم سے مسدد بن مسرہد نے بیان کیا ، کہا ہم سے اسماعیل بن علیہ نے بیان کیا ، ان سے ایوب سختیانی نے بیان کیا ، ان سے حمید بن ہلال نے اور ان سے ابوبردہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنَا أَيُّوبُ، عَنْ حُمَيْدِ بْنِ هِلاَلٍ، عَنْ أَبِي بُرْدَةَ، قَالَ أَخْرَجَتْ إِلَيْنَا عَائِشَةُ كِسَاءً وَإِزَارًا غَلِيظًا فَقَالَتْ قُبِضَ رُوحُ النَّبِيِّ صلى الله عليه وسلم فِي هَذَيْنِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5569,
+                "hadithNumber": "5819",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) had forbidden: (A) the Mulamasa and Munabadha (bargains), (B) the offering of two prayers, one after the morning compulsory prayer till the sun rises, and the others, after the `Asr prayer till the sun sets (C) He also forbade that one should sit wearing one garment, nothing of which covers his private parts (D) and prevent them from exposure to the sky; (E) he also forbade Ishtimalas- Samma'.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے بیع ملامسہ اورمنابذہ سے منع فرمایا اور دو وقت نمازوں سے بھی آپ نے منع فرمایا نماز فجر کے بعد سورج بلند ہونے تک اور عصر کے بعد سورج غروب ہونے تک اور اس سے منع فرمایا کہ کوئی شخص صرف ایک کپڑا جسم پر لپیٹ کر گھٹنے اوپر اٹھا کر اس طرح بیٹھ جائے کہ اس کی شرمگاہ پر آسمان و زمین کے درمیان کوئی چیز نہ ہو ۔ اور اشتمال صماء سے منع فرمایا ۔",
+                "urduNarrator": "مجھ سے محمد بن بشار نے بیان کیا ، کہا ہم سے عبدالوہاب بن عبدالمجید ثقفی نے بیان کیا ، کہا ہم سے عبیداللہ عمری نے بیان کیا ، ان سے خبیب بن عبدالرحمٰن نے ، ان سے حفص بن عاصم نے اور ان سے حضرت ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ خُبَيْبٍ، عَنْ حَفْصِ بْنِ عَاصِمٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ نَهَى النَّبِيُّ صلى الله عليه وسلم عَنِ الْمُلاَمَسَةِ، وَالْمُنَابَذَةِ، وَعَنْ صَلاَتَيْنِ بَعْدَ الْفَجْرِ حَتَّى تَرْتَفِعَ الشَّمْسُ، وَبَعْدَ الْعَصْرِ حَتَّى تَغِيبَ، وَأَنْ يَحْتَبِيَ بِالثَّوْبِ الْوَاحِدِ، لَيْسَ عَلَى فَرْجِهِ مِنْهُ شَىْءٌ بَيْنَهُ وَبَيْنَ السَّمَاءِ، وَأَنْ يَشْتَمِلَ الصَّمَّاءَ‏.‏",
+                "headingArabic": "اشْتِمَالِ الصَّمَّاءِ",
+                "headingUrdu": "اشتیمل الصمہ",
+                "headingEnglish": "Ishtimal-as-Samma",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5570,
+                "hadithNumber": "5820",
+                "englishNarrator": "Narrated Abu Sa`id Al-Khudri رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) forbade two ways of wearing clothes and two kinds of dealings. (A) He forbade the dealings of the Mulamasa and the Munabadha. In the Mulamasa transaction the buyer just touches the garment he wants to buy at night or by daytime, and that touch would oblige him to buy it. In the Munabadha, one man throws his garment at another and the latter throws his at the former and the barter is complete and valid without examining the two objects or being satisfied with them (B) The two ways of wearing clothes were Ishtimal-as-Samma, i e., to cover one's shoulder with one's garment and leave the other bare: and the other way was to wrap oneself with a garment while one was sitting in such a way that nothing of that garment would cover one's private part.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے دو طرح کے پہناوے اور دو طرح کی خریدوفروخت سے منع فرمایا ۔ خرید فروخت میں ملامسہ اور منابذہ سے منع فرمایا ۔ ملامسہ کی صورت یہ تھی کہ ایک شخص ( خریدار ) دوسرے ( بیچنے والے ) کے کپڑے کو رات یا دن میں کسی بھی وقت بس چھو دیتا ( اور دیکھے بغیر صرف چھونے سے بیع ہو جاتی ) صرف چھونا ہی کافی تھا کھول کردیکھا نہیں جاتا تھا ۔ منابذہ کی صورت یہ تھی کہ ایک شخص اپنی ملکیت کا کپڑا دوسرے کی طرف پھینکتا اور دوسرا اپنا کپڑا پھینکتا اور بغیر دیکھے اور بغیر باہمی رضامندی کے صرف اسی سے بیع منعقد ہو جاتی اور دو کپڑے ( جن سے آنحضور صلی اللہ علیہ وسلم نے منع فرمایا انہیں میں سے ایک ) اشتمال صماء ہے ۔ صماء کی صورت یہ تھی کہ اپنا کپڑا ( ایک چادر ) اپنے ایک شانے پر اس طرح ڈالا جاتا کہ ایک کنارہ سے ( شرمگاہ ) کھل جاتی اور کوئی دوسرا کپڑا وہاں نہیں ہوتا تھا ۔ دوسرے پہناوے کا طریقہ یہ تھا کہ بیٹھ کر اپنے ایک کپڑے سے کمر اور پنڈلی باندھ لیتے تھے اور شرمگاہ پر کوئی کپڑا نہیں ہوتا تھا ۔",
+                "urduNarrator": "ہم سے یحییٰ بن بکیر نے بیان کیا ، کہا ہم سے لیث نے بیان کیا ، ان سے یونس نے ، ان سے ابن شہاب نے بیان کیا ، انہیں عامر بن سعد نے خبر دی ، اور ان سے حضرت ابو سعید خدری رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي عَامِرُ بْنُ سَعْدٍ، أَنَّ أَبَا سَعِيدٍ الْخُدْرِيَّ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ لِبْسَتَيْنِ وَعَنْ بَيْعَتَيْنِ، نَهَى عَنِ الْمُلاَمَسَةِ وَالْمُنَابَذَةِ فِي الْبَيْعِ، وَالْمُلاَمَسَةُ لَمْسُ الرَّجُلِ ثَوْبَ الآخَرِ بِيَدِهِ بِاللَّيْلِ أَوْ بِالنَّهَارِ، وَلاَ يُقَلِّبُهُ إِلاَّ بِذَلِكَ، وَالْمُنَابَذَةُ أَنْ يَنْبِذَ الرَّجُلُ إِلَى الرَّجُلِ بِثَوْبِهِ، وَيَنْبِذَ الآخَرُ ثَوْبَهُ، وَيَكُونَ ذَلِكَ بَيْعَهُمَا، عَنْ غَيْرِ نَظَرٍ وَلاَ تَرَاضٍ، وَاللِّبْسَتَيْنِ اشْتِمَالُ الصَّمَّاءِ، وَالصَّمَّاءُ أَنْ يَجْعَلَ ثَوْبَهُ عَلَى أَحَدِ عَاتِقَيْهِ، فَيَبْدُو أَحَدُ شِقَّيْهِ لَيْسَ عَلَيْهِ ثَوْبٌ، وَاللِّبْسَةُ الأُخْرَى احْتِبَاؤُهُ بِثَوْبِهِ وَهْوَ جَالِسٌ، لَيْسَ عَلَى فَرْجِهِ مِنْهُ شَىْءٌ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5571,
+                "hadithNumber": "5821",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) forbade two types of dresses: (A) To sit in an Ihtiba' posture in one garment nothing of which covers his private parts. (B) to cover one side of his body with one garment and leave the other side bare The Prophet (ﷺ) also forbade the Mulamasa and Munabadha.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے دو طرح کے پہناوے سے منع فرمایا یہ کہ کوئی شخص ایک ہی کپڑے سے اپنی کمر اورپنڈلی کو ملا کر باندھ لے اور شرمگاہ پر کوئی دوسرا کپڑا نہ ہو اور یہ کہ کوئی شخص ایک کپڑے کو اس طرح جسم پر لپیٹے کہ ایک طرف کپڑے کا کوئی حصہ نہ ہو اور آپ نے ملامسہ اور منابذہ سے منع فرمایا ۔",
+                "urduNarrator": "ہم سے اسماعیل نے بیان کیا ، انہوں نے کہا کہ مجھ سے امام مالک نے بیان کیا ، ان سے ابوالزناد نے بیان کیا ، ان سے اعرج نے اور ان سے حضرت ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ لِبْسَتَيْنِ أَنْ يَحْتَبِيَ الرَّجُلُ فِي الثَّوْبِ الْوَاحِدِ لَيْسَ عَلَى فَرْجِهِ مِنْهُ شَىْءٌ، وَأَنْ يَشْتَمِلَ بِالثَّوْبِ الْوَاحِدِ، لَيْسَ عَلَى أَحَدِ شِقَّيْهِ، وَعَنِ الْمُلاَمَسَةِ وَالْمُنَابَذَةِ‏.‏",
+                "headingArabic": "الاِحْتِبَاءِ فِي ثَوْبٍ وَاحِدٍ",
+                "headingUrdu": "الاحطیبہ",
+                "headingEnglish": "Al-Ihitiba'",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5572,
+                "hadithNumber": "5822",
+                "englishNarrator": "Narrated Abu Sa`id Al-Khudri رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) forbade Ishtimal-as-Samma' and that a man should sit in an Ihtiba' posture in one garment, nothing of which covers his private parts.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے اشتمال صماء سے منع فرمایا اور اس سے بھی کہ کوئی شخص ایک کپڑے سے پنڈلی اور کمر کوملا لے اورشرمگاہ پر کوئی دوسرا کپڑا نہ ہو ۔",
+                "urduNarrator": "مجھ سے محمد نے بیان کیا ، انہوں نے کہا ہم کو مخلد نے خبر دی ، انہوں نے کہا ہم کو ابن جریح نے خبر دی ، انہوں نے کہا کہ مجھے ابن شہاب نے خبر دی ، انہوں نے کہا ہمیں عبیداللہ بن عبداللہ نے اور انہیں حضرت ابو سعید خدری رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدٌ، قَالَ أَخْبَرَنِي مَخْلَدٌ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، قَالَ أَخْبَرَنِي ابْنُ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنِ اشْتِمَالِ الصَّمَّاءِ، وَأَنْ يَحْتَبِيَ الرَّجُلُ فِي ثَوْبٍ وَاحِدٍ، لَيْسَ عَلَى فَرْجِهِ مِنْهُ شَىْءٌ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5573,
+                "hadithNumber": "5823",
+                "englishNarrator": "Narrated Um Khalid bint Khalid رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) was given some clothes including a black Khamisa. The Prophet (ﷺ) said, \"To whom shall we give this to wear?\" The people kept silent whereupon the Prophet (ﷺ) said, \"Fetch Um Khalid for me.\" I (Um Khalid) was brought carried (as I was small girl at that time). The Prophet (ﷺ) took the Khamisa in his hands and made me wear it and said, \"May you live so long that your dress will wear out and you will mend it many times.\" On the Khamisa there were some green or pale designs (The Prophet (ﷺ) saw these designs) and said, \"O Um Khalid! This is Sanah.\" (Sanah in a Ethiopian word meaning beautiful).",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم کی خدمت میں کچھ کپڑے لائے گئے جس میں ایک چھوٹی کالی کملی بھی تھی ۔ حضور اکرم صلی اللہ علیہ وسلم نے فرمایا تمہارا کیاخیال ہے یہ چادر کسے دی جائے ؟ صحابہ کرام رضی اللہ عنہم خاموش رہے پھر آنحضرت صلی اللہ علیہ وسلم نے فرمایا ام خالد کو میرے پاس بلا لاؤ ۔ انہیں گود میں اٹھا کر لایا گیا ( کیونکہ بچی تھیں ) اور آنحضرت صلی اللہ علیہ وسلم نے وہ چادر اپنے ہاتھ میں لی اور انہیں پہنایا اور دعا دی کہ جیتی رہو ۔ اس چادر میں ہرے اور زرد نقش و نگار تھے ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ ام خالد ! یہ نقش ونگار ” سناہ “ ہیں ۔ ” سناہ “ حبشی زبان میں خوب اچھے کے معنی میں آتا ہے ۔",
+                "urduNarrator": "ہم سے ابونعیم نے بیان کیا ، کہا ہم سے اسحاق بن سعید نے بیان کیا ، ان سے ان کے والد نے ، ان سے سعید بن فلاں یعنی عمرو بن سعید بن عاص نے اور ان سے ام خالد بنت خالد رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا إِسْحَاقُ بْنُ سَعِيدٍ، عَنْ أَبِيهِ، سَعِيدِ بْنِ فُلاَنٍ ـ هُوَ عَمْرُو بْنُ سَعِيدِ بْنِ الْعَاصِ ـ عَنْ أُمِّ خَالِدٍ بِنْتِ خَالِدٍ، أُتِيَ النَّبِيُّ صلى الله عليه وسلم بِثِيَابٍ فِيهَا خَمِيصَةٌ سَوْدَاءُ صَغِيرَةٌ فَقَالَ ‏\"‏ مَنْ تَرَوْنَ نَكْسُو هَذِهِ ‏\"‏‏.‏ فَسَكَتَ الْقَوْمُ قَالَ ‏\"‏ ائْتُونِي بِأُمِّ خَالِدٍ ‏\"‏‏.‏ فَأُتِيَ بِهَا تُحْمَلُ فَأَخَذَ الْخَمِيصَةَ بِيَدِهِ فَأَلْبَسَهَا وَقَالَ ‏\"‏ أَبْلِي وَأَخْلِقِي ‏\"‏‏.‏ وَكَانَ فِيهَا عَلَمٌ أَخْضَرُ أَوْ أَصْفَرُ فَقَالَ ‏\"‏ يَا أُمَّ خَالِدٍ هَذَا سَنَاهْ ‏\"‏‏.‏ وَسَنَاهْ بِالْحَبَشِيَّةِ حَسَنٌ‏.‏",
+                "headingArabic": "الْخَمِيصَةِ السَّوْدَاءِ",
+                "headingUrdu": "کالی کملی کا بیان",
+                "headingEnglish": "The black Khamisa",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5574,
+                "hadithNumber": "5824",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "When Um Sulaim رضی اللہ عنہا gave birth to a child. she said to me, \"O Anas! Watch this boy carefully and do not give him anything to eat or drink until you have taken him to the Prophet (ﷺ) tomorrow morning for the Tahnik.\" So the next morning I took the child to the Prophet (ﷺ) who was sitting in a garden and was wearing a Huraithiya Khamisa and was branding the she-camel on which he had come during the Conquest of Mecca.",
+                "hadithUrdu": "جب حضرت ام سلیم رضی اللہ عنہا کے یہاں بچہ پیدا ہوا تو انہوں نے مجھ سے کہا کہ انس اس بچہ کو دیکھتے رہو کوئی چیز اس کے پیٹ میں نہ جائے اور جا کر نبی کریم صلی اللہ علیہ وسلم کو اپنے ساتھ لاؤ تاکہ آنحضرت صلی اللہ علیہ وسلم اپنا جھوٹا اس کے منہ میں ڈالیں ۔ چنانچہ میں آنحضرت صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوا آنحضرت صلی اللہ علیہ وسلم اس وقت ایک باغ میں تھے اور آپکے جسم پر قبیلہ بنی حریث کی بنی ہوئی چادر ( خمیصۃ حریثیۃ ) تھی اور آپ اس سواری پر نشان لگا رہے تھے جس پر آپ فتح مکہ کے موقع پر سوار تھے ۔",
+                "urduNarrator": "مجھ سے محمد بن مثنیٰ نے بیان کیا ، کہا کہ مجھ سے ابن ابی عدی نے بیان کیا ، ان سے ابن عون نے ، ان سے محمد نے اور ان سے حضرت انس رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنِي ابْنُ أَبِي عَدِيٍّ، عَنِ ابْنِ عَوْنٍ، عَنْ مُحَمَّدٍ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ لَمَّا وَلَدَتْ أُمُّ سُلَيْمٍ قَالَتْ لِي يَا أَنَسُ انْظُرْ هَذَا الْغُلاَمَ فَلاَ يُصِيبَنَّ شَيْئًا حَتَّى تَغْدُوَ بِهِ إِلَى النَّبِيِّ صلى الله عليه وسلم يُحَنِّكُهُ‏.‏ فَغَدَوْتُ بِهِ، فَإِذَا هُوَ فِي حَائِطٍ وَعَلَيْهِ خَمِيصَةٌ حُرَيْثِيَّةٌ، وَهْوَ يَسِمُ الظَّهْرَ الَّذِي قَدِمَ عَلَيْهِ فِي الْفَتْحِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5575,
+                "hadithNumber": "5825",
+                "englishNarrator": "Narrated `Ikrima رضی اللہ عنہ :",
+                "hadithEnglish": "Rifa`a رضی اللہ عنہ divorced his wife whereupon `Abdur Rahman bin Az-Zubair Al-Qurazi رضی اللہ عنہ married her. `Aisha رضی اللہ عنہا said that the lady (came), wearing a green veil (and complained to her (Aisha رضی اللہ عنہا ) of her husband and showed her a green spot on her skin caused by beating). It was the habit of ladies to support each other, so when Allah's Messenger (ﷺ) came, `Aisha رضی اللہ عنہا said, \"I have not seen any woman suffering as much as the believing women. Look! Her skin is greener than her clothes!\" When `Abdur Rahman heard that his wife had gone to the Prophet, he came with his two sons from another wife. She said, \"By Allah! I have done no wrong to him but he is impotent and is as useless to me as this,\" holding and showing the fringe of her garment, `Abdur-Rahman said, \"By Allah, O Allah's Messenger (ﷺ)! She has told a lie! I am very strong and can satisfy her but she is disobedient and wants to go back to Rifa`a.\" Allah's Messenger (ﷺ) said, to her, \"If that is your intention, then know that it is unlawful for you to remarry Rifa`a unless `Abdur-Rahman has had sexual intercourse with you.\" Then the Prophet (ﷺ) saw two boys with `Abdur- Rahman and asked (him), \"Are these your sons?\" On that `Abdur Rahman said, \"Yes.\" The Prophet (ﷺ) said, \"You claim what you claim (i.e.. that he is impotent)? But by Allah, these boys resemble him as a crow resembles a crow,\"",
+                "hadithUrdu": "رفاعہ رضی اللہ عنہ نے  اپنی بیوی کو طلاق دے دی تھی ۔ پھر ان سے عبدالرحمٰن بن زبیر قرظی رضی اللہ عنہ نے نکاح کر لیا تھا ۔ عائشہ رضی اللہ عنہا نے بیان کیا کہ وہ خاتون سبز اوڑھنی اورڑھے ہوئے تھیں ، انہوں نے عائشہ رضی اللہ عنہا سے ( اپنے شوہر کی ) شکایت کی اور اپنے جسم پر سبز نشانات ( چوٹ کے ) دکھائے پھر جب رسول اللہ صلی اللہ علیہ وسلم تشریف لائے تو ( جیسا کہ عادت ہے ) عکرمہ نے بیان کیا کہ عورتیں آپس میں ایک دوسرے کی مددکرتی ہیں ۔ عائشہ رضی اللہ عنہا نے ( آنحضرت صلی اللہ علیہ وسلم سے ) کہا کہ کسی ایمان والی عورت کا میں نے اس سے زیادہ برا حال نہیں دیکھا ان کا جسم ان کے کپڑے سے بھی زیادہ برا ہو گیا ہے ۔ بیان کیا کہ ان کے شوہر نے بھی سن لیا تھا کہ بیوی حضور اکرم صلی اللہ علیہ وسلم کے پاس گئی ہیں چنانچہ وہ بھی آ گئے اور ان کے ساتھ ان کے دو بچے ان سے پہلی بیوی کے تھے ان کی بیوی نے کہا اللہ کی قسم مجھے ان سے کوئی اورشکایت نہیں البتہ ان کے ساتھ اس سے زیادہ اور کچھ نہیں جس سے میرا کچھ نہیں ہوتا ۔ انہوں نے اپنے کپڑے کا پلو پکڑ کر اشارہ کیا ( یعنی ان کے شوہر کمزور ہیں ) اس پر ان کے شوہر نے کہا یا رسول اللہ ! واللہ یہ جھوٹ بولتی ہے میں تو اس کو ( جماع کے وقت ) چمڑے کی طرح ادھیڑ کر رکھ دیتا ہوں مگر یہ شریر ہے یہ مجھے پسند نہیں کرتی اور رفاعہ کے یہاں دوبارہ جانا چاہتی ہے ۔ حضور اکرم صلی اللہ علیہ وسلم نے اس پر فرمایا کہ اگر یہ بات ہے تو تمہارے لیے وہ ( رفاعہ ) اس وقت تک حلال نہیں ہوں گے جب تک یہ ( عبدالرحمٰن دوسرے شوہر ) تمہارا مزا نہ چکھ لیں ۔ بیان کیا کہ حضور اکرم صلی اللہ علیہ وسلم نے عبدالرحمٰن کے ساتھ دو بچے بھی دیکھے تو دریافت فرمایا کیا یہ تمہارے بچے ہیں ؟ انہوں نے عرض کیاجی ہاں ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا اچھا ، اس وجہ سے تم یہ باتیں سوچتی ہو ۔ اللہ کی قسم یہ بچے ان سے اتنے ہی مشابہ ہیں جتنا کہ کوا کوے سے مشابہ ہوتا ہے ۔",
+                "urduNarrator": "ہم سے محمد بن بشار نے بیان کیا ، کہا ہم سے عبدالوہاب بن عبدالمجید ثقفی نے ، کہا ہم کو ایوب سختیانی نے خبر دی ، انہیں عکرمہ نے",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، أَخْبَرَنَا أَيُّوبُ، عَنْ عِكْرِمَةَ، أَنَّ رِفَاعَةَ، طَلَّقَ امْرَأَتَهُ، فَتَزَوَّجَهَا عَبْدُ الرَّحْمَنِ بْنُ الزَّبِيرِ الْقُرَظِيُّ، قَالَتْ عَائِشَةُ وَعَلَيْهَا خِمَارٌ أَخْضَرُ‏.‏ فَشَكَتْ إِلَيْهَا، وَأَرَتْهَا خُضْرَةً بِجِلْدِهَا، فَلَمَّا جَاءَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَالنِّسَاءُ يَنْصُرُ بَعْضُهُنَّ بَعْضًا قَالَتْ عَائِشَةُ مَا رَأَيْتُ مِثْلَ مَا يَلْقَى الْمُؤْمِنَاتُ، لَجِلْدُهَا أَشَدُّ خُضْرَةً مِنْ ثَوْبِهَا‏.‏ قَالَ وَسَمِعَ أَنَّهَا قَدْ أَتَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم فَجَاءَ وَمَعَهُ ابْنَانِ لَهُ مِنْ غَيْرِهَا‏.‏ قَالَتْ وَاللَّهِ مَا لِي إِلَيْهِ مِنْ ذَنْبٍ، إِلاَّ أَنَّ مَا مَعَهُ لَيْسَ بِأَغْنَى عَنِّي مِنْ هَذِهِ‏.‏ وَأَخَذَتْ هُدْبَةً مِنْ ثَوْبِهَا، فَقَالَ كَذَبَتْ وَاللَّهِ يَا رَسُولَ اللَّهِ، إِنِّي لأَنْفُضُهَا نَفْضَ الأَدِيمِ، وَلَكِنَّهَا نَاشِزٌ تُرِيدُ رِفَاعَةَ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ فَإِنْ كَانَ ذَلِكَ لَمْ تَحِلِّي لَهُ ـ أَوْ لَمْ تَصْلُحِي لَهُ ـ حَتَّى يَذُوقَ مِنْ عُسَيْلَتِكِ ‏\"‏‏.‏ قَالَ وَأَبْصَرَ مَعَهُ ابْنَيْنِ فَقَالَ ‏\"‏ بَنُوكَ هَؤُلاَءِ ‏\"‏‏.‏ قَالَ نَعَمْ‏.‏ قَالَ ‏\"‏ هَذَا الَّذِي تَزْعُمِينَ مَا تَزْعُمِينَ، فَوَاللَّهِ لَهُمْ أَشْبَهُ بِهِ مِنَ الْغُرَابِ بِالْغُرَابِ ‏\"‏‏.‏",
+                "headingArabic": "ثِيَابِ الْخُضْرِ",
+                "headingUrdu": "سبز کپڑے",
+                "headingEnglish": "Green clothes",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5576,
+                "hadithNumber": "5826",
+                "englishNarrator": "Narrated Sa`d رضی اللہ عنہ :",
+                "hadithEnglish": "On the day of the battle of Uhud, on the right and on the left of the Prophet (ﷺ) were two men wearing white clothes, and I had neither seen them before, nor did I see them afterwards.",
+                "hadithUrdu": "جنگ احدکے موقع پر میں نے نبی کریم صلی اللہ علیہ وسلم کے دائیں بائیں دو آدمیوں کو ( جو فرشتے تھے ) دیکھا وہ سفید کپڑے پہنے ہوئے تھے میں نے انہیں نہ اس سے پہلے دیکھا اور نہ اس کے بعد کبھی دیکھا ۔",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم حنظلی نے بیان کیا ، کہا ہم کو محمدبن بشر نے خبر دی ، کہا ہم سے مسعمر نے بیان کیا ، ان سے سعد بن ابی وقاص رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ، أَخْبَرَنَا مُحَمَّدُ بْنُ بِشْرٍ، حَدَّثَنَا مِسْعَرٌ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، عَنْ أَبِيهِ، عَنْ سَعْدٍ، قَالَ رَأَيْتُ بِشِمَالِ النَّبِيِّ صلى الله عليه وسلم وَبِيَمِينِهِ رَجُلَيْنِ عَلَيْهِمَا ثِيَابٌ بِيضٌ يَوْمَ أُحُدٍ، مَا رَأَيْتُهُمَا قَبْلُ وَلاَ بَعْدُ‏.‏",
+                "headingArabic": "الثِّيَابِ الْبِيضِ",
+                "headingUrdu": "سفید کپڑے",
+                "headingEnglish": "White clothes",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5577,
+                "hadithNumber": "5827",
+                "englishNarrator": "Narrated Abu Dharr رضی اللہ عنہ :",
+                "hadithEnglish": "I came to the Prophet (ﷺ) while he was wearing white clothes and sleeping. Then I went back to him again after he had got up from his sleep. He said, \"Nobody says: 'None has the right to be worshipped but Allah' and then later on he dies while believing in that, except that he will enter Paradise.\" I said, \"Even if he had committed illegal sexual intercourse and theft?\" He said. 'Even if he had committed illegal sexual intercourse and theft.\" I said, \"Even if he had committed illegal sexual intercourse and theft?\" He said. 'Even if he had committed illegal sexual intercourse and theft.\" I said, 'Even it he had committed illegal sexual intercourse and theft?' He said, \"Even if he had committed illegal sexual intercourse and theft, inspite of the Abu Dharr's dislike. Abu `Abdullah said, \"This is at the time of death or before it if one repents and regrets and says \"None has the right to be worshipped but Allah. He will be forgiven his sins.\"",
+                "hadithUrdu": "میں نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوا تو جسم مبارک پر سفید کپڑاتھا اور آپ سورہے تھے پھر دوبارہ حاضر ہوا تو آپ بیدار ہو چکے تھے پھر آپ نے فرمایا جس بندہ نے بھی کلمہ لا الہٰ الا اللہ ( اللہ کے سوا کوئی معبود نہیں ) کو مان لیا اور پھر اسی پر وہ مرا تو جنت میں جائے گا ۔ میں نے عرض کیا چاہے اس نے زنا کیا ہو ، چاہے اس نے چوری کی ہو ، آپ نے فرمایا کہ چاہے اس نے زنا کیا ہو چاہے اس نے چوری کی ہو ، میں نے پھر عرض کیا چاہے اس نے زنا کیا ہو چاہے اس نے چوری کی ہو ۔ فرمایا چاہے اس نے زنا کیا ہو چاہے اس نے چوری کی ہو ۔ میں نے ( حیرت کی وجہ سے پھر ) عرض کیا چاہے اس زنا کیا ہو یا اس نے چوری کی ہو ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا چاہے اس نے زنا کیا ہوچا ہے اس نے چوری کی ہو ۔ ابوذر کی ناک خاک آلود ہو ۔ حضرت ابوذر رضی اللہ عنہ بعد میں جب بھی یہ حدیث بیان کرتے تو آنحضرت صلی اللہ علیہ وسلم کے الفاظ ابوذر کے علی الرغم ( وان رغم انف ابی ذر ) ضرور بیان کرتے ۔ ابوعبداللہ حضرت امام بخاری نے کہا یہ صورت کہ ( صرف کلمہ سے جنت میں داخل ہو گا ) یہ اس وقت ہو گی جب موت کے وقت یا اس سے پہلے ( گناہوں سے ) توبہ کی اور کہا کہ لا الہٰ الا اللہ ، اس کی مغفرت ہو جائے گی ۔",
+                "urduNarrator": "ہم سے ابو معمر نے بیان کیا ، کہا ہم سے عبدالوارث نے بیان کیا ، ان سے حسین نے ، ان سے عبداللہ بن بریدہ نے ، ان سے یحییٰ بن یعمر نے بیان کیا ، ان سے ابو اسود دیلی نے بیان کیا اور ان سے حضرت ابوذر رضی اللہ عنہ نے بیان کیا ، انہوں نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو مَعْمَرٍ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنِ الْحُسَيْنِ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ يَحْيَى بْنِ يَعْمَرَ، حَدَّثَهُ أَنَّ أَبَا الأَسْوَدِ الدِّيلِيَّ حَدَّثَهُ أَنَّ أَبَا ذَرٍّ ـ رضى الله عنه ـ حَدَّثَهُ قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم وَعَلَيْهِ ثَوْبٌ أَبْيَضُ وَهْوَ نَائِمٌ، ثُمَّ أَتَيْتُهُ وَقَدِ اسْتَيْقَظَ فَقَالَ ‏\"‏ مَا مِنْ عَبْدٍ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ‏.‏ ثُمَّ مَاتَ عَلَى ذَلِكَ، إِلاَّ دَخَلَ الْجَنَّةَ ‏\"‏‏.‏ قُلْتُ وَإِنْ زَنَى وَإِنْ سَرَقَ قَالَ ‏\"‏ وَإِنْ زَنَى وَإِنْ سَرَقَ ‏\"‏‏.‏ قُلْتُ وَإِنْ زَنَى وَإِنْ سَرَقَ قَالَ ‏\"‏ وَإِنْ زَنَى وَإِنْ سَرَقَ ‏\"‏‏.‏ قُلْتُ وَإِنْ زَنَى وَإِنْ سَرَقَ قَالَ ‏\"‏ وَإِنْ زَنَى وَإِنْ سَرَقَ عَلَى رَغْمِ أَنْفِ أَبِي ذَرٍّ ‏\"‏‏.‏ وَكَانَ أَبُو ذَرٍّ إِذَا حَدَّثَ بِهَذَا قَالَ وَإِنْ رَغِمَ أَنْفُ أَبِي ذَرٍّ‏.‏ قَالَ أَبُو عَبْدِ اللَّهِ هَذَا عِنْدَ الْمَوْتِ أَوْ قَبْلَهُ، إِذَا تَابَ وَنَدِمَ وَقَالَ لاَ إِلَهَ إِلاَّ اللَّهُ‏.‏ غُفِرَ لَهُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 5551,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=222",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=220",
+                "label": "220",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=221",
+                "label": "221",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=222",
+                "label": "222",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=223",
+                "label": "223",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=224",
+                "label": "224",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=225",
+                "label": "225",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=226",
+                "label": "226",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=224",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=224",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=222",
+        "to": 5575,
+        "total": 40465
+    }
+}

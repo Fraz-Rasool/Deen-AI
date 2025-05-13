@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 351,
+        "data": [
+            {
+                "id": 9039,
+                "hadithNumber": "1475",
+                "englishNarrator": "Abu Huraira reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying: Prayer said in a congregation is equivalent to twenty-five (prayers) as compared with the prayer said by a single person.",
+                "hadithUrdu": "رسول اللہ ﷺ نے فرمایا : ’’باجماعت نماز اکیلے کی پچیس نمازوں کے برابر ہے",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ بن قنب نے بیان کیا، کہا ہم سے افلح نے بیان کیا، وہ ابوبکر بن محمد بن عمرو بن حزم رضی اللہ عنہ سے,سلمان اغر نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ، کہا",
+                "hadithArabic": "وَحَدَّثَنَا عَبْدُ اللهِ بْنُ مَسْلَمَةَ بْنِ قَعْنَبٍ، حَدَّثَنَا أَفْلَحُ، عَنْ أَبِي بَكْرِ بْنِ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ، عَنْ سَلْمَانَ الْأَغَرِّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «صَلَاةُ الْجَمَاعَةِ تَعْدِلُ خَمْسًا وَعِشْرِينَ مِنْ صَلَاةِ الْفَذِّ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9040,
+                "hadithNumber": "1476",
+                "englishNarrator": "Abu Huraira رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah (ﷺ) said: Prayer along with the Imam is twenty-five times more excellent than prayer said by a single person.",
+                "hadithUrdu": "رسول اللہ ﷺ نے فرمایا : ’’امام کے ساتھ ( پڑھی گئی ) نماز ایسی پچیس نمازوں سے افضل ہے جو انسان اکیلے پڑھتا ہے ۔ ‘ ‘",
+                "urduNarrator": "مجھ سے ہارون بن عبداللہ اور محمد بن حاتم نے بیان کیا، کہا: ہم سے حجاج بن محمد نے بیان کیا، کہا: ابن جریج نے کہا, عمر بن عطاء بن ابی خوار نے خبر دی کہ میں نے نافع بن جبیر بن مطعم کے پاس بیٹھا ہوا تھا کہ اس اثنا میں ہمارے پاس سے جہنیوں کے آزاد کردہ غلام زید بن زبان کے بہنوئی ابو عبداللہ گزرے ، نافع نے انھیں بلایا ( اور حدیث سنا نے کو کہا ۔ ) انھوں نے کہا : میں نے ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ کو کہتے ہوئے سنا",
+                "hadithArabic": "حَدَّثَنِي هَارُونُ بْنُ عَبْدِ اللهِ، وَمُحَمَّدُ بْنُ حَاتِمٍ، قَالَا: حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، قَالَ: قَالَ ابْنُ جُرَيْجٍ: أَخْبَرَنِي عُمَرُ بْنُ عَطَاءِ بْنِ أَبِي الْخُوَارِ أَنَّهُ بَيْنَا هُوَ جَالِسٌ مَعَ نَافِعِ بْنِ جُبَيْرِ بْنِ مُطْعِمٍ إِذْ مَرَّ بِهِمْ أَبُو عَبْدِ اللهِ خَتَنُ زَيْدِ بْنِ زَبَّانَ، مَوْلَى الْجُهَنِيِّينَ، فَدَعَاهُ نَافِعٌ، فَقَالَ: سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «صَلَاةٌ مَعَ الْإِمَامِ أَفْضَلُ مِنْ خَمْسٍ وَعِشْرِينَ صَلَاةً يُصَلِّيهَا وَحْدَهُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9041,
+                "hadithNumber": "1477",
+                "englishNarrator": "Ibn Umar رضی ‌اللہ ‌عنہ ‌reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) assaying: Prayer said in a congregation is twenty-seven degrees more excellent than prayer said by a single person.",
+                "hadithUrdu": "رسول اللہ ﷺنے فرمایا : ’’با جماعت نماز پڑھنا اکیلے کی نماز سے ستائیس درجے افضل ہے ۔ ‘ ‘",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا: میں نے پڑھا مالک نے نافع سے اورانھوں نے حضرت ابن عمر ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى قَالَ: قَرَأْتُ عَلَى مَالِكٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَ: «صَلَاةُ الْجَمَاعَةِ أَفْضَلُ مِنْ صَلَاةِ الْفَذِّ بِسَبْعٍ وَعِشْرِينَ دَرَجَةً».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9042,
+                "hadithNumber": "1478",
+                "englishNarrator": "Ibn 'Umar رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: The prayer of a person in congregation is twenty-seven times in excess to the prayer said alone.",
+                "hadithUrdu": "آپ نے فرمایا : ’’آدمی کی جماعت کے ساتھ نماز اسکی اکیلے پڑھی گئی ستائیس نمازوں سے بڑھ کر ہے.",
+                "urduNarrator": "مجھ سے زہیر بن حرب اور محمد بن المثنیٰ نے بیان کیا، کہا یحییٰ نے عبید اللہ سے حدیث بیان کی ، کہا : مجھے نافع نے حضرت ابن عمر ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے خبر دی ، انھوں نے نبی اکرم ﷺ سے روایت کی کہ",
+                "hadithArabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، قَالَا: حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللهِ، قَالَ: أَخْبَرَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَ: «صَلَاةُ الرَّجُلِ فِي الْجَمَاعَةِ تَزِيدُ عَلَى صَلَاتِهِ وَحْدَهُ سَبْعًا وَعِشْرِينَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9043,
+                "hadithNumber": "1479",
+                "englishNarrator": "It was narrated from 'Ubaidullah from this chain (a hadith similar to. 1478). Ibn Numair said, narrated from his father:",
+                "hadithEnglish": "\"Twenty-odd.\" (degrees) and Abu Bakr in his narration (has narrated it) twenty-seven degrees.",
+                "hadithUrdu": "اور ابوبکر بن ابی شبیہ نے اپنی روایت میں ستائیس درجے کہا ۔",
+                "urduNarrator": "ابو بکر بن ابی شیبہ نےہمیں حدیث سنائی ، کہا : ہمیں ابو اسامہ اور ( محمد بن عبداللہ ) ابن نمیر نے حدیث سنائی ، نیز ابن نمیر نے ( کہا : ) ہمیں میرے والد نے حدیث سنائی ، ان دونوں ) ( ابو اسامہ اور ابن نمیر ) نے کہا : ہمیں عبیداللہ نے اسی سندکے ساتھ یہی حدیث بیان کی ۔ ابن نمیر نے اپنےوالد سے روایت کردہ حدیث میں بضعا و عشرین ( بیس سے زائد ) کے الفاظ روایت کیے",
+                "hadithArabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، وَابْنُ نُمَيْرٍ، ح قَالَ: وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، قَالَا: حَدَّثَنَا عُبَيْدُ اللهِ بِهَذَا الْإِسْنَادِ، قَالَ ابْنُ نُمَيْرٍ، عَنْ أَبِيهِ: بِضْعًا وَعِشْرِينَ، وقَالَ أَبُو بَكْرٍ فِي رِوَايَتِهِ: سَبْعًا وَعِشْرِينَ دَرَجَةً.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9044,
+                "hadithNumber": "1480",
+                "englishNarrator": "Ibn 'Umar ‌رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as some and twenty (degrees).",
+                "hadithUrdu": "انھوں نے نبی اکرم ﷺ سے روایت کی ، فرمایا : ’’بیس سے زائد ۔ ‘ ‘",
+                "urduNarrator": "ہم سے ابن رافع نے بیان کیا، ہم سے ابن ابی فدیک نے بیان کیا, ضحاک نے نافع سے ، انھوں نے ابن عمر ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے اور",
+                "hadithArabic": "وَحَدَّثَنَاهُ ابْنُ رَافِعٍ، أَخْبَرَنَا ابْنُ أَبِي فُدَيْكٍ، أَخْبَرَنَا الضَّحَّاكُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَ: «بِضْعًا وَعِشْرِينَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9045,
+                "hadithNumber": "1481",
+                "englishNarrator": "Abu Huraira reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) found some people absenting from certain prayers and he said: I intend that I order (a) person to lead people in prayer, and then go to the persons who do not join the (congregational prayer) and then order their houses to be burnt by the bundles of fuel. If one amongst them were to know that he would find a fat fleshy bone he would attend the night prayer.",
+                "hadithUrdu": "رسول اللہ ﷺنے کچھ لوگوں کو ایک نماز میں غیر حاضر پایا تو فرمایا : ’’میں نے ( یہا ں تک ) سوچا کہ کسی آدمی کو لوگوں کی امامت کرانے کا حکم دو ں ، پھر دوسری طرف سے ان لوگوں کی طرف جاؤں جو نماز سے پیچھے رہتےہیں اور ان کے بار ے میں ( اپنے کارندوں کو ) حکم دوں کہ لکڑیوں کے گٹھوں سے آگ بھڑکا کر ان کے گھروں کو ان پر جلا دیں ۔ ان میں سے اگرکسی کو یقین ہو کہ نماز میں حاضری سے اسے فربہ ( گوشت سے بھر ہوئی ) ہڈی ملے گی تو وہ اس میں ضرور حاضر ہو جائے گا ۔ ‘ ‘ آپ ﷺ کی مراد عشاء کی نماز سے تھی ۔",
+                "urduNarrator": "مجھ سے عمرو الناقد نے بیان کیا، ہم سے سفیان بن عیینہ نے بیان کیا، ابو الزناد سے,اعرج نےحضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+                "hadithArabic": "وَحَدَّثَنِي عَمْرٌو النَّاقِدُ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ أَبِي الزِّنَادِ، عَنِ الْأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَدَ نَاسًا فِي بَعْضِ الصَّلَوَاتِ، فَقَالَ: «لَقَدْ هَمَمْتُ أَنَّ آمُرَ رَجُلًا يُصَلِّي بِالنَّاسِ، ثُمَّ أُخَالِفَ إِلَى رِجَالٍ يَتَخَلَّفُونَ عَنْهَا، فَآمُرَ بِهِمْ فَيُحَرِّقُوا عَلَيْهِمْ، بِحُزَمِ الْحَطَبِ بُيُوتَهُمْ، وَلَوْ عَلِمَ أَحَدُهُمْ أَنَّهُ يَجِدُ عَظْمًا سَمِينًا لَشَهِدَهَا» يَعْنِي صَلَاةَ الْعِشَاءِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9046,
+                "hadithNumber": "1482",
+                "englishNarrator": "Abu Huraira رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: The most burdensome prayers for the hypocrites are the night prayer and the morning prayer. If they were to know the blessings they have in store, they would have come to them, even though crawling, and I thought that I should order the prayer to be commenced and command a person to lead people in prayer, and I should then go along with some persons having a fagot of fuel with them to the people who have not attended the prayer (in congregation) and would burn their houses with fire.",
+                "hadithUrdu": "رسول اللہ ﷺ نے فرمایا : ’’منافقوں کے لیے سب سے بھاری نماز عشاء اور فجر کی نماز ہے ، اگر ان لوگوں کو پتہ چل جائے ، جو ان میں ( خیرو برکت ) ہے تو چاہے انھیں گھٹنوں کے بل چل کر آنا پڑے ، ضرور آئیں ۔ اور میں نے سوچاتھا کہ نماز کی اقامت کا حکم دو ں ، پھر کسی شخص کو کہوں وہ لوگوں کو جماعت کرائے ، پھر میں کچھ اشخاص کو ساتھ لے کر ، جن کے پاس لکڑیوں کے گٹھے ہوں ، ان لوگوں کی طرف جاؤں جو نماز میں حاضر نہیں ہوتے ، پھر ان کے گھروں کو ان پر آگ سے جلا دو ں ۔ ‘ ‘",
+                "urduNarrator": "ہم سے ابن نمیر نے بیان کیا، کہا ہم سے میرے والد نے بیان کیا، ہم سے اعمش نے بیان کیا، ان سے ابو بکر بن ابی شیبہ نے اور ان سے ابو کریب نے بیان کیا، اور الفاظ ان کے لیے ہیں، انہوں نے کہا: انہوں نے ابو معاویہ رضی اللہ عنہ سے روایت کی، الاعمش کی اتھارٹی، ابو صالح نےحضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا الْأَعْمَشُ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ، وَاللَّفْظُ لَهُمَا، قَالَا: حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الْأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ أَثْقَلَ صَلَاةٍ عَلَى الْمُنَافِقِينَ صَلَاةُ الْعِشَاءِ، وَصَلَاةُ الْفَجْرِ، وَلَوْ يَعْلَمُونَ مَا فِيهِمَا لَأَتَوْهُمَا وَلَوْ حَبْوًا، وَلَقَدْ هَمَمْتُ أَنْ آمُرَ بِالصَّلَاةِ، فَتُقَامَ، ثُمَّ آمُرَ رَجُلًا فَيُصَلِّيَ بِالنَّاسِ، ثُمَّ أَنْطَلِقَ مَعِي بِرِجَالٍ مَعَهُمْ حُزَمٌ مِنْ حَطَبٍ إِلَى قَوْمٍ لَا يَشْهَدُونَ الصَّلَاةَ، فَأُحَرِّقَ عَلَيْهِمْ بُيُوتَهُمْ بِالنَّارِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9047,
+                "hadithNumber": "1483",
+                "englishNarrator": "Hammam bin Munabbih reported This is what Abu Huraira رضی ‌اللہ ‌عنہ ‌reported to us from the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and (in this connection) he narrated some a hadith, one of them is:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: I intend that I should command my young men to gather bundles fuel for me, and then order a person to lead people in prayer, and then burn the houses with their inmates (who have not joined the congregation).",
+                "hadithUrdu": "رسول اللہ نے فرمایا : ’’میں نے ارادہ کیا تھا کہ اپنے جوانوں کو حکم دوں کہ وہ میری خاطر لکڑی کے گٹھے تیار کریں ، پھر کسی آدمی کو حکم دوں وہ لوگوں کو نماز پڑھائے ، پھر گھروں کو ان کے ( بے نماز ) باسیوں سمیت جلا دیا جائے ۔ ‘ ‘",
+                "urduNarrator": "ہم سے محمد بن رافع نے بیان کیا، ہم سے عبدالرزاق نے بیان کیا، ہم سے معمر نے بیان کیا, ہمام بن منبہ سے روایت ہے ، کہا : یہ احادیث ہیں جو ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نےہمیں رسول اللہ سے روایت کیں ، پھر انھوں نے متعدد احادیث بیان کیں ، ان میں سے یہ بھی تھی کہ",
+                "hadithArabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ: هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَذَكَرَ أَحَادِيثَ مِنْهَا، وَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لَقَدْ هَمَمْتُ أَنْ آمُرَ فِتْيَانِي أَنْ يَسْتَعِدُّوا لِي بِحُزَمٍ مِنْ حَطَبٍ، ثُمَّ آمُرَ رَجُلًا يُصَلِّي بِالنَّاسِ، ثُمَّ تُحَرَّقُ بُيُوتٌ عَلَى مَنْ فِيهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9048,
+                "hadithNumber": "1484",
+                "englishNarrator": null,
+                "hadithEnglish": "A hadith like this has been narrated by Abu Huraira رضی اللہ عنہ .",
+                "hadithUrdu": "ہم سے زہیر بن حرب، ابو کریب اور اسحاق بن ابراہیم نے وکیع کی سند سے، جعفر بن برقان کی سند سے، یزید بن العصام کی سند سے، ابوہریرہ رضی اللہ عنہ سے اور انھوں نے نبی اکرم ﷺ سے اسی کی طرح حدیث روایت کی ہے.",
+                "urduNarrator": null,
+                "hadithArabic": "وَحَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَأَبُو كُرَيْبٍ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، عَنْ وَكِيعٍ، عَنْ جَعْفَرِ بْنِ بُرْقَانَ، عَنْ يَزِيدَ بْنِ الْأَصَمِّ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِنَحْوِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9049,
+                "hadithNumber": "1485",
+                "englishNarrator": "Abdullah رضی ‌اللہ ‌عنہ ‌reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying about people who are absent from Jumu'a prayer: I intend that I should command a person to lead people in prayer, and then burn those persons who absent themselves from Jumu'a prayer in their houses.",
+                "hadithUrdu": "نبی ﷺ نے ان لوگوں سے جو جمعے سے پیچھے رہ جاتے ہیں ، فرمایا : ’’میں نے ارادہ کیا کہ کسی آدمی کو حکم دو ں وہ لوگوں کو نماز پڑھائے ، پھر ان لوگوں کے گھروں کو ان پر ( اس سمیت ) جلادوں جو جمعے سے پیچھے رہتے ہیں.",
+                "urduNarrator": "ہم سے احمد بن عبداللہ بن یونس نے بیان کیا، کہا ہم سے زہیر نے بیان کیا، ہم سے ابواسحاق نے بیان کیا، وہ ابو الاحوص کی سند سے، انہوں نے ان سے سنا، حضرت عبداللہ بن مسعود ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت ہے کہ",
+                "hadithArabic": "وَحَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللهِ بْنِ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا أَبُو إِسْحَاقَ، عَنْ أَبِي الْأَحْوَصِ، سَمِعَهُ مِنْهُ، عَنْ عَبْدِ اللهِ، أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَ لِقَوْمٍ يَتَخَلَّفُونَ عَنِ الْجُمُعَةِ: «لَقَدْ هَمَمْتُ أَنْ آمُرَ رَجُلًا يُصَلِّي بِالنَّاسِ، ثُمَّ أُحَرِّقَ عَلَى رِجَالٍ يَتَخَلَّفُونَ عَنِ الْجُمُعَةِ بُيُوتَهُمْ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9050,
+                "hadithNumber": "1486",
+                "englishNarrator": "Abu Huraira رضی ‌اللہ ‌عنہ ‌reported:",
+                "hadithEnglish": "There came to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) a blind man and said: Messenger of Allah, I have no one to guide me to the mosque. He, therefore, asked. Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) permission to say prayer in his house. He (tee Holy Prophet) granted him permission. Then when the man turned away he called him and said: Do you hear the call to prayer? He said: Yes. He (the Prophet then) said: Respond to it.",
+                "hadithUrdu": "نبی اکرم ﷺ کی خدمت میں اکی نابینا آدمی حاضر ہوا اور عرض کی : اے اللہ کےرسول ! میرے پاس کوئی لانے والا نہیں جو ( ہاتھ سے پکڑ کر ) مجھے مسجد میں لے آئے ۔ اس نے رسول اللہ ﷺ سے درخواست کی کہ اسے اجازت دی جائے کہ وہ اپنے گھر میں نماز پڑھ لے ۔ آپ نے اسے اجازت دے دی ، جب وہ واپس ہو ا تو آپ ﷺ نے اسے بلایا اور فرمایا : ’’کیا تم نماز کا بلاوا ( اذان ) سنتے ہو؟ ‘ ‘ اس نے عرض کی : جی ہاں ۔ آپ نے فرمایا : ’’تو اس پر لبیک کہو ۔ ‘ ‘",
+                "urduNarrator": "ہمیں قتیبہ بن سعید، اسحاق بن ابراہیم، سوید بن سعید اور یعقوب الدورقی نے مروان الفزاری کی سند سے بیان کیا، کہا: ہم سے الفزاری نے عبید اللہ بن الاصم کی سند سے بیان کیا۔ انہوں نے کہا: ہم سے یزید بن الاصم نے بیان کیا،حضرت ابوہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت ہے ، انھوں نے کہا",
+                "hadithArabic": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَسُوَيْدُ بْنُ سَعِيدٍ، وَيَعْقُوبُ الدَّوْرَقِيُّ، كُلُّهُمْ عَنْ مَرْوَانَ الْفَزَارِيِّ، قَالَ قُتَيْبَةُ: حَدَّثَنَا الْفَزَارِيُّ، عَنْ عُبَيْدِ اللهِ بْنِ الْأَصَمِّ، قَالَ: حَدَّثَنَا يَزِيدُ بْنُ الْأَصَمِّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: أَتَى النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ رَجُلٌ أَعْمَى، فَقَالَ: يَا رَسُولَ اللهِ، إِنَّهُ لَيْسَ لِي قَائِدٌ يَقُودُنِي إِلَى الْمَسْجِدِ، فَسَأَلَ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَنْ يُرَخِّصَ لَهُ، فَيُصَلِّيَ فِي بَيْتِهِ، فَرَخَّصَ لَهُ، فَلَمَّا وَلَّى، دَعَاهُ، فَقَالَ: «هَلْ تَسْمَعُ النِّدَاءَ بِالصَّلَاةِ؟» قَالَ: نَعَمْ، قَالَ: «فَأَجِبْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9051,
+                "hadithNumber": "1487",
+                "englishNarrator": "Abdullah (bin Mas'ud) رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "I have seen the time when no one stayed away from prayer except a hypocrite, whose hypocrisy was well known, or a sick man, but if a sick man could walk between two persons (i.e. with the help of two persons with one on each side) he would come to prayer. And (further) said: The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) taught us the paths of right guidance, among which is prayer in the mosque in which the Adhan is called.",
+                "hadithUrdu": "نماز سے کوئی شخص پیچھے نہ رہتا ، سوائے منافق کے ، جس کا نفاق معلوم ہوتا یا سوائے بیمار کے اور ( بسا اوقات ) بیمار بھی دو آدمیوں کے سہائے سے چلتا آ جاتا یہاں تک کہ نماز میں شامل ہو جاتا ۔ انھوں نے کہا : رسول اللہ ﷺ نےہمیں ہدایت کے طریقوں کی تعلیم دی اور ہدایت کے طریقوں میں سے ایسی مسجد میں نماز پڑھنا بھی ہے جس میں اذان دی جاتی ہو ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، ہم سے محمد بن بشر العبدی نے بیان کیا، ہم سے زکریا بن ابی زیدہ نے بیان کیا، عبد الملک بن عمیر نے ابو احوص سے روایت کی ، کہا : حضرت عبداللہ ( بن مسعود ‌رضی ‌اللہ ‌عنہ ‌ ‌ ) نےکہا : ساتھیوں سمیت میں نےخود کو دیکھا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ الْعَبْدِيُّ، حَدَّثَنَا زَكَرِيَّاءُ بْنُ أَبِي زَائِدَةَ، حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ عُمَيْرٍ، عَنْ أَبِي الْأَحْوَصِ، قَالَ: قَالَ عَبْدُ اللهِ: «لَقَدْ رَأَيْتُنَا وَمَا يَتَخَلَّفُ عَنِ الصَّلَاةِ إِلَّا مُنَافِقٌ قَدْ عُلِمَ نِفَاقُهُ، أَوْ مَرِيضٌ، إِنْ كَانَ الْمَرِيضُ لَيَمْشِي بَيْنَ رَجُلَيْنِ حَتَّى يَأْتِيَ الصَّلَاةِ»، وَقَالَ: «إِنْ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَلَّمَنَا سُنَنَ الْهُدَى، وَإِنَّ مِنْ سُنَنَ الْهُدَى الصَّلَاةَ فِي الْمَسْجِدِ الَّذِي يُؤَذَّنُ فِيهِ».",
+                "headingArabic": "صَلاَةُ الْجَمَاعَةِ مِنْ سُنَنِ الْهُدَى ‏",
+                "headingUrdu": "باجماعت نماز ہدایت کی سنتوں میں سے ہے۔",
+                "headingEnglish": "Prayer in congregation is one of the sunnah of guidance",
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9052,
+                "hadithNumber": "1488",
+                "englishNarrator": "Abdullah (bin Mas'ud) ‌رضی ‌اللہ ‌عنہ ‌reported:",
+                "hadithEnglish": "He who likes to meet Allah tomorrow as Muslim, he should persevere in observing these prayers, when a call is announced for them, for Allah has laid down for your Prophet the paths of right guidance, and these (prayers) are among the paths of right guidance. If you were to pray in your houses as this man why stays away (from the mosque) prays in his house, you would abandon the practice of your Prophet, and if you were to abandon the practice of your Prophet, you would go astray. No man purifies himself, doing it well, then makes for one of those mosques without Allah recording a blessing for him for every step he takes raising him a degree for it, and effacing a sin from him for it. I have seen the time when no one stayed away from it, except a hypocrite, who was well known for his hypocrisy, whereas a man would be brought swaying (due to weakness) between two men till he was set up in a row.",
+                "hadithUrdu": "جو یہ چاہے کہ کل ( قیامت کے دن ) اللہ تعالیٰ سے مسلمان کی حیثیت سے ملے تو وہ جہاں سے ان ( نمازوں ) کے لیے بلایا جائے ، ان نمازوں کی حفاظت کرے ( وہاں مساجد میں جا کر صحیح طرح سے انھیں ادا کرے ) کیونکہ اللہ تعالیٰ نے تمھائے نبی ﷺ کے لے ہدایت کے طریقے مقرر فرما دیے ہیں اور یہ ( مساجد میں باجماعت نماز یں ) بھی انھی طریقوں میں سے ہیں ۔ کیونکہ اگر تم نمازیں اپنے گھروں میں پڑھو گے ، جیسے یہ جماعت سے پیچھے رہنے والا ، اپنے گھر میں پڑھتا ہےتو تم اپنے نبی کی راہ چھوڑ دو گے اور اگر تم اپنے نبی کی راہ کو چھوڑ دو گے تو گمراہ ہو جاؤ گے ۔ کوئی آدمی جو پاکیز گی حاصل کرتا ہے ( وضوکرتا ہے ) اور اچھی طرح وضو کرتا ہے ، پھر ان مساجد میں سے کسی مسجد کا رخ کرتا ہے تو اللہ تعالیٰ اس کے ہر قدم کے بدلے ، جو وہ اٹھاتا ہے ، ایک نیکی لکھتا ہے ، اور اس کے سبب اس کا ایک درجہ بلند فرماتا ہے اور اس کا ایک گناہ کم کر دیتا ہے ، اور میں نے دیکھا کہ ہم میں سے کوئی ( بھی ) جماعت سے پیچھے نہ رہتا تھا ، سوائے ایسے منافق کے جس کا نفاق سب کو معلوم ہوتا ( بلکہ بسا اوقات ایسا ہوتا کہ ) ایک آدمی کو اس طرح لایا جاتا کہ اسے دو آ دمیوں کے درمیان سہارا دیا گیا ہوتا ، حتی کہ صف میں لاکھڑا کیا جاتا ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے الفضل بن دکین نے بیان کیا، ابو العمیس کی سند سے, علی بن اقمر نے ابو احوص سے اور انھوں نے حضرت عبداللہ ( بن مسعود ‌رضی ‌اللہ ‌عنہ ‌ ‌ ) سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا الْفَضْلُ بْنُ دُكَيْنٍ، عَنْ أَبِي الْعُمَيْسِ، عَنْ عَلِيِّ بْنِ الْأَقْمَرِ، عَنْ أَبِي الْأَحْوَصِ، عَنْ عَبْدِ اللهِ، قَالَ: «مَنْ سَرَّهُ أَنْ يَلْقَى اللهَ غَدًا مُسْلِمًا، فَلْيُحَافِظْ عَلَى هَؤُلَاءِ الصَّلَوَاتِ حَيْثُ يُنَادَى بِهِنَّ، فَإِنَّ اللهَ شَرَعَ لِنَبِيِّكُمْ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ سُنَنَ الْهُدَى، وَإِنَّهُنَّ مَنْ سُنَنَ الْهُدَى، وَلَوْ أَنَّكُمْ صَلَّيْتُمْ فِي بُيُوتِكُمْ كَمَا يُصَلِّي هَذَا الْمُتَخَلِّفُ فِي بَيْتِهِ، لَتَرَكْتُمْ سُنَّةَ نَبِيِّكُمْ، وَلَوْ تَرَكْتُمْ سُنَّةَ نَبِيِّكُمْ لَضَلَلْتُمْ، وَمَا مِنْ رَجُلٍ يَتَطَهَّرُ فَيُحْسِنُ الطُّهُورَ، ثُمَّ يَعْمِدُ إِلَى مَسْجِدٍ مِنْ هَذِهِ الْمَسَاجِدِ، إِلَّا كَتَبَ اللهُ لَهُ بِكُلِّ خَطْوَةٍ يَخْطُوهَا حَسَنَةً، وَيَرْفَعُهُ بِهَا دَرَجَةً، وَيَحُطُّ عَنْهُ بِهَا سَيِّئَةً، وَلَقَدْ رَأَيْتُنَا وَمَا يَتَخَلَّفُ عَنْهَا إِلَّا مُنَافِقٌ مَعْلُومُ النِّفَاقِ، وَلَقَدْ كَانَ الرَّجُلُ يُؤْتَى بِهِ يُهَادَى بَيْنَ الرَّجُلَيْنِ حَتَّى يُقَامَ فِي الصَّفِّ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9053,
+                "hadithNumber": "1489",
+                "englishNarrator": "Abu Sha'tha' reported:",
+                "hadithEnglish": "While we were sitting with Abu Huraira ‌رضی ‌اللہ ‌عنہ ‌in a mosque a man went out of the mosque after the call to prayer had been announced. (A man stood up in the mosque and set off.) Abu Huraira's eyes followed him till he went out of the mosque. Upon this Abu Huraira said: This man has disobeyed Abu'l- Qasim (Muhammad) ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ).",
+                "hadithUrdu": "ہم مسجد میں حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ کے ساتھ بیٹھے ہوئے تھے کہ مؤذن نے اذان کہی ، ایک آدمی مسجدسے اٹھ کر چل پڑا ، حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نےمسلسل اس پر نظر رکھی حتی کہ وہ مسجد سے نکل گیا ، حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نےکہا : یہ شخص ، یقینا اس نے ابو القاسم ﷺ کی نافرمانی کی ہے ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے ابو الاحواص نے بیان کیا, ابراہیم بن مہاجر نے ابو شعثاء سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو الْأَحْوَصِ، عَنْ إِبْرَاهِيمَ بْنِ الْمُهَاجِرِ، عَنْ أَبِي الشَّعْثَاءِ، قَالَ: كُنَّا قُعُودًا فِي الْمَسْجِدِ مَعَ أَبِي هُرَيْرَةَ، فَأَذَّنَ الْمُؤَذِّنُ، فَقَامَ رَجُلٌ مِنَ الْمَسْجِدِ يَمْشِي فَأَتْبَعَهُ أَبُو هُرَيْرَةَ بَصَرَهُ حَتَّى خَرَجَ مِنَ الْمَسْجِدِ، فَقَالَ أَبُو هُرَيْرَةَ: «أَمَّا هَذَا، فَقَدْ عَصَى أَبَا الْقَاسِمِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ.",
+                "headingArabic": "النَّهْىِ عَنِ الْخُرُوجِ، مِنَ الْمَسْجِدِ إِذَا أَذَّنَ الْمُؤَذِّنُ",
+                "headingUrdu": "مؤذن کے اذان کے بعد مسجد سے نکلنے کی ممانعت",
+                "headingEnglish": "The prohibition of leaving the masjid once the Mu’adhdhin has called the Adhan",
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9054,
+                "hadithNumber": "1490",
+                "englishNarrator": "Abu Sha'tha' al-Muharibi reported on the authority of his father, who said:",
+                "hadithEnglish": "I heard it from Abu Huraira ‌رضی ‌اللہ ‌عنہ that he saw a person getting out of the mosque after the call to prayer had been announced. Upon this he remarked: This (man) disobeyed Abu'l-Qasim ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌).",
+                "hadithUrdu": "میں نے حضرت ابوہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے سنا ,  انھوں نے ایک شخص کو اذان کے بعد مسجد میں سے چل کر باہر نکلتے دیکھتا تو فرمایا : یہ شخص ، بلاشبہ اس نے ابو القاسم ﷺ کی نافرمانی کی ہے ۔",
+                "urduNarrator": "ہم سے ابن ابی عمر المکی نے بیان کیا، ہم سے سفیان نے جو ابن عیینہ ہیں، انہوں نے عمر بن سعید کی سند سے بیان کیا, اشعث بن ابی شعثاء محاربی نے اپنے والد سے روایت کی ، کہا",
+                "hadithArabic": "وَحَدَّثَنَا ابْنُ أَبِي عُمَرَ الْمَكِّيُّ، حَدَّثَنَا سُفْيَانُ هُوَ ابْنُ عُيَيْنَةَ، عَنْ عُمَرَ بْنِ سَعِيدٍ، عَنْ أَشْعَثَ بْنِ أَبِي الشَّعْثَاءِ الْمُحَارِبِيِّ، عَنْ أَبِيهِ، قَالَ: سَمِعْتُ أَبَا هُرَيْرَةَ، وَرَأَى رَجُلًا يَجْتَازُ الْمَسْجِدَ خَارِجًا بَعْدَ الْأَذَانِ، فَقَالَ «أَمَّا هَذَا فَقَدْ عَصَى أَبَا الْقَاسِمِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9055,
+                "hadithNumber": "1491",
+                "englishNarrator": "Abdul-Rahman bin Abi 'Amr reported:",
+                "hadithEnglish": "'Uthman bin 'Affan رضی ‌اللہ ‌عنہ ‌(narrated the mosque after evening prayer and sat alone. I also sat alone with him, so he said: O, son of my brother, I heard the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) say: He who observed the 'Isha' prayer in congregation, it was as if he prayed up to midnight, and he who prayed the morning prayer in congregation, it was as if he prayed the whole night.",
+                "hadithUrdu": "حضرت عثمان بن عفان ‌رضی ‌اللہ ‌عنہ ‌ ‌ مغر ب کی نماز کے بعد مسجد میں تشریف لائے اور اکیلے بیٹھ گئے ، میں بھی ان کے پاس بیٹھ گیا ، وہ کہنے لگے : بھتیجے ! میں نے رسول اللہ ﷺ کو فرماتے ہوئے سنا : ’’ جس نے عشاء کی نماز باجماعت ادا کی تو گویا اس نے آدھی رات کا قیام کیا اور جس نےصبح کی نماز ( بھی ) جماعت کے ساتھ پڑھی تو گویا اس نے ساری رات نماز پڑھی ۔ ‘ ‘",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم نے بیان کیا، کہا ہم سے المغیرہ بن سلمہ المخزومی نے بیان کیا, عبدالواحد بن زیاد نے ہمیں حدیث سنائی ، کہا : ہم سے عثمان بن حکیم نے حدیث بیان کی ، کہا : ہمیں عبدالرحمان بن ابی عمرہ نے حدیث سنائی ، کہا",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا الْمُغِيرَةُ بْنُ سَلَمَةَ الْمَخْزُومِيُّ، حَدَّثَنَا عَبْدُ الْوَاحِدِ وَهُوَ ابْنُ زِيَادٍ، حَدَّثَنَا عُثْمَانُ بْنُ حَكِيمٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ أَبِي عَمْرَةَ، قَالَ: دَخَلَ عُثْمَانُ بْنُ عَفَّانَ الْمَسْجِدَ بَعْدَ صَلَاةِ الْمَغْرِبِ، فَقَعَدَ وَحْدَهُ، فَقَعَدْتُ إِلَيْهِ فَقَالَ، يَا ابْنَ أَخِي سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، يَقُولُ: «مَنْ صَلَّى الْعِشَاءَ فِي جَمَاعَةٍ فَكَأَنَّمَا قَامَ نِصْفَ اللَّيْلِ، وَمَنْ صَلَّى الصُّبْحَ فِي جَمَاعَةٍ فَكَأَنَّمَا صَلَّى اللَّيْلَ كُلَّهُ».",
+                "headingArabic": "فَضْلِ صَلاَةِ الْعِشَاءِ وَالصُّبْحِ فِي جَمَاعَةٍ",
+                "headingUrdu": "عشاء اور صبح کی نماز باجماعت پڑھنے کی فضیلت",
+                "headingEnglish": "The virtue of praying `Isha and Subh in congregation",
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9056,
+                "hadithNumber": "1492",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated by the chain of transmitters by Abu Sahl 'Uthman bin Hakim.",
+                "hadithUrdu": "مجھ سے زہیر بن حرب نے بیان کیا، کہا ہم سے محمد بن عبداللہ الاسدی نے بیان کیا، اور مجھ سے محمد بن رافع نے بیان کیا، انہوں نے کہا: ہم سے عبدالرزاق نے صوفی کے بارے میں سب کچھ بیان کیا, سفیان نے ابو سہل عثمان بن حکیم سے اسی سند کے ساتھ اسی طرح روایت کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وَحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللهِ الْأَسَدِيُّ، ح وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، قَالَ: حَدَّثَنَا عَبْدُ الرَّزَّاقِ، جَمِيعًا عَنْ سُفْيَانَ، عَنْ أَبِي سَهْلٍ عُثْمَانُ بْنُ حَكِيمٍ، بِهَذَا الْإِسْنَادِ مِثْلَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9057,
+                "hadithNumber": "1493",
+                "englishNarrator": "Jundab bin 'Abdullah ‌رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: He who prayed the morning prayer (in congregation) he is in fact under the protection of Allah. And it can never happen that Allah should demand anything from you in connection with the protection (that He guarantees) and one should not get it. He would then throw him in the fire of Hell.",
+                "hadithUrdu": "رسول اللہ ﷺ نے فرمایا : ’’جس شخص نے صبح کی نماز پڑھی و ہ اللہ تعالیٰ کی ذمہ داری ( امان ) میں ہے ۔ تو ایسانہ ہو کہ ( ایسے شخص کو کسی طرح نقصان پہنچانے کی بناپر ) اللہ تعالیٰ تم ( میں سے کسی شخص ) سے اپنے ذمے کے بارے میں کسی چیز کا مطالبہ کرے ، پھر وہ اسے پکڑ لے ، پھر اسے اوندھے منہ جہنم میں ڈال دے ۔ ‘ ‘",
+                "urduNarrator": "مجھے نصر بن علی الجہضمی نے کہا, بشر ، یعنی ابن مفضل نے ہمیں حدیث سنائی ، انھوں نے خالد سے اور انھوں نے انس بن سیرین سے روایت کی ، کہا : میں نے حضرت جندب بن عبداللہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے سنا ، وہ کہہ رہے تھے",
+                "hadithArabic": "وَحَدَّثَنِي نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ، حَدَّثَنَا بِشْرٌ يَعْنِي ابْنَ مُفَضَّلٍ، عَنْ خَالِدٍ، عَنْ أَنَسِ بْنِ سِيرِينَ، قَالَ: سَمِعْتُ جُنْدَبَ بْنَ عَبْدِ اللهِ، يَقُولُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنْ صَلَّى الصُّبْحَ فَهُوَ فِي ذِمَّةِ اللهِ، فَلَا يَطْلُبَنَّكُمُ اللهُ مِنْ ذِمَّتِهِ بِشَيْءٍ فَيُدْرِكَهُ فَيَكُبَّهُ فِي نَارِ جَهَنَّمَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9058,
+                "hadithNumber": "1494",
+                "englishNarrator": "Anas bin Sirin reported:",
+                "hadithEnglish": "I heard Jundab b. Qasri saying that the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: He who observed the morning prayer (in congregation), he is in fact under the protection of Allah and it never happens that Allah should make a demand in connection with the protection (that He guarantees and should not get it) for when he asks for anything in relation to His protection, he definitely secures it. He then throws him flatly in the Hell-fire.",
+                "hadithUrdu": "میں نے جندب ( بن عبداللہ ) قسری ‌رضی ‌اللہ ‌عنہ ‌ ‌ سےسنا ، وہ کہتے تھے کہ رسول اللہ ﷺ نے فرمایا : ’’ جس نے صبح کی نماز ادا کی ، وہ اللہ کے ذمے میں آگیا ، ( دعا ہے ) اللہ تم سے اپنے ذمے کے حوالے سے کوئی مطالبہ نہ کرے کیونکہ جس سے وہ اپنے ذمے میں سے کسی چیز کا مطالبہ کر لے ، اسے پالیتا ہے ، پھر اسے اوندھے منہ جہنم کی آگ میں ڈال دیتا ہے ۔ ‘ ‘",
+                "urduNarrator": "مجھ سے یعقوب بن ابراہیم الدورقی نے بیان کیا, اسماعیل نے خالد سے او ر انھوں نے انس بن سیرین سے روایت کی ، کہا",
+                "hadithArabic": "وَحَدَّثَنِيهِ يَعْقُوبُ بْنُ إِبْرَاهِيمَ الدَّوْرَقِيُّ، حَدَّثَنَا إِسْمَاعِيلُ، عَنْ خَالِدٍ، عَنْ أَنَسِ بْنِ سِيرِينَ، قَالَ: سَمِعْتُ جُنْدَبًا الْقَسْرِيَّ، يَقُولُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنْ صَلَّى صَلَاةَ الصُّبْحِ فَهُوَ فِي ذِمَّةِ اللهِ، فَلَا يَطْلُبَنَّكُمُ اللهُ مِنْ ذِمَّتِهِ بِشَيْءٍ، فَإِنَّهُ مَنْ يَطْلُبْهُ مِنْ ذِمَّتِهِ بِشَيْءٍ يُدْرِكْهُ، ثُمَّ يَكُبَّهُ عَلَى وَجْهِهِ فِي نَارِ جَهَنَّمَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9059,
+                "hadithNumber": "1495",
+                "englishNarrator": "This hadith has been narrated by Jundab bin Sufyan in from the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) with the same chain of transmitters, but this has not been mentioned:",
+                "hadithEnglish": "He would throw him in fire.",
+                "hadithUrdu": "( لیکن آخری فقرہ ) فیکبہ فی نار جہنم ( اس کو جہنم میں اوندھے منہ پھینک دیتا ہے ) بیان نہیں کیا ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے یزید بن ہارون نے بیان کیا، وہ داؤد بن ابی ہند کی سند سے, یہی روایت حسن بصری نے جندب بن سفیان کے حوالے سے نبی ﷺ سے روایت کی",
+                "hadithArabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، عَنْ دَاوُدَ بْنِ أَبِي هِنْدَ، عَنِ الْحَسَنِ، عَنْ جُنْدَبِ بْنِ سُفْيَانَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِهَذَا، وَلَمْ يَذْكُرْ فَيَكُبَّهُ فِي نَارِ جَهَنَّمَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9060,
+                "hadithNumber": "1496",
+                "englishNarrator": "Mahmud bin al-Rabi' reported that 'Ibn bin Malik ‌رضی ‌اللہ ‌عنہ Who was one of the Companions of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and who participated in the (Battle of) Badr and was among the Ansar (of Medina), told that:",
+                "hadithEnglish": "He came to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and said: Messenger of Allah, I have lost my eyesight and I lead my people in prayer. When there is a downpour there is then a current (of water) in the valley that stands between me and them and I find it impossible to go to their mosque and lead them in prayer. Messenger of Allah, I earnestly beg of you that you should come and observe prayer at a place of worship (in my house) so that I should then use it as a place of worship. The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: Well, it God so wills. I would soon do so. 'Itban  رضی ‌اللہ ‌عنہ said: On the following day when the day dawned, the Messenger of Allah (may peace he upon him) came along with Abu Bakr at-Siddiq رضی ‌اللہ ‌عنہ, and the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) asked permission (to get into the house). I gave him the permission, and be did not sit after entering the house, when he said: At what place in your house you desire me to say prayer? I ('Itban bin Malik رضی ‌اللہ ‌عنہ) said: I pointed to a corner in the house, The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) stood (at that place for prayer) and pronounced Allah-o-Akbar (Allah is the Greatest) (as an expression for the commencement of prayer). We too stood behind him, and he said two rak'ahs and then pronounced salutation (marking the end of the prayer). We detained him (the Holy Prophet) for the meat curry we had prepared for, him. The people of the neighbouring houses came and thus there was a good gathering in (our house). One of them said: Where is Malik bin Dukhshun? Upon this one of them remarked: He is a hypocrite; he does not love Allah and His Messenger. Thereupon the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: Do not say so about him. Don't you see that he utters La ilaha ill-Allah (There is no god but Allah) and seeks the pleasure of Allah through it? They said: Allah and His Messenger know beet. One (among the audience) said: We see his inclination and well wishing for hypocrites only. Upon this the Messenger of Allah' ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) again said: Verily Allah has forbidden the Fire for one who says: There is no god but Allah, thereby seeking Allah's pleasure. Ibn Shihab said: I asked Husain bin Muhammad al-Ansar (he was one of the leaders of Banu Salim) about the hadith transmitted by Mahmud bin Rabi' رضی ‌اللہ ‌عنہ and he testified it.",
+                "hadithUrdu": "وہ رسول اللہ ﷺ کی خدمت میں حاضر ہو ئے اور عرض کی : اے اللہ کے رسول ! میری نظر خراب ہو گئی ہے ، میں اپنی قوم کو نماز پڑھتا ہوں اور جب بارشیں ہوتی ہیں تو میرے اور ان کےدرمیان والی وادی میں سیلاب آجاتا ہے ، اس کی وجہ سے میں ان کی مسجد میں نہیں پہنچ سکتا کہ میں انھیں نماز پڑھاؤں تو اے اللہ کے رسول! میں چاہتا ہوں کہ آپ ( میرگھر ) تشریف لائیں اور نماز پڑھنے کی کسی ایک جگہ پر نماز پڑھیں تاکہ میں اس جگہ کو ( مستقل طور پر ) جائے نماز بنالوں ۔ کہا : آپ ﷺ نے فرمایا : ’’ ان شاء اللہ میں ایسا کروں گا ۔ ‘ ‘ عتبان ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا : تو صبح کے وقت دن چڑھتے ہی آپ ﷺ اور ابوبکر ‌رضی ‌اللہ ‌عنہ ‌ ‌ تشریف لائے ، رسول اللہ ﷺ نے ( اندر آنے کی ) اجازت طلب فرمائی ، میں نے تشریف آوری کا کہا ، آپ آ کر بیٹھے نہیں یہاں تک کہ گھر کے اندر ( کے حصے میں ) داخل ہوئے ، پھر پوچھا : ’’تم اپنے گھر میں کس جگہ چاہتے ہو کہ میں ( وہاں ) نماز پڑھوں ؟ ‘ ‘ میں نے گھر کے ایک کونے کی طرف اشارہ کیا تو رسول اللہ ﷺ نے کھڑے ہو کر تکبیر ( تحریمہ ) کہی اور ہم آپ کے پیچھے کھڑے ہو گئے ، آپ نے دورکعتیں ادا فرمائیں ، پھر سلام پھیر دیا ۔ اس کے بعد ہم نے آپ کو خزیر ( گوشت کے چھوٹے ٹکڑوں سے بنے ہوئے کھا نے ) کے لیے روک لیا جو ہم نے آپ کے لیے تیار کیا تھا ۔ ( عتبان ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے ) کہا : ( آپ کی آمد کا سن کر ) اردگرد سے محلے کے لوگ آگئے حتی کہ گھر میں خاصی تعدا د میں لوگ اکٹھے ہو گئے ۔ ان میں سے ایک بات کرنے والے نے کہا : مالک بن دخشن کہاں ہے ؟ ان میں سے کسی نے کہا : وہ تو منافق ہے ، اللہ اور اس کے رسول سے محبت نہیں رکھتا ۔ تو رسول اللہ ﷺ نے فرمایا : ’’ اس کے بارے میں ایسا نہ کہو ، کیا تمھیں معلوم نہیں کہ اس نے اللہ کی رضا حاصل کرنے کے لیے لاالہ الاللہ کہا ہے ؟ ‘ ‘ ( عتبان ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے ) کہا : تو لوگوں نے کہا : اللہ اور اس سکے رسول ہی زیادہ جاننے والے ہیں ۔ اس ( الزام لگانے والے ) نےکہا : ہم تو اس کی وجہ اور اس کی خیر خواہی منافقوں ہی کے لے دیکھتے ہیں ۔ تو رسول اللہ ﷺنے فرمایا : ’’بے شک اللہ تعالیٰ نے اسے شخص کو آگ پر حرام قرار دیا ہے جو لاالہ الا اللہ کہتا ہے اور اس کے ذریعے سے اللہ کی رضا کا طلب گار ہے ۔ ‘ ‘ ابن شہاب نے کہا : میں نے ( بعد میں ) حصین بن محمد انصاری سے ، جو بنو سالم سے تعلق رکھتے ہیں ان کے سرداروں میں سے ہیں ، محمود بن ربیع ‌رضی ‌اللہ ‌عنہ ‌ ‌ کی اس حدیث کے بارے میں پوچھا تو انھوں نے اس میں ان ( محمود ‌رضی ‌اللہ ‌عنہ ‌ ‌ ) کی تصدیق کی ۔",
+                "urduNarrator": "مجھ سے حرملہ بن یحییٰ التجیبی نے بیان کیا، کہا ہم سے ابن وہب نے بیان کیا, یونس نے ابن شہاب سےروایت کی کہ محمود بن ربیع انصاری ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے ان سے بیان کیاکہ حضرت عتبان بن مالک ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے جو ان صحابہ کرام میں سے تھے جو انصار میں سے جنگ بدر میں شریک ہوئے تھے ، ( بیان کیا ) کہ",
+                "hadithArabic": "حَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى التُّجِيبِيُّ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَنَّ مَحْمُودَ بْنَ الرَّبِيعِ الْأَنْصَارِيَّ، حَدَّثَهُ أَنَّ عِتْبَانَ بْنَ مَالِكٍ - وَهُوَ مِنْ أَصْحَابِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مِمَّنْ شَهِدَ بَدْرًا مِنَ الْأَنْصَارِ - أَنَّهُ أَتَى رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ: يَا رَسُولَ اللهِ إِنِّي قَدْ أَنْكَرْتُ بَصَرِي، وَأَنَا أُصَلِّي لِقَوْمِي، وَإِذَا كَانَتِ الْأَمْطَارُ سَالَ الْوَادِي الَّذِي بَيْنِي وَبَيْنَهُمْ وَلَمْ أَسْتَطِعْ أَنَّ آتِيَ مَسْجِدَهُمْ فَأُصَلِّيَ لَهُمْ، وَدِدْتُ أَنَّكَ يَا رَسُولَ اللهِ تَأْتِي فَتُصَلِّي فِي مُصَلًّى، فَأَتَّخِذَهُ مُصَلًّى، قَالَ: فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «سَأَفْعَلُ إِنْ شَاءَ اللهُ»، قَالَ عِتْبَانُ: فَغَدَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَأَبُو بَكْرٍ الصِّدِّيقُ حِينَ ارْتَفَعَ النَّهَارُ، فَاسْتَأْذَنَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَأَذِنْتُ لَهُ، فَلَمْ يَجْلِسْ حَتَّى دَخَلَ الْبَيْتَ، ثُمَّ قَالَ: «أَيْنَ تُحِبُّ أَنْ أُصَلِّي مِنْ بَيْتِكَ؟» قَالَ: فَأَشَرْتُ إِلَى نَاحِيَةٍ مِنَ الْبَيْتِ، فَقَامَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَكَبَّرَ، فَقُمْنَا وَرَاءَهُ، فَصَلَّى رَكْعَتَيْنِ، ثُمَّ سَلَّمَ، قَالَ: وَحَبَسْنَاهُ عَلَى خَزِيرٍ صَنَعْنَاهُ لَهُ، قَالَ: فَثَابَ رِجَالٌ مِنْ أَهْلِ الدَّارِ حَوْلَنَا حَتَّى اجْتَمَعَ فِي الْبَيْتِ رِجَالٌ ذَوُو عَدَدٍ، فَقَالَ قَائِلٌ مِنْهُمْ: أَيْنَ مَالِكُ بْنُ الدُّخْشُنِ؟ فَقَالَ بَعْضُهُمْ: ذَلِكَ مُنَافِقٌ، لَا يُحِبُّ اللهَ وَرَسُولَهُ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لَا تَقُلْ لَهُ ذَلِكَ، أَلَا تَرَاهُ قَدْ قَالَ لَا إِلَهَ إِلَّا اللهُ يُرِيدُ بِذَلِكَ وَجْهَ اللهِ؟» قَالَ: قَالُوا: اللهُ وَرَسُولُهُ أَعْلَمُ، قَالَ: فَإِنَّمَا نَرَى وَجْهَهُ وَنَصِيحَتَهُ لِلْمُنَافِقِينَ، قَالَ: فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: فَإِنَّ اللهَ قَدْ حَرَّمَ عَلَى النَّارِ مَنْ قَالَ: لَا إِلَهَ إِلَّا اللهُ يَبْتَغِي بِذَلِكَ وَجْهَ اللهِ قَالَ ابْنُ شِهَابٍ، ثُمَّ سَأَلْتُ الْحُصَيْنَ بْنَ مُحَمَّدٍ الْأَنْصَارِيَّ، وَهُوَ أَحَدُ بَنِي سَالِمٍ، وَهُوَ مِنْ سَرَاتِهِمْ، عَنْ حَدِيثِ مَحْمُودِ بْنِ الرَّبِيعِ، فَصَدَّقَهُ بِذَلِكَ.",
+                "headingArabic": "الرُّخْصَةِ فِي التَّخَلُّفِ عَنِ الْجَمَاعَةِ، بِعُذْرٍ ‏",
+                "headingUrdu": "اگر کوئی عذر ہو تو جماعت میں شرکت نہ کرنے کی اجازت",
+                "headingEnglish": "Concession allowing one to not attend the congregation if there is an excuse",
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9061,
+                "hadithNumber": "1497",
+                "englishNarrator": "Itban bin Malik ‌رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "I came to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and the rest of the hadith is the same as narrated (above) except this that a man said: Where is Malik bin Dukhshun or Dukhaishin, and also made this addition that Mahmud ‌رضی ‌اللہ ‌عنہ said: I narrated this hadith to many people and among them was Abu Ayyub al-Ansari who said: I cannot think that the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) could have said so as you say. He (the narrator) said: I took an oath that if I ever go to 'Itban ‌رضی ‌اللہ ‌عنہ . I would ask him about it. So I went to him and found him to be a very aged man, having lost his eyesight, but he was the Imam of the people. I sat by his side and asked about this hadith and he narrated it In the same way as he had narrated it for the first time. Then so many other obligatory acts and commands were revealed which we see having been completed. So he who wants that he should not be deceived would not be deceived.",
+                "hadithUrdu": "میں رسول اللہ ﷺ کے پاس حاضر ہوا ۔ ۔ ۔ ۔ ۔ پھر یونس کی حدیث کے ہم معنی حدیث بیان کی ، البتہ یہ کہا : تو ایک آدمی نے کہا : مالک بن دخشن یا دخیشن کہاں ہے ؟ اور حدیث میں یہ اضافہ کیا : محمود ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہاں : میں نے یہ حدیث چند لوگوں کو ، جن میں ابو ایوب انصاری ‌رضی ‌اللہ ‌عنہ ‌ ‌ بھی موجود تھے ، سنائی تو انھوں نے کہا : میں نہیں سمجھتا کہ جو بات تم بیان کرتے ہو رسول اللہ ﷺ نے فرمائی ہو ۔ اس پر میں نے ( دل میں ) قسم کھائی کہ اگر میں عتبان ‌رضی ‌اللہ ‌عنہ ‌ ‌ کے ہاں دوبارہ گیا تو ان سے ( اس کے بارے میں ضرور ) پوچھوں گا ۔ تو میں دوبارہ ان کے پاس آیا ، میں نے دیکھا کہ وہ بہت بوڑھے ہو چکے ہیں ، ان کی بینائی ختم ہو چکی تھی لیکن وہ ( اب بھی ) اپنی قوم کے امام تھے ۔ میں ان کے پہلو میں بیٹھ گیا اور ان سے اس حدیث کے بارے میں پوچھا تو انھوں نے مجھے بالکل اسی طرح ( ساری ) حدیث سنائی جس طرح پہلے سنائی تھی ۔ زہری نے کہا : اس واقعے کے بعد بہت سے فرائض اور دیگر امور ( احکام ) نازل ہوئے اور ہماری نظر میں معاملہ انھی پر تمام ہوا ، لہذا جو انسان چاہتا ہےکہ ( عتبان ‌رضی ‌اللہ ‌عنہ ‌ ‌ کی حدیث کے ظاہری مفہوم سے ) دھو کا نہ کھائے ، وہ دھوکا کھا نے سے بچے ۔",
+                "urduNarrator": "ہم سے محمد بن رافع اور عبد بن حمید نے بیان کیا، ان دونوں نے عبد الرزاق کی سند سے کہا, معمر نے زہر ی سے روایت کی ، کہا : مجھے محمود بن ربیع ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے عتبان بن مالک ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے حدیث سنائی ، کہا",
+                "hadithArabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، وَعَبْدُ بْنُ حُمَيْدٍ، كِلَاهُمَا عَنْ عَبْدِ الرَّزَّاقِ، قَالَ: أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، قَالَ: حَدَّثَنِي مَحْمُودُ بْنُ رَبِيعٍ، عَنْ عِتْبَانَ بْنِ مَالِكٍ، قَالَ: أَتَيْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَسَاقَ الْحَدِيثَ بِمَعْنَى حَدِيثِ يُونُسَ، غَيْرَ أَنَّهُ قَالَ: فَقَالَ رَجُلٌ أَيْنَ مَالِكُ بْنُ الدُّخْشُنِ أَوِ الدُّخَيْشِنِ، وَزَادَ فِي الْحَدِيثِ قَالَ مَحْمُودٌ: فَحَدَّثْتُ بِهَذَا الْحَدِيثِ نَفَرًا فِيهِمْ أَبُو أَيُّوبَ الْأَنْصَارِيُّ، فَقَالَ: مَا أَظُنُّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ مَا قُلْتَ، قَالَ: فَحَلَفْتُ إِنْ رَجَعْتُ إِلَى عِتْبَانَ أَنْ أَسْأَلَهُ، قَالَ: فَرَجَعْتُ إِلَيْهِ فَوَجَدْتُهُ شَيْخًا كَبِيرًا قَدْ ذَهَبَ بَصَرُهُ وَهُوَ إِمَامُ قَوْمِهِ، فَجَلَسْتُ إِلَى جَنْبِهِ، فَسَأَلْتُهُ عَنْ هَذَا الْحَدِيثِ، فَحَدَّثَنِيهِ كَمَا حَدَّثَنِيهِ أَوَّلَ مَرَّةٍ، قَالَ الزُّهْرِيُّ: «ثُمَّ نَزَلَتْ بَعْدَ ذَلِكَ فَرَائِضُ وَأُمُورٌ نَرَى أَنَّ الْأَمْرَ انْتَهَى إِلَيْهَا فَمَنِ اسْتَطَاعَ أَنْ لَا يَغْتَرَّ فَلَا يَغْتَرَّ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9062,
+                "hadithNumber": "1498",
+                "englishNarrator": "Mahmud bin Rabi' ‌رضی ‌اللہ ‌عنہ ‌reported:",
+                "hadithEnglish": "I well remember the disgorge of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) that he did (with water) from a bucket of our house. Mahmud ‌رضی ‌اللہ ‌عنہ said: 'Itban bin Malik ‌رضی ‌اللہ ‌عنہ narrated it to me that he had said: Messenger of Allah, I have lost my eyesight, and the rest of the hadith is the same up to these words: He led us in two rak'ahs of prayer and we detained the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ) for serving him the pudding that we had prepared for him, and no mention has been made of what follows next from the addition made by Yunus and Ma'mar.",
+                "hadithUrdu": "مجھے رسول اللہ ﷺ کا وہ کلی کرنا اچھی طرح یا د ہے جو آپ نے ہمارے گھر میں ایک ڈول سے ( پانی لے کر ) کی تھی ( اور اس کا پانی میر منہ پر ڈالا تھا ) ۔ محمود ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا کہ مجھے عتبان بن مالک ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے بتایا کہ میں نے عرض کی : اے اللہ کے رسول! میری نظر میں خرابی پیداہو گئی ہےغاور اس بات تک حدیث بیان کی کہ آپ ﷺ نے دو رکعات نماز پڑھائی اور یہ کہ ہم نے رسول اللہ ﷺ کو جشیشہ ( خزیر سے ملتے جلتے کھانے ) کے لیے روک لیا جو ہم نے آپ کے لیے بنایا تھا ۔ انھوں ( اوزاعی ) نےاس کے بعد یونس اور معمر والا اضافہ بیان نہیں کیا",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم نے بیان کیا، کہا ہم سے ولید بن مسلم نے بیان کیا, اوزاعی سے روایت ہے ، کہا : مجھے زہری نے حضرت محمود بن ربیع ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے حدیث سنائی ، کہا",
+                "hadithArabic": "وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، عَنِ الْأَوْزَاعِيِّ، قَالَ: حَدَّثَنِي الزُّهْرِيُّ، عَنْ مَحْمُودِ بْنِ الرَّبِيعِ، قَالَ: إِنِّي أَعْقِلُ مَجَّةً مَجَّهَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مِنْ دَلْوٍ فِي دَارِنَا، قَالَ مَحْمُودٌ: فَحَدَّثَنِي عِتْبَانُ بْنُ مَالِكٍ، قَالَ: قُلْتُ: يَا رَسُولَ اللهِ إِنَّ بَصَرِي قَدْ سَاءَ، وَسَاقَ الْحَدِيثَ إِلَى قَوْلِهِ، فَصَلَّى بِنَا رَكْعَتَيْنِ، وَحَبَسْنَا رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَلَى جَشِيشَةٍ صَنَعْنَاهَا لَهُ، وَلَمْ يَذْكُرْ مَا بَعْدَهُ مِنْ زِيَادَةِ يُونُسَ، وَمَعْمَرٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9063,
+                "hadithNumber": "1499",
+                "englishNarrator": "Anas bin Malik رضی اللہ عنہ reported:",
+                "hadithEnglish": "His grandmother, Mulaika رضی اللہ عنہا , invited the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) to a dinner which she had prepared. He (the Holy Prophet) ate out of that and then said: Stand up so that I should observe prayer (in order to bless) you Anas bin Malik رضی ‌اللہ ‌عنہ ‌said: I stood up on a mat (belonging to us) which had turned dark on account of its long use. I sprinkled water over it (in order to soften it), and the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) stood upon it, and I and an orphan formed a row behind him (the Holy Prophet) and the old woman was behind us, and the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) led us in two rak'ahs of prayer and then went back.",
+                "hadithUrdu": "ان کی نانی ملیکہ رضی اللہ عنہا نے رسول اللہ ﷺ کوکھانے پر بلایا جو انھوں نے تیار کیا تھا ۔ آپ ﷺ نے اس میں سے ( کچھ ) تناول کیا ، پھر فرمایا : ’’کھڑے ہو جاؤ میں تمھاری ( برکت کی ) خاطر نماز پڑھوں ۔ ‘ ‘ انس بن مالک ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا : میں کھڑا ہوا اور اپنی ایک چٹائی کی طرف بڑھا جو لمبا عرصہ استعمال ہونےکی وجہ سے کالی ہو چکی تھی ، میں نے ( اسےصاف کرنے کےلیے ) اس پر پانی بہایا تو رسول اللہ ﷺ اس پر کھڑے ہوئے ، میں اور ( وہاں موجود ایک ) یتیم بچے نے آپ کے پیچھے صف بنائی ، بوڑھی خاتون ہمارے پیچھے ( کھڑی ) ہوگئیں ۔ رسول اللہ ﷺ نے ہمارے ( حصول برکت کے ) لیے دو رکعت نماز پڑھی ، پھر تشریف لے گئے ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، انہوں نے کہا: میں نے مالک رضی اللہ عنہ سے پڑھا, اسحاق بن عبداللہ بن ابی طلحہ نےحضرت انس بن مالک ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ: قَرَأْتُ عَلَى مَالِكٍ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللهِ بْنِ أَبِي طَلْحَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ جَدَّتَهُ مُلَيْكَةَ، دَعَتْ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ لِطَعَامٍ صَنَعَتْهُ، فَأَكَلَ مِنْهُ، ثُمَّ قَالَ: «قُومُوا فَأُصَلِّيَ لَكُمْ»، قَالَ أَنَسُ بْنُ مَالِكٍ فَقُمْتُ إِلَى حَصِيرٍ لَنَا قَدِ اسْوَدَّ مِنْ طُولِ مَا لُبِسَ، فَنَضَحْتُهُ بِمَاءٍ، فَقَامَ عَلَيْهِ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَصَفَفْتُ أَنَا، وَالْيَتِيمُ وَرَاءَهُ، وَالْعَجُوزُ مِنْ وَرَائِنَا، فَصَلَّى لَنَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ رَكْعَتَيْنِ، ثُمَّ انْصَرَفَ.",
+                "headingArabic": "جَوَازِ الْجَمَاعَةِ فِي النَّافِلَةِ وَالصَّلاَةِ عَلَى حَصِيرٍ وَخُمْرَةٍ وَثَوْبٍ وَغَيْرِهَا مِنَ الطَّاهِرَاتِ",
+                "headingUrdu": "نفلی نماز باجماعت پڑھنا اور حصیر (کھجور کی چٹائی)، خمرہ (چھوٹی چٹائی)، کپڑے اور دیگر پاکیزہ چیزوں پر نماز پڑھنا جائز ہے۔",
+                "headingEnglish": "It is permissible to offer voluntary prayers in congregation, and to pray on hasir (palm-fiber mats), khumrah (small mats), cloth, and other pure things",
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 8751,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=350",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=348",
+                "label": "348",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=349",
+                "label": "349",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=350",
+                "label": "350",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=351",
+                "label": "351",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=352",
+                "label": "352",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=353",
+                "label": "353",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=354",
+                "label": "354",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=352",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=352",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=350",
+        "to": 8775,
+        "total": 40465
+    }
+}

@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 25,
+        "data": [
+            {
+                "id": 601,
+                "hadithNumber": "616",
+                "englishNarrator": "Narrated `Abdullah bin Al-Harith:",
+                "hadithEnglish": "Once on a rainy muddy day, Ibn `Abbas delivered a sermon in our presence and when the Mu'adhdhin pronounced the Adhan and said, \"Haiyi `ala-s-sala(t) (come for the prayer)\" Ibn `Abbas ordered him to say 'Pray at your homes.' The people began to look at each other (surprisingly). Ibn `Abbas said. \"It was done by one who was much better than I (i.e. the Prophet (ﷺ) or his Mu'adh-dhin), and it is a license.'",
+                "hadithUrdu": "ابن عباس رضی اللہ عنہما نے ایک دن ہم کو جمعہ کا خطبہ دیا ۔ بارش کی وجہ سے اس دن اچھی خاصی کیچڑ ہو رہی تھی ۔ مؤذن جب «حى على الصلاة‏» پر پہنچا تو آپ نے اس سے «الصلاة في الرحال‏» کہنے کے لیے فرمایا کہ لوگ نماز اپنی قیام گاہوں پر پڑھ لیں ۔ اس پر لوگ ایک دوسرے کو دیکھنے لگے ۔ ابن عباس رضی اللہ عنہما نے کہا کہ اسی طرح مجھ سے جو افضل تھے ، انھوں نے بھی کیا تھا اور اس میں شک نہیں کہ جمعہ واجب ہے ۔",
+                "urduNarrator": "ہم سے مسدد بن مسرہد نے بیان کیا ، کہا کہ ہم سے حماد بن زید نے ایوب سختیانی اور عبدالحمید بن دینار صاحب الزیادی اور عاصم احول سے بیان کیا ، انھوں نے عبداللہ بن حارث بصریٰ سے ، انھوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، وَعَبْدِ الْحَمِيدِ، صَاحِبِ الزِّيَادِيِّ وَعَاصِمٍ الأَحْوَلِ عَنْ عَبْدِ اللَّهِ بْنِ الْحَارِثِ قَالَ خَطَبَنَا ابْنُ عَبَّاسٍ فِي يَوْمٍ رَدْغٍ، فَلَمَّا بَلَغَ الْمُؤَذِّنُ حَىَّ عَلَى الصَّلاَةِ‏.‏ فَأَمَرَهُ أَنْ يُنَادِيَ الصَّلاَةُ فِي الرِّحَالِ‏.‏ فَنَظَرَ الْقَوْمُ بَعْضُهُمْ إِلَى بَعْضٍ فَقَالَ فَعَلَ هَذَا مَنْ هُوَ خَيْرٌ مِنْهُ وَإِنَّهَا عَزْمَةٌ‏.‏",
+                "headingArabic": "الْكَلاَمِ فِي الأَذَانِ",
+                "headingUrdu": "اذان کے دوران گفتگو کرنا",
+                "headingEnglish": "Talking during the Adhan",
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 602,
+                "hadithNumber": "617",
+                "englishNarrator": "Narrated Salim bin `Abdullah:",
+                "hadithEnglish": "My father said that Allah s Apostle said, \"Bilal pronounces 'Adhan at night, so keep on eating and drinking (Suhur) till Ibn Um Maktum pronounces Adhan.\" Salim added, \"He was a blind man who would not pronounce the Adhan unless he was told that the day had dawned.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ بلال تو رات رہے اذان دیتے ہیں ۔ اس لیے تم لوگ کھاتے پیتے رہو ۔ یہاں تک کہ ابن ام مکتوم اذان دیں ۔ راوی نے کہا کہ وہ نابینا تھے اور اس وقت تک اذان نہیں دیتے تھے جب تک ان سے کہا نہ جاتا کہ صبح ہو گئی ۔ صبح ہو گئی ۔",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ قعنبی نے بیان کیا امام مالک سے ، انھوں نے ابن شہاب سے ، انھوں نے سالم بن عبداللہ بن عمر رضی اللہ عنہما سے ، انھوں نے اپنے والد عبداللہ بن عمر سے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ بِلاَلاً يُؤَذِّنُ بِلَيْلٍ، فَكُلُوا وَاشْرَبُوا حَتَّى يُنَادِيَ ابْنُ أُمِّ مَكْتُومٍ ‏\"‏‏.‏ ثُمَّ قَالَ وَكَانَ رَجُلاً أَعْمَى لاَ يُنَادِي حَتَّى يُقَالَ لَهُ أَصْبَحْتَ أَصْبَحْتَ‏.‏",
+                "headingArabic": "أَذَانِ الأَعْمَى إِذَا كَانَ لَهُ مَنْ يُخْبِرُهُ",
+                "headingUrdu": "نابینا آدمی کی اذان (جائز ہے) جب کوئی شخص اسے نماز کے وقت کی اطلاع دینے والا ہو۔",
+                "headingEnglish": "The Adhan pronounced by a blind man (is permissible) when there is a person to inform him about the time of the Salat (prayer)",
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 603,
+                "hadithNumber": "618",
+                "englishNarrator": "Narrated Hafsa رضی اللہ عنہا :",
+                "hadithEnglish": "It was the pratice of Allah's Apostle ﷺ that When the Mu'adh-dhin pronounced the Adhan for Fajr prayer and the dawn became evident the Prophet ordered a two rak`at light prayer (Sunna) before the Iqama of the compulsory (congregational) prayer.",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم کی عادت تھی کہ جب مؤذن صبح کی اذان صبح صادق کے طلوع ہونے کے بعد دے چکا ہوتا تو آپ صلی اللہ علیہ وسلم اذان اور تکبیر کے بیچ نماز قائم ہونے سے پہلے دو ہلکی سی رکعتیں پڑھتے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف تنیسی نے بیان کیا ، کہا کہ ہمیں امام مالک نے نافع سے خبر دی ، انھوں نے عبداللہ بن عمر رضی اللہ عنہما سے ، انھوں نے کہا مجھے ام المؤمنین حضرت حفصہ رضی اللہ عنہا نے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ أَخْبَرَتْنِي حَفْصَةُ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا اعْتَكَفَ الْمُؤَذِّنُ لِلصُّبْحِ وَبَدَا الصُّبْحُ صَلَّى رَكْعَتَيْنِ خَفِيفَتَيْنِ قَبْلَ أَنْ تُقَامَ الصَّلاَةُ‏.‏",
+                "headingArabic": "الأَذَانِ بَعْدَ الْفَجْرِ",
+                "headingUrdu": "فجر کے بعد کی اذان",
+                "headingEnglish": "The Adhan after Al-Fajr (dawn)",
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 604,
+                "hadithNumber": "619",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "The Prophet (ﷺ) used to offer two light rak`at between the Adhan and the Iqama of the Fajr prayer.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم فجر کی اذان اور اقامت کے درمیان دو ہلکی سی رکعتیں پڑھتے تھے ۔",
+                "urduNarrator": "ہم سے ابونعیم فضل بن دکین نے بیان کیا ، انھوں نے کہا کہ ہم سے شیبان نے یحییٰ بن ابی کثیر سے بیان کیا ، انھوں نے ابوسلمہ بن عبدالرحمٰن بن عوف سے ، انھوں نے حضرت عائشہ صدیقہ رضی اللہ عنہا سے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ حَدَّثَنَا شَيْبَانُ، عَنْ يَحْيَى، عَنْ أَبِي سَلَمَةَ، عَنْ عَائِشَةَ، كَانَ النَّبِيُّ صلى الله عليه وسلم يُصَلِّي رَكْعَتَيْنِ خَفِيفَتَيْنِ بَيْنَ النِّدَاءِ وَالإِقَامَةِ مِنْ صَلاَةِ الصُّبْحِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 605,
+                "hadithNumber": "620",
+                "englishNarrator": "Narrated `Abdullah bin `Umar  رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"Bilal رضی اللہ عنہ pronounces the Adhan at night, so keep on eating and drinking (Suhur) till Ibn Um Maktum pronounces the Adhan.\"",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم نے فرمایا ۔ دیکھو بلال رضی اللہ عنہ رات رہے میں اذان دیتے ہیں ، اس لیے تم لوگ ( سحری ) کھا پی سکتے ہو ۔ جب تک ابن ام مکتوم اذان نہ دیں ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف تنیسی نے بیان کیا ، کہا کہ ہمیں امام مالک نے عبداللہ بن دینار سے خبر دی ، انھوں نے حضرت عبداللہ بن عمر رضی اللہ عنہما سے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ بِلاَلاً يُنَادِي بِلَيْلٍ، فَكُلُوا وَاشْرَبُوا حَتَّى يُنَادِيَ ابْنُ أُمِّ مَكْتُومٍ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 606,
+                "hadithNumber": "621",
+                "englishNarrator": "Narrated `Abdullah bin Mas`ud رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"The Adhan pronounced by Bilal should not stop you from taking Suhur, for he pronounces the Adhan at night, so that the one offering the late night prayer (Tahajjud) from among you might hurry up and the sleeping from among you might wake up. It does not mean that dawn or morning has started.\" Then he (the Prophet) pointed with his fingers and raised them up (towards the sky) and then lowered them (towards the earth) like this (Ibn Mas`ud imitated the gesture of the Prophet). Az-Zuhri gestured with his two index fingers which he put on each other and then stretched them to the right and left. These gestures illustrate the way real dawn appears. It spreads left and right horizontally. The dawn that appears in the high sky and lowers down is not the real dawn) .",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا کہ بلال کی اذان تمہیں سحری کھانے سے نہ روک دے کیونکہ وہ رات رہے سے اذان دیتے ہیں یا ( یہ کہا کہ ) پکارتے ہیں ۔ تاکہ جو لوگ عبادت کے لیے جاگے ہیں وہ آرام کرنے کے لیے لوٹ جائیں اور جو ابھی سوئے ہوئے ہیں وہ ہوشیار ہو جائیں ۔ کوئی یہ نہ سمجھ بیٹھے کہ فجر یا صبح صادق ہو گئی اور آپ نے اپنی انگلیوں کے اشارے سے ( طلوع صبح کی کیفیت ) بتائی ۔ انگلیوں کو اوپر کی طرف اٹھایا اور پھر آہستہ سے انہیں نیچے لائے اور پھر فرمایا کہ اس طرح ( فجر ہوتی ہے ) حضرت زہیر راوی نے بھی شہادت کی انگلی ایک دوسری پر رکھی ، پھر انہیں دائیں بائیں جانب پھیلا دیا ۔",
+                "urduNarrator": "ہم سے احمد بن یونس نے بیان کیا ، کہا کہ ہم سے زہیر بن معاویہ جعفی نے بیان کیا ، کہا کہ ہم سے سلیمان بن طرخان تیمی نے بیان کیا ابوعثمان عبدالرحمٰن نہدی سے ، انھوں نے عبداللہ بن مسعود رضی اللہ عنہما سے ، انھوں نے نبی کریم صلی اللہ علیہ وسلم سے کہ",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، قَالَ حَدَّثَنَا زُهَيْرٌ، قَالَ حَدَّثَنَا سُلَيْمَانُ التَّيْمِيُّ، عَنْ أَبِي عُثْمَانَ النَّهْدِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَمْنَعَنَّ أَحَدَكُمْ ـ أَوْ أَحَدًا مِنْكُمْ ـ أَذَانُ بِلاَلٍ مِنْ سَحُورِهِ، فَإِنَّهُ يُؤَذِّنُ ـ أَوْ يُنَادِي ـ بِلَيْلٍ، لِيَرْجِعَ قَائِمَكُمْ وَلِيُنَبِّهَ نَائِمَكُمْ، وَلَيْسَ أَنْ يَقُولَ الْفَجْرُ أَوِ الصُّبْحُ ‏\"‏‏.‏ وَقَالَ بِأَصَابِعِهِ وَرَفَعَهَا إِلَى فَوْقُ وَطَأْطَأَ إِلَى أَسْفَلُ حَتَّى يَقُولَ هَكَذَا‏.‏ وَقَالَ زُهَيْرٌ بِسَبَّابَتَيْهِ إِحْدَاهُمَا فَوْقَ الأُخْرَى ثُمَّ مَدَّهَا عَنْ يَمِينِهِ وَشِمَالِهِ‏.‏",
+                "headingArabic": "الأَذَانِ قَبْلَ الْفَجْرِ",
+                "headingUrdu": "فجر سے پہلے کی اذان",
+                "headingEnglish": "The Adhan before Al-Fajr (dawn)",
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 607,
+                "hadithNumber": "622, 623",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Bilal pronounces the Adhan at night, so eat and drink (Suhur) till Ibn Um Maktum pronounces the Adhan.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ( بلال رات رہے میں اذان دیتے ہیں ۔ عبداللہ ابن ام مکتوم کی اذان تک تم ( سحری ) کھا پی سکتے ہو ) ۔",
+                "urduNarrator": "مجھ سے اسحاق بن راہویہ نے بیان کیا ، انھوں نے کہا ہمیں ابواسامہ حماد بن اسامہ نے خبر دی ، کہا ہم سے عبداللہ بن عمر نے بیان کیا ، انھوں نے قاسم بن محمد سے اور انھوں نے حضرت عائشہ صدیقہ رضی اللہ عنہا سے بیان کیا اور نافع نے ابن عمر سے یہ حدیث بیان کی کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ، قَالَ أَخْبَرَنَا أَبُو أُسَامَةَ، قَالَ عُبَيْدُ اللَّهِ حَدَّثَنَا عَنِ الْقَاسِمِ بْنِ مُحَمَّدٍ، عَنْ عَائِشَةَ،‏.‏ وَعَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ‏.‏ح وَحَدَّثَنِي يُوسُفُ بْنُ عِيسَى الْمَرْوَزِيُّ، قَالَ حَدَّثَنَا الْفَضْلُ، قَالَ حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ، عَنِ الْقَاسِمِ بْنِ مُحَمَّدٍ، عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ ‏ \"‏ إِنَّ بِلاَلاً يُؤَذِّنُ بِلَيْلٍ، فَكُلُوا وَاشْرَبُوا حَتَّى يُؤَذِّنَ ابْنُ أُمِّ مَكْتُومٍ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 608,
+                "hadithNumber": "624",
+                "englishNarrator": "Narrated `Abdullah bin Mughaffal Al-Muzani:",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said thrice, \"There is a prayer between the two Adhans (Adhan and Iqama),\" and added, \"For the one who wants to pray.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے تین مرتبہ فرمایا کہ ہر دو اذانوں ( اذان و اقامت ) کے درمیان ایک نماز ( کا فصل ) دوسری نماز سے ہونا چاہیے ( تیسری مرتبہ فرمایا کہ ) جو شخص ایسا کرنا چاہے ۔",
+                "urduNarrator": "ہم سے اسحاق بن شاہین واسطی نے بیان کیا ، کہا کہ ہم سے خالد بن عبداللہ طحان نے سعد بن ایاس جریری سے بیان کیا ، انھوں نے عبداللہ بن بریدہ سے ، انھوں نے عبداللہ بن مغفل مزنی سے کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ الْوَاسِطِيُّ، قَالَ حَدَّثَنَا خَالِدٌ، عَنِ الْجُرَيْرِيِّ، عَنِ ابْنِ بُرَيْدَةَ، عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ الْمُزَنِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ بَيْنَ كُلِّ أَذَانَيْنِ صَلاَةٌ ـ ثَلاَثًا ـ لِمَنْ شَاءَ ‏\"‏‏.‏",
+                "headingArabic": "كَمْ بَيْنَ الأَذَانِ وَالإِقَامَةِ وَمَنْ يَنْتَظِرُ الإِقَامَةَ",
+                "headingUrdu": "اذان اور اقامت کے درمیان کتنا وقفہ ہونا چاہیے؟ (اور اس سے متعلق کچھ) وہ شخص جو اقامہ چاہتا ہے۔",
+                "headingEnglish": "How long should the interval between the Adhan and the Iqama be? (And something concerning) the person who wants for the Iqama",
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 609,
+                "hadithNumber": "625",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "\"When the Mu'adh-dhin pronounced the Adhan, some of the companions of the Prophet (ﷺ) would proceed to the pillars of the mosque (for the prayer) till the Prophet (ﷺ) arrived and in this way they used to pray two rak`at before the Maghrib prayer. There used to be a little time between the Adhan and the Iqama.\" Shu`ba said, \"There used to be a very short interval between the two (Adhan and Iqama).",
+                "hadithUrdu": "آپ نے فرمایا کہ ( عہدرسالت میں ) جب مؤذن اذان دیتا تو نبی کریم صلی اللہ علیہ وسلم کے صحابہ ستونوں کی طرف لپکتے ۔ جب نبی کریم صلی اللہ علیہ وسلم اپنے حجرہ سے باہر تشریف لاتے تو لوگ اسی طرح نماز پڑھتے ہوئے ملتے ۔ یہ جماعت مغرب سے پہلے کی دو رکعتیں تھیں ۔ اور ( مغرب میں ) اذان اور تکبیر میں کوئی زیادہ فاصلہ نہیں ہوتا تھا ۔ اور عثمان بن جبلہ اور ابوداؤد طیالسی نے شعبہ سے اس ( حدیث میں یوں نقل کیا ہے کہ ) اذان اور تکبیر میں بہت تھوڑا سا فاصلہ ہوتا تھا ۔",
+                "urduNarrator": "ہم سے محمد بن بشار نے بیان کیا ، انھوں نے کہا کہ ہم سے محمد بن جعفر غندر نے بیان کیا ، انھوں نے کہا کہ ہم سے شعبہ بن حجاج نے بیان کیا ، کہا کہ میں نے عمرو بن عامر انصاری سے سنا ، وہ حضرت انس بن مالک رضی اللہ عنہ سے بیان کرتے تھے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا غُنْدَرٌ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ سَمِعْتُ عَمْرَو بْنَ عَامِرٍ الأَنْصَارِيَّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كَانَ الْمُؤَذِّنُ إِذَا أَذَّنَ قَامَ نَاسٌ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم يَبْتَدِرُونَ السَّوَارِيَ حَتَّى يَخْرُجَ النَّبِيُّ صلى الله عليه وسلم وَهُمْ كَذَلِكَ يُصَلُّونَ الرَّكْعَتَيْنِ قَبْلَ الْمَغْرِبِ، وَلَمْ يَكُنْ بَيْنَ الأَذَانِ وَالإِقَامَةِ شَىْءٌ‏.‏ قَالَ عُثْمَانُ بْنُ جَبَلَةَ وَأَبُو دَاوُدَ عَنْ شُعْبَةَ لَمْ يَكُنْ بَيْنَهُمَا إِلاَّ قَلِيلٌ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 610,
+                "hadithNumber": "626",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) used to pray two light rak`at before the morning (compulsory) prayer after the day dawned and the Mu'adh-dhin had finished his Adhan. He then would lie on his right side till the Mu'adh-dhin came to pronounce the Iqama.",
+                "hadithUrdu": "جب مؤذن صبح کی دوسری اذان دے کر چپ ہوتا تو رسول اللہ صلی اللہ علیہ وسلم کھڑے ہوتے اور فرض سے پہلے دو رکعت ( سنت فجر ) ہلکی پھلکی ادا کرتے صبح صادق روشن ہو جانے کے بعد پھر داہنی کروٹ پر لیٹ رہتے ۔ یہاں تک کہ مؤذن تکبیر کہنے کی اطلاع دینے کے لیے آپ صلی اللہ علیہ وسلم کے پاس آتا ۔",
+                "urduNarrator": "ہم سے ابوالیمان نے بیان کیا ، انھوں نے کہا کہ ہمیں شعیب نے خبر دی ، انھوں نے زہری سے ، انھوں نے کہا کہ مجھے عروہ بن زبیر نے خبر دی کہ ام المؤمنین حضرت عائشہ رضی اللہ عنہا نے فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، قَالَ أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي عُرْوَةُ بْنُ الزُّبَيْرِ، أَنَّ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا سَكَتَ الْمُؤَذِّنُ بِالأُولَى مِنْ صَلاَةِ الْفَجْرِ قَامَ فَرَكَعَ رَكْعَتَيْنِ خَفِيفَتَيْنِ قَبْلَ صَلاَةِ الْفَجْرِ بَعْدَ أَنْ يَسْتَبِينَ الْفَجْرُ، ثُمَّ اضْطَجَعَ عَلَى شِقِّهِ الأَيْمَنِ حَتَّى يَأْتِيَهُ الْمُؤَذِّنُ لِلإِقَامَةِ‏.‏",
+                "headingArabic": "مَنِ انْتَظَرَ الإِقَامَةَ",
+                "headingUrdu": "جو نماز کے اقامت کا انتظار کرتا ہے۔",
+                "headingEnglish": "Whoever waits for the Iqama of the prayer",
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 611,
+                "hadithNumber": "627",
+                "englishNarrator": "Narrated `Abdullah bin Mughaffal رضی اللہ عنہ :",
+                "hadithEnglish": "The prophet said, \"There is a prayer between the two Adhans (Adhan and Iqama), there is a prayer between the two Adhans.\" And then while saying it the third time he added, \"For the one who wants to (pray).",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ ہر دو اذانوں ( اذان و تکبیر ) کے بیچ میں نماز ہے ۔ ہر دو اذانوں کے درمیان نماز ہے ۔ پھر تیسری مرتبہ آپ صلی اللہ علیہ وسلم نے فرمایا کہ اگر کوئی پڑھنا چاہے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یزید مقری نے بیان کیا ، انھوں نے کہا کہ ہم سے کہمس بن حسن نے بیان کیا ، انھوں نے عبداللہ بن بریدہ سے ، انھوں نے عبداللہ بن مغفل رضی اللہ عنہ سے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ، قَالَ حَدَّثَنَا كَهْمَسُ بْنُ الْحَسَنِ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ بَيْنَ كُلِّ أَذَانَيْنِ صَلاَةٌ بَيْنَ كُلِّ أَذَانَيْنِ صَلاَةٌ ـ ثُمَّ قَالَ فِي الثَّالِثَةِ ـ لِمَنْ شَاءَ ‏\"‏‏.‏",
+                "headingArabic": "بَيْنَ كُلِّ أَذَانَيْنِ صَلاَةٌ لِمَنْ شَاءَ",
+                "headingUrdu": "ہر دو اذانوں (اذان اور اقامت) کے درمیان ایک نماز (جو اختیاری ہے) ہے جو اسے پڑھنا چاہتا ہے۔",
+                "headingEnglish": "Between every two calls (Adhan and Iqama) there is a Salat (prayer) (that is optional) for the one who wants to offer it.",
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 612,
+                "hadithNumber": "628",
+                "englishNarrator": "Narrated Malik bin Huwairith رضی اللہ عنہ :",
+                "hadithEnglish": "I came to the Prophet (ﷺ) with some men from my tribe and stayed with him for twenty nights. He was kind and merciful to us. When he realized our longing for our families, he said to us, \"Go back and stay with your families and teach them the religion, and offer the prayer and one of you should pronounce the Adhan for the prayer when its time is due and the oldest one amongst you should lead the prayer.\"",
+                "hadithUrdu": "میں نبی کریم صلی اللہ علیہ وسلم کی خدمت میں اپنی قوم ( بنی لیث ) کے چند آدمیوں کے ساتھ حاضر ہوا اور میں نے آپ صلی اللہ علیہ وسلم کی خدمت شریف میں بیس راتوں تک قیام کیا ۔ آپ صلی اللہ علیہ وسلم بڑے رحم دل اور ملنسار تھے ۔ جب آپ صلی اللہ علیہ وسلم نے ہمارے اپنے گھر پہنچنے کا شوق محسوس کر لیا تو فرمایا کہ اب تم جا سکتے ہو ۔ وہاں جا کر اپنی قوم کو دین سکھاؤ اور ( سفر میں ) نماز پڑھتے رہنا ۔ جب نماز کا وقت آ جائے تو تم میں سے ایک شخص اذان دے اور جو تم میں سب سے بڑا ہو وہ امامت کرائے ۔",
+                "urduNarrator": "ہم سے معلی بن سعد اسد بصریٰ نے بیان کیا ، کہا ہم سے وہیب بن خالد نے ابوایوب سے بیان کیا ، انھوں نے ابوقلابہ سے ، انھوں نے مالک بن حویرث رضی اللہ عنہ سے ، کہا کہ",
+                "hadithArabic": "حَدَّثَنَا مُعَلَّى بْنُ أَسَدٍ، قَالَ حَدَّثَنَا وُهَيْبٌ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ مَالِكِ بْنِ الْحُوَيْرِثِ، أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فِي نَفَرٍ مِنْ قَوْمِي فَأَقَمْنَا عِنْدَهُ عِشْرِينَ لَيْلَةً، وَكَانَ رَحِيمًا رَفِيقًا، فَلَمَّا رَأَى شَوْقَنَا إِلَى أَهَالِينَا قَالَ ‏ \"‏ ارْجِعُوا فَكُونُوا فِيهِمْ وَعَلِّمُوهُمْ وَصَلُّوا، فَإِذَا حَضَرَتِ الصَّلاَةُ فَلْيُؤَذِّنْ لَكُمْ أَحَدُكُمْ وَلْيَؤُمَّكُمْ أَكْبَرُكُمْ ‏\"‏‏.‏",
+                "headingArabic": "مَنْ قَالَ لِيُؤَذِّنْ فِي السَّفَرِ مُؤَذِّنٌ وَاحِدٌ",
+                "headingUrdu": "جس نے کہا کہ سفر میں ایک موذن ہونا چاہیے۔",
+                "headingEnglish": "Whoever said that there should be one Mu'adh-dhin in the journey",
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 613,
+                "hadithNumber": "629",
+                "englishNarrator": "Narrated Abu Dhar رضی اللہ عنہ :",
+                "hadithEnglish": "We were in the company of the Prophet (ﷺ) on a journey and the Mu'adh-dhin wanted to pronounce the Adhan for the (Zuhr) prayer. The Prophet (ﷺ) said to him, \"Let it become cooler.\" Then he again wanted to pronounce the Adhan but the Prophet; said to him, \"Let it become cooler.\" The Mu'adh-dhin again wanted to pronounce the Adhan for the prayer but the Prophet (ﷺ) said, \"Let it become cooler,\" till the shadows of the hillocks become equal to their sizes. The Prophet (ﷺ) added, \"The severity of the heat is from the raging of Hell.\"",
+                "hadithUrdu": "ہم نبی کریم صلی اللہ علیہ وسلم کے ساتھ ایک سفر میں تھے ۔ مؤذن نے اذان دینی چاہی تو آپ صلی اللہ علیہ وسلم نے فرمایا ٹھنڈا ہونے دے ۔ پھر مؤذن نے اذان دینی چاہی تو آپ صلی اللہ علیہ وسلم نے پھر یہی فرمایا کہ ٹھنڈا ہونے دے ۔ یہاں تک کہ سایہ ٹیلوں کے برابر ہو گیا ۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ گرمی کی شدت دوزخ کی بھاپ سے پیدا ہوتی ہے ۔",
+                "urduNarrator": "ہم سے مسلم بن ابراہیم نے بیان کیا ، کہا کہ ہم سے شعبہ نے مہاجر ابوالحسن سے بیان کیا ، انھوں نے زید بن وہب سے ، انھوں نے حضرت ابوذرغفاری رضی اللہ عنہ سے ، انھوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنِ الْمُهَاجِرِ أَبِي الْحَسَنِ، عَنْ زَيْدِ بْنِ وَهْبٍ، عَنْ أَبِي ذَرٍّ، قَالَ كُنَّا مَعَ النَّبِيِّ صلى الله عليه وسلم فِي سَفَرٍ فَأَرَادَ الْمُؤَذِّنُ أَنْ يُؤَذِّنَ فَقَالَ لَهُ ‏\"‏ أَبْرِدْ ‏\"‏‏.‏ ثُمَّ أَرَادَ أَنْ يُؤَذِّنَ فَقَالَ لَهُ ‏\"‏ أَبْرِدْ ‏\"‏‏.‏ ثُمَّ أَرَادَ أَنْ يُؤَذِّنَ‏.‏ فَقَالَ لَهُ ‏\"‏ أَبْرِدْ ‏\"‏‏.‏ حَتَّى سَاوَى الظِّلُّ التُّلُولَ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏{‏إِنَّ شِدَّةَ الْحَرِّ مِنْ فَيْحِ جَهَنَّمَ‏}‏",
+                "headingArabic": "الأَذَانِ لِلْمُسَافِرِ إِذَا كَانُوا جَمَاعَةً، وَالإِقَامَةِ، وَكَذَلِكَ بِعَرَفَةَ وَجَمْعٍ",
+                "headingUrdu": "اگر بہت سے مسافر ہوں تو عرفات اور مزدلفہ میں بھی اذان اور اقامت کہنی چاہیے۔",
+                "headingEnglish": "If there are many travellers, Adhan and Iqama should be pronounced, (the same is to be observed) in 'Arafat and Al-Muzdalifa too",
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 614,
+                "hadithNumber": "630",
+                "englishNarrator": "Narrated Malik bin Huwairith:",
+                "hadithEnglish": "Two men came to the Prophet (ﷺ) with the intention of a journey. The Prophet (ﷺ) said, \"When (both of) you set out, pronounce Adhan and then Iqama and the oldest of you should lead the prayer.\"",
+                "hadithUrdu": "دو شخص نبی کریم صلی اللہ علیہ وسلم کی خدمت میں آئے یہ کسی سفر میں جانے والے تھے ۔ آپ صلی اللہ علیہ وسلم نے ان سے فرمایا کہ دیکھو جب تم سفر میں نکلو تو ( نماز کے وقت راستے میں ) اذان دینا پھر اقامت کہنا ، پھر جو شخص تم میں عمر میں بڑا ہو نماز پڑھائے ۔",
+                "urduNarrator": "ہم سے محمد بن یوسف فریابی نے بیان کیا ، کہا کہ ہم سے سفیان ثوری نے خالد حذاء سے ، انھوں نے ابوقلابہ عبداللہ بن زید سے ، انھوں نے مالک بن حویرث سے ، انھوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ أَبِي قِلاَبَةَ، عَنْ مَالِكِ بْنِ الْحُوَيْرِثِ، قَالَ أَتَى رَجُلاَنِ النَّبِيَّ صلى الله عليه وسلم يُرِيدَانِ السَّفَرَ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ إِذَا أَنْتُمَا خَرَجْتُمَا فَأَذِّنَا ثُمَّ أَقِيمَا ثُمَّ لِيَؤُمَّكُمَا أَكْبَرُكُمَا ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 615,
+                "hadithNumber": "631",
+                "englishNarrator": "Narrated Malik:",
+                "hadithEnglish": "We came to the Prophet (ﷺ) and stayed with him for twenty days and nights. We were all young and of about the same age. The Prophet (ﷺ) was very kind and merciful. When he realized our longing for our families, he asked about our homes and the people there and we told him. Then he asked us to go back to our families and stay with them and teach them (the religion) and to order them to do good things. He also mentioned some other things which I have (remembered or [??] ) forgotten. The Prophet (ﷺ) then added, \"Pray as you have seen me praying and when it is the time for the prayer one of you should pronounce the Adhan and the oldest of you should lead the prayer.",
+                "hadithUrdu": "ہم نبی کریم صلی اللہ علیہ وسلم کی خدمت اقدس میں حاضر ہوئے ۔ ہم سب ہم عمر اور نوجوان ہی تھے ۔ آپ صلی اللہ علیہ وسلم کی خدمت مبارک میں ہمارا بیس دن و رات قیام رہا ۔ آپ صلی اللہ علیہ وسلم بڑے ہی رحم دل اور ملنسار تھے ۔ جب آپ صلی اللہ علیہ وسلم نے دیکھا کہ ہمیں اپنے وطن واپس جانے کا شوق ہے تو آپ صلی اللہ علیہ وسلم نے پوچھا کہ تم لوگ اپنے گھر کسے چھوڑ کر آئے ہو ۔ ہم نے بتایا ۔ پھر آپ صلی اللہ علیہ وسلم نے فرمایا کہ اچھا اب تم اپنے گھر جاؤ اور ان گھر والوں کے ساتھ رہو اور انہیں بھی دین سکھاؤ اور دین کی باتوں پر عمل کرنے کا حکم کرو ۔ مالک نے بہت سی چیزوں کا ذکر کیا جن کے متعلق ابوایوب نے کہا کہ ابوقلابہ نے یوں کہا وہ باتیں مجھ کو یاد ہیں یا یوں کہا مجھ کو یاد نہیں ۔ اور آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ اسی طرح نماز پڑھنا جیسے تم نے مجھے نماز پڑھتے ہوئے دیکھا ہے اور جب نماز کا وقت آ جائے تو کوئی ایک اذان دے اور جو تم میں سب سے بڑا ہو وہ نماز پڑھائے ۔",
+                "urduNarrator": "ہم سے محمد بن مثنیٰ نے بیان کیا ، کہا کہ ہمیں عبدالوہاب نے خبر دی ، کہا کہ ہمیں ابوایوب سختیانی نے ابوقلابہ سے خبر دی ، انھوں نے کہا کہ ہم سے مالک بن حویرث نے بیان کیا ، کہا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا عَبْدُ الْوَهَّابِ، قَالَ حَدَّثَنَا أَيُّوبُ، عَنْ أَبِي قِلاَبَةَ، قَالَ حَدَّثَنَا مَالِكٌ، أَتَيْنَا إِلَى النَّبِيِّ صلى الله عليه وسلم وَنَحْنُ شَبَبَةٌ مُتَقَارِبُونَ، فَأَقَمْنَا عِنْدَهُ عِشْرِينَ يَوْمًا وَلَيْلَةً، وَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم رَحِيمًا رَفِيقًا، فَلَمَّا ظَنَّ أَنَّا قَدِ اشْتَهَيْنَا أَهْلَنَا أَوْ قَدِ اشْتَقْنَا سَأَلَنَا عَمَّنْ تَرَكْنَا بَعْدَنَا فَأَخْبَرْنَاهُ قَالَ ‏ \"‏ ارْجِعُوا إِلَى أَهْلِيكُمْ فَأَقِيمُوا فِيهِمْ وَعَلِّمُوهُمْ وَمُرُوهُمْ ـ وَذَكَرَ أَشْيَاءَ أَحْفَظُهَا أَوْ لاَ أَحْفَظُهَا ـ وَصَلُّوا كَمَا رَأَيْتُمُونِي أُصَلِّي، فَإِذَا حَضَرَتِ الصَّلاَةُ فَلْيُؤَذِّنْ لَكُمْ أَحَدُكُمْ وَلْيَؤُمَّكُمْ أَكْبَرُكُمْ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 616,
+                "hadithNumber": "632",
+                "englishNarrator": "Narrated Nafi`:",
+                "hadithEnglish": "Once in a cold night, Ibn `Umar pronounced the Adhan for the prayer at Dajnan (the name of a mountain) and then said, \"Pray at your homes\", and informed us that Allah's Messenger (ﷺ) used to tell the Mu'adh-dhin to pronounce Adhan and say, \"Pray at your homes\" at the end of the Adhan on a rainy or a very cold night during the journey.\"",
+                "hadithUrdu": "عبداللہ بن عمر رضی اللہ عنہما نے ایک سرد رات میں مقام ضجنان پر اذان دی پھر فرمایا «ألا صلوا في الرحال‏» کہ لوگو ! اپنے اپنے ٹھکانوں میں نماز پڑھ لو اور ہمیں آپ نے بتلایا کہ نبی کریم صلی اللہ علیہ وسلم مؤذن سے اذان کے لیے فرماتے اور یہ بھی فرماتے کہ مؤذن اذان کے بعد کہہ دے کہ لوگو ! اپنے ٹھکانوں میں نماز پڑھ لو ۔ یہ حکم سفر کی حالت میں یا سردی یا برسات کی راتوں میں تھا ۔",
+                "urduNarrator": "ہم سے مسدد بن مسرہد نے بیان کیا کہ ہم سے یحییٰ بن سعید قطان نے عبیداللہ بن عمر عمری سے بیان کیا ، انھوں نے کہا کہ مجھ سے نافع نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ أَخْبَرَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، قَالَ حَدَّثَنِي نَافِعٌ، قَالَ أَذَّنَ ابْنُ عُمَرَ فِي لَيْلَةٍ بَارِدَةٍ بِضَجْنَانَ ثُمَّ قَالَ صَلُّوا فِي رِحَالِكُمْ، فَأَخْبَرَنَا أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَأْمُرُ مُؤَذِّنًا يُؤَذِّنُ، ثُمَّ يَقُولُ عَلَى إِثْرِهِ، أَلاَ صَلُّوا فِي الرِّحَالِ‏.‏ فِي اللَّيْلَةِ الْبَارِدَةِ أَوِ الْمَطِيرَةِ فِي السَّفَرِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 617,
+                "hadithNumber": "633",
+                "englishNarrator": "Narrated The father of `Aun bin Abi Juhaifa said:",
+                "hadithEnglish": "\"I saw Allah's Messenger (ﷺ) at a place called Al-Abtah. Bilal came and informed him about the prayer and then came out with a short spear (or stick) and planted it in front of Allah's Messenger (ﷺ) at Al-Abtah and pronounced the Iqama.\"",
+                "hadithUrdu": "میں نے رسول کریم صلی اللہ علیہ وسلم کو ابطح میں دیکھا کہ بلال حاضر ہوئے اور آپ صلی اللہ علیہ وسلم کو نماز کی خبر دی پھر بلال رضی اللہ عنہ برچھی لے کر آگے بڑھے اور اسے آپ صلی اللہ علیہ وسلم کے سامنے ( بطور سترہ ) مقام ابطح میں گاڑ دیا اور آپ صلی اللہ علیہ وسلم نے ( اس کو سترہ بنا کر ) نماز پڑھائی ۔",
+                "urduNarrator": "ہم سے اسحاق بن منصور نے بیان کیا ، انھوں نے کہا کہ ہمیں جعفر بن عون نے خبر دی ، انھوں نے کہا کہ ہم سے ابوالعمیس نے بیان کیا ، انھوں نے عون بن ابی حجیفہ سے ابوحجیفہ کے واسطہ سے بیان کیا ، کہا کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ، قَالَ أَخْبَرَنَا جَعْفَرُ بْنُ عَوْنٍ، قَالَ حَدَّثَنَا أَبُو الْعُمَيْسِ، عَنْ عَوْنِ بْنِ أَبِي جُحَيْفَةَ، عَنْ أَبِيهِ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم بِالأَبْطَحِ فَجَاءَهُ بِلاَلٌ فَآذَنَهُ بِالصَّلاَةِ، ثُمَّ خَرَجَ بِلاَلٌ بِالْعَنَزَةِ حَتَّى رَكَزَهَا بَيْنَ يَدَىْ رَسُولِ اللَّهِ صلى الله عليه وسلم بِالأَبْطَحِ وَأَقَامَ الصَّلاَةَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 618,
+                "hadithNumber": "634",
+                "englishNarrator": "Narrated `Aun bin Abi Juhaifa:",
+                "hadithEnglish": "My father said, \"I saw Bilal رضی اللہ عنہ turning his face from side to side while pronouncing the Adhan for the prayer.\"",
+                "hadithUrdu": "انھوں نے بلال رضی اللہ عنہ کو اذان دیتے ہوئے دیکھا ۔ وہ کہتے ہیں میں بھی ان کے منہ کے ساتھ ادھر ادھر منہ پھیرنے لگا ۔",
+                "urduNarrator": "ہم سے محمد بن یوسف فریابی نے بیان کیا ، کہا کہ ہم سے سفیان ثوری نے عون بن ابی حجیفہ سے بیان کیا ، انھوں نے اپنے باپ سے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عَوْنِ بْنِ أَبِي جُحَيْفَةَ، عَنْ أَبِيهِ، أَنَّهُ رَأَى بِلاَلاً يُؤَذِّنُ فَجَعَلْتُ أَتَتَبَّعُ فَاهُ هَا هُنَا وَهَا هُنَا بِالأَذَانِ‏.‏",
+                "headingArabic": "هَلْ يَتَتَبَّعُ الْمُؤَذِّنُ فَاهُ هَا هُنَا وَهَا هُنَا، وَهَلْ يَلْتَفِتُ فِي الأَذَانِ",
+                "headingUrdu": "کیا اذان کے وقت مؤذن کو منہ پھیر کر ایک طرف دیکھنا چاہیے؟",
+                "headingEnglish": "Should the Mu'adh-dhin turn his mouth (face) and look from side to side during the Adhan?",
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 619,
+                "hadithNumber": "635",
+                "englishNarrator": "Narrated `Abdullah bin Abi Qatada رضی اللہ عنہ :",
+                "hadithEnglish": "My father said, \"While we were praying with the Prophet (ﷺ) he heard the noise of some people. After the prayer he said, 'What is the matter?' They replied 'We were hurrying for the prayer.' He said, 'Do not make haste for the prayer, and whenever you come for the prayer, you should come with calmness, and pray whatever you get (with the people) and complete the rest which you have missed.\"",
+                "hadithUrdu": "ہم نبی کریم صلی اللہ علیہ وسلم کے ساتھ نماز میں تھے ۔ آپ صلی اللہ علیہ وسلم نے کچھ لوگوں کے چلنے پھرنے اور بولنے کی آواز سنی ۔ نماز کے بعد آپ صلی اللہ علیہ وسلم نے دریافت فرمایا کہ کیا قصہ ہے لوگوں نے کہا کہ ہم نماز کے لیے جلدی کر رہے تھے ۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ ایسا نہ کرو ۔ بلکہ جب تم نماز کے لیے آؤ تو وقار اور سکون کو ملحوظ رکھو ، نماز کا جو حصہ پاؤ اسے پڑھو اور اور جو رہ جائے اسے ( بعد ) میں پورا کر لو ۔",
+                "urduNarrator": "ہم سے ابونعیم فضل بن دکین نے بیان کیا ، کہا کہ ہم سے شیبان بن عبدالرحمٰن نے یحییٰ بن ابی کثیر سے بیان کیا ، انھوں نے عبداللہ بن ابی قتادہ سے ، انھوں نے اپنے والد ابوقتادہ رضی اللہ عنہ سے ، انھوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ حَدَّثَنَا شَيْبَانُ، عَنْ يَحْيَى، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي قَتَادَةَ، عَنْ أَبِيهِ، قَالَ بَيْنَمَا نَحْنُ نُصَلِّي مَعَ النَّبِيِّ صلى الله عليه وسلم إِذْ سَمِعَ جَلَبَةَ رِجَالٍ فَلَمَّا صَلَّى قَالَ ‏\"‏ مَا شَأْنُكُمْ ‏\"‏‏.‏ قَالُوا اسْتَعْجَلْنَا إِلَى الصَّلاَةِ‏.‏ قَالَ ‏\"‏ فَلاَ تَفْعَلُوا، إِذَا أَتَيْتُمُ الصَّلاَةَ فَعَلَيْكُمْ بِالسَّكِينَةِ، فَمَا أَدْرَكْتُمْ فَصَلُّوا وَمَا فَاتَكُمْ فَأَتِمُّوا ‏\"‏‏.‏",
+                "headingArabic": "قَوْلِ الرَّجُلِ فَاتَتْنَا الصَّلاَةُ",
+                "headingUrdu": "ایک شخص کا کہنا کہ \"ہم نے نماز چھوڑ دی\"",
+                "headingEnglish": "The saying of a person \"We have missed As-Salat (the prayer)\"",
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 620,
+                "hadithNumber": "636",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"When you hear the Iqama, proceed to offer the prayer with calmness and solemnity and do not make haste. And pray whatever you are able to pray and complete whatever you have missed.",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا تم لوگ تکبیر کی آواز سن لو تو نماز کے لیے ( معمولی چال سے ) چل پڑو ۔ سکون اور وقار کو ( بہرحال ) پکڑے رکھو اور دوڑ کے مت آؤ ۔ پھر نماز کا جو حصہ ملے اسے پڑھ لو ، اور جو نہ مل سکے اسے بعد میں پورا کر لو ۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا ، کہا کہ ہم سے محمد بن عبدالرحمٰن بن ابی ذئب نے بیان کیا ، کہا کہ ہم سے امام زہری نے سعید بن مسیب سے بیان کیا ، انھوں نے ابوہریرہ رضی اللہ عنہ سے ، انھوں نے نبی کریم صلی اللہ علیہ وسلم سے ( دوسری سند ) اور زہری نے ابوسلمہ سے ، انھوں نے ابوہریرہ رضی اللہ عنہ سے ، انھوں نے نبی کریم صلی اللہ علیہ وسلم سے",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، قَالَ حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، قَالَ حَدَّثَنَا الزُّهْرِيُّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏ وَعَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا سَمِعْتُمُ الإِقَامَةَ فَامْشُوا إِلَى الصَّلاَةِ، وَعَلَيْكُمْ بِالسَّكِينَةِ وَالْوَقَارِ وَلاَ تُسْرِعُوا، فَمَا أَدْرَكْتُمْ فَصَلُّوا وَمَا فَاتَكُمْ فَأَتِمُّوا ‏\"‏‏.‏",
+                "headingArabic": "لاَ يَسْعَى إِلَى الصَّلاَةِ، وَلْيَأْتِ بِالسَّكِينَةِ وَالْوَقَارِ",
+                "headingUrdu": "نماز کے لیے دوڑنا نہیں چاہیے بلکہ اطمینان اور خلوص کے ساتھ حاضر ہونا چاہیے۔",
+                "headingEnglish": "One should not run for As-Salat (the prayer) but present himself with calmness and solemnity",
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 621,
+                "hadithNumber": "637",
+                "englishNarrator": "Narrated `Abdullah bin Abi Qatada:",
+                "hadithEnglish": "My father said. \"Allah's Messenger (ﷺ) said, 'If the Iqama is pronounced then do not stand for the prayer till you see me (in front of you).' \"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ جب نماز کے لیے تکبیر کہی جائے تو اس وقت تک نہ کھڑے ہو جب تک مجھے نکلتے ہوئے نہ دیکھ لو ۔",
+                "urduNarrator": "ہم سے مسلم بن ابراہیم نے بیان کیا ، کہا کہ ہم سے ہشام دستوائی نے بیان کیا ، کہا مجھے یحییٰ نے عبداللہ عبدالوہاب بن ابی قتادہ سے یہ حدیث لکھ کر بھیجی کہ وہ اپنے باپ ( ابوقتادہ ) سے بیان کرتے تھے کہ",
+                "hadithArabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا هِشَامٌ، قَالَ كَتَبَ إِلَىَّ يَحْيَى عَنْ عَبْدِ اللَّهِ بْنِ أَبِي قَتَادَةَ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِذَا أُقِيمَتِ الصَّلاَةُ فَلاَ تَقُومُوا حَتَّى تَرَوْنِي ‏\"‏‏.‏",
+                "headingArabic": "مَتَى يَقُومُ النَّاسُ إِذَا رَأَوُا الإِمَامَ عِنْدَ الإِقَامَةِ",
+                "headingUrdu": "اگر لوگ امام کو اقامت کے دوران دیکھیں تو وہ نماز کے لیے کب اٹھیں؟",
+                "headingEnglish": "When should the people get up for the Salat (prayer) if they see the Imam (the person leading Salat) during the Iqama?",
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 622,
+                "hadithNumber": "638",
+                "englishNarrator": "Narrated `Abdullah bin Abi Qatada رضی اللہ عنہ :",
+                "hadithEnglish": "My father said, \"Allah's Messenger (ﷺ) said, 'If the Iqama is pronounced, then do not stand for the prayer till you see me (in front of you) and do it calmly.' \"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ نماز کی تکبیر ہو تو جب تک مجھے دیکھ نہ لو کھڑے نہ ہو اور آہستگی کو لازم رکھو ۔ شیبان کے ساتھ اس حدیث کو یحییٰ سے علی بن مبارک نے بھی روایت کیا ہے ۔",
+                "urduNarrator": "ہم سے ابونعیم فضل بن دکین نے بیان کیا ، کہا ہم سے شیبان نے یحییٰ بن ابی کثیر سے بیان کیا ، انھوں نے عبداللہ بن ابی قتادہ سے ، انھوں نے اپنے باپ ابوقتادہ حارث بن ربعی رضی اللہ عنہ سے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ حَدَّثَنَا شَيْبَانُ، عَنْ يَحْيَى، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي قَتَادَةَ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ إِذَا أُقِيمَتِ الصَّلاَةُ فَلاَ تَقُومُوا حَتَّى تَرَوْنِي وَعَلَيْكُمْ بِالسَّكِينَةِ ‏\"‏‏.‏ تَابَعَهُ عَلِيُّ بْنُ الْمُبَارَكِ‏.‏",
+                "headingArabic": "اَ يَسْعَى إِلَى الصَّلاَةِ مُسْتَعْجِلاً، وَلْيَقُمْ بِالسَّكِينَةِ وَالْوَقَارِ",
+                "headingUrdu": "نماز کے لیے جلدی سے نہیں کھڑا ہونا چاہیے بلکہ اطمینان اور خلوص کے ساتھ۔",
+                "headingEnglish": "One should not stand for As-Salat (the prayer) hurriedly but with calmness and solemnity.",
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 623,
+                "hadithNumber": "639",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) went out (of the mosque) when the Iqama had been pronounced and the rows straightened. The Prophet (ﷺ) stood at his Musalla (praying place) and we waited for the Prophet (ﷺ) to begin the prayer with Takbir. He left and asked us to remain in our places. We kept on standing till the Prophet returned and the water was trickling from his head for he had taken a bath (of Janaba).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم ( ایک دن حجرے سے ) باہر تشریف لائے ، اقامت کہی جا چکی تھی اور صفیں برابر کی جا چکی تھیں ۔ آپ صلی اللہ علیہ وسلم جب مصلے پر کھڑے ہوئے تو ہم انتظار کر رہے تھے کہ اب آپ صلی اللہ علیہ وسلم تکبیر کہتے ہیں ۔ لیکن آپ صلی اللہ علیہ وسلم واپس تشریف لے گئے اور فرمایا کہ اپنی اپنی جگہ پر ٹھہرے رہو ۔ ہم اسی حالت میں ٹھہرے رہے یہاں تک کہ آپ صلی اللہ علیہ وسلم دوبارہ تشریف لائے ، تو سرمبارک سے پانی ٹپک رہا تھا ۔ آپ صلی اللہ علیہ وسلم نے غسل کیا تھا ۔",
+                "urduNarrator": "ہم سے عبدالعزیز بن عبداللہ نے بیان کیا ، کہا کہ ہم سے ابراہیم بن سعد نے بیان کیا ، وہ صالح بن کیسان سے ، وہ ابن شہاب سے ، وہ ابوسلمہ بن عبدالرحمٰن سے ، وہ ابوہریرہ رضی اللہ عنہ سے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنْ صَالِحِ بْنِ كَيْسَانَ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَرَجَ وَقَدْ أُقِيمَتِ الصَّلاَةُ وَعُدِّلَتِ الصُّفُوفُ، حَتَّى إِذَا قَامَ فِي مُصَلاَّهُ انْتَظَرْنَا أَنْ يُكَبِّرَ انْصَرَفَ قَالَ ‏ \"‏ عَلَى مَكَانِكُمْ ‏\"‏‏.‏ فَمَكَثْنَا عَلَى هَيْئَتِنَا حَتَّى خَرَجَ إِلَيْنَا يَنْطُفُ رَأْسُهُ مَاءً وَقَدِ اغْتَسَلَ‏.‏",
+                "headingArabic": "هَلْ يَخْرُجُ مِنَ الْمَسْجِدِ لِعِلَّةٍ",
+                "headingUrdu": "اگر کوئی عذر ہو تو کیا مسجد سے (اذان یا اقامت کے بعد) نکل سکتا ہے؟",
+                "headingEnglish": "Can one go out of the mosque (after the Adhan, or the Iqama) if there is a genuine excuse?",
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 624,
+                "hadithNumber": "640",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Once Iqama was pronounced and the people had straightened the rows, Allah's Messenger (ﷺ) went forward (to lead the prayer) but he was Junub, so he said, \"Remain in your places.\" And he went out, took a bath and returned with water trickling from his head. Then he led the prayer.",
+                "hadithUrdu": "نماز کے لیے اقامت کہی جا چکی تھی اور لوگوں نے صفیں سیدھی کر لی تھیں ۔ پھر رسول کریم صلی اللہ علیہ وسلم تشریف لائے اور آگے بڑھے ۔ لیکن حالت جنابت میں تھے ( مگر پہلے خیال نہ رہا ) اس لیے آپ صلی اللہ علیہ وسلم نے فرمایا کہ تم لوگ اپنی اپنی جگہ ٹھہرے رہو ۔ پھر آپ صلی اللہ علیہ وسلم واپس تشریف لائے تو آپ صلی اللہ علیہ وسلم غسل کئے ہوئے تھے اور سرمبارک سے پانی ٹپک رہا تھا ۔ پھر آپ صلی اللہ علیہ وسلم نے لوگوں کو نماز پڑھائی ۔",
+                "urduNarrator": "ہم سے اسحاق بن منصور نے بیان کیا ، کہا کہ ہمیں محمد بن یوسف فریابی نے خبر دی کہ کہا ہم سے اوزاعی نے ابن شہاب زہری سے بیان کیا ، انھوں نے ابوسلمہ بن عبدالرحمٰن سے ، انھوں نے ابوہریرہ رضی اللہ عنہ سے کہ انھوں نے فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، قَالَ حَدَّثَنَا الأَوْزَاعِيُّ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ أُقِيمَتِ الصَّلاَةُ فَسَوَّى النَّاسُ صُفُوفَهُمْ، فَخَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَتَقَدَّمَ وَهْوَ جُنُبٌ ثُمَّ قَالَ ‏ \"‏ عَلَى مَكَانِكُمْ ‏\"‏‏.‏ فَرَجَعَ فَاغْتَسَلَ ثُمَّ خَرَجَ وَرَأْسُهُ يَقْطُرُ مَاءً فَصَلَّى بِهِمْ‏.‏",
+                "headingArabic": "إِذَا قَالَ الإِمَامُ مَكَانَكُمْ. حَتَّى رَجَعَ انْتَظَرُوهُ",
+                "headingUrdu": "اگر امام یہ کہے کہ جب تک میں واپس نہ آؤں اپنی جگہ پر رہو تو اس کا انتظار کرو",
+                "headingEnglish": "If the Imam says, \"Remain at your places till I return\", then wait for him",
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 625,
+                "hadithNumber": "641",
+                "englishNarrator": "Narrated Jabir bin `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "On the day of Al-Khandaq (the trench), `Umar bin Al-Khattab went to the Prophet (ﷺ) and said, \"O Allah's Messenger (ﷺ)! By Allah, I could not pray (the `Asr) till the sun had set.\" `Umar told this to the Prophet at the time when a fasting person had done Iftar (taken his meals). The Prophet (ﷺ) then went to Buthan and I was with him. He performed ablution and offered the `Asr prayer after the sun had set and then the Maghrib prayer.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم کی خدمت میں عمر بن خطاب رضی اللہ عنہ غزوہ خندق کے دن حاضر ہوئے اور عرض کی یا رسول اللہ ! قسم خدا کی سورج غروب ہونے کو ہی تھا کہ میں اب عصر کی نماز پڑھ سکا ہوں ۔ آپ جب حاضر خدمت ہوئے تو روزہ افطار کرنے کا وقت آ چکا تھا ۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ قسم اللہ کی میں نے بھی تو نماز عصر نہیں پڑھی ہے ۔ پھر آپ صلی اللہ علیہ وسلم بطحان کی طرف گئے ۔ میں آپ صلی اللہ علیہ وسلم کے ساتھ ہی تھا ۔ آپ صلی اللہ علیہ وسلم نے وضو کیا ، پھر عصر کی نماز پڑھی ۔ سورج ڈوب چکا تھا ۔ پھر اس کے بعد مغرب کی نماز پڑھی ۔",
+                "urduNarrator": "ہم سے ابونعیم نے بیان کیا ، انھوں نے کہا کہ ہم سے شیبان نے یحییٰ کے واسطہ سے بیان کیا ، انھوں نے کہا کہ میں نے ابوسلمہ سے سنا ، وہ کہتے تھے کہ ہمیں جابر بن عبداللہ انصاری رضی اللہ عنہما نے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ حَدَّثَنَا شَيْبَانُ، عَنْ يَحْيَى، قَالَ سَمِعْتُ أَبَا سَلَمَةَ، يَقُولُ أَخْبَرَنَا جَابِرُ بْنُ عَبْدِ اللَّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم جَاءَهُ عُمَرُ بْنُ الْخَطَّابِ يَوْمَ الْخَنْدَقِ فَقَالَ يَا رَسُولَ اللَّهِ، وَاللَّهِ مَا كِدْتُ أَنْ أُصَلِّيَ حَتَّى كَادَتِ الشَّمْسُ تَغْرُبُ، وَذَلِكَ بَعْدَ مَا أَفْطَرَ الصَّائِمُ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ وَاللَّهِ مَا صَلَّيْتُهَا ‏\"‏ فَنَزَلَ النَّبِيُّ صلى الله عليه وسلم إِلَى بُطْحَانَ وَأَنَا مَعَهُ فَتَوَضَّأَ ثُمَّ صَلَّى ـ يَعْنِي الْعَصْرَ ـ بَعْدَ مَا غَرَبَتِ الشَّمْسُ، ثُمَّ صَلَّى بَعْدَهَا الْمَغْرِبَ‏.‏",
+                "headingArabic": "قَوْلِ الرَّجُلِ مَا صَلَّيْنَا",
+                "headingUrdu": "ایک آدمی کا نبی صلی اللہ علیہ وسلم سے یہ کہنا کہ ہم نے نماز نہیں پڑھی۔",
+                "headingEnglish": "The saying of a man to the Prophet (pbuh), \"We have not prayed.\"",
+                "chapterId": "10",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 10,
+                    "chapterNumber": "10",
+                    "chapterEnglish": "Call to Prayers (Adhaan)",
+                    "chapterUrdu": "اذان کے مسائل کے بیان میں",
+                    "chapterArabic": "كتاب الأذان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 601,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=24",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=22",
+                "label": "22",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=23",
+                "label": "23",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=24",
+                "label": "24",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=25",
+                "label": "25",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=26",
+                "label": "26",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=27",
+                "label": "27",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=28",
+                "label": "28",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=26",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=26",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=24",
+        "to": 625,
+        "total": 40465
+    }
+}

@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 369,
+        "data": [
+            {
+                "id": 9489,
+                "hadithNumber": "1925",
+                "englishNarrator": "Ibn 'Umar رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying: Do not intend to observe prayer at the time of the rising of the sun nor at its setting, for it rises between the horns of Satan.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" اپنی نماز کے لئے جان بوجھ کر نہ سورج کے طلوع ہونے کا قصد کرو اور نہ اس کے غروب ہونے کا کیونکہ سورج شیطان کے دو سینگوں کے ساتھ طلوع ہوتا ہے ۔ \"",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، ہم سے وکیع نے بیان کیا اور ہم سے محمد بن عبداللہ بن نمیر نے بیان کیا، ہم سے ابی اور محمد بن بشر نے بیان کیا، سب نے کہا ہشام کے والد عروہ نے حضرت ابن عمر رضی اللہ تعالیٰ عنہ سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا وَكِيعٌ ح و حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ حَدَّثَنَا أَبِي وَمُحَمَّدُ بْنُ بِشْرٍ قَالَا جَمِيعًا حَدَّثَنَا هِشَامٌ عَنْ أَبِيهِ عَنْ ابْنِ عُمَرَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا تَحَرَّوْا بِصَلَاتِكُمْ طُلُوعَ الشَّمْسِ وَلَا غُرُوبَهَا فَإِنَّهَا تَطْلُعُ بِقَرْنَيْ شَيْطَانٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9490,
+                "hadithNumber": "1926",
+                "englishNarrator": "Ibn 'Umar رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying: When the rim of the sun starts appearing defer prayer till it completely appears, and when the rim of the sun disappears defer prayer till it completely disappears.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جب سورج کا کنارہ نمودار ہوجائے تو نماز موخر کردو حتیٰ کہ وہ ( سورج ) نکل آئے ( بلند ہوجائے ) اور جب سورج کا کنارہ غروب ہوجائے تو نماز موخر کردو حتیٰ کہ وہ ( سورج ) پوری طرح غائب ہوجائے ۔ \"",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، ہم سے وکیع نے بیان کیا، ہم سے محمد بن عبداللہ بن نمیر نے بیان کیا، ہم سے ابی اور ابن بشر نے بیان کیا، ان سب نے کہا، ہم سے ہشام نے اپنے والد سے روایت کی, حضرت ابن عمر رضی اللہ تعالیٰ عنہ سے روایت ہے کہا",
+                "hadithArabic": "و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا وَكِيعٌ ح و حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ حَدَّثَنَا أَبِي وَابْنُ بِشْرٍ قَالُوا جَمِيعًا حَدَّثَنَا هِشَامٌ عَنْ أَبِيهِ عَنْ ابْنِ عُمَرَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا بَدَا حَاجِبُ الشَّمْسِ فَأَخِّرُوا الصَّلَاةَ حَتَّى تَبْرُزَ وَإِذَا غَابَ حَاجِبُ الشَّمْسِ فَأَخِّرُوا الصَّلَاةَ حَتَّى تَغِيبَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9491,
+                "hadithNumber": "1927",
+                "englishNarrator": "Abu Basra Ghifari رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) led us in the 'Asr prayer at (the place known as) Mukhammas, and then said: This prayer was presented to those gone before you, but they lost it, and he who guards it has two rewards in store for him. And no prayer is valid after till the onlooker appears (by onlooker is meant the evening star).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ہمیں مخمص نامی جگہ میں عصر کی نماز پڑھائی اور فرمایا \" یہ نماز تم سے پہلے لوگوں کو دی گئی ( ان پر فرض کی گئی ) تو انھوں نے اسے ضائع کردیا ، اس لئے جو بھی اس کی حفاظت کرے گا اسے اس کا دوگنا اجر ملے گا اور ا س کے بعد کوئی نماز نہیں یہاں تک کہ ( اس کا ) شاہد طلوع ہوجائے ۔ \" شاہد ( سے مراد ) ستارہ ہے ۔",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا, لیث نے خیر بن نعیم حضرمی سے روایت کی ، انھوں نے عبداللہ بن ہبیرہ سے ، انھوں نے ابو تمیم جیشانی سے اور انھوں نے ابو بصرہ رضی اللہ تعالیٰ عنہ غفاری سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "و حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ حَدَّثَنَا لَيْثٌ عَنْ خَيْرِ بْنِ نُعَيْمٍ الْحَضْرَمِيِّ عَنْ ابْنِ هُبَيْرَةَ عَنْ أَبِي تَمِيمٍ الْجَيْشَانِيِّ عَنْ أَبِي بَصْرَةَ الْغِفَارِيِّ قَالَ صَلَّى بِنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْعَصْرَ بِالْمُخَمَّصِ فَقَالَ إِنَّ هَذِهِ الصَّلَاةَ عُرِضَتْ عَلَى مَنْ كَانَ قَبْلَكُمْ فَضَيَّعُوهَا فَمَنْ حَافَظَ عَلَيْهَا كَانَ لَهُ أَجْرُهُ مَرَّتَيْنِ وَلَا صَلَاةَ بَعْدَهَا حَتَّى يَطْلُعَ الشَّاهِدُ وَالشَّاهِدُ النَّجْمُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9492,
+                "hadithNumber": "1928",
+                "englishNarrator": "It was narrated that Abu Basrah Al Ghifari said:",
+                "hadithEnglish": "The Messenger of Allah led us in praying 'Asr\"  similar report (as no. 1927).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ہمیں عصر کی نماز پڑھائی ۔ ۔ ۔ آگے سابقہ حدیث کے مانند ہے ۔",
+                "urduNarrator": "اور مجھ سے زہیر بن حرب نے بیان کیا، کہا ہم سے یعقوب بن ابراہیم نے بیان کیا، کہا ہم سے میرے والد نے بیان کیا، انہوں نے ابن اسحاق کی سند سے، انہوں نے کہا کہ مجھ سے یزید بن ابی حبیب نے خیر بن نعیم حضرمی سے ، انھوں نے عبداللہ بن ہبیرہ سبائی سے ۔ ۔ ۔ اور وہ ثقہ تھے ۔ انھوں نے ابو تمیم جیشانی سے اور انھوں نے ابو بصرہ غفار ی سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "و حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ حَدَّثَنَا أَبِي عَنْ ابْنِ إِسْحَقَ قَالَ حَدَّثَنِي يَزِيدُ بْنُ أَبِي حَبِيبٍ عَنْ خَيْرِ بْنِ نُعَيْمٍ الْحَضْرَمِيِّ عَنْ عَبْدِ اللَّهِ بْنِ هُبَيْرَةَ السَّبَائِيِّ وَكَانَ ثِقَةً عَنْ أَبِي تَمِيمٍ الْجَيْشَانِيِّ عَنْ أَبِي بَصْرَةَ الْغِفَارِيِّ قَالَ صَلَّى بِنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْعَصْرَ بِمِثْلِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9493,
+                "hadithNumber": "1929",
+                "englishNarrator": "Uqba bin 'Amir رضی اللہ تعالیٰ عنہ said:",
+                "hadithEnglish": "There were three times at which Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) forbade us to pray, or bury our dead: When the sun begins to rise till it is fully up, when the sun is at its height at midday till it passes over the meridian, and when the sun draws near to setting till it sets",
+                "hadithUrdu": "تین ا وقات ہیں ، رسول اللہ صلی اللہ علیہ وسلم ہمیں روکتے تھے کہ ہم ان میں نماز پڑھیں یا ان میں اپنے مردوں کو قبروں میں اتاریں : جب سورج چمکتا ہوا طلوع ہورہا ہو یہاں تک کہ وہ بلند ہوجائے اور جب دوپہر کو ٹھہرنے والا ( سایہ ) ٹھہر جاتا ہے حتیٰ کہ سورج ( آگے کو ) جھک جائے اور جب سورج غروب ہونے کے لئے جھکتا ہے یہاں تک کہ وہ ( پوری طرح ) غروب ہوجائے ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، کہا ہم سے عبداللہ بن وہب نے بیان کیا، وہ موسیٰ بن علی سے، انہوں نے اپنے والد سے، انہوں نے کہا: میں نے سنا, حضرت عقبہ بن عامر جہنی رضی اللہ تعالیٰ عنہ کہتے تھے کہ",
+                "hadithArabic": "و حَدَّثَنَا يَحْيَى بْنُ يَحْيَى حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ عَنْ مُوسَى بْنِ عُلَيٍّ عَنْ أَبِيهِ قَالَ سَمِعْتُ عُقْبَةَ بْنَ عَامِرٍ الْجُهَنِيَّ يَقُولُ ثَلَاثُ سَاعَاتٍ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَنْهَانَا أَنْ نُصَلِّيَ فِيهِنَّ أَوْ أَنْ نَقْبُرَ فِيهِنَّ مَوْتَانَا حِينَ تَطْلُعُ الشَّمْسُ بَازِغَةً حَتَّى تَرْتَفِعَ وَحِينَ يَقُومُ قَائِمُ الظَّهِيرَةِ حَتَّى تَمِيلَ الشَّمْسُ وَحِينَ تَضَيَّفُ الشَّمْسُ لِلْغُرُوبِ حَتَّى تَغْرُبَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9494,
+                "hadithNumber": "1930",
+                "englishNarrator": "Amr bin 'Abasa Sulami رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "In the state of the Ignorance (before embracing Islam), I used to think that the people were in error and they were not on anything (which may be called the right path) and worshipped the idols. Meanwhile, I heard of a man in Mecca who was giving news (on the basis of his prophetic knowledge); so I sat on my ride and went to him. The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) was at that time hiding as his people had made life hard for him. I adopted a friendly attitude (towards the Meccans and thus managed) to enter Mecca and go to him (the Holy Prophet) and I said to him: Who are you? He said: I am a Prophet (of Allah). I again said: Who is a Prophet? He said: (I am a Prophet in the sense that) I have been sent by Allah. I said: What is that which you have been sent with? He said: I have been sent to join ties of relationship (with kindness and affection), to break the Idols, and to proclaim the oneness of Allah (in a manner that) nothing is to be associated with Him. I said: Who is with you in this (in these beliefs and practices)? He said: A free man and a slave. He (the narrator) said: Abu Bakr and Bilal were there with him among those who had embraced Islam by that time. I said: I intend to follow you. He said: During these days you would not be able to do so. Don't you see the (hard) condition under which I and (my) people are living? You better go back to your people and when you hear that I have been granted victory, you come to me. So I went to my family. I was in my home when the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) came to Medina. I was among my people and used to seek news and ask people when he arrived in Medina. Then a group of people belonging to Yathrib (Medina) came. I said (to them): How is that person getting on who has come to Medina? They said: The people are hastening to him, while his people (the polytheists of Mecca) planned to kill him, but they could not do so. I (on hearing it) came to Medina and went to him and said: Messenger of Allah, do you recognise me? He said: Yes, you are the same man who met me at Mecca. I said: It is so. I again said: Prophet of Allah, tell me that which Allah has taught you and which I do not know, tell me about the prayer. He said: Observe the dawn prayer, then stop praying when the sun is rising till it is fully up, for when it rises it comes up between the horns of Satan, and the unbelievers prostrate themselves to it at that time. Then pray, for the prayer is witnessed and attended (by angels) till the shadow becomes about the length of a lance; then cease prayer, for at that time Hell is heated up. Then when the shadow moves forward, pray, for the prayer is witnessed and attended by angels, till you pray the afternoon prayer, then cease prayer till the sun sets, for it sets between the horns of devil, and at that time the unbelievers prostrate themselves before it. I said: Apostle of Allah, tell me about ablution also. He said: None of you who uses water for ablution and rinses his mouth, snuffs up water and blows it, but the sins of his face, and his mouth and his nostrils fall out. When he washes his face, as Allah has commanded him, the sins of his face fall out from the end of his beard with water. Then (when) he washes his forearms up to the elbows, the sins of his arms fall out along with water from his finger-tips. And when he wipes his head, the sins of his head fall out from the points of his hair along with water. And (when) he washes his feet up to the ankles, the sins of his feet fall out from his toes along with water. And if he stands to pray and praises Allah, lauds Him and glorifies Him with what becomes Him and shows wholehearted devotion to Allah, his sins would depart leaving him (as innocent) as he was on the day his mother bore him. 'Amr b. 'Abasa narrated this hadith to Abu Umama رضی اللہ تعالیٰ عنہ, a Companion of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), and Abu Umama رضی اللہ تعالیٰ عنہ said to him: 'Amr bin 'Abasa, think what you are saying that such (a great reward) is given to a man at one place (only in the act of ablution and prayer). Upon this 'Amr رضی اللہ تعالیٰ عنہ said: Abu Umama رضی اللہ تعالیٰ عنہ, I have grown old and my bones have become weak and I am at the door of death; what impetus is there for me to attribute a lie to Allah and the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ )? Had I heard it from the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) once, twice, or three times (even seven times), I would have never narrated it, but I have heard it from him on occasions more than these.",
+                "hadithUrdu": "میں جب اپنے جاہلیت کے دور میں تھا تو ( یہ بات ) سمجھتا تھا کہ لوگ گمراہ ہیں اور جب وہ بتوں کی عبادت کرتے ہیں تو کسی ( سچی ) چیز ( دین ) پر نہیں ، پھر میں نے مکہ کے ایک آدمی کے بارے میں سنا کہ وہ بہت سی باتوں کی خبر دیتا ہے ، میں اپنی سواری پر بیٹھا اور ان کے پاس آگیا ، اس زمانے میں رسول اللہ صلی اللہ علیہ وسلم چھپے ہوئے تھے ، آپ کی قوم ( کے لوگ ) آپ کے خلاف دلیر ، اور جری تھے ۔ میں ایک لطیف تدبیر اختیار کرکے مکہ میں آپ کی خدمت میں حاضر ہوااور آپ سے پوچھا آپ کیا ہیں؟آپ صلی اللہ علیہ وسلم نے فرمایا : \" میں نبی ہوں ۔ \" پھر میں نے پوچھا : \" نبی کیا ہوتا ہے؟آپ صلی اللہ علیہ وسلم نے فرمایا : \" مجھے اللہ نے بھیجا ہے ۔ \" میں نے کہا : آپ کو کیا ( پیغام ) دے کر بھیجا ہے؟آپ نے فرمایا : \" اللہ تعالیٰ مجھے صلہ رحمی ، بتوں کو توڑنے ، اللہ تعالیٰ کو ایک قرار دینے ، اور اس کے ساتھ کسی چیز کو شریک نہ ٹھہرانے ( کاپیغام ) دے کر بھیجا ہے ۔ \" میں نے آپ سے پوچھا : آپ کے ساتھ اس ( دین ) پر اور کون ہے؟آپ صلی اللہ علیہ وسلم نے فرمایا : \" ایک آزاد اور ایک غلام ۔ \" ۔ ۔ ۔ کہا : آپ صلی اللہ علیہ وسلم کے ساتھ اس وقت ایمان لانے والوں میں سے ابو بکر اور بلال رضوان اللہ عنھم اجمعین تھے ۔ میں نے کہا : میں بھی آپ کا متبع ہوں ۔ فرمایا : \" تم اپنے آج کل کے حالات میں ایسا کرنے کی استطاعت نہیں رکھتے ۔ کیا تم میرا اور لوگوں کا حال نہیں دیکھتے؟لیکن ( ان حالات میں ) تم اپنے گھر کی طرف لوٹ جاؤ اور جب میرے بارے میں سنو کہ میں غالب آگیا ہوں تو میرے پاس آجانا ۔ \" کہا : تو میں اپنے گھر والوں کے پاس لوٹ گیا ۔ او ( بعد ازاں ) رسول اللہ صلی اللہ علیہ وسلم مدینہ تشریف لے گئے میں اپنے گھر ہی میں تھا ، جب آپ صلی اللہ علیہ وسلم مدینہ تشریف لائے ۔ تو میں بھی خبریں لینے اور لوگوں سے آپ کے حالات پوچھنے میں لگ گیا ۔ حتیٰ کہ میرے پاس اہل یثرب ( مدینہ والوں ) میں سے کچھ لوگ آئے تو میں نے پوچھا : یہ شخص جو مدینہ میں آیا ہے اس نے کیا کچھ کیا ہے؟انھوں نے کہا : لوگ تیزی سے ان ( کے دین ) کی طرف بڑھ رہے ہیں ، آپ کی قوم نے آپ کو قتل کرنا چاہا تھا لیکن وہ ایسا نہ کرسکے ۔ اس پر میں مدینہ آیا اور آپ کی خدمت میں حاضر ہوا اور عرض کی : اے اللہ کے رسول صلی اللہ علیہ وسلم ! کیا آپ مجھے پہچانتے ہیں؟آپ نے فرمایا : \" ہاں تم وہی ہو ناں جو مجھ سے مکہ میں ملے تھے؟ \" کہا : تو میں نے عرض کی : جی ہاں ، اور پھر پوچھا : اے اللہ کے نبی! مجھے وہ ( سب ) بتایئے جو اللہ نے آپ کوسکھایا ہے اور میں اس سے ناواقف ہوں ، مجھے نماز کے بارے میں بتایئے ۔ آپ نے فرمایا : \" صبح کی نماز پڑھو اور پھر نمازسے رک جاؤ حتیٰ کہ سورج نکل کر بلند ہوجائے کیونکہ وہ جب طلوع ہوتا ہے تو شیطان ( اپنے سینگوں کو آگے کرکے یوں دیکھاتا ہے جیسے وہ اُس ) کے دو سینگوں کےدرمیان طلوع ہوتا ہے اور اس وقت کافر اس ( سورج ) کو سجدہ کرتے ہیں ، اس کے بعد نماز پڑھو کیونکہ نماز کا مشاہدہ ہوتاہے اور اس میں ( فرشتے ) حاضر ہوتے ہیں یہاں تک کہ جب نیزے کا سایہ اس کے ساتھ لگ جائے ( سورج بالکل سر پر آجائے ) تو پھر نماز سے رک جاؤ کیونکہ اس وقت جہنم کو ایندھن سے بھر کو بھڑکایاجاتا ہے ، پھر جب سایہ آئے جائے ( سورج ڈھل جائے ) تو نمازپڑھو کیونکہ نماز کا مشاہدہ کیاجاتا ہے اور اس میں حاضری دی جاتی ہے حتیٰ کہ تم عصر سے فارغ ہوجاؤ ، پھر نماز سے رک جاؤ یہاں تک کہ سورج ( پوری طرح ) غروب ہوجائے کیونکہ وہ شیطان کے دو سینگوں میں غروب ہوتا ہے اور اس وقت کافر اس کے سامنے سجدہ کرتے ہیں ۔ \" کہا : پھر میں نے پوچھا : اے اللہ کے نبی صلی اللہ علیہ وسلم ! تو وضو؟مجھے اس کے بارے میں بھی بتایئے ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \" تم میں سے جوشخص بھی وضو کے لئے پانی اپنے قریب کرتاہے ۔ پھر کلی کرتاہے اور ناک میں پانی کھینچ کر اسے جھاڑتاہے تو اس سے اس کے چہرے ، منہ ، اور ناک کے نتھنوں کے گناہ جھڑ جاتے ہیں ، پھر جب وہ اللہ کے حکم کےمطابق اپنے چہرے کو دھوتا ہے تو لازماً اس کے چہرے کےگناہ بھی پانی کے ساتھ اس کی داڑھی کے کناروں سے گر جاتے ہیں ، پھر وہ اپنے دونوں ہاتھوں کو کہنیوں ( کے اوپر ) تک دھوتا ہے ۔ تو لازماً اس کے ہاتھوں کےگناہ پانی کے ساتھ اس کے پوروں سے گرجاتے ہیں ، پھر وہ سر کا مسح کرتاہے تو اس کے سر کے گناہ پانی کے ساتھ اس کے بالوں کے اطراف سے زائل ہوجاتے ہیں ، پھر وہ ٹخنوں ( کے اوپر ) تک اپنے دونوں قدم دھوتا ہے ۔ تو اس کے دونوں پاؤں کے گناہ پانی کے ساتھ اس کے پوروں سے گر جاتے ہیں ، پھر اگر وہ کھڑا ہوانماز پڑھی اور اللہ کے شایان شان اس کی حمد وثنا اور بزرگی بیان کی اور اپنا دل اللہ کے لئے ( ہر قسم کے دوسرے خیالات وتصورات سے ) خالی کرلیا تو وہ اپنے گناہوں سے اس طرح نکلتا ہے جس طرح اس وقت تھا جس دن اس کی ماں نے اسے ( ہر قسم کے گناہوں سے پاک ) جنا تھا ۔ \" حضرت عمرو بن عبسہ رضی اللہ تعالیٰ عنہ نے یہ حدیث رسول اللہ صلی اللہ علیہ وسلم کے ( ایک اور ) صحابی حضرت ابو امامہ رضی اللہ تعالیٰ عنہ کو سنائی تو ابو امامہ رضی اللہ تعالیٰ عنہ نے ان سے کہا : اے عمرو بن عبسہ رضی اللہ تعالیٰ عنہ !دیکھ لوتم کیا کہہ رہے ہو ۔ ایک ہی جگہ اس آدمی کو اتناکچھ عطا کردیا جاتا ہے! اس پر عمرو رضی اللہ تعالیٰ عنہ نے کہا : اے ابو امامہ رضی اللہ تعالیٰ عنہ !میری عمر بڑھ گئی ہے میری ہڈیاں نرم ہوگئیں ہیں اور میری موت کا وقت بھی قریب آچکا ہے اور مجھے کوئی ضرورت نہیں کہ اللہ پر جھوٹ بولوں ۔ اور اس کے رسول صلی اللہ علیہ وسلم پر جھوٹ بولوں ۔ اگر میں نے اس حدیث کو رسول اللہ صلی اللہ علیہ وسلم سے ایک ، دو ، تین ۔ ۔ ۔ حتیٰ کہ انھوں نے سات بار شمار کیا ۔ ۔ ۔ بار نہ سنا ہوتا تو میں اس حدیث کو کبھی بیان نہ کرتا بلکہ میں نے تو اسے آپ صلی اللہ علیہ وسلم سے اس سے بھی زیادہ بارسنا ہے ۔",
+                "urduNarrator": "مجھ سے احمد بن جعفر المعقری نے بیان کیا، ہم سے نضر بن محمد نے بیان کیا، ہم سے عکرمہ بن عمار نے بیان کیا، ہم سے شداد بن عبداللہ نے بیان کیا, ابو عمار شداد بن عبداللہ اور یحییٰ بن ابی کثیر نے ابو امامہ سے روایت کی ۔ ۔ ۔ عکرمہ نے کہا : شداد ابو امامہ اور واثلہ رضی اللہ تعالیٰ عنہ سے مل چکا ہے ، وہ شام کے سفر میں حضرت انس رضی اللہ تعالیٰ عنہ کے ساتھ رہااور ان کی فضیلت اور خوبی کی تعریف کی ۔ حضرت ابو امامہ رضی اللہ تعالیٰ عنہ سے روایت ہے ، انھوں نے کہا : عمرو بن عبسہ سلمی رضی اللہ تعالیٰ عنہ نےکہا",
+                "hadithArabic": "حَدَّثَنِي أَحْمَدُ بْنُ جَعْفَرٍ الْمَعْقِرِيُّ حَدَّثَنَا النَّضْرُ بْنُ مُحَمَّدٍ حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ حَدَّثَنَا شَدَّادُ بْنُ عَبْدِ اللَّهِ أَبُو عَمَّارٍ وَيَحْيَى بْنُ أَبِي كَثِيرٍ عَنْ أَبِي أُمَامَةَ قَالَ عِكْرِمَةُ وَلَقِيَ شَدَّادٌ أَبَا أُمَامَةَ وَوَاثِلَةَ وَصَحِبَ أَنَسًا إِلَى الشَّامِ وَأَثْنَى عَلَيْهِ فَضْلًا وَخَيْرًا عَنْ أَبِي أُمَامَةَ قَالَ قَالَ عَمْرُو بْنُ عَبَسَةَ السُّلَمِيُّ كُنْتُ وَأَنَا فِي الْجَاهِلِيَّةِ أَظُنُّ أَنَّ النَّاسَ عَلَى ضَلَالَةٍ وَأَنَّهُمْ لَيْسُوا عَلَى شَيْءٍ وَهُمْ يَعْبُدُونَ الْأَوْثَانَ فَسَمِعْتُ بِرَجُلٍ بِمَكَّةَ يُخْبِرُ أَخْبَارًا فَقَعَدْتُ عَلَى رَاحِلَتِي فَقَدِمْتُ عَلَيْهِ فَإِذَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مُسْتَخْفِيًا جُرَءَاءُ عَلَيْهِ قَوْمُهُ فَتَلَطَّفْتُ حَتَّى دَخَلْتُ عَلَيْهِ بِمَكَّةَ فَقُلْتُ لَهُ مَا أَنْتَ قَالَ أَنَا نَبِيٌّ فَقُلْتُ وَمَا نَبِيٌّ قَالَ أَرْسَلَنِي اللَّهُ فَقُلْتُ وَبِأَيِّ شَيْءٍ أَرْسَلَكَ قَالَ أَرْسَلَنِي بِصِلَةِ الْأَرْحَامِ وَكَسْرِ الْأَوْثَانِ وَأَنْ يُوَحَّدَ اللَّهُ لَا يُشْرَكُ بِهِ شَيْءٌ قُلْتُ لَهُ فَمَنْ مَعَكَ عَلَى هَذَا قَالَ حُرٌّ وَعَبْدٌ قَالَ وَمَعَهُ يَوْمَئِذٍ أَبُو بَكْرٍ وَبِلَالٌ مِمَّنْ آمَنَ بِهِ فَقُلْتُ إِنِّي مُتَّبِعُكَ قَالَ إِنَّكَ لَا تَسْتَطِيعُ ذَلِكَ يَوْمَكَ هَذَا أَلَا تَرَى حَالِي وَحَالَ النَّاسِ وَلَكِنْ ارْجِعْ إِلَى أَهْلِكَ فَإِذَا سَمِعْتَ بِي قَدْ ظَهَرْتُ فَأْتِنِي قَالَ فَذَهَبْتُ إِلَى أَهْلِي وَقَدِمَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْمَدِينَةَ وَكُنْتُ فِي أَهْلِي فَجَعَلْتُ أَتَخَبَّرُ الْأَخْبَارَ وَأَسْأَلُ النَّاسَ حِينَ قَدِمَ الْمَدِينَةَ حَتَّى قَدِمَ عَلَيَّ نَفَرٌ مِنْ أَهْلِ يَثْرِبَ مِنْ أَهْلِ الْمَدِينَةَ فَقُلْتُ مَا فَعَلَ هَذَا الرَّجُلُ الَّذِي قَدِمَ الْمَدِينَةَ فَقَالُوا النَّاسُ إِلَيْهِ سِرَاعٌ وَقَدْ أَرَادَ قَوْمُهُ قَتْلَهُ فَلَمْ يَسْتَطِيعُوا ذَلِكَ فَقَدِمْتُ الْمَدِينَةَ فَدَخَلْتُ عَلَيْهِ فَقُلْتُ يَا رَسُولَ اللَّهِ أَتَعْرِفُنِي قَالَ نَعَمْ أَنْتَ الَّذِي لَقِيتَنِي بِمَكَّةَ قَالَ فَقُلْتُ بَلَى فَقُلْتُ يَا نَبِيَّ اللَّهِ أَخْبِرْنِي عَمَّا عَلَّمَكَ اللَّهُ وَأَجْهَلُهُ أَخْبِرْنِي عَنْ الصَّلَاةِ قَالَ صَلِّ صَلَاةَ الصُّبْحِ ثُمَّ أَقْصِرْ عَنْ الصَّلَاةِ حَتَّى تَطْلُعَ الشَّمْسُ حَتَّى تَرْتَفِعَ فَإِنَّهَا تَطْلُعُ حِينَ تَطْلُعُ بَيْنَ قَرْنَيْ شَيْطَانٍ وَحِينَئِذٍ يَسْجُدُ لَهَا الْكُفَّارُ ثُمَّ صَلِّ فَإِنَّ الصَّلَاةَ مَشْهُودَةٌ مَحْضُورَةٌ حَتَّى يَسْتَقِلَّ الظِّلُّ بِالرُّمْحِ ثُمَّ أَقْصِرْ عَنْ الصَّلَاةِ فَإِنَّ حِينَئِذٍ تُسْجَرُ جَهَنَّمُ فَإِذَا أَقْبَلَ الْفَيْءُ فَصَلِّ فَإِنَّ الصَّلَاةَ مَشْهُودَةٌ مَحْضُورَةٌ حَتَّى تُصَلِّيَ الْعَصْرَ ثُمَّ أَقْصِرْ عَنْ الصَّلَاةِ حَتَّى تَغْرُبَ الشَّمْسُ فَإِنَّهَا تَغْرُبُ بَيْنَ قَرْنَيْ شَيْطَانٍ وَحِينَئِذٍ يَسْجُدُ لَهَا الْكُفَّارُ قَالَ فَقُلْتُ يَا نَبِيَّ اللَّهِ فَالْوُضُوءَ حَدِّثْنِي عَنْهُ قَالَ مَا مِنْكُمْ رَجُلٌ يُقَرِّبُ وَضُوءَهُ فَيَتَمَضْمَضُ وَيَسْتَنْشِقُ فَيَنْتَثِرُ إِلَّا خَرَّتْ خَطَايَا وَجْهِهِ وَفِيهِ وَخَيَاشِيمِهِ ثُمَّ إِذَا غَسَلَ وَجْهَهُ كَمَا أَمَرَهُ اللَّهُ إِلَّا خَرَّتْ خَطَايَا وَجْهِهِ مِنْ أَطْرَافِ لِحْيَتِهِ مَعَ الْمَاءِ ثُمَّ يَغْسِلُ يَدَيْهِ إِلَى الْمِرْفَقَيْنِ إِلَّا خَرَّتْ خَطَايَا يَدَيْهِ مِنْ أَنَامِلِهِ مَعَ الْمَاءِ ثُمَّ يَمْسَحُ رَأْسَهُ إِلَّا خَرَّتْ خَطَايَا رَأْسِهِ مِنْ أَطْرَافِ شَعْرِهِ مَعَ الْمَاءِ ثُمَّ يَغْسِلُ قَدَمَيْهِ إِلَى الْكَعْبَيْنِ إِلَّا خَرَّتْ خَطَايَا رِجْلَيْهِ مِنْ أَنَامِلِهِ مَعَ الْمَاءِ فَإِنْ هُوَ قَامَ فَصَلَّى فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ وَمَجَّدَهُ بِالَّذِي هُوَ لَهُ أَهْلٌ وَفَرَّغَ قَلْبَهُ لِلَّهِ إِلَّا انْصَرَفَ مِنْ خَطِيئَتِهِ كَهَيْئَتِهِ يَوْمَ وَلَدَتْهُ أُمُّهُ فَحَدَّثَ عَمْرُو بْنُ عَبَسَةَ بِهَذَا الْحَدِيثِ أَبَا أُمَامَةَ صَاحِبَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ لَهُ أَبُو أُمَامَةَ يَا عَمْرَو بْنَ عَبَسَةَ انْظُرْ مَا تَقُولُ فِي مَقَامٍ وَاحِدٍ يُعْطَى هَذَا الرَّجُلُ فَقَالَ عَمْرٌو يَا أَبَا أُمَامَةَ لَقَدْ كَبِرَتْ سِنِّي وَرَقَّ عَظْمِي وَاقْتَرَبَ أَجَلِي وَمَا بِي حَاجَةٌ أَنْ أَكْذِبَ عَلَى اللَّهِ وَلَا عَلَى رَسُولِ اللَّهِ لَوْ لَمْ أَسْمَعْهُ مِنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَّا مَرَّةً أَوْ مَرَّتَيْنِ أَوْ ثَلَاثًا حَتَّى عَدَّ سَبْعَ مَرَّاتٍ مَا حَدَّثْتُ بِهِ أَبَدًا وَلَكِنِّي سَمِعْتُهُ أَكْثَرَ مِنْ ذَلِكَ.",
+                "headingArabic": "إِسْلاَمِ عَمْرِو بْنِ عَبَسَةَ ‏",
+                "headingUrdu": "عمرو بن عبسہ کیسے مسلمان ہوئے؟",
+                "headingEnglish": "How `Amr bin `Abasah became Muslim",
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9495,
+                "hadithNumber": "1931",
+                "englishNarrator": "A'isha رضی اللہ تعالیٰ عنہا reported:",
+                "hadithEnglish": "'Umar رضی اللہ تعالیٰ عنہ misconstrued the fact that the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) had prohibited the observance of prayer at the time of the rising sun and at the time of its setting.",
+                "hadithUrdu": "حضرت عمر رضی اللہ تعالیٰ عنہ کو وہم لاحق ہوا ہے ( کہ وہ ہر صورت عصر کے بعد نماز پڑھنے کو قابل سزا سمجھتے ہیں ) رسول اللہ صلی اللہ علیہ وسلم نے تو اس بات سے منع فرمایا ہے کہ سورج کے طلوع یا اس کے غروب کے وقت نماز پڑھنے کا قصد کیا جائے ۔",
+                "urduNarrator": "ہم سے محمد بن حاتم نے بیان کیا، انہوں نے ہم سے بیان کیا، انہوں نے ہم سے بیان کیا وہیب نے کہا : ہم سے عبداللہ بن طاوس نے حدیث بیان کی ، انھوں نے اپنے والد ( طاوس ) سے اور انھوں نے حضرت عائشہ رضی اللہ تعالیٰ عنہا سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ حَاتِمٍ حَدَّثَنَا بَهْزٌ حَدَّثَنَا وُهَيْبٌ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ طَاوُسٍ عَنْ أَبِيهِ عَنْ عَائِشَةَ أَنَّهَا قَالَتْ وَهِمَ عُمَرُ إِنَّمَا نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ يُتَحَرَّى طُلُوعُ الشَّمْسِ وَغُرُوبُهَا.",
+                "headingArabic": "لاَ تَتَحَرَّوْا بِصَلاَتِكُمْ طُلُوعَ الشَّمْسِ وَلاَ غُرُوبَهَا ‏‏",
+                "headingUrdu": "یہ جال یا طحہ بری ہے اور وہ سن ایس ریسنگ آر اسٹنگ ہیں۔",
+                "headingEnglish": "Do not aim to pray when the sun is rising or setting",
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9496,
+                "hadithNumber": "1932",
+                "englishNarrator": "A'isha رضی اللہ تعالیٰ عنہا said:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) did not abandon observing two rak'ahs after 'Asr, but she reported Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying: Do not get used to observe prayer at the time of the rising sun and at the time of its setting and (exhorted the Muslims) to pray at their times.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے عصر کے بعد دو رکعت پڑھنی کبھی نہیں چھوڑ ی تھی کہا : حضرت عائشہ رضی اللہ تعالیٰ عنہا نےکہا : رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" نماز کے لئے تم جان بوجھ کر سورج کے طلوع اور اس کے غروب ہونے کا قصد نہ کرو کہ اس وقت نماز پڑھو ۔ \"",
+                "urduNarrator": "ہم سے حسن الحلوانی نے بیان کیا، کہا ہم سے عبدالرزاق نے بیان کیا، انہوں نے بیان کیا معمر نے باقی ماندہ سابقہ سند کے ساتھ طاوس کے بیٹے سے ، انھوں نے اپنے والد سے اور انھوں نے حضرت عائشہ رضی اللہ تعالیٰ عنہا سے روایت کی کہ انھوں نے کہا :",
+                "hadithArabic": "و حَدَّثَنَا حَسَنٌ الْحُلْوَانِيُّ حَدَّثَنَا عَبْدُ الرَّزَّاقِ أَخْبَرَنَا مَعْمَرٌ عَنْ ابْنِ طَاوُسٍ عَنْ أَبِيهِ عَنْ عَائِشَةَ أَنَّهَا قَالَتْ لَمْ يَدَعْ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الرَّكْعَتَيْنِ بَعْدَ الْعَصْرِ قَالَ فَقَالَتْ عَائِشَةُ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا تَتَحَرَّوْا طُلُوعَ الشَّمْسِ وَلَا غُرُوبَهَا فَتُصَلُّوا عِنْدَ ذَلِكَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9497,
+                "hadithNumber": "1933",
+                "englishNarrator": "Kuraib, the freed slave of Ibn 'Abbas, reported that 'Abdullah bin 'Abbas, 'Abd al-Rahman bin Azhar, al-Miswar bin Makhrama sent him to 'A'isha رضی اللہ تعالیٰ عنہا , the wife of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌):",
+                "hadithEnglish": "Telling him to give her their greetings, and ask her about the two rak'ahs after the afternoon prayer, (for) we have heard that you observe them whereas it has been conveyed to us that the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) prohibited their observance. Ibn 'Abbas رضی اللہ تعالیٰ عنہ said: I along with 'Umar bin al-Khattab dissuaded people to do so (to observe two rak'ahs of prayer). Kuraib said: I went to her ('A'isha رضی اللہ تعالیٰ عنہا ) and conveyed to her the message with which I was sent. She said: (Better) ask Umm Salama. So I went to them (those who had sent him to Hadrat 'A'isha رضی اللہ تعالیٰ عنہا ) and informed them about what she had said. They sent me back to Umm Salama with that with which I was sent to 'A'isha. Umm Salama said: I beard the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) prohibiting them, and then afterwards I saw him observing them. And when he observed them (two rak'ahs) he had already observed the 'Asr prayer. Then he (the Holy Prophet) came, while there were with me ladies of Banu Haram, a tribe of the Ansar and he (the Holy Prophet) observed them (the two rak'ahs). I sent a slave-girl to him asking her to stand by his side and say to him that Umm Salama says: Messenger of Allah, I heard you prohibiting these two rak'ahs, whereas I saw you observing them; and if he (the Holy Prophet) points with his hand (to wait), then do wait. The slave-girl did like that. He (the Holy Prophet) pointed out with his hand and she got aside and waited, and when he had finished (the prayer) he said: Daughter of Abu Umayya. you have asked about the two rak'ahs after the 'Asr prayer. Some people of 'Abu al-Qais came to me for embracing Islam and hindered me from observing the two rak'ahs which come after the noon prayer. So those are the two I have been praying.",
+                "hadithUrdu": "ہم سب کی طرف سے انھیں سلام عرض کرنا اور ان سے عصر کے بعد کی دو رکعت کے بارے میں پوچھنا اور کہنا کہ ہمیں خبر ملی ہے کہ آ پ یہ ( دو رکعتیں ) پڑھتی ہیں ۔ جبکہ رسول اللہ صلی اللہ علیہ وسلم کی طرف سے ہم تک یہ خبر پہنچی ہے کہ آپ صلی اللہ علیہ وسلم نے ان سے روکا ہے ۔ ابن عباس رضی اللہ تعالیٰ عنہ نے کہا کہ میں تو حضرت عمر بن خطاب رضی اللہ تعالیٰ عنہ کے ساتھ مل کر لوگوں کو ان سے روکا کرتا تھا ۔ کریب نے کہا : میں حضرت عائشہ رضی اللہ تعالیٰ عنہا کی خدمت میں حاضر ہوا اور ان حضرات نے جو پیغام د ے کر مجھے بھیجا تھا میں نے ان تک پہنچایا ۔ انھوں نے جواب دیا ام سلمہ رضی اللہ تعالیٰ عنہا سے پوچھو ۔ میں نکل کر ان حضرات کے پاس لوٹا اور انھیں ان کے جواب سے آگاہ کیا ۔ ان حضرات نے مجھے وہی پیغام دے کر حضرت اسلمہ رضی اللہ تعالیٰ عنہا کی طرف بھیج دیا جس طرح حضرت عائشہ رضی اللہ تعالیٰ عنہا کے پاس بھیجاتھا ، اس پر ام سلمہ رضی اللہ تعالیٰ عنہا نے جواب دیا ۔ میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا تھا کہ آپ ان دو رکعتوں سے روکتے تھے ، پھر میں نے آپ صلی اللہ علیہ وسلم کو یہ دو رکعتیں پڑھتے ہوئے دیکھا ، ہاں ، آپ نے جب یہ دو رکعتیں پڑھیں تھیں اس وقت آپ عصر کی نماز پڑھ چکے تھے ، پھر ( عصر پڑھ کر ) آپ ( میرے گھر میں ) داخل ہوئے جبکہ میرے پاس انصار کے قبیلے بنو حرام کے قبیلے کی کچھ عورتیں موجودتھیں ، آ پ نے یہ دو رکعتیں ادا ( کرنی شروع ) کیں تو میں نے آپ کے پاس خادمہ بھیجی اور ( اس سے ) کہا : آپ صلی اللہ علیہ وسلم کی ایک جانب جا کر کھڑی ہوجاؤ اور آپ صلی اللہ علیہ وسلم سے عرض کرو کہ اے اللہ کے رسول صلی اللہ علیہ وسلم !ام سلمہ رضی اللہ تعالیٰ عنہا کہتی ہیں : میں آپ سے سنتی رہی ہوں کہ آپ ( عصر کے بعد ) ان دو رکعتوں سے منع فرماتے تھے اور اب میں آپ کو پڑھتے ہوئےدیکھ رہی ہوں؟اگر آپ صلی اللہ علیہ وسلم ہاتھ سے اشارہ فرمائیں تو پیچھے ہٹ ( کرکھڑی ہو ) جانا ۔ اس لڑکی نے ایسے ہی کیا ، آپ نے ہاتھ سے اشارہ فرمایا ، وہ آپ سے پیچھے ہٹ ( کر کھڑی ہو ) گئی ، جب آپ صلی اللہ علیہ وسلم نے سلام پھیراتو فرمایا : \" اے ابو امیہ ( حذیفہ بن مغیرہ مخزومی ) کی بیٹی!تم نے عصر کے بعد کی دورکعتوں کے بارے میں پوچھا ہے ، تو ( معاملہ یہ ہے کہ ) بنو عبدالقیس کے کچھ افراد اپنی قوم کے اسلام ( لانے کی اطلاع ) کے ساتھ میرے پاس آئے ، اور انھوں نے مجھے ظہر کی بعد کی دورکعتوں سے مشغول کردیا ، یہ وہی دو رکعتیں ہیں ۔ \"",
+                "urduNarrator": "مجھ سے حرملہ بن یحییٰ التجیبی نے بیان کیا، مجھ سے عبداللہ بن وہب نے بیان کیا، مجھ سے عمرو نے جو ابن حارث ہیں، انہوں نے بکر کی سند سے، کریب کی سند سے جو ابن عباس کے موکل ہیں، کہ عبداللہ بن عباس رضی اللہ تعالیٰ عنہ ، عبدالرحمن بن ازہر ، مسور بن مخرمہ رضی اللہ تعالیٰ عنہ انھیں نبی اکرم صلی اللہ علیہ وسلم کی زوجہ حضرت عائشہ رضی اللہ تعالیٰ عنہا کے پاس بھیجا اور کہا کہ",
+                "hadithArabic": "حَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى التُّجِيبِيُّ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ أَخْبَرَنِي عَمْرٌو وَهُوَ ابْنُ الْحَارِثِ عَنْ بُكَيْرٍ عَنْ كُرَيْبٍ مَوْلَى ابْنِ عَبَّاسٍ أَنَّ عَبْدَ اللَّهِ بْنَ عَبَّاسٍ وَعَبْدَ الرَّحْمَنِ بْنَ أَزْهَرَ وَالْمِسْوَرَ بْنَ مَخْرَمَةَ أَرْسَلُوهُ إِلَى عَائِشَةَ زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالُوا اقْرَأْ عَلَيْهَا السَّلَامَ مِنَّا جَمِيعًا وَسَلْهَا عَنْ الرَّكْعَتَيْنِ بَعْدَ الْعَصْرِ وَقُلْ إِنَّا أُخْبِرْنَا أَنَّكِ تُصَلِّينَهُمَا وَقَدْ بَلَغَنَا أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْهُمَا قَالَ ابْنُ عَبَّاسٍ وَكُنْتُ أَضْرِبُ مَعَ عُمَرَ بْنِ الْخَطَّابِ النَّاسَ عَلَيْهَا قَالَ كُرَيْبٌ فَدَخَلْتُ عَلَيْهَا وَبَلَّغْتُهَا مَا أَرْسَلُونِي بِهِ فَقَالَتْ سَلْ أُمَّ سَلَمَةَ فَخَرَجْتُ إِلَيْهِمْ فَأَخْبَرْتُهُمْ بِقَوْلِهَا فَرَدُّونِي إِلَى أُمِّ سَلَمَةَ بِمِثْلِ مَا أَرْسَلُونِي بِهِ إِلَى عَائِشَةَ فَقَالَتْ أُمُّ سَلَمَةَ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَنْهَى عَنْهُمَا ثُمَّ رَأَيْتُهُ يُصَلِّيهِمَا أَمَّا حِينَ صَلَّاهُمَا فَإِنَّهُ صَلَّى الْعَصْرَ ثُمَّ دَخَلَ وَعِنْدِي نِسْوَةٌ مِنْ بَنِي حَرَامٍ مِنْ الْأَنْصَارِ فَصَلَّاهُمَا فَأَرْسَلْتُ إِلَيْهِ الْجَارِيَةَ فَقُلْتُ قُومِي بِجَنْبِهِ فَقُولِي لَهُ تَقُولُ أُمُّ سَلَمَةَ يَا رَسُولَ اللَّهِ إِنِّي أَسْمَعُكَ تَنْهَى عَنْ هَاتَيْنِ الرَّكْعَتَيْنِ وَأَرَاكَ تُصَلِّيهِمَا فَإِنْ أَشَارَ بِيَدِهِ فَاسْتَأْخِرِي عَنْهُ قَالَ فَفَعَلَتْ الْجَارِيَةُ فَأَشَارَ بِيَدِهِ فَاسْتَأْخَرَتْ عَنْهُ فَلَمَّا انْصَرَفَ قَالَ يَا بِنْتَ أَبِي أُمَيَّةَ سَأَلْتِ عَنْ الرَّكْعَتَيْنِ بَعْدَ الْعَصْرِ إِنَّهُ أَتَانِي نَاسٌ مِنْ عَبْدِ الْقَيْسِ بِالْإِسْلَامِ مِنْ قَوْمِهِمْ فَشَغَلُونِي عَنْ الرَّكْعَتَيْنِ اللَّتَيْنِ بَعْدَ الظُّهْرِ فَهُمَا هَاتَانِ.",
+                "headingArabic": "مَعْرِفَةِ الرَّكْعَتَيْنِ اللَّتَيْنِ كَانَ يُصَلِّيهِمَا النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَعْدَ الْعَصْرِ",
+                "headingUrdu": "ان دو رکعتوں کے بارے میں جو رسول اللہ صلی اللہ علیہ وسلم عصر کے بعد پڑھا کرتے تھے۔",
+                "headingEnglish": "Concerning the two rak`ah that the Prophet (saws) used to pray after `Asr",
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9498,
+                "hadithNumber": "1934",
+                "englishNarrator": "Abu Salama asked:",
+                "hadithEnglish": "'A'isha رضی اللہ تعالیٰ عنہا about the two prostrations (i. e. rak'ahs) which the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) made after the 'Asr. She said: He (the Holy Prophet) observed them before the 'Asr prayer, but then he was hindered to do so, or he forgot them and then he observed them after the 'Asr, and then he continued observing them. (It was his habit) that when he (the Holy Prophet) observed prayer, he then continued observing it. Isma'il said: It implies that he always did that.",
+                "hadithUrdu": "انھوں نے حضرت عائشہ رضی اللہ تعالیٰ عنہا سے ان دو ر کعتوں کے بارے میں پوچھا جو رسول اللہ صلی اللہ علیہ وسلم عصر کے بعد پڑھتے تھے ۔ انھوں نےکہا : آپ صلی اللہ علیہ وسلم یہ دو رکعتیں ( ظہر کے بعد ) عصر سے پہلے پڑھتے تھے ، پھر ایک دن ان کے پڑھنے سے مشغول ہوگئے یا انھیں بھول گئے تو آپ صلی اللہ علیہ وسلم نے وہ عصر کے بعد پڑھیں ، پھر آپ صلی اللہ علیہ وسلم نے انھیں قائم رکھا کیونکہ جب آپ صلی اللہ علیہ وسلم کوئی نماز ( ایک دفعہ ) پڑھ لیتے تو اسے قائم رکھتے تھے ۔ یحییٰ بن ایوب نے کہا : اسماعیل نے کہا ( اثبتها اسے قائم رکھتے تھے ) سے مراد ہے : آپ اس پر ہمیشہ عمل فرماتے تھے ۔",
+                "urduNarrator": "یحییٰ بن ایوب ، قتیبہ ، اور علی بن حجر نے اسماعیل بن جعفر سے حدیث بیان کی ، ابن ایوب نے کہا : ہمیں اسماعیل نے حدیث سنائی ، کہا مجھے محمد بن ابی حرملہ نے خبر دی ، انھوں نےکہا ، مجھے ابو سلمہ نے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ وَقُتَيْبَةُ وَعَلِيُّ بْنُ حُجْرٍ قَالَ ابْنُ أَيُّوبَ حَدَّثَنَا إِسْمَعِيلُ وَهُوَ ابْنُ جَعْفَرٍ أَخْبَرَنِي مُحَمَّدٌ وَهُوَ ابْنُ أَبِي حَرْمَلَةَ قَالَ أَخْبَرَنِي أَبُو سَلَمَةَ أَنَّهُ سَأَلَ عَائِشَةَ عَنْ السَّجْدَتَيْنِ اللَّتَيْنِ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُصَلِّيهِمَا بَعْدَ الْعَصْرِ فَقَالَتْ كَانَ يُصَلِّيهِمَا قَبْلَ الْعَصْرِ ثُمَّ إِنَّهُ شُغِلَ عَنْهُمَا أَوْ نَسِيَهُمَا فَصَلَّاهُمَا بَعْدَ الْعَصْرِ ثُمَّ أَثْبَتَهُمَا وَكَانَ إِذَا صَلَّى صَلَاةً أَثْبَتَهَا قَالَ يَحْيَى بْنُ أَيُّوبَ قَالَ إِسْمَعِيلُ تَعْنِي دَاوَمَ عَلَيْهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9499,
+                "hadithNumber": "1935",
+                "englishNarrator": "A'isha reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) did not abandon at all observing two rak'ahs after the 'Asr in my house.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے میرے ہاں عصر کے بعد دو رکعتیں کبھی نہیں چھوڑیں ۔",
+                "urduNarrator": "ہم سے زہیر بن حرب نے بیان کیا، کہا ہم سے جریر نے بیان کیا، کہا ہم سے ابن نمیر نے بیان کیا، ہم سے میرے والد نے ہشام بن کی سند سے بیان کیا,عروہ نے حضرت عائشہ رضی اللہ تعالیٰ عنہا سے روایت کی ، انھوں نے فرمایا",
+                "hadithArabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ حَدَّثَنَا جَرِيرٌ ح و حَدَّثَنَا ابْنُ نُمَيْرٍ حَدَّثَنَا أَبِي جَمِيعًا عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيهِ عَنْ عَائِشَةَ قَالَتْ مَا تَرَكَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رَكْعَتَيْنِ بَعْدَ الْعَصْرِ عِنْدِي قَطُّ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9500,
+                "hadithNumber": "1936",
+                "englishNarrator": "A'isha رضی اللہ تعالیٰ عنہا reported:",
+                "hadithEnglish": "Two are the prayers which the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) always observed in my house-openly or secretly-two rak'ahs before the dawn and two rak'ahs after the 'Asr.",
+                "hadithUrdu": "دو نمازیں ہیں ، رسول اللہ صلی اللہ علیہ وسلم نے میرے گھر میں انھیں رازداری سے اور اعلانیہ کبھی ترک نہیں کیا : دو رکعتیں فجر سے پہلے اور دو رکعتیں عصر کے بعد ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، ہم سے علی بن مسھر نے بیان کیا، اور ہم سے علی بن حجر نے بیان کیا، اور اس کا لفظ علی بن مسھر نے ہم سے ابواسحاق الشیبانی کی سند سے بیان کیا, عبدالرحمن بن اسود نے اپنے والد اسود سے اور انھوں نے حضرت عائشہ رضی اللہ تعالیٰ عنہا سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ ح و حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ وَاللَّفْظُ لَهُ أَخْبَرَنَا عَلِيُّ بْنُ مُسْهِرٍ أَخْبَرَنَا أَبُو إِسْحَقَ الشَّيْبَانِيُّ عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْأَسْوَدِ عَنْ أَبِيهِ عَنْ عَائِشَةَ قَالَتْ صَلَاتَانِ مَا تَرَكَهُمَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي بَيْتِي قَطُّ سِرًّا وَلَا عَلَانِيَةً رَكْعَتَيْنِ قَبْلَ الْفَجْرِ وَرَكْعَتَيْنِ بَعْدَ الْعَصْرِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9501,
+                "hadithNumber": "1937",
+                "englishNarrator": "Aswad and Masruq reported:",
+                "hadithEnglish": "We bear testimony to the fact that 'A'isha رضی اللہ تعالیٰ عنہا said: Never was there a day that he (the Holy Prophet) was with me and he did not observe two rak'ahs of prayer in my house, i.e. two rak'ahs after the Asr.",
+                "hadithUrdu": "ہم حضرت عائشہ رضی اللہ تعالیٰ عنہا کے بارے میں گواہی دیتے ہیں کہ انھوں نے کہا : کوئی دن جس میں رسول اللہ صلی اللہ علیہ وسلم میرے پاس ہوتے تھے ایسا نہ تھا کہ آپ صلی اللہ علیہ وسلم نے یہ دو رکعتیں نہ پڑھی ہوں ۔ ان کی مراد عصر کے بعد کی دو رکعتوں سے تھی ۔",
+                "urduNarrator": "ہم سے ابن المثنیٰ اور ابن بشار نے بیان کیا، ہم سے ابن المثنیٰ نے بیان کیا، ہم سے محمد بن جعفر نے بیان کیا، ہم سے شعبہ رضی اللہ عنہ نے بیان کیا, ابو اسحاق نے اسود اور مسروق سے روایت کی ، ان دونوں نے کہا",
+                "hadithArabic": "و حَدَّثَنَا ابْنُ الْمُثَنَّى وَابْنُ بَشَّارٍ قَالَ ابْنُ الْمُثَنَّى حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ أَبِي إِسْحَقَ عَنْ الْأَسْوَدِ وَمَسْرُوقٍ قَالَا نَشْهَدُ عَلَى عَائِشَةَ أَنَّهَا قَالَتْ مَا كَانَ يَوْمُهُ الَّذِي كَانَ يَكُونُ عِنْدِي إِلَّا صَلَّاهُمَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي بَيْتِي تَعْنِي الرَّكْعَتَيْنِ بَعْدَ الْعَصْرِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9502,
+                "hadithNumber": "1938",
+                "englishNarrator": "Mukhtar bin Fulful said:",
+                "hadithEnglish": "I asked Anas bin Malik رضی اللہ تعالیٰ عنہ about the voluntary prayers after the afternoon prayer, and he replied: 'Umar رضی اللہ تعالیٰ عنہ struck hit hands on prayer observed after the 'Asr prayer and we used to observe two rak'ahs after the sun set before the evening prayer during the time of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ). I said to him: Did the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) observe them? He said: He saw us observing them, but he neither commanded us nor forbade us to do so.",
+                "hadithUrdu": "میں نے حضرت انس بن مالک رضی اللہ تعالیٰ عنہ سے عصر کے بعد نفل نماز پڑھنے کے بارے میں پوچھا تو انھوں نے کہا : حضرت عمر رضی اللہ تعالیٰ عنہ عصر کے بعد نماز پڑھنے پر ہاتھوں پر مارتے تھے اور نبی اکرم صلی اللہ علیہ وسلم کےدور میں ہم سورج کے غروب ہوجانے کے بعد نماز مغرب سے پہلے دو رکعتیں پڑھتے تھے ۔ تو میں نے ان سے پوچھا : کیا رسول اللہ صلی اللہ علیہ وسلم نے یہ دو رکعتیں پڑھیں؟انھوں نے کہا : آپ ہمیں پڑھتا دیکھتے تھے آپ نے نہ ہمیں حکم دیا اور نہ روکا ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ اور ابو کریب نے ابن فضیل کی سند سے بیان کیا، ابوبکر نے کہا: ہم سے محمد بن فضیل نے بیان کیا, مختار بن فلفل سے روایت ہے ، انھوں نے کہا",
+                "hadithArabic": "و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَأَبُو كُرَيْبٍ جَمِيعًا عَنْ ابْنِ فُضَيْلٍ قَالَ أَبُو بَكْرٍ حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ عَنْ مُخْتَارِ بْنِ فُلْفُلٍ قَالَ سَأَلْتُ أَنَسَ بْنَ مَالِكٍ عَنْ التَّطَوُّعِ بَعْدَ الْعَصْرِ فَقَالَ كَانَ عُمَرُ يَضْرِبُ الْأَيْدِي عَلَى صَلَاةٍ بَعْدَ الْعَصْرِ وَكُنَّا نُصَلِّي عَلَى عَهْدِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رَكْعَتَيْنِ بَعْدَ غُرُوبِ الشَّمْسِ قَبْلَ صَلَاةِ الْمَغْرِبِ فَقُلْتُ لَهُ أَكَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ صَلَّاهُمَا قَالَ كَانَ يَرَانَا نُصَلِّيهِمَا فَلَمْ يَأْمُرْنَا وَلَمْ يَنْهَنَا.",
+                "headingArabic": "اسْتِحْبَابِ رَكْعَتَيْنِ قَبْلَ صَلاَةِ الْمَغْرِبِ ‏",
+                "headingUrdu": "مغرب سے پہلے دو رکعت نماز پڑھنا مستحب ہے۔",
+                "headingEnglish": "It is recommended to pray two rak`ah before Maghrib",
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9503,
+                "hadithNumber": "1939",
+                "englishNarrator": "Anas bin Malik رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "When we were in Medina, the moment the Mu'adhdhin made the call to the sunset prayer, the people hastened to the pillars of the mosque and prayed two rak'ahs with the result that any stranger coming into the mosque would think that the obligatory prayer had been observed owing to the number who were praying then.",
+                "hadithUrdu": "ہم مدینے میں ہوتے تھے ، جب موذن مغرب کی اذان دیتا و لوگ ستونوں کی طرح لپکتے تھے اور وہ دو رکعتیں پڑھتے تھے حتیٰ کہ ایک مسافر مسجد میں آتا تو ان رکعتوں کو پڑھنے والوں کی کثرت دیکھ کر یہ سمجھتا کہ مغرب کی نماز ہوچکی ہے ۔",
+                "urduNarrator": "ہم سے شیبان بن فروخ نے بیان کیا، کہا ہم سے عبدالوارث نے بیان کیا،عبدالعزیز بن صہیب نے حضرت انس بن مالک رضی اللہ تعالیٰ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "و حَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ حَدَّثَنَا عَبْدُ الْوَارِثِ عَنْ عَبْدِ الْعَزِيزِ وَهُوَ ابْنُ صُهَيْبٍ عَنْ أَنَسِ بْنِ مَالِكٍ قَالَ كُنَّا بِالْمَدِينَةِ فَإِذَا أَذَّنَ الْمُؤَذِّنُ لِصَلَاةِ الْمَغْرِبِ ابْتَدَرُوا السَّوَارِيَ فَيَرْكَعُونَ رَكْعَتَيْنِ رَكْعَتَيْنِ حَتَّى إِنَّ الرَّجُلَ الْغَرِيبَ لَيَدْخُلُ الْمَسْجِدَ فَيَحْسِبُ أَنَّ الصَّلَاةَ قَدْ صُلِّيَتْ مِنْ كَثْرَةِ مَنْ يُصَلِّيهِمَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9504,
+                "hadithNumber": "1940",
+                "englishNarrator": "Abdullah bin Mughaffal رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) u saying: There Is between the two calls (Adhan and Iqama) a prayer. And he mentioned it three times, and at the third time he said: This applies to those who wish to do it.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا؛ \" ہر دو اذانوں ( اذان اور تکبیر ) کے درمیان نماز ہے ۔ \" آپ صلی اللہ علیہ وسلم نے تین دفعہ فرمایا ( اور ) تیسری دفعہ فرمایا : \" اس کے لئے جو چاہے ۔ \"",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے ابو اسامہ اور وکیع نے بیان کیا, کہمس نےکہا : ہم سے عبداللہ بن بریدہ نے حضرت عبداللہ بن مغفل مزنی رضی اللہ تعالیٰ عنہ سے حدیث بیان کی ، انھوں نے کہا",
+                "hadithArabic": "و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا أَبُو أُسَامَةَ وَوَكِيعٌ عَنْ كَهْمَسٍ قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ بُرَيْدَةَ عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ الْمُزَنِيِّ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَيْنَ كُلِّ أَذَانَيْنِ صَلَاةٌ قَالَهَا ثَلَاثًا قَالَ فِي الثَّالِثَةِ لِمَنْ شَاءَ.",
+                "headingArabic": "بَيْنَ كُلِّ أَذَانَيْنِ صَلاَةٌ ‏",
+                "headingUrdu": "ہر دو اذانوں کے درمیان ایک دعا ہے۔",
+                "headingEnglish": "Between every two calls, there is a prayer",
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9505,
+                "hadithNumber": "1941",
+                "englishNarrator": "This hadith has been narrated by Abdullah bin Mughaffal رضی اللہ تعالیٰ عنہ by another chain of transmitters, but with this variation:",
+                "hadithEnglish": "He (the Holy Prophet) said at the fourth time: He who wishes (may do to).",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے چوتھی مرتبہ فرمایا؛ \" اس کے لئے جو چاہے ۔ \"",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، ہم سے عبد الاعلٰی نے بیان کیا, جریری نے عبداللہ بن بریرہ سے ، انھوں نے حضرت عبداللہ بن مغفل رضی اللہ تعالیٰ عنہ سے اور انھوں نے نبی اکرم صلی اللہ علیہ وسلم سے اسی کی مثل روایت کی ، مگرانھوں نے کہا کہ",
+                "hadithArabic": "و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا عَبْدُ الْأَعْلَى عَنْ الْجُرَيْرِيِّ عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِثْلَهُ إِلَّا أَنَّهُ قَالَ فِي الرَّابِعَةِ لِمَنْ شَاءَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9506,
+                "hadithNumber": "1942",
+                "englishNarrator": "Salim bin Abdullah bin 'Umar رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah (ﷺ) led on of the two groups In one rak'ah of prayer in danger, while the other group faced the -enemy. Then they (the members of the first group) went back and replaced their companions who were facing the enemy. and then they (the members of the second group) came and the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) led them in one rak'ah of prayer. Then the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) pronounced salutation, and then they (the members of the Ant group) completed the rak'ah and they (the members of the second group) completed the rak'ah.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے نماز خوف پڑھائی ، دو گروہوں میں سے ایک کو ایک رکعت پڑھائی اور دوسرا گروہ دشمن کے سامنے کھڑا ہواتھا ، پھر یہ ( آپ کے ساتھ نماز پڑھنے والے ) پلٹ گئے اور اپنے ساتھیوں کی جگہ دشمن کی طرف رخ کرکے جاکھڑے ہوئے اور وہ لوگ آگئے ۔ پھر نبی اکرم صلی اللہ علیہ وسلم نے انھیں بھی ایک رکعت پڑھائی اور اس کے بعد نبی اکرم صلی اللہ علیہ وسلم نے سلام پھیر دیا پھر ( آپ کے بعد ) انہوں نے بھی اپنی رکعت مکمل کرلی اور انھوں نے بھی دوسری رکعت مکمل کرلی ۔",
+                "urduNarrator": "ہم سے عبد بن حمید نے بیان کیا,ہم سے عبدالرزاق نے بتایا، معمر نے زہری سے ، انھوں نے سالم سے اور انھوں نےحضرت ابن عمر رضی اللہ تعالیٰ عنہ سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ أَخْبَرَنَا مَعْمَرٌ عَنْ الزُّهْرِيِّ عَنْ سَالِمٍ عَنْ ابْنِ عُمَرَ قَالَ صَلَّى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ صَلَاةَ الْخَوْفِ بِإِحْدَى الطَّائِفَتَيْنِ رَكْعَةً وَالطَّائِفَةُ الْأُخْرَى مُوَاجِهَةُ الْعَدُوِّ ثُمَّ انْصَرَفُوا وَقَامُوا فِي مَقَامِ أَصْحَابِهِمْ مُقْبِلِينَ عَلَى الْعَدُوِّ وَجَاءَ أُولَئِكَ ثُمَّ صَلَّى بِهِمْ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رَكْعَةً ثُمَّ سَلَّمَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثُمَّ قَضَى هَؤُلَاءِ رَكْعَةً وَهَؤُلَاءِ رَكْعَةً.",
+                "headingArabic": "صَلاَةِ الْخَوْفِ ‏",
+                "headingUrdu": "خوف کی دعا",
+                "headingEnglish": "The fear prayer",
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9507,
+                "hadithNumber": "1943",
+                "englishNarrator": "It was narrated from Salim bin Abdullah bin Umar that his father:",
+                "hadithEnglish": "He used to narrate concerning the messenger of Allah at times of fear, and he said: \"We prayed in this manner in the Messenger of Allah ﷺ.\"",
+                "hadithUrdu": "وہ رسول اللہ صلی اللہ علیہ وسلم سے صلاۃ الخوف ( کاطریقہ ) بیان کرتے اور فرماتے : میں نے آپ صلی اللہ علیہ وسلم کے ساتھ یہ نماز پڑھی ۔ ۔ ۔ ( آگے ) اسی کے ہم معنی حدیث ہے ۔",
+                "urduNarrator": "مجھ سے ابو الربیع الزہرانی نے بیان کیا, فلیح نے زہری سے ، انھوں نے سالم بن عبداللہ بن عمر سے اور انھوں نے ا پنے والد سے روایت کی کہ",
+                "hadithArabic": "و حَدَّثَنِيهِ أَبُو الرَّبِيعِ الزَّهْرَانِيُّ حَدَّثَنَا فُلَيْحٌ عَنْ الزُّهْرِيِّ عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ عَنْ أَبِيهِ أَنَّهُ كَانَ يُحَدِّثُ عَنْ صَلَاةِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي الْخَوْفِ وَيَقُولُ صَلَّيْتُهَا مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِهَذَا الْمَعْنَى.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9508,
+                "hadithNumber": "1944",
+                "englishNarrator": "Ibn Umar رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) observed prayer in danger on some day (in this way): a group stood with him (the Holy Prophet) (for prayer) and the other group stood In front of the enemy. Then those who were with (him) observed one rak'ah of prayer and they went back and the others came and they observed one rak'ah (with him). Then both the groups completed one rak'ah each. Ibn Umar رضی اللہ تعالیٰ عنہ said: When there is greater danger, then observe prayer even on the ride or with the help of gestures in a standing posture.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ا پنے جنگ کے ایام میں سے ایک دن نماز خوف پڑھائی ، ایک گروہ آپ صلی اللہ علیہ وسلم کے ساتھ نماز کے لئے کھڑہوگیا ۔ اور دوسرا دشمن کے بالمقابل ۔ آپ صلی اللہ علیہ وسلم نے ساتھ کھڑے ہونے والوں کو ایک رکعت پڑھا دی ، پھر یہ لوگ ( دشمن کے مقابلےمیں ) چلے گئے اور دوسرے آگئے ، آپ صلی اللہ علیہ وسلم نے انھیں بھی ایک رکعت پڑھا دی ، پھر ان دونوں گروہوں نے ( یکے بعد دیگرے ) ایک ایک رکعت اداکرلی ۔ ( نافع ) نے کہا : ابن عمر رضی اللہ تعالیٰ عنہ نے کہا : اگر خوف اس سے زیادہ ہو ( اور صف بندی ممکن نہ ہو ) تو سواری پر یا کھڑے کھڑے اشاارہ کرو اور نماز پڑھ لو ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے یحییٰ بن آدم نے بیان کیا، وہ سفیان کی سند سے، وہ موسیٰ بن عقبہ کی سند سے، انہوں نے نافع نے حضرت ابن عمر رضی اللہ تعالیٰ عنہ سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا يَحْيَى بْنُ آدَمَ عَنْ سُفْيَانَ عَنْ مُوسَى بْنِ عُقْبَةَ عَنْ نَافِعٍ عَنْ ابْنِ عُمَرَ قَالَ صَلَّى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ صَلَاةَ الْخَوْفِ فِي بَعْضِ أَيَّامِهِ فَقَامَتْ طَائِفَةٌ مَعَهُ وَطَائِفَةٌ بِإِزَاءِ الْعَدُوِّ فَصَلَّى بِالَّذِينَ مَعَهُ رَكْعَةً ثُمَّ ذَهَبُوا وَجَاءَ الْآخَرُونَ فَصَلَّى بِهِمْ رَكْعَةً ثُمَّ قَضَتْ الطَّائِفَتَانِ رَكْعَةً رَكْعَةً قَالَ وَقَالَ ابْنُ عُمَرَ فَإِذَا كَانَ خَوْفٌ أَكْثَرَ مِنْ ذَلِكَ فَصَلِّ رَاكِبًا أَوْ قَائِمًا تُومِئُ إِيمَاءً.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9509,
+                "hadithNumber": "1945",
+                "englishNarrator": "Jabir bin 'Abdullah رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "I observed prayer in danger with the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ). We drew ourselves up in two rows, one row behind him with the enemy between us and the Qibla. The Apostle of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: Allah is Most Great, and we all said it. He then bowed and we all bowed. He then raised his head from bowing, we all raised (our heads). He then went down in prostration along with the row close to him, and the rear row faced the enemy; then when the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) completed the prostration, ; and then stood up, the row near to him also did it; then went down the rear row in prostration; then they stood up; then the rear row went to the front and the front row went to the rear. Then the Messenger of Allah (may peace he upon him) bowed down and we all bowed. He then raised his head from bowing and we also raised (our heads). He and the row close to him which I had been in the rear then went down in prostration In the first rak'ah, whereas the rear row faced the enemy. And when the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) and the rear row close to him had finished the prostration, the rear row went down and prostrated themselves; then the Messenger of Allah pronounced the salutation and we also pronounced the salutation. (Jabir رضی اللہ تعالیٰ عنہ said we hadith) as your guards behave with their chiefs.",
+                "hadithUrdu": "میں رسول اللہ صلی اللہ علیہ وسلم کے ساتھ نماز خوف میں شریک ہوا ، آپ صلی اللہ علیہ وسلم نے ہماری دو صفیں بنائیں ، ایک صف رسول اللہ صلی اللہ علیہ وسلم کے پیچھے تھی ( اوردوسری ان کے پیچھے ) اور دشمن ہمارے اور قبلے کے درمیان تھا ، نبی اکرم صلی اللہ علیہ وسلم نے تکبیر ( تحریمہ ) کہی اور ہم سب نے بھی تکبیر کہی ، پھر آپ صلی اللہ علیہ وسلم نے رکوع کیا اور ہم سب نے رکوع کیا ، پھر آپ صلی اللہ علیہ وسلم نے رکوع سے اپنا سر اٹھایا اور ہم سب نے سراٹھایا ، پھر آپ صلی اللہ علیہ وسلم سجدے کے لئے جھک گئے اور آپ صلی اللہ علیہ وسلم سے متصل صف نے بھی سجدہ کیا اور پچھلی صف دشمن کے مد مقابل کھڑی رہی ، جب آپ صلی اللہ علیہ وسلم نے دو سجدے کے کرلیے ۔ اور آپ صلی اللہ علیہ وسلم سے متصل صف ( سجدے کرکے آپ صلی اللہ علیہ وسلم کے ساتھ ) کھڑی ہوگئی تو پچھلی صف سجدے کے لئے نیچے ہوئی اور پھر کھڑی ہوگئی ، اس کے بعد پچھلی صف آگے آگئی اور اگلی صف پیچھے چلی گئی ، پھر جب آپ صلی اللہ علیہ وسلم نے رکوع کیا تو ہم سب نے رکوع کیا ۔ پھر آپ نے رکوع سے اپنا سر اٹھایا اور ہم سب نے بھی سراٹھایا ، پھر آپ صلی اللہ علیہ وسلم اور آپ صلی اللہ علیہ وسلم سے متصل صف جو پہلی رکعت میں پیچھے تھی ، سجدے کے لئے نیچے چلی گئی اور پچھلی صف دشمن کے مقابلے میں کھڑی رہی ، جب نبی اکرم صلی اللہ علیہ وسلم اور آپ صلی اللہ علیہ وسلم سے متصل صف نے سجدہ کرلیا تو پچھلی صف سجدے کے لئے جھکی ۔ انھوں نے سجدے کیے ۔ پھر نبی اکرم صلی اللہ علیہ وسلم نے سلام پھیرا اور ہم سب نے بھی سلام پھیردیا ۔ حضرت جابر رضی اللہ تعالیٰ عنہ نے بتایا : جس طرح تمہارےمحافظ ( آجکل ) اپنے امیروں کی حفاظت کے لئے کرتے ہیں ۔",
+                "urduNarrator": "ہم سے محمد بن عبداللہ بن نمیر نے بیان کیا، کہا ہم سے میرے والد نے بیان کیا، کہا ہم سے عبد الملک بن ابی سلیمان نے بیان کیا, عطاء نے حضرت جابر بن عبداللہ انصاری رضی اللہ تعالیٰ عنہ سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ حَدَّثَنَا أَبِي حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ أَبِي سُلَيْمَانَ عَنْ عَطَاءٍ عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ قَالَ شَهِدْتُ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ صَلَاةَ الْخَوْفِ فَصَفَّنَا صَفَّيْنِ صَفٌّ خَلْفَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَالْعَدُوُّ بَيْنَنَا وَبَيْنَ الْقِبْلَةِ فَكَبَّرَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَكَبَّرْنَا جَمِيعًا ثُمَّ رَكَعَ وَرَكَعْنَا جَمِيعًا ثُمَّ رَفَعَ رَأْسَهُ مِنْ الرُّكُوعِ وَرَفَعْنَا جَمِيعًا ثُمَّ انْحَدَرَ بِالسُّجُودِ وَالصَّفُّ الَّذِي يَلِيهِ وَقَامَ الصَّفُّ الْمُؤَخَّرُ فِي نَحْرِ الْعَدُوِّ فَلَمَّا قَضَى النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ السُّجُودَ وَقَامَ الصَّفُّ الَّذِي يَلِيهِ انْحَدَرَ الصَّفُّ الْمُؤَخَّرُ بِالسُّجُودِ وَقَامُوا ثُمَّ تَقَدَّمَ الصَّفُّ الْمُؤَخَّرُ وَتَأَخَّرَ الصَّفُّ الْمُقَدَّمُ ثُمَّ رَكَعَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَرَكَعْنَا جَمِيعًا ثُمَّ رَفَعَ رَأْسَهُ مِنْ الرُّكُوعِ وَرَفَعْنَا جَمِيعًا ثُمَّ انْحَدَرَ بِالسُّجُودِ وَالصَّفُّ الَّذِي يَلِيهِ الَّذِي كَانَ مُؤَخَّرًا فِي الرَّكْعَةِ الْأُولَى وَقَامَ الصَّفُّ الْمُؤَخَّرُ فِي نُحُورِ الْعَدُوِّ فَلَمَّا قَضَى النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ السُّجُودَ وَالصَّفُّ الَّذِي يَلِيهِ انْحَدَرَ الصَّفُّ الْمُؤَخَّرُ بِالسُّجُودِ فَسَجَدُوا ثُمَّ سَلَّمَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَسَلَّمْنَا جَمِيعًا قَالَ جَابِرٌ كَمَا يَصْنَعُ حَرَسُكُمْ هَؤُلَاءِ بِأُمَرَائِهِمْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9510,
+                "hadithNumber": "1946",
+                "englishNarrator": "Jabir رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "We fought In the company of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) with the tribe of Juhaina. They fought with us terribly. When we had finished the noon prayer, the polytheists said: Had we attacked them at once. we would have killed them. Gabriel informed the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) about It (about their evil design). The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) made a mention of it to us, adding that they (the polytheists) had also said: Shortly there would be time for the 'Asr prayer. which is dearer o them (the Muslims) than even their children. So when the time of the 'Asr prayer came. we formed ourselves into two rows, while the polytheists were between us and the Qibla. The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: Allah is Most Great, and we also said so. He bowed and we also bowed. He went down in prostration and the first row prostrated along with him. When they stood up, the second row went down in prostration. Then the first row went into the rear, and the second row came in the front and occupied the place of the first row. The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) then said: Allah is Most Great, and we also said so. He then bowed, and we also bowed. He then went down in prostration and along with him the row also (went down in prostration), and the second row remained standing. And when the second row had also prostrated and all of them sat down then the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) pronounced salutation to them. Abu Zubair said: Jabir رضی اللہ تعالیٰ عنہ made a mention specially of this thing: just as your chiefs observe prayer.",
+                "hadithUrdu": "ہم نے رسول اللہ صلی اللہ علیہ وسلم کی معیت میں جہینہ قبیلے کے لوگوں سے جنگ لڑی ، انھوں نے ہمارے ساتھ بڑی شدیدجنگ کی جب ہم نے ظہر کی نماز پڑھی تو مشرکوں نے کہا : اگر ہم ان پر یکبارگی حملہ کریں تو ان کو کاٹ کررکھ دیں ۔ جبرئیل علیہ السلام نے رسول اللہ صلی اللہ علیہ وسلم کو اس بات سے آگاہ کردیا اوررسول اللہ صلی اللہ علیہ وسلم نے ہمیں بتایا ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : ان لوگوں نے کہا ہے کہ ابھی ان کی ایک ایسی نماز کا وقت آنےوالاہے جو ان کو ان کی اولاد سے بھی زیادہ پیاری ہے ۔ جب عصرکا وقت آیا ، آپ صلی اللہ علیہ وسلم نے ہماری دو صفیں بنائیں جبکہ مشرک ہمارے اور ہمارے قبیلے کے درمیان تھے ۔ کہا : تو رسول اللہ صلی اللہ علیہ وسلم نے تکبیر تحریمہ کہی اور ہم نے بھی تکبیر کہی ، آپ صلی اللہ علیہ وسلم نے رکوع کیا اور ہم نے بھی رکوع کیا ، پھرآپ صلی اللہ علیہ وسلم نے سجدہ کیا اورآپ صلی اللہ علیہ وسلم کے ساتھ پہلی صف نے بھی سجدہ کیا ۔ جب یہ حضرات کھڑے ہوگئے تو دوسر ی صف والوں نے سجدے کیے ، پھر پہلی صف پیچھے چلی گئی اور دوسری آگے بڑھ گئی اور پہلی صف کی جگہ کھڑی ہوگئی ۔ پھر رسول اللہ صلی اللہ علیہ وسلم نے تکبیر کہی اور ہم نے بھی تکبیرکہی اور آپ صلی اللہ علیہ وسلم نے رکوع کیا اور ہم نے بھی رکوع کیا ۔ پھر آپ صلی اللہ علیہ وسلم نے سجدہ کیا اور آپ صلی اللہ علیہ وسلم کے ساتھ ( موجودہ ) پہلی صف نے سجدہ کیا اور دوسری کھڑی رہی ۔ پھر جب دوسری صف نے سجدے کرلیے اور اس کے بعد سب بیٹھ گئے تو آپ صلی اللہ علیہ وسلم نے سب کے ساتھ سلام پھیرا ۔ ابو زبیر نے کہا : پھر حضرت جابر رضی اللہ تعالیٰ عنہ نے خصوصی طور پر فرمایا : جس طرح تمہارے یہ امیر نماز پڑھتے ہیں ۔",
+                "urduNarrator": "ہم سے احمد بن عبداللہ بن یونس نے بیان کیا، کہا ہم سے زہیر نے بیان کیا، ابو زبیر نے حضرت جابر رضی اللہ تعالیٰ عنہ سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ بْنِ يُونُسَ حَدَّثَنَا زُهَيْرٌ حَدَّثَنَا أَبُو الزُّبَيْرِ عَنْ جَابِرٍ قَالَ غَزَوْنَا مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَوْمًا مِنْ جُهَيْنَةَ فَقَاتَلُونَا قِتَالًا شَدِيدًا فَلَمَّا صَلَّيْنَا الظُّهْرَ قَالَ الْمُشْرِكُونَ لَوْ مِلْنَا عَلَيْهِمْ مَيْلَةً لَاقْتَطَعْنَاهُمْ فَأَخْبَرَ جِبْرِيلُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ذَلِكَ فَذَكَرَ ذَلِكَ لَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ وَقَالُوا إِنَّهُ سَتَأْتِيهِمْ صَلَاةٌ هِيَ أَحَبُّ إِلَيْهِمْ مِنْ الْأَوْلَادِ فَلَمَّا حَضَرَتْ الْعَصْرُ قَالَ صَفَّنَا صَفَّيْنِ وَالْمُشْرِكُونَ بَيْنَنَا وَبَيْنَ الْقِبْلَةِ قَالَ فَكَبَّرَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَكَبَّرْنَا وَرَكَعَ فَرَكَعْنَا ثُمَّ سَجَدَ وَسَجَدَ مَعَهُ الصَّفُّ الْأَوَّلُ فَلَمَّا قَامُوا سَجَدَ الصَّفُّ الثَّانِي ثُمَّ تَأَخَّرَ الصَّفُّ الْأَوَّلُ وَتَقَدَّمَ الصَّفُّ الثَّانِي فَقَامُوا مَقَامَ الْأَوَّلِ فَكَبَّرَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَكَبَّرْنَا وَرَكَعَ فَرَكَعْنَا ثُمَّ سَجَدَ مَعَهُ الصَّفُّ الْأَوَّلُ وَقَامَ الثَّانِي فَلَمَّا سَجَدَ الصَّفُّ الثَّانِي ثُمَّ جَلَسُوا جَمِيعًا سَلَّمَ عَلَيْهِمْ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ أَبُو الزُّبَيْرِ ثُمَّ خَصَّ جَابِرٌ أَنْ قَالَ كَمَا يُصَلِّي أُمَرَاؤُكُمْ هَؤُلَاءِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9511,
+                "hadithNumber": "1947",
+                "englishNarrator": "Sahl bin Abu Hathma رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) led his Companions in prayer in danger. He made them stand in two rows behind him. He led them who were close to him in one rak'ah. He then stood up and kept standing till those who were behind them observed one rak'ah. Then they (those standing in the second row) came in front and those who were in front went into the rear. He then led them In one rak'ah. He then sat down, till those who were behind him observed one rak'ah and then pronounced salutation.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے اپنے ساتھیوں کو نماز خوف پڑھائی اور انھیں اپنے پیچھے دو صفوں میں کھڑا کیا اور اپنے ساتھ ( کی صف ) والوں کوایک رکعت پڑھائی ۔ پھر آپ کھڑے ہوگئے اور کھڑے ہی رہے یہاں تک کہ ان سے پیچھے والوں نے ایک رکعت پڑھ لی ، پھر یہ آگے آگے اور جو ان سے آگے تھے پیچھے چلے گئے ۔ پھر آپ صلی اللہ علیہ وسلم نے انھیں ایک رکعت پڑھائی ۔ پھر آپ بیٹھ گئے حتیٰ کہ جو پیچھے چلے گئے تھے انھوں نے ( بھی ایک اور ) رکعت پڑھ لی ، پھر آپ صلی اللہ علیہ وسلم نے سلام پھیرا ۔",
+                "urduNarrator": "ہم سے عبید اللہ بن معاذ العنبری نے بیان کیا، کہا ہم سے میرے والد نے بیان کیا، ہم سے شعبہ نے بیان کیا, عبدالرحمن بن قاسم نے اپنے والد سے ، انھوں نے صالح بن خوات بن جبیرسے اور انھوں نے حضرت سہل بن ابی حثمہ رضی اللہ تعالیٰ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ الْعَنْبَرِيُّ حَدَّثَنَا أَبِي حَدَّثَنَا شُعْبَةُ عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ عَنْ أَبِيهِ عَنْ صَالِحِ بْنِ خَوَّاتِ بْنِ جُبَيْرٍ عَنْ سَهْلِ بْنِ أَبِي حَثْمَةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ صَلَّى بِأَصْحَابِهِ فِي الْخَوْفِ فَصَفَّهُمْ خَلْفَهُ صَفَّيْنِ فَصَلَّى بِالَّذِينَ يَلُونَهُ رَكْعَةً ثُمَّ قَامَ فَلَمْ يَزَلْ قَائِمًا حَتَّى صَلَّى الَّذِينَ خَلْفَهُمْ رَكْعَةً ثُمَّ تَقَدَّمُوا وَتَأَخَّرَ الَّذِينَ كَانُوا قُدَّامَهُمْ فَصَلَّى بِهِمْ رَكْعَةً ثُمَّ قَعَدَ حَتَّى صَلَّى الَّذِينَ تَخَلَّفُوا رَكْعَةً ثُمَّ سَلَّمَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9512,
+                "hadithNumber": "1948",
+                "englishNarrator": "Yazid bin Ruman told on the authority of Salih bin Khawwat on the authority of one who prayed in time of danger with Allah's Messenger (ﷺ) at the Battle of Dhat ar-Riqa' that:",
+                "hadithEnglish": "A group formed a row and prayed along with him, and a group faced the enemy. He led the group which was along with him in a rak'ah, then remained standing while they finished the prayer by themselves. Then they departed and formed a row facing the enemy. Then the second group came and he led them in the remaining rak'ah, after which he remained seated while they finished the prayer themselves. He then led them in salutation.",
+                "hadithUrdu": "ایک گروہ نے آپ صلی اللہ علیہ وسلم کے ساتھ صف بنائی اور دوسرا گروہ دشمن کے رو برو تھا ، آپ صلی اللہ علیہ وسلم نے اپنے ساتھ والوں کو ایک رکعت پڑھائی ، پھر آپ صلی اللہ علیہ وسلم کھڑے رہے اور انھوں نے اپنے طور پر ( دوسری رکعت پڑھ کر ) نماز مکمل کرلی اور ( سلام پھیر کر ) چلے گئے اور دشمن کے سامنے صف بند ہوگئے اور دوسرا گروہ آگیا ، آپ صلی اللہ علیہ وسلم نے جو رکعت رہتی تھی ۔ ان کو پڑھا دی پھر بیٹھے رہے اور ان لوگوں نے اپنے طور پر ( رکعت پڑھ کر ) نماز مکمل کرلی تو آپ صلی اللہ علیہ وسلم نے ان کے ساتھ سلام پھیرا ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، انہوں نے کہا: میں نے مالک رضی اللہ عنہ سے اس کے متعلق پڑھا, یزید بن رومان نے صالح بن خوات سےاور انھوں نے اس شخص سے نقل کیا جس نے غزوہ ذات الرقاع میں رسول اللہ صلی اللہ علیہ وسلم کی معیت میں نمازخوف پڑھی تھی ۔ کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ يَزِيدَ بْنِ رُومَانَ عَنْ صَالِحِ بْنِ خَوَّاتٍ عَمَّنْ صَلَّى مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَوْمَ ذَاتِ الرِّقَاعِ صَلَاةَ الْخَوْفِ أَنَّ طَائِفَةً صَفَّتْ مَعَهُ وَطَائِفَةٌ وِجَاهَ الْعَدُوِّ فَصَلَّى بِالَّذِينَ مَعَهُ رَكْعَةً ثُمَّ ثَبَتَ قَائِمًا وَأَتَمُّوا لِأَنْفُسِهِمْ ثُمَّ انْصَرَفُوا فَصَفُّوا وِجَاهَ الْعَدُوِّ وَجَاءَتْ الطَّائِفَةُ الْأُخْرَى فَصَلَّى بِهِمْ الرَّكْعَةَ الَّتِي بَقِيَتْ ثُمَّ ثَبَتَ جَالِسًا وَأَتَمُّوا لِأَنْفُسِهِمْ ثُمَّ سَلَّمَ بِهِمْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9513,
+                "hadithNumber": "1949",
+                "englishNarrator": "Jabir رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "We went forward with the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) and when we reached Dhat ar-Riqa', we came to a shady tree which -we left for him One of the polytheists came there and, seeing the sword of the Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) hanging by a free. took it up. drew it from the scabbard and said to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ): Are you afraid of Me? He (the Holy Prophet) said: No. He again said: Who would protect you from me? He said: Allah will protect me from you. The Companions of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) threatened him. He sheathed the sword and hung it up. Then call to prayer was made and he (the Holy Prophet) led a group in two rak'ah. Then (the members of this group) withdrew and he led the second group in two rak'ah. So the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) observed four rak'ah and people observed two rak'ah.",
+                "hadithUrdu": "ہم رسول اللہ صلی اللہ علیہ وسلم کے ساتھ ( جہاد پر ) آئے ۔ حتیٰ کہ جب ہم ذات الرقاع ( نامی پہاڑ ) تک پہنچے ۔ کہا : ہماری عادت تھی کہ جب ہم کسی گھنے سائے والے درخت تک پہنچے تو اسے رسول اللہ صلی اللہ علیہ وسلم کے لئے چھوڑ دیتے ، کہا : ایک مشرک آیا جبکہ رسول اللہ صلی اللہ علیہ وسلم کی تلوار درخت پر لٹکی ہوئی تھی ، اس نے رسول اللہ صلی اللہ علیہ وسلم کی تلوارپکڑ لی ، اسے میان سے نکالا اور رسول اللہ صلی اللہ علیہ وسلم سے کہنے لگا : کیا آپ مجھ سے ڈ رتے ہیں؟آپ صلی اللہ علیہ وسلم نے فرمایا : \" نہیں ۔ \" اس نے کہا : تو پھر آپ کومجھ سے کون بچائے گا؟آپ صلی اللہ علیہ وسلم نےفرمایا : \" اللہ تعالیٰ مجھے تم سےمحفوظ فرمائے گا ۔ \" رسول اللہ صلی اللہ علیہ وسلم کے ساتھیوں نے اسے دھمکایا تو اس نے تلوار میان میں ڈال لی اور اسے لٹکایا ۔ اس کے بعد نماز کے لئے اذان کہی گئی ، آپ صلی اللہ علیہ وسلم نے ایک گروہ کو دو رکعت نماز پڑھائی ، پھر وہ گروہ پیچھے چلا گیااس کے بعد آپ صلی اللہ علیہ وسلم نے دوسرے گروہ کو دو رکعتیں پڑھائیں ۔ کہا اس طرح رسول اللہ صلی اللہ علیہ وسلم کی چار رکعتیں ہوئیں اور لوگوں کی دو دو رکعتیں ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے عفان نے بیان کیا,  ابان بن یزید نے کہا : ہم سے یحییٰ ابن کثیر نے ابو سلمہ ( بن عبدالرحمان ) سے حدیث بیان کی اور انھوں نے حضرت جابر رضی اللہ تعالیٰ عنہ سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا عَفَّانُ حَدَّثَنَا أَبَانُ بْنُ يَزِيدَ حَدَّثَنَا يَحْيَى بْنُ أَبِي كَثِيرٍ عَنْ أَبِي سَلَمَةَ عَنْ جَابِرٍ قَالَ أَقْبَلْنَا مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حَتَّى إِذَا كُنَّا بِذَاتِ الرِّقَاعِ قَالَ كُنَّا إِذَا أَتَيْنَا عَلَى شَجَرَةٍ ظَلِيلَةٍ تَرَكْنَاهَا لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ فَجَاءَ رَجُلٌ مِنْ الْمُشْرِكِينَ وَسَيْفُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مُعَلَّقٌ بِشَجَرَةٍ فَأَخَذَ سَيْفَ نَبِيِّ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَاخْتَرَطَهُ فَقَالَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَتَخَافُنِي قَالَ لَا قَالَ فَمَنْ يَمْنَعُكَ مِنِّي قَالَ اللَّهُ يَمْنَعُنِي مِنْكَ قَالَ فَتَهَدَّدَهُ أَصْحَابُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأَغْمَدَ السَّيْفَ وَعَلَّقَهُ قَالَ فَنُودِيَ بِالصَّلَاةِ فَصَلَّى بِطَائِفَةٍ رَكْعَتَيْنِ ثُمَّ تَأَخَّرُوا وَصَلَّى بِالطَّائِفَةِ الْأُخْرَى رَكْعَتَيْنِ قَالَ فَكَانَتْ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَرْبَعُ رَكَعَاتٍ وَلِلْقَوْمِ رَكْعَتَانِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "7",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 107,
+                    "chapterNumber": "7",
+                    "chapterEnglish": "The Book Of the Merit Of The Holy Quran",
+                    "chapterUrdu": "قرآن کے فضائل اور متعلقہ امور",
+                    "chapterArabic": "کتاب فَضَائِلِ الْقُرْآنِ وَمَا يَتَعَلَّقُ بِهِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 9201,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=368",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=366",
+                "label": "366",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=367",
+                "label": "367",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=368",
+                "label": "368",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=369",
+                "label": "369",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=370",
+                "label": "370",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=371",
+                "label": "371",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=372",
+                "label": "372",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=370",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=370",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=368",
+        "to": 9225,
+        "total": 40465
+    }
+}

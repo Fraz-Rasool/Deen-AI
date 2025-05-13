@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 514,
+        "data": [
+            {
+                "id": 13114,
+                "hadithNumber": "5551",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been reported on the authority of Jabir bin 'Abdullah رضی اللہ عنہ through another chain of transmitters.",
+                "hadithUrdu": "مجھ سے ہارون بن عبداللہ نے بیان کیا, حجاج بن محمد اور محمد بن بکر دونوں نے ابن جریج سے روایت کی ، انھوں نے کہا : مجھے ابو زبیر نے بتا یا کہ انھوں نے حضرت جا بر بن عبد اللہ رضی اللہ عنہ سے سنا ، کہہ رہے تھے : رسول اللہ صلی اللہ علیہ وسلم نے منع فر ما یا : سابقہ حدیث کے مانند ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنِي هَارُونُ بْنُ عَبْدِ اللَّهِ حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ ح و حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ أَخْبَرَنَا مُحَمَّدُ بْنُ بَكْرٍ كِلَاهُمَا عَنْ ابْنِ جُرَيْجٍ قَالَ أَخْبَرَنِي أَبُو الزُّبَيْرِ أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ يَقُولُ نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13115,
+                "hadithNumber": "5552",
+                "englishNarrator": "Jabir رضی اللہ عنہ reported:",
+                "hadithEnglish": "There happened to pass before Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) an ass the face of which had been cauterised, whereupon he said: Allah has cursed one who has cauterised it (on the face).",
+                "hadithUrdu": "نبی صلی اللہ علیہ وسلم کے قریب سے ایک گدھا گزرا جس کے منہ پر داغا گیا تھا آپ صلی اللہ علیہ وسلم نے فر ما یا : \" جس نے اسے ( منہ پر ) داغاہے اس پر اللہ کی لعنت ہو ۔",
+                "urduNarrator": "مجھ سے سلمہ بن شبیب نے بیان کیا، کہا ہم سے حسن بن اعین نے بیان کیا, معقل نے ابو ہریرہ سے انھوں نے حضرت جا بر رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "و حَدَّثَنِي سَلَمَةُ بْنُ شَبِيبٍ حَدَّثَنَا الْحَسَنُ بْنُ أَعْيَنَ حَدَّثَنَا مَعْقِلٌ عَنْ أَبِي الزُّبَيْرِ عَنْ جَابِرٍ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَرَّ عَلَيْهِ حِمَارٌ قَدْ وُسِمَ فِي وَجْهِهِ فَقَالَ لَعَنَ اللَّهُ الَّذِي وَسَمَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13116,
+                "hadithNumber": "5553",
+                "englishNarrator": "Ibn Abbas رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) saw an ass which had been cauterised on the face. He disapproved of it saying: By Allah, I do not cauterise (the animal) but on a part at a distance from the face, and commanded (for the cauterisation) of his ass and it was cauterised on the buttocks and he was the first to cauterise on the buttocks.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ایک گدھا دیکھا جس کے چہرے کو نشانی لگا نے کے لیے داغا گیا تھا آپ نے اس کو بہت برا خیال کیا ، انھوں نے ( حضرت ابن عباس رضی اللہ عنہ ) نے کہا : اللہ کی قسم !میں جو حصہ چہرے سے سب سے زیادہ دور ہو اس کے علاوہ کسی جگہ نشانی ثبت نہیں کر تا ۔ پھر انھوں نے اپنے گدھے کے بارے میں حکم دیا تو اس کی سرین ( کے وہ حصے جہاں دم ہلاتے وقت لگتی ہے ) پر نشانی ثبت کی گئی یہ پہلے آدمی ہیں جنھوں نے اس جگہ داغنے کا آغاز کیا ۔",
+                "urduNarrator": "ہم سے احمد بن عیسیٰ نے بیان کیا، کہا ہم سے ابن وہب نے بیان کیا، کہا کہ مجھ سے عمرو بن حارث نے بیان کیا، ان سے یزید بن ابی حبیب نے بیان کیا کہ نعیم ابا عبداللہ صاحب , حضرت ام سلمہ رضی اللہ عنہا کے آزاد کردہ غلا م ناعم ابو عبد اللہ نے حدیث بیان کی کہ انھوں نے حضرت ابن عباس رضی اللہ عنہ سے سنا ، وہ فرمارہے تھے",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ عِيسَى أَخْبَرَنَا ابْنُ وَهْبٍ أَخْبَرَنِي عَمْرُو بْنُ الْحَارِثِ عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ أَنَّ نَاعِمًا أَبَا عَبْدِ اللَّهِ مَوْلَى أُمِّ سَلَمَةَ حَدَّثَهُ أَنَّهُ سَمِعَ ابْنَ عَبَّاسٍ يَقُولُ وَرَأَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حِمَارًا مَوْسُومَ الْوَجْهِ فَأَنْكَرَ ذَلِكَ قَالَ فَوَاللَّهِ لَا أَسِمُهُ إِلَّا فِي أَقْصَى شَيْءٍ مِنْ الْوَجْهِ فَأَمَرَ بِحِمَارٍ لَهُ فَكُوِيَ فِي جَاعِرَتَيْهِ فَهُوَ أَوَّلُ مَنْ كَوَى الْجَاعِرَتَيْنِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13117,
+                "hadithNumber": "5554",
+                "englishNarrator": "Anas رضی اللہ عنہ reported:",
+                "hadithEnglish": "Umm Sulaim رضی اللہ عنہا gave birth to a child. She said to him: Anas رضی اللہ عنہ, see that nothing is given to this child until he is brought to Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) in the morning, so that he should chew some dates and touch his palate with it. I went to him in the morning and he was in the garden at that time having the mantle of Jauniyya over him and he was bus in cauterising (the camels) which had been brought to him (as spoils of war) in victory (over the enemy).",
+                "hadithUrdu": "جب حضرت ام سلیم رضی اللہ عنہا کے ہاں بچہ پیدا ہوا تو انھوں نے مجھ سے کہا : انس !اس بچے کا دھیان رکھو ، اس کے منہ میں کو ئی چیز نہ جا ئے یہاں تک کہ صبح تم اس کو نبی صلی اللہ علیہ وسلم کی خدمت میں لے جا ؤ آپ اسے گھٹی دیں گے ۔ حضرت انس رضی اللہ عنہ نے کہا : کہ میں صبح کے وقت آیا ، اس وقت آپ باغ میں تھے ، آپ کے جسم پر ایک کا لے رنگ کی بنوجون کی بنا ئی ہو ئی منقش اونی چادر تھی اور آپ ان سواری کے جانوروں ( کے جسم ) پرنشان ثبت فر ما رہے تھے جو فتح مکہ کے زمانے میں ( فتح مکہ کے فوراً بعد جنگ حنین کے مو قع پر ) آپ کو حاصل ہو ئے تھے ۔",
+                "urduNarrator": "ہم سے محمد بن المثنی نے بیان کیا، مجھ سے محمد بن ابی عدی نے بیان کیا، ابن عون کی سند سے,محمد ( ابن سیرین ) نے حضرت انس رضی اللہ عنہ سےروایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنِي مُحَمَّدُ بْنُ أَبِي عَدِيٍّ عَنْ ابْنِ عَوْنٍ عَنْ مُحَمَّدٍ عَنْ أَنَسٍ قَالَ لَمَّا وَلَدَتْ أُمُّ سُلَيْمٍ قَالَتْ لِي يَا أَنَسُ انْظُرْ هَذَا الْغُلَامَ فَلَا يُصِيبَنَّ شَيْئًا حَتَّى تَغْدُوَ بِهِ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُحَنِّكُهُ قَالَ فَغَدَوْتُ فَإِذَا هُوَ فِي الْحَائِطِ وَعَلَيْهِ خَمِيصَةٌ حُوَيْتِيَّةٌ وَهُوَ يَسِمُ الظَّهْرَ الَّذِي قَدِمَ عَلَيْهِ فِي الْفَتْحِ.",
+                "headingArabic": "جَوَازِ وَسْمِ الْحَيَوَانِ غَيْرِ الْآدَمِيِّ فِي غَيْرِ الْوَجْهِ وَنَدْبِهِ فِي نَعَمْ الزَّكَاةِ وَالْجِزْيَةِ",
+                "headingUrdu": "جانوروں کو کہیں بھی نشان زد کرنے کی اجازت مگر چہرے پر، اور زکوٰۃ اور جزیہ کے طور پر دیے جانے والے جانوروں کی صورت میں یہ مستحب ہے۔",
+                "headingEnglish": "The Permissibility Of Branding Animals Anywhere But On The Face, And This Is Recommended In The Case Of Animals Given As Zakat Ot Jizyah",
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13118,
+                "hadithNumber": "5555",
+                "englishNarrator": "Anas رضی اللہ عنہ reported:",
+                "hadithEnglish": "When his mother gave birth to a child they brought that child to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) so that he might chew some dates and touch his palate with them. and Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) was at that time in the fold busy in cauterising the animals Shu'ba said: So far as I know (he was cauterising) their ears.",
+                "hadithUrdu": "جب ان کی والد کے ہاں بچہ پیدا ہوا تو وہ لوگ اس بچے کو نبی صلی اللہ علیہ وسلم کے پاس لے گئے تا کہ آپ اسے گھٹی دیں اس وقت نبی صلی اللہ علیہ وسلم اونٹوں کے ایک باڑے میں تھے اور بکریوں کو نشان لگا رہے تھے شعبہ نے کہا : میرا غالب گمان یہ ہے کہ انھوں نے ( حضرت انس رضی اللہ عنہ ) نے کہا تھا ( آپ صلی اللہ علیہ وسلم ) ان ( بکریوں ) کے کا نوں پر نشان لگا رہے تھے ۔ ( اونٹوں کو لگانے کے بعد بکریوں کو بھی وہیں لا کر نشان لگا رہے تھے ۔ )",
+                "urduNarrator": "ہم سے محمد بن المثنی نے بیان کیا, محمد بن جعفر نے کہا : ہمیں شعبہ نے ہشام بن زید سے حدیث بیان کی ، انھوں نے کہا : میں نے حضرت انس رضی اللہ عنہ کو یہ حدیث بیان کرتے ہو ئے سنا ، کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ هِشَامِ بْنِ زَيْدٍ قَالَ سَمِعْتُ أَنَسًا يُحَدِّثُ أَنَّ أُمَّهُ حِينَ وَلَدَتْ انْطَلَقُوا بِالصَّبِيِّ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُحَنِّكُهُ قَالَ فَإِذَا النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي مِرْبَدٍ يَسِمُ غَنَمًا قَالَ شُعْبَةُ وَأَكْثَرُ عِلْمِي أَنَّهُ قَالَ فِي آذَانِهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13119,
+                "hadithNumber": "5556",
+                "englishNarrator": "Anas رضی اللہ عنہ reported:",
+                "hadithEnglish": "We went to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as he was in the fold and he was cauterising the animals of the flock and I think (he was cauterising them) on their ears.",
+                "hadithUrdu": "ہم رسول اللہ صلی اللہ علیہ وسلم کے پاس اونٹوں کے باڑے میں گئے ، اس وقت آپ بکریوں کو نشان لگا رہے تھے ( ، شعبہ نے ) کہا : میرا خیال ہے ( ہشام نے ) کہا : کہ ان ( بکریوں ) کے کانوں پر ( نشان لگا رہے تھے ۔ )",
+                "urduNarrator": "مجھ سے زہیر بن حرب نے بیان کیا, یحییٰ بن سعید نے شعبہ سے روایت کی ، کہا : مجھے ہشام بن زید نے حدیث بیان کی ، انھوں نے کہا : میں نے حضرت انس رضی اللہ عنہ سے سنا ، کہہ رہے تھے",
+                "hadithArabic": "و حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ عَنْ شُعْبَةَ حَدَّثَنِي هِشَامُ بْنُ زَيْدٍ قَالَ سَمِعْتُ أَنَسًا يَقُولُ دَخَلْنَا عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِرْبَدًا وَهُوَ يَسِمُ غَنَمًا قَالَ أَحْسِبُهُ قَالَ فِي آذَانِهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13120,
+                "hadithNumber": "5557",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Shu'ba through another chain of transmitters.",
+                "hadithUrdu": "مجھ سے یحییٰ بن حبیب نے بیان کیا, خالد بن حارث محمد ( ابن جعفر غندر ) یحییٰ ( بن سعید قطان ) اور عبد الرحمن ( بن مہدی ) سب نے شعبہ سے ، اسی سند سے ، اسی کے مانند حدیث بیان کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنِيهِ يَحْيَى بْنُ حَبِيبٍ حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ ح و حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا مُحَمَّدٌ وَيَحْيَى وَعَبْدُ الرَّحْمَنِ كُلُّهُمْ عَنْ شُعْبَةَ بِهَذَا الْإِسْنَادِ مِثْلَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13121,
+                "hadithNumber": "5558",
+                "englishNarrator": "Anas bin Malik رضی اللہ عنہ reported:",
+                "hadithEnglish": "I saw in the hand of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) an instrument for cauterisation and he was cauterising the caracia collected as Zakat.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم کے ہاتھ میں نشان لگا نے والا آلہ دیکھا ، آپ صدقے میں آئے ہو ئے اونٹوں پر نشان ثبت فر ما رہے تھے ۔",
+                "urduNarrator": "ہم سے ہارون بن معروف نے بیان کیا، کہا ہم سے ولید بن مسلم نے بیان کیا، اوزاعی کی سند سے, اسحٰق بن عبد اللہ بن ابی طلحہ نے حضرت انس رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا هَارُونُ بْنُ مَعْرُوفٍ حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ عَنْ الْأَوْزَاعِيِّ عَنْ إِسْحَقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ عَنْ أَنَسِ بْنِ مَالِكٍ قَالَ رَأَيْتُ فِي يَدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْمِيسَمَ وَهُوَ يَسِمُ إِبِلَ الصَّدَقَةِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13122,
+                "hadithNumber": "5559",
+                "englishNarrator": "Anas bin Malik رضی اللہ عنہ reported:",
+                "hadithEnglish": "I saw in the hand of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) an instrument for cauterisation and he was cauterising the caracia collected as Zakat.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے \" قزع \" سے منع فرمایا ، میں نے نافع سے پو چھا : قزع کیا ہے ؟انھوں نے کہا : بچے کے سر کے کچھ حصے کے بال مونڈدیے جا ئیں اور کچھ حصے کو چھوڑ دیا جا ئے ۔",
+                "urduNarrator": "مجھ سے زہیر بن حرب نے بیان کیا, یحییٰ بن سعید نے عبید اللہ سے روایت کی کہا : مجھے عمر بن نافع نے اپنے والد سے خبردی ۔ انھوں نے حضرت ابن عمر رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ حَدَّثَنِي يَحْيَى يَعْنِي ابْنَ سَعِيدٍ عَنْ عُبَيْدِ اللَّهِ أَخْبَرَنِي عُمَرُ بْنُ نَافِعٍ عَنْ أَبِيهِ عَنْ ابْنِ عُمَرَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ الْقَزَعِ قَالَ قُلْتُ لِنَافِعٍ وَمَا الْقَزَعُ قَالَ يُحْلَقُ بَعْضُ رَأْسِ الصَّبِيِّ وَيُتْرَكُ بَعْضٌ.",
+                "headingArabic": "كَرَاهَةِ الْقَزَعِ ‏.‏",
+                "headingUrdu": "سر کا کچھ حصہ مونڈنا اور کچھ حصہ چھوڑنا مکروہ ہے۔",
+                "headingEnglish": "It Is Disliked To Shave Part Of The Head And Leave Part",
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13123,
+                "hadithNumber": "5560",
+                "englishNarrator": null,
+                "hadithEnglish": "'Ubaidullah narrated it with this chain of narrators (a Hadith similar to no. 5559), and the explanation in the hadith of Abu 'Usman was attributed to 'Ubaidullah.",
+                "hadithUrdu": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا, ابو اسامہ اور عبد اللہ بن نمیر دونوں نے کہا : ہمیں عبید اللہ نے اسی سند کے ساتھ حدیث بیان کی ، اور انھوں نے ابو اسامہ کی حدیث میں ( قزع کی ) تفسیر کو عبید اللہ کا قول قراردیا ہے ۔ ( ان کے شاگردوں کے سامنے عبید اللہ نے یہ وضاحت نافع کی طرف منسوب کیے بغیر بیان کی ۔ )",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا أَبُو أُسَامَةَ ح و حَدَّثَنَا ابْنُ نُمَيْرٍ حَدَّثَنَا أَبِي قَالَا حَدَّثَنَا عُبَيْدُ اللَّهِ بِهَذَا الْإِسْنَادِ وَجَعَلَ التَّفْسِيرَ فِي حَدِيثِ أَبِي أُسَامَةَ مِنْ قَوْلِ عُبَيْدِ اللَّهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13124,
+                "hadithNumber": "5561",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of 'Umar bin Nafi' with the same chain of transmitters and Muhammad bin Muthanna as well as 'Umar bin Nafi have given the same exposition (of the word Qaza') in their narration.",
+                "hadithUrdu": "مجھ سے محمد بن المثنیٰ نے بیان کیا, عثمان بن عثمان غطفانی اور روح ( بن قاسم ) نے عمر بن نافع سے عبید اللہ کی سند سے اسی کے مانند حدیث بیان کی اور دونوں نے تفسیر ( قزع کی وضاحت ) کو حدیث کا لا حقہ بنا یا ۔ ( الگ سے بیان نہیں کیا ۔ )",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنِي مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنَا عُثْمَانُ بْنُ عُثْمَانَ الْغَطَفَانِيُّ حَدَّثَنَا عُمَرُ بْنُ نَافِعٍ ح و حَدَّثَنِي أُمَيَّةُ بْنُ بِسْطَامٍ حَدَّثَنَا يَزِيدُ يَعْنِي ابْنَ زُرَيْعٍ حَدَّثَنَا رَوْحٌ عَنْ عُمَرَ بْنِ نَافِعٍ بِإِسْنَادِ عُبَيْدِ اللَّهِ مِثْلَهُ وَأَلْحَقَا التَّفْسِيرَ فِي الْحَدِيثِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13125,
+                "hadithNumber": "5562",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Ibn 'Umar رضی اللہ عنہ through another chain of transmitters.",
+                "hadithUrdu": "مجھ سے محمد بن رافع، حجاج بن الشعر اور عبد بن حمید نے عبد الرزاق کی سند سے، معمر کی سند سے بیان کیا, ایوب اور عبد الرحمٰن سراج نے نافع سے ، انھوں نے ابن عمر رضی اللہ عنہ سے ، انھوں نے رسول اللہ صلی اللہ علیہ وسلم سے اسی مانند روایت کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ وَحَجَّاجُ بْنُ الشَّاعِرِ وَعَبْدُ بْنُ حُمَيْدٍ عَنْ عَبْدِ الرَّزَّاقِ عَنْ مَعْمَرٍ عَنْ أَيُّوبَ ح و حَدَّثَنَا أَبُو جَعْفَرٍ الدَّارِمِيُّ حَدَّثَنَا أَبُو النُّعْمَانِ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ عَنْ عَبْدِ الرَّحْمَنِ السَّرَّاجِ كُلُّهُمْ عَنْ نَافِعٍ عَنْ ابْنِ عُمَرَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِذَلِكَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13126,
+                "hadithNumber": "5563",
+                "englishNarrator": "Abu Sa'id Al-Khudri رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: Avoid sitting on the paths. They (his Companions) said: Allah's Messenger, there is no other help to it (but to sit there as we) hold our meetings and discuss matters there. Thereupon Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: If you have to sit at all, then fulfil the rights, of the path. They said: What are their rights? Thereupon he said: Keeping the eye downward (so that you may not stare at the women), refraining from doing some harm to the other and exchanging mutual greetings (saying as-Salamu 'Alaikum to one another) and commanding the good and forbidding the evil.",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا : \" راستوں میں بیٹھنے سے بچو ۔ \" لوگوں نے عرض کی : اللہ کے رسول اللہ صلی اللہ علیہ وسلم !ہمارے لیے اپنی مجلسوں میں بیٹھے بغیر چارہ نہیں وہی ہم ایک دوسرے سے گفتگو کرتے ہیں ۔ رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا : \" اگر تم بیٹھے بغیر نہیں رہ سکتے تو راستے کا ( جہاں مجلس ہے ) حق ادا کرو ۔ \" لوگوں نے پو چھا : راستے کا حق کیا ہے ؟ آپ نے فر ما یا : \" نگا ہیں جھکا کر رکھنا ( چلنے والوں کے لیے ) تکلیف کا سبب بننے والی چیزوں کو ہٹانا سلام کا جواب دینا ، اچھی بات کا حکم دینا اور برا ئی سے روکنا ۔ \"",
+                "urduNarrator": "مجھ سے سوید بن سعید نے بیان کیا، انہوں نے کہا: حفص بن میسرہ نے زید بن اسلم سے ، انھوں نے عطاء بن یسار سے ، انھوں نے حضرت ابو سعید خدری رضی اللہ عنہ سے ، انھوں نے رسول اللہ صلی اللہ علیہ وسلم سے روایت کی ، کہ",
+                "hadithArabic": "حَدَّثَنِي سُوَيْدُ بْنُ سَعِيدٍ حَدَّثَنِي حَفْصُ بْنُ مَيْسَرَةَ عَنْ زَيْدِ بْنِ أَسْلَمَ عَنْ عَطَاءِ بْنِ يَسَارٍ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِيَّاكُمْ وَالْجُلُوسَ فِي الطُّرُقَاتِ قَالُوا يَا رَسُولَ اللَّهِ مَا لَنَا بُدٌّ مِنْ مَجَالِسِنَا نَتَحَدَّثُ فِيهَا قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَإِذَا أَبَيْتُمْ إِلَّا الْمَجْلِسَ فَأَعْطُوا الطَّرِيقَ حَقَّهُ قَالُوا وَمَا حَقُّهُ قَالَ غَضُّ الْبَصَرِ وَكَفُّ الْأَذَى وَرَدُّ السَّلَامِ وَالْأَمْرُ بِالْمَعْرُوفِ وَالنَّهْيُ عَنْ الْمُنْكَرِ.",
+                "headingArabic": "النَّهْىِ عَنِ الْجُلُوسِ، فِي الطُّرُقَاتِ وَإِعْطَاءِ الطَّرِيقِ حَقَّهُ ‏.‏",
+                "headingUrdu": "گلی میں بیٹھنے کی ممانعت؛ اور گلی کو اس کے حقوق دینا",
+                "headingEnglish": "The Prohibition Of Sitting In The Street; And Giving The Street Its Rights",
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13127,
+                "hadithNumber": "5564",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been reported on the authority of Zaid bin Aslam with the same chain of transmitters.",
+                "hadithUrdu": "اور ہم سے یحییٰ بن یحییٰ نے بیان کیا, عبد العزیز بن محمد مدنی اور ہشام بن سعید ان دونوں نے زید بن اسلم سے اسی سند کے ساتھ اسی کے مانند روایت کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنَاه يَحْيَى بْنُ يَحْيَى أَخْبَرَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ الْمَدَنِيُّ ح و حَدَّثَنَاه مُحَمَّدُ بْنُ رَافِعٍ حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ أَخْبَرَنَا هِشَامٌ يَعْنِي ابْنَ سَعْدٍ كِلَاهُمَا عَنْ زَيْدِ بْنِ أَسْلَمَ بِهَذَا الْإِسْنَادِ مِثْلَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13128,
+                "hadithNumber": "5565",
+                "englishNarrator": "Asma' daughter of Abu Bakr رضی اللہ عنہا reported:",
+                "hadithEnglish": "A woman came to Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and said: I have a daughter who has been newly wedded. She had an attack of smallpox and thus her hair had fallen; should I add false hair to her head? Thereupon Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: Allah has cursed the woman who adds some false hair and the woman who asks for it.",
+                "hadithUrdu": "ایک عورت رسول اللہ صلی اللہ علیہ وسلم کے پاس آئی اور کہا : میری بیٹی دلہن ہے ۔ اسے خسرہ ( بعض روایات میں چیچک ) نکالاتھا تو اس کے بال جھڑ گئے ہیں کیا میں ( اس کے بالوں کے ساتھ ) دوسرے بال جوڑ دوں ؟تو آپ صلی اللہ علیہ وسلم نے فرما یا : \" اللہ نے بال جوڑنے والی اور جڑوانے والی ( دونوں ) پر لعنت کی ہے ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا, ابومعاویہ نے ہشام بن عروہ سے ، انھوں نے فاطمہ بنت منذر رضی اللہ عنہا سے ، انھوں نے حضرت اسماءبنت ابی بکر رضی اللہ عنہا روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى أَخْبَرَنَا أَبُو مُعَاوِيَةَ عَنْ هِشَامِ بْنِ عُرْوَةَ عَنْ فَاطِمَةَ بِنْتِ الْمُنْذِرِ عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ قَالَتْ جَاءَتْ امْرَأَةٌ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَتْ يَا رَسُولَ اللَّهِ إِنَّ لِي ابْنَةً عُرَيِّسًا أَصَابَتْهَا حَصْبَةٌ فَتَمَرَّقَ شَعْرُهَا أَفَأَصِلُهُ فَقَالَ لَعَنَ اللَّهُ الْوَاصِلَةَ وَالْمُسْتَوْصِلَةَ.",
+                "headingArabic": "تَحْرِيمِ فِعْلِ الْوَاصِلَةِ وَالْمُسْتَوْصِلَةِ وَالْوَاشِمَةِ وَالْمُسْتَوْشِمَةِ وَالنَّامِصَةِ وَالْمُتَنَمِّصَةِ وَالْمُتَفَلِّجَاتِ وَالْمُغَيِّرَاتِ خَلْقِ اللَّهِ",
+                "headingUrdu": "بالوں کو جوڑنا، ان کو جوڑنا، گودنا، گودنا، نمیسہ، المتنمسہ، دانت الگ کرنا، اور اللہ کی مخلوق کو تبدیل کرنا۔",
+                "headingEnglish": "The Prohibition Adding Hair Extensions, Having Them Added, Tattooing, Being Tattooed, An-Namisah, Al-Mutanamisah, Separating Teeth, And Changing The Creation Of Allah",
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13129,
+                "hadithNumber": "5566",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been transmitted on the authority of Shu'ba with a slight variation of wording.",
+                "hadithUrdu": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے عبدہ نے بیان کیا, عبداللہ بن نمیر ، عبدہ ، وکیع اور شعبہ سب نے ہشام بن عروہ سے اسی سند کے ساتھ ابو معاویہ کی حدیث کی طرح روایت بیان کی ، مگر وکیع اور شعبہ نے اپنی روایت میں \" \" ( اس کے بال چھدرے ہوگئے ہیں ) کے الفاظ کہے ۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَاه أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا عَبْدَةُ و حَدَّثَنَاه ابْنُ نُمَيْرٍ حَدَّثَنَا أَبِي وَعَبْدَةُ ح و حَدَّثَنَا أَبُو كُرَيْبٍ حَدَّثَنَا وَكِيعٌ ح و حَدَّثَنَا عَمْرٌو النَّاقِدُ أَخْبَرَنَا أَسْوَدُ بْنُ عَامِرٍ أَخْبَرَنَا شُعْبَةُ كُلُّهُمْ عَنْ هِشَامِ بْنِ عُرْوَةَ بِهَذَا الْإِسْنَادِ نَحْوَ حَدِيثِ أَبِي مُعَاوِيَةَ غَيْرَ أَنَّ وَكِيعًا وَشُعْبَةَ فِي حَدِيثِهِمَا فَتَمَرَّطَ شَعْرُهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13130,
+                "hadithNumber": "5567",
+                "englishNarrator": "Asma' daughter of Abu Bakr رضی اللہ عنہا reported:",
+                "hadithEnglish": "A woman came to Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and said: I have married my daughter (whose) hair of head have fallen. Her spouse likes them (the long hair). Allah's Messenger (may add false hair to her head? He forbade her to do this.",
+                "hadithUrdu": "ایک عورت نبی اکرم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئی اور عرض کی : میں نے اپنی بیٹی کی شادی کی ہے ، اس کے بال جھڑ گئے ہیں ، اس کا شوہر اس کو خوبصورت دیکھنا چاہتا ہے ، اللہ کے رسول صلی اللہ علیہ وسلم ! کیا میں اس کے بالوں کے ساتھ دوسرے بال جوڑ دوں؟تو آپ صلی اللہ علیہ وسلم نے اسے منع فرمادیا ۔",
+                "urduNarrator": "مجھ سے احمد بن سعید دارمی نے بیان کیا، کہا ہم سے حبان نے بیان کیا، ہم سے وہیب نے بیان کیا, منصور کی والدہ نے حضرت اسماء بنت ابی بکر رضی اللہ عنہا سے روایت کی کہ",
+                "hadithArabic": "و حَدَّثَنِي أَحْمَدُ بْنُ سَعِيدٍ الدَّارِمِيُّ أَخْبَرَنَا حَبَّانُ حَدَّثَنَا وُهَيْبٌ حَدَّثَنَا مَنْصُورٌ عَنْ أُمِّهِ عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ أَنَّ امْرَأَةً أَتَتْ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَتْ إِنِّي زَوَّجْتُ ابْنَتِي فَتَمَرَّقَ شَعَرُ رَأْسِهَا وَزَوْجُهَا يَسْتَحْسِنُهَا أَفَأَصِلُ يَا رَسُولَ اللَّهِ فَنَهَاهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13131,
+                "hadithNumber": "5568",
+                "englishNarrator": "A'isha رضی اللہ عنہا reported:",
+                "hadithEnglish": "A girl of the Ansar who had fallen ill and had lost the hair was married. They (her relatives) thought of adding false hair (to her head). so they asked Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) about it, whereupon he cursed the woman who adds false hair and the woman who asks for it.",
+                "hadithUrdu": "انصار کی ایک لڑکی نے شادی کی ، وہ بیمار ہوگئی تھی جس سے اس کے بال جھڑ گئے تھے ان لوگوں نے اس کے بالوں کے ساتھ بال جوڑنے کا ارادہ کیا تو انھوں نے رسول اللہ صلی اللہ علیہ وسلم سے اس کے متعلق سوا ل کیا ، آپ صلی اللہ علیہ وسلم نے بالوں میں جوڑ لگانے والی اور جوڑ لگوانے والی ( دونوں ) پر لعنت فرمائی ۔",
+                "urduNarrator": "ہم سے محمد بن المثنیٰ اور ابن بشار نے بیان کیا، انہوں نے کہا: ہم سے ابوداؤد نے بیان کیا، ہم سے شعبہ نے بیان کیا، اور ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، اور کہا: ان سے یحییٰ بن ابی بکر نے شعبہ کی سند سے بیان کیا, عمرو بن مر ہ نے کہا , میں نے حسن بن مسلم سے سنا ، وہ صفیہ بنت شیبہ سے حدیث بیان کررہے تھے ، انھوں نے حضرت عائشہ رضی اللہ عنہا سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى وَابْنُ بَشَّارٍ قَالَا حَدَّثَنَا أَبُو دَاوُدَ حَدَّثَنَا شُعْبَةُ ح و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَاللَّفْظُ لَهُ حَدَّثَنَا يَحْيَى بْنُ أَبِي بُكَيْرٍ عَنْ شُعْبَةَ عَنْ عَمْرِو بْنِ مُرَّةَ قَالَ سَمِعْتُ الْحَسَنَ بْنَ مُسْلِمٍ يُحَدِّثُ عَنْ صَفِيَّةَ بِنْتِ شَيْبَةَ عَنْ عَائِشَةَ أَنَّ جَارِيَةً مِنْ الْأَنْصَارِ تَزَوَّجَتْ وَأَنَّهَا مَرِضَتْ فَتَمَرَّطَ شَعَرُهَا فَأَرَادُوا أَنْ يَصِلُوهُ فَسَأَلُوا رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ ذَلِكَ فَلَعَنَ الْوَاصِلَةَ وَالْمُسْتَوْصِلَةَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13132,
+                "hadithNumber": "5569",
+                "englishNarrator": "A'isha رضی اللہ عنہا reported:",
+                "hadithEnglish": "A woman from the Ansar married her daughter who had lost her hair because of illness. She came to Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and said: Her husband wants that false hair should be aaded to her head. Thereupon Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: The woman who adds false hair has been cursed.",
+                "hadithUrdu": "انصار کی ایک عورت نے ا پنی بیٹی کی شادی کی ، وہ بیمار ہوگئی تو اس کے بال جھڑ گئے ، وہ نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئی اورعرض کی کہ اس کا خاوند اس کی رخصتی چاہتاہے ، کیا میں اس کے بالوں میں جوڑ لگادوں؟ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جوڑنے والیوں پر لعنت کی گئی ہے ۔ \"",
+                "urduNarrator": "مجھ سے زہیر بن حرب نے بیان کیا, زید بن حباب نے ابراہیم بن نافع سے روایت کی ، کہا : مجھے حسن بن مسلم بن یناق نے صفیہ بنت شیبہ سے خبر دی ، انھوں نے حضرت عائشہ رضی اللہ عنہا سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ عَنْ إِبْرَاهِيمَ بْنِ نَافِعٍ أَخْبَرَنِي الْحَسَنُ بْنُ مُسْلِمِ بْنِ يَنَّاقَ عَنْ صَفِيَّةَ بِنْتِ شَيْبَةَ عَنْ عَائِشَةَ أَنَّ امْرَأَةً مِنْ الْأَنْصَارِ زَوَّجَتْ ابْنَةً لَهَا فَاشْتَكَتْ فَتَسَاقَطَ شَعْرُهَا فَأَتَتْ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَتْ إِنَّ زَوْجَهَا يُرِيدُهَا أَفَأَصِلُ شَعَرَهَا فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لُعِنَ الْوَاصِلَاتُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13133,
+                "hadithNumber": "5570",
+                "englishNarrator": "It was narrated from Ibrahim bin Nafi with this chain of narrators, and he said:",
+                "hadithEnglish": "\"Those who add hair extensions are cursed.",
+                "hadithUrdu": "\" جوڑ لگانے والیوں پر لعنت کی گئی ہے ۔ \"",
+                "urduNarrator": "مجھ سے محمد بن حاتم نے بیان کیا, عبدالرحمن بن مہدی نے ابراہیم بن نافع سے اسی سند کے ساتھ حدیث بیان کی اور کہا",
+                "hadithArabic": "و حَدَّثَنِيهِ مُحَمَّدُ بْنُ حَاتِمٍ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ عَنْ إِبْرَاهِيمَ بْنِ نَافِعٍ بِهَذَا الْإِسْنَادِ وَقَالَ لُعِنَ الْمُوصِلَاتُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13134,
+                "hadithNumber": "5571",
+                "englishNarrator": "Ibn Umar reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) cursing the woman who added false hair and the woman who asked for tattoos.",
+                "hadithUrdu": "ر سول اللہ صلی اللہ علیہ وسلم نے جوڑ لگانے والی ، جوڑلگوانے والی ، گودنے والی اور گدوانے والی پر لعنت کی ۔",
+                "urduNarrator": "ہم سے محمد بن عبداللہ بن نمیر نے بیان کیا، کہا ہم سے ابوحنیف نے بیان کیا، کہا ہم سے زہیر بن حرب اور محمد بن المثنیٰ نے بیان کیا، اور یہ قول زہیر کا ہے، انہوں نے کہا کہ ہم سے انہوں نے بیان کیا۔ یحییٰ قطان ہے, عبیداللہ نے کہا ,  مجھے نافع نے حضرت ابن عمر رضی اللہ عنہ سے خبردی کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ حَدَّثَنَا أَبِي ح و حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ وَمُحَمَّدُ بْنُ الْمُثَنَّى وَاللَّفْظُ لِزُهَيْرٍ قَالَا حَدَّثَنَا يَحْيَى وَهُوَ الْقَطَّانُ عَنْ عُبَيْدِ اللَّهِ أَخْبَرَنِي نَافِعٌ عَنْ ابْنِ عُمَرَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَعَنَ الْوَاصِلَةَ وَالْمُسْتَوْصِلَةَ وَالْوَاشِمَةَ وَالْمُسْتَوْشِمَةَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13135,
+                "hadithNumber": "5572",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been reported on the authority of Abdullah رضی اللہ عنہ through another chain of transmitters.",
+                "hadithUrdu": "مجھ سے محمد بن عبداللہ بن بازی نے بیان کیا، ہم سے بشر بن المفضل نے بیان کیا, صخر بن جویریہ نے نافع سے ، انھوں نے حضرت عبداللہ بن عمر رضی اللہ عنہ سے ، انھوں نے نبی کریم صلی اللہ علیہ وسلم سے اسی کے مانند روایت کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنِيهِ مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ بَزِيعٍ حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ حَدَّثَنَا صَخْرُ بْنُ جُوَيْرِيَةَ عَنْ نَافِعٍ عَنْ عَبْدِ اللَّهِ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13136,
+                "hadithNumber": "5573",
+                "englishNarrator": "Abdullah رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah had cursed those women who tattooed and who have themselves tattooed, those who pluck hair from their faces and those who make spaces between their teeth for beautification changing what God has created. This news reached a woman of the tribe of Asad who was called Umm Ya'qub and she used to recite the Holy Qur'an. She came to him and said: What is this news that has reached me from you that you curse those women who tattooed and those women who have themselves tattooed, the women who pluck hair from their faces and who make spaces between their teeth for beautification changing what God has created? Thereupon 'Abdullah رضی اللہ عنہ said: Should I not curse one upon whom Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) has invoked curse and that is in the Book also. Thereupon that woman said: I read the Qur'an from cover to cover, but I did not find that in it. whereupon he said: If you had read (thoroughly) you would have definitely found this in that (as) Allah, the Exalted and Glorious, has said: What Allah's Messenger brings for you accept that and what he has forbidden you, refrain from that. That woman said: I find this thing in your wife even now. Thereupon he said: Go and see her. She reported: I went to the wife of 'Abdullah رضی اللہ عنہ but found nothing of this sort in her. She came back to him and said: I have not seen anything. whereupon he said: Had there been anything like it in her, I would have never slept with her in the bed.",
+                "hadithUrdu": "اللہ تعالیٰ نے لعنت کی گودنے والیوں اور گدوانے والیوں پر اور چہرے کے بال اکھیڑنے والیوں پر اور اکھڑوانے والیوں پر اور دانتوں کو خوبصورتی کے لئے کشادہ کرنے والیوں پر ( تاکہ خوبصورت و کمسن معلوم ہوں ) اور اللہ تعالیٰ کی خلقت ( پیدائش ) بدلنے والیوں پر ۔ پھر یہ خبر بنی اسد کی ایک عورت کو پہنچی جسے ام یعقوب کہا جاتا تھا اور وہ قرآن کی قاریہ تھی ، تو وہ سیدنا عبداللہ رضی اللہ عنہ کے پاس آئی اور بولی کہ مجھے کیا خبر پہنچی ہے کہ تم نے گودنے والیوں اور گدوانے والیوں پر اور منہ کے بال اکھاڑنے والیوں پر اور اکھڑوانے والیوں ، اور دانتوں کو کشادہ کرنے والیوں پر اور اللہ تعالیٰ کی خلقت کو بدلنے والیوں پر لعنت کی ہے؟ تو سیدنا عبداللہ رضی اللہ عنہ نے کہا کہ میں اس پر لعنت کیوں نہ کروں جس پر اللہ تعالیٰ کے رسول صلی اللہ علیہ وسلم نے لعنت کی اور یہ تو اللہ تعالیٰ کی کتاب میں موجود ہے؟ وہ عورت بولی کہ میں تو دو جلدوں میں جس قدر قرآن تھا ، پڑھ ڈالا لیکن مجھے نہیں ملا ، تو سیدنا عبداللہ رضی اللہ عنہ نے کہا کہ اگر تو نے پڑھا ہے تو اللہ تعالیٰ کا یہ فرمان تجھے ضرور ملا ہو گا کہ ’ جو کچھ رسول اللہ صلی اللہ علیہ وسلم تمہیں بتلائے اس کو تھامے رہو اور جس سے منع کرے اس سے باز رہو ‘ ( الحشر : 7 ) وہ عورت بولی کہ ان باتوں میں سے تو بعضی باتیں تمہاری عورت بھی کرتی ہے ۔ سیدنا عبداللہ رضی اللہ عنہ نے کہا کہ جا دیکھ ۔ وہ ان کی عورت کے پاس گئی تو کچھ نہ پایا ۔ پھر لوٹ کر آئی اور کہنے لگی کہ ان میں سے کوئی بات میں نے نہیں دیکھی ، تو سیدنا عبداللہ رضی اللہ عنہ نے کہا کہ اگر ایسا ہوتا تو ہم ان کے ساتھ مل کر نہ رہتے ۔",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم اور عثمان بن ابی شیبہ نے بیان کیا اور لفظ اسحاق کے لیے ہے, جریر نے منصور سے ، انھوں نے ابراہیم سے ، انھوں نے علقمہ سے ، انھوں نے حضرت عبداللہ ( بن مسعود رضی اللہ عنہ ) سے روایت کی ، کہا : کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَقُ بْنُ إِبْرَاهِيمَ وَعُثْمَانُ بْنُ أَبِي شَيْبَةَ وَاللَّفْظُ لِإِسْحَقَ أَخْبَرَنَا جَرِيرٌ عَنْ مَنْصُورٍ عَنْ إِبْرَاهِيمَ عَنْ عَلْقَمَةَ عَنْ عَبْدِ اللَّهِ قَالَ لَعَنَ اللَّهُ الْوَاشِمَاتِ وَالْمُسْتَوْشِمَاتِ وَالنَّامِصَاتِ وَالْمُتَنَمِّصَاتِ وَالْمُتَفَلِّجَاتِ لِلْحُسْنِ الْمُغَيِّرَاتِ خَلْقَ اللَّهِ قَالَ فَبَلَغَ ذَلِكَ امْرَأَةً مِنْ بَنِي أَسَدٍ يُقَالُ لَهَا أُمُّ يَعْقُوبَ وَكَانَتْ تَقْرَأُ الْقُرْآنَ فَأَتَتْهُ فَقَالَتْ مَا حَدِيثٌ بَلَغَنِي عَنْكَ أَنَّكَ لَعَنْتَ الْوَاشِمَاتِ وَالْمُسْتَوْشِمَاتِ وَالْمُتَنَمِّصَاتِ وَالْمُتَفَلِّجَاتِ لِلْحُسْنِ الْمُغَيِّرَاتِ خَلْقَ اللَّهِ فَقَالَ عَبْدُ اللَّهِ وَمَا لِي لَا أَلْعَنُ مَنْ لَعَنَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُوَ فِي كِتَابِ اللَّهِ فَقَالَتْ الْمَرْأَةُ لَقَدْ قَرَأْتُ مَا بَيْنَ لَوْحَيْ الْمُصْحَفِ فَمَا وَجَدْتُهُ فَقَالَ لَئِنْ كُنْتِ قَرَأْتِيهِ لَقَدْ وَجَدْتِيهِ قَالَ اللَّهُ عَزَّ وَجَلَّ وَمَا آتَاكُمْ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا فَقَالَتْ الْمَرْأَةُ فَإِنِّي أَرَى شَيْئًا مِنْ هَذَا عَلَى امْرَأَتِكَ الْآنَ قَالَ اذْهَبِي فَانْظُرِي قَالَ فَدَخَلَتْ عَلَى امْرَأَةِ عَبْدِ اللَّهِ فَلَمْ تَرَ شَيْئًا فَجَاءَتْ إِلَيْهِ فَقَالَتْ مَا رَأَيْتُ شَيْئًا فَقَالَ أَمَا لَوْ كَانَ ذَلِكَ لَمْ نُجَامِعْهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13137,
+                "hadithNumber": "5574",
+                "englishNarrator": null,
+                "hadithEnglish": "A hadith like that of Jarir (no. 5573) was narrated from Mansur with this chain of narrators.",
+                "hadithUrdu": "ہم سے محمد بن المثنیٰ اور ابن بشار نے بیان کیا، کہا: ہم سے عبدالرحمٰن نے جو ابن مہدی ہیں، بیان کیا, سفیان اور مفضل بن مہلہل دونوں نے منصور سے ، اسی سند میں جریر کی حدیث کے ہم معنی روایت بیان کی مگر سفیان کی حدیث میں  \" گودنے والیاں اور گدوانے والیاں \" ہے ، جبکہ مفضل کی روایت میں \" گودنے والیاں اور جن ( کے جسم ) پر گودا جاتا ہے \" کے الفاظ ہیں ۔ ( مقصود ایک ہی ہے ۔ )",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى وَابْنُ بَشَّارٍ قَالَا حَدَّثَنَا عَبْدُ الرَّحْمَنِ وَهُوَ ابْنُ مَهْدِيٍّ حَدَّثَنَا سُفْيَانُ ح و حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ حَدَّثَنَا يَحْيَى بْنُ آدَمَ حَدَّثَنَا مُفَضَّلٌ وَهُوَ ابْنُ مُهَلْهِلٍ كِلَاهُمَا عَنْ مَنْصُورٍ فِي هَذَا الْإِسْنَادِ بِمَعْنَى حَدِيثِ جَرِيرٍ غَيْرَ أَنَّ فِي حَدِيثِ سُفْيَانَ الْوَاشِمَاتِ وَالْمُسْتَوْشِمَاتِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13138,
+                "hadithNumber": "5575",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Mansur without the story pertaining to Umm Ya'qub رضی اللہ عنہا .",
+                "hadithUrdu": "اور ایک حدیث میں جو عورت اور مرد کے گودنے کے حق میں ہے، ہم سے ابوبکر بن ابی شیبہ، محمد بن المثنیٰ اور ابن بشار نے بیان کیا، انہوں نے کہا: ہم سے محمد نے بیان کیا۔ ابن جعفر , شعبہ نے منصور سے اسی سند کے ساتھ یہی حدیث رسول اللہ صلی اللہ علیہ وسلم سے ، ام یعقوب رضی اللہ عنہا کے پورے واقعے کے بغیر ہی بیان کی ہے ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وَفِي حَدِيثِ مُفَضَّلٍ الْوَاشِمَاتِ وَالْمَوْشُومَاتِ و حَدَّثَنَاه أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَمُحَمَّدُ بْنُ الْمُثَنَّى وَابْنُ بَشَّارٍ قَالُوا حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ مَنْصُورٍ بِهَذَا الْإِسْنَادِ الْحَدِيثَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مُجَرَّدًا عَنْ سَائِرِ الْقِصَّةِ مِنْ ذِكْرِ أُمِّ يَعْقُوبَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "38",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 138,
+                    "chapterNumber": "38",
+                    "chapterEnglish": "The Book of Clothes and Adornment",
+                    "chapterUrdu": "لباس اور زینت کے احکام",
+                    "chapterArabic": "كتاب اللِّبَاسِ وَالزِّينَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 12826,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=513",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=511",
+                "label": "511",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=512",
+                "label": "512",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=513",
+                "label": "513",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=514",
+                "label": "514",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=515",
+                "label": "515",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=516",
+                "label": "516",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=517",
+                "label": "517",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=515",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=515",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=513",
+        "to": 12850,
+        "total": 40465
+    }
+}

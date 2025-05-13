@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 59,
+        "data": [
+            {
+                "id": 1452,
+                "hadithNumber": "1512",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) has made Sadaqat-ul-Fitr obligatory, (and it was), either one Sa' of barley or one Sa' of dates (and its payment was obligatory) on young and old people, and on free men as well as on slaves.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ایک صاع جَو یا ایک صاع کھجور کا صدقہ فطر ، چھوٹے ، بڑے ، آزاد اور غلام سب پر فرض قرار دیا ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیا ‘ انہوں نے کہا کہ ہم سے یحییٰ قطان نے عبیداللہ عمری کے واسطے سے بیان کیا ‘ انہوں نے کہا کہ مجھ سے نافع نے بیان کیا کہ حضرت عبداللہ بن عمر رضی اللہ عنہما نے فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، قَالَ حَدَّثَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنه ـ قَالَ فَرَضَ رَسُولُ اللَّهِ صلى الله عليه وسلم صَدَقَةَ الْفِطْرِ صَاعًا مِنْ شَعِيرٍ، أَوْ صَاعًا مِنْ تَمْرٍ عَلَى الصَّغِيرِ وَالْكَبِيرِ وَالْحُرِّ وَالْمَمْلُوكِ‏.‏",
+                "headingArabic": "صَدَقَةِ الْفِطْرِ عَلَى الصَّغِيرِ وَالْكَبِيرِ",
+                "headingUrdu": "صدقہ فطر چھوٹے اور بوڑھے سب پر واجب ہے۔",
+                "headingEnglish": "Sadaqat-ul-Fitr is obligatory on the young and the old",
+                "chapterId": "25",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 25,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "Obligatory Charity Tax (Zakat)",
+                    "chapterUrdu": "زکوۃ کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الزكاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1453,
+                "hadithNumber": "1513",
+                "englishNarrator": "Narrated `Abdullah bin `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "Al-Fadl (his brother) was riding behind Allah's Messenger (ﷺ) and a woman from the tribe of Khath'am came and Al-Fadl started looking at her and she started looking at him. The Prophet (ﷺ) turned Al-Fadl's face to the other side. The woman said, \"O Allah's Messenger (ﷺ)! The obligation of Hajj enjoined by Allah on His devotees has become due on my father and he is old and weak, and he cannot sit firm on the Mount; may I perform Hajj on his behalf?\" The Prophet (ﷺ) replied, \"Yes, you may.\" That happened during the Hajj-al-Wida (of the Prophet (ﷺ) ).",
+                "hadithUrdu": "فضل بن عباس ( حجۃ الوداع میں ) رسول اللہ صلی اللہ علیہ وسلم کے ساتھ سواری کے پیچھے بیٹھے ہوئے تھے کہ قبیلہ خثعم کی ایک خوبصورت عورت آئی ۔ فضل اس کو دیکھنے لگے وہ بھی انہیں دیکھ رہی تھی ۔ لیکن رسول اللہ صلی اللہ علیہ وسلم فضل رضی اللہ عنہ کا چہرہ بار بار دوسری طرف موڑ دینا چاہتے تھے ۔ اس عورت نے کہا یا رسول اللہ ! اللہ کا فریضہ حج میرے والد کے لیے ادا کرنا ضروری ہو گیا ہے ۔ لیکن وہ بہت بوڑھے ہیں اونٹنی پر بیٹھ نہیں سکتے ۔ کیا میں ان کی طرف سے حج ( بدل ) کر سکتی ہوں ؟ آپ صلی اللہ علیہ وسلم نے فرمایا کہ ہاں ۔ یہ حجتہ الوداع کا واقعہ تھا ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ، انہوں نے کہا کہ ہمیں امام مالک نے خبر دی انہیں ابن شہاب نے ، انہیں سلیمان بن یسارنے ، اور ان سے عبداللہ بن عباس رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ كَانَ الْفَضْلُ رَدِيفَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَجَاءَتِ امْرَأَةٌ مِنْ خَثْعَمَ، فَجَعَلَ الْفَضْلُ يَنْظُرُ إِلَيْهَا وَتَنْظُرُ إِلَيْهِ، وَجَعَلَ النَّبِيُّ صلى الله عليه وسلم يَصْرِفُ وَجْهَ الْفَضْلِ إِلَى الشِّقِّ الآخَرِ فَقَالَتْ يَا رَسُولَ اللَّهِ إِنَّ فَرِيضَةَ اللَّهِ عَلَى عِبَادِهِ فِي الْحَجِّ أَدْرَكَتْ أَبِي شَيْخًا كَبِيرًا، لاَ يَثْبُتُ عَلَى الرَّاحِلَةِ، أَفَأَحُجُّ عَنْهُ قَالَ ‏ \"‏ نَعَمْ ‏\"‏‏.‏ وَذَلِكَ فِي حَجَّةِ الْوَدَاعِ‏.‏",
+                "headingArabic": "وُجُوبِ الْحَجِّ وَفَضْلِهِ",
+                "headingUrdu": "حج کرنا فرض ہے۔",
+                "headingEnglish": "It is obligatory to perform Hajj",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1454,
+                "hadithNumber": "1514",
+                "englishNarrator": "Narrated Ibn `Umar:",
+                "hadithEnglish": "I saw that Allah's Messenger (ﷺ) used to ride on his Mount at Dhul Hulaifa and used to start saying, \"Labbaik\" when the Mount stood upright.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم کو ذی الحلیفہ میں دیکھا کہ اپنی سواری پر چڑھ رہے ہیں ۔ پھر جب وہ سیدھی کھڑی ہوئی تو آپ صلی اللہ علیہ وسلم نے لبیک کہا ۔",
+                "urduNarrator": "ہم سے احمد بن عیسیٰ نے بیان کیا ، کہا کہ ہمیں عبداللہ بن وہب نے خبر دی ، انہیں یونس نے ، انہیں بن شہاب نے کہ سالم بن عبداللہ بن عمر رضی اللہ عنہما نے انہیں خبر دی ، ان سے عبداللہ بن عمر نے فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ عِيسَى، حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، أَنَّ سَالِمَ بْنَ عَبْدِ اللَّهِ، أَخْبَرَهُ أَنَّ ابْنَ عُمَرَ ـ رضى الله عنهما ـ قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَرْكَبُ رَاحِلَتَهُ بِذِي الْحُلَيْفَةِ ثُمَّ يُهِلُّ حَتَّى تَسْتَوِيَ بِهِ قَائِمَةً‏.‏",
+                "headingArabic": "قَوْلِ اللَّهِ تَعَالَى: {يَأْتُوكَ رِجَالاً وَعَلَى كُلِّ ضَامِرٍ يَأْتِينَ مِنْ كُلِّ فَجٍّ عَمِيقٍ لِيَشْهَدُوا مَنَافِعَ لَهُمْ}",
+                "headingUrdu": "ارشادِ باری تعالیٰ ہے: ’’تمام لوگوں کو حج کے لیے بلاؤ، وہ تمہارے پاس پیدل اور ہر دبلے پتلے اونٹ پر ہر دور دراز راستے سے آئیں گے، تاکہ وہ ان کے لیے ذخیرہ اندوزی کے فائدے حاصل کریں۔ \"",
+                "headingEnglish": "The Statement of Allah Most High: \"Call ˹all˺ people to the pilgrimage.1 They will come to you on foot and on every lean camel from every distant path, so they may obtain the benefits ˹in store˺ for them, ...\"",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1455,
+                "hadithNumber": "1515",
+                "englishNarrator": "Narrated Jabir bin `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Apostle used to wear Ehram (pilgrim Garb) at Dhul Hulaifa when his mount stood aright. This hadith of Ibrahim bin Musa is also narrated from Ibn Abbas and Anas.",
+                "hadithUrdu": "رسول صلی اللہ علیہ وسلم نے ذوالحلیفہ سے احرام باندھا جب سواری آپ صلی اللہ علیہ وسلم کو لے کر سیدھی کھڑی ہو گئی ۔ ابراہیم بن موسیٰ کی یہ حدیث ابن عباس اور انس رضی اللہ عنہم سے بھی مروی ہے ۔",
+                "urduNarrator": "ہم سے ابراہیم بن موسیٰ نے بیان کیا ، کہا کہ ہمیں ولید بن مسلم نے خبر دی ، کہا کہ ہم سے امام اوزاعی نے بیان کیا ، انہوں نے عطاء بن ابی رباح سے سنا ، وہ جابر بن عبداللہ انصاری رضی اللہ عنہما سے بیان کرتے تھے کہ",
+                "hadithArabic": "حَدَّثَنَا إِبْرَاهِيمُ، أَخْبَرَنَا الْوَلِيدُ، حَدَّثَنَا الأَوْزَاعِيُّ، سَمِعَ عَطَاءً، يُحَدِّثُ عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ أَنَّ إِهْلاَلَ رَسُولِ اللَّهِ صلى الله عليه وسلم مِنْ ذِي الْحُلَيْفَةِ حِينَ اسْتَوَتْ بِهِ رَاحِلَتُهُ‏.‏ رَوَاهُ أَنَسٌ وَابْنُ عَبَّاسٍ رضى الله عنهم‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1456,
+                "hadithNumber": "1516",
+                "englishNarrator": "Narrated 'Aishah رضی اللہ عنہا :",
+                "hadithEnglish": "The Prophet (ﷺ) sent my brother, 'Abdur Rahman with me to Tan'im for the 'Umra, and he made me ride on the packsaddle (of a camel). 'Umar رضی اللہ عنہ said, \"Be ready to travel for Hajj as it (Hajj) is one of the two kind of Jihad\".",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے ان کے ساتھ ان کے بھائی عبدالرحمٰن کو بھیجا اور انہوں نے عائشہ رضی اللہ عنہا کو تنعیم سے عمرہ کرایا اور پالان کی پچھلی لکڑی پر ان کو بٹھا لیا ۔ حضرت عمر رضی اللہ عنہ نے فرمایا کہ حج کے لیے پالانیں باندھو کیونکہ یہ بھی ایک جہاد ہے ۔",
+                "urduNarrator": "اور ابان نے کہا ہم سے مالک بن دینار نے بیان کیا ، ان سے قاسم بن محمد نے اور ان سے عائشہ رضی اللہ عنہا نے کہ",
+                "hadithArabic": "وَقَالَ أَبَانُ حَدَّثَنَا مَالِكُ بْنُ دِينَارٍ، عَنِ الْقَاسِمِ بْنِ مُحَمَّدٍ، عَنْ عَائِشَةَ، رضى الله عنها أَنَّ النَّبِيَّ صلى الله عليه وسلم بَعَثَ مَعَهَا أَخَاهَا عَبْدَ الرَّحْمَنِ، فَأَعْمَرَهَا مِنَ التَّنْعِيمِ، وَحَمَلَهَا عَلَى قَتَبٍ‏.‏ وَقَالَ عُمَرُ ـ رضى الله عنه ـ شُدُّوا الرِّحَالَ فِي الْحَجِّ، فَإِنَّهُ أَحَدُ الْجِهَادَيْنِ‏.‏",
+                "headingArabic": "الْحَجِّ عَلَى الرَّحْلِ",
+                "headingUrdu": "(اونٹ کی) کاٹھی پر حج کے لیے جانا",
+                "headingEnglish": "To go for Hajj on a pack-saddle (of a camel)",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1457,
+                "hadithNumber": "1517",
+                "englishNarrator": "Narrated Thumama bin `Abdullah bin Anas:",
+                "hadithEnglish": "Hadrat Anas رضی اللہ عنہ  performed the Hajj on a packsaddle and he was not a miser. Anas said, \"Allah's Messenger (ﷺ) performed Hajj on a packsaddle and the same Mount was carrying his baggage too.\"",
+                "hadithUrdu": "حضرت انس رضی اللہ عنہ ایک پالان پر حج کے لیے تشریف لے گئے اور آپ بخیل نہیں تھے ۔ آپ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم بھی پالان پر حج کے لیے تشریف لے گئے تھے ، اسی پر آپ کا اسباب بھی لدا ہوا تھا ۔",
+                "urduNarrator": "محمد بن ابی بکر نے بیان کیا کہ ہم سے زید بن زریع نے بیان کیا ، کہا کہ ہم سے عزرہ بن ثابت نے بیان کیا ، ان سے ثمامہ بن عبداللہ بن انس نے بیان کیا کہ",
+                "hadithArabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ أَبِي بَكْرٍ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا عَزْرَةُ بْنُ ثَابِتٍ، عَنْ ثُمَامَةَ بْنِ عَبْدِ اللَّهِ بْنِ أَنَسٍ، قَالَ حَجَّ أَنَسٌ عَلَى رَحْلٍ، وَلَمْ يَكُنْ شَحِيحًا، وَحَدَّثَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم حَجَّ عَلَى رَحْلٍ وَكَانَتْ زَامِلَتَهُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1458,
+                "hadithNumber": "1518",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "\"O Allah's Messenger (ﷺ)! You performed `Umra but I did not.\" He said, \"O `Abdur-Rahman! Go along with your sister and let her perform `Umra from Tan`im.\" `Abdur-Rahman made her ride over the packsaddle of a she-camel and she performed `Umra.",
+                "hadithUrdu": "یا رسول اللہ ! آپ لوگوں نے تو عمرہ کر لیا لیکن میں نہ کر سکی ۔ اس لیے آنحضور صلی اللہ علیہ وسلم نے فرمایا عبدالرحمٰن اپنی بہن کو لے جا اور انہیں تنعیم سے عمرہ کرا لا ۔ چنانچہ انہوں نے عائشہ رضی اللہ عنہا کو اپنے اونٹ کے پیچھے بٹھا لیا اور عائشہ رضی اللہ عنہا نے عمرہ ادا کیا ۔",
+                "urduNarrator": "ہم سے عمرو بن علی فلاس نے بیان کیا ، کہا کہ ہم سے ابوعاصم نے بیان کیا ، کہا کہ ہم سے ایمن بن نابل نے بیان کیا ۔ کہا کہ ہم سے قاسم بن محمدنے بیان کیا اور ان سے عائشہ رضی اللہ عنہا نے کہ انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا عَمْرُو بْنُ عَلِيٍّ، حَدَّثَنَا أَبُو عَاصِمٍ، حَدَّثَنَا أَيْمَنُ بْنُ نَابِلٍ، حَدَّثَنَا الْقَاسِمُ بْنُ مُحَمَّدٍ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّهَا قَالَتْ يَا رَسُولَ اللَّهِ، اعْتَمَرْتُمْ وَلَمْ أَعْتَمِرْ‏.‏ فَقَالَ ‏ \"‏ يَا عَبْدَ الرَّحْمَنِ اذْهَبْ بِأُخْتِكَ فَأَعْمِرْهَا مِنَ التَّنْعِيمِ ‏\"‏‏.‏ فَأَحْقَبَهَا عَلَى نَاقَةٍ فَاعْتَمَرَتْ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1459,
+                "hadithNumber": "1519",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) was asked, \"Which is the best deed?\" He said, \"To believe in Allah and His Apostle.\" He was then asked, \"Which is the next (in goodness)?\" He said, \"To participate in Jihad in Allah's Cause.\" He was then asked, \"Which is the next?\" He said, \"To perform Hajj-Mabrur. \"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم سے کسی نے پوچھا کہ کون سا کام بہتر ہے ؟ آپ صلی اللہ علیہ وسلم نے فرمایا کہ اللہ اور اس کے رسول پر ایمان لانا ۔ پوچھا گیا کہ پھر اس کے بعد ؟ آپ صلی اللہ علیہ وسلم نے فرمایا کہ اللہ کے راستے میں جہاد کرنا ۔ پھر پوچھا گیا کہ پھر اس کے بعد ؟ آپ صلی اللہ علیہ وسلم نے فرمایا کہ حج مبرور ۔",
+                "urduNarrator": "ہم سے عبدالعزیز بن عبداللہ نے بیان کیا ، انہوں نے کہا کہ ہم سے ابراہیم بن سعد نے بیان کیا ، انہوں نے کہا کہ ہم سے زہری نے بیان کیا ، ان سے سعید بن مسیب نے بیان کیا اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ سُئِلَ النَّبِيُّ صلى الله عليه وسلم أَىُّ الأَعْمَالِ أَفْضَلُ قَالَ ‏\"‏ إِيمَانٌ بِاللَّهِ وَرَسُولِهِ ‏\"‏‏.‏ قِيلَ ثُمَّ مَاذَا قَالَ ‏\"‏ جِهَادٌ فِي سَبِيلِ اللَّهِ ‏\"‏‏.‏ قِيلَ ثُمَّ مَاذَا قَالَ ‏\"‏ حَجٌّ مَبْرُورٌ ‏\"‏‏.‏",
+                "headingArabic": "فَضْلِ الْحَجِّ الْمَبْرُورِ",
+                "headingUrdu": "الحاج المبرور کی فضیلت",
+                "headingEnglish": "The superiority of Al-Hajj-ul-Mabrur",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1460,
+                "hadithNumber": "1520",
+                "englishNarrator": "Narrated `Aisha (the mother of the faithful believers):",
+                "hadithEnglish": "I said, \"O Allah's Messenger (ﷺ)! We consider Jihad as the best deed.\" The Prophet (ﷺ) said, \"The best Jihad (for women) is Hajj Mabrur. \"",
+                "hadithUrdu": "انہوں نے پوچھا یا رسول اللہ ! ہم دیکھتے ہیں کہ جہاد سب نیک کاموں سے بڑھ کر ہے ۔ پھر ہم بھی کیوں نہ جہاد کریں ؟ حضور صلی اللہ علیہ وسلم نے فرمایا کہ نہیں بلکہ سب سے افضل جہاد حج ہے جو مبرور ہو ۔",
+                "urduNarrator": "ہم سے عبدالرحمٰن بن مبارک نے بیان کیا ، انہوں نے کہا کہ ہم سے خالد بن عبداللہ طحان نے بیان کیا ، انہوں نے کہا کہ ہمیں حبیب بن ابی عمرہ نے خبر دی ، انہیں عائشہ بنت طلحہ نے اور انہیں ام المؤمنین حضرت عائشہ صدیقہ رضی اللہ عنہا نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ الْمُبَارَكِ، حَدَّثَنَا خَالِدٌ، أَخْبَرَنَا حَبِيبُ بْنُ أَبِي عَمْرَةَ، عَنْ عَائِشَةَ بِنْتِ طَلْحَةَ، عَنْ عَائِشَةَ أُمِّ الْمُؤْمِنِينَ ـ رضى الله عنها ـ أَنَّهَا قَالَتْ يَا رَسُولَ اللَّهِ، نَرَى الْجِهَادَ أَفْضَلَ الْعَمَلِ، أَفَلاَ نُجَاهِدُ قَالَ ‏ \"‏ لاَ، لَكِنَّ أَفْضَلَ الْجِهَادِ حَجٌّ مَبْرُورٌ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1461,
+                "hadithNumber": "1521",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Whoever performs Hajj for Allah's pleasure and does not have sexual relations with his wife, and does not do evil or sins then he will return (after Hajj free from all sins) as if he were born anew.\"",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا جس شخص نے اللہ کے لیے اس شان کے ساتھ حج کیا کہ نہ کوئی فحش بات ہوئی اور نہ کوئی گناہ تو وہ اس دن کی طرح واپس ہو گا جیسے اس کی ماں نے اسے جنا تھا ۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا ، کہا کہ ہم سے شعبہ نے بیان کیا ، کہا کہ ہم سے سیارابوالحکم نے بیان کیا ، کہا کہ میں نے ابو حزم سے سنا ، انہوں نے بیان کیا کہ میں نے ابوہریرہ رضی اللہ عنہ سے سنا اور انہوں نے نبی کریم صلی اللہ علیہ وسلم سے سنا کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا سَيَّارٌ أَبُو الْحَكَمِ، قَالَ سَمِعْتُ أَبَا حَازِمٍ، قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ مَنْ حَجَّ لِلَّهِ فَلَمْ يَرْفُثْ وَلَمْ يَفْسُقْ رَجَعَ كَيَوْمِ وَلَدَتْهُ أُمُّهُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1462,
+                "hadithNumber": "1522",
+                "englishNarrator": "Narrated Zaid bin Jubair:",
+                "hadithEnglish": "I went to visit `Abdullah bin `Umar رضی اللہ عنہما at his house which contained many tents made of cotton cloth and these were encircled with Suradik (part of the tent). I asked him from where, should one assume Ihram for Umra. He said, \"Allah's Messenger (ﷺ) had fixed as Miqat (singular of Mawaqit) Qarn for the people of Najd, Dhul-Hulaifa for the people of Medina, and Al-Juhfa for the people of Sham.\"",
+                "hadithUrdu": "وہ عبداللہ بن عمر رضی اللہ عنہما کی قیام گاہ پر حاضر ہوئے ۔ وہاں قنات کے ساتھ شامیانہ لگا ہوا تھا ( زید بن جبیر نے کہا کہ ) میں نے پوچھا کہ کس جگہ سے عمرہ کا احرام باندھنا چاہئے ۔ عبداللہ رضی اللہ عنہ نے جواب دیا کہ رسول صلی اللہ علیہ وسلم نے نجد والوں کے لیے قرن ، مدینہ والوں کے لیے ذولحلیفہ اور شام والوں کے لیے حجفہ مقرر کیا ہے ۔",
+                "urduNarrator": "ہم سے مالک بن اسماعیل نے بیان کیا ، انہوں نے کہا کہ ہم سے زہیر نے بیان کیا ، انہوں نے کہا کہ مجھ سے زید بن جبیر نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مَالِكُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا زُهَيْرٌ، قَالَ حَدَّثَنِي زَيْدُ بْنُ جُبَيْرٍ، أَنَّهُ أَتَى عَبْدَ اللَّهِ بْنَ عُمَرَ ـ رضى الله عنهما ـ فِي مَنْزِلِهِ وَلَهُ فُسْطَاطٌ وَسُرَادِقٌ، فَسَأَلْتُهُ مِنْ أَيْنَ يَجُوزُ أَنْ أَعْتَمِرَ قَالَ فَرَضَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم لأَهْلِ نَجْدٍ قَرْنًا، وَلأَهْلِ الْمَدِينَةِ ذَا الْحُلَيْفَةِ، وَلأَهْلِ الشَّأْمِ الْجُحْفَةَ‏.‏",
+                "headingArabic": "فَرْضِ مَوَاقِيتِ الْحَجِّ وَالْعُمْرَةِ",
+                "headingUrdu": "حج کے لیے مواقیت کی حد بندی",
+                "headingEnglish": "The demarcation of Mawaqit for Hajj",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1463,
+                "hadithNumber": "1523",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "The people of Yemen used to come for Hajj and used not to bring enough provisions with them and used to say that they depend on Allah. On their arrival in Medina they used to beg the people, and so Allah revealed, \"And take a provision (with you) for the journey, but the best provision is the fear of Allah.\" (2.197). Ibn-e-Oyainah reported it from Amr and he from Ikrimah autonomously.",
+                "hadithUrdu": "یمن کے لوگ راستہ کا خرچ ساتھ لائے بغیر حج کے لیے آ جاتے تھے ۔ کہتے تو یہ تھے کہ ہم توکل کرتے ہیں لیکن جب مکہ آتے تو لوگوں سے مانگنے لگتے ۔ اس پر اللہ تعالیٰ نے یہ آیت نازل فرمائی ” اور توشہ لے لیا کرو کہ سب سے بہتر شہ تو تقویٰ ہی ہے ۔ “ اس کو ابن عیینہ نے عمرو سے بواسطہ عکرمہ مرسلاً نقل کیا ہے ۔",
+                "urduNarrator": "ہم سے یحییٰ بن بشر نے بیان کیا ، انہوں نے کہا کہ ہم سے شبابہ بن سوار نے بیان کیا ، ان سے ورقاء بن عمرو نے ، ان سے عمرو بن دینار نے ، ان سے عکرمہ نے بیان کیا اور ان سے حضرت عبداللہ بن عباس رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ بِشْرٍ، حَدَّثَنَا شَبَابَةُ، عَنْ وَرْقَاءَ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ كَانَ أَهْلُ الْيَمَنِ يَحُجُّونَ وَلاَ يَتَزَوَّدُونَ وَيَقُولُونَ نَحْنُ الْمُتَوَكِّلُونَ، فَإِذَا قَدِمُوا مَكَّةَ سَأَلُوا النَّاسَ، فَأَنْزَلَ اللَّهُ تَعَالَى ‏{‏وَتَزَوَّدُوا فَإِنَّ خَيْرَ الزَّادِ التَّقْوَى‏}‏‏.‏ رَوَاهُ ابْنُ عُيَيْنَةَ عَنْ عَمْرٍو عَنْ عِكْرِمَةَ مُرْسَلاً‏.‏",
+                "headingArabic": "قَوْلِ اللَّهِ تَعَالَى: {وَتَزَوَّدُوا فَإِنَّ خَيْرَ الزَّادِ التَّقْوَى}",
+                "headingUrdu": "ارشاد باری تعالیٰ ہے: ’’اور سفر کے لیے ضروری سامان لے لو، یقیناً بہترین رزق نیکی ہے۔‘‘ (2:197)",
+                "headingEnglish": "The Statement of Allah Most High: \"And take ˹necessary˺ provisions ˹for the journey˺—surely the best provision is righteousness.\" (2:197)",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1464,
+                "hadithNumber": "1524",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) made Dhul-Huiaifa as the Miqat for the people of Medina; Al-Juhfa for the people of Sham; Qarn-al-Manazil for the people of Najd; and Yalamlam for the people of Yemen; and these Mawaqit are for the people at those very places, and besides them for those who come thorough those places with the intention of performing Hajj and `Umra; and whoever is living within these boundaries can assume lhram from the place he starts, and the people of Mecca can assume Ihram from Mecca.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے مدینہ والوں کے احرام کے لیے ذوالحلیفہ ، شام والوں کے لیے حجفہ ، نجد والوں کے قرن منزل ، یمن والوں کے یلملم متعین کیا ۔ یہاں سے ان مقامات والے بھی احرام باندھیں اور ان کے علاوہ وہ لوگ بھی جو ان راستوں سے آئیں اور حج یا عمرہ کا ارادہ رکھتے ہوں ۔ لیکن جن کا قیام میقات اور مکہ کے درمیان ہے تو وہ احرام اسی جگہ سے باندھیں جہاں سے انہیں سفر شروع کرنا ہے ۔ یہاں تک کہ مکہ کے لوگ مکہ ہی سے احرام باندھیں ۔",
+                "urduNarrator": "ہم سے موسیٰ بن اسماعیل نے بیان کیا ، کہا کہ ہم سے وہیب نے بیان کیا ، کہا کہ ہم سے عبداللہ بن طاؤس نے بیان کیا ، ان سے ان کے باپ نے اور ان سے ابن عباس رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا ابْنُ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ إِنَّ النَّبِيَّ صلى الله عليه وسلم وَقَّتَ لأَهْلِ الْمَدِينَةِ ذَا الْحُلَيْفَةِ، وَلأَهْلِ الشَّأْمِ الْجُحْفَةَ، وَلأَهْلِ نَجْدٍ قَرْنَ الْمَنَازِلِ، وَلأَهْلِ الْيَمَنِ يَلَمْلَمَ، هُنَّ لَهُنَّ وَلِمَنْ أَتَى عَلَيْهِنَّ مِنْ غَيْرِهِنَّ، مِمَّنْ أَرَادَ الْحَجَّ وَالْعُمْرَةَ، وَمَنْ كَانَ دُونَ ذَلِكَ فَمِنْ حَيْثُ أَنْشَأَ، حَتَّى أَهْلُ مَكَّةَ مِنْ مَكَّةَ‏.‏",
+                "headingArabic": "مُهَلِّ أَهْلِ مَكَّةَ لِلْحَجِّ وَالْعُمْرَةِ",
+                "headingUrdu": "اہل مکہ کے لیے حج اور عمرہ کا میقات",
+                "headingEnglish": "Miqat of Hajj and 'Umra for the people of Makkah",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1465,
+                "hadithNumber": "1525",
+                "englishNarrator": "Narrated  `Abdullah bin `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "\"Allah's Messenger (ﷺ) said, 'The people of Medina should assume lhram from Dhul-Hulaifa; the people of Sham from Al-Juhfa; and the people of Najd from Qarn.\" And `Abdullah added, \"I was informed that Allah's Messenger (ﷺ) had said, 'The people of Yemen should assume Ihram from Yalamlam.' \"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا مدینہ کے لوگ ذولحلیفہ سے احرام باندھیں ، شام کے لوگ حجفہ سے اور نجد کے لوگ قرن منازل سے ۔ عبداللہ نے کہا کہ مجھے معلوم ہوا ہے ۔ کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا اور یمن کے لوگ یلملم سے احرام باندھیں ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ، انہوں نے کہا کہ ہمیں امام مالک نے خبر دی ، انہیں نافع نے اور انہیں عبداللہ بن عمر رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ يُهِلُّ أَهْلُ الْمَدِينَةِ مِنْ ذِي الْحُلَيْفَةِ، وَأَهْلُ الشَّأْمِ مِنَ الْجُحْفَةِ، وَأَهْلُ نَجْدٍ مِنْ قَرْنٍ ‏\"‏‏.‏ قَالَ عَبْدُ اللَّهِ وَبَلَغَنِي أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ وَيُهِلُّ أَهْلُ الْيَمَنِ مِنْ يَلَمْلَمَ ‏\"‏‏.‏",
+                "headingArabic": "مِيقَاتِ أَهْلِ الْمَدِينَةِ وَلاَ يُهِلُّوا قَبْلَ ذِي الْحُلَيْفَةِ",
+                "headingUrdu": "اہل مدینہ کے لیے میقات",
+                "headingEnglish": "The Miqat for the people of Al-Madina",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1466,
+                "hadithNumber": "1526",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) had fixed Dhul Hulaifa as the Miqat for the people of Medina; Al-Juhfa for the people of Sham; and Qarn Ul-Manazil for the people of Najd; and Yalamlam for the people of Yemen. So, these (above mentioned) are the Mawaqit for all those living at those places, and besides them for those who come through those places with the intention of performing Hajj and `Umra and whoever lives within these places should assume Ihram from his dwelling place, and similarly the people of Mecca can assume lhram from Mecca.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے مدینہ والوں کے لیے ذولحلیفہ کو میقات مقرر کیا ، شام والوں کے لیے حجفہ ، نجد والوں کے لیے قرن منازل اور یمن والوں کے لیے یلملم ۔ یہ میقات ان ملک والوں کے ہیں اور ان لوگوں کے لیے بھی جو ان ملکوں سے گزر کر حرم میں داخل ہوں اور حج یا عمرہ کا ارادہ رکھتے ہوں ۔ لیکن جو لوگ میقات کے اندر رہتے ہوں ۔ یہاں تک کہ مکہ کے لوگ احرام مکہ ہی سے باندھیں ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیا ، انہوں نے کہا کہ ہم سے حماد بن زید نے بیان کیا ، ان سے عمرو بن دینار نے بیان کیا ، ان سے طاؤس نے بیان کیا ، اور ان سے حضرت عبداللہ بن عباس رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا حَمَّادٌ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ وَقَّتَ رَسُولُ اللَّهِ صلى الله عليه وسلم لأَهْلِ الْمَدِينَةِ ذَا الْحُلَيْفَةِ، وَلأَهْلِ الشَّأْمِ الْجُحْفَةَ، وَلأَهْلِ نَجْدٍ قَرْنَ الْمَنَازِلِ، وَلأَهْلِ الْيَمَنِ يَلَمْلَمَ، فَهُنَّ لَهُنَّ وَلِمَنْ أَتَى عَلَيْهِنَّ مِنْ غَيْرِ أَهْلِهِنَّ، لِمَنْ كَانَ يُرِيدُ الْحَجَّ وَالْعُمْرَةَ، فَمَنْ كَانَ دُونَهُنَّ فَمُهَلُّهُ مِنْ أَهْلِهِ، وَكَذَاكَ حَتَّى أَهْلُ مَكَّةَ يُهِلُّونَ مِنْهَا‏.‏",
+                "headingArabic": "مُهَلِّ أَهْلِ الشَّأْمِ",
+                "headingUrdu": "اہل شام کے لیے میقات",
+                "headingEnglish": "The Miqat for the people of Sham",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1467,
+                "hadithNumber": "1527",
+                "englishNarrator": "Narrated Salim from his father who said:",
+                "hadithEnglish": "\"The Prophet (ﷺ) had fixed the Mawaqit as follows: (No. 603)",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے میقات متعین کر دیئے تھے ۔",
+                "urduNarrator": "ہم سے علی بن مدینی نے بیان کیا ، کہا کہ ہم سے سفیان بن عیینہ نے بیان کیا ، کہا کہ ہم نے زہری سے یہ حدیث یاد رکھی ، ان سے سالم نے کہا اور ان سے ان کے والد نے بیان کیا تھا کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيٌّ، حَدَّثَنَا سُفْيَانُ، حَفِظْنَاهُ مِنَ الزُّهْرِيِّ عَنْ سَالِمٍ، عَنْ أَبِيهِ، وَقَّتَ النَّبِيُّ صلى الله عليه وسلم‏.‏",
+                "headingArabic": "مُهَلِّ أَهْلِ نَجْدٍ",
+                "headingUrdu": "اہل نجد کے لیے میقات",
+                "headingEnglish": "The Miqat for the people of Najd",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1468,
+                "hadithNumber": "1528",
+                "englishNarrator": "Narrated Salim bin `Abdullah from his father:",
+                "hadithEnglish": "I heard Allah's Messenger (ﷺ) saying, \"The Miqat for the people of Medina is Dhul-Hulaifa; for the people of Sham is Mahita; (i.e. Al-Juhfa); and for the people of Najd is Qarn. And said Ibn `Umar رضی اللہ عنہما , \"They claim, but I did not hear personally, that the Prophet (ﷺ) said, \"The Miqat for the people of Yemen is Yalamlam.\"",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ، آپ صلی اللہ علیہ وسلم نے فرمایا تھا کہ مدینہ والوں کے لیے احرام باندھنے کی جگہ ذولحلیفہ اور شام والوں کے لیے مہیعہ یعنی حجفہ اور نجد والوں کے لیے قرن منازل ۔ عبداللہ بن عمر رضی اللہ عنہما نے کہا کہ لوگ کہتے تھے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ یمن والے احرام یلملم سے باندھیں لیکن میں نے اسے آپ صلی اللہ علیہ وسلم سے نہیں سنا ۔",
+                "urduNarrator": "( دوسری سند ) اور امام بخاری نے کہا کہ مجھ سے احمد نے بیان کیا ، کہا کہ ہم سے عبداللہ بن وہب نے بیان کیا ، کہا کہ مجھے یونس نے خبر دی ، انہیں ابن شہاب نے ، انہیں سالم بن عبداللہ نے اور ان سے ان کے والد نے بیان کیاکہ",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ، حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِيهِ ـ رضى الله عنه ـ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ مُهَلُّ أَهْلِ الْمَدِينَةِ ذُو الْحُلَيْفَةِ، وَمُهَلُّ أَهْلِ الشَّأْمِ مَهْيَعَةُ وَهِيَ الْجُحْفَةُ، وَأَهْلِ نَجْدٍ قَرْنٌ ‏\"‏‏.‏ قَالَ ابْنُ عُمَرَ ـ رضى الله عنهما ـ زَعَمُوا أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ وَلَمْ أَسْمَعْهُ ‏\"‏ وَمُهَلُّ أَهْلِ الْيَمَنِ يَلَمْلَمُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1469,
+                "hadithNumber": "1529",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) fixed Dhul-Hulaifa as the Miqat for the people of Medina, Al-Juhfa, for the people of Sham, Yalamlam for the people of Yemen, and Qarn for the people of Najd. And these Mawaqit are for those living at those very places, and besides them for those who come through those places with the intention of performing Hajj and Umra; and whoever is living inside these places can assume lhram from his own dwelling place, and the people of Mecca can assume lhram from Mecca.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے مدینہ والوں کے لیے ذولحلیفہ میقات ٹھہرایا اور شام والوں کے لیے حجفہ ، یمن والوں کے لیے یلملم اور نجد والوں کے لیے قرن منازل ۔ یہ ان ملکوں کے لوگوں کے لیے ہیں اور دوسرے ان تمام لوگوں کے لیے بھی جو ان ملکوں سے گزریں ۔ اور حج اور عمرہ کا ارادہ رکھتے ہوں ۔ لیکن جو لوگ میقات کے اندر رہتے ہوں ۔ تو وہ اپنے شہروں سے احرام باندھیں ، چنانچہ مکہ کے لوگ مکہ ہی سے احرام باندھیں ۔",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا ، انہوں نے کہا کہ ہم سے حماد بن زید نے بیان کیا ، انہوں نے کہا کہ ہم سے عمرو بن دینارنے ، ان سے طاؤس نے اور ان سے ابن عباس رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا حَمَّادٌ، عَنْ عَمْرٍو، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم وَقَّتَ لأَهْلِ الْمَدِينَةِ ذَا الْحُلَيْفَةِ، وَلأَهْلِ الشَّأْمِ الْجُحْفَةَ، وَلأَهْلِ الْيَمَنِ يَلَمْلَمَ، وَلأَهْلِ نَجْدٍ قَرْنًا، فَهُنَّ لَهُنَّ وَلِمَنْ أَتَى عَلَيْهِنَّ مِنْ غَيْرِ أَهْلِهِنَّ، مِمَّنْ كَانَ يُرِيدُ الْحَجَّ وَالْعُمْرَةَ فَمَنْ كَانَ دُونَهُنَّ فَمِنْ أَهْلِهِ حَتَّى إِنَّ أَهْلَ مَكَّةَ يُهِلُّونَ مِنْهَا‏.‏",
+                "headingArabic": "مُهَلِّ مَنْ كَانَ دُونَ الْمَوَاقِيتِ",
+                "headingUrdu": "موقیت کے اندر رہنے والوں کے لیے میقات",
+                "headingEnglish": "The Miqat for the people living within Mawaqit",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1470,
+                "hadithNumber": "1530",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) fixed Dhul-Hulaifa as the Miqat for the people of Medina, Al-Juhfa for the people of Sham, Qarn-al-Manazil for the people of Najd, and Yalamlam for the people of Yemen; and these Mawaqit are for those living at those very places, and besides them for those whom come through them with the intention of performing Hajj and Umra; and whoever is living within these Mawaqit should assume lhram from where he starts, and the people of Mecca can assume Ihram from Mecca.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے مدینہ والوں کے لیے ذوالحلیفہ کو میقات مقرر کیا ، شام والوں کے لیے حجفہ ، نجد والوں کے لیے قرن منازل او ریمن والوں کے لیے یلملم ۔ یہ ان ملکوں کے باشندوں کے میقات ہیں اور تمام ان دوسرے مسلمانوں کے بھی جو ان ملکوں سے گزر کر آئیں اور حج اور عمرہ کا ارادہ رکھتے ہوں ۔ لیکن جو لوگ میقات کے اندر رہتے ہیں تو ( وہ احرام وہیں سے باندھیں ) جہاں سے سفر شروع کریں چنانچہ مکہ کے لوگ احرام مکہ ہی سے باندھیں ۔",
+                "urduNarrator": "ہم سے معلی بن اسد نے بیان کیا ، کہا کہ ہم سے وہیب بن خالد نے بیان کیا ، ان سے عبداللہ بن طاؤس نے بیان کیا ، ان سے ان کے باپ نے اور ان سے ابن عباس رضی اللہ عنہمانے کہ",
+                "hadithArabic": "حَدَّثَنَا مُعَلَّى بْنُ أَسَدٍ، حَدَّثَنَا وُهَيْبٌ، عَنْ عَبْدِ اللَّهِ بْنِ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، رضى الله عنهما أَنَّ النَّبِيَّ صلى الله عليه وسلم وَقَّتَ لأَهْلِ الْمَدِينَةِ ذَا الْحُلَيْفَةِ، وَلأَهْلِ الشَّأْمِ الْجُحْفَةَ، وَلأَهْلِ نَجْدٍ قَرْنَ الْمَنَازِلِ، وَلأَهْلِ الْيَمَنِ يَلَمْلَمَ، هُنَّ لأَهْلِهِنَّ وَلِكُلِّ آتٍ أَتَى عَلَيْهِنَّ مِنْ غَيْرِهِمْ مِمَّنْ أَرَادَ الْحَجَّ وَالْعُمْرَةَ فَمَنْ كَانَ دُونَ ذَلِكَ، فَمِنْ حَيْثُ أَنْشَأَ حَتَّى أَهْلُ مَكَّةَ مِنْ مَكَّةَ‏.‏",
+                "headingArabic": "مُهَلِّ أَهْلِ الْيَمَنِ",
+                "headingUrdu": "اہل یمن کے لیے میقات",
+                "headingEnglish": "The Miqat for the people of Yemen",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1471,
+                "hadithNumber": "1531",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "When these two towns (Basra and Kufa) were captured, the people went to `Umar رضی اللہ عنہ and said, \"O the Chief of the faithful believers! The Prophet (ﷺ) fixed Qarn as the Miqat for the people of Najd, it is beyond our way and it is difficult for us to pass through it.\" He said, \"Take as your Miqat a place situated opposite to Qarn on your usual way. So, he fixed Dhatu-Irq (as their Miqat).\"",
+                "hadithUrdu": "جب یہ دو شہر ( بصرہ اور کوفہ ) فتح ہوئے تو لوگ حضرت عمر رضی اللہ عنہ کے پاس آئے اور کہا کہ یا امیرالمؤمنین رسول اللہ صلی اللہ علیہ وسلم نے نجد کے لوگوں کے لیے احرام باندھنے کی جگہ قرن منازل قرار دی ہے اور ہمارا راستہ ادھر سے نہیں ہے ، اگر ہم قرن کی طرف جائیں تو ہمارے لیے بڑی دشواری ہو گی ۔ اس پر حضرت عمر رضی اللہ عنہ نے فرمایا کہ پھر تم لوگ اپنے راستے میں اس کے برابر کوئی جگہ تجویز کر لو ۔ چنانچہ ان کے لیے ذات عرق کی تعیین کر دی ۔",
+                "urduNarrator": "ہم سے علی بن مسلم نے بیان کیا ، کہا کہ ہم سے عبداللہ بن نمیر نے بیان کیا ، کہا کہ ہم سے عبیداللہ عمری نے نافع سے بیان کیا اور ان سے عبداللہ بن عمر رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنِي عَلِيُّ بْنُ مُسْلِمٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ لَمَّا فُتِحَ هَذَانِ الْمِصْرَانِ أَتَوْا عُمَرَ فَقَالُوا يَا أَمِيرَ الْمُؤْمِنِينَ، إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم حَدَّ لأَهْلِ نَجْدٍ قَرْنًا، وَهُوَ جَوْرٌ عَنْ طَرِيقِنَا، وَإِنَّا إِنْ أَرَدْنَا قَرْنًا شَقَّ عَلَيْنَا‏.‏ قَالَ فَانْظُرُوا حَذْوَهَا مِنْ طَرِيقِكُمْ‏.‏ فَحَدَّ لَهُمْ ذَاتَ عِرْقٍ‏.‏",
+                "headingArabic": "ذَاتُ عِرْقٍ لأَهْلِ الْعِرَاقِ",
+                "headingUrdu": "اہل عراق کے لیے میقات دشت عرق ہے۔",
+                "headingEnglish": "The Miqat for the people of â€˜Iraq is Dhat-â€˜Irq",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1472,
+                "hadithNumber": "1532",
+                "englishNarrator": "Narrated `Abdullah bin `Umar' رضی اللہ عنہما :",
+                "hadithEnglish": "\"Allah's Messenger (ﷺ) made his camel sit (i.e. he dismounted) at Al-Batha' in Dhul-Hulaifa and offered the prayer.\" `Abdullah bin `Umar رضی اللہ عنہما used to do the same.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے مقام ذوالحلیفہ کے پتھریلے میدان میں اپنی سواری روکی اور پھر وہیں آپ صلی اللہ علیہ وسلم نے نماز پڑھی ۔ عبداللہ بن عمر رضی اللہ عنہما بھی ایسا ہی کیا کرتے تھے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ، انہوں نے کہا کہ ہمیں امام مالک نے خبر دی ، انہیں نافع نے ، انہیں عبداللہ بن عمر رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَنَاخَ بِالْبَطْحَاءِ بِذِي الْحُلَيْفَةِ فَصَلَّى بِهَا‏.‏ وَكَانَ عَبْدُ اللَّهِ بْنُ عُمَرَ ـ رضى الله عنهما ـ يَفْعَلُ ذَلِكَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1473,
+                "hadithNumber": "1533",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) used to go (for Hajj) via Ash-Shajara way and return via Muarras way; and no doubt, whenever Allah's Messenger (ﷺ) went to Mecca, he used to offer the prayer in the Mosque of Ash-Shajara; and on his return, he used to offer the prayer at Dhul-Hulaifa in the middle of the valley, and pass the night there till morning.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم شجرہ کے راستے سے گزرتے ہوئے ” معرس “ کے راستے سے مدینہ آتے ۔ نبی کریم صلی اللہ علیہ وسلم جب مکہ جاتے تو شجرہ کی مسجد میں نماز پڑھتے لیکن واپسی میں ذوالحلیفہ کے نشیب میں نماز پڑھتے ۔ آپ صلی اللہ علیہ وسلم رات وہیں گزارتےچنانچہ صبح ہو جاتی ۔",
+                "urduNarrator": "ہم سے ابراہیم بن المنذر نے بیان کیا ، انہوں نے کہا کہ ہم سے انس بن عیاض نے بیان کیا ، ان سے عبیداللہ عمری نے بیان کیا ، ان سے نافع نے بیان کیا اور ان سے عبداللہ بن عمر رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ، حَدَّثَنَا أَنَسُ بْنُ عِيَاضٍ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَخْرُجُ مِنْ طَرِيقِ الشَّجَرَةِ، وَيَدْخُلُ مِنْ طَرِيقِ الْمُعَرَّسِ، وَأَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا خَرَجَ إِلَى مَكَّةَ يُصَلِّي فِي مَسْجِدِ الشَّجَرَةِ، وَإِذَا رَجَعَ صَلَّى بِذِي الْحُلَيْفَةِ بِبَطْنِ الْوَادِي، وَبَاتَ حَتَّى يُصْبِحَ‏.‏",
+                "headingArabic": "خُرُوجِ النَّبِيِّ صلى الله عليه وسلم عَلَى طَرِيقِ الشَّجَرَةِ",
+                "headingUrdu": "رسول اللہ صلی اللہ علیہ وسلم کا (حج کے لیے) جانا",
+                "headingEnglish": "The going of the Prophet (saws) (for Hajj)",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1474,
+                "hadithNumber": "1534",
+                "englishNarrator": "Narrated `Umar رضی اللہ عنہ :",
+                "hadithEnglish": "In the valley of Al-`Aqiq I heard Allah's Messenger (ﷺ) saying, \"To night a messenger came to me from my Lord and asked me to pray in this blessed valley and to assume Ihram for Hajj and `Umra together. \"",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم سے وادی عقیق میں سنا ۔ آپ صلی اللہ علیہ وسلم نے فرمایا تھا کہ رات میرے پاس میرے رب کا ایک فرشتہ آیا اور کہا کہ اس ” مبارک وادی “ میں نماز پڑھ اور اعلان کر کہ عمرہ حج  کا احرام ایک ساتھ باندھوں۔",
+                "urduNarrator": "ہم سے ابوبکر عبداللہ حمیدی نے بیان کیا ، کہا کہ ہم سے ولید اور بشر بن بکر تنیسی نے بیان کیا ، انہوں نے کہا کہ ہم سے امام اوزاعی نے بیان کیا ، کہا کہ ہم سے یحییٰ بن ابی کثیر نے بیان کیا ، ان سے عکرمہ نے بیان کیا ، انہوں نے حضرت عبداللہ بن عباس رضی اللہ عنہما سے سنا ، وہ بیان کرتے تھے کہ میں نے عمر رضی اللہ عنہ سے سنا ، ان کا بیان تھا کہ",
+                "hadithArabic": "حَدَّثَنَا الْحُمَيْدِيُّ، حَدَّثَنَا الْوَلِيدُ، وَبِشْرُ بْنُ بَكْرٍ التِّنِّيسِيُّ، قَالاَ حَدَّثَنَا الأَوْزَاعِيُّ، قَالَ حَدَّثَنِي يَحْيَى، قَالَ حَدَّثَنِي عِكْرِمَةُ، أَنَّهُ سَمِعَ ابْنَ عَبَّاسٍ ـ رضى الله عنهما ـ يَقُولُ إِنَّهُ سَمِعَ عُمَرَ ـ رضى الله عنه ـ يَقُولُ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم بِوَادِي الْعَقِيقِ يَقُولُ ‏ \"‏ أَتَانِي اللَّيْلَةَ آتٍ مِنْ رَبِّي فَقَالَ صَلِّ فِي هَذَا الْوَادِي الْمُبَارَكِ وَقُلْ عُمْرَةً فِي حَجَّةٍ ‏\"‏‏.‏",
+                "headingArabic": "قَوْلِ النَّبِيِّ صلى الله عليه وسلم ‏\"‏ الْعَقِيقُ وَادٍ مُبَارَكٌ",
+                "headingUrdu": "\"العقیق ایک بابرکت وادی ہے۔\"",
+                "headingEnglish": "\"Al-'Aqiq is a blessed valley.\"",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1475,
+                "hadithNumber": "1535",
+                "englishNarrator": "Narrated Salim bin `Abdullah's father:",
+                "hadithEnglish": "\"The Prophet (ﷺ) said that while resting in the bottom of the valley at Muarras in Dhul-Hulaifa, he had been addressed in a dream: 'You are verily in a blessed valley.' \" Salim made us to dismount from our camels at the place where `Abdullah used to dismount, aiming at the place where Allah's Messenger (ﷺ) had rested and it was below the Mosque situated in the middle of the valley in between them (the residence) and the road.",
+                "hadithUrdu": "معرس کے قریب ذوالحلیفہ کی بطن وادی ( وادی عقیق ) میں آپ صلی اللہ علیہ وسلم کو خواب دکھایا گیا ۔ ( جس میں ) آپ صلی اللہ علیہ وسلم سے کہا گیا تھا کہ آپ اس وقت ” بطحاء مبارکہ “ میں ہیں ۔ موسیٰ بن عقبہ نے کہا کہ سالم نے ہم کو بھی وہاں ٹھہرایا وہ اس مقام کو ڈھونڈ رہے تھے جہاں عبداللہ اونٹ بٹھایا کرتے تھے یعنی جہاں آنحضرت صلی اللہ علیہ وسلم رات کو اترا کرتے تھے ۔ وہ مقام اس مسجد کے نیچے کی طرف میں ہے جو نالے کے نشیب میں ہے ۔ اترنے والوں اور راستے کے بیچوں بیچ ( وادی عقیق مدینہ سے چار میل بقیع کی جانب ہے ) ۔",
+                "urduNarrator": "ہم سے محمد بن ابی بکر مقدمی نے بیان کیا ، کہا کہ ہم سے فضیل بن سلیمان نے بیان کیا ، کہا کہ ہم سے موسیٰ بن عقبہ نے بیان کیا ، کہا کہ ہم سے سالم بن عبداللہ بن عمر نے بیان کیا اور ان سے ان کے والد نے نبی کریم صلی اللہ علیہ وسلم کے حوالہ سے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي بَكْرٍ، حَدَّثَنَا فُضَيْلُ بْنُ سُلَيْمَانَ، حَدَّثَنَا مُوسَى بْنُ عُقْبَةَ، قَالَ حَدَّثَنِي سَالِمُ بْنُ عَبْدِ اللَّهِ، عَنْ أَبِيهِ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ رُئِيَ وَهُوَ فِي مُعَرَّسٍ بِذِي الْحُلَيْفَةِ بِبَطْنِ الْوَادِي قِيلَ لَهُ إِنَّكَ بِبَطْحَاءَ مُبَارَكَةٍ‏.‏ وَقَدْ أَنَاخَ بِنَا سَالِمٌ، يَتَوَخَّى بِالْمُنَاخِ الَّذِي كَانَ عَبْدُ اللَّهِ يُنِيخُ، يَتَحَرَّى مُعَرَّسَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَهُوَ أَسْفَلُ مِنَ الْمَسْجِدِ الَّذِي بِبَطْنِ الْوَادِي، بَيْنَهُمْ وَبَيْنَ الطَّرِيقِ وَسَطٌ مِنْ ذَلِكَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1476,
+                "hadithNumber": "1536",
+                "englishNarrator": "Narrated Ya'la said to 'Umar رضی اللہ عنہ :",
+                "hadithEnglish": "\"Show me the Prophet (ﷺ) when he is being inspired Divinely.\" While the Prophet (ﷺ) was at Ji'rana (in the company of some of his Companions) a person came and asked, \"O Allah's Messenger! What is your verdict regarding that person who assumes Ihram for 'Umra and is scented with perfume ?\" The Prophet (ﷺ) kept quiet for a while and he was Divinely inspired (then). 'Umar رضی اللہ عنہ beckoned Ya'la رضی اللہ عنہ . So he came, and the Allah's Messenger (ﷺ) was shaded with sheet. Ya'la put his head in and saw that the face of Allah's Messenger was red and he was snoring. When the state of the Prophet (ﷺ) was over, he (ﷺ) asked, \"Where is the person who asked about 'Umra?\" Then that person was brought and the Prophet (ﷺ) said, \"Wash the perfume off your body thrice and take off the cloak and do the same in 'Umra as you do in Hajj.\" I asked Ata whether the Prophet's order to wash three times meant complete cleanliness. So he said yes.",
+                "hadithUrdu": "کبھی آپ مجھے نبی کریم صلی اللہ علیہ وسلم کو اس حال میں دکھایئے جب آپ صلی اللہ علیہ وسلم پر وحی نازل ہو رہی ہو ۔ انہوں نے بیان کیا کہ ایک بار رسول اللہ صلی اللہ علیہ وسلم جعرانہ میں اپنے اصحاب کی ایک جماعت کے ساتھ ٹھہرے ہوئے تھے کہ ایک شخص نے آ کر پوچھا یا رسول اللہ ! اس شخص کے متعلق آپ کا کیا حکم ہے جس نے عمرہ کا احرام اس طرح باندھا کہ اس کے کپڑے خوشبو میں بسے ہوئے ہوں ۔ نبی کریم صلی اللہ علیہ وسلم اس پر تھوڑی دیر کے لیے چپ ہو گئے ۔ پھر آپ صلی اللہ علیہ وسلم پر وحی نازل ہوئی تو حضرت عمر رضی اللہ عنہ نے یعلیٰ رضی اللہ عنہ کو اشارہ کیا ۔ یعلیٰ آئے تو رسول اللہ صلی اللہ علیہ وسلم پر ایک کپڑا تھا جس کے اندر آپ صلی اللہ علیہ وسلم تشریف رکھتے تھے ۔ انہوں نے کپڑے کے اندر اپنا سر کیا تو کیا دیکھتے ہیں کہ روئے مبارک سرخ ہے اور آپ صلی اللہ علیہ وسلم خراٹے لے رہے ہیں ۔ پھر یہ حالت ختم ہوئی تو آپ صلی اللہ علیہ وسلم نے فرمایا کہ وہ شخص کہاں ہے جس نے عمرہ کے متعلق پوچھا تھا ۔ شخص مذکور حاضر کیا گیا تو آپ صلی اللہ علیہ وسلم نے فرمایا کہ جو خوشبو لگا رکھی ہے اسے تین مرتبہ دھو لے اور اپنا جبہ اتار دے ۔ عمرہ میں بھی اسی طرح کر جس طرح حج میں کرتے ہو ۔ میں نے عطاء سے پوچھا کہ کیا آنحضور صلی اللہ علیہ وسلم کے تین مرتبہ دھونے کے حکم سے پوری طرح صفائی مراد تھی ؟ تو انہوں نے کہا کہ ہاں ۔",
+                "urduNarrator": "ہم سے محمد نے بیان کیا ، کہا کہ ہم سے ابوعاصم ، ضحاک بن مخلد نبیل نے بیان کیا ، کہا کہ ہمیں ابن جریج نے خبر دی کہا کہ مجھے عطاء بن ابی رباح نے خبرد ی ، انہیں صفوان بن یعلیٰ نے ، کہا کہ ان کے باپ یعلیٰ بن امیہ نے حضرت عمر رضی اللہ عنہ سے کہا کہ",
+                "hadithArabic": "قَالَ أَبُو عَاصِمٍ أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي عَطَاءٌ، أَنَّ صَفْوَانَ بْنَ يَعْلَى، أَخْبَرَهُ أَنَّ يَعْلَى قَالَ لِعُمَرَ ـ رضى الله عنه ـ أَرِنِي النَّبِيَّ صلى الله عليه وسلم حِينَ يُوحَى إِلَيْهِ قَالَ فَبَيْنَمَا النَّبِيُّ صلى الله عليه وسلم بِالْجِعْرَانَةِ، وَمَعَهُ نَفَرٌ مِنْ أَصْحَابِهِ، جَاءَهُ رَجُلٌ فَقَالَ يَا رَسُولَ اللَّهِ كَيْفَ تَرَى فِي رَجُلٍ أَحْرَمَ بِعُمْرَةٍ، وَهْوَ مُتَضَمِّخٌ بِطِيبٍ فَسَكَتَ النَّبِيُّ صلى الله عليه وسلم سَاعَةً فَجَاءَهُ الْوَحْىُ، فَأَشَارَ عُمَرُ ـ رضى الله عنه ـ إِلَى يَعْلَى، فَجَاءَ يَعْلَى، وَعَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم ثَوْبٌ قَدْ أُظِلَّ بِهِ فَأَدْخَلَ رَأْسَهُ، فَإِذَا رَسُولُ اللَّهِ صلى الله عليه وسلم مُحْمَرُّ الْوَجْهِ، وَهُوَ يَغِطُّ ثُمَّ سُرِّيَ عَنْهُ فَقَالَ ‏\"‏ أَيْنَ الَّذِي سَأَلَ عَنِ الْعُمْرَةِ ‏\"‏ فَأُتِيَ بِرَجُلٍ فَقَالَ ‏\"‏ اغْسِلِ الطِّيبَ الَّذِي بِكَ ثَلاَثَ مَرَّاتٍ، وَانْزِعْ عَنْكَ الْجُبَّةَ، وَاصْنَعْ فِي عُمْرَتِكَ كَمَا تَصْنَعُ فِي حَجَّتِكَ ‏\"‏‏.‏ قُلْتُ لِعَطَاءٍ أَرَادَ الإِنْقَاءَ حِينَ أَمَرَهُ أَنْ يَغْسِلَ ثَلاَثَ مَرَّاتٍ قَالَ نَعَمْ‏.‏",
+                "headingArabic": "غَسْلِ الْخَلُوقِ ثَلاَثَ مَرَّاتٍ مِنَ الثِّيَابِ",
+                "headingUrdu": "احرام میں تین بار خوشبو لگانا",
+                "headingEnglish": "To wash the perfume thrice of Ihram",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 1451,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=58",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=56",
+                "label": "56",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=57",
+                "label": "57",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=58",
+                "label": "58",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=59",
+                "label": "59",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=60",
+                "label": "60",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=61",
+                "label": "61",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=62",
+                "label": "62",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=60",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=60",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=58",
+        "to": 1475,
+        "total": 40465
+    }
+}

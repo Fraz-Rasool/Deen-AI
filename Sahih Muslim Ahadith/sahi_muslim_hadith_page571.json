@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 571,
+        "data": [
+            {
+                "id": 14539,
+                "hadithNumber": "6976",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been transmitted on the authority of Mu'tamir, reported on the authority of his father.",
+                "hadithUrdu": "اور ہم سے محمد بن عبد الاعلی نے بیان کیا, معتمر نے اپنے والد ( سلیمان تیمی ) سے اسی سند کے ساتھ ( یہی ) حدیث بیان کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنَاه مُحَمَّدُ بْنُ عَبْدِ الْأَعْلَى حَدَّثَنَا الْمُعْتَمِرُ عَنْ أَبِيهِ بِهَذَا الْإِسْنَادِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14540,
+                "hadithNumber": "6977",
+                "englishNarrator": "Salman رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: Verily, Allah created, on the same very day when He created the heavens and the earth, one hundred parts of mercy. Every part of mercy is coextensive with the space between the heavens. and the earth and He out of this mercy endowed one part to the earth and it is because of this that the mother shows affection to her child and even the beasts and birds show kindness to one another and when there would be the Day of Resurrection, Allah would make full (use of Mercy).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" بےشک اللہ تعالیٰ نے جس دن آسمانوں اور زمین کو پیدا کیا اس دن اس نے سو رحمتیں پیدا کیں ، ہر رحمت آسمانوں اور زمین کےدرمیان کی وسعت کے برابر ہے ، اس نے ان میں سے ایک رحمت زمین میں رکھی ، اسی رحمت کی وجہ سے والدہ اپنی اولاد پر رحمت کرتی ہے اور وحشی جانور اور پرندے آپس میں ایک دوسرے کے ساتھ رحمت کا سلوک کرتے ہیں ، جب قیامت کا دن ہو گا تو اللہ تعالیٰ اپنی رحمتوں کو اس رحمت کے ساتھ ملا کر پوری ( سو ) کرے گا ( اور بندوں کے ساتھ سو فیصد رحمت کا سلوک فرمائے گا ۔ ) \"",
+                "urduNarrator": "ہم سے ابن نمیر نے بیان کیا، کہا ہم سے ابو معاویہ نے بیان کیا, داود بن ابی ہند نے ابو عثمان سے اور انہوں نے حضرت سلمان رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا ابْنُ نُمَيْرٍ حَدَّثَنَا أَبُو مُعَاوِيَةَ عَنْ دَاوُدَ بْنِ أَبِي هِنْدٍ عَنْ أَبِي عُثْمَانَ عَنْ سَلْمَانَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِنَّ اللَّهَ خَلَقَ يَوْمَ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ مِائَةَ رَحْمَةٍ كُلُّ رَحْمَةٍ طِبَاقَ مَا بَيْنَ السَّمَاءِ وَالْأَرْضِ فَجَعَلَ مِنْهَا فِي الْأَرْضِ رَحْمَةً فَبِهَا تَعْطِفُ الْوَالِدَةُ عَلَى وَلَدِهَا وَالْوَحْشُ وَالطَّيْرُ بَعْضُهَا عَلَى بَعْضٍ فَإِذَا كَانَ يَوْمُ الْقِيَامَةِ أَكْمَلَهَا بِهَذِهِ الرَّحْمَةِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14541,
+                "hadithNumber": "6978",
+                "englishNarrator": "Umar bin Khattab رضی اللہ عنہ reported:",
+                "hadithEnglish": "There were brought some prisoners to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) amongst whom there was also a woman, who was searching (for someone) and when she found a child amongst the prisoners, she took hold of it, pressed it against her chest and provided it suck. Thereupon Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: Do you think this woman would ever afford to throw her child in the Fire? We said: By Allah, so far as it lies in her power, she would never throw the child in Fire. ' Thereupon Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: Allah is more kind to His servants than this woman is to her child.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کے پاس کچھ قیدی آئے ، ان قیدیوں میں سے ایک عورت کسی کو تلاش کر رہی تھی ، اچانک قیدیوں میں سے اس ایک کو بچہ مل گیا ، اس نے بچے کو اٹھا کر پیٹ سے چمتا لیا اور اس کو دودھ پلانے لگی ، تب رسول اللہ صلی اللہ علیہ وسلم نے ہم سے فرمایا : \" کیا تم سمجھتے ہو کہ یہ عورت اپنے بچے کو آگ میں ڈال دے گی؟ \" ہم نے کہا : اللہ کی قسم! اگر اس کے بس میں ہو کہ اسے نہ پھینکے ( تو ہرگز نہیں پھینکے گی ۔ ) تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" اللہ تعالیٰ اپنے بندوں پر اس سے بھی زیادہ رحم کرنے والا ہے جتنا اس عورت کو اپنے بچے کے ساتھ ہے ۔ \"",
+                "urduNarrator": "مجھ سے حسن بن علی الحلوانی اور محمد بن سہل التمیمی نے بیان کیا اور قول حسن ہے۔ ہم سے ابن ابی مریم نے بیان کیا، مجھ سے ابو غسان نے بیان کیا۔ زید بن اسلم، اپنے والد سے, حضرت عمر بن خطاب رضی اللہ عنہ سے روایت ہے ، انہوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنِي الْحَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ وَمُحَمَّدُ بْنُ سَهْلٍ التَّمِيمِيُّ وَاللَّفْظُ لِحَسَنٍ حَدَّثَنَا ابْنُ أَبِي مَرْيَمَ حَدَّثَنَا أَبُو غَسَّانَ حَدَّثَنِي زَيْدُ بْنُ أَسْلَمَ عَنْ أَبِيهِ عَنْ عُمَرَ بْنِ الْخَطَّابِ أَنَّهُ قَالَ قَدِمَ عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِسَبْيٍ فَإِذَا امْرَأَةٌ مِنْ السَّبْيِ تَبْتَغِي إِذَا وَجَدَتْ صَبِيًّا فِي السَّبْيِ أَخَذَتْهُ فَأَلْصَقَتْهُ بِبَطْنِهَا وَأَرْضَعَتْهُ فَقَالَ لَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَتَرَوْنَ هَذِهِ الْمَرْأَةَ طَارِحَةً وَلَدَهَا فِي النَّارِ قُلْنَا لَا وَاللَّهِ وَهِيَ تَقْدِرُ عَلَى أَنْ لَا تَطْرَحَهُ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَلَّهُ أَرْحَمُ بِعِبَادِهِ مِنْ هَذِهِ بِوَلَدِهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14542,
+                "hadithNumber": "6979",
+                "englishNarrator": "It was narrated from Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The  Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: \"If the believers knew what there is with Allah of mercy, no one would despair of Paradise.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" اگر مومن کو یہ علم ہو جائے کہ اللہ تعالیٰ کے پاس سزا کیا ہے تو کوئی شخص اس کی جنت کی امید ہی نہ رکھے ، اور اگر کافر کو یہ پتہ چل جائے کہ اللہ کے پاس رحمت کس قدر ہے تو کوئی ایک بھی اس کی جنت سے مایوس نہ ہو ۔ \"",
+                "urduNarrator": "ہم سے یحییٰ بن ایوب، قتیبہ اور ابن حجر نے اسماعیل بن جعفر کی سند سے بیان کیا۔ ابن ایوب نے کہا, ہم سے اسماعیل نے کہا, العلاء اپنے والد سے افضل ہے, حضرت ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ وَقُتَيْبَةُ وَابْنُ حُجْرٍ جَمِيعًا عَنْ إِسْمَعِيلَ بْنِ جَعْفَرٍ قَالَ ابْنُ أَيُّوبَ حَدَّثَنَا إِسْمَعِيلُ أَخْبَرَنِي الْعَلَاءُ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَوْ يَعْلَمُ الْمُؤْمِنُ مَا عِنْدَ اللَّهِ مِنْ الْعُقُوبَةِ مَا طَمِعَ بِجَنَّتِهِ أَحَدٌ وَلَوْ يَعْلَمُ الْكَافِرُ مَا عِنْدَ اللَّهِ مِنْ الرَّحْمَةِ مَا قَنَطَ مِنْ جَنَّتِهِ أَحَدٌ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14543,
+                "hadithNumber": "6980",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying that a person who had never done any good deed asked the members of his family to burn his dead body when he would die and to scatter half of its ashes over the land and half in the ocean. By Allah, if Allah finds him in His grip, He would torment him with a torment with which He did not afflict anyone amongst the people of the world; and when the person died, it was done to him as he had commanded (his family) to do. Allah commanded the land to collect (the ashes scattered on it) and He commanded the ocean and that collected (ashes) contained in it. Allah questioned him why he had done. that He said: My Lord, it is out of Thine fear that I have done it and Thou art well aware of it, and Allah granted him pardon.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" ایک آدمی جس نے کبھی کوئی نیکی نہیں کی تھی ، اپنے گھر والوں سے کہا : جب وہ مرے تو اسے جلا دیں ، پھر اس کا آدھا حصہ ( ہواؤں میں اڑا کر ) خشکی پر بکھیر دیں اور آدھا حصہ سمندر میں بہا دیں ، کیونکہ اللہ کی قسم! اللہ تعالیٰ نے اسے قابو کر لیا تو اس کو ضرور بالضرور ایسا عذاب دے گا جو تمام جہانوں میں سے کسی کو نہیں دے گا ، چنانچہ جب وہ آدمی مر گیا تو انہوں نے وہی کیا جس کا اس نے حکم دیا تھا ۔ اللہ تعالیٰ نے خشکی کو حکم دیا ، اس شخص کا جو بھی حسہ اس ( خشکی ) میں تھا اس نے اس کو اکٹھا کر دیا اور سمندر کو حکم تو جو کچھ اس میں تھا اس نے اکٹھا کر دیا ، پھر ( اللہ نے ) اس سے پوچھا : تم نے ایسا کیوں کیا تھا؟ اس نے کہا : میرے رب! تیرے ڈر سے ( ایسا کیا تھا ) اور تو سب سے زیادہ جاننے والا ہے ( کہ میری بات سچ ہے ) تو اللہ نے ( اس سچی خشیت کی بنا پر ) اسے بخش دیا ۔ \"",
+                "urduNarrator": "مجھ سے محمد بن مرزوق بنت مہدی بن میمون نے بیان کیا، ہم سے ایک روح نے بیان کیا، ہم سے مالک نے ابو الزناد کی سند سے بیان کیا, اعرج نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدُ بْنُ مَرْزُوقِ بْنِ بِنْتِ مَهْدِيِّ بْنِ مَيْمُونٍ حَدَّثَنَا رَوْحٌ حَدَّثَنَا مَالِكٌ عَنْ أَبِي الزِّنَادِ عَنْ الْأَعْرَجِ عَنْ أَبِي هُرَيْرَةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ قَالَ رَجُلٌ لَمْ يَعْمَلْ حَسَنَةً قَطُّ لِأَهْلِهِ إِذَا مَاتَ فَحَرِّقُوهُ ثُمَّ اذْرُوا نِصْفَهُ فِي الْبَرِّ وَنِصْفَهُ فِي الْبَحْرِ فَوَاللَّهِ لَئِنْ قَدَرَ اللَّهُ عَلَيْهِ لَيُعَذِّبَنَّهُ عَذَابًا لَا يُعَذِّبُهُ أَحَدًا مِنْ الْعَالَمِينَ فَلَمَّا مَاتَ الرَّجُلُ فَعَلُوا مَا أَمَرَهُمْ فَأَمَرَ اللَّهُ الْبَرَّ فَجَمَعَ مَا فِيهِ وَأَمَرَ الْبَحْرَ فَجَمَعَ مَا فِيهِ ثُمَّ قَالَ لِمَ فَعَلْتَ هَذَا قَالَ مِنْ خَشْيَتِكَ يَا رَبِّ وَأَنْتَ أَعْلَمُ فَغَفَرَ اللَّهُ لَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14544,
+                "hadithNumber": "6981",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying that a person committed sin beyond measure and when he was going to die, he left this will: (When I die), bum my dead body and then cast them (the ashes) to the wind and in the ocean. By Allah, if my Lord takes hold of me, He would torment me as He has not tormented anyone else. They did as he had asked them to do. He (the Lord) said to the earth: Return what you have taken. And he was thus restored to his (original form). He (Allah) said to him: What prompted you to do this? He said: My Lord, it was Thine fear or Thine awe, and Allah pardoned him because of this.",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا : \" ایک شخص نے اپنے آپ پر ہر قسم کی زیادتی کی ( ہر گناہ کا ارتکاب کر کے خود کو مجرم بنایا ۔ ) تو جب اس کی موت کا وقت آیا تو اس نے اپنے بیٹوں کو وصیت کی اور کہا : جب میں مر جاؤں تو مجھے جلا دینا ، پھر مجھے ریزہ ریزہ کر دینا ، پھر مجھے ہوا میں ، سمندر میں اڑا دینا ۔ اللہ کی قسم! اگر میرے رب نے مجھے قابو کر لیا تو مجھے یقینا ایسا عذاب دے گا جو کسی اور کو نہ دیا ہو گا ۔ \" آپ صلی اللہ علیہ وسلم نے فرمایا : \" انہوں نے اس کے ساتھ یہی کیا ۔ تو اللہ نے زمین سے کہا : جو تو نے لیا پورا واپس کر ، تو وہ ( پورے کا پورا سامنے ) کھڑا تھا ۔ اللہ نے اس سے فرمایا : تو نے جو کیا اس پر تمہیں کس چیز نے اکسایا؟ اس نے کہا : میرے پروردگار! تیری خشیت نے ۔ ۔ یا کہا ۔ ۔ : تیرے خوف نے تو اسی ( بات ) کی بنا پر اس ( اللہ ) نے اسے بخش دیا ۔ \"",
+                "urduNarrator": "ہم سے محمد بن رافع اور عبد بن حمید نے بیان کیا, عبد نے ہمیں بتایا, ابن رافع نے کہا اور تلفظ ان کا ہے, ہمیں عبدالرزاق نے بتایا, معمر نے کہا : زہری نے مجھ سے کہا : کیا میں تمہیں دو عجیب حدیثیں نہ سناؤں؟ ( پھر ) زہری نے کہا : مجھے حمید بن عبدالرحمان نے حضرت ابوہریرہ رضی اللہ عنہ سے خبر دی ، انہوں نے نبی اکرم صلی اللہ علیہ وسلم سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ وَعَبْدُ بْنُ حُمَيْدٍ قَالَ عَبْدٌ أَخْبَرَنَا و قَالَ ابْنُ رَافِعٍ وَاللَّفْظُ لَهُ حَدَّثَنَا عَبْدُ الرَّزَّاقِ أَخْبَرَنَا مَعْمَرٌ قَالَ قَالَ لِي الزُّهْرِيُّ أَلَا أُحَدِّثُكَ بِحَدِيثَيْنِ عَجِيبَيْنِ قَالَ الزُّهْرِيُّ أَخْبَرَنِي حُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ عَنْ أَبِي هُرَيْرَةَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ أَسْرَفَ رَجُلٌ عَلَى نَفْسِهِ فَلَمَّا حَضَرَهُ الْمَوْتُ أَوْصَى بَنِيهِ فَقَالَ إِذَا أَنَا مُتُّ فَأَحْرِقُونِي ثُمَّ اسْحَقُونِي ثُمَّ اذْرُونِي فِي الرِّيحِ فِي الْبَحْرِ فَوَاللَّهِ لَئِنْ قَدَرَ عَلَيَّ رَبِّي لَيُعَذِّبُنِي عَذَابًا مَا عَذَّبَهُ بِهِ أَحَدًا قَالَ فَفَعَلُوا ذَلِكَ بِهِ فَقَالَ لِلْأَرْضِ أَدِّي مَا أَخَذْتِ فَإِذَا هُوَ قَائِمٌ فَقَالَ لَهُ مَا حَمَلَكَ عَلَى مَا صَنَعْتَ فَقَالَ خَشْيَتُكَ يَا رَبِّ أَوْ قَالَ مَخَافَتُكَ فَغَفَرَ لَهُ بِذَلِكَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14545,
+                "hadithNumber": "6982",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying that a woman was thrown into Hell-Fire because of a cat whom she had tied and did not provide it with food. nor did she set it free to cat insects of the earth until it died inch by inch. Zuhri said: (These two ahadith) show that a person should neither feel confident (of getting into Paradise) because of his deeds, nor should he lose (all hopes) of getting into Paradise.",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا : \"\" ایک عورت بلی کے معاملے میں جہنم میں ڈال دی گئی جسے اس نے باندھ رکھا تھا ۔ اس نے نہ اس کو کھلایا ، نہ اسے چھوڑا ہی کہ زمین کے چھوٹے چھوٹے جانور کھا لیتی ، وہ لاغر ہو کر مر گئی ۔ \"\" زہری نے کہا؛ یہ اس لیے ( فرمایا کیا : ) ہے کہ کوئی شخص نہ صرف ( رحمت پر ) بھروسہ کر لے اور نہ صرف مایوسی ہی کو اپنا لے ۔",
+                "urduNarrator": "زہری نے کہا : اور حمید نے مجھے حضرت ابوہریرہ رضی اللہ عنہ سے حدیث سنائی ، انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے روایت کی کہ",
+                "hadithArabic": "قَالَ الزُّهْرِيُّ وَحَدَّثَنِي حُمَيْدٌ عَنْ أَبِي هُرَيْرَةَ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ دَخَلَتْ امْرَأَةٌ النَّارَ فِي هِرَّةٍ رَبَطَتْهَا فَلَا هِيَ أَطْعَمَتْهَا وَلَا هِيَ أَرْسَلَتْهَا تَأْكُلُ مِنْ خَشَاشِ الْأَرْضِ حَتَّى مَاتَتْ هَزْلًا قَالَ الزُّهْرِيُّ ذَلِكَ لِئَلَّا يَتَّكِلَ رَجُلٌ وَلَا يَيْأَسَ رَجُلٌ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14546,
+                "hadithNumber": "6983",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying that a servant transgressed the litnit in committing sins. The rest of the hadith is the same but there is no mention of the story of the cat in it and in the hadith transmitted on the authority of Ziibaidl (the words are): Allah, the Exalted and Glorious, said to everything which had taken a part of lies ashes to return what it had taken.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم کو یہ فرماتے ہوئے سنا : \"\" ایک بندے نے اپنے آپ پر ہر طرح کی زیادتی کی ۔ \"\" ( آگے ) معمر کی حدیث کی طرح ہے ، اس قول تک : \"\" پس اللہ نے اسے بخش دیا ۔ \"\" اور انہوں نے بلی کے واقعے ( کے بارے ) میں عورت والی حدیث کا ذکر نہیں کیا ۔ اور زُبیدی کی حدیث میں ہے کہ آپ صلی اللہ علیہ وسلم نے فرمایا : \"\" اللہ عزوجل نے ہر شے سے ، جس نے اس ( جلائے جانے والے شخص ) کی کوئی بھی چیز لی تھی ، فرمایا : اس کا جو حصہ تیرے پاس ہے پورا واپس کر ۔ \"\"",
+                "urduNarrator": "مجھ سے ابو الربیع سلیمان بن داؤد نے بیان کیا، ہم سے محمد بن حرب نے بیان کیا, زبیدی نے مجھے حدیث سنائی کہ زہری نے کہا : مجھے حُمید بن عبدالرحمن بن عوف نے حضرت ابوہریرہ رضی اللہ عنہ سے حدیث سنائی ، کہا",
+                "hadithArabic": "حَدَّثَنِي أَبُو الرَّبِيعِ سُلَيْمَانُ بْنُ دَاوُدَ حَدَّثَنَا مُحَمَّدُ بْنُ حَرْبٍ حَدَّثَنِي الزُّبَيْدِيُّ قَالَ الزُّهْرِيُّ حَدَّثَنِي حُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ عَنْ أَبِي هُرَيْرَةَ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ أَسْرَفَ عَبْدٌ عَلَى نَفْسِهِ بِنَحْوِ حَدِيثِ مَعْمَرٍ إِلَى قَوْلِهِ فَغَفَرَ اللَّهُ لَهُ وَلَمْ يَذْكُرْ حَدِيثَ الْمَرْأَةِ فِي قِصَّةِ الْهِرَّةِ وَفِي حَدِيثِ الزُّبَيْدِيِّ قَالَ فَقَالَ اللَّهُ عَزَّ وَجَلَّ لِكُلِّ شَيْءٍ أَخَذَ مِنْهُ شَيْئًا أَدِّ مَا أَخَذْتَ مِنْهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14547,
+                "hadithNumber": "6984",
+                "englishNarrator": "Abu Sa'id Khudri رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said that a person amongst the earlier nations before you was conferred property and children by Allah, He said to his children: 'You must do as I command you to do, otherwise I will make others besides you as my inheritors. As I die, burn my body and blow my ashes in the wind as I do not find any merit of mine which would please Allah, and if Allah were to take hold of me, He would punish me. He took a pledge from them and they did as he commanded thein to do. Allah said: What prompted you to do this? He said: My Lord. Thine fear, and Allah did not punish him at all.",
+                "hadithUrdu": "\" تم سے پہلے کے لوگوں میں سے ایک شخص کو اللہ تعالیٰ نے مال اور اولاد سے نوازا تھا ۔ اس نے اپنے بچوں سے کہا : ہر صورت وہی کچھ کرو گے جس کا میں تمہیں حکم دے رہا ہوں ، یا میں اپنا ورثہ دوسروں کے سپرد کر دوں گا ، جب میں مر جاؤں تو مجھے جلا دو ۔ ۔ اور مجھے زیادہ یہ لگتا ہے کہ قتادہ نے کہا ۔ ۔ پھر مجھے کوٹ کر ریزہ ریزہ کر دو ، پھر مجھے ہوا میں اڑا دو کیونکہ میں نے اللہ کے ہاں کوئی اچھائی ذخیرہ نہیں کی ۔ اللہ مجھ پر پوری قدرت رکھتا ہے کہ مجھے عذاب دے ۔ کہا : اس نے ان ( اپنی اولاد ) سے پختہ عہد و پیمان لیا ، تو میرے رب کی قسم! انہوں نے اس کے ساتھ وہی کیا ( جو اس نے کہا تھا ۔ ) اللہ تعالیٰ نے پوچھا : تم نے جو کچھ کیا اس پر تمہیں کس نے اکسایا؟ اس نے کہا : تیرے خوف نے ۔ فرمایا : پھر اسے اس کے سوا ( جو وہ بھگت چکا تھا ، یعنی لاش کا جلنا اور اللہ کے سامنے پیشی وغیرہ ) اور کوئی عذاب نہ ہوا ۔ \"",
+                "urduNarrator": "مجھ سے عبید اللہ بن معاذ العنبری نے بیان کیا، ہم سے میرے والد نے بیان کیا, شعبہ نے ہمیں قتادہ سے حدیث بیان کی ، انہوں نے عقبہ بن عبدالغافر کو کہتے ہوئے سنا کہ میں نے حضرت ابوسعید خدری رضی اللہ عنہ سے سنا ، وہ نبی اکرم صلی اللہ علیہ وسلم سے حدیث بیان کر رہے تھے",
+                "hadithArabic": "حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ الْعَنْبَرِيُّ حَدَّثَنَا أَبِي حَدَّثَنَا شُعْبَةُ عَنْ قَتَادَةَ سَمِعَ عُقْبَةَ بْنَ عَبْدِ الْغَافِرِ يَقُولُ سَمِعْتُ أَبَا سَعِيدٍ الْخُدْرِيَّ يُحَدِّثُ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّ رَجُلًا فِيمَنْ كَانَ قَبْلَكُمْ رَاشَهُ اللَّهُ مَالًا وَوَلَدًا فَقَالَ لِوَلَدِهِ لَتَفْعَلُنَّ مَا آمُرُكُمْ بِهِ أَوْ لَأُوَلِّيَنَّ مِيرَاثِي غَيْرَكُمْ إِذَا أَنَا مُتُّ فَأَحْرِقُونِي وَأَكْثَرُ عِلْمِي أَنَّهُ قَالَ ثُمَّ اسْحَقُونِي وَاذْرُونِي فِي الرِّيحِ فَإِنِّي لَمْ أَبْتَهِرْ عِنْدَ اللَّهِ خَيْرًا وَإِنَّ اللَّهَ يَقْدِرُ عَلَيَّ أَنْ يُعَذِّبَنِي قَالَ فَأَخَذَ مِنْهُمْ مِيثَاقًا فَفَعَلُوا ذَلِكَ بِهِ وَرَبِّي فَقَالَ اللَّهُ مَا حَمَلَكَ عَلَى مَا فَعَلْتَ فَقَالَ مَخَافَتُكَ قَالَ فَمَا تَلَافَاهُ غَيْرُهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14548,
+                "hadithNumber": "6985",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Shu'ba with the chain of transmitters but with a slight variation of wording and Qatada explained the word lam yasiru as:  \"I find no good in store for rxie in the eye of Allah.\"",
+                "hadithUrdu": "ہم سے یحییٰ بن حبیب الحارثی نے بیان کیا، معتمر بن سلیمان ، شیبان بن عبدالرحمٰن اور ابوعوانہ سب نے قتادہ سے شعبہ کی سند کے ساتھ اسی کی حدیث کے مانند بیان کیا ۔ شیبان اور ابوعوانہ کی حدیث میں یہ الفاظ ہیں : \"\" لوگوں میں سے ایک آدمی کو اللہ تعالیٰ نے بہت مال اور اولاد سے نوازا ۔ \"\" اور تمیمی کی حدیث میں ہے : \"\" اس نے اللہ کے پاس کوئی اچھائی جمع نہ کرائی \"\" کہا کہ قتادہ نے اس کی یہ تشریح کی : اس نے اللہ کے پاس کوئی اچھائی ذخیرہ نہ کی ۔ اور شیبان کی حدیث میں ہے : \"\" بےشک اس نے ، اللہ کی قسم! اللہ کے ہاں کوئی نیکی محفوظ نہ کرائی ۔ \"\" اور ابوعوانہ کی حدیث میں ہے : \"\" اس نے کچھ جمع نہ کیا \"\" امتار میم کے ساتھ ( یہ سب بولنے میں بھی ملتے جلتے الفاظ ہیں اور معنی میں بھی ۔ )",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنَاه يَحْيَى بْنُ حَبِيبٍ الْحَارِثِيُّ حَدَّثَنَا مُعْتَمِرُ بْنُ سُلَيْمَانَ قَالَ قَالَ لِي أَبِي حَدَّثَنَا قَتَادَةُ ح و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا الْحَسَنُ بْنُ مُوسَى حَدَّثَنَا شَيْبَانُ بْنُ عَبْدِ الرَّحْمَنِ ح و حَدَّثَنَا ابْنُ الْمُثَنَّى حَدَّثَنَا أَبُو الْوَلِيدِ حَدَّثَنَا أَبُو عَوَانَةَ كِلَاهُمَا عَنْ قَتَادَةَ ذَكَرُوا جَمِيعًا بِإِسْنَادِ شُعْبَةَ نَحْوَ حَدِيثِهِ وَفِي حَدِيثِ شَيْبَانَ وَأَبِي عَوَانَةَ أَنَّ رَجُلًا مِنْ النَّاسِ رَغَسَهُ اللَّهُ مَالًا وَوَلَدًا وَفِي حَدِيثِ التَّيْمِيِّ فَإِنَّهُ لَمْ يَبْتَئِرْ عِنْدَ اللَّهِ خَيْرًا قَالَ فَسَّرَهَا قَتَادَةُ لَمْ يَدَّخِرْ عِنْدَ اللَّهِ خَيْرًا وَفِي حَدِيثِ شَيْبَانَ فَإِنَّهُ وَاللَّهِ مَا ابْتَأَرَ عِنْدَ اللَّهِ خَيْرًا وَفِي حَدِيثِ أَبِي عَوَانَةَ مَا امْتَأَرَ بِالْمِيمِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14549,
+                "hadithNumber": "6986",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported from Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ):",
+                "hadithEnglish": "His Lord, the Exalted and Glorious, thus said. A servant committed a sin and he said: O Allah, forgive me my sins, and Allah (the Exalted and Glorious) said: My servant commited a sin and then he came to realise that he has a Lord Who forgives the sins and takes to account (the sinner) for the sin. He then again committed a sin and said: My Lord, forgive me my sin, and Allah, the Exalted and High, said: My servant committed a sin and then came to realise that he has a Lord Who would forgive his sin or would take (him) to account for the sin. He again committed a sin and said: My Lord, forgive me for my sin, and Allah (the Exalted and High) said: My servant was committed a sin and then came to realise that he has a Lord Who forgives the sins or takes (him) to account for sin. O servant, do what you like. I have granted you forgiveness. 'Abdul-A'la said: I do not know whether he said thrice or four times to do what you desire .",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے اپنے رب عزوجل سے نقل کرتے ہوئے فرمایا : \"\" ایک بندے نے گناہ کیا ، اس نے کہا : اے اللہ! میرا گناہ بخش دے ، تو ( اللہ ) تبارک و تعالیٰ نے فرمایا : میرے بندے نے گناہ کیا ہے ، اس کو پتہ ہے کہ اس کا رب ہے جو گناہ معاف بھی کرتا ہے اور گناہ پر گرفت بھی کرتا ہے ، اس بندے نے پھر گناہ کیا تو کہا : میرے رب! میرا گناہ بخش دے ، تو ( اللہ ) تبارک و تعالیٰ نے فرمایا : میرا بندہ ہے ، اس نے گناہ کیا ہے تو اسے معلوم ہے کہ اس کا رب ہے جو گناہ بخش دیتا ہے اور ( چاہے تو ) گناہ پر پکڑتا ہے ۔ اس بندے نے پھر سے وہی کیا ، گناہ کیا اور کہا : میرے رب! میرے لیے میرا گناہ بخش دے ، تو ( اللہ ) تبارک و تعالیٰ نے فرمایا : میرے بندے نے گناہ کیا تو اسے معلوم ہے کہ اس کا رب ہے جو گناہ بخشتا ہے اور ( چاہے تو ) گناہ پر پکڑ لیتا ہے ، ( میرے بندے! اب تو ) جو چاہے کر ، میں نے تجھے بخش دیا ہے ۔ \"\" عبدالاعلیٰ نے کہا : مجھے ( پوری طرح ) معلوم نہیں کہ آپ صلی اللہ علیہ وسلم نے تیسری بار فرمایا یا چوتھی بار : \"\" جو چاہے کر ۔ \"\"",
+                "urduNarrator": "عبدالاعلیٰ بن حماد نے مجھے حدیث بیان کی ، انہوں نے کہا : ہمیں حماد بن سلمہ نے اسحٰق بن عبداللہ بن ابی طلحہ سے حدیث سنائی ، انہوں نے عبدالرحمٰن بن ابی عمرہ سے ، انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنِي عَبْدُ الْأَعْلَى بْنُ حَمَّادٍ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ عَنْ إِسْحَقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي عَمْرَةَ عَنْ أَبِي هُرَيْرَةَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِيمَا يَحْكِي عَنْ رَبِّهِ عَزَّ وَجَلَّ قَالَ أَذْنَبَ عَبْدٌ ذَنْبًا فَقَالَ اللَّهُمَّ اغْفِرْ لِي ذَنْبِي فَقَالَ تَبَارَكَ وَتَعَالَى أَذْنَبَ عَبْدِي ذَنْبًا فَعَلِمَ أَنَّ لَهُ رَبًّا يَغْفِرُ الذَّنْبَ وَيَأْخُذُ بِالذَّنْبِ ثُمَّ عَادَ فَأَذْنَبَ فَقَالَ أَيْ رَبِّ اغْفِرْ لِي ذَنْبِي فَقَالَ تَبَارَكَ وَتَعَالَى عَبْدِي أَذْنَبَ ذَنْبًا فَعَلِمَ أَنَّ لَهُ رَبًّا يَغْفِرُ الذَّنْبَ وَيَأْخُذُ بِالذَّنْبِ ثُمَّ عَادَ فَأَذْنَبَ فَقَالَ أَيْ رَبِّ اغْفِرْ لِي ذَنْبِي فَقَالَ تَبَارَكَ وَتَعَالَى أَذْنَبَ عَبْدِي ذَنْبًا فَعَلِمَ أَنَّ لَهُ رَبًّا يَغْفِرُ الذَّنْبَ وَيَأْخُذُ بِالذَّنْبِ اعْمَلْ مَا شِئْتَ فَقَدْ غَفَرْتُ لَكَ قَالَ عَبْدُ الْأَعْلَى لَا أَدْرِي أَقَالَ فِي الثَّالِثَةِ أَوْ الرَّابِعَةِ اعْمَلْ مَا شِئْتَ.",
+                "headingArabic": "قَبُولِ التَّوْبَةِ مِنَ الذُّنُوبِ وَإِنْ تَكَرَّرَتِ الذُّنُوبُ وَالتَّوْبَةُ ‏‏",
+                "headingUrdu": "گناہ سے توبہ کی قبولیت، چاہے گناہ اور توبہ بار بار ہو۔",
+                "headingEnglish": "Acceptance Of Repentance From Sin, Even If The Sin And Repentance Happen Repeatedly",
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14550,
+                "hadithNumber": "6987",
+                "englishNarrator": null,
+                "hadithEnglish": "The hadith has been narrated on the authority of 'Abdul-A'la bin Hammad with the same chain of transmitters.",
+                "hadithUrdu": "ابو احمد نے کہا کہ بتاؤ, محمد بن زنجویہ قشیری نے کہا : ہمیں عبدالاعلیٰ بن حماد نرسی نے اسی سند کے ساتھ ( یہی ) حدیث بیان کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "قَالَ أَبُو أَحْمَدَ حَدَّثَنِي مُحَمَّدُ بْنُ زَنْجُويَةَ الْقُرَشِيُّ الْقُشَيْرِيُّ حَدَّثَنَا عَبْدُ الْأَعْلَى بْنُ حَمَّادٍ النَّرْسِيُّ بِهَذَا الْإِسْنَادِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14551,
+                "hadithNumber": "6988",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Lie heard Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying that a servant committed a sin. The rest of the hadith is the same, but there is a slight variation of wording.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم کو یہ فرماتے ہوئے سنا : \" یقینا ایک بندے نے گناہ کیا \" ( آگے ) حماد بن سلمہ کی حدیث کے مطابق بیان کیا اور اس نے \" گناہ کیا \" ( کے الفاظ ) تین بار کہے اور تیسری دفعہ کے بعد کہا : \" میں نے اپنے بندے کو بخش دیا ، لہذا جو چاہے کرے ۔ \"",
+                "urduNarrator": "مجھ سے عبد بن حمید نے بیان کیا، مجھ سے ابو الولید نے بیان کیا, ہمام نے کہا : ہمیں اسحٰق بن عبداللہ بن ابی طلحہ نے حدیث بیان کی ، انہوں نے کہا : مدینہ میں ایک واعظ تھا جسے عبدالرحمٰن بن ابی عمرہ کہا جاتا تھا ، میں نے اسے کہتے ہوئے سنا کہ میں نے حضرت ابوہریرہ رضی اللہ عنہ کو یہ کہتے ہوئے سنا",
+                "hadithArabic": "حَدَّثَنِي عَبْدُ بْنُ حُمَيْدٍ حَدَّثَنِي أَبُو الْوَلِيدِ حَدَّثَنَا هَمَّامٌ حَدَّثَنَا إِسْحَقُ بْنُ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ قَالَ كَانَ بِالْمَدِينَةِ قَاصٌّ يُقَالُ لَهُ عَبْدُ الرَّحْمَنِ بْنُ أَبِي عَمْرَةَ قَالَ فَسَمِعْتُهُ يَقُولُ سَمِعْتُ أَبَا هُرَيْرَةَ يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ إِنَّ عَبْدًا أَذْنَبَ ذَنْبًا بِمَعْنَى حَدِيثِ حَمَّادِ بْنِ سَلَمَةَ وَذَكَرَ ثَلَاثَ مَرَّاتٍ أَذْنَبَ ذَنْبًا وَفِي الثَّالِثَةِ قَدْ غَفَرْتُ لِعَبْدِي فَلْيَعْمَلْ مَا شَاءَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14552,
+                "hadithNumber": "6989",
+                "englishNarrator": "Abu Musa رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying that Allah, the Exalted and Glorious, Stretches out His Hand during the night so that the people may repent for the fault committed from dawn till dusk and He stretches out His Hand during the day so that the people may repent for the fault committed from dusk to dawn. (He would accept repentance) before the sun rises in the west (before the Day of Resurrection).",
+                "hadithUrdu": "آپ نے فرمایا : \" اللہ عزوجل رات کو اپنا دست ( رحمت بندوں کی طرف ) پھیلا دیتا ہے تاکہ دن کو گناہ کرنے والا توبہ کرے اور دن کو اپنا دست ( رحمت ) پھیلا دیتا ہے تاکہ رات کو گناہ کرنے والا توبہ کرے ( اور وہ اس وقت تک یہی کرتا رہے گا ) یہاں تک کہ سورج مغرب سے طلوع ہو جائے ۔ \"",
+                "urduNarrator": "ہم سے محمد بن المثنی نے بیان کیا,محمد بن جعفر نے کہا , ہمیں شعبہ نے عمرہ بن مرہ سے حدیث بیان کی ، انہوں نے کہا : میں نے ابوعبید کو حضرت ابوموسیٰ رضی اللہ عنہ سے حدیث بیان کرتے ہوئے سنا ، انہوں نے نبی صلی اللہ علیہ وسلم سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ عَمْرِو بْنِ مُرَّةَ قَالَ سَمِعْتُ أَبَا عُبَيْدَةَ يُحَدِّثُ عَنْ أَبِي مُوسَى عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِنَّ اللَّهَ عَزَّ وَجَلَّ يَبْسُطُ يَدَهُ بِاللَّيْلِ لِيَتُوبَ مُسِيءُ النَّهَارِ وَيَبْسُطُ يَدَهُ بِالنَّهَارِ لِيَتُوبَ مُسِيءُ اللَّيْلِ حَتَّى تَطْلُعَ الشَّمْسُ مِنْ مَغْرِبِهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14553,
+                "hadithNumber": "6990",
+                "englishNarrator": null,
+                "hadithEnglish": "A hadith like this has been narrated on the authority of Shu'ba with the same chain of transmitters.",
+                "hadithUrdu": "ہم سے محمد بن بشار نے بیان کیا, ابوداود نے کہا , ہمیں شعبہ نے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا أَبُو دَاوُدَ حَدَّثَنَا شُعْبَةُ بِهَذَا الْإِسْنَادِ نَحْوَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14554,
+                "hadithNumber": "6991",
+                "englishNarrator": "Abdullah رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: Nothing is more loveable to Allah than His praise as He has praised Himself and no one is more self-respecting than Allah Himself and it As because of this that He has prohibited abominable acts.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" اللہ تعالیٰ سے بڑھ کر کوئی نہیں جسے مدح ( اس کی رحمت و عنایت کا اقرار اور اس پر اس کی تعریف ) پسند ہو ، اسی لیے اس نے خود اپنی مدح فرمائی ہے اور کوئی نہیں جو اللہ سے بڑھ کر غیرت مند ہو ، اسی لیے اس نے بے حیائی کے تمام کام ، ان میں سے جو ظاہر ہیں اور جو پوشیدہ ہیں ، حرام کر دیے ہیں ۔ \"",
+                "urduNarrator": "ہم سے عثمان بن ابی شیبہ اور اسحاق بن ابراہیم نے بیان کیا۔ ہمیں اسحاق نے بیان کیا اور عثمان نے کہا, جریر نے اعمش سے ، انہوں نے ابووائل ( شقیق ) سے اور انہوں نے حضرت عبداللہ ( بن مسعود رضی اللہ عنہ ) سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ وَإِسْحَقُ بْنُ إِبْرَاهِيمَ قَالَ إِسْحَقُ أَخْبَرَنَا و قَالَ عُثْمَانُ حَدَّثَنَا جَرِيرٌ عَنْ الْأَعْمَشِ عَنْ أَبِي وَائِلٍ عَنْ عَبْدِ اللَّهِ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَيْسَ أَحَدٌ أَحَبَّ إِلَيْهِ الْمَدْحُ مِنْ اللَّهِ مِنْ أَجْلِ ذَلِكَ مَدَحَ نَفْسَهُ وَلَيْسَ أَحَدٌ أَغْيَرَ مِنْ اللَّهِ مِنْ أَجْلِ ذَلِكَ حَرَّمَ الْفَوَاحِشَ مَا ظَهَرَ مِنهَا وَمَا بَطَنَ.",
+                "headingArabic": "غَيْرَةِ اللَّهِ تَعَالَى وَتَحْرِيمِ الْفَوَاحِشِ ‏‏",
+                "headingUrdu": "اللہ عزوجل کی حفاظتی غیرت (غیرت) اور بد اخلاقی کی ممانعت",
+                "headingEnglish": "The Protective Jealousy (Ghirah) Of Allah The Most High, And The Prohibition Of Immoral Behavior",
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14555,
+                "hadithNumber": "6992",
+                "englishNarrator": "Abdullah رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying: None is more self-respecting than Allah and it is because of this that He has prohibited abominable acts-both visible and invisible-and none loves His praise more than Allah Himself.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" اللہ سے بڑھ کر کوئی غیور نہیں ہے ، اسی لیے اس نے بے حیائی کے تمام کام ، ان میں سے جو ظاہر ہیں اور جو پوشیدہ ہیں حرام کر دیے ہیں ، اللہ تعالیٰ سے بڑھ کر کوئی نہیں ہے جسے مدح زیادہ پسند ہو ۔ \"",
+                "urduNarrator": "محمد بن عبداللہ بن نمیر اور ابومعاویہ نے اعمش سے ، انہوں نے شقیق سے اور انہوں نے حضرت عبداللہ ( بن مسعود رضی اللہ عنہ ) سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ وَأَبُو كُرَيْبٍ قَالَا حَدَّثَنَا أَبُو مُعَاوِيَةَ ح و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَاللَّفْظُ لَهُ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ وَأَبُو مُعَاوِيَةَ عَنْ الْأَعْمَشِ عَنْ شَقِيقٍ عَنْ عَبْدِ اللَّهِ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا أَحَدٌ أَغْيَرَ مِنْ اللَّهِ وَلِذَلِكَ حَرَّمَ الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا أَحَدٌ أَحَبَّ إِلَيْهِ الْمَدْحُ مِنْ اللَّهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14556,
+                "hadithNumber": "6993",
+                "englishNarrator": "Abdullah bin Mas'ud رضی اللہ عنہ reported:",
+                "hadithEnglish": "It directly from Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) that he said: None is more self-respecting than Allah and it is because of this that He has prohibited abominable acts-both visible and invisible and nothing is loved by Allah more than the praise of His Ownself and it is because of this that He has praised Himself.",
+                "hadithUrdu": "انہوں نے اسے مرفوعا بیان کیا : ۔ ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \" اللہ سے بڑھ کر کوئی غیرت مند نہیں ، اسی لیے اس نے تمام کھلی اور پوشیدہ فواحش ( بے حیائی کی باتیں ) حرام کر دیں اور اللہ سے بڑھ کر کسی کو مدح پسند نہیں ( کیونکہ حقیقت میں وہی مدح کا حقدار ہے ) ، اسی لیے اس نے اپنی مدح فرمائی ہے ۔ \"",
+                "urduNarrator": "ہم سے محمد بن المثنیٰ اور ابن بشار نے بیان کیا، کہا: ہم سے محمد بن جعفر نے بیان کیا، ہم سے شعبہ نے بیان کیا,عمرو بن مرہ نے کہا : میں نے ابووائل کو کہتے ہوئے سنا کہ میں نے حضرت عبداللہ بن مسعود رضی اللہ عنہ کو یہ کہتے ہوئے سنا ، وہ کہتے تھے ۔ ۔ ( عمرو بن مرہ نے ) کہا : میں نے ان ( ابووائل ) سے کہا : کیا آپ نے خود عبداللہ بن مسعود رضی اللہ عنہ سے سنا تھا؟ انہوں نے کہا : ہاں ۔ اور",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى وَابْنُ بَشَّارٍ قَالَا حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ عَمْرِو بْنِ مُرَّةَ قَالَ سَمِعْتُ أَبَا وَائِلٍ يَقُولُ سَمِعْتُ عَبْدَ اللَّهِ بْنَ مَسْعُودٍ يَقُولُ قُلْتُ لَهُ آنْتَ سَمِعْتَهُ مِنْ عَبْدِ اللَّهِ قَالَ نَعَمْ وَرَفَعَهُ أَنَّهُ قَالَ لَا أَحَدٌ أَغْيَرَ مِنْ اللَّهِ وَلِذَلِكَ حَرَّمَ الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا أَحَدٌ أَحَبَّ إِلَيْهِ الْمَدْحُ مِنْ اللَّهِ وَلِذَلِكَ مَدَحَ نَفْسَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14557,
+                "hadithNumber": "6994",
+                "englishNarrator": "Abdullah bin Mas'ud رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: None loves one's own praise more than Allah, the Exalted and Glurious, does. It is because of this that He has praised Himself, and none is more self-respecting than Allah and it is because of this that He has prohibited abominable acts and there is none who is more anxious to accept the apologies of the people than Allah Himself and it is because of this that He has revealed the Book and sent the Messengers.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" کوئی نہیں جسے اللہ سے بڑھ کر مدح پسند ہو ، اسی بنا پر اس نے اپنی مدح فرمائی اور کوئی نہیں جو اللہ سے بڑھ کر غیرت مند ہو ، اسی بنا پر اس نے تمام فواحش حرام کر دیں اور کوئی نہیں جسے اللہ سے بڑھ کر ( بندوں کا اس سے ) معذرت کرنا پسند ہو ، اسی بنا پر اس نے کتاب نازل فرمائی اور پیغمبروں کو بھیجا ۔ \"",
+                "urduNarrator": "ہم سے عثمان بن ابی شیبہ، زہیر بن حرب اور اسحاق بن ابراہیم نے بیان کیا, ہم سے اسحاق نے بیان کیا اور دوسرے دو نے کہا کہ ہم سے جریر نے مالک بن حارث کی سند سے اعمش کے بارے میں بیان کیا,  عبدالرحمٰن بن یزید نے حضرت عبداللہ بن مسعود رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ وَزُهَيْرُ بْنُ حَرْبٍ وَإِسْحَقُ بْنُ إِبْرَاهِيمَ قَالَ إِسْحَقُ أَخْبَرَنَا و قَالَ الْآخَرَانِ حَدَّثَنَا جَرِيرٌ عَنْ الْأَعْمَشِ عَنْ مَالِكِ بْنِ الْحَارِثِ عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَيْسَ أَحَدٌ أَحَبَّ إِلَيْهِ الْمَدْحُ مِنْ اللَّهِ عَزَّ وَجَلَّ مِنْ أَجْلِ ذَلِكَ مَدَحَ نَفْسَهُ وَلَيْسَ أَحَدٌ أَغْيَرَ مِنْ اللَّهِ مِنْ أَجْلِ ذَلِكَ حَرَّمَ الْفَوَاحِشَ وَلَيْسَ أَحَدٌ أَحَبَّ إِلَيْهِ الْعُذْرُ مِنْ اللَّهِ مِنْ أَجْلِ ذَلِكَ أَنْزَلَ الْكِتَابَ وَأَرْسَلَ الرُّسُلَض.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14558,
+                "hadithNumber": "6995",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: Allah is self-respecting and a believer is also self-respecting and the respect of Allah is injured if a believer does what He has forbidden him to do.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" اللہ تعالیٰ غیرت فرماتا ہے اور بےشک مومن بھی غیرت کرتا ہے ۔ اللہ کی غیرت اس بات پر ہوتی ہے کہ مومن ایسے کام کا ارتکاب کرے جو اس نے اس پر حرام کیا ہے ۔ \"",
+                "urduNarrator": "ہم سے عمرو  الناقد نے بیان کیا، کہا ہم سے اسماعیل بن ابراہیم بن اولیاء نے بیان کیا، حجاج بن ابی عثمان نے کہا : یحییٰ ( بن ابی کثیر ) نے کہا : مجھے ابوسلمہ نے حضرت ابوہریرہ رضی اللہ عنہ سے حدیث بیان کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا عَمْرٌو النَّاقِدُ حَدَّثَنَا إِسْمَعِيلُ بْنُ إِبْرَاهِيمَ ابْنِ عُلَيَّةَ عَنْ حَجَّاجِ بْنِ أَبِي عُثْمَانَ قَالَ قَالَ يَحْيَى وَحَدَّثَنِي أَبُو سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِنَّ اللَّهَ يَغَارُ وَإِنَّ الْمُؤْمِنَ يَغَارُ وَغَيْرَةُ اللَّهِ أَنْ يَأْتِيَ الْمُؤْمِنُ مَا حَرَّمَ عَلَيْهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14559,
+                "hadithNumber": "6996",
+                "englishNarrator": "Asma' رضی اللہ عنہا daughter of Abu Bakr narrated:",
+                "hadithEnglish": "She heard the Messenger of Allah ﷺ says: \"Nothing has a greater sense of protective jealousy than Allah, Glorified and Exalted is he.\"",
+                "hadithUrdu": "انہوں نے رسول اللہ صلی اللہ علیہ وسلم کو یہ ارشاد فرماتے ہوئے سنا : \" کوئی نہیں جو اللہ عزوجل سے زیادہ غیرت مند ہو ۔ \"",
+                "urduNarrator": "یحییٰ نے کہا , مجھے ابوسلمہ نے حدیث بیان کی ، انہٰن عروہ بن زبیر نے بیان کیا ، انہیں حضرت اسماء بنت ابی بکر رضی اللہ عنہا نے حدیث سنائی کہ",
+                "hadithArabic": "قَالَ يَحْيَى وَحَدَّثَنِي أَبُو سَلَمَةَ أَنَّ عُرْوَةَ بْنَ الزُّبَيْرِ حَدَّثَهُ أَنَّ أَسْمَاءَ بِنْتَ أَبِي بَكْرٍ حَدَّثَتْهُ أَنَّهَا سَمِعَتْ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ لَيْسَ شَيْءٌ أَغْيَرَ مِنْ اللَّهِ عَزَّ وَجَلَّ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14560,
+                "hadithNumber": "6997",
+                "englishNarrator": null,
+                "hadithEnglish": "A report like that of Hajjaj (no. 6995) was narrated from Abu Hurairah رضی اللہ عنہ from the prophet ﷺ.",
+                "hadithUrdu": "ہم سے محمد بن المثنی نے بیان کیا، کہا ہم سے ابوداؤد نے بیان کیا, ابان بن یزید اور حرب بن شداد نے یحییٰ بن ابی کثیر سے ، انہوں نے ابوسلمہ سے ، انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے حجاج کی روایت کے مانند صرف حضرت ابوہریرہ رضی اللہ عنہ کی حدیث بیان کی اور انہوں نے حضرت اسماء رضی اللہ عنہا کی حدیث کا ذکر نہیں کیا ۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنَا أَبُو دَاوُدَ حَدَّثَنَا أَبَانُ بْنُ يَزِيدَ وَحَرْبُ بْنُ شَدَّادٍ عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ عَنْ أَبِي سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِ رِوَايَةِ حَجَّاجٍ حَدِيثَ أَبِي هُرَيْرَةَ خَاصَّةً وَلَمْ يَذْكُرْ حَدِيثَ أَسْمَاءَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14561,
+                "hadithNumber": "6998",
+                "englishNarrator": "Asma' رضی اللہ عنہا reported:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: There is none more self-respecting than Allah, the Exalted and Glorious.",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا : \" اللہ عزوجل سے بڑھ کر کوئی غیور نہیں ہے ۔ \"",
+                "urduNarrator": "ہم سے محمد بن ابی بکر المقدمی نے بیان کیا، ہم سے بشر بن المفضل نے بیان کیا, ہشام نے یحییٰ بن ابی کثیر سے ، انہوں نے ابوسلمہ سے ، انہوں نے عروہ سے ، انہوں نے حضرت اسماء رضی اللہ عنہا سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے روایت کی کہ",
+                "hadithArabic": "و حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي بَكْرٍ الْمُقَدَّمِيُّ حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ عَنْ هِشَامٍ عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ عَنْ أَبِي سَلَمَةَ عَنْ عُرْوَةَ عَنْ أَسْمَاءَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ لَا شَيْءَ أَغْيَرُ مِنْ اللَّهِ عَزَّ وَجَلَّ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14562,
+                "hadithNumber": "6999",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger (ﷺ) as saying: A believer is self-respecting and Allah is extremely self-respecting.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" مومن ( دوسرے ) مومن کے لیے غیرت کرتا ہے ( کہ اس کی حرمت پامال نہ کی جائے ) اور اللہ تعالیٰ تو غیرت میں اس سے بڑھ کر ہے ۔ \"",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا, عبدالعزیز بن محمد نے علاء سے ، انہوں نے اپنے والد ( عبدالرحمٰن ) سے اور انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ حَدَّثَنَا عَبْدُ الْعَزِيزِ يَعْنِي ابْنَ مُحَمَّدٍ عَنْ الْعَلَاءِ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ الْمُؤْمِنُ يَغَارُ وَاللَّهُ أَشَدُّ غَيْرًا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 14563,
+                "hadithNumber": "7000",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Shu'ba through another chain of transmitters.",
+                "hadithUrdu": "ہم سے محمد بن مثنیٰ نے بیان کیا، ہم سے محمد بن جعفر نے بیان کیا, شعبہ نے کہا : میں نے علاء کو اسی سند کے ساتھ ( یہی حدیث بیان کرتے ہوئے ) سنا ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ قَالَ سَمِعْتُ الْعَلَاءَ بِهَذَا الْإِسْنَادِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "50",
+                "bookSlug": "sahih-muslim",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 150,
+                    "chapterNumber": "50",
+                    "chapterEnglish": "The Book of Repentance",
+                    "chapterUrdu": "توبہ کا بیان",
+                    "chapterArabic": "كتاب التَّوْبَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 14251,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=570",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=568",
+                "label": "568",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=569",
+                "label": "569",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=570",
+                "label": "570",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=571",
+                "label": "571",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=572",
+                "label": "572",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=573",
+                "label": "573",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=574",
+                "label": "574",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=572",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=572",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=570",
+        "to": 14275,
+        "total": 40465
+    }
+}

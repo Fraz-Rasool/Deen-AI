@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 180,
+        "data": [
+            {
+                "id": 4478,
+                "hadithNumber": "4699",
+                "englishNarrator": "Narrated Al-Bara bin Azib رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"When a Muslim is questioned in his grave, he will testify that none has the right to be worshipped but Allah and that Muhammad is Allah's Messenger (ﷺ), and that is what is meant by Allah's Statement:-- \"Allah will keep firm those who believe with a Word that stands firm in this world and in the Hereafter.\" (14.27)",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ مسلمان سے جب قبر میں سوال ہو گا تو وہ گواہی دے گا کہ اللہ کے سوا کوئی معبود نہیں اور یہ کہ محمد اللہ کے رسول ہیں۔ اللہ تعالیٰ کے ارشاد «يثبت الله الذين آمنوا بالقول الثابت في الحياة الدنيا وفي الآخرة‏» ”اللہ ایمان والوں کی اس پکی بات ( کی برکت ) سے مضبوط رکھتا ہے، دنیوی زندگی میں ( بھی ) اور آخرت میں ( بھی ) “ کا یہی مطلب ہے۔",
+                "urduNarrator": "ہم سے ابوالولید نے بیان کیا، انہوں نے کہا ہم سے شعبہ نے بیان کیا، انہوں نے کہا کہ مجھے علقمہ بن مرثد نے خبر دی، انہوں نے کہا کہ میں نے سعد بن عبیدہ سے سنا اور انہوں نے براء بن عازب رضی اللہ عنہ سے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْوَلِيدِ، حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي عَلْقَمَةُ بْنُ مَرْثَدٍ، قَالَ سَمِعْتُ سَعْدَ بْنَ عُبَيْدَةَ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ الْمُسْلِمُ إِذَا سُئِلَ فِي الْقَبْرِ يَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، فَذَلِكَ قَوْلُهُ ‏{‏يُثَبِّتُ اللَّهُ الَّذِينَ آمَنُوا بِالْقَوْلِ الثَّابِتِ فِي الْحَيَاةِ الدُّنْيَا وَفِي الآخِرَةِ‏}‏‏\"‏",
+                "headingArabic": "‏{‏يُثَبِّتُ اللَّهُ الَّذِينَ آمَنُوا بِالْقَوْلِ الثَّابِتِ‏}‏",
+                "headingUrdu": "\"جو لوگ ایمان لائے ہیں اللہ ان کو ثابت قدم رکھے گا، اس بات کے ساتھ جو قائم ہے...\" (V.14:27)",
+                "headingEnglish": "\"Allah will keep firm those who believe with, the word that stands firm...\" (V.14:27)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4479,
+                "hadithNumber": "4700",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "\"Have you not seen those who have changed the favor of Allah into disbelief?\" (14.28) he said, \"Those were the disbelieving pagans of Mecca.\"",
+                "hadithUrdu": "آیت «ألم تر إلى الذين بدلوا نعمة الله كفرا‏» میں کفار سے اہل مکہ مراد ہیں۔",
+                "urduNarrator": "ہم سے علی بن عبداللہ نے بیان کیا، کہا ہم سے سفیان بن عیینہ نے بیان کیا، ان سے عمرو بن دینار نے، ان سے عطاء بن ابی رباح نے اور انہوں نے ابن عباس رضی اللہ عنہما سے سنا کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ عَطَاءٍ، سَمِعَ ابْنَ عَبَّاسٍ، ‏{‏أَلَمْ تَرَ إِلَى الَّذِينَ بَدَّلُوا نِعْمَةَ اللَّهِ كُفْرًا‏}‏ قَالَ هُمْ كُفَّارُ أَهْلِ مَكَّةَ‏.‏",
+                "headingArabic": "‏{‏أَلَمْ تَرَ إِلَى الَّذِينَ بَدَّلُوا نِعْمَةَ اللَّهِ كُفْرًا‏}‏",
+                "headingUrdu": "\"کیا تم نے ان لوگوں کو نہیں دیکھا جنہوں نے اللہ کی نعمتوں کو کفر میں بدل دیا؟\" (V. 14:28)",
+                "headingEnglish": "\"Have you not seen those who have changed the Blessings of Allah into disbelief?...\" (V.14:28)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4480,
+                "hadithNumber": "4701",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"When Allah has ordained some affair in the Heaven, the angels beat with their wings in obedience to His statement, which sounds like a chain dragged over a rock.\" (`Ali and other sub-narrators said, \"The sound reaches them.\") \"Until when fear is banished from their (angels) hearts, they (angels) say, 'What was it that your Lord said? They say, 'The truth; And He is the Most High, the Most Great.' (34.23) Then those who gain a hearing by stealing (i.e. devils) will hear Allah's Statement:-- 'Those who gain a hearing by stealing, (stand one over the other like this). (Sufyan, to illustrate this, spread the fingers of his right hand and placed them one over the other horizontally.) A flame may overtake and burn the eavesdropper before conveying the news to the one below him; or it may not overtake him till he has conveyed it to the one below him, who in his turn, conveys it to the one below him, and so on till they convey the news to the earth. (Or probably Sufyan said, \"Till the news reaches the earth.\") Then the news is inspired to a sorcerer who would add a hundred lies to it. His prophecy will prove true (as far as the heavenly news is concerned). The people will say. 'Didn't he tell us that on such-and-such a day, such-and-such a thing will happen? We have found that is true because of the true news heard from heaven.\" The above hadith is also narrated by Abu Huraira, starting: 'When Allah has ordained some affair...') In this narration the word foreteller is added to the word wizard.",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا جب اللہ تعالیٰ آسمان میں کوئی فیصلہ فرماتا ہے تو ملائکہ عاجزی سے اپنے پر مارنے لگتے ہیں۔ جیسا کہ اللہ تعالیٰ کے ارشاد میں ہے کہ جیسے کسی صاف چکنے پتھر پر زنجیر کے ( مارنے سے آواز پیدا ہوتی ہے ) اور علی بن عبداللہ المدینی نے بیان کیا کہ سفیان بن عیینہ کے سوا اور راویوں نے «صفوان» کے بعد «ينفذهم ذلك» ( جس سے ان پر دہشت طاری ہوتی ہے ) کے الفاظ کہے ہیں۔ پھر اللہ پاک اپنا حکم فرشتوں تک پہنچا دیتا ہے، جب ان کے دلوں پر سے ڈر جاتا رہتا ہے تو دوسرے دور والے فرشتے نزدیک والے فرشتوں سے پوچھتے ہیں پروردگار نے کیا حکم صادر فرمایا۔ نزدیک والے فرشتے کہتے ہیں بجا ارشاد فرمایا اور وہ اونچا ہے بڑا۔ فرشتوں کی یہ باتیں چوری سے بات اڑانے والے شیطان پا لیتے ہیں۔ یہ بات اڑانے والے شیطان اوپر تلے رہتے ہیں ( ایک پر ایک ) سفیان نے اپنے دائیں ہاتھ کی انگلیاں کھول کر ایک پر ایک کر کے بتلایا کہ اس طرح شیطان اوپر تلے رہ کر وہاں جاتے ہیں۔ پھر بھی کبھی ایسا ہوتا ہے۔ فرشتے خبر پا کر آگ کا شعلہ پھینکتے ہیں وہ بات سننے والے کو اس سے پہلے جلا ڈالتا ہے کہ وہ اپنے پیچھے والے کو وہ بات پہنچا دے۔ کبھی ایسا ہوتا ہے کہ وہ شعلہ اس تک نہیں پہنچتا اور وہ اپنے نیچے والے شیطان کو وہ بات پہنچا دیتا ہے، وہ اس سے نیچے والے کو اس طرح وہ بات زمین تک پہنچا دیتے ہیں۔ یہاں تک کہ زمین تک آ پہنچتی ہے۔ ( کبھی سفیان نے یوں کہا ) پھر وہ بات نجومی کے منہ پر ڈالی جاتی ہے۔ وہ ایک بات میں سو باتیں جھوٹ اپنی طرف سے ملا کر لوگوں سے بیان کرتا ہے۔ کوئی کوئی بات اس کی سچ نکلتی ہے تو لوگ کہنے لگتے ہیں دیکھو اس نجومی نے فلاں دن ہم کو یہ خبر دی تھی کہ آئندہ ایسا ایسا ہو گا اور ویسا ہی ہوا۔ اس کی بات سچ نکلی۔ یہ وہ بات ہوتی ہے جو آسمان سے چرائی گئی تھی۔ مذکورہ بالا حدیث بھی ابوہریرہ رضی اللہ عنہ سے مروی ہے، اس سے شروع کرتے ہوئے: 'جب اللہ تعالیٰ نے کسی کام کا حکم دیا ہے...') اس روایت میں لفظ جادوگر کے ساتھ لفظ پیشین گوئی کا اضافہ کیا گیا ہے۔",
+                "urduNarrator": "ہم سے علی بن عبداللہ مدینی نے بیان کیا، کہا ہم سے سفیان بن عیینہ نے بیان کیا، ان سے عمرو بن دینار نے، ان سے عکرمہ نے اور ان سے ابوہریرہ رضی اللہ عنہ نے نبی کریم صلی اللہ علیہ وسلم سے کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ عِكْرِمَةَ، عَنْ أَبِي هُرَيْرَةَ، يَبْلُغُ بِهِ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا قَضَى اللَّهُ الأَمْرَ فِي السَّمَاءِ ضَرَبَتِ الْمَلاَئِكَةُ بِأَجْنِحَتِهَا خُضْعَانًا لِقَوْلِهِ كَالسِّلْسِلَةِ عَلَى صَفْوَانٍ ـ قَالَ عَلِيٌّ وَقَالَ غَيْرُهُ صَفْوَانٍ ـ يَنْفُذُهُمْ ذَلِكَ فَإِذَا فُزِّعَ عَنْ قُلُوبِهِمْ قَالُوا مَاذَا قَالَ رَبُّكُمْ، قَالُوا لِلَّذِي قَالَ الْحَقَّ وَهْوَ الْعَلِيُّ الْكَبِيرُ، فَيَسْمَعُهَا مُسْتَرِقُو السَّمْعِ، وَمُسْتَرِقُو السَّمْعِ هَكَذَا وَاحِدٌ فَوْقَ آخَرَ ـ وَوَصَفَ سُفْيَانُ بِيَدِهِ، وَفَرَّجَ بَيْنَ أَصَابِعِ يَدِهِ الْيُمْنَى، نَصَبَهَا بَعْضَهَا فَوْقَ بَعْضٍ ـ فَرُبَّمَا أَدْرَكَ الشِّهَابُ الْمُسْتَمِعَ، قَبْلَ أَنْ يَرْمِيَ بِهَا إِلَى صَاحِبِهِ، فَيُحْرِقَهُ وَرُبَّمَا لَمْ يُدْرِكْهُ حَتَّى يَرْمِيَ بِهَا إِلَى الَّذِي يَلِيهِ إِلَى الَّذِي هُوَ أَسْفَلُ مِنْهُ حَتَّى يُلْقُوهَا إِلَى الأَرْضِ ـ وَرُبَّمَا قَالَ سُفْيَانُ حَتَّى تَنْتَهِيَ إِلَى الأَرْضِ ـ فَتُلْقَى عَلَى فَمِ السَّاحِرِ، فَيَكْذِبُ مَعَهَا مِائَةَ كَذْبَةٍ فَيَصْدُقُ، فَيَقُولُونَ أَلَمْ يُخْبِرْنَا يَوْمَ كَذَا وَكَذَا يَكُونُ كَذَا وَكَذَا، فَوَجَدْنَاهُ حَقًّا لِلْكَلِمَةِ الَّتِي سُمِعَتْ مِنَ السَّمَاءِ ‏\"‏‏.‏ حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا عَمْرٌو، عَنْ عِكْرِمَةَ، عَنْ أَبِي هُرَيْرَةَ، إِذَا قَضَى اللَّهُ الأَمْرَ‏.‏ وَزَادَ الْكَاهِنِ‏.‏ وَحَدَّثَنَا سُفْيَانُ فَقَالَ قَالَ عَمْرٌو سَمِعْتُ عِكْرِمَةَ حَدَّثَنَا أَبُو هُرَيْرَةَ قَالَ إِذَا قَضَى اللَّهُ الأَمْرَ وَقَالَ عَلَى فَمِ السَّاحِرِ‏.‏ قُلْتُ لِسُفْيَانَ قَالَ سَمِعْتُ عِكْرِمَةَ قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ‏.‏ قَالَ نَعَمْ‏.‏ قُلْتُ لِسُفْيَانَ إِنَّ إِنْسَانًا رَوَى عَنْكَ عَنْ عَمْرٍو عَنْ عِكْرِمَةَ عَنْ أَبِي هُرَيْرَةَ وَيَرْفَعُهُ أَنَّهُ قَرَأَ فُزِّعَ‏.‏ قَالَ سُفْيَانُ هَكَذَا قَرَأَ عَمْرٌو‏.‏ فَلاَ أَدْرِي سَمِعَهُ هَكَذَا أَمْ لاَ‏.‏ قَالَ سُفْيَانُ وَهْىَ قِرَاءَتُنَا‏.‏",
+                "headingArabic": "قَوْلِهِ ‏{‏إِلاَّ مَنِ اسْتَرَقَ السَّمْعَ فَأَتْبَعَهُ شِهَابٌ مُبِينٌ‏}",
+                "headingUrdu": "اللہ تعالیٰ کا فرمان ہے: ’’سوائے اس (شیطان) کے جو چوری کرکے سنتا ہے، اس کے پیچھے بھڑکتی ہوئی آگ ہے۔‘‘ (V.15:18)",
+                "headingEnglish": "The Statement of Allah: \"Except him (devil) that gains hearing by stealing, he is pursued by a clear flaming fire.\" (V.15:18)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4481,
+                "hadithNumber": "4702",
+                "englishNarrator": "Narrated `Abdullah bin `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "(While we were going for the Battle of Tabuk and when we reached the places of the dwellers of Al- Hijr), Allah's Messenger (ﷺ) said about the dwellers of Al-Hijr (to us). \"Do not enter (the dwelling places) of these people unless you enter weeping, but if you weep not, then do not enter upon them, lest you be afflicted with what they were afflicted with.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے اصحاب حجر کے متعلق فرمایا تھا کہ اس قوم کی بستی سے جب گزرنا ہی پڑ گیا ہے تو روتے ہوئے گزرو اور اگر روتے ہوئے نہیں گزر سکتے تو پھر اس میں نہ جاؤ۔ کہیں تم پر بھی وہی عذاب نہ آئے جو ان پر آیا تھا۔",
+                "urduNarrator": "ہم سے ابراہیم بن المنذر نے بیان کیا، انہوں نے کہا ہم سے معن نے بیان کیا، انہوں نے کہا کہ مجھ سے امام مالک رحمہ اللہ نے بیان کیا، ان سے عبداللہ بن دینار نے بیان کیا، اور ان سے عبداللہ بن عمر رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ، حَدَّثَنَا مَعْنٌ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ لأَصْحَابِ الْحِجْرِ ‏ \"‏ لاَ تَدْخُلُوا عَلَى هَؤُلاَءِ الْقَوْمِ إِلاَّ أَنْ تَكُونُوا بَاكِينَ فَإِنْ لَمْ تَكُونُوا بَاكِينَ فَلاَ تَدْخُلُوا عَلَيْهِمْ أَنْ يُصِيبَكُمْ مِثْلُ مَا أَصَابَهُمْ ‏\"‏‏.‏",
+                "headingArabic": "قَوْلِهِ ‏{‏وَلَقَدْ كَذَّبَ أَصْحَابُ الْحِجْرِ الْمُرْسَلِينَ‏}‏",
+                "headingUrdu": "اللہ تعالیٰ کا فرمان ہے: ’’اور یقیناً حجر کے باشندوں نے رسولوں کو جھٹلایا‘‘۔ (V.15:80)",
+                "headingEnglish": "The Statement of Allah: \"And verily, the dwellers of AI-Hijr (Rocky Tract, i.e., Thamud people) denied the Messengers.\" (V.15:80)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4482,
+                "hadithNumber": "4703",
+                "englishNarrator": "Narrated Abu Sa`id Al-Mualla رضی اللہ عنہ :",
+                "hadithEnglish": "While I was praying, the Prophet (ﷺ) passed by and called me, but I did not go to him till I had finished my prayer. When I went to him, he said, \"What prevented you from coming?\" I said, \"I was praying.\" He said, \"Didn't Allah say\" \"O you who believes Give your response to Allah (by obeying Him) and to His Apostle.\" (8.24) Then he added, \"Shall I tell you the most superior Sura in the Qur'an before I go out of the mosque?\" When the Prophet (ﷺ) intended to go out (of the Mosque), I reminded him and he said, \"That is: \"Al hamdu-li l-lahi Rabbil-`alamin (Surat-al-fatiha)' which is the seven oft repeated verses (Al-Mathani) and the Grand Qur'an which has been given to me.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم میرے پاس سے گزرے میں اس وقت نماز پڑھ رہا تھا۔ نبی کریم صلی اللہ علیہ وسلم نے مجھے بلایا۔ میں نماز سے فارغ ہونے کے بعد خدمت میں حاضر ہوا۔ آپ صلی اللہ علیہ وسلم نے دریافت فرمایا کہ فوراً ہی کیوں نہ آئے؟ عرض کیا کہ نماز پڑھ رہا تھا۔ اس پر آپ صلی اللہ علیہ وسلم نے فرمایا کہ کیا اللہ نے تم لوگوں کو حکم نہیں دیا ہے کہ اے ایمان والو! جب اللہ اور اس کے رسول تمہیں بلائیں تو لبیک کہو، پھر آپ صلی اللہ علیہ وسلم نے فرمایا کہ کیوں نہ آج میں تمہیں مسجد سے نکلنے سے پہلے قرآن کی سب سے عظیم سورت بتاؤں۔ پھر آپ ( بتانے سے پہلے ) مسجد سے باہر تشریف لے جانے کے لیے اٹھے تو میں نے بات یاد دلائی۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ سورۃ فاتحہ «الحمد لله رب العالمين‏» یہی سبع مثانی ہے اور یہی قرآن عظیم ہے جو مجھے دیا گیا ہے۔",
+                "urduNarrator": "مجھ سے محمد بن بشار نے بیان کیا، انہوں نے کہا ہم سے غندر نے بیان کیا، کہا ہم سے شعبہ نے بیان کیا، ان سے خبیب بن عبدالرحمٰن نے، ان سے حفص بن عاصم نے اور ان سے ابوسعید بن معلی رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ خُبَيْبِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ حَفْصِ بْنِ عَاصِمٍ، عَنْ أَبِي سَعِيدِ بْنِ الْمُعَلَّى، قَالَ مَرَّ بِيَ النَّبِيُّ صلى الله عليه وسلم وَأَنَا أُصَلِّي فَدَعَانِي فَلَمْ آتِهِ حَتَّى صَلَّيْتُ ثُمَّ أَتَيْتُ فَقَالَ ‏\"‏ مَا مَنَعَكَ أَنْ تَأْتِيَ ‏\"‏‏.‏ فَقُلْتُ كُنْتُ أُصَلِّي‏.‏ فَقَالَ ‏\"‏ أَلَمْ يَقُلِ اللَّهُ ‏{‏يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ‏}‏ ثُمَّ قَالَ أَلاَ أُعَلِّمُكَ أَعْظَمَ سُورَةٍ فِي الْقُرْآنِ قَبْلَ أَنْ أَخْرُجَ مِنَ الْمَسْجِدِ ‏\"‏ فَذَهَبَ النَّبِيُّ صلى الله عليه وسلم لِيَخْرُجَ مِنَ الْمَسْجِدِ فَذَكَّرْتُهُ فَقَالَ ‏\"‏‏{‏الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ‏}‏ هِيَ السَّبْعُ الْمَثَانِي وَالْقُرْآنُ الْعَظِيمُ الَّذِي أُوتِيتُهُ ‏\"‏‏.‏",
+                "headingArabic": "قَوْلِهِ ‏{‏وَلَقَدْ آتَيْنَاكَ سَبْعًا مِنَ الْمَثَانِي وَالْقُرْآنَ الْعَظِيمَ‏}‏",
+                "headingUrdu": "اللہ تعالیٰ کا فرمان ہے \"اور بے شک ہم نے آپ کو سات المثنی (یعنی سات بار بار پڑھی جانے والی آیات یعنی سورۃ فاتحہ) اور عظیم الشان قرآن عطا کیا ہے۔\" (V.15:87)",
+                "headingEnglish": "The Statement of Allah \"And indeed, We have bestowed upon you seven Al-Mathãni (i.e., seven repeatedly recited Verses i.e., Sürat AI-Fatiha) and the Grand Qur'an.\" (V.15:87)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4483,
+                "hadithNumber": "4704",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"The Um (substance) of the Qur'an is the seven oft-repeated verses (Al- Mathaini) and is the Great Qur'an (i.e. Surat-al-Fatiha).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ ام القرآن ( یعنی سورۃ فاتحہ ) ہی سبع مثانی اور قرآن عظیم ہے۔",
+                "urduNarrator": "ہم سے آدم نے بیان کیا، انہوں نے کہا ہم سے ابن ابی ذئب نے بیان کیا، انہوں نے کہا ہم سے سعید مقبری نے بیان کیا، ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، حَدَّثَنَا سَعِيدٌ الْمَقْبُرِيُّ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ أُمُّ الْقُرْآنِ هِيَ السَّبْعُ الْمَثَانِي وَالْقُرْآنُ الْعَظِيمُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4484,
+                "hadithNumber": "4705",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "Those who have made their Scripture into parts are the people of the Scripture who divided it into portions and believed in a part of it and disbelieved the other.",
+                "hadithUrdu": "آیت «الذين جعلوا القرآن عضين‏» ”جنہوں نے قرآن کے ٹکڑے کر رکھے ہیں“ کے متعلق کہا کہ اس سے مراد اہل کتاب ہیں کہ انہوں نے قرآن کے ٹکڑے ٹکڑے کر دیئے۔اور اس کے ایک حصے پر ایمان لایا اور دوسرے کا انکار کیا۔",
+                "urduNarrator": "مجھ سے یعقوب بن ابراہیم نے بیان کیا، انہوں نے کہا ہم سے ہشیم نے بیان کیا، انہیں ابوبشر نے خبر دی، انہیں سعید بن جبیر نے اور ان سے عبداللہ بن عباس رضی اللہ عنہما نے بیان کیا",
+                "hadithArabic": "حَدَّثَنِي يَعْقُوبُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هُشَيْمٌ، أَخْبَرَنَا أَبُو بِشْرٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، رضى الله عنهما ‏{‏الَّذِينَ جَعَلُوا الْقُرْآنَ عِضِينَ‏}‏ قَالَ هُمْ أَهْلُ الْكِتَابِ، جَزَّءُوهُ أَجْزَاءً، فَآمَنُوا بِبَعْضِهِ وَكَفَرُوا بِبَعْضِهِ‏.‏",
+                "headingArabic": "قَوْلِهِ ‏{‏الَّذِينَ جَعَلُوا الْقُرْآنَ عِضِينَ‏}‏",
+                "headingUrdu": "اللہ تعالیٰ کا فرمان ہے \"جنہوں نے قرآن کو ٹکڑے ٹکڑے کر دیا (یعنی ایک حصے پر ایمان لایا اور دوسرے پر کفر کیا)۔\" (V.15:91)",
+                "headingEnglish": "The Statement of Allah \"Who have made the Qur'an into parts (i.e., believed in one part and disbelieved in the other) .\" (V.15:91)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4485,
+                "hadithNumber": "4706",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما concerning:",
+                "hadithEnglish": "\"As We have sent down (the Scripture) on those who are divided (Jews and Christians).\" (15.90) They believed in part of it and disbelieved in the other, (and they) are the Jews and the Christians.",
+                "hadithUrdu": "آیت «كما أنزلنا على المقتسمين‏» میں سے یہود و نصاریٰ مراد ہیں کچھ قرآن انہوں نے مانا کچھ نہ مانا۔",
+                "urduNarrator": "مجھ سے عبیداللہ بن موسیٰ نے بیان کیا، ان سے اعمش نے بیان کیا، ان سے ابوظبیان حصین بن جندب نے بیان کیا، اور ان سے ابن عباس رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ مُوسَى، عَنِ الأَعْمَشِ، عَنْ أَبِي ظَبْيَانَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ ‏{‏كَمَا أَنْزَلْنَا عَلَى الْمُقْتَسِمِينَ‏}‏ قَالَ آمَنُوا بِبَعْضٍ وَكَفَرُوا بِبَعْضٍ، الْيَهُودُ وَالنَّصَارَى‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4486,
+                "hadithNumber": "4707",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) used to invoke thus: \"O Allah! I seek refuge with You from miserliness, laziness; from old geriatric age the punishment in the grave; from the affliction of Ad-Dajjal; and from the afflictions of life and death.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم دعا کیا کرتے تھے «أعوذ بك من البخل والكسل،‏‏‏‏ وأرذل العمر،‏‏‏‏ وعذاب القبر،‏‏‏‏ وفتنة الدجال،‏‏‏‏ وفتنة المحيا والممات ‏ ‏‏.‏» کہ اے اللہ! میں تیری پناہ مانگتا ہوں بخل سے، سستی سے، ارذل عمر سے ( نکمی اور خراب عمر 80 یا 90 سال کے بعد ) عذاب قبر سے، دجال کے فتنے سے اور زندگی اور موت کے فتنے سے۔",
+                "urduNarrator": "ہم سے موسیٰ بن اسماعیل نے بیان کیا، انہوں نے کہا ہم سے ہارون بن موسیٰ ابوعبداللہ اعور نے بیان کیا، ان سے شعیب نے اور ان سے انس بن مالک رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا هَارُونُ بْنُ مُوسَى أَبُو عَبْدِ اللَّهِ الأَعْوَرُ، عَنْ شُعَيْبٍ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ‏.‏ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَدْعُو ‏ \"‏ أَعُوذُ بِكَ مِنَ الْبُخْلِ وَالْكَسَلِ، وَأَرْذَلِ الْعُمُرِ، وَعَذَابِ الْقَبْرِ، وَفِتْنَةِ الدَّجَّالِ، وَفِتْنَةِ الْمَحْيَا وَالْمَمَاتِ ‏\"‏‏.‏",
+                "headingArabic": "قَوْلِهِ ‏{‏وَمِنْكُمْ مَنْ يُرَدُّ إِلَى أَرْذَلِ الْعُمُرِ‏}‏",
+                "headingUrdu": "اللہ تعالیٰ کا فرمان ہے: ’’اور تم میں سے بعض ایسے ہیں جو بڑھاپے کی طرف لوٹائے جاتے ہیں‘‘ (V.16:70)",
+                "headingEnglish": "The Statement of Allah the Exalted: \"...And of you there are some who are sent back to senility...\" (V.16:70)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4487,
+                "hadithNumber": "4708",
+                "englishNarrator": "Narrated Ibn Mas`ud رضی اللہ عنہ :",
+                "hadithEnglish": "Surat Bani Israel and Al-Kahf and Mary are among my first old property (in term of eloquence and use of figurative language) and I have learnt them by heart for ages. Hadrat Ibn-e-Abbas رضی اللہ عنہما says: ''فَسَيُنْغِضُونَ‏'': Soon they will shake their heads jesting towards you. The other people say: ''نَغَضَتْ سِنُّكَ'' i.e. your tooth has become loose.",
+                "hadithUrdu": "سورۃ بنی اسرائیل، سورۃ الکہف اور سورۃ مریم کے متعلق کہا کہ یہ اول درجہ کی عمدہ نہایت فصیح و بلیغ سورتیں ہیں اور میری پرانی یاد کی ہوئی ( آیت ) «فسينغضون‏» کے متعلق ابن عباس رضی اللہ عنہما نے کہا کہ اپنے سر ہلائیں گے اور دوسرے لوگوں نے کہا کہ یہ «نغضت سنك» سے نکلا ہے یعنی تیرا دانت ہل گیا۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا، کہا ہم سے شعبہ نے، ان سے ابواسحاق عمرو بن عبیداللہ سبیعی نے بیان کیا، کہا کہ میں نے عبدالرحمٰن بن یزید سے سنا، کہا کہ میں نے عبداللہ بن مسعود رضی اللہ عنہ سے سنا، انہوں نے",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، قَالَ سَمِعْتُ عَبْدَ الرَّحْمَنِ بْنَ يَزِيدَ، قَالَ سَمِعْتُ ابْنَ مَسْعُودٍ ـ رضى الله عنه ـ قَالَ فِي بَنِي إِسْرَائِيلَ وَالْكَهْفِ وَمَرْيَمَ إِنَّهُنَّ مِنَ الْعِتَاقِ الأُوَلِ، وَهُنَّ مِنْ تِلاَدِي‏.‏ قَالَ ابْنُ عَبَّاسٍ ‏{‏فَسَيُنْغِضُونَ‏}‏ يَهُزُّونَ‏.‏ وَقَالَ غَيْرُهُ نَغَضَتْ سِنُّكَ أَىْ تَحَرَّكَتْ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4488,
+                "hadithNumber": "4709",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) was presented with two cups one containing wine and the other milk on the night of his night journey at Jerusalem. He looked at it and took the milk. Gabriel said, \"Thanks to Allah Who guided you to the Fitra (i.e. Islam); if you had taken the wine, your followers would have gone astray.",
+                "hadithUrdu": "معراج کی رات میں نبی کریم صلی اللہ علیہ وسلم کے سامنے بیت المقدس میں دو پیالے پیش کئے گئے ایک شراب کا اور دوسرا دودھ کا۔ نبی کریم صلی اللہ علیہ وسلم نے دونوں کو دیکھا پھر دودھ کا پیالہ اٹھا لیا۔ اس پر جبرائیل علیہ السلام نے کہا کہ تمام حمد اس اللہ کے لیے ہے جس نے آپ کو فطرت ( اسلام ) کی ہدایت کی۔ اگر آپ شراب کا پیالہ اٹھا لیتے تو آپ کی امت گمراہ ہو جاتی۔",
+                "urduNarrator": "ہم سے عبدان نے بیان کیا، کہا ہم سے عبداللہ بن مبارک نے بیان کیا، کہا ہم کو یونس بن یزید نے خبر دی (دوسری سند) امام بخاری رحمہ اللہ نے کہا اور ہم سے احمد بن صالح نے بیان کیا، کہا ہم سے عنبسہ بن خالد نے بیان کیا، کہا ہم سے یونس بن یزید نے بیان کیا، ان سے ابن شہاب نے کہ ابن مسیب نے بیان کیا اور ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدَانُ، حَدَّثَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا يُونُسُ، ح وَحَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا عَنْبَسَةُ، حَدَّثَنَا يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ ابْنُ الْمُسَيَّبِ قَالَ أَبُو هُرَيْرَةَ أُتِيَ رَسُولُ اللَّهِ صلى الله عليه وسلم لَيْلَةَ أُسْرِيَ بِهِ بِإِيلِيَاءَ بِقَدَحَيْنِ مِنْ خَمْرٍ وَلَبَنٍ، فَنَظَرَ إِلَيْهِمَا فَأَخَذَ اللَّبَنَ قَالَ جِبْرِيلُ الْحَمْدُ لِلَّهِ الَّذِي هَدَاكَ لِلْفِطْرَةِ، لَوْ أَخَذْتَ الْخَمْرَ غَوَتْ أُمَّتُكَ‏.‏",
+                "headingArabic": "قَوْلِهِ ‏{‏أَسْرَى بِعَبْدِهِ لَيْلاً مِنَ الْمَسْجِدِ الْحَرَامِ‏}‏",
+                "headingUrdu": "اللہ تعالیٰ کا فرمان ہے: ’’وہ (اللہ) [ان کے شرک سے بالاتر ہے]، جس نے اپنے بندے (محمد صلی اللہ علیہ وسلم) کو مسجد الحرام سے رات کے سفر پر لے گیا۔ -حرام (مکہ میں) سے مسجد الاقصی (یروشلم میں)...\" (V.17:1)",
+                "headingEnglish": "The Statement of Allah the Exalted: \"Glorified (and Exalted) is He (Allah) [above all that (evil) they associate with Him], Who took His slave (Muḥammad pbuh) for a Journey by Night from Al-Masjid-al-Ḥarām (at Makkah) to Al-Masjid-al-Aqsā (in Jerusalem)...\" (V.17:1)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4489,
+                "hadithNumber": "4710",
+                "englishNarrator": "Narrated Jabir bin `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"When the Quraish disbelieved me (concerning my night journey), I stood up in Al- Hijr (the unroofed portion of the Ka`ba) and Allah displayed Bait-ul-Maqdis before me, and I started to inform them (Quraish) about its signs while looking at it.\" Yaqub bin Quraish belied me regarding the Nightly journey, then narrated the remaining Hadith as is mentioned above. ''قاصفا‏'' means: the storm that ruins everything.",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا کہ جب قریش نے مجھ کو واقعہ معراج کے سلسلہ میں جھٹلایا تو میں ( کعبہ کے ) مقام حجر میں کھڑا ہوا تھا اور میرے سامنے پورا بیت المقدس کر دیا گیا تھا۔ میں اسے دیکھ دیکھ کر اس کی ایک ایک علامت بیان کرنے لگا۔ یعقوب بن ابراہیم نے اپنی روایت میں یہ زیادہ کیا کہ ہم سے ابن شہاب کے بھتیجے نے اپنے چچا ابن شہاب سے بیان کیا کہ ( رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ) جب مجھے قریش نے بیت المقدس کے معراج کے سلسلہ میں جھٹلایا، پھر پہلی حدیث کی طرح بیان کیا۔ «قاصفا‏» وہ آندھی جو ہر چیز کو تباہ کر دے۔",
+                "urduNarrator": "ہم سے احمد بن صالح نے بیان کیا، کہا ہم سے عبداللہ بن وہب نے بیان کیا، کہا کہ مجھے یونس بن یزید نے خبر دی، انہیں ابن شہاب نے، ان سے ابوسلمہ نے بیان کیا اور انہوں نے جابر بن عبداللہ انصاری رضی اللہ عنہما سے سنا کہا کہ میں نے نبی کریم صلی اللہ علیہ وسلم سے سنا،",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ أَبُو سَلَمَةَ سَمِعْتُ جَابِرَ بْنَ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏\"‏ لَمَّا كَذَّبَنِي قُرَيْشٌ قُمْتُ فِي الْحِجْرِ، فَجَلَّى اللَّهُ لِي بَيْتَ الْمَقْدِسِ فَطَفِقْتُ أُخْبِرُهُمْ عَنْ آيَاتِهِ وَأَنَا أَنْظُرُ إِلَيْهِ ‏\"‏‏.‏ زَادَ يَعْقُوبُ بْنُ إِبْرَاهِيمَ حَدَّثَنَا ابْنُ أَخِي ابْنِ شِهَابٍ عَنْ عَمِّهِ ‏\"‏ لَمَّا كَذَّبَنِي قُرَيْشٌ حِينَ أُسْرِيَ بِي إِلَى بَيْتِ الْمَقْدِسِ ‏\"‏‏.‏ نَحْوَهُ‏.‏ ‏{‏قَاصِفًا‏}‏ رِيحٌ تَقْصِفُ كُلَّ شَىْءٍ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4490,
+                "hadithNumber": "4711",
+                "englishNarrator": "Narrated `Abdullah:",
+                "hadithEnglish": "During the Pre-lslamic period of ignorance if any tribe became great in number, we used to say, \"Amira the children of so-and-so.\" Narrated Al-Humaidi: Sufyan narrated to us something and used the word 'Amira'.",
+                "hadithUrdu": "جب کسی قبیلہ کے لوگ بڑھ جاتے تو زمانہ جاہلیت میں ہم ان کے متعلق کہا کرتے تھے کہ «أمر بنو فلان‏.‏» ( یعنی فلاں کا خاندان بہت بڑھ گیا ) ۔ ہم سے حمیدی نے بیان کیا، کہا ہم سے سفیان بن عیینہ نے بیان کیا اور اس روایت میں انہوں نے بھی لفظ «أمر‏.‏» کا ذکر کیا۔",
+                "urduNarrator": "ہم سے علی بن عبداللہ مدینی نے بیان کیا، کہا ہم سے سفیان نے بیان کیا، کہا ہم کو منصور نے خبر دی، انہیں ابووائل نے اور ان سے عبداللہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، أَخْبَرَنَا مَنْصُورٌ، عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ اللَّهِ، قَالَ كُنَّا نَقُولُ لِلْحَىِّ إِذَا كَثُرُوا فِي الْجَاهِلِيَّةِ أَمِرَ بَنُو فُلاَنٍ‏.‏ حَدَّثَنَا الْحُمَيْدِيُّ حَدَّثَنَا سُفْيَانُ وَقَالَ أَمِرَ‏.‏",
+                "headingArabic": "قَوْلِهِ ‏{‏إِذَا أَرَدْنَا أَنْ نُهْلِكَ قَرْيَةً أَمَرْنَا مُتْرَفِيهَا‏}‏",
+                "headingUrdu": "\"اور جب ہم کسی بستی (آبادی) کو تباہ کرنے کا فیصلہ کرتے ہیں، تو ہم (پہلے) ان لوگوں کو (اللہ کی اطاعت کرنے اور پرہیزگاری کرنے کا) ایک واضح حکم بھیجتے ہیں جو اس کی قیادت کرتے ہیں۔ عیش و عشرت کی زندگی پھر اس میں حد سے تجاوز کرتے ہیں...\" (V.17:16)",
+                "headingEnglish": "\"And when We decide to destroy a town (population), We (first) send a definite order (to obey Allāh and be righteous) to those among them [or We (first) increase in number those of its population] who lead a life of luxury. Then they transgress therein...\" (V.17:16)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4491,
+                "hadithNumber": "4712",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Some (cooked) meat was brought to Allah Apostle and the meat of a forearm was presented to him as he used to like it. He ate a morsel of it and said, \"I will be the chief of all the people on the Day of Resurrection. Do you know the reason for it? Allah will gather all the human being of early generations as well as late generation on one plain so that the announcer will be able to make them all-hear his voice and the watcher will be able to see all of them. The sun will come so close to the people that they will suffer such distress and trouble as they will not be able to bear or stand. Then the people will say, 'Don't you see to what state you have reached? Won't you look for someone who can intercede for you with your Lord' Some people will say to some others, 'Go to Adam.' So they will go to Adam and say to him. 'You are the father of mankind; Allah created you with His Own Hand, and breathed into you of His Spirit (meaning the spirit which he created for you); and ordered the angels to prostrate before you; so (please) intercede for us with your Lord. Don't you see in what state we are? Don't you see what condition we have reached?' Adam will say, 'Today my Lord has become angry as He has never become before, nor will ever become thereafter. He forbade me (to eat of the fruit of) the tree, but I disobeyed Him . Myself! Myself! Myself! (I am preoccuied with my own problems). Go to someone else; go to Noah.' So they will go to Noah and say (to him), 'O Noah! You are the first (of Allah's Messengers) to the people of the earth, and Allah has named you a thankful slave; please intercede for us with your Lord. Don't you see in what state we are?' He will say.' Today my Lord has become angry as He has never become nor will ever become thereafter. I had (in the world) the right to make one definitely accepted invocation, and I made it against my nation. Myself! Myself! Myself! Go to someone else; go to Abraham.' They will go to Abraham and say, 'O Abraham! You are Allah's Messenger (ﷺ) and His Khalil from among the people of the earth; so please intercede for us with your Lord. Don't you see in what state we are?' He will say to them, 'My Lord has today become angry as He has never become before, nor will ever become thereafter. I had told three lies (Abu Haiyan (the sub-narrator) mentioned them in the Hadith) Myself! Myself! Myself! Go to someone else; go to Moses.' The people will then go to Moses and say, 'O Moses! You art Allah's Messenger (ﷺ) and Allah gave you superiority above the others with this message and with His direct Talk to you; (please) intercede for us with your Lord Don't you see in what state we are?' Moses will say, 'My Lord has today become angry as He has never become before, nor will become thereafter, I killed a person whom I had not been ordered to kill. Myself! Myself! Myself! Go to someone else; go to Jesus.' So they will go to Jesus and say, 'O Jesus! You are Allah's Messenger (ﷺ) and His Word which He sent to Mary, and a superior soul created by Him, and you talked to the people while still young in the cradle. Please intercede for us with your Lord. Don't you see in what state we are?' Jesus will say. 'My Lord has today become angry as He has never become before nor will ever become thereafter. Jesus will not mention any sin, but will say, 'Myself! Myself! Myself! Go to someone else; go to Muhammad.' So they will come to me and say, 'O Muhammad ! You are Allah's Messenger (ﷺ) and the last of the prophets, and Allah forgave your early and late sins. (Please) intercede for us with your Lord. Don't you see in what state we are?\" The Prophet (ﷺ) added, \"Then I will go beneath Allah's Throne and fall in prostration before my Lord. And then Allah will guide me to such praises and glorification to Him as He has never guided anybody else before me. Then it will be said, 'O Muhammad Raise your head. Ask, and it will be granted. Intercede and It (your intercession) will be accepted.' So I will raise my head and Say, 'My followers, O my Lord! My followers, O my Lord'. It will be said, 'O Muhammad! Let those of your followers who have no accounts, enter through such a gate of the gates of Paradise as lies on the right; and they will share the other gates with the people.\" The Prophet (ﷺ) further said, \"By Him in Whose Hand my soul is, the distance between every two gate-posts of Paradise is like the distance between Mecca and Busra (in Sham).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں گوشت لایا گیا اور دست کا حصہ آپ کو پیش کیا گیا۔ تو آپ نے اپنے دانتوں سے اسے ایک بار نوچا اور نبی کریم صلی اللہ علیہ وسلم کو دست کا گوشت بہت پسند تھا۔ پھر آپ صلی اللہ علیہ وسلم نے فرمایا کہ قیامت کے دن میں سب لوگوں کا سردار ہوں گا تمہیں معلوم بھی ہے یہ کون سا دن ہو گا؟ اس دن دنیا کے شروع سے قیامت کے دن تک کی ساری خلقت ایک چٹیل میدان میں جمع ہو گی کہ ایک پکارنے والے کی آواز سب کے کانوں تک پہنچ سکے گی اور ایک نظر سب کو دیکھ سکے گی۔ سورج بالکل قریب ہو جائے گا اور لوگوں کی پریشانی اور بےقراری کی کوئی حد نہ رہے گی جو برداشت سے باہر ہو جائے گی۔ لوگ آپس میں کہیں گے، دیکھتے نہیں کہ ہماری کیا حالت ہو گئی ہے۔ کیا ایسا کوئی مقبول بندہ نہیں ہے جو اللہ پاک کی بارگاہ میں تمہاری شفاعت کرے؟ بعض لوگ بعض سے کہیں گے کہ آدم علیہ السلام کے پاس چلنا چاہئے۔ چنانچہ سب لوگ آدم علیہ السلام کی خدمت میں حاضر ہوں گے اور عرض کریں گے آپ انسانوں کے پردادا ہیں، اللہ تعالیٰ نے آپ کو اپنے ہاتھ سے پیدا کیا اور اپنی طرف سے خصوصیت کے ساتھ آپ میں روح پھونکی۔ فرشتوں کو حکم دیا اور انہوں نے آپ کو سجدہ کیا اس لیے آپ رب کے حضور میں ہماری شفاعت کر دیں، آپ دیکھ رہے ہیں کہ ہم کس حال کو پہنچ چکے ہیں۔ آدم علیہ السلام کہیں گے کہ میرا رب آج انتہائی غضبناک ہے۔ اس سے پہلے اتنا غضبناک وہ کبھی نہیں ہوا تھا اور نہ آج کے بعد کبھی اتنا غضب ناک ہو گا اور رب العزت نے مجھے بھی درخت سے روکا تھا لیکن میں نے اس کی نافرمانی کی، پس نفسی، نفسی، نفسی مجھ کو اپنی فکر ہے تم کسی اور کے پاس جاؤ۔ ہاں نوح علیہ السلام کے پاس جاؤ۔ چنانچہ سب لوگ نوح علیہ السلام کی خدمت میں حاضر ہوں گے اور عرض کریں گے، اے نوح! آپ سب سے پہلے پیغمبر ہیں جو اہل زمین کی طرف بھیجے گئے تھے اور آپ کو اللہ نے ”شکر گزار بندہ“ ( عبد شکور ) کا خطاب دیا۔ آپ ہی ہمارے لیے اپنے رب کے حضور میں شفاعت کر دیں، آپ دیکھ رہے ہیں کہ ہم کس حالت کو پہنچ گئے ہیں۔ نوح علیہ السلام بھی کہیں گے کہ میرا رب آج اتنا غضبناک ہے کہ اس سے پہلے کبھی اتنا غضبناک نہیں تھا اور نہ آج کے بعد کبھی اتنا غضبناک ہو گا اور مجھے ایک دعا کی قبولیت کا یقین دلایا گیا تھا جو میں نے اپنی قوم کے خلاف کر لی تھی۔ نفسی، نفسی، نفسی آج مجھ کو اپنے ہی نفس کی فکر ہے تم میرے سوا کسی اور کے پاس جاؤ، ابراہیم علیہ السلام کے پاس جاؤ۔ سب لوگ ابراہیم علیہ السلام کی خدمت میں حاضر ہوں گے اور عرض کریں گے، اے ابراہیم! آپ اللہ کے نبی اور اللہ کے خلیل ہیں روئے زمین میں منتخب، آپ ہماری شفاعت کیجئے، آپ ملاحظہ فرما رہے ہیں کہ ہم کس حالت کو پہنچ چکے ہیں۔ ابراہیم علیہ السلام بھی کہیں گے کہ آج میرا رب بہت غضبناک ہے؟ اتنا غضبناک نہ وہ پہلے ہوا تھا اور نہ آج کے بعد ہو گا اور میں نے تین جھوٹ بولے تھے ( راوی ) ابوحیان نے اپنی روایت میں تینوں کا ذکر کیا ہے۔ نفسی، نفسی، نفسی مجھ کو اپنے نفس کی فکر ہے۔ میرے سوا کسی اور کے پاس جاؤ۔ ہاں موسیٰ علیہ السلام پاس کے جاؤ۔ سب لوگ موسیٰ علیہ السلام کی خدمت میں حاضر ہوں گے اور عرض کریں گے اے موسیٰ! آپ اللہ کے رسول ہیں، اللہ تعالیٰ نے آپ کو اپنی طرف سے رسالت اور اپنے کلام کے ذریعہ فضیلت دی۔ آپ ہماری شفاعت اپنے رب کے حضور میں کریں، آپ ملاحظہ فرما سکتے ہیں کہ ہم کس حالت کو پہنچ چکے ہیں۔ موسیٰ علیہ السلام کہیں گے کہ آج اللہ تعالیٰ بہت غضبناک ہے، اتنا غضبناک کہ وہ نہ پہلے کبھی ہوا تھا اور نہ آج کے بعد کبھی ہو گا اور میں نے ایک شخص کو قتل کر دیا تھا، حالانکہ اللہ کی طرف سے مجھے اس کا کوئی حکم نہیں ملا تھا۔ نفسی، نفسی، نفسی بس مجھ کو آج اپنی فکر ہے، میرے سوا کسی اور کے پاس جاؤ۔ ہاں عیسیٰ علیہ السلام کے پاس جاؤ۔ سب لوگ عیسیٰ علیہ السلام کی خدمت میں حاضر ہوں گے اور عرض کریں گے۔ اے عیسیٰ! آپ اللہ کے رسول اور اس کا کلمہ ہیں جسے اللہ نے مریم علیھا السلام پر ڈالا تھا اور اللہ کی طرف سے روح ہیں، آپ نے بچپن میں ماں کی گود ہی میں لوگوں سے بات کی تھی، ہماری شفاعت کیجئے، آپ ملاحظہ فرما سکتے ہیں کہ ہماری کیا حالت ہو چکی ہے۔ عیسیٰ بھی کہیں گے کہ میرا رب آج اس درجہ غضبناک ہے کہ نہ اس سے پہلے کبھی اتنا غضبناک ہوا تھا اور نہ کبھی ہو گا اور آپ کسی لغزش کا ذکر نہیں کریں گے ( صرف ) اتنا کہیں گے، نفسی، نفسی، نفسی میرے سوا کسی اور کے پاس جاؤ۔ ہاں، محمد ( صلی اللہ علیہ وسلم ) کے پاس جاؤ۔ سب لوگ نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوں گے اور عرض کریں گے، اے محمد ( صلی اللہ علیہ وسلم ) ! آپ اللہ کے رسول اور سب سے آخری پیغمبر ہیں اور اللہ تعالیٰ نے آپ کے تمام اگلے پچھلے گناہ معاف کر دیئے ہیں، اپنے رب کے دربار میں ہماری شفاعت کیجئے۔ آپ خود ملاحظہ فرما سکتے ہیں کہ ہم کس حالت کو پہنچ چکے ہیں۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ آخر میں آگے بڑھوں گا اور عرش تلے پہنچ کر اپنے رب عزوجل کے لیے سجدہ میں گر پڑوں گا، پھر اللہ تعالیٰ مجھ پر اپنی حمد اور حسن ثناء کے دروازے کھول دے گا کہ مجھ سے پہلے کسی کو وہ طریقے اور وہ محامد نہیں بتائے تھے۔ پھر کہا جائے گا، اے محمد! اپنا سر اٹھایئے، مانگئے آپ کو دیا جائے گا۔ شفاعت کیجئے، آپ کی شفاعت قبول ہو جائے گی۔ اب میں اپنا سر اٹھاؤں گا اور عرض کروں گا۔ اے میرے رب! میری امت، اے میرے رب! میری امت پر کرم کر، کہا جائے گا اے محمد! اپنی امت کے ان لوگوں کو جن پر کوئی حساب نہیں ہے، جنت کے داہنے دروازے سے داخل کیجئے ویسے انہیں اختیار ہے، جس دروازے سے چاہیں دوسرے لوگوں کے ساتھ داخل ہو سکتے ہیں۔ پھر نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ اس ذات کی قسم! جس کے ہاتھ میں میری جان ہے۔ جنت کے دروازے کے دونوں کناروں میں اتنا فاصلہ ہے جتنا مکہ اور حمیر میں ہے یا جتنا مکہ اور بصریٰ میں ہے۔",
+                "urduNarrator": "ہم سے محمد بن مقاتل نے بیان کیا، کہا ہم کو عبداللہ بن مبارک نے خبر دی، کہا ہم کو ابوحیان (یحییٰ بن سعید) تیمی نے خبر دی۔ انہیں ابوزرعہ (ہرم) بن عمرو بن جریر نے اور ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مُقَاتِلٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا أَبُو حَيَّانَ التَّيْمِيُّ، عَنْ أَبِي زُرْعَةَ بْنِ عَمْرِو بْنِ جَرِيرٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ أُتِيَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِلَحْمٍ، فَرُفِعَ إِلَيْهِ الذِّرَاعُ، وَكَانَتْ تُعْجِبُهُ، فَنَهَسَ مِنْهَا نَهْسَةً ثُمَّ قَالَ ‏ \"‏ أَنَا سَيِّدُ النَّاسِ يَوْمَ الْقِيَامَةِ، وَهَلْ تَدْرُونَ مِمَّ ذَلِكَ يُجْمَعُ النَّاسُ الأَوَّلِينَ وَالآخِرِينَ فِي صَعِيدٍ وَاحِدٍ، يُسْمِعُهُمُ الدَّاعِي، وَيَنْفُذُهُمُ الْبَصَرُ، وَتَدْنُو الشَّمْسُ، فَيَبْلُغُ النَّاسَ مِنَ الْغَمِّ وَالْكَرْبِ مَا لاَ يُطِيقُونَ وَلاَ يَحْتَمِلُونَ فَيَقُولُ النَّاسُ أَلاَ تَرَوْنَ مَا قَدْ بَلَغَكُمْ أَلاَ تَنْظُرُونَ مَنْ يَشْفَعُ لَكُمْ إِلَى رَبِّكُمْ فَيَقُولُ بَعْضُ النَّاسِ لِبَعْضٍ عَلَيْكُمْ بِآدَمَ فَيَأْتُونَ آدَمَ عليه السلام فَيَقُولُونَ لَهُ أَنْتَ أَبُو الْبَشَرِ خَلَقَكَ اللَّهُ بِيَدِهِ‏.‏ وَنَفَخَ فِيكَ مِنْ رُوحِهِ، وَأَمَرَ الْمَلاَئِكَةَ فَسَجَدُوا لَكَ، اشْفَعْ لَنَا إِلَى رَبِّكَ، أَلاَ تَرَى إِلَى مَا نَحْنُ فِيهِ أَلاَ تَرَى إِلَى مَا قَدْ بَلَغَنَا فَيَقُولُ آدَمُ إِنَّ رَبِّي قَدْ غَضِبَ الْيَوْمَ غَضَبًا لَمْ يَغْضَبْ قَبْلَهُ مِثْلَهُ وَلَنْ يَغْضَبَ بَعْدَهُ مِثْلَهُ، وَإِنَّهُ نَهَانِي عَنِ الشَّجَرَةِ فَعَصَيْتُهُ، نَفْسِي نَفْسِي نَفْسِي، اذْهَبُوا إِلَى غَيْرِي، اذْهَبُوا إِلَى نُوحٍ، فَيَأْتُونَ نُوحًا فَيَقُولُونَ يَا نُوحُ إِنَّكَ أَنْتَ أَوَّلُ الرُّسُلِ إِلَى أَهْلِ الأَرْضِ، وَقَدْ سَمَّاكَ اللَّهُ عَبْدًا شَكُورًا اشْفَعْ لَنَا إِلَى رَبِّكَ، أَلاَ تَرَى إِلَى مَا نَحْنُ فِيهِ فَيَقُولُ إِنَّ رَبِّي عَزَّ وَجَلَّ قَدْ غَضِبَ الْيَوْمَ غَضَبًا لَمْ يَغْضَبْ قَبْلَهُ مِثْلَهُ، وَلَنْ يَغْضَبَ بَعْدَهُ مِثْلَهُ، وَإِنَّهُ قَدْ كَانَتْ لِي دَعْوَةٌ دَعَوْتُهَا عَلَى قَوْمِي نَفْسِي نَفْسِي نَفْسِي اذْهَبُوا إِلَى غَيْرِي، اذْهَبُوا إِلَى إِبْرَاهِيمَ، فَيَأْتُونَ إِبْرَاهِيمَ، فَيَقُولُونَ يَا إِبْرَاهِيمُ، أَنْتَ نَبِيُّ اللَّهِ وَخَلِيلُهُ مِنْ أَهْلِ الأَرْضِ اشْفَعْ لَنَا إِلَى رَبِّكَ أَلاَ تَرَى إِلَى مَا نَحْنُ فِيهِ فَيَقُولُ لَهُمْ إِنَّ رَبِّي قَدْ غَضِبَ الْيَوْمَ غَضَبًا لَمْ يَغْضَبْ قَبْلَهُ مِثْلَهُ وَلَنْ يَغْضَبَ بَعْدَهُ مِثْلَهُ، وَإِنِّي قَدْ كُنْتُ كَذَبْتُ ثَلاَثَ كَذَبَاتٍ ـ فَذَكَرَهُنَّ أَبُو حَيَّانَ فِي الْحَدِيثِ ـ نَفْسِي نَفْسِي نَفْسِي، اذْهَبُوا إِلَى غَيْرِي اذْهَبُوا إِلَى مُوسَى، فَيَأْتُونَ مُوسَى، فَيَقُولُونَ يَا مُوسَى أَنْتَ رَسُولُ اللَّهِ، فَضَّلَكَ اللَّهُ بِرِسَالَتِهِ وَبِكَلاَمِهِ عَلَى النَّاسِ، اشْفَعْ لَنَا إِلَى رَبِّكَ أَلاَ تَرَى إِلَى مَا نَحْنُ فِيهِ فَيَقُولُ إِنَّ رَبِّي قَدْ غَضِبَ الْيَوْمَ غَضَبًا لَمْ يَغْضَبْ قَبْلَهُ مِثْلَهُ، وَلَنْ يَغْضَبَ بَعْدَهُ مِثْلَهُ، وَإِنِّي قَدْ قَتَلْتُ نَفْسًا لَمْ أُومَرْ بِقَتْلِهَا، نَفْسِي نَفْسِي نَفْسِي، اذْهَبُوا إِلَى غَيْرِي، اذْهَبُوا إِلَى عِيسَى، فَيَأْتُونَ عِيسَى فَيَقُولُونَ يَا عِيسَى أَنْتَ رَسُولُ اللَّهِ وَكَلِمَتُهُ أَلْقَاهَا إِلَى مَرْيَمَ وَرُوحٌ مِنْهُ، وَكَلَّمْتَ النَّاسَ فِي الْمَهْدِ صَبِيًّا اشْفَعْ لَنَا أَلاَ تَرَى إِلَى مَا نَحْنُ فِيهِ فَيَقُولُ عِيسَى إِنَّ رَبِّي قَدْ غَضِبَ الْيَوْمَ غَضَبًا لَمْ يَغْضَبْ قَبْلَهُ مِثْلَهُ، وَلَنْ يَغْضَبَ بَعْدَهُ مِثْلَهُ ـ وَلَمْ يَذْكُرْ ذَنْبًا ـ نَفْسِي نَفْسِي نَفْسِي، اذْهَبُوا إِلَى غَيْرِي اذْهَبُوا إِلَى مُحَمَّدٍ صلى الله عليه وسلم فَيَأْتُونَ مُحَمَّدًا صلى الله عليه وسلم فَيَقُولُونَ يَا مُحَمَّدُ أَنْتَ رَسُولُ اللَّهِ وَخَاتَمُ الأَنْبِيَاءِ، وَقَدْ غَفَرَ اللَّهُ لَكَ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ، اشْفَعْ لَنَا إِلَى رَبِّكَ أَلاَ تَرَى إِلَى مَا نَحْنُ فِيهِ فَأَنْطَلِقُ فَآتِي تَحْتَ الْعَرْشِ، فَأَقَعُ سَاجِدًا لِرَبِّي عَزَّ وَجَلَّ ثُمَّ يَفْتَحُ اللَّهُ عَلَىَّ مِنْ مَحَامِدِهِ وَحُسْنِ الثَّنَاءِ عَلَيْهِ شَيْئًا لَمْ يَفْتَحْهُ عَلَى أَحَدٍ قَبْلِي ثُمَّ يُقَالُ يَا مُحَمَّدُ ارْفَعْ رَأْسَكَ، سَلْ تُعْطَهْ، وَاشْفَعْ تُشَفَّعْ، فَأَرْفَعُ رَأْسِي، فَأَقُولُ أُمَّتِي يَا رَبِّ، أُمَّتِي يَا رَبِّ فَيُقَالُ يَا مُحَمَّدُ أَدْخِلْ مِنْ أُمَّتِكَ مَنْ لاَ حِسَابَ عَلَيْهِمْ مِنَ الْبَابِ الأَيْمَنِ مِنْ أَبْوَابِ الْجَنَّةِ وَهُمْ شُرَكَاءُ النَّاسِ فِيمَا سِوَى ذَلِكَ مِنَ الأَبْوَابِ، ثُمَّ قَالَ وَالَّذِي نَفْسِي بِيَدِهِ إِنَّ مَا بَيْنَ الْمِصْرَاعَيْنِ مِنْ مَصَارِيعِ الْجَنَّةِ كَمَا بَيْنَ مَكَّةَ وَحِمْيَرَ، أَوْ كَمَا بَيْنَ مَكَّةَ وَبُصْرَى ‏\"‏‏.‏",
+                "headingArabic": "‏{‏ذُرِّيَّةَ مَنْ حَمَلْنَا مَعَ نُوحٍ إِنَّهُ كَانَ عَبْدًا شَكُورًا‏}‏",
+                "headingUrdu": "\"اے ان لوگوں کی اولاد جن کو ہم نے نوح کے ساتھ (کشتی میں) سوار کیا تھا، بیشک وہ شکر گزار بندے تھے۔\" (V.17:3)",
+                "headingEnglish": "\"O offspring of those whom We carried (in the ship) with Nūh (Noah)! Verily, he was a grateful slave.\" (V.17:3)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4492,
+                "hadithNumber": "4713",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"The recitation of Psalms (David's Qur'an) was made light and easy for David that he used to have his ridding animal be saddled while he would finish the recitation before the servant had saddled it.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ داؤد علیہ السلام پر زبور کی تلاوت آسان کر دی گئی تھی۔ آپ گھوڑے پر زین کسنے کا حکم دیتے اور اس سے پہلے کہ زین کسی جا چکے، تلاوت سے فارغ ہو جاتے تھے۔",
+                "urduNarrator": "مجھ سے اسحاق بن نصر نے بیان کیا، کہا ہم سے عبدالرزاق نے بیان کیا اور ان سے معمر نے، ان سے ہمام بن منبہ نے اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنِي إِسْحَاقُ بْنُ نَصْرٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنْ هَمَّامٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ خُفِّفَ عَلَى دَاوُدَ الْقِرَاءَةُ، فَكَانَ يَأْمُرُ بِدَابَّتِهِ لِتُسْرَجَ، فَكَانَ يَقْرَأُ قَبْلَ أَنْ يَفْرُغَ ‏\"‏‏.‏ يَعْنِي الْقُرْآنَ‏.‏",
+                "headingArabic": "قَوْلِهِ ‏{‏وَآتَيْنَا دَاوُدَ زَبُورًا‏}‏",
+                "headingUrdu": "ارشاد باری تعالیٰ ہے: \"... اور داؤد کو ہم نے زبور عطا کی۔\" (V.17:55)",
+                "headingEnglish": "The Statement of Allah the Exalted: \"...And to Dāwūd (David) We gave the Zabūr (Psalms) .\" (V.17:55)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4493,
+                "hadithNumber": "4714",
+                "englishNarrator": "Narrated `Abdullah رضی اللہ عنہ :",
+                "hadithEnglish": "Regarding the explanation of the Verse: 'Those whom they call upon (worship) (like Jesus the Son of Mary, angels etc.) desire (for themselves) means of access to their Lord (Allah) as to which of them should be the nearer and they hope for His Mercy and fear His torment.' (17.57) They themselves (e.g. Angels, saints, Apostles, Jesus, etc.,) worshipped Allah, Those Jinns who were worshipped by some Arabs became Muslims (embraced Islam), but those human beings stuck to their (old) religion. Al- A`mash said extra: 'Say, (O Muhammad): Call unto those besides Him whom you assume (to be gods).' (17.56)",
+                "hadithUrdu": "( آیت ) «إلى ربهم الوسيلة‏» کا شان نزول یہ ہے کہ کچھ لوگ جنوں کی عبادت کرتے تھے، لیکن وہ جِن بعد میں مسلمان ہو گئے اور یہ مشرک ( کم بخت ) ان ہی کی پرستش کرتے جاہلی شریعت پر قائم رہے۔ عبیداللہ اشجعی نے اس حدیث کو سفیان سے روایت کیا اور ان سے اعمش نے بیان کیا، اس میں یوں ہے کہ اس آیت «قل ادعوا الذين زعمتم‏» کا شان نزول یہ ہے آخر تک۔",
+                "urduNarrator": "مجھ سے عمرو بن علی بن فلاس نے بیان کیا، کہا ہم سے یحییٰ بن سعید قطان نے کہا ہم سے سفیان نے، کہا مجھ سے سلیمان اعمش نے بیان کیا، ان سے ابراہیم نخعی نے، ان سے عبداللہ بن معمر نے اور ان سے عبداللہ بن مسعود رضی اللہ عنہ نے",
+                "hadithArabic": "حَدَّثَنِي عَمْرُو بْنُ عَلِيٍّ، حَدَّثَنَا يَحْيَى، حَدَّثَنَا سُفْيَانُ، حَدَّثَنِي سُلَيْمَانُ، عَنْ إِبْرَاهِيمَ، عَنْ أَبِي مَعْمَرٍ، عَنْ عَبْدِ اللَّهِ، ‏{‏إِلَى رَبِّهِمِ الْوَسِيلَةَ‏}‏ قَالَ كَانَ نَاسٌ مِنَ الإِنْسِ يَعْبُدُونَ نَاسًا مِنَ الْجِنِّ، فَأَسْلَمَ الْجِنُّ، وَتَمَسَّكَ هَؤُلاَءِ بِدِينِهِمْ‏.‏ زَادَ الأَشْجَعِيُّ عَنْ سُفْيَانَ عَنِ الأَعْمَشِ‏.‏ ‏{‏قُلِ ادْعُوا الَّذِينَ زَعَمْتُمْ‏}‏",
+                "headingArabic": "‏{‏قُلِ ادْعُوا الَّذِينَ زَعَمْتُمْ مِنْ دُونِهِ فَلاَ يَمْلِكُونَ كَشْفَ الضُّرِّ عَنْكُمْ وَلاَ تَحْوِيلاً‏}‏",
+                "headingUrdu": "\"(اے محمد صلی اللہ علیہ وسلم) کہو: 'اُس کے سوا اُن کو پکارو جنہیں تم (معبود ہونے کا) دکھاوا کرتے ہو...\" (V.17:56)",
+                "headingEnglish": "\"Say (O Muḥammad pbuh): 'Call upon those besides Him whom you pretend (to be gods)...\" (V.17:56)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4494,
+                "hadithNumber": "4715",
+                "englishNarrator": "Narrated `Abdullah رضی اللہ عنہ :",
+                "hadithEnglish": "Regarding the Verse: 'Those whom they call upon (worship) (like Jesus the Son of Mary or angels etc.) desire (for themselves) means of access, to their Lord....' (17.57) (It was revealed regarding) some Jinns who used to be worshipped (by human beings). They later embraced Islam (while those people kept on worshipping them).",
+                "hadithUrdu": "آیت «الذين يدعون يبتغون إلى ربهم الوسيلة‏» کی تفسیر میں کہا کہ کچھ جِن ایسے تھے جن کی آدمی پرستش کیا کرتے تھے پھر وہ جِن مسلمان ہو گئے۔",
+                "urduNarrator": "ہم سے بشر بن خالد نے بیان کیا، انہوں نے کہا ہم کو محمد بن جعفر نے خبر دی، انہیں شعبہ نے، انہیں سلیمان اعمش نے، انہیں ابراہیم نخعی نے، انہیں ابومعمر نے اور انہیں عبداللہ بن مسعود رضی اللہ عنہ نے",
+                "hadithArabic": "حَدَّثَنَا بِشْرُ بْنُ خَالِدٍ، أَخْبَرَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، عَنْ شُعْبَةَ، عَنْ سُلَيْمَانَ، عَنْ إِبْرَاهِيمَ، عَنْ أَبِي مَعْمَرٍ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ فِي هَذِهِ الآيَةِ ‏{‏الَّذِينَ يَدْعُونَ يَبْتَغُونَ إِلَى رَبِّهِمِ الْوَسِيلَةَ‏}‏ قَالَ نَاسٌ مِنَ الْجِنِّ ‏{‏كَانُوا‏}‏ يُعْبَدُونَ فَأَسْلَمُوا‏.‏",
+                "headingArabic": "قَوْلِهِ ‏{‏أُولَئِكَ الَّذِينَ يَدْعُونَ يَبْتَغُونَ إِلَى رَبِّهِمِ الْوَسِيلَةَ‏}‏ الآيَةَ",
+                "headingUrdu": "ارشاد باری تعالیٰ ہے: ’’وہ لوگ جن کو پکارتے ہیں (جیسے عیسیٰ ابن مریم)، ​​عزیر (عزیر) فرشتے وغیرہ اپنے رب تک رسائی کا ذریعہ چاہتے ہیں۔ اللہ)...\" (V.17:57)",
+                "headingEnglish": "The Statement of Allah the Exalted: \"Those whom they call upon [like 'Isa (Jesus) the son of Maryam (Mary), 'Uzair (Ezra) angels, etc.] desire (for themselves) means of access to their Lord (Allah)...\" (V.17:57)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4495,
+                "hadithNumber": "4716",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہ :",
+                "hadithEnglish": "Regarding: 'And We granted the vision (Ascension to the Heaven \"Miraj\") which We showed you (O Muhammad as an actual eye witness) but as a trial for mankind.' (17.60) It was an actual eyewitness which was shown to Allah's Messenger (ﷺ) during the night he was taken on a journey (through the heavens). And the cursed tree is the tree of Az-Zaqqum (a bitter pungent tree which grows at the bottom of Hell).",
+                "hadithUrdu": "آیت «وما جعلنا الرؤيا التي أريناك إلا فتنة للناس‏» میں «رؤيا» سے آنکھ کا دیکھنا مراد ہے ( بیداری میں نہ کہ خواب میں ) یعنی وہ جو نبی کریم صلی اللہ علیہ وسلم کو شب معراج میں دکھایا گیا اور «شجرة الملعونة‏» سے تھوہڑ کا درخت مراد ہے۔",
+                "urduNarrator": "ہم سے علی بن عبداللہ مدینی نے بیان کیا، کہا ہم سے سفیان بن عیینہ نے بیان کیا، ان سے عمرو بن دینار نے، ان سے عکرمہ نے اور ان سے عبداللہ بن عباس رضی اللہ عنہ بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنه ـ ‏{‏وَمَا جَعَلْنَا الرُّؤْيَا الَّتِي أَرَيْنَاكَ إِلاَّ فِتْنَةً لِلنَّاسِ‏}‏ قَالَ هِيَ رُؤْيَا عَيْنٍ أُرِيَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم لَيْلَةَ أُسْرِيَ بِهِ ‏{‏وَالشَّجَرَةَ الْمَلْعُونَةَ‏}‏ شَجَرَةُ الزَّقُّومِ‏.‏",
+                "headingArabic": "‏{‏وَمَا جَعَلْنَا الرُّؤْيَا الَّتِي أَرَيْنَاكَ إِلاَّ فِتْنَةً لِلنَّاسِ‏}‏",
+                "headingUrdu": "\"اور ہم نے اس خواب کو نہیں بنایا جو ہم نے آپ کو دکھایا (اے محمد (صلی اللہ علیہ وآلہ وسلم) کو ایک عینی شاہد کے طور پر اور نہ خواب کے طور پر اسراء کی رات کو)) بلکہ لوگوں کے لئے ایک آزمائش... 17:60)",
+                "headingEnglish": "\"And We made not the vision which We showed you (O Muḥammad [pbuh] as an actual eye-witness and not as a dream on the night of Al-Isrā') , but a trial for mankind...\" (V.17:60)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4496,
+                "hadithNumber": "4717",
+                "englishNarrator": "Narrated Abu Hurairah رضی اللہ عنہ :",
+                "hadithEnglish": "\"The Prophet (ﷺ) said, 'A prayer performed in congregation is twenty-five times more superior in reward to a prayer performed by a single person. The angels of the night and the angels of the day are assembled at the time of the Fajr (Morning) prayer.\" Abu Huraira        رضی اللہ عنہ added, \"If you wish, you can recite:-- 'Verily! The recitation of the Qur'an in the early dawn (Morning prayer) is ever witnessed (attended by the angels of the day and the night).' (17.78)",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ تنہا نماز پڑھنے کے مقابلے میں جماعت سے نماز پڑھنے کی فضیلت پچیس گنا زیادہ ہے اور صبح کی نماز میں رات کے اور دن کے فرشتے اکٹھے ہو جاتے ہیں۔ ابوہریرہ رضی اللہ عنہ نے کہا کہ اگر تمہارا جی چاہے تو یہ آیت پڑھو «وقرآن الفجر إن قرآن الفجر كان مشهودا‏» یعنی فجر میں قرآت قرآن زیادہ کیا کرو کیونکہ یہ نماز فرشتوں کی حاضری کا وقت ہے۔",
+                "urduNarrator": "مجھ سے عبداللہ بن محمد مسندی نے بیان کیا، کہا ہم سے عبدالرزاق بن ہمام نے بیان کیا، کہا ہم کو معمر نے خبر دی، انہیں زہری نے، انہیں ابوسلمہ بن عبدالرحمٰن بن عوف اور سعید بن مسیب اور ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، وَابْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، رضى الله عنه عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ فَضْلُ صَلاَةِ الْجَمِيعِ عَلَى صَلاَةِ الْوَاحِدِ خَمْسٌ وَعِشْرُونَ دَرَجَةً، وَتَجْتَمِعُ مَلاَئِكَةُ اللَّيْلِ وَمَلاَئِكَةُ النَّهَارِ فِي صَلاَةِ الصُّبْحِ ‏\"‏‏.‏ يَقُولُ أَبُو هُرَيْرَةَ اقْرَءُوا إِنْ شِئْتُمْ ‏{‏وَقُرْآنَ الْفَجْرِ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا‏}‏",
+                "headingArabic": "قَوْلِهِ ‏{‏إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا‏}‏",
+                "headingUrdu": "ارشاد باری تعالیٰ ہے: ’’بے شک صبح سویرے (یعنی صبح فجر کی نماز) میں قرآن کی تلاوت (دن اور رات کے انسانوں کے ذمہ دار فرشتے حاضر ہوتے ہیں)۔ \" (V.17:78)",
+                "headingEnglish": "The Statement of Allah the Most High: \"Verily, the recitation of the Qur'ān in the early dawn (i.e. the morning - Fajr prayer) is ever witnessed (attended by the angels in charge of mankind of the day and the night) .\" (V.17:78)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4497,
+                "hadithNumber": "4718",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "On the Day of Resurrection the people will fall on their knees and every nation will follow their prophet and they will say, \"O so-and-so! Intercede (for us with Allah), \"till (the right) intercession is given to the Prophet (Muhammad) and that will be the day when Allah will raise him into a station of praise and glory (i.e. Al-Maqam -al-Mahmud).",
+                "hadithUrdu": "قیامت کے دن لوگ گھٹنوں کے بل گریں گے۔ ہر امت اپنے نبی کے پیچھے ہو گی اور ( انبیاء سے ) کہے گی کہ اے فلاں! ہماری شفاعت کرو ( مگر وہ سب ہی انکار کر دیں گے ) آخر شفاعت کے لیے نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوں گے تو یہی وہ دن ہے جب اللہ تعالیٰ نبی کریم صلی اللہ علیہ وسلم کو مقام محمود عطا فرمائے گا۔",
+                "urduNarrator": "مجھ سے اسماعیل بن ابان نے بیان کیا، کہا ہم سے ابوالاحوص (سلام بن سلیم) نے بیان کیا، ان سے آدم بن علی نے بیان کیا اور انہوں نے ابن عمر رضی اللہ عنہما سے سنا، انہوں نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي إِسْمَاعِيلُ بْنُ أَبَانَ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ آدَمَ بْنِ عَلِيٍّ، قَالَ سَمِعْتُ ابْنَ عُمَرَ، رضى الله عنهما يَقُولُ إِنَّ النَّاسَ يَصِيرُونَ يَوْمَ الْقِيَامَةِ جُثًا، كُلُّ أُمَّةٍ تَتْبَعُ نَبِيَّهَا، يَقُولُونَ يَا فُلاَنُ اشْفَعْ، حَتَّى تَنْتَهِيَ الشَّفَاعَةُ إِلَى النَّبِيِّ صلى الله عليه وسلم فَذَلِكَ يَوْمَ يَبْعَثُهُ اللَّهُ الْمَقَامَ الْمَحْمُودَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4498,
+                "hadithNumber": "4719",
+                "englishNarrator": "Narrated Jabir bin `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"Whoever, after listening to the Adhan (for the prayer) says, 'O Allah, the Lord of this complete call and of this prayer, which is going to be established! Give Muhammad Al-Wasila and Al-Fadila and raise him to Al-Maqam-al-Mahmud which You have promised him,' will be granted my intercession for him on the Day of Resurrection.\" Hamzah bin Abdullah has reported it from his father and he from the prophet ﷺ.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ جس نے اذان سن کر یہ دعا پڑھی «اللهم رب هذه الدعوة التامة والصلاة القائمة،‏‏‏‏ آت محمدا الوسيلة والفضيلة،‏‏‏‏ وابعثه مقاما محمودا الذي وعدته،‏‏‏‏ حلت له شفاعتي يوم القيامة‏ ‏‏.‏» ”اے اللہ! اس کامل پکار کے رب اور کھڑی ہونے والی نماز کے رب! محمد ( صلی اللہ علیہ وسلم ) کو قرب اور فضیلت عطا فرما اور انہیں مقام محمود پر کھڑا کیجؤ۔ جس کا تو نے ان سے وعدہ کیا ہے۔“ تو اس کے لیے قیامت کے دن میری شفاعت ضروری ہو گی۔ اس حدیث کو حمزہ بن عبداللہ نے بھی اپنے والد ( عبداللہ بن عمر رضی اللہ عنہما ) سے روایت کیا ہے اور انہوں نے نبی کریم صلی اللہ علیہ وسلم سے۔",
+                "urduNarrator": "ہم سے علی بن عیاش نے بیان کیا، انہوں نے کہا ہم سے شعیب بن ابی حمزہ نے بیان کیا، ان سے محمد بن منکدر نے بیان کیا اور ان سے جابر بن عبداللہ انصاری رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَيَّاشٍ، حَدَّثَنَا شُعَيْبُ بْنُ أَبِي حَمْزَةَ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ قَالَ حِينَ يَسْمَعُ النِّدَاءَ اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ وَالصَّلاَةِ الْقَائِمَةِ، آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ، حَلَّتْ لَهُ شَفَاعَتِي يَوْمَ الْقِيَامَةِ ‏\"‏‏.‏ رَوَاهُ حَمْزَةُ بْنُ عَبْدِ اللَّهِ عَنْ أَبِيهِ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4499,
+                "hadithNumber": "4720",
+                "englishNarrator": "Narrated `Abdullah bin Masud رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) entered Mecca (in the year of the Conquest) and there were three-hundred and sixty idols around the Ka`ba. He then started hitting them with a stick in his hand and say: 'Truth (i.e. Islam) has come and falsehood (disbelief) vanished. Truly falsehood (disbelief) is ever bound to vanish.' (17.81) 'Truth has come and falsehood (Iblis) can not create anything.' (34.49)",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم جب مکہ میں ( فتح کے بعد ) داخل ہوئے تو کعبہ کے چاروں طرف تین سو ساٹھ بت تھے۔ نبی کریم صلی اللہ علیہ وسلم اپنے ہاتھ کی لکڑی سے ایک کو ٹکراتے جاتے اور پڑھتے جاتے «جاء الحق وزهق الباطل إن الباطل كان زهوقا‏»،‏‏‏‏ «جاء الحق وما يبدئ الباطل وما يعيد‏» حق آیا اور جھوٹ نابود ہوا بیشک جھوٹ نابود ہونے والا ہی تھا۔",
+                "urduNarrator": "ہم سے عبداللہ بن زبیر حمیدی نے بیان کیا، انہوں نے کہا ہم سے سفیان بن عیینہ نے بیان کیا، ان سے عبداللہ ابن ابی نجیح نے، ان سے مجاہد نے، ان سے ابومعمر نے اور ان سے عبداللہ بن مسعود رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا الْحُمَيْدِيُّ، حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ أَبِي نَجِيحٍ، عَنْ مُجَاهِدٍ، عَنْ أَبِي مَعْمَرٍ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ ـ رضى الله عنه ـ قَالَ دَخَلَ النَّبِيُّ صلى الله عليه وسلم مَكَّةَ وَحَوْلَ الْبَيْتِ سِتُّونَ وَثَلاَثُمِائَةِ نُصُبٍ فَجَعَلَ يَطْعُنُهَا بِعُودٍ فِي يَدِهِ وَيَقُولُ ‏{‏جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا‏}‏ ‏{‏جَاءَ الْحَقُّ وَمَا يُبْدِئُ الْبَاطِلُ وَمَا يُعِيدُ‏}‏",
+                "headingArabic": "‏{‏وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا‏}‏",
+                "headingUrdu": "\"اور کہو کہ حق (یعنی اسلامی توحید یا یہ قرآن یا مشرکوں کے خلاف جہاد) آ گیا اور بطیل (جھوٹ یعنی شیطان یا شرک وغیرہ) نابود ہو گیا...\" (V.17:81)",
+                "headingEnglish": "\"And say 'Truth (i.e., Islamic Monotheism or this Qur'ān or Jihād against polytheists) has come and Bāṭil (falsehood i.e., Satan or polytheism, etc.) has vanished...'\" (V.17:81)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4500,
+                "hadithNumber": "4721",
+                "englishNarrator": "Narrated `Abdullah رضی اللہ عنہ :",
+                "hadithEnglish": "While I was in the company of the Prophet (ﷺ) on a farm and he was reclining on a palm leave stalk, some Jews passed by. Some of them said to the others. \"Ask him (the Prophet (ﷺ) about the spirit.\" Some of them said, \"What urges you to ask him about it\" Others said, \"(Don't) lest he should give you a reply which you dislike.\" But they said, \"Ask him.\" So they asked him about the Spirit. The Prophet (ﷺ) kept quiet and did not give them any answer. I knew that he was being divinely inspired so I stayed at my place. When the divine inspiration had been revealed, the Prophet (ﷺ) said. \"They ask you (O, Muhammad) concerning the Spirit, Say: \"The spirit,\" its knowledge is with my Lord; and of knowledge you (mankind) have been given only a Little.\" (17.85)",
+                "hadithUrdu": "میں رسول اللہ صلی اللہ علیہ وسلم کے ساتھ ایک کھیت میں حاضر تھا نبی کریم صلی اللہ علیہ وسلم اس وقت کھجور کے ایک تنے پر ٹیک لگائے ہوئے تھے کہ کچھ یہودی اس طرف سے گزرے۔ کسی یہودی نے اپنے دوسرے ساتھی سے کہا کہ ان سے روح کے بارے میں پوچھو۔ ان میں سے کسی نے اس پر کہا ایسا کیوں کرتے ہو؟ دوسرا یہودی بولا۔ کہیں وہ کوئی ایسی بات نہ کہہ دیں، جو تم کو ناپسند ہو۔ رائے اس پر ٹھہری کہ روح کے بارے میں پوچھنا ہی چاہئے۔ چنانچہ انہوں نے آپ سے اس کے بارے میں سوال کیا۔ نبی کریم صلی اللہ علیہ وسلم تھوڑی دیر کے لیے خاموش ہو گئے اور ان کی بات کا کوئی جواب نہیں دیا۔ میں سمجھ گیا کہ اس وقت آپ صلی اللہ علیہ وسلم پر وحی اتر رہی ہے۔ اس لیے میں وہیں کھڑا رہا۔ جب وحی ختم ہوئی تو آپ صلی اللہ علیہ وسلم نے اس آیت کی تلاوت کی «ويسألونك عن الروح قل الروح من أمر ربي وما أوتيتم من العلم إلا قليلا‏» کہ ”اور یہ آپ سے روح کے بارے میں سوال کرتے ہیں۔ آپ کہہ دیں کہ روح میرے پروردگار کے حکم ہی سے ہے اور تمہیں علم تو تھوڑا ہی دیا گیا ہے۔“",
+                "urduNarrator": "ہم سے عمر بن حفص بن غیاث نے بیان کیا، کہا ہم سے میرے والد نے، کہا ہم سے اعمش نے، کہا کہ مجھ سے ابراہیم نخعی نے بیان کیا، ان سے علقمہ نے، ان سے عبداللہ بن مسعود رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عُمَرُ بْنُ حَفْصِ بْنِ غِيَاثٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا الأَعْمَشُ، قَالَ حَدَّثَنِي إِبْرَاهِيمُ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ قَالَ بَيْنَا أَنَا مَعَ النَّبِيِّ صلى الله عليه وسلم فِي حَرْثٍ وَهْوَ مُتَّكِئٌ عَلَى عَسِيبٍ إِذْ مَرَّ الْيَهُودُ، فَقَالَ بَعْضُهُمْ لِبَعْضٍ سَلُوهُ عَنِ الرُّوحِ، فَقَالَ مَا رَابَكُمْ إِلَيْهِ، وَقَالَ بَعْضُهُمْ لاَ يَسْتَقْبِلُكُمْ بِشَىْءٍ تَكْرَهُونَهُ فَقَالُوا سَلُوهُ فَسَأَلُوهُ عَنِ الرُّوحِ فَأَمْسَكَ النَّبِيُّ صلى الله عليه وسلم فَلَمْ يَرُدَّ عَلَيْهِمْ شَيْئًا، فَعَلِمْتُ أَنَّهُ يُوحَى إِلَيْهِ، فَقُمْتُ مَقَامِي، فَلَمَّا نَزَلَ الْوَحْىُ قَالَ ‏{‏وَيَسْأَلُونَكَ عَنِ الرُّوحِ قُلِ الرُّوحُ مِنْ أَمْرِ رَبِّي وَمَا أُوتِيتُمْ مِنَ الْعِلْمِ إِلاَّ قَلِيلاً‏}‏‏.‏",
+                "headingArabic": "‏{‏وَيَسْأَلُونَكَ عَنِ الرُّوحِ‏}‏",
+                "headingUrdu": "\"اور وہ آپ سے روح (روح) کے بارے میں پوچھتے ہیں...\" (V.17:85)",
+                "headingEnglish": "\"And they ask you (O Muḥammad pbuh) concerning the Rūḥ (the Spirit)...\" (V.17:85)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4501,
+                "hadithNumber": "4722",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "(regarding): 'Neither say your, prayer aloud, nor say it in a low tone.' (17.110) This Verse was revealed while Allah's Messenger (ﷺ) was hiding himself in Mecca. When he prayed with his companions, he used to raise his voice with the recitation of Qur'an, and if the pagans happened to hear him, they would abuse the Qur'an, the One who revealed it and the one who brought it. Therefore Allah said to His Prophet : 'Neither say your prayer aloud.' (17.110) i.e. do not recite aloud lest the pagans should hear you, but follow a way between.",
+                "hadithUrdu": "اللہ تعالیٰ کے ارشاد «ولا تجهر بصلاتك ولا تخافت بها‏» ”اور آپ نماز میں نہ تو بہت پکار کر پڑھئے اور نہ ( بالکل ) چپکے ہی چپکے“ کے متعلق فرمایا کہ یہ آیت اس وقت نازل ہوئی تھی جب رسول اللہ صلی اللہ علیہ وسلم مکہ میں ( کافروں کے ڈر سے ) چھپے رہتے تو اس زمانہ میں جب آپ اپنے صحابہ کے ساتھ نماز پڑھتے تو قرآن مجید کی تلاوت بلند آواز سے کرتے، مشرکین سنتے تو قرآن کو بھی گالی دیتے اور اس کے نازل کرنے والے اور اس کے لانے والے کو بھی۔ اسی لیے اللہ تعالیٰ نے اپنے نبی سے کہا کہ آپ نماز نہ تو بہت پکار کر پڑھیں ( یعنی قرآت خوب جہر کے ساتھ نہ کریں ) کہ مشرکین سن کر گالیاں دیں اور نہ بالکل چپکے ہی چپکے کہ آپ کے صحابہ بھی نہ سن سکیں، بلکہ درمیانی آواز میں پڑھا کریں۔",
+                "urduNarrator": "ہم سے یعقوب بن ابراہیم نے بیان کیا، کہا ہم سے ہشیم بن بشیر نے بیان کیا، کہا ہم سے ابوبشر نے بیان کیا، ان سے سعید بن جبیر نے اور ان سے ابن عباس رضی اللہ عنہما نے",
+                "hadithArabic": "حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هُشَيْمٌ، حَدَّثَنَا أَبُو بِشْرٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ فِي قَوْلِهِ تَعَالَى ‏{‏وَلاَ تَجْهَرْ بِصَلاَتِكَ وَلاَ تُخَافِتْ بِهَا‏}‏ قَالَ نَزَلَتْ وَرَسُولُ اللَّهِ صلى الله عليه وسلم مُخْتَفٍ بِمَكَّةَ، كَانَ إِذَا صَلَّى بِأَصْحَابِهِ رَفَعَ صَوْتَهُ بِالْقُرْآنِ فَإِذَا سَمِعَهُ الْمُشْرِكُونَ سَبُّوا الْقُرْآنَ وَمَنْ أَنْزَلَهُ، وَمَنْ جَاءَ بِهِ، فَقَالَ اللَّهُ تَعَالَى لِنَبِيِّهِ صلى الله عليه وسلم ‏{‏وَلاَ تَجْهَرْ بِصَلاَتِكَ‏}‏ أَىْ بِقِرَاءَتِكَ، فَيَسْمَعَ الْمُشْرِكُونَ، فَيَسُبُّوا الْقُرْآنَ، ‏{‏وَلاَ تُخَافِتْ بِهَا‏}‏ عَنْ أَصْحَابِكَ فَلاَ تُسْمِعُهُمْ ‏{‏وَابْتَغِ بَيْنَ ذَلِكَ سَبِيلاً‏}‏‏.‏",
+                "headingArabic": "‏{‏وَلاَ تَجْهَرْ بِصَلاَتِكَ وَلاَ تُخَافِتْ بِهَا‏}‏",
+                "headingUrdu": "’’اور اپنی نماز نہ اونچی آواز میں پڑھو اور نہ ہلکی آواز میں‘‘ (V.17:110)",
+                "headingEnglish": "\"...And offer your Salāt (prayer) neither aloud nor in a low voice...\" (V.17:110)",
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4502,
+                "hadithNumber": "4723",
+                "englishNarrator": "Narrated Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "The (above) verse was revealed in connection with the invocations.",
+                "hadithUrdu": "یہ آیت دعا کے سلسلے میں نازل ہوئی ہے۔",
+                "urduNarrator": "مجھ سے طلق بن غنام نے بیان کیا، کہا ہم سے زائدہ بن قدامہ نے بیان کیا، ان سے ہشام بن عروہ نے، ان سے ان کے والد نے اور ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي طَلْقُ بْنُ غَنَّامٍ، حَدَّثَنَا زَائِدَةُ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ أُنْزِلَ ذَلِكَ فِي الدُّعَاءِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "66",
+                "bookSlug": "sahih-bukhari",
+                "volume": "6",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 66,
+                    "chapterNumber": "66",
+                    "chapterEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (PBUH))",
+                    "chapterUrdu": "قرآن پاک کی تفسیر کے بیان میں",
+                    "chapterArabic": "كتاب التفسير",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 4476,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=179",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=177",
+                "label": "177",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=178",
+                "label": "178",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=179",
+                "label": "179",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=180",
+                "label": "180",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=181",
+                "label": "181",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=182",
+                "label": "182",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=183",
+                "label": "183",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=181",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=181",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=179",
+        "to": 4500,
+        "total": 40465
+    }
+}

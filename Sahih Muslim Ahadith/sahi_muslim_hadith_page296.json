@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 296,
+        "data": [
+            {
+                "id": 7664,
+                "hadithNumber": "100",
+                "englishNarrator": null,
+                "hadithEnglish": "It is reported on the authority of Talha b. 'Ubaidullah that a person with dishevelled hair, one of the people of Nejd, came to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ). We heard the humming of his voice but could not fully discern what he had been saying, till he came nigh to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ). It was then (disclosed to us) that he was asking questions pertaining to Islam. The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: Five prayers during the day and the night. (Upon this he said: Am I obliged to say any other (prayer) besides these? He (the Holy Prophet, ) said: No, but whatever you observe voluntarily, out of your own free will, and the fasts of Ramadan. The inquirer said: Am I obliged to do anything else besides this? He (the Holy Prophet) said: No, but whatever you do out of your own free will. And the Messenger of Allah told him about the Zakat (poor-rate). The inquirer said: Am I obliged to pay anything else besides this? He (the Holy Prophet) said: No, but whatever you pay voluntarily out of your own free will. The man turned back and was saying: I would neither make any addition to this, nor will decrease anything out of it. The Prophet remarked: He is successful, if he is true to what he affirms.",
+                "hadithUrdu": "مالک بن انس نے ابو سہیل سے ، اور انہوں نے اپنے والد سے روایت کی ، انہوں نے حضرت طلحہ بن عبیداللہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سےسنا ، وہ کہہ رہے تھے کہ رسول اللہ ﷺ کے پاس اہل نجد میں سے ایک آدمی آیا ، اس کے بال پراگندہ تھے ، ہم اس کی ہلکی سی آواز سن رہے تھے لیکن جوکچھ وہ کہہ رہا تھا ہم اس کو سمجھ نہیں رہے تھے حتی کہ وہ رسو ل اللہ ﷺ کے قریب آ گیا ، وہ آپ سے اسلام کے بارے میں پوچھ رہا تھا ، رسول اللہ ﷺ نے فرمایا : ’’دن اور رات میں پانچ نمازیں ( فرض ) ہیں ۔ ‘ ‘ اس نے پوچھا : کیا ان کے علاوہ ( اور نمازیں ) بھی میرے ذمے ہیں ؟ آپ نے فرمایا : ’’نہیں : الا یہ کہ تم نفلی نماز پڑھو اور ماہ رمضان کے روزے ہیں ۔ ‘ ‘ اس نے پوچھا : کیا میرے ذمے اس کے علاوہ بھی ( روزے ) ہیں ؟ فرمایا : ’’نہیں ، الا یہ کہ تم نفلی روزے رکھو ۔ ‘ ‘ پھر رسول اللہ ﷺ اسے زکاۃ کے بارے میں بتایا تو اس نے سوال کیا : کیا میرے ذمے اس کےسوا بھی کچھ ہے ؟ آپ نے جواب دیا : ’’نہیں ، سوائے اس کے کہ تم اپنی مرضی سے ( نفلی صدقہ ) دو ۔ ‘ ‘ ( حضرت طلحہ نے ) کہا : پھر وہ آدمی واپس ہوا تو کہہ رہا تھا : اللہ کی قسم ! میں نے اس پر کوئی اضافہ کروں گا نہ اس میں کوئی کمی کروں گا ۔ اس پر رسول اللہ ﷺ نے فرمایا : ’’یہ فلاح پا گیا اگر اس نے سچ کر دکھایا ۔ ‘ ‘",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدِ بْنِ جَمِيلِ بْنِ طَرِيفِ بْنِ عَبْدِ اللهِ الثَّقَفِيُّ، عَنْ مَالِكِ بْنِ أَنَسٍ فِيمَا قُرِئَ عَلَيْهِ عَنْ أَبِي سُهَيْلٍ، عَنْ أَبِيهِ، أَنَّهُ سَمِعَ طَلْحَةَ بْنَ عُبَيْدِ اللهِ، يَقُولُ: جَاءَ رَجُلٌ إِلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مِنْ أَهْلِ نَجْدٍ ثَائِرُ الرَّأْسِ، نَسْمَعُ دَوِيَّ صَوْتِهِ، وَلَا نَفْقَهُ مَا يَقُولُ حَتَّى دَنَا مِنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَإِذَا هُوَ يَسْأَلُ عَنِ الْإِسْلَامِ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «خَمْسُ صَلَوَاتٍ فِي الْيَوْمِ، وَاللَّيْلَةِ» فَقَالَ: هَلْ عَلَيَّ غَيْرُهُنَّ؟ قَالَ: «لَا، إِلَّا أَنْ تَطَّوَّعَ، وَصِيَامُ شَهْرِ رَمَضَانَ»، فَقَالَ: هَلْ عَلَيَّ غَيْرُهُ؟ فَقَالَ: «لَا، إِلَّا أَنْ تَطَّوَّعَ»، وَذَكَرَ لَهُ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ الزَّكَاةَ، فَقَالَ: هَلْ عَلَيَّ غَيْرُهَا؟ قَالَ: «لَا، إِلَّا أَنْ تَطَّوَّعَ»، قَالَ: فَأَدْبَرَ الرَّجُلُ، وَهُوَ يَقُولُ: وَاللهِ، لَا أَزِيدُ عَلَى هَذَا، وَلَا أَنْقُصُ مِنْهُ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «أَفْلَحَ إِنْ صَدَقَ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7665,
+                "hadithNumber": "101",
+                "englishNarrator": "Another hadith, the like of which has been narrated by Malik (bin Anas) (and mentioned above) is also reported by Talha bin 'Ubaidullah رضی ‌اللہ ‌عنہ ‌, with the only variation:",
+                "hadithEnglish": "The Prophet remarked: By his father, he shall succeed if he were true (to what he professed), or By his father, he would enter heaven if he were true (to what he professed).",
+                "hadithUrdu": "رسول اللہ ﷺ نے فرمایا : ’’کامیاب ہوا ، اس کے باپ کی قسم ! اگر اس نے سچ کر دکھایا ِ ‘ ‘ یا ( فرمایا ) ’’جنت میں داخل ہو گا ، اس کے باپ کی قسم ! اگر اس نے سچ کر دکھایا ۔ ‘ ‘",
+                "urduNarrator": "مجھ سے یحییٰ بن ایوب اور قتیبہ بن سعید سب نے اسماعیل بن جعفر کی سند سے , ابو سہیل سے ، انہوں نے اپنے والد سے ، انہوں نےحضرت طلحہ بن عبید اللہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے اور انہوں نے نبی ﷺ سے ، مالک سے حدیث کی طرح روایت کی ، سوائے اس کے کہ کہا",
+                "hadithArabic": "حَدَّثَنِي يَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، جَمِيعًا عَنْ إِسْمَاعِيلَ بْنِ جَعْفَرٍ، عَنْ أَبِي سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ طَلْحَةَ بْنِ عُبَيْدِ اللهِ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِهَذَا الْحَدِيثِ نَحْوَ حَدِيثِ مَالِكٍ، غَيْرَ أَنَّهُ قَالَ: فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «أَفْلَحَ، وَأَبِيهِ إِنْ صَدَقَ، أَوْ دَخَلَ الْجَنَّةَ وَأَبِيهِ إِنْ صَدَقَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7666,
+                "hadithNumber": "102",
+                "englishNarrator": "It is reported on the authority of Anas bin Malik ‌رضی ‌اللہ ‌عنہ that he said:",
+                "hadithEnglish": "We were forbidden that we should ask anything (without the genuine need) from the Holy Prophet  ﷺ. It, therefore, pleased us that an intelligent person from the dwellers of the desert should come and asked him (the Holy Prophet  ﷺ) and we should listen to it. A man from the dwellers of the desert came (to the Holy Prophet ﷺ) and said: Muhammad, your messenger came to us and told us your assertion that verily Allah had sent you (as a prophet ﷺ). He (the Holy Prophet ﷺ) remarked: He told the truth. He (the bedouin) said: Who created the heaven? He (the Holy Prophet ﷺ) replied: Allah. He (the bedouin again) said: Who created the earth? He (the Holy Prophet ﷺ) replied: Allah. He (the bedouin again) said: Who raised these mountains and who created in them whatever is created there? He (the Holy Prophet ﷺ) replied: Allah. Upon this he (the bedouin) remarked: By Him Who created the heaven and created the earth and raised mountains thereupon, has Allah (in fact) sent you? He (the Holy Prophet ﷺ) said: Yes. He (the bedouin) said: Your messenger also told us that five prayers (had been made) obligatory for us during the day and the night. He (the Holy Prophet ﷺ) remarked: He told you the truth. He (the bedouin) said: By Him Who sent you, is it Allah Who ordered you about this (i. e. prayers)? He (the Holy Prophet ﷺ) said: Yes. He (the bedouin) said: Your messenger told us that Zakat had been made obligatory in our riches. He (the Holy Prophet ﷺ) said. He has told the truth. He (the bedouin) said: By Him Who sent you (as a prophet ﷺ), is it Allah Who ordered you about it (Zakat)? He (the Holy Prophet ﷺ) said: Yes. He (the bedouin) said: Your messenger told us that it had been made obligatory for us to fast every year during the month of Ramadan. He (the Holy Prophet ﷺ) said: He has told the truth. He (the bedouin) said: By Him Who sent you (as a prophet ﷺ), is it Allah Who ordered you about it (the fasts of Ramadan)? He (the Holy Prophet ﷺ) said: Yes. He (the bedouin) said: Your messenger also told us that pilgrimage (Hajj) to the House (of Ka'bah) had been made obligatory for him who is able to undertake the journey to it. He (the Holy Prophet ﷺ) said: Yes. The narrator said that he (the bedouin) set off (at the conclusion of this answer, but at the time of his departure) remarked: 'By Him Who sent you with the Truth, I would neither make any addition to them nor would I diminish anything out of them. Upon this the Prophet ﷺ remarked: If he were true (to what he said) he must enter Paradise.",
+                "hadithUrdu": "ہمیں رسول اللہ ﷺ سے ( غیر ضروری طور پر ) کسی چیز کے بارے میں سوال کرنے سے روک دیا گیا تو ہمیں بہت اچھا لگتا تھا کہ کوئی سمجھ دار بادیہ نشیں آپ کی خدمت میں حاضر ہوا اور آپ سے سوال کرے اور ہم ( بھی جواب ) سنیں ، چنانچہ ایک بدوی آیا اور کہنے لگا ، اے محمد ( ﷺ ) ! آپ کا قاصد ہمارے پاس آیا تھا ، اس نے ہم سے کہا کہ آپ نے فرماتے ہیں : اللہ تعالیٰ نے آپ کو رسول بنا کر بھیجا ہے ۔ آپ نے فرمایا : ’’ اس نے سچ کہا ۔ ‘ ‘ اس نے پوچھا : آسمان کس نے بنایا ہے ؟ آپ نے جواب دیا : ’’ اللہ نے ۔ ‘ ‘ اس نےکہا : زمین کس نےبنائی ؟ آپ نے فرمایا : ’’اللہ نے ۔ ‘ ‘ اس نے سوال کیا : یہ پہاڑ کس نے گاڑے ہیں اور ان میں جو کچھ رکھا ہے کس نے رکھا ہے ؟ آپ نے فرمایا : ’’ اللہ نے ۔ ‘ ‘ بدوی نے کہا : اس ذات کی قسم ہے جس نے آسمان بنایا ، زمین بنائی اور یہ پہاڑ نصب کیے ! کیا اللہ ہی نے آپ کو ( رسول بنا کر ) بھیجا ہے ؟ آپ نے جواب دیا : ’’ ہاں! ‘ ‘ اس نے کہا : آپ کے قاصد نے بتایا ہے کہ ہمارے دن او رات میں پانچ نمازیں ہیں ۔ آپ نے فرمایا : ’’اس نے درست کہا ۔ ‘ ‘ اس نے کہا : اس ذات کی قسم جس نے آپ کو بھیجا ہے ! کیا اللہ ہی نے آپ کو اس کاحکم دیا ہے ؟ آپ نے جواب دیا : ’’ہاں ! ‘ ‘ اس نے کہا : آپ کو ایلچی کا خیال ہے کہ ہمارے ذمے ہمارے مالوں کی زکاۃ ہے ۔ آپ نے فرمایا : ’’ اس نے سچ کہا ۔ ‘ ‘ بدوی نے کہا : ا س ذات کی قسم جس نے آپ کو رسول بنا یا ! کیا اللہ ہی نے آپ کو یہ حکم دیا ہے ؟ آپ نے جواب دیا : ’’ہاں ! ‘ ‘ اعرابی نے کہا : آپ کو ایلچی کا خیال ہے کہ ہمارے سال میں ہمارے ذمے ماہ رمضان کے روزے ہیں ۔ آپ نے فرمایا : ’’ اس نے صحیح کہا ۔ ‘ ‘ اس نے کہا : اس ذات کی قسم جس نے آپ کو بھیجا ہے ! کیا للہ ہی نے آپ کو اس کاحکم دیا ہے ؟ آپ نے فرمایا : ’’ہاں ! ‘ ‘ وہ کہنے لگا : آپ کے بھیجے ہوئے ( قاصد ) کا خیال ہے کہ ہم پر بیت اللہ کا حج فرض ہے ، اس شخص پر جو اس کے راستے ( کو طے کرنے ) کی استطاعت رکھتا ہو ۔ آپ نے فرمایا ، ’’ اس نے سچ کہا ۔ ‘ ‘ ( حضرت انس ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا : ) پھر وہ واپس چل پڑا اور ( چلتے چلتے ) کہا : اس ذات کی قسم جس نے آپ کو حق کے ساتھ بھیجا ہے! میں ان پر کوئی اضافہ کروں گا نہ ان میں کوئی کمی کروں گا ۔ اس پر نبی کریم ﷺ نے فرمایا : ’’اگر اس نے سچ کر دکھایا تو یقیناً جنت میں داخل ہو گا ۔ ‘ ‘",
+                "urduNarrator": "مجھ سے عمرو بن محمد بن بکیر الناقد نے بیان کیا، ہم سےہاشم بن قاسم ابونضر نے کہا , ہمیں سلیمان بن مغیرہ نے ثابت کے حوالے سے یہ حدیث سنائی ، انہوں نے حضرت انس بن مالک ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنِي عَمْرُو بْنُ مُحَمَّدِ بْنِ بُكَيْرٍ النَّاقِدُ، حَدَّثَنَا هَاشِمُ بْنُ الْقَاسِمِ أَبُو النَّضْرِ، حَدَّثَنَا سُلَيْمَانُ بْنُ الْمُغِيرَةِ، عَنْ ثَابِتٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ: نُهِينَا أَنْ نَسْأَلَ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنْ شَيْءٍ، فَكَانَ يُعْجِبُنَا أَنْ يَجِيءَ الرَّجُلُ مِنْ أَهْلِ الْبَادِيَةِ الْعَاقِلُ، فَيَسْأَلَهُ، وَنَحْنُ نَسْمَعُ، فَجَاءَ رَجُلٌ مِنْ أَهْلِ الْبَادِيَةِ، فَقَالَ: يَا مُحَمَّدُ، أَتَانَا رَسُولُكَ فَزَعَمَ لَنَا أَنَّكَ تَزْعُمُ أَنَّ اللهَ أَرْسَلَكَ، قَالَ: «صَدَقَ»، قَالَ: فَمَنْ خَلَقَ السَّمَاءَ؟ قَالَ: «اللهُ»، قَالَ: فَمَنْ خَلَقَ الْأَرْضَ؟ قَالَ: «اللهُ»، قَالَ: فَمَنْ نَصَبَ هَذِهِ الْجِبَالَ، وَجَعَلَ فِيهَا مَا جَعَلَ؟ قَالَ: «اللهُ»، قَالَ: فَبِالَّذِي خَلَقَ السَّمَاءَ، وَخَلَقَ الْأَرْضَ، وَنَصَبَ هَذِهِ الْجِبَالَ، آللَّهُ أَرْسَلَكَ؟ قَالَ: «نَعَمْ»، قَالَ: وَزَعَمَ رَسُولُكَ أَنَّ عَلَيْنَا خَمْسَ صَلَوَاتٍ فِي يَوْمِنَا، وَلَيْلَتِنَا، قَالَ: «صَدَقَ»، قَالَ: فَبِالَّذِي أَرْسَلَكَ، آللَّهُ أَمَرَكَ بِهَذَا؟ قَالَ: «نَعَمْ»، قَالَ: وَزَعَمَ رَسُولُكَ أَنَّ عَلَيْنَا زَكَاةً فِي أَمْوَالِنَا، قَالَ: «صَدَقَ»، قَالَ: فَبِالَّذِي أَرْسَلَكَ، آللَّهُ أَمَرَكَ بِهَذَا؟ قَالَ: «نَعَمْ»، قَالَ: وَزَعَمَ رَسُولُكَ أَنَّ عَلَيْنَا صَوْمَ شَهْرِ رَمَضَانَ فِي سَنَتِنَا، قَالَ: «صَدَقَ»، قَالَ: فَبِالَّذِي أَرْسَلَكَ، آللَّهُ أَمَرَكَ بِهَذَا؟ قَالَ: «نَعَمْ»، قَالَ: وَزَعَمَ رَسُولُكَ أَنَّ عَلَيْنَا حَجَّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا، قَالَ: «صَدَقَ»، قَالَ: ثُمَّ وَلَّى، قَالَ: وَالَّذِي بَعَثَكَ بِالْحَقِّ، لَا أَزِيدُ عَلَيْهِنَّ، وَلَا أَنْقُصُ مِنْهُنَّ، فَقَالَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لَئِنْ صَدَقَ لَيَدْخُلَنَّ الْجَنَّةَ",
+                "headingArabic": "السُّؤَالِ عَنْ أَرْكَانِ الْإِسْلَامِ",
+                "headingUrdu": "اسلام کے ستونوں کے بارے میں پوچھنا",
+                "headingEnglish": "Asking about the pillars of Islam",
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7667,
+                "hadithNumber": "103",
+                "englishNarrator": "It was narrated that Thabit said: \"Anas ‌رضی ‌اللہ ‌عنہ ‌said:",
+                "hadithEnglish": "'We were forbidden in the Quran to ask the messenger of Allah ﷺ about anything (needlessly), \"and he quoted a similar Hadith (as no. 102).",
+                "hadithUrdu": "ہمیں قرآن مجید میں اس بات سے منع کر دیا گیا کہ ( بلاضرورت ) کسی چیز کے بارے میں آپ سے سوال کریں .... اس کے بعد ( بہزنے ) اسی کی مانند حدیث بیان کی ۔",
+                "urduNarrator": "مجھ سے عبداللہ بن ہاشم العبدی نے بیان کیا، بہزنے کہا ,ہمیں سلیمان بن مغیرہ نے ثابت سے حدیث سنائی اور انہوں نے حضرت انس ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ، انہو  ں ںےکہا",
+                "hadithArabic": "حَدَّثَنِي عَبْدُ اللهِ بْنُ هَاشِمٍ الْعَبْدِيُّ، حَدَّثَنَا بَهْزٌ، حَدَّثَنَا سُلَيْمَانُ بْنُ الْمُغِيرَةِ، عَنْ ثَابِتٍ، قَالَ: قَالَ أَنَسٌ: كُنَّا نُهِينَا فِي الْقُرْآنِ أَنْ نَسْأَلَ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنْ شَيْءٍ وَسَاقَ الْحَدِيثَ بِمِثْلِهِ <قرآن> </قرآن>",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7668,
+                "hadithNumber": "104",
+                "englishNarrator": "It is narrated on the authority of Abu Ayyub Ansari رضی ‌اللہ ‌عنہ ‌that",
+                "hadithEnglish": "Once during the journey of the Prophet ﷺ a bedouin appeared before him and caught hold of the nosestring of his she-camel and then said, Messenger of Allah (or Muhammad), inform me about that which takes me near to Paradise and draws me away from the Fire (of Hell). He (the narrator) said: The Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) stopped for a while and cast a glance upon his companions and then said: He was afforded a good opportunity (or he had been guided well). He (the Holy Prophet ﷺ) addressing the bedouin said: (Repeat) whatever you have uttered. He (the bedouin) repeated that. Upon this the Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) remarked: The deed which can draw you near to Paradise and take you away from Hell is, that you worship Allah and associate none with Him, and you establish prayer and pay Zakat, and do good to your kin. After having uttered these words, the Prophet ﷺ asked the bedouin to release the nosestring of his she-camel.",
+                "hadithUrdu": "رسول ا للہ ﷺ ایک سفر میں تھے جب ایک اعرابی ( دیہاتی ) آپ کے سامنے آ کھڑا ہوا ، اس نے آپ کی اونٹنی کی مہار یانکیل پکڑ لی ، پھر کہا : اے اللہ کے رسول ! ( یا اے محمد! ) مجھے وہ بات بتائیے جو مجھے جنت کے قریب اور آگ سے دور کر دے ۔ ابو ایوب نے کہا کہ رسول اللہ ﷺ رک گئے ، پھر اپنے ساتھیوں پر نظر دوڑائی ، پھر فرمایا ، ’’اس کو توفیق ملی ) ( یا ہدایت ملی ) ‘ ‘ پھر بدوی نے پوچھا : ’’تم نے کیا بات کی ؟ ‘ ‘ اس نے اپنی بات دہرائی تو نبی ا کرمﷺ نے فرمایا : ’’تم اللہ تعالیٰ کی بندگی کرو ، اس کے ساتھ کسی کو شریک نہ ٹھہراؤ ، نماز قائم کرو ، زکاۃ ادا کرو اورصلہ رحمی کرو ۔ ( اب ) اونٹنی کو چھوڑ دو ۔ ‘ ‘",
+                "urduNarrator": "ہم سے محمد بن عبداللہ بن نمیر نے بیان کیا، کہا ہم سے میرے والد نے بیان کیا، کہا ہم سے عمر و بن عثمان نے کہا : ہمیں موسیٰ بن طلحہ نےحدیث سنائی ، انہوں نےکہا : مجھےحضرت ابوایوب ‌رضی ‌اللہ ‌عنہ ‌ ‌ نےحدیث سنائی کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللهِ بْنِ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا عَمْرُو بْنُ عُثْمَانَ، حَدَّثَنَا مُوسَى بْنُ طَلْحَةَ، قَالَ: حَدَّثَنِي أَبُو أَيُّوبَ أَنَّ أَعْرَابِيًّا عَرَضَ لِرَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَهُوَ فِي سَفَرٍ، فَأَخَذَ بِخِطَامِ نَاقَتِهِ - أَوْ بِزِمَامِهَا ثُمَّ قَالَ: يَا رَسُولَ اللهِ - أَوْ يَا مُحَمَّدُ - أَخْبِرْنِي بِمَا يُقَرِّبُنِي مِنَ الْجَنَّةِ، وَمَا يُبَاعِدُنِي مِنَ النَّارِ، قَالَ: فَكَفَّ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، ثُمَّ نَظَرَ فِي أَصْحَابِهِ، ثُمَّ قَالَ: «لَقَدْ وُفِّقَ، أَوْ لَقَدْ هُدِيَ»، قَالَ: كَيْفَ قُلْتَ؟ قَالَ: فَأَعَادَ، فَقَالَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «تَعْبُدُ اللهَ لَا تُشْرِكُ بِهِ شَيْئًا، وَتُقِيمُ الصَّلَاةَ، وَتُؤْتِي الزَّكَاةَ، وَتَصِلُ الرَّحِمَ، دَعِ النَّاقَةَ",
+                "headingArabic": "بَيَانِ الإِيمَانِ الَّذِي يُدْخَلُ بِهِ الْجَنَّةُ وَأَنَّ مَنْ تَمَسَّكَ بِمَا أُمِرَ بِهِ دَخَلَ الجَنَّةَ",
+                "headingUrdu": "اس ایمان کی وضاحت جس کے ذریعے آدمی کو جنت میں داخل کیا جاتا ہے اور جو اس پر عمل کرے گا وہ جنت میں جائے گا۔",
+                "headingEnglish": "Explaining the faith by means of which a person is admitted into paradise, and that the one who adheres to what is enjoined upon him will enter paradise",
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7669,
+                "hadithNumber": "105",
+                "englishNarrator": null,
+                "hadithEnglish": "A similar Hadith (as no. 104) was reported by Musa bin Talha who narrated it from Abu Ayyub رضی ‌اللہ ‌عنہ , from the prophet ﷺ.",
+                "hadithUrdu": "مجھ سے محمد بن حاتم اور عبدالرحمٰن بن بشر نے بیان کیا، کہا ہم سے بہز نے بیان کیا، ہم سے شعبہ نے بیان کیا، ہم سے محمد بن عثمان بن عبد اللہ بن موہب نے بیان کیا, محمد بن عثمان بن عبد اللہ بن موہب اور ان کے والد عثمان دونوں موسیٰ بن طلحہ سے سنا وہ حضرت ابو ایوب ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے اور وہ نبی کریم ﷺ سے سابقہ حدیث کی مانند بیان کرتے تھے ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، وَعَبْدُ الرَّحْمَنِ بْنُ بِشْرٍ، قَالَا: حَدَّثَنَا بَهْزٌ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا مُحَمَّدُ بْنُ عُثْمَانَ بْنِ عَبْدِ اللهِ بْنِ مَوْهَبٍ، وَأَبُوهُ عُثْمَانَ، أَنَّهُمَا سَمِعَا مُوسَى بْنَ طَلْحَةَ، يُحَدِّثُ عَنْ أَبِي أَيُّوبَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِ هَذَا الْحَدِيثِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7670,
+                "hadithNumber": "106",
+                "englishNarrator": "It is narrated on the authority of Abu Ayyub ‌رضی ‌اللہ ‌عنہ ‌:",
+                "hadithEnglish": "A man came to the Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) and said: Direct me to a deed which draws me near to Paradise and takes me away from the Fire (of Hell). Upon this he (the Holy Prophet ﷺ) said: You worship Allah and never associate anything with Him, establish prayer, and pay Zakat, and do good to your kin. When he turned his back, the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) remarked: If he adheres to what he has been ordered to do, he would enter Paradise.",
+                "hadithUrdu": "ایک آدمی نبی ﷺ کےپاس آیا اور پوچھا : مجھے کوئی ایسا کام بتائیے جس پر میں عمل کروں تو وہ مجھے جنت کے قریب اور آگ سے دور کر دے ۔ آپ نے فرمایا : ’’ یہ کہ تو اللہ کی بندگی کرے اس کے ساتھ کسی کو شریک نہ ٹھہرائے ، نماز کی پابندی کرے ، زکاۃ ادا کرے اور اپنے رشتہ داروں سے صلہ رحمی کرے ۔ ‘ ‘ جب وہ پیٹھ پھیر کر چل دیا تو رسول اللہ ﷺ نے فرمایا : ’’ اگر اس نے ان چیزوں کی پابندی کی جن کا اسے حکم دیا گیا ہے تو جنت میں داخل ہو گا ۔ ‘ ‘ ابن ابی شیبہ کی روایت میں ہے ، ’’اگر اس نے اس کی پابندی کی ( تو جنت میں داخل ہو گا ۔ ) ‘ ‘",
+                "urduNarrator": "یحییٰ بن یحییٰ تمیمی او رابوبکر بن ابی شیبہ نے کہا : ہمیں ابو احوص نے حدیث بیان کی ، انہوں نے ابو اسحاق سے ، انہوں نے موسیٰ بن طلحہ سے او رانہوں حضرت ابو ایوب ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ، أَخْبَرَنَا أَبُو الأَحْوَصِ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ أَبِي إِسْحَاقَ، عَنْ مُوسَى بْنِ طَلْحَةَ، عَنْ أَبِي أَيُّوبَ، قَالَ جَاءَ رَجُلٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ دُلَّنِي عَلَى عَمَلٍ أَعْمَلُهُ يُدْنِينِي مِنَ الْجَنَّةِ وَيُبَاعِدُنِي مِنَ النَّارِ ‏.‏ قَالَ ‏\"‏ تَعْبُدُ اللَّهَ لاَ تُشْرِكُ بِهِ شَيْئًا وَتُقِيمُ الصَّلاَةَ وَتُؤْتِي الزَّكَاةَ وَتَصِلُ ذَا رَحِمِكَ ‏\"‏ فَلَمَّا أَدْبَرَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنْ تَمَسَّكَ بِمَا أُمِرَ بِهِ دَخَلَ الْجَنَّةَ ‏\"‏ ‏.‏ وَفِي رِوَايَةِ ابْنِ أَبِي شَيْبَةَ ‏\"‏ إِنْ تَمَسَّكَ بِهِ ‏\"‏ ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7671,
+                "hadithNumber": "107",
+                "englishNarrator": null,
+                "hadithEnglish": "It is reported on the authority of Abu Huraira that a bedouin came to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) and said: Messenger of Allah, direct me to a deed by which I may be entitled to enter Paradise. Upon this he (the Holy Prophet) remarked: You worship Allah and never associate anything with Him, establish the obligatory prayer, and pay the Zakat which is incumbent upon you, and observe the fast of Ramadan. He (the bedouin) said: By Him in Whose hand is my life, I will never add anything to it, nor will I diminish anything from it. When he (the bedouin) turned his back, the Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: He who is pleased to see a man from the dwellers of Paradise should catch a glimpse of him.",
+                "hadithUrdu": "حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت ہے کہ ایک اعرابی رسول اللہ ﷺ کے پاس آیا اور کہا : اے اللہ کے رسول ! مجھے ایسا عمل بتائیے کہ جب میں اس پر عمل کروں تو جنت میں داخل ہو جاؤں ۔ آپ نے فرمایا : ’’تم اللہ کی بندگی کرو اس کے ساتھ کسی کو شریک نہ ٹھہراؤ ، نماز قائم کرو جو تم پر لکھ دی گئی ہے ، فرض زکاۃ ادا کرو او ررمضان کے روزے رکھو ۔ ‘ ‘ وہ کہنے لکا : اس ذات کی قسم جس کے ہاتھ میں میری جان ہے ! میں نہ کبھی اس پر کسی چیز کا اضافہ کروں گا اور نہ اس میں گمی کروں گا ۔ جب وہ واپس جانے لگا تو نبی اکریم ﷺ نے فرمایا : ’’جسے اس بات سے خوشی ہو کہ وہ ایک جنتی آدمی دیکھے تو وہ اسے دیکھ لے ۔ ‘ ‘",
+                "urduNarrator": null,
+                "hadithArabic": "وَحَدَّثَنِي أَبُو بَكْرِ بْنُ إِسْحَاقَ، حَدَّثَنَا عَفَّانُ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ أَعْرَابِيًّا، جَاءَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ دُلَّنِي عَلَى عَمَلٍ إِذَا عَمِلْتُهُ دَخَلْتُ الْجَنَّةَ ‏.‏ قَالَ ‏\"‏ تَعْبُدُ اللَّهَ لاَ تُشْرِكُ بِهِ شَيْئًا وَتُقِيمُ الصَّلاَةَ الْمَكْتُوبَةَ وَتُؤَدِّي الزَّكَاةَ الْمَفْرُوضَةَ وَتَصُومُ رَمَضَانَ ‏\"‏ ‏.‏ قَالَ وَالَّذِي نَفْسِي بِيَدِهِ لاَ أَزِيدُ عَلَى هَذَا شَيْئًا أَبَدًا وَلاَ أَنْقُصُ مِنْهُ ‏.‏ فَلَمَّا وَلَّى قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ مَنْ سَرَّهُ أَنْ يَنْظُرَ إِلَى رَجُلٍ مِنْ أَهْلِ الْجَنَّةِ فَلْيَنْظُرْ إِلَى هَذَا ‏\"‏ ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7672,
+                "hadithNumber": "108",
+                "englishNarrator": "It is narrated on the authority of Jabir رضی ‌اللہ ‌عنہ ‌:",
+                "hadithEnglish": "Nu'man bin Qawqal ‌رضی ‌اللہ ‌عنہ ‌came to the Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) and said: Would I enter Paradise if I say the obligatory prayers and deny myself that which is forbidden and treat that as lawful what has been made permissible (by the Shari'ah)? The Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) replied in the affirmative.",
+                "hadithUrdu": "رسول اللہ ﷺ کے پاس نعمان بن قوقل ‌رضی ‌اللہ ‌عنہ ‌ ‌ آئے اور کہا  اے اللہ کے رسول ! آپ کیا فرماتے ہیں کہ جب میں فرض نماز ادا کروں ، حرام کو حرام اور حلال کو حلال سمجھوں تو کیا میں جنت میں داخل ہو جاؤں گا ؟ نبی ﷺ نے فرمایا : ’’ہاں! ‘ ‘",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ اور ابو کریب نے بیان کیا، اور یہ قول ابو کریب کا ہے، انہوں نے کہا,ابومعاویہ نے اعمش سے حدیث سنائی ، انہوں نے ابو سفیان سے اور انہوں نے حضرت جابر ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ، وَاللَّفْظُ لِأَبِي كُرَيْبٍ، قَالَا: حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الْأَعْمَشِ، عَنْ أَبِي سُفْيَانَ، عَنْ جَابِرٍ، قَالَ: أَتَى النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ النُّعْمَانُ بْنُ قَوْقَلٍ، فَقَالَ: يَا رَسُولَ اللهِ أَرَأَيْتَ إِذَا صَلَّيْتُ الْمَكْتُوبَةَ، وَحَرَّمْتُ الْحَرَامَ، وَأَحْلَلْتُ الْحَلَالَ، أَأَدْخُلُ الْجَنَّةَ؟ فَقَالَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «نَعَمْ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7673,
+                "hadithNumber": "109",
+                "englishNarrator": null,
+                "hadithEnglish": "A similar hadith is narrated on Jabir's authority in which the following words are added: I will do nothing more.",
+                "hadithUrdu": "شیبان نے اعمش سے ، انہوں نے ابو صالح اور ابو سفیان سے اور انہوں نے حضرت جابر ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ، انہوں نے کہا : نعمان بن قوقل ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے عرض کی : اے اللہ کےرسول !..... پھر اس سابقہ روایت کی طرح ہے اور اس میں یہ اضافہ کیا : اور اس پر کسی چیز کا اضافہ نہ کروں گا ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنِي حَجَّاجُ بْنُ الشَّاعِرِ، وَالْقَاسِمُ بْنُ زَكَرِيَّاءَ، قَالَا: حَدَّثَنَا عُبَيْدُ اللهِ بْنُ مُوسَى، عَنْ شَيْبَانَ، عَنِ الْأَعْمَشِ، عَنْ أَبِي صَالِحٍ، وَأَبِي سُفْيَانَ، عَنْ جَابِرٍ، قَالَ: قَالَ النُّعْمَانُ بْنُ قَوْقَلٍ: يَا رَسُولَ اللهِ، بِمِثْلِهِ، وَزَادَا فِيهِ، وَلَمْ أَزِدْ عَلَى ذَلِكَ شَيْئًا",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7674,
+                "hadithNumber": "110",
+                "englishNarrator": "It is narrated on the authority of Jabir:",
+                "hadithEnglish": "A man once said to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ): Shall I enter Paradise in case I say the obligatory prayers, observe the (fasts) of Ramadan and treat that as lawful which has been made permissible (by the Shari'ah) and deny myself that what is forbidden, and make no addition to it? He (the Holy Prophet) replied in the affirmative. He (the inquirer) said: By Allah, I would add nothing to it.",
+                "hadithUrdu": "ایک شخص نے رسول اللہﷺکی خدمت میں حاضر ہو کر عرض کیا کہ اگر میں فرض نماز پڑھتا رہوں اور ‌رمضان ‌كے ‌روزے ‌ركھوں ‌اور حلال کو حلال سمجھوں ‌اور ‌حرام ‌كو ‌حرام ‌، ‌اس ‌سے ‌زیادہ ‌كچھ ‌نہ ‌كروں تو آپﷺ کی کیا رائے ہے کہ کیا میں جنت میں داخل ہو جاؤ نگا؟تو آپﷺ نے فرمایا ہاں!اس شخص نے عرض کیا اللہ کی قسم میں اس سے زیادہ کچھ نہیں کرونگا ۔",
+                "urduNarrator": "سلمہ بن شبیب ‘ حسن بن اعین ‘ معقل یعنی عبید اللہ ‘ ابوالزبیر ‘ جابر سے روایت ہے کہ",
+                "hadithArabic": "وحَدَّثَنِي سَلَمَةُ بْنُ شَبِيبٍ، حَدَّثَنَا الْحَسَنُ بْنُ أَعْيَنَ، حَدَّثَنَا مَعْقِلٌ وَهُوَ ابْنُ عُبَيْدِ اللهِ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، أَنَّ رَجُلًا سَأَلَ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ: أَرَأَيْتَ إِذَا صَلَّيْتُ الصَّلَوَاتِ الْمَكْتُوبَاتِ، وَصُمْتُ رَمَضَانَ، وَأَحْلَلْتُ الْحَلَالَ، وَحَرَّمْتُ الْحَرَامَ، وَلَمْ أَزِدْ عَلَى ذَلِكَ شَيْئًا، أَأَدْخُلُ الْجَنَّةَ؟ قَالَ: «نَعَمْ»، قَالَ: وَاللهِ لَا أَزِيدُ عَلَى ذَلِكَ شَيْئًا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7675,
+                "hadithNumber": "111",
+                "englishNarrator": "It is narrated on the authority of ('Abdullah) son of Umar رضی ‌اللہ ‌عنہ ‌:",
+                "hadithEnglish": "The Prophet (ﷺ) said: (The superstructure of) al-Islam is raised on five (pillars), i. e. the oneness of Allah, the establishment of prayer, payment of Zakat, the, fast of Ramadan, Pilgrimage (to Mecca). A person said (to 'Abdullah b. Umar the narrator): Which of the two precedes the other-Pilgrimage or the fasts of Rarnadan? Upon this he (the narrator) replied: No (it is not the Pilgrimage first) but the fasts of Ramadan precede the Pilgrimage.",
+                "hadithUrdu": "آپ ﷺ نے فرمایا : ’’ اسلام کی بنیاد پانچ چیزوں پر رکھی گئی ہے : اللہ کو یکتا قرار دینے ، نمازقائم کرنے ، زکوٰۃ  ادا کرنے ، رمضان کے روزے رکھنے اور حج کرنے پر ۔ ‘ ‘ ایک شخص نے کہا : حج کرنے اور رمضان کے روزے رکھنے پر ؟ ابن عمر ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا : نہیں !پہلے رمضان کے روزے رکھنے اور حج کرنے پر ۔ میں نے رسول اللہ ﷺ سے یہ بات اسی طرح ( اسی ترتیب سے ) سنی تھی ۔",
+                "urduNarrator": "ہم سے محمد بن عبداللہ بن نمیر الحمدانی نے بیان کیا، کہا ہم سےابو خالد سلیمان بن حیان احمر نے ابومالک اشجعی سے ، انہوں نے سعد بن عبیدہ سے ، انہوں نے حضرت ابن عمر ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے اور انہوں نے نبی اکرم ﷺ سے روایت کی ،",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللهِ بْنِ نُمَيْرٍ الْهَمْدَانِيُّ، حَدَّثَنَا أَبُو خَالِدٍ يَعْنِي سُلَيْمَانَ بْنَ حَيَّانَ الْأَحْمَرَ، عَنْ أَبِي مَالِكٍ الْأَشْجَعِيِّ، عَنْ سَعْدِ بْنِ عُبَيْدَةَ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَ: «بُنِيَ الْإِسْلَامُ عَلَى خَمْسَةٍ، عَلَى أَنْ يُوَحَّدَ اللهُ، وَإِقَامِ الصَّلَاةِ، وَإِيتَاءِ الزَّكَاةِ، وَصِيَامِ رَمَضَانَ، وَالْحَجِّ»، فَقَالَ رَجُلٌ: الْحَجُّ، وَصِيَامُ رَمَضَانَ، قَالَ: «لَا، صِيَامُ رَمَضَانَ، وَالْحَجُّ» هَكَذَا سَمِعْتُهُ مِنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ.",
+                "headingArabic": "اسلام کے ستونوں اور اس کی عظیم تائیدات کو واضح کرنا",
+                "headingUrdu": "اسلام کے ستونوں اور اس کی عظیم تائیدات کو واضح کرنا",
+                "headingEnglish": "Clarifying the pillars of Islam and its grand supports",
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7676,
+                "hadithNumber": "112",
+                "englishNarrator": "It is narrated on the authority of ('Abdullah) son of 'Umar رضی ‌اللہ ‌عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said: (The superstructure of) al-Islam is raised on five (pillars), i. e. Allah (alone) should be worshipped, and (all other gods) beside Him should be (categorically) denied. Establishment of prayer, the payment of Zakat, Pilgrimage to the House, and the fast of Ramadan (are the other obligatory acts besides the belief in the oneness of Allah and denial of all other gods).",
+                "hadithUrdu": "نبیﷺ نے فرمایا : ’’اسلام کی بنیاد پانچ چیزوں پر ہے : اس پر کہ اللہ کی عبادت کی جائے اور اس کے سوا ہر کسی کی عبادت سے انکار کیا جائے ، نماز قائم کرنے ، زکاۃ دینے ، بیت اللہ کاحج کرنے اور رمضان کے روزے رکھنے پر.",
+                "urduNarrator": "ہم سے سہل بن عثمان العسکری نے بیان کیا، کہا ہم سےیحییٰ بن زکریا نے ہمیں حدیث بیان کی ، کہا مجھے سعد بن طارق ( ابو مالک اشجعی ) نے حدیث بیان کی ,وہ حضرت ابن عمر ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے ، انہوں نے نبی ﷺ سے روایت کی کہ",
+                "hadithArabic": "وحَدَّثَنَا سَهْلُ بْنُ عُثْمَانَ الْعَسْكَرِيُّ، حَدَّثَنَا يَحْيَى بْنُ زَكَرِيَّاءَ، حَدَّثَنَا سَعْدُ بْنُ طَارِقٍ، قَالَ: حَدَّثَنِي سَعْدُ بْنُ عُبَيْدَةَ السُّلَمِيُّ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَ: «بُنِيَ الْإِسْلَامُ عَلَى خَمْسٍ، عَلَى أَنْ يُعْبَدَ اللهُ، وَيُكْفَرَ بِمَا دُونَهُ، وَإِقَامِ الصَّلَاةِ، وَإِيتَاءِ الزَّكَاةِ، وَحَجِّ الْبَيْتِ، وَصَوْمِ رَمَضَانَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7677,
+                "hadithNumber": "113",
+                "englishNarrator": "It is narrated on the authority of 'Abdullah son of 'Umar رضی ‌اللہ ‌عنہ ‌:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: (The superstructure of) al-Islam is raised on five (pillars), testifying (the fact) that there is no god but Allah, that Muhammad is His bondsman and messenger, and the establishment of prayer, payment of Zakat, Pilgrimage to the House (Ka'ba) and the fast of Ramadan.",
+                "hadithUrdu": "رسول اللہ ﷺ نے فرمایا : ’’اسلام کی بنیاد پانچ ( رکنوں ) پر رکھی گئی ہے : اس حقیقت کی ( دل ، زبان اور بعد میں ذکر کیے گئے بنیادی اعمال کے ذریعے سے ) گواہی دینا کہ اللہ تعالیٰ کےسوا کوئی معبود نہیں اور حضرت محمد ﷺ اس کے بندے اور اس کے رسول ہیں ، نماز قائم کرنا ، زکاۃ ادا کرنا ، بیت اللہ کا حج کرنا اور رمضان کے روزے رکھنا ۔ ‘ ‘",
+                "urduNarrator": "عاصم بن محمد بن زید عبد اللہ بن عمر نے اپنے والد سے حدیث بیان کی ، کہا : حضرت عبد اللہ بن عمر ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا عُبَيْدُ اللهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا عَاصِمٌ وَهُوَ ابْنُ مُحَمَّدِ بْنِ زَيْدِ بْنِ عَبْدِ اللهِ بْنِ عُمَرَ، عَنْ أَبِيهِ، قَالَ: قَالَ عَبْدُ اللهِ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «بُنِيَ الْإِسْلَامُ عَلَى خَمْسٍ، شَهَادَةِ أَنْ لَا إِلَهَ إِلَّا اللهُ، وَأَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ، وَإِقَامِ الصَّلَاةِ، وَإِيتَاءِ الزَّكَاةِ، وَحَجِّ الْبَيْتِ، وَصَوْمِ رَمَضَانَ»",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7678,
+                "hadithNumber": "114",
+                "englishNarrator": "It is reported on the authority of Ta'us:",
+                "hadithEnglish": "A man said to 'Abdullah son of 'Umar (رضی ‌اللہ ‌عنہ), Why don't you carry out a military expedition? Upon which he replied: I heard the messenger of Allah (ﷺ) say: Verily, al-Islam is founded on five (pillars): testifying the fact that there is no god but Allah, establishment of prayer, payment of Zakat, fast of Ramadan and Pilgrimage to the House.",
+                "hadithUrdu": "ایک آدمی نے حضرت عبد اللہ بن عمر ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے کہا : کیا آپ جہاد میں حصہ نہیں لیتے ؟ انہوں نےجواب دیا : بلاشبہ میں نے رسول اللہ ﷺ سے سنا ، آپ فرما رہے تھے ، ’’اسلام کی بنیاد پانچ چیزوں پر رکھی گئی ہے : ( اس حقیقت کی ) گواہی دینے پر کہ اللہ کے سوا کوئی معبود نہیں ، نماز قائم کرنے ، زکوٰۃادا کرنے ، رمضان کے روزے رکھنے اور بیت اللہ کاحج کرنے پر ۔ ‘ ‘",
+                "urduNarrator": "مجھ سے ابن نمیر نے بیان کیا، ہم سے میرے والد نے بیان کیا، ہم سے حنظلہ نے بیان کیا، انہوں نے کہا کہ میں نے سناعکرمہ بن خالد ، طاؤس کو حدیث سنا رہے تھے کہ",
+                "hadithArabic": "وَحَدَّثَنِي ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا حَنْظَلَةُ، قَالَ سَمِعْتُ عِكْرِمَةَ بْنَ خَالِدٍ، يُحَدِّثُ طَاوُسًا أَنَّ رَجُلاً، قَالَ لِعَبْدِ اللَّهِ بْنِ عُمَرَ أَلاَ تَغْزُو فَقَالَ إِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ إِنَّ الإِسْلاَمَ بُنِيَ عَلَى خَمْسٍ شَهَادَةِ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَإِقَامِ الصَّلاَةِ وَإِيتَاءِ الزَّكَاةِ وَصِيَامِ رَمَضَانَ وَحَجِّ الْبَيْتِ ‏\"‏ ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7679,
+                "hadithNumber": "115",
+                "englishNarrator": "It is narrated on the authority of Ibn 'Abbas ‌رضی ‌اللہ ‌عنہ ‌:",
+                "hadithEnglish": "A delegation of Abdul Qais came to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) and said: Messenger of Allah, verily ours is a tribe of Rabi'a and there stand between you and us the unbelievers of Mudar and we find no freedom to come to you except in the sacred month. Direct us to an act which we should ourselves perform and invite those who live beside us. Upon this the Prophet remarked: I command you to do four things and prohibit you against four acts. (The four deeds which you are commanded to do are): Faith in Allah, and then he explained it for them and said: Testifying the fact. that there is no god but Allah, that Muhammad is the messenger of Allah, performance of prayer, payment of Zakat, that you pay Khums (one-fifth) of the booty fallen to your lot, and I prohibit you to use round gourd, wine jars, wooden pots or skins for wine. Khalaf b. Hisham has made this addition in his narration: Testifying the fact that there is no god but Allah, and then he with his finger pointed out the oneness of the Lord.",
+                "hadithUrdu": "رسول اللہﷺ کی خدمت میں عبدالقیس کا وفد آیا ۔ وہ ( لوگ ) کہنے لگے : اے اللہ کے رسول ! ہم لوگ ( یعنی ) بنو ربیعہ کا یہ قبیلہ ہے ۔ ہمارے اور آپ کے درمیان ( قبیلہ ) مضر کے کافر حائل ہیں اور ہم حرمت والے مہینے کے سوا بحفاظت آپ تک نہیں پہنچ سکتے ، لہٰذا آپ ہمیں وہ حکم دیجیے جس پر خود بھی عمل کریں اور جو پیچھے ہیں ان کو بھی اس کی دعوت دیں ۔ آپﷺ نے فرمایا : ’’ میں تمہیں چار چیزوں کا حکم دیتا ہوں اور چار چیزوں سے روکتا ہوں : ( جن کا حکم دیتا ہوں وہ ہیں : ) ’’اللہ تعالیٰ پر ایمان لانا ‘ ‘ پھر آپ نے ان کے سامنے ایمان باللہ کی وضاحت کی ، فرمایا : ’’ اس حقیقت کی گواہی دینا کہ اللہ تعالیٰ کے سوا کوئی عبادت کے لائق نہیں اور محمدﷺ بالیقین اللہ کے رسول ہیں ۔ نماز قائم کرنا ، زکاۃ ادا کرنا اور جومال غنیمت تمہیں حاصل ہو ، اس میں سے خمس ( پانچواں حصہ ) ادا کرنا ۔ اور میں تمہیں روکتا ہوں کدو کے برتن ، سبز گھڑے ، لکڑی کے اندر سے کھود کر ( بنائے ہوئے ) برتن اور ا یسے برتنوں کے استعمال سے جن پر تارکول ملا گیا ہو ۔ ‘ ‘ خلف نےاپنی روایت میں یہ اضافہ کیا : ’’ اس ( سچائی ) کی گواہی دینا کہ اللہ تعالیٰ کے سوا کوئی عبادت کے لائق نہیں ۔ ‘ ‘ اسے انہوں نےانگلی کے اشارے سے ایک شمار کیا ۔",
+                "urduNarrator": "خلف بن ہشام نے بیان کیا ( کہا ) ہمیں حماد بن زید نے ابو جمرہ سے حدیث بیان کی ، انہوں نے کہا : میں نے عبد اللہ بن عباس ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے سنا ، نیز یحییٰ بن یحییٰ نے کہا : ( الفاظ انہی کے ہیں ) ہمیں عباد بن عباد نے ابو جمرہ سے خبر دی کہ حضرت ابن عباس ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا :",
+                "hadithArabic": "حَدَّثَنَا خَلَفُ بْنُ هِشَامٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَبِي جَمْرَةَ قَالَ: سَمِعْتُ ابْنَ عَبَّاسٍ، ح وحَدَّثَنَا يَحْيَى بْنُ يَحْيَى - وَاللَّفْظُ لَهُ - أَخْبَرَنَا عَبَّادُ بْنُ عَبَّادٍ، عَنْ أَبِي جَمْرَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ: قَدِمَ وَفْدُ عَبْدِ الْقَيْسِ عَلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالُوا: يَا رَسُولَ اللهِ، إِنَّا هَذَا الْحَيَّ مِنْ رَبِيعَةَ، وَقَدْ حَالَتْ بَيْنَنَا، وَبَيْنَكَ كُفَّارُ مُضَرَ، فَلَا نَخْلُصُ إِلَيْكَ إِلَّا فِي شَهْرِ الْحَرَامِ، فَمُرْنَا بِأَمْرٍ نَعْمَلُ بِهِ، وَنَدْعُو إِلَيْهِ مَنْ وَرَاءَنَا، قَالَ: آمُرُكُمْ بِأَرْبَعٍ، وَأَنْهَاكُمْ عَنْ أَرْبَعٍ: الْإِيمَانِ بِاللهِ ، ثُمَّ فَسَّرَهَا لَهُمْ، فَقَالَ: «شَهَادَةِ أَنْ لَا إِلَهَ إِلَّا اللهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللهِ، وَإِقَامِ الصَّلَاةِ، وَإِيتَاءِ الزَّكَاةِ، وَأَنَّ تُؤَدُّوا خُمُسَ مَا غَنِمْتُمْ، وَأَنْهَاكُمْ عَنِ الدُّبَّاءِ، وَالْحَنْتَمِ، وَالنَّقِيرِ، وَالْمُقَيَّرِ» زَادَ خَلَفٌ فِي رِوَايَتِهِ: «شَهَادَةِ أَنْ لَا إِلَهَ إِلَّا اللهُ»، وَعَقَدَ وَاحِدَةً.",
+                "headingArabic": "الْأَمْرِ بِالْإِيمَانِ بِاللَّهِ تَعَالَى وَرَسُولِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَشَرَائِعِ الدِّينِ",
+                "headingUrdu": "اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) پر ایمان لانے کا حکم اور اسلام کے احکام، لوگوں کو اس کی طرف بلانا، اس کے بارے میں سوال کرنا، اسے حفظ کرنا اور ان تک پہنچانا جنہوں نے اس کا پیغام نہیں سنا۔",
+                "headingEnglish": "The command to believe in Allah and His Messenger (saws) and the laws of Islam, calling people to it, asking about it, memorizing it and conveying it to those who have not heard the message",
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7680,
+                "hadithNumber": "116",
+                "englishNarrator": "It was narrated that Abu Jamra said:",
+                "hadithEnglish": "I was an interpreter between Ibn Abbas and the people, that a woman happened to come there and asked about nabidh or the pitcher of wine. He replied: A delegation of the people of 'Abdul-Qais came to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ). He (the Holy Prophet) asked the delegation or the people (of the delegation about their identity). They replied that they belonged to the tribe of Rabi'a. He (the Holy Prophet) welcomed the people or the delegation which were neither humiliated nor put to shame. They (the members of the delegation) said: Messenger of Allah, we come to you from a far-off distance and there lives between you and us a tribe of the unbelievers of Mudar and, therefore, it is not possible for us to come to you except in the sacred months. Thus direct us to a clear command, about which we should inform people beside us and by which we may enter heaven. He (the Holy Prophet) replied: I command you to do four deeds and forbid you to do four (acts), and added: I direct you to affirm belief in Allah alone, and then asked them: Do you know what belief in Allah really implies? They said: Allah and His Messenger know best. The Prophet said: It implies testimony to the fact that there is no god but Allah, and that Muhammad is the messenger of Allah, establishment of prayer, payment of Zakat, fast of Ramadan, that you pay one-fifth of the booty (fallen to your lot) and I forbid you to use gourd, wine jar, or a receptacle for wine. Shu'ba sometimes narrated the word naqir (wooden pot) and sometimes narrated it as muqayyar. The Prophet also said: Keep it in your mind and inform those who have been left behind.",
+                "hadithUrdu": "میں حضرت عبد اللہ بن عباس ‌رضی ‌اللہ ‌عنہ ‌ ‌ اور ( دوسرے ) لوگوں کے درمیان ترجمان تھا ، ان کے پاس ایک عورت آئی ، وہ ان سے گھڑے کی نبیذ کے بارے میں سوال کر رہی تھی توحضرت ابن عباس ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے جواب دیا : رسول اللہ ﷺ کی خدمت میں عبد القیس کا وفد آیا ۔ رسول اللہ ﷺ نے پوچھا : ’’یہ کون سا وفد ہے ؟ ( یا فرمایا : یہ کو ن لوگ ہیں ؟ ) ‘ ‘ انہوں نے کہا : ربیعہ ( قبیلہ سے ہیں ۔ ) فرمایا : ’’ اس قوم ( یا وفد ) کو خوش آمدید جو رسوا ہوئے نہ نادم ۔ ‘ ‘ ( ابن عباس ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے ) کہا ، ان لوگوں نے عرض کی : اے اللہ کےرسول ! ہم لوگ آپ کے پاس بہت دور سے آتے ہیں ، ہمارے اور آپ کے درمیان مضر کے کافروں کا یہ قبیلہ ( حائل ) ہے ، ہم ( کسی ) حرمت والے مہینے کے سوا آپ کے پاس نہیں آ سکتے ، آپ ہمیں فیصلہ کن بات بتائیے جو ہم اپنے ( گھروں میں ) پیچھے لوگوں کو ( بھی ) بتائیں اور اس کے ذریعے سے ہم جنت میں داخل ہو جائیں ۔ ابن عباس ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے بتایا : آپ نے ان چار باتوں کا حکم دیا اور چار چیزیں سے روکا ۔ آپ نے ان کو اکیلے اللہ تعالیٰ پر ایمان لانا کا حکم دیا اور پوچھا : ’’جانتے ہو ، صرف اللہ پر ایمان لانا کیا ہے ؟ ‘ ‘ انہوں نے کہا : اللہ اور اس کے رسول ہی زیادہ جاننے والے ہیں ۔ آپ نے فرمایا : ’’اس حقیقت کی گواہی دینا کہ اللہ کے سوا کوئی الٰہ نہیں اور محمد ﷺ اللہ کے رسول ہیں ، نماز قائم کرنا ، زکاۃ دینا ، رمضان کے روزے رکھنا اور یہ کہ تم مال غنیمت میں سے اس کا پانچواں حصہ ادا کرو ۔ ‘ ‘ اور انہیں خشک کدو سے بنائے ہوئے برتن ، سبز مٹکے اور تارکول ملے ہوئے برتن ( استعمال کرنے ) سے منع کیا ( شعبہ نے کہا : ) ابو جمرہ نے شاید نقیر ( لکڑی میں کھدائی کر کے بنایا ہوا برتن کہا یا شاید مقیر ( تارکول ملا ہوا برتن ) کہا ۔ اور آپ نے فرمایا : ’’ان کو خوب یاد رکھو اور اپنے پیچھے ( والوں کو ) بتا دو ۔ ‘ ‘ ابو بکر بن ابی شیبہ کی روایت میں ( من ورائکم کے بجائے ) من وراءکم ( ان کو ( بتاؤ ) جو تمہارے پیچھے ہیں ) کے الفاظ ہیں اور ان کی روایت میں مقیر کا ذکر نہیں ( بلکہ نقیر کا ہے ۔ )",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ، محمد بن المثنیٰ اور محمد بن بشار نے بیان کیا، اور ان کا قول اسی طرح ہے، ابوبکر نے کہا: ہم سے غندر نے شعبہ رضی اللہ عنہ سے بیان کیا اور دوسرے دو نے کہا: محمد بن جعفر, ہم سے شعبہ نے ابو جمرہ سے حدیث بیان کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، وَأَلْفَاظُهُمْ مُتَقَارِبَةٌ، قَالَ أَبُو بَكْرِ: حَدَّثَنَا غُنْدَرٌ، عَنْ شُعْبَةَ، وَقَالَ الْآخَرَانِ: حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي جَمْرَةَ، قَالَ: كُنْتُ أُتَرْجِمُ بَيْنَ يَدَيِ ابْنِ عَبَّاسٍ، وَبَيْنَ النَّاسِ، فَأَتَتْهُ امْرَأَةٌ، تَسْأَلُهُ عَنْ نَبِيذِ الْجَرِّ، فَقَالَ: إِنَّ وَفْدَ عَبْدِ الْقَيْسِ أَتَوْا رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنِ الْوَفْدُ؟ أَوْ مَنِ الْقَوْمُ؟»، قَالُوا: رَبِيعَةُ، قَالَ: «مَرْحَبًا بِالْقَوْمِ، أَوْ بِالْوَفْدِ، غَيْرَ خَزَايَا، وَلَا النَّدَامَى»، قَالَ: فَقَالُوا: يَا رَسُولَ اللهِ، إِنَّا نَأْتِيكَ مِنْ شُقَّةٍ بَعِيدَةٍ، وَإِنَّ بَيْنَنَا وَبَيْنَكَ هَذَا الْحَيَّ مِنْ كُفَّارِ مُضَرَ، وَإِنَّا لَا نَسْتَطِيعُ أَنْ نَأْتِيكَ إِلَّا فِي شَهْرِ الْحَرَامِ، فَمُرْنَا بِأَمْرٍ فَصْلٍ نُخْبِرْ بِهِ مَنْ وَرَاءَنَا نَدْخُلُ بِهِ الْجَنَّةَ، قَالَ: فَأَمَرَهُمْ بِأَرْبَعٍ، وَنَهَاهُمْ عَنْ أَرْبَعٍ، قَالَ: «أَمَرَهُمْ بِالْإِيمَانِ بِاللهِ وَحْدَهُ»، وَقَالَ: «هَلْ تَدْرُونَ مَا الْإِيمَانُ بِاللهِ؟» قَالُوا: اللهُ وَرَسُولُهُ أَعْلَمُ، قَالَ: «شَهَادَةُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللهِ، وَإِقَامُ الصَّلَاةِ، وَإِيتَاءُ الزَّكَاةِ، وَصَوْمُ رَمَضَانَ، وَأَنَّ تُؤَدُّوا خُمُسًا مِنَ الْمَغْنَمِ»، وَنَهَاهُمْ عَنِ الدُّبَّاءِ، وَالْحَنْتَمِ، وَالْمُزَفَّتِ - قَالَ شُعْبَةُ: وَرُبَّمَا قَالَ - النَّقِيرِ، قَالَ شُعْبَةُ: وَرُبَّمَا قَالَ: الْمُقَيَّرِ، وَقَالَ: «احْفَظُوهُ، وَأَخْبِرُوا بِهِ مِنْ وَرَائِكُمْ» وَقَالَ أَبُو بَكْرٍ فِي رِوَايَتِهِ: «مَنْ وَرَاءَكُمْ»، وَلَيْسَ فِي رِوَايَتِهِ الْمُقَيَّرُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7681,
+                "hadithNumber": "117",
+                "englishNarrator": "There is another hadith narrated on the authority of Ibn Abbas ‌رضی ‌اللہ ‌عنہ ‌(the contents of which are similar to the one) narrated by Shu'ba",
+                "hadithEnglish": "in which the Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: I forbid you to prepare nabidh in a gourd, hollowed block of wood, a varnished jar or receptacle. Ibn Mu'adh made this addition on the authority of his father that the Messenger of Allah said to Ashajj, of the tribe of 'Abdul-Qais: You possess two qualities which are liked by Allah: insight and deliberateness.",
+                "hadithUrdu": "رسو ل اللہ ﷺ نے فرمایا : ’’میں تمہیں اس نبیذ سے منع کرتا ہوں جو خشک کدو کے برتن ، لکڑی سے تراشیدہ برتن ، سبز مٹکے اور تارکول ملے برتن میں تیار کی جائے ( اس میں زیادہ خمیر اٹھنے کا خدشہ ہے جس سے نبیذ شراب میں بدل جاتی ہے ۔ ) ‘ ‘ ابن معاذ نے اپنے والد کی روایت میں اضافہ کیا ہے کہ رسول اللہ ﷺ نے عبد القیس کے پیشانی پر زخم والے شخص ( اشج ) سے کہا : ’’تم میں دو خوبیاں ہیں جنہیں اللہ پسند فرماتا ہے : عقل اور تحمل ۔ ‘ ‘",
+                "urduNarrator": "مجھ سے عبید اللہ بن معاذ نے بیان کیا، کہا ہم سے میرے والد نے بیان کیا، کہا کہ ہم سے نصر بن علی الجہدمی نے بیان کیا، انہوں نے کہا: مجھ سے میرے والد نے بیان کیا، سب نے کہا: اس نے ہم سے بیان کیا قرہ بن خالد نے ابوجمرہ سے حدیث بیان کی ، انہوں نے حضرت ابن عباس ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے اور انہوں نے نبی ﷺ سے شعبہ کی ( سابقہ روایت کی ) طرح حدیث بیان کی ( اس کے الفاظ ہیں)",
+                "hadithArabic": "وَحَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي ح، وَحَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ، قَالَ أَخْبَرَنِي أَبِي قَالاَ، جَمِيعًا حَدَّثَنَا قُرَّةُ بْنُ خَالِدٍ، عَنْ أَبِي جَمْرَةَ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِهَذَا الْحَدِيثِ نَحْوَ حَدِيثِ شُعْبَةَ ‏.‏ وَقَالَ ‏\"‏ أَنْهَاكُمْ عَمَّا يُنْبَذُ فِي الدُّبَّاءِ وَالنَّقِيرِ وَالْحَنْتَمِ وَالْمُزَفَّتِ ‏\"‏ ‏.‏ وَزَادَ ابْنُ مُعَاذٍ فِي حَدِيثِهِ عَنْ أَبِيهِ قَالَ وَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم لِلأَشَجِّ أَشَجِّ عَبْدِ الْقَيْسِ ‏\"‏ إِنَّ فِيكَ خَصْلَتَيْنِ يُحِبُّهُمَا اللَّهُ الْحِلْمُ وَالأَنَاةُ ‏\"‏ ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7682,
+                "hadithNumber": "118",
+                "englishNarrator": null,
+                "hadithEnglish": "It is reported on the authority of Qatada that one among the delegates of the 'Abdul-Qais tribe narrated this tradition to him. Sa'id said that Qatada had mentioned the name of Abu Nadra on the authority of Abu Sa'id Khudri who narrated this tradition: That people from the- tribe of 'Abdul-Qais came to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) and said: Messenger of Allah, we belong to the tribe of Rabi'a and there live between you and us the unbelievers of the Mudar tribe and we find it impossible to come to you except in the sacred months; direct us to a deed which we must communicate to those who have been left behind us and by doing which we may enter heaven. Upon this the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: I enjoin upon you four (things) and forbid you to do four (things): worship Allah and associate none with Him, establish prayer, pay Zakat, and observe the fast of Ramadan, and pay the fifth part out of the booty. And I prohibit you from four (things): dry gourds, green-coloured jars, hollowed stumps of palm-trees, and receptacles. They (the members of the delegation) said: Do you know what al-naqir is? He replied: Yes, it is a stump which you hollow out and in which you throw small dates. Sa'id said: He (the Holy Prophet) used the word tamar (dates). (The Prophet then added): Then you sprinkle water over it and when its ebullition subsides, you drink it (and you are so intoxicated) that one amongst you, or one amongst them (the other members of your tribe, who were not present there) strikes his cousin with the sword. He (the narrator) said: There was a man amongst us who had sustained injury on this very account due to (intoxication), and he told that he tried to conceal it out of shame from the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ). I, however, inquired from the Messenger of Allah (it we discard those utensils which you have forbidden us to use), then what type of vessels should be used for drink? He (the Holy Prophet) replied: In the waterskin the mouths of which are tied (with a string). They (again) said: Prophet of Allah, our land abounds in rats and water-skins cannot remain preserved. The holy Prophet of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: (Drink in water-skins) even if these arenibbled by rats. And then (addressing) al-Ashajj of 'Abdul-Qais he said: Verily, you possess two such qualities which Allah loves: insight and deliberateness.",
+                "hadithUrdu": "( اسماعیل ) ابن علیہ نے کہا : ہمیں سعید بن ابی عروبہ نے قتادہ سے حدیث سنائی ، انہوں نےکہا : مجھے اس شخص نے بتایا جو رسو ل اللہ ﷺ کی خدمت میں حاضر ہونے والے عبد القیس کے وفد سے ملے تھا ( سعید نےکہا : قتادہ نے ابو نضرہ کا نام لیا تھا یہ وفد سے ملے تھے ، اور تفصیل حضرت ابو سعید سے سن کر بیان کی ) انہوں نےحضرت ابو سعید خدری ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے یہ روایت کی کہ عبد القیس کے کچھ لوگ رسول اللہ ﷺ کے پاس آئے اور عرض کی : اے اللہ کے رسول ! ہم ربیعہ کے لوگ ہیں ، ہمارے اور آپ کے درمیان مضر کے کافر حائل ہیں اور ہم حرمت والے مہینوں کے علاوہ آپ کی خدمت میں نہیں پہنچ سکتے ، اس لیے آپ ہمیں وہ حکم دیجیے جو ہم اپنے پچھلوں کو بتائیں اور اگر اس پر عمل کر لیں تو ہم ( سب ) جنت میں داخل ہو جائیں ۔ رسول اللہ ﷺ نے فرمایا : ’’میں تمہیں چار چیزوں کا حکم دیتا ہوں اور چار چیزوں سے روکتا ہ و : ( حکم دیتا ہوں کہ ) اللہ تعالیٰ کی بندگی کرو اور اس کے ساتھ کسی چیز کو شریک نہ ٹھہراؤ ، نماز کی پابندی کرو ، زکاۃ دیتے رہو ، رمضان کے روزے رکھو اور غنیمتوں کا پانچواں حصہ ادا کرو ۔ اور چار چیزیں سے میں تمہیں روکتا ہوں : خشک کدو کے برتن سے ، سبز مٹکے سے ، ایسے برتن سے جس کو روغن زفت ( تارکول ) لگایا گیا ہو اور نقیر ( لکڑی کے تراشے ہوئے برتن ) سے ۔ ‘ ‘ ان لوگوں نے کہا : اے اللہ کے نبی ! آپ کو نقیر کے بارے میں کیا علم ہے ؟ فرمایا : ’’کیوں نہیں ! ( یہ ) تنا ہے ، تم اسے اندر سے کھوکھلا کرتے ہو ، اس میں ملی جلی چھوٹی کھجوریں ڈالتے ہو ) پھر اس میں پانی ڈالتے ہو ، پھر جب اس کا جوش ( خمیر اٹھنے کے بعد کا جھاگ ) ختم ہو جاتا ہے تواسے پی لیتے ہو یہاں تک کہ تم میں سے ایک ( یا ان میں ایک ) اپنے چچازاد کو تلوار کا نشانہ بناتا ہے ۔ ‘ ‘ ابو سعید نے کہا : لوگوں میں ایک آدمی تھا جس کو اسی طرح ایک زخم لگا تھا ۔ اس نے کہا : میں شرم و حیا کی بنا پر اسے رسول اللہ ﷺ سے چھپا رہا تھا ، پھر میں نے پوچھا : اے اللہ کے رسول ! تو ہم کس پیا کریں ؟ آپ نے فرمایا : ’’چمڑے کی ان مشکوں میں پیو جن کے منہ ( دھاگے وغیرہ سے ) باندھ دیے جاتے ہیں ۔ ‘ ‘ اہل وفد بولے : اے اللہ کے رسول ! ہماری زمین میں چوہے بہت ہیں ، وہاں چمڑے کے مشکیزے نہیں بچ پاتے ۔ اللہ کے نبی ﷺ نے فرمایا : ’’چاہے انہیں چوہے کھا جائیں ، چاہے انہیں چوہے کھا جائیں ، چاہے انہیں کھا جائیں ۔ ‘ ‘ کہا : ( پھر ) رسول اللہ ﷺ نے عبد القیس کے اس شخص سے جس کے چہرے پر زخم تھا ، فرمایا : ’’تمہارے اندر دو ایسی خوبیاں ہیں جنہیں اللہ تعالیٰ پسند فرماتا ہے : عقل اور تحمل ۔ ‘ ‘",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، حَدَّثَنَا ابْنُ عُلَيَّةَ، حَدَّثَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، قَالَ: حَدَّثَنَا مَنْ لَقِيَ الْوَفْدَ الَّذِينَ قَدِمُوا عَلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مِنْ عَبْدِ الْقَيْسِ، قَالَ سَعِيدٌ: وَذَكَرَ قَتَادَةُ أَبَا نَضْرَةَ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، فِي حَدِيثِهِ هَذَا: أَنَّ أُنَاسًا مِنْ عَبْدِ الْقَيْسِ قَدِمُوا عَلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالُوا: يَا نَبِيَّ اللهِ، إِنَّا حَيٌّ مِنْ رَبِيعَةَ، وَبَيْنَنَا وَبَيْنَكَ كُفَّارُ مُضَرَ، وَلَا نَقْدِرُ عَلَيْكَ إِلَّا فِي أَشْهُرِ الْحُرُمِ، فَمُرْنَا بِأَمْرٍ نَأْمُرُ بِهِ مَنْ وَرَاءَنَا، وَنَدْخُلُ بِهِ الْجَنَّةَ إِذَا نَحْنُ أَخَذْنَا بِهِ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: آمُرُكُمْ بِأَرْبَعٍ، وَأَنْهَاكُمْ عَنْ أَرْبَعٍ: اعْبُدُوا اللهَ وَلَا تُشْرِكُوا بِهِ شَيْئًا، وَأَقِيمُوا الصَّلَاةَ، وَآتُوا الزَّكَاةَ، وَصُومُوا رَمَضَانَ، وَأَعْطُوا الْخُمُسَ مِنَ الْغَنَائِمِ، وَأَنْهَاكُمْ عَنْ أَرْبَعٍ: عَنِ الدُّبَّاءِ، وَالْحَنْتَمِ، وَالْمُزَفَّتِ، وَالنَّقِيرِ قَالُوا: يَا نَبِيَّ اللهِ، مَا عِلْمُكَ بِالنَّقِيرِ؟ قَالَ: بَلَى، جِذْعٌ تَنْقُرُونَهُ، فَتَقْذِفُونَ فِيهِ مِنَ الْقُطَيْعَاءِ - قَالَ سَعِيدٌ: أَوْ قَالَ: مِنَ التَّمْرِ - ثُمَّ تَصُبُّونَ فِيهِ مِنَ الْمَاءِ حَتَّى إِذَا سَكَنَ غَلَيَانُهُ شَرِبْتُمُوهُ، حَتَّى إِنَّ أَحَدَكُمْ، أَوْ إِنَّ أَحَدَهُمْ لَيَضْرِبُ ابْنَ عَمِّهِ بِالسَّيْفِ قَالَ: وَفِي الْقَوْمِ رَجُلٌ أَصَابَتْهُ جِرَاحَةٌ كَذَلِكَ قَالَ، وَكُنْتُ أَخْبَؤُهَا حَيَاءً مِنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقُلْتُ: فَفِيمَ نَشْرَبُ يَا رَسُولَ اللهِ؟ قَالَ: «فِي أَسْقِيَةِ الْأَدَمِ الَّتِي يُلَاثُ عَلَى أَفْوَاهِهَا»، قَالُوا: يَا رَسُولَ اللهِ، إِنَّ أَرْضَنَا كَثِيرَةُ الْجِرْذَانِ، وَلَا تَبْقَى بِهَا أَسْقِيَةُ الْأَدَمِ، فَقَالَ نَبِيُّ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «وَإِنْ أَكَلَتْهَا الْجِرْذَانُ، وَإِنْ أَكَلَتْهَا الْجِرْذَانُ، وَإِنْ أَكَلَتْهَا الْجِرْذَانُ» قَالَ: وَقَالَ نَبِيُّ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ لِأَشَجِّ عَبْدِ الْقَيْسِ: إِنَّ فِيكَ لَخَصْلَتَيْنِ يُحِبُّهُمَا اللهُ: الْحِلْمُ وَالْأَنَاةُ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7683,
+                "hadithNumber": "119",
+                "englishNarrator": "It was narrated from Abu Saeed Al-Khudri",
+                "hadithEnglish": "When a delegation from Abdul-Qais came to Messenger of Allah ﷺ... and he narrated a Hadith similar to that of Ibn 'Ulayyah (no. 118), but he said: \"And they put small dates, dates and water in it.\" And he did not say: \"Sa'eed said: 'Or he said: \"Dates.\"",
+                "hadithUrdu": "جب عبدالقیس کا وفد رسول اللہﷺ کی خدمت میں حاضر ہوا .... ، پھر ابن علیہ کی حدیث کے مانند روایت بیان کی ، البتہ اس میں یہ الفاظ ہیں : ’’تم اس میں ملی جلی کھجوریں ، ( عام ) کھجوریں اور پانی ڈالتے ہو ۔ ‘ ‘ ( اور ابن ابی عدی نے اپنی روایت میں ) یہ الفاظ ذکر نہیں کیے کہ سعید نے کہا ، یا آپﷺ نے فرمایا : ’’کچھ کھجوریں ڈالتے ہو ۔ ‘ ‘",
+                "urduNarrator": "ہم سے محمد بن المثنیٰ اور ابن بشار نے بیان کیا، کہا کہ ہم سے ابن ابی عدی نے سعید سے اور قتادہ کی سند سے بیان کیا، انہوں نے کہا \r\nمجھے عبد القیس کے وفد سے ملاقات کرنےوالے ایک سے زائد افراد نے بتایا اور ان میں سے ابو نضرہ کانام لیا ( ابو نضرہ نے ) حضرت ابو سعیدخدری ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ بَشَّارٍ، قَالَا: حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، قَالَ: حَدَّثَنِي غَيْرُ وَاحِدٍ لَقِيَ ذَاكَ الْوَفْدَ، وَذَكَرَ أَبَا نَضْرَةَ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ وَفْدَ عَبْدِ الْقَيْسِ لَمَّا قَدِمُوا عَلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِ حَدِيثِ ابْنِ عُلَيَّةَ، غَيْرَ أَنَّ فِيهِ «وَتَذِيفُونَ فِيهِ مِنَ الْقُطَيْعَاءِ، أَوِ التَّمْرِ وَالْمَاءِ»، وَلَمْ يَقُلْ: قَالَ سَعِيدٌ، أَوْ قَالَ مِنَ التَّمْرِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7684,
+                "hadithNumber": "120",
+                "englishNarrator": "It is narrated on the authority of Abu Said al-Khudri رضی ‌اللہ ‌عنہ :",
+                "hadithEnglish": "When the delegation of the tribe of Abdul-Qais came to the Prophet of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), (its members) said: Apostle of Allah, may God enable us to lay down our lives for you, which beverage is good for us? He (the Prophet) said: (Not to speak of beverages, I would lay stress) that you should not drink in the wine jars. They said: Apostle of Allah, may God enable us to lay down our lives for you, do you know what al-naqir is? He (the Holy Prophet) replied: Yes, it is a stump which you hollow out in the middle, and added: Do not use gourd or receptacle (for drink). Use water-skin the mouth of which is tied with a thong (for this purpose).",
+                "hadithUrdu": "جب قبیلہ عبد قیس کا وفدرسول اللہﷺ کی خمت میں حاضر ہوا تو انہوں نے عرض کیا اے اللہ کے بنیﷺہم آپﷺپر قربان کون سے برتن میں پینا حلال ہے؟آپﷺنے فرمایا لکڑی کے برتن میں نہ پیا کرولوگوں نے کہا یا رسول اللہ ﷺلکڑی کا کھٹلا کیا ہوتا ہے؟آپﷺ نے فر مایا لکڑی کو اندر سے کھود کر برتن بنانے کو کھٹلا کہتے ہیں اور لکڑی کے تونبے میں بھی نہ پیا کرواور سبز کھڑی میں بھی نہ پیا کرومگر چمڑے کے برتن میں پی لیا کرو جس کا منہ ڈوری سے باندھ دیا جاتا ہو-",
+                "urduNarrator": "محمد بن بکار بصری ‘ عاصم بن جریج ‘ محمد بن رافع ‘ عبد الرزاق ‘ ابن جریج ‘ ابو قرعہ ‘ ابو نضرہ ‘ ابو سعید حدری ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت ہے کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدُ بْنُ بَكَّارٍ الْبَصْرِيُّ، حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، ح وحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ - وَاللَّفْظُ لَهُ - حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ قَالَ: أَخْبَرَنِي أَبُو قَزَعَةَ، أَنَّ أَبَا نَضْرَةَ، أَخْبَرَهُ وَحَسَنًا، أَخْبَرَهُمَا، أَنَّ أَبَا سَعِيدٍ الْخُدْرِيَّ، أَخْبَرَهُ أَنَّ وَفْدَ عَبْدِ الْقَيْسِ لَمَّا أَتَوْا نَبِيَّ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالُوا: يَا نَبِيَّ اللهِ، جَعَلَنَا اللهُ فِدَاءَكَ مَاذَا يَصْلُحُ لَنَا مِنَ الْأَشْرِبَةِ؟ فَقَالَ: «لَا تَشْرَبُوا فِي النَّقِيرِ»، قَالُوا: يَا نَبِيَّ اللهِ، جَعَلَنَا اللهُ فِدَاءَكَ، أَوَ تَدْرِي مَا النَّقِيرُ؟ قَالَ: «نَعَمْ، الْجِذْعُ يُنْقَرُ وَسَطُهُ، وَلَا فِي الدُّبَّاءِ، وَلَا فِي الْحَنْتَمَةِ، وَعَلَيْكُمْ بِالْمُوكَى.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7685,
+                "hadithNumber": "121",
+                "englishNarrator": "It is reported on the authority of Ibn 'Abbas ‌رضی ‌اللہ ‌عنہ that Mu'adh ‌رضی ‌اللہ ‌عنہ ‌said:",
+                "hadithEnglish": "The Messenger of Allah sent me (as a governor of Yemen) and (at the time of departure) instructed me thus: You will soon find yourself in a community one among the people of the Book, so first call them to testify that there is no god but Allah, that I (Muhammad) am the messenger of Allah, and if they accept this, then tell them Allah has enjoined upon them five prayers during the day and the night and if they accept it, then tell them that Allah has made Zakat obligatory for them that it should be collected from the rich and distributed among the poor, and if they agree to it don't pick up (as a share of Zakat) the best of their wealths. Beware of the supplication of the oppressed for there is no barrier between him and Allah.",
+                "hadithUrdu": "مجھے رسول اللہ ﷺ نے بھیجا اور فرمایا : ’’تم اہل کتاب کی ایک قوم کے پاس جا رہے ہو ، انہیں اس کی گواہی دینے کی دعوت دو کہ اللہ کے سوا کوئی معبود نہیں اور میں اللہ کا رسول ہوں ۔ اگر وہ اس میں ( تمہاری ) اطاعت کریں تو انہیں بتانا کہ اللہ تعالیٰ نے ان پر ہر دن رات میں پانچ نمازیں فرض کی ہیں ۔ اگر وہ اسے مان لیں تو انہیں بتانا کہ اللہ تعالیٰ نے ان پر صدقہ ( زکاۃ ) فرض کیا ہے جو ان کے مالدار لوگوں سے لیا جائے گا اور ان کے مجتاجوں کوواپس کیا جائے گا ، پھر اگر وہ اس بات کو قبول کر لیں تو ان کے بہترین مالوں سے احتراز کرنا ( زکاۃ میں سب سے اچھا مال وصول نہ کرنا ۔ ) اور مظلوم کی بددعا س ےبچنا کیونکہ اس ( بددعا ) کے اور اللہ کے درمیان کو ئی حجاب نہیں ۔ ‘ ‘",
+                "urduNarrator": "بن ابی شیبہ ، ابو کریب اور اسحاق بن ابراہیم سب نے وکیع سے حدیث سنائی ۔ ابو بکر نے کہا , وکیع نے ہمیں زکریا بن اسحاق حدیث سنائی ، انہوں نے کہا : مجھے یحییٰ بن عبداللہ بن صیفی نے ابو معبد سے حدیث سنائی ، انہوں نے سیدنا ابن عباس ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے ابو بکر اور انہوں نے حضرت معاذ بن جبل ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ( ابوبکرنے کہا : بعض اوقات وکیع کہا ) ابن عباس ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے مروی ہے کہ حضرت معاذ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، جَمِيعًا عَنْ وَكِيعٍ، قَالَ أَبُو بَكْرٍ: حَدَّثَنَا وَكِيعٌ، عَنْ زَكَرِيَّاءَ بْنِ إِسْحَاقَ، قَالَ: حَدَّثَنِي يَحْيَى بْنُ عَبْدِ اللهِ بْنِ صَيْفِيٍّ، عَنْ أَبِي مَعْبَدٍ، عَنِ ابْنِ عَبَّاسٍ، عَنْ مُعَاذِ بْنِ جَبَلٍ، قَالَ أَبُو بَكْرٍ: رُبَّمَا قَالَ وَكِيعٌ: عَنِ ابْنِ عَبَّاسٍ، أَنَّ مُعَاذًا، قَالَ: بَعَثَنِي رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَ: «إِنَّكَ تَأْتِي قَوْمًا مِنْ أَهْلِ الْكِتَابِ، فَادْعُهُمْ إِلَى شَهَادَةِ أَنَّ لَا إِلَهَ إِلَّا اللهُ وَأَنِّي رَسُولُ اللهِ، فَإِنْ هُمْ أَطَاعُوا لِذَلِكَ، فَأَعْلِمْهُمْ أَنَّ اللهَ افْتَرَضَ عَلَيْهِمْ خَمْسَ صَلَوَاتٍ فِي كُلِّ يَوْمٍ وَلَيْلَةٍ، فَإِنْ هُمْ أَطَاعُوا لِذَلِكَ، فَأَعْلِمْهُمْ أَنَّ اللهَ افْتَرَضَ عَلَيْهِمْ صَدَقَةً تُؤْخَذُ مِنْ أَغْنِيَائِهِمْ فَتُرَدُّ فِي فُقَرَائِهِمْ، فَإِنْ هُمْ أَطَاعُوا لِذَلِكَ، فَإِيَّاكَ وَكَرَائِمَ أَمْوَالِهِمْ، وَاتَّقِ دَعْوَةَ الْمَظْلُومِ، فَإِنَّهُ لَيْسَ بَيْنَهَا وَبَيْنَ اللهِ حِجَابٌ",
+                "headingArabic": "الدُّعَاءِ إِلَى الشَّهَادَتَيْنِ وَشَرَائِعِ الإِسْلاَمِ",
+                "headingUrdu": "لوگوں کو ایمان کے دوہری اعلان اور اسلام کے قوانین کی طرف بلانا",
+                "headingEnglish": "Calling people to the twin declaration of faith and the laws of Islam",
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7686,
+                "hadithNumber": "122",
+                "englishNarrator": "It was narrated from Ibn-e-Abbas رضی ‌اللہ ‌عنہ :",
+                "hadithEnglish": "The prophet ﷺ sent Mu'adh ‌رضی ‌اللہ ‌عنہ to Yemen and said: \"you are going to people...\" and he narrated a Hadith similar to that of Waki (no. 121).",
+                "hadithUrdu": "نبی ﷺ نے جنا ب معاذ ‌رضی ‌اللہ ‌عنہ ‌ ‌ کو یمن کی طرف بھیجا تو فرمایا : ’’تم کچھ لوگوں کے پاس پہنچو گے ..... ‘ ‘ آگے وکیع کی حدیث کی طرح ہے ۔",
+                "urduNarrator": "ہم سے ابن ابی عمر نے بیان کیا، کہا ہم سےبشر بن سری اور ابو عاصم نے زکریا بن اسحاق سے خبر دی کہ یحییٰ بن عبداللہ بن صیفی نے ابو معبد سے اور انہوں نے حضرت ابن عباس ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا بِشْرُ بْنُ السَّرِيِّ، حَدَّثَنَا زَكَرِيَّاءُ بْنُ إِسْحَاقَ، ح وحَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا أَبُو عَاصِمٍ، عَنْ زَكَرِيَّاءَ بْنِ إِسْحَاقَ، عَنْ يَحْيَى بْنِ عَبْدِ اللهِ بْنِ صَيْفِيٍّ، عَنْ أَبِي مَعْبَدٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بَعَثَ مُعَاذًا إِلَى الْيَمَنِ، فَقَالَ: إِنَّكَ سَتَأْتِي قَوْمًا بِمِثْلِ حَدِيثِ وَكِيعٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7687,
+                "hadithNumber": "123",
+                "englishNarrator": null,
+                "hadithEnglish": "It is narrated on the authority of Ibn 'Abbas that when the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) sent Mu'adh towards Yemen (as governor) he said to him: Verily you would reach a community of the people of the Book, the very first thing to which you should call them is the worship of Allah, may His Glory be Magnificent, and when they become fully aware of Allah, instruct them that He has enjoined five prayers on them during the day and the night, and when they begin observing it, then instruct them that verily Allah has made Zakat obligatory for them which would be collected from the wealthy amongst them and distributed to their needy ones, and when they submit to it, then collect it from them and avoid (the temptation) of selecting the best (items) of their riches.",
+                "hadithUrdu": "اسماعیل بن امیہ نے یحییٰ بن عبداللہ بن صیفی سے ، انہوں نے ابو معبد سے ا ور انہوں نے حضرت ابن عباس ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ جب رسول اللہ ﷺ نے معاذ ‌رضی ‌اللہ ‌عنہ ‌ ‌ کو یمن بھیجا تو فرمایا : ’’تم ایک قوم کے پاس جاؤ گے ( جو ) اہل کتاب ہیں ۔ تو سب سے پہلی بات جس کی طرف تمہیں ان کو دعوت دینی ہے ، اللہ تعالیٰ کی عبادت ہے ۔ جب وہ وہ اللہ کو پہچان لیں تو انہیں بتانا کہ اللہ تعالیٰ نے ان کے دن اور رات میں ان پر پانچ نمازیں فرض کی ہیں ۔ جب وہ اس پر عمل پیرا ہو جائیں تو انہیں بتانا کہ اللہ تعالیٰ نے ان پر زکاۃ فرض کی ہے جو ان کے ( مالداروں کے ) اموال سے لے کر ان کے فقراء کودی جائے گی ۔ جب وہ اس کو مان لیں تو ان سے ( زکاۃ ) لینا اور ان کے زیادہ قیمتی اموال سے احتراز کرنا ۔ ‘ ‘",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا أُمَيَّةُ بْنُ بِسْطَامَ الْعَيْشِيُّ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا رَوْحٌ وَهُوَ ابْنُ الْقَاسِمِ، عَنْ إِسْمَاعِيلَ بْنِ أُمَيَّةَ، عَنْ يَحْيَى بْنِ عَبْدِ اللهِ بْنِ صَيْفِيٍّ، عَنْ أَبِي مَعْبَدٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ لَمَّا بَعَثَ مُعَاذًا إِلَى الْيَمَنِ، قَالَ: «إِنَّكَ تَقْدَمُ عَلَى قَوْمٍ أَهْلِ كِتَابٍ، فَلْيَكُنْ أَوَّلَ مَا تَدْعُوهُمْ إِلَيْهِ عِبَادَةُ اللهِ عَزَّ وَجَلَّ، فَإِذَا عَرَفُوا اللهَ، فَأَخْبِرْهُمْ أَنَّ اللهَ فَرَضَ عَلَيْهِمْ خَمْسَ صَلَوَاتٍ فِي يَوْمِهِمْ وَلَيْلَتِهِمْ، فَإِذَا فَعَلُوا، فَأَخْبِرْهُمْ أَنَّ اللهَ قَدْ فَرَضَ عَلَيْهِمْ زَكَاةً تُؤْخَذُ مِنْ أَغْنِيَائِهِمْ فَتُرَدُّ عَلَى فُقَرَائِهِمْ، فَإِذَا أَطَاعُوا بِهَا، فَخُذْ مِنْهُمْ وَتَوَقَّ كَرَائِمَ أَمْوَالِهِمْ»",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7688,
+                "hadithNumber": "124",
+                "englishNarrator": "It is narrated on the authority of Abu Huraira رضی ‌اللہ ‌عنہ :",
+                "hadithEnglish": "When the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) breathed his last and Abu Bakr رضی ‌اللہ ‌عنہ was appointed as his successor (Caliph), those amongst the Arabs who wanted to become apostates became apostates. 'Umar bin Khattab رضی ‌اللہ ‌عنہ said to Abu Bakrرضی ‌اللہ ‌عنہ: Why would you fight against the people, when the Messenger of Allah declared: I have been directed to fight against people so long as they do not say: There is no god but Allah, and he who professed it was granted full protection of his property and life on my behalf except for a right? His (other) affairs rest with Allah. Upon this Abu Bakr رضی ‌اللہ ‌عنہ said: By Allah, I would definitely fight against him who severed prayer from Zakat, for it is the obligation upon the rich. By Allah, I would fight against them even to secure the cord (used for hobbling the feet of a camel) which they used to give to the Messenger of Allah (as zakat) but now they have withheld it. Umar bin Khattab رضی ‌اللہ ‌عنہ remarked: By Allah, I found nothing but the fact that Allah had opened the heart of Abu Bakr رضی ‌اللہ ‌عنہ for (perceiving the justification of) fighting (against those who refused to pay Zakat) and I fully recognized that the (stand of Abu Bakr رضی ‌اللہ ‌عنہ) was right.",
+                "hadithUrdu": "جب رسول ا للہﷺ نے وفات پائی اور آپ کے بعد حضرت ابو بکر ‌رضی ‌اللہ ‌عنہ ‌ ‌ خلیفہ بنائے گئے تو عربوں میں سے کافر ہونے والے کافر ہو گئے ( اور ابوبکر ‌رضی ‌اللہ ‌عنہ ‌ ‌ نےمانعین زکاۃ سے جنگ کا ارادہ کیا ) تو حضرت عمر بن خطاب ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے حضرت ابو بکر ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے کہا : آپ ان لوگوں سے کیسے جنگ کریں گے جبکہ رسول ا للہ ﷺ فرما چکے ہیں : ’’ مجھے حکم دیا گیا ہے کہ میں لوگوں سے لڑائی کروں یہاں تک کہ وہ لا اله الاالله کا اقرار کر لیں ، پس جو کوئی لا اله الا الله کا قائل ہو گیا ، اس نے میری طرف سے اپنی جان اور اپنا مال محفوظ کر لیا ، الا یہ کہ اس ( لا اله الا الله ) کا حق ہو ، اور اس کا حساب اللہ تعالیٰ پر ہے ؟ ‘ ‘ اس پر ابوبکر ‌رضی ‌اللہ ‌عنہ ‌ ‌ نےجواب دیا : اللہ کی قسم ! میں ان لوگوں سے جنگ کروں گا جو نماز او رزکاۃ میں فرق کریں گے ، کیونکہ زکاۃ مال ( میں اللہ ) کا حق ہے ۔ اللہ کی قسم ! اگر یہ لوگ ( اونٹ کا ) پاؤں باندھنے کی ایک رسی بھی روکیں گے ، جو وہ رسول اللہ ﷺ کو دیا کرتے تھے تو میں اس کے روکنے پر بھی ان سے جنگ کروں گا ۔ اس پر حضرت عمر ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا تھا : اللہ کی قسم ! اصل بات اس کےسوا اور کچھ نہیں کہ میں نے دیکھا اللہ تعالیٰ نےحضرت ابوبکر ‌رضی ‌اللہ ‌عنہ ‌ ‌ کا سینہ جنگ کے لیے کھول دیا ، تو میں جان گیا کہ حق یہی ہے ۔",
+                "urduNarrator": "جناب عبید اللہ بن عبد اللہ بن عتبہ بن مسعود نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثُ بْنُ سَعْدٍ، عَنْ عُقَيْلٍ، عَنِ الزُّهْرِيِّ، قَالَ: أَخْبَرَنِي عُبَيْدُ اللهِ بْنُ عَبْدِ اللهِ بْنِ عُتْبَةَ بْنِ مَسْعُودٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: لَمَّا تُوُفِّيَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَاسْتُخْلِفَ أَبُو بَكْرٍ بَعْدَهُ، وَكَفَرَ مَنْ كَفَرَ مِنَ الْعَرَبِ، قَالَ عُمَرُ بْنُ الْخَطَّابِ لِأَبِي بَكْرٍ: كَيْفَ تُقَاتِلُ النَّاسَ، وَقَدْ قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: أُمِرْتُ أَنْ أُقَاتِلَ النَّاسَ حَتَّى يَقُولُوا: لَا إِلَهَ إِلَّا اللهُ، فَمَنْ قَالَ: لَا إِلَهَ إِلَّا اللهُ، فَقَدْ عَصَمَ مِنِّي مَالَهُ، وَنَفْسَهُ، إِلَّا بِحَقِّهِ وَحِسَابُهُ عَلَى اللهِ ، فَقَالَ أَبُو بَكْرٍ: وَاللهِ لَأُقَاتِلَنَّ مَنْ فَرَّقَ بَيْنَ الصَّلَاةِ، وَالزَّكَاةِ، فَإِنَّ الزَّكَاةَ حَقُّ الْمَالِ، وَاللهِ لَوْ مَنَعُونِي عِقَالًا كَانُوا يُؤَدُّونَهُ إِلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ لَقَاتَلْتُهُمْ عَلَى مَنْعِهِ، فَقَالَ عُمَرُ بْنُ الْخَطَّابِ: فَوَاللهِ، مَا هُوَ إِلَّا أَنْ رَأَيْتُ اللهَ عَزَّ وَجَلَّ قَدْ شَرَحَ صَدْرَ أَبِي بَكْرٍ لِلْقِتَالِ، فَعَرَفْتُ أَنَّهُ الْحَقُّ.",
+                "headingArabic": "الأَمْرِ بِقِتَالِ النَّاسِ حَتَّى يَقُولُوا لاَ إِلَهَ إِلاَّ اللَّهُ مُحَمَّدٌ رَسُولُ اللَّهِ ‏‏ويقيموا الصلاة ويؤتوا الزكاة ويؤمنوا بجميع ما جاء به النبي صلى الله عليه وسلم وأن من فعل ذلك عصم نفسه وماله إلا بحقها ووكلت سريرته إلى الله تعالى وقتال من منع الزكاة أو غيرها من حقوق الإسلام واهتمام الإمام بشعائر الإسلام",
+                "headingUrdu": "لوگوں سے اس وقت تک لڑنے کا حکم ہے جب تک کہ وہ لا الہ الا اللہ محمد رسول اللہ نہ کہیں اور نماز قائم کریں اور زکوٰۃ ادا کریں اور ہر اس چیز پر ایمان لائیں جو رسول اللہ صلی اللہ علیہ وسلم لائے ہیں۔ جو ایسا کرے گا اس کی جان اور اس کا مال اس کے حق کے علاوہ محفوظ ہے اور اس کا راز اللہ کے سپرد ہے جو بلند ترین ہے۔ زکوٰۃ یا اس کے علاوہ کسی اور چیز کو روکنے والوں سے لڑنا اسلام کے فرائض میں سے ہے اور امام کو شریعت اسلامیہ سے متعلق ہونا چاہیے۔",
+                "headingEnglish": "The command to fight the people until they say \"La ilaha illallah Muhammad Rasul-Allah\", and establish Salat, and pay the Zakat, and believe in everything that the prophet (saws) brought. Whoever does that, his life and his wealth are protected except by its right, and his secrets are entrusted to Allah, the most high. Fighting those who withhold Zakat or other than that is one of the duties of Islam and the Imam should be concerned with the Laws of Islam",
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 7376,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=295",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=293",
+                "label": "293",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=294",
+                "label": "294",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=295",
+                "label": "295",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=296",
+                "label": "296",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=297",
+                "label": "297",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=298",
+                "label": "298",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=299",
+                "label": "299",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=297",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=297",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=295",
+        "to": 7400,
+        "total": 40465
+    }
+}

@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 225,
+        "data": [
+            {
+                "id": 5603,
+                "hadithNumber": "5853",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Whoever has no Izar (waist sheet), can wear trousers; and whoever has no sandals, can wear Khuffs (socks made from thick fabric or leather, but cut them short below the ankles).\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا جس کے پاس احرام باندھنے کے لیے تہبند نہ ہو وہ پاجامہ پہن لے ( اس کا کاٹنا ضروری نہیں ہے ) اور جس کے پاس جوتے نہ ہوں وہ موزے ہی پہن لے لیکن ٹخنوں کے نیچے تک ان کو کاٹ ڈالے جیسا کہ پچھلی حدیث میں ہے ۔",
+                "urduNarrator": "ہم سے محمد بن یوسف فریابی نے بیان کیا ، کہا ہم سے سفیان ثوری نے بیان کیا ، ان سے عمرو بن دینار نے ، ان سے جابر بن زید نے اور ان سے حضرت ابن عباس رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ جَابِرِ بْنِ زَيْدٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ مَنْ لَمْ يَكُنْ لَهُ إِزَارٌ فَلْيَلْبَسِ السَّرَاوِيلَ، وَمَنْ لَمْ يَكُنْ لَهُ نَعْلاَنِ فَلْيَلْبَسْ خُفَّيْنِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5604,
+                "hadithNumber": "5854",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "The Prophet (ﷺ) used to like starting from the right in performing ablution, combing his hair and putting on his shoes.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم طہارت میں کنگھا کرنے میں اور جوتا پہننے میں داہنی طرف سے شروع کرنے کو پسند فرماتے تھے ۔",
+                "urduNarrator": "ہم سے حجاج بن منہال نے بیان کیا ، انہوں نے کہا ہم سے شعبہ نے بیان کیا ، انہوں نے کہا کہ مجھے اشعث بن سلیم نے خبر دی کہ میں نے اپنے والد سے سنا ، وہ مسروق سے بیان کرتے تھے اور ان سے حضرت عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا حَجَّاجُ بْنُ مِنْهَالٍ، حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي أَشْعَثُ بْنُ سُلَيْمٍ، سَمِعْتُ أَبِي يُحَدِّثُ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ كَانَ النَّبِيُّ صلى الله عليه وسلم يُحِبُّ التَّيَمُّنَ فِي طُهُورِهِ وَتَرَجُّلِهِ وَتَنَعُّلِهِ‏.‏",
+                "headingArabic": "يَبْدَأُ بِالنَّعْلِ الْيُمْنَى",
+                "headingUrdu": "جوتے پہنتے وقت دائیں پاؤں سے شروع کریں۔",
+                "headingEnglish": "While putting on shoes, start with right foot",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5605,
+                "hadithNumber": "5855",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"If you want to put on your shoes, put on the right shoe first; and if you want to take them off, take the left one first. Let the right shoe be the first to be put on and the last to be taken off.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا جب تم میں سے کوئی شخص جوتا پہنے تو دائیں طرف سے شروع کرے اور جب اتارے تو بائیں طرف سے اتارے تاکہ داہنی جانب پہننے میں اول ہو اور اتارنے میں آخر ہو ۔",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ نے بیان کیا ، ان سے امام مالک نے ، ان سے ابوالزناد نے ، ان سے اعرج نے اور ا ن سے حضرت ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا انْتَعَلَ أَحَدُكُمْ فَلْيَبْدَأْ بِالْيَمِينِ وَإِذَا نَزَعَ فَلْيَبْدَأْ بِالشِّمَالِ، لِتَكُنِ الْيُمْنَى أَوَّلَهُمَا تُنْعَلُ وَآخِرَهُمَا تُنْزَعُ ‏\"‏‏.‏",
+                "headingArabic": "يَنْزِعُ نَعْلَ الْيُسْرَى",
+                "headingUrdu": "صرف ایک جوتا پہن کر نہ چلیں۔",
+                "headingEnglish": "Do not walk wearing one shoe only",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5606,
+                "hadithNumber": "5856",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"None of you should walk, wearing one shoe only; he should either put on both shoes or put on no shoes whatsoever.\"",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم نے فرمایا تم میں کوئی شخص صرف ایک پاؤں میں جوتا پہن کر نہ چلے یا دونوں پاؤں ننگا رکھے یا دونوں میں جوتا پہنے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ نے بیان کیا ، ان سے امام مالک نے ، ان سے ابوالزناد نے ، ان سے اعرج نے ان سے حضرت ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَمْشِي أَحَدُكُمْ فِي نَعْلٍ وَاحِدَةٍ لِيُحْفِهِمَا جَمِيعًا، أَوْ لِيَنْعَلْهُمَا جَمِيعًا ‏\"‏‏.‏",
+                "headingArabic": "لاَ يَمْشِي فِي نَعْلٍ وَاحِدَةٍ",
+                "headingUrdu": "سب سے پہلے بایاں جوتا اتار دینا چاہیے۔",
+                "headingEnglish": "One should take off the left shoe first",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5607,
+                "hadithNumber": "5857",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "The sandal of the Prophet (ﷺ) had two straps.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم کے چپل میں دو تسمے تھے ۔",
+                "urduNarrator": "ہم سے حجاج بن منہال نے بیان کیا ، کہا ہم سے ہمام نے بیان کیا ، ان سے قتادہ نے اور ان سے حضرت انس رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا حَجَّاجُ بْنُ مِنْهَالٍ، حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، حَدَّثَنَا أَنَسٌ ـ رضى الله عنه ـ أَنَّ نَعْلَ، النَّبِيِّ صلى الله عليه وسلم كَانَ لَهَا قِبَالاَنِ‏.‏",
+                "headingArabic": "قِبَالاَنِ فِي نَعْلٍ وَمَنْ رَأَى قِبَالاً وَاحِدًا وَاسِعًا",
+                "headingUrdu": "سینڈل میں پٹے۔",
+                "headingEnglish": "Straps in a sandal",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5608,
+                "hadithNumber": "5858",
+                "englishNarrator": "Narrated Isaa bin Tahman رضی اللہ عنہ :",
+                "hadithEnglish": "Anas bin Malik  رضی اللہ عنہ brought out for us, two sandals having two straps. Thabit Al-Banani said, \"These were the sandals of the Prophet (ﷺ) .\"",
+                "hadithUrdu": "حضرت انس بن مالک رضی اللہ عنہ دو جوتے لے کر ہمارے پاس باہر آئے جس میں دو تسمے لگے ہوئے تھے ۔ ثابت بنانی نے کہا کہ یہ نبی کریم صلی اللہ علیہ وسلم کے جوتے ہیں ۔",
+                "urduNarrator": "مجھ سے محمد بن مقاتل نے بیان کیا ، کہا ہم کو حضرت عبداللہ بن مبارک نے خبر دی ، انہیں عیسیٰ بن طہمان نے خبر دی ، بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدٌ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا عِيسَى بْنُ طَهْمَانَ، قَالَ خَرَجَ إِلَيْنَا أَنَسُ بْنُ مَالِكٍ بِنَعْلَيْنِ لَهُمَا قِبَالاَنِ، فَقَالَ ثَابِتٌ الْبُنَانِيُّ هَذِهِ نَعْلُ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5609,
+                "hadithNumber": "5859",
+                "englishNarrator": "Narrated Abu Juhaifa :",
+                "hadithEnglish": "I came to the Prophet (ﷺ) while he was inside a red leather tent, and I saw Bilal taking the remaining water of the ablution of the Prophet, and the people were taking of that water and rubbing it on their faces; and whoever could not get anything of it, would share the moisture of the hand of his companion (and then rub it on his face).",
+                "hadithUrdu": "میں ( حجۃ الوداع کے موقع پر ) خدمت نبوی میں حاضر ہوا تو آپ چمڑے کے ایک سرخ خیمہ میں تشریف رکھے ہوئے تھے اور میں نے حضرت بلال رضی اللہ عنہ کو دیکھا کہ آنحضرت صلی اللہ علیہ وسلم کے وضو کا پانی لیے ہوئے ہیں اور صحابہ کرام رضی اللہ عنہم آنحضرت صلی اللہ علیہ وسلم کے وضو کے پانی کو لے لینے میں ایک دوسرے کے آگے بڑھنے کی کوشش کر رہے ہیں ۔ اگر کسی کو کچھ پانی مل جاتا ہے تو وہ اسے اپنے بدن پر لگا لیتا ہے اور جسے کچھ نہیں ملتا وہ اپنے ساتھی کے ہاتھ کی تری ہی کو لگانے کی کوشش کرتا ہے ۔",
+                "urduNarrator": "ہم سے محمد بن عرعرہ نے بیان کیا ، کہا کہ مجھ سے عمر بن ابی زائدہ نے بیان کیا ، ان سے عون بن ابی جحیفہ نے اور ان سے ان کے والد وہب بن عبداللہ سوائی رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَرْعَرَةَ، قَالَ حَدَّثَنِي عُمَرُ بْنُ أَبِي زَائِدَةَ، عَنْ عَوْنِ بْنِ أَبِي جُحَيْفَةَ، عَنْ أَبِيهِ، قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم وَهْوَ فِي قُبَّةٍ حَمْرَاءَ مِنْ أَدَمٍ، وَرَأَيْتُ بِلاَلاً أَخَذَ وَضُوءَ النَّبِيِّ صلى الله عليه وسلم وَالنَّاسُ يَبْتَدِرُونَ الْوَضُوءَ، فَمَنْ أَصَابَ مِنْهُ شَيْئًا تَمَسَّحَ بِهِ، وَمَنْ لَمْ يُصِبْ مِنْهُ شَيْئًا أَخَذَ مِنْ بَلَلِ يَدِ صَاحِبِهِ‏.‏",
+                "headingArabic": "الْقُبَّةِ الْحَمْرَاءِ مِنْ أَدَمٍ",
+                "headingUrdu": "چمڑے کا سرخ خیمہ",
+                "headingEnglish": "The red tent of leather",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5610,
+                "hadithNumber": "5860",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) called for the Ansar and gathered them in a leather tent.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے انصار کو بلوایا اور انہیں لال چمڑے کے ایک خیمہ میں جمع کیا ۔",
+                "urduNarrator": "ہم سے ابو الیمان نے بیان کیا ، انہوں نے کہا ہم کو شعیب نے خبر دی ، انہیں زہری نے اور انہیں حضرت انس بن مالک رضی اللہ عنہ نے خبر دی ( دوسری سند ) اور لیث بن سعد نے کہا کہ مجھ سے یونس نے بیان کیا ، ان سے ابن شہاب نے کہا کہ مجھ سے حضرت انس بن مالک رضی اللہ عنہ نے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، أَخْبَرَنِي أَنَسُ بْنُ مَالِكٍ، ح وَقَالَ اللَّيْثُ حَدَّثَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي أَنَسُ بْنُ مَالِكٍ ـ رضى الله عنه ـ قَالَ أَرْسَلَ النَّبِيُّ صلى الله عليه وسلم إِلَى الأَنْصَارِ، وَجَمَعَهُمْ فِي قُبَّةٍ مِنْ أَدَمٍ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5611,
+                "hadithNumber": "5861",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "The Prophet (ﷺ) used to construct a loom with a Hasir at night m order to pray therein, and during the day he used to spread it out and sit on it. The people started coming to the Prophet (ﷺ) at night to offer the prayer behind him When their number increased, the Prophet (ﷺ) faced them and said. O people! Do only those good deeds which you can do, for Allah does not get tired (of giving reward) till you get tired, and the best deeds to Allah are the incessant ones though they were few.",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم رات میں چٹائی کا گھیرا بنا لیتے تھے اور ان گھیرے میں نماز پڑھتے تھے اور اسی چٹائی کو دن میں بچھاتے تھے اور اس پر بیٹھتے تھے پھر لوگ ( رات کی نماز کے وقت ) نبی کریم صلی اللہ علیہ وسلم کے پاس جمع ہونے لگے اور آنحضرت صلی اللہ علیہ وسلم کی نماز کی اقتداء کرنے لگے جب مجمع زیادہ بڑھ گیا تو آنحضرت صلی اللہ علیہ وسلم متوجہ ہوئے اور فرمایا لوگو ! عمل اتنے ہی کیا کروجتنی کہ تم میں طاقت ہو کیونکہ اللہ تعالیٰ نہیں تھکتا جب تک تم ( عمل سے ) نہ تھک جاؤ اور اللہ کی بارگاہ میں سب سے زیادہ پسند وہ عمل ہے جسے پابندی سے ہمیشہ کیا جائے ، خواہ وہ کم ہی ہو ۔",
+                "urduNarrator": "مجھ سے محمدبن ابی بکر نے بیان کیا ، انہوں نے کہا ہم سے معتمر نے بیان کیا ، ان سے عبیداللہ نے بیان کیا ، ان سے سعید بن ابی سعید نے بیان کیا ، ان سے ابوسلمہ بن عبدالرحمٰن نے اور ان سے حضرت عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدُ بْنُ أَبِي بَكْرٍ، حَدَّثَنَا مُعْتَمِرٌ، عَنْ عُبَيْدِ اللَّهِ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَحْتَجِرُ حَصِيرًا بِاللَّيْلِ فَيُصَلِّي، وَيَبْسُطُهُ بِالنَّهَارِ فَيَجْلِسُ عَلَيْهِ، فَجَعَلَ النَّاسُ يَثُوبُونَ إِلَى النَّبِيِّ صلى الله عليه وسلم فَيُصَلُّونَ بِصَلاَتِهِ حَتَّى كَثُرُوا فَأَقْبَلَ فَقَالَ ‏ \"‏ يَا أَيُّهَا النَّاسُ خُذُوا مِنَ الأَعْمَالِ مَا تُطِيقُونَ، فَإِنَّ اللَّهَ لاَ يَمَلُّ حَتَّى تَمَلُّوا، وَإِنَّ أَحَبَّ الأَعْمَالِ إِلَى اللَّهِ مَا دَامَ وَإِنْ قَلَّ ‏\"‏‏.‏",
+                "headingArabic": "الْجُلُوسِ عَلَى الْحَصِيرِ وَنَحْوِهِ",
+                "headingUrdu": "حصیر پر بیٹھنا",
+                "headingEnglish": "To sit on a Hasir",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5612,
+                "hadithNumber": "5862",
+                "englishNarrator": "Narrated Al-Miswar bin Makhrama رضی اللہ عنہ :",
+                "hadithEnglish": "My father, Makhrama said to me, \"I have come to know that some cloaks have come to the Prophet (ﷺ) and he is distributing them. So O my son! take me to him.\" We went to the Prophet (ﷺ) and found him in the house. My father said to me, \"O my son! Call the Prophet (ﷺ) for me.\" I found it hard to do so, so I said surprisingly, \"Shall I call Allah's Messenger (ﷺ) for you ?\" My father said, \"O mu son! He is not a tyrant.\" So I called him and he came out wearing a Dibaj cloak having gold buttons, and said: \"O Makhrama, I kept this for you.\" The Prophet (ﷺ) then gave it to him.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم کے پاس کچھ قبائیں آئی ہیں اور آپ انہیں تقسیم فرما رہے ہیں ۔ ہمیں بھی آنحضرت صلی اللہ علیہ وسلم کے پاس لے چلو ۔ چنانچہ ہم گئے اور آنحضرت صلی اللہ علیہ وسلم کو آپ کے گھر ہی میں پایا ۔ والد نے مجھ سے کہا بیٹے میرا نام لے کر آنحضرت صلی اللہ علیہ وسلم کو بلاؤ ۔ میں نے اسے بہت بڑی توہین آمیز بات سمجھا ( کہ آنحضرت صلی اللہ علیہ وسلم کو اپنے والد کے لیے بلا کر تکلیف دوں ) چنانچہ میں نے والد صاحب سے کہا کہ میں آپ کے لیے آنحضرت صلی اللہ علیہ وسلم کو بلاؤں ! انہوں نے کہا کہ بیٹے ہاں ۔ آپ کوئی جابر صفت انسان نہیں ہیں ۔ چنانچہ میں نے بلایا تو آنحضرت صلی اللہ علیہ وسلم باہر تشریف لے آئے ۔ آپ صلی اللہ علیہ وسلم کے اوپر دیبا کی ایک قباء تھی جس میں سونے کی گھنڈیاں لگی ہوئی تھیں ۔ آپ صلی اللہ علیہ وسلم نے فرمایا ، مخرمہ اسے میں نے تمہارے لیے چھپا کے رکھا ہوا تھا ۔ چنانچہ آپ صلی اللہ علیہ وسلم نے وہ قباء انہیں عنایت فرما دی ۔",
+                "urduNarrator": "اور لیث بن سعد نے کہا کہ مجھ سے ابن ابی ملیکہ نے بیان کیا ، ان سے حضرت مسور بن مخرمہ رضی اللہ عنہ نے کہ ان سے ان کے والد حضرت مخرمہ رضی اللہ عنہ نے کہا بیٹے مجھے معلوم ہوا ہے کہ",
+                "hadithArabic": "وَقَالَ اللَّيْثُ حَدَّثَنِي ابْنُ أَبِي مُلَيْكَةَ، عَنِ الْمِسْوَرِ بْنِ مَخْرَمَةَ، أَنَّ أَبَاهُ، مَخْرَمَةَ قَالَ لَهُ يَا بُنَىَّ إِنَّهُ بَلَغَنِي أَنَّ النَّبِيَّ صلى الله عليه وسلم قَدِمَتْ عَلَيْهِ أَقْبِيَةٌ فَهْوَ يَقْسِمُهَا، فَاذْهَبْ بِنَا إِلَيْهِ، فَذَهَبْنَا فَوَجَدْنَا النَّبِيَّ صلى الله عليه وسلم فِي مَنْزِلِهِ، فَقَالَ لِي يَا بُنَىَّ ادْعُ لِي النَّبِيَّ صلى الله عليه وسلم فَأَعْظَمْتُ ذَلِكَ‏.‏ فَقُلْتُ أَدْعُو لَكَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا بُنَىَّ إِنَّهُ لَيْسَ بِجَبَّارٍ‏.‏ فَدَعَوْتُهُ فَخَرَجَ وَعَلَيْهِ قَبَاءٌ مِنْ دِيبَاجٍ مُزَرَّرٌ بِالذَّهَبِ، فَقَالَ ‏ \"‏ يَا مَخْرَمَةُ هَذَا خَبَأْنَاهُ لَكَ ‏\"‏‏.‏ فَأَعْطَاهُ إِيَّاهُ‏.‏",
+                "headingArabic": "الْمُزَرَّرِ بِالذَّهَبِ",
+                "headingUrdu": "فولڈ بٹن والے ملبوسات",
+                "headingEnglish": "Garments having fold buttons",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5613,
+                "hadithNumber": "5863",
+                "englishNarrator": "Narrated Al-Bara' bin `Azib رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) forbade us to use seven things: He forbade using gold rings, silk, Istabraq, Dibaj, red Mayathir, Al-Qassiy, and silver utensils. He ordered us to do seven other things. To pay a visit to the sick; to follow funeral processions; to say, \"May Allah be merciful to you\" to a sneezer if he says \"Praise be to Allah\"; to return greetings, to accept invitations; to help others to fulfil their oaths and to help the oppressed ones.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے ہمیں سات چیزوں سے روکا تھا ۔ آپ صلی اللہ علیہ وسلم نے ہمیں سونے کی انگوٹھی سے یا راوی نے کہا کہ سونے کے چھلے سے ، ریشم سے ، استبرق سے ، دیبا سے ، سرخ میثرہ سے ، قسی سے اور چاندی کے برتن سے منع فرمایا تھا اور ہمیں آپ نے سات چیزوں یعنی بیمار کی مزاج پرسی کرنے ، جنازہ کے پیچھے چلنے ، چھینکنے والے کا جواب دینے ، سلام کے جواب دینے ، دعوت کرنے والے کی دعوت قبول کرنے ( کسی بات پر ) قسم کھا لینے والے قسم پوری کرانے اور مظلوم کی مدد کرنے کا حکم فرمایا تھا ۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا ، کہا ہم سے شعبہ نے بیان کیا ، کہا ہم کو اشعث بن سلیم نے کہا کہ میں نے معاویہ بن سوید بن مقرن سے سنا ، انہوں نے کہا کہ میں نے حضرت براء بن عازب رضی اللہ عنہ سے سنا ، انہوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا أَشْعَثُ بْنُ سُلَيْمٍ، قَالَ سَمِعْتُ مُعَاوِيَةَ بْنَ سُوَيْدِ بْنِ مُقَرِّنٍ، قَالَ سَمِعْتُ الْبَرَاءَ بْنَ عَازِبٍ ـ رضى الله عنهما ـ يَقُولُ نَهَانَا النَّبِيُّ صلى الله عليه وسلم عَنْ سَبْعٍ نَهَى عَنْ خَاتَمِ الذَّهَبِ ـ أَوْ قَالَ حَلْقَةِ الذَّهَبِ ـ وَعَنِ الْحَرِيرِ، وَالإِسْتَبْرَقِ، وَالدِّيبَاجِ، وَالْمِيثَرَةِ الْحَمْرَاءِ، وَالْقَسِّيِّ، وَآنِيَةِ الْفِضَّةِ، وَأَمَرَنَا بِسَبْعٍ بِعِيَادَةِ الْمَرِيضِ، وَاتِّبَاعِ الْجَنَائِزِ، وَتَشْمِيتِ الْعَاطِسِ، وَرَدِّ السَّلاَمِ، وَإِجَابَةِ الدَّاعِي، وَإِبْرَارِ الْمُقْسِمِ، وَنَصْرِ الْمَظْلُومِ‏.‏",
+                "headingArabic": "خَوَاتِيمِ الذَّهَبِ",
+                "headingUrdu": "سونے کی انگوٹھیاں",
+                "headingEnglish": "Gold rings",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5614,
+                "hadithNumber": "5864",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) forbade the wearing of a gold ring. Amr, Shobah, Qqatadah, reported same from Basheer bin Naheek.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے سونے کی انگوٹھی کے پہننے سے مردوں کو منع فرمایا تھا ۔ اور عمرو نے بیان کیا ، کہا ہم کو شعبہ نے خبر دی ، انہیں قتادہ نے ، انہوں نے نضر سے سنا اور انہوں نے بشیر سے سنا ۔ آگے اسی طرح روایت بیان کی ۔",
+                "urduNarrator": "مجھ سے محمد بن بشار نے بیان کیا ، کہا ہم سے غندر نے بیان کیا ، کہا ہم سے شعبہ نے بیان کیا ، ان سے قتادہ نے ، ان سے نضر بن انس نے ، ان سے بشیر بن نہیک نے اور ان سے حضرت ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنِ النَّضْرِ بْنِ أَنَسٍ، عَنْ بَشِيرِ بْنِ نَهِيكٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ نَهَى عَنْ خَاتَمِ الذَّهَبِ‏.‏ وَقَالَ عَمْرٌو أَخْبَرَنَا شُعْبَةُ عَنْ قَتَادَةَ سَمِعَ النَّضْرَ سَمِعَ بَشِيرًا مِثْلَهُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5615,
+                "hadithNumber": "5865",
+                "englishNarrator": "Narrated `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) wore a gold or silver .. ring and placed its stone towards the palm of his hand. The people also started wearing gold rings like it, but when the Prophet (ﷺ) saw them wearing such rings, he threw away that golden ring and then wore a silver ring.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے سونے کی ایک انگوٹھی بنوائی اور اس کا نگینہ ہتھیلی کی جانب رکھا پھر کچھ دوسرے لوگوں نے بھی اسی طرح کی انگوٹھیاں بنوالیں ۔ آخر آنحضرت صلی اللہ علیہ وسلم نے اسے پھینک دیا اور چاندی کی انگوٹھی بنوالی ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیا ، کہا ہم سے یحییٰ بن ابی کثیر نے بیان کیا ، ان سے عبیداللہ نے بیان کیا ، کہا کہ مجھ سے نافع نے بیان کیا اور ا ن سے حضرت عبداللہ بن عمر رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، قَالَ حَدَّثَنِي نَافِعٌ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم اتَّخَذَ خَاتَمًا مِنْ ذَهَبٍ، وَجَعَلَ فَصَّهُ مِمَّا يَلِي كَفَّهُ، فَاتَّخَذَهُ النَّاسُ، فَرَمَى بِهِ، وَاتَّخَذَ خَاتَمًا مِنْ وَرِقٍ أَوْ فِضَّةٍ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5616,
+                "hadithNumber": "5866",
+                "englishNarrator": "Narrated Ibn. `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) wore a gold ring or a silver ring and placed its stone towards the palm of his hand and had the name 'Muhammad, the Messenger of Allah' engraved on it. The people also started wearing gold rings like it, but when the Prophet (ﷺ) saw them wearing such rings, he threw away his own ring and said. \"I will never wear it,\" and then wore a silver ring, whereupon the people too started wearing silver rings. Ibn `Umar رضی اللہ عنہما added: After the Prophet (ﷺ) Abu Bakr رضی اللہ عنہ wore the ring, and then `Umar رضی اللہ عنہ and then `Uthman wore it till it fell in the Aris well from `Uthman رضی اللہ عنہ .",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے سونے یاچاندی کی انگوٹھی بنوائی اور اس کا نگینہ ہتھیلی کی طرف رکھا اور اس پر ” محمدرسول اللہ “ کے الفاظ کھدوائے پھر دوسرے لوگوں نے بھی اسی طرح کی انگوٹھیاں بنوالیں ۔ جب آنحضرت صلی اللہ علیہ وسلم نے دیکھا کہ کچھ دوسرے لوگوں نے بھی اس طرح کی انگوٹھیاں بنوالی تو آپ نے اسے پھینک دیا اور فرمایا کہ اب میں اسے کبھی نہیں پہنوں گا ۔ پھر آپ نے چاندی کی انگوٹھی بنوائی اور دوسرے لوگوں نے بھی چاندی کی انگو ٹھیاں بنوالیں ۔ حضرت ابن عمر رضی اللہ عنہما نے بیان کیا کہ آنحضرت صلی اللہ علیہ وسلم کے بعد اس انگوٹھی کو حضرت ابوبکر رضی اللہ عنہ نے پہنا پھر حضرت عمر رضی اللہ عنہ اور پھر حضرت عثمان نے پہنا ۔ آخر حضرت عثمان رضی اللہ عنہ کے عہد خلافت میں وہ انگوٹھی اریس کے کنویں میں گر گئی ۔",
+                "urduNarrator": "ہم سے یوسف بن موسیٰ نے بیان کیا ، کہا ہم سے ابو اسا مہ نے بیان کیا ، کہا ہم سے عبیداللہ نے بیان کیا ، ان سے نافع نے اور ان سے حضرت عبداللہ بن عمر رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا يُوسُفُ بْنُ مُوسَى، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم اتَّخَذَ خَاتَمًا مِنْ ذَهَبٍ أَوْ فِضَّةٍ، وَجَعَلَ فَصَّهُ مِمَّا يَلِي كَفَّهُ، وَنَقَشَ فِيهِ مُحَمَّدٌ رَسُولُ اللَّهِ‏.‏ فَاتَّخَذَ النَّاسُ مِثْلَهُ، فَلَمَّا رَآهُمْ قَدِ اتَّخَذُوهَا رَمَى بِهِ، وَقَالَ ‏ \"‏ لاَ أَلْبَسُهُ أَبَدًا ‏\"‏‏.‏ ثُمَّ اتَّخَذَ خَاتَمًا مِنْ فِضَّةٍ، فَاتَّخَذَ النَّاسُ خَوَاتِيمَ الْفِضَّةِ‏.‏ قَالَ ابْنُ عُمَرَ فَلَبِسَ الْخَاتَمَ بَعْدَ النَّبِيِّ صلى الله عليه وسلم أَبُو بَكْرٍ ثُمَّ عُمَرُ ثُمَّ عُثْمَانُ، حَتَّى وَقَعَ مِنْ عُثْمَانَ فِي بِئْرِ أَرِيسَ‏.‏",
+                "headingArabic": "خَاتَمِ الْفِضَّةِ",
+                "headingUrdu": "چاندی کی انگوٹھیاں",
+                "headingEnglish": "Sliver rings",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5617,
+                "hadithNumber": "5867",
+                "englishNarrator": "Narrated Abdullah bin `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) wore a gold ring, then he threw it and said, \"I will never wear it.\" The people also threw their (gold) rings.",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم ( حرمت سے پہلے ) سونے کی انگوٹھی پہنتے تھے پھر حرمت کا حکم آنے پر آپ نے اسے پھینک دیا اور فرمایا کہ میں اب سے کبھی نہیں پہنوں گا اور لوگوں نے بھی اپنی انگوٹھیاں پھینک دیں ۔",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ نے بیان کیا ، کہا ہم سے امام مالک نے ، ان سے عبداللہ بن دینار نے اور ان سے حضرت عبداللہ بن عمر رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَلْبَسُ خَاتَمًا مِنْ ذَهَبٍ فَنَبَذَهُ فَقَالَ ‏ \"‏ لاَ أَلْبَسُهُ أَبَدًا ‏\"‏‏.‏ فَنَبَذَ النَّاسُ خَوَاتِيمَهُمْ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5618,
+                "hadithNumber": "5868",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "He saw a silver ring on the hand of Allah's Messenger (ﷺ) for one day only. Then the people had silver rings made for themselves and wore it. On that, Allah's Messenger (ﷺ) threw away their rings as well. (For the details of this Hadith, see Fath-ul-Bari). Similarly, Ibrahim bin Sa'd, Ziyad, and Shobah reported from Zuhri. And Ibn-e-Mussafir has reported from Zuhri: I saw silver ring.",
+                "hadithUrdu": "انہوں نے نبی کریم صلی اللہ علیہ وسلم کے ہاتھ میں ایک دن چاندی کی انگوٹھی دیکھی پھر دوسرے لوگوں نے بھی چاندی کی انگوٹھیاں بنوانی شروع کر دیں اور پہننے لگے تو آنحضرت صلی اللہ علیہ وسلم نے اپنی انگوٹھی پھینک دیں اور دوسرے لوگوں نے بھی اپنی انگوٹھیاں پھینک دی ۔ اس روایت کی متابعت ابراہیم بن سعد ، زیاد اور شعیب نے زہری سے کی ہے اور ابن مسافر نے زہری سے بیان کیا کہ میرا خیال ہے کہ ” خاتما من ورق “ بیان کیا ۔",
+                "urduNarrator": "ہم سے یحییٰ بن بکیر نے بیان کیا ، انہوں نے کہا ہم سے لیث بن سعد نے بیان کیا ، انہوں نے کہا ان سے یونس نے ، ان سے ابن شہاب نے انہوں نے کہا کہ مجھ سے انس بن مالک رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، قَالَ حَدَّثَنِي أَنَسُ بْنُ مَالِكٍ ـ رضى الله عنه ـ أَنَّهُ رَأَى فِي يَدِ رَسُولِ اللَّهِ صلى الله عليه وسلم خَاتَمًا مِنْ وَرِقٍ يَوْمًا وَاحِدًا، ثُمَّ إِنَّ النَّاسَ اصْطَنَعُوا الْخَوَاتِيمَ مِنْ وَرِقٍ وَلَبِسُوهَا، فَطَرَحَ رَسُولُ اللَّهِ صلى الله عليه وسلم خَاتَمَهُ، فَطَرَحَ النَّاسُ خَوَاتِيمَهُمْ‏.‏ تَابَعَهُ إِبْرَاهِيمُ بْنُ سَعْدٍ وَزِيَادٌ وَشُعَيْبٌ عَنِ الزُّهْرِيِّ‏.‏ وَقَالَ ابْنُ مُسَافِرٍ عَنِ الزُّهْرِيِّ أَرَى خَاتَمًا مِنْ وَرِقٍ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5619,
+                "hadithNumber": "5869",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "\"Did the Prophet (ﷺ) wear a ring?\" Anas said, \"Once he delayed the: `Isha' prayer till midnight. Then he came, facing us ..... as if l am now Looking at the glitter of his ring ..... and said, \"The people have offered their prayers and slept but you have been in prayer as you have been waiting for it.\"",
+                "hadithUrdu": "کیا نبی کریم صلی اللہ علیہ وسلم نے انگوٹھی بنوائی تھی ۔ انہوں نے بیان کیا کہ آنحضرت صلی اللہ علیہ وسلم نے ایک رات عشاء کی نماز آدھی رات میں پڑھائی ۔ پھر چہرہ مبارک ہماری طرف کیا ، جیسے اب بھی میں آنحضرت صلی اللہ علیہ وسلم کی انگوٹھی کی چمک دیکھ رہا ہوں ۔ فرمایا کہ بہت سے لوگ نماز پڑھ کر سو چکے ہوں گے لیکن تم اس وقت بھی نماز میں ہو جب تک تم نماز کا انتظار کرتے رہے ہو ۔",
+                "urduNarrator": "ہم سے عبدان نے بیان کیا ، کہا ہم کو یزید بن زریع نے خبر دی ، کہا ہم کو حمید نے خبر دی ، کہا انہوں نے کہ حضرت انس رضی اللہ عنہ سے پوچھا گیا",
+                "hadithArabic": "حَدَّثَنَا عَبْدَانُ، أَخْبَرَنَا يَزِيدُ بْنُ زُرَيْعٍ، أَخْبَرَنَا حُمَيْدٌ، قَالَ سُئِلَ أَنَسٌ هَلِ اتَّخَذَ النَّبِيُّ صلى الله عليه وسلم خَاتَمًا قَالَ أَخَّرَ لَيْلَةً صَلاَةَ الْعِشَاءِ إِلَى شَطْرِ اللَّيْلِ، ثُمَّ أَقْبَلَ عَلَيْنَا بِوَجْهِهِ، فَكَأَنِّي أَنْظُرُ إِلَى وَبِيصِ خَاتَمِهِ‏.‏ قَالَ ‏ \"‏ إِنَّ النَّاسَ قَدْ صَلَّوْا وَنَامُوا، وَإِنَّكُمْ لَمْ تَزَالُوا فِي صَلاَةٍ مَا انْتَظَرْتُمُوهَا ‏\"‏‏.‏",
+                "headingArabic": "فَصِّ الْخَاتَمِ",
+                "headingUrdu": "انگوٹھی کا پتھر",
+                "headingEnglish": "Stone of the ring",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5620,
+                "hadithNumber": "5870",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "The ring of the Prophet (ﷺ) was of silver, and its stone was of silver too. Yahya, Ayyub, Humaid, Hadrat Anas رضی اللہ عنہ reported it.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم کی انگوٹھی چاندی کی تھی اور اس کا نگینہ بھی اسی کا تھا اور یحییٰ بن ایوب نے بیان کیا کہ مجھ سے حمید نے بیان کیا ، انہوں نے حضرت انس رضی اللہ عنہ سے سنا ، انہوں نے نبی کریم صلی اللہ علیہ وسلم سے اسی طرح بیان کیا ۔",
+                "urduNarrator": "ہم سے اسحاق نے بیان کیا ، کہا ہم کو معتمر نے خبر دی ، کہا کہ میں نے حمید سے سنا ، وہ حضرت انس رضی اللہ عنہ سے بیان کرتے تھے کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ، أَخْبَرَنَا مُعْتَمِرٌ، قَالَ سَمِعْتُ حُمَيْدًا، يُحَدِّثُ عَنْ أَنَسٍ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ خَاتَمُهُ مِنْ فِضَّةٍ وَكَانَ فَصُّهُ مِنْهُ‏.‏ وَقَالَ يَحْيَى بْنُ أَيُّوبَ حَدَّثَنِي حُمَيْدٌ سَمِعَ أَنَسًا عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5621,
+                "hadithNumber": "5871",
+                "englishNarrator": "Narrated Sahl رضی اللہ عنہ :",
+                "hadithEnglish": "A woman came to the Prophet (ﷺ) and said, \"I have come to present myself to you (for marriage).\" She kept standing for a long period during which period the Prophet (ﷺ) looked at her carefully. When she stayed for a Long period, a man said to the Prophet (ﷺ) \"If you are not in need of her, then marry her to me.\" The Prophet (ﷺ) said, \"Have you got anything to give her (as Mahr)?\" The man said, \"No.\" The Prophet said, \"Go (to your house) and search for something.\" The man went and came back to say, \"By Allah, I could not find anything.\" The Prophet (ﷺ) said, \"Go again and search for something, even if it be an iron ring.\" He went again and came back saying, \"No, by Allah, I could not get even an iron ring.\" The man had only an Izar and had no Rida' (upper garment). He said, \"I will give her my Izar as Mahr.\" On that the Prophet (ﷺ) said, \"Your Izar? If she wears it, nothing of it will remain on you, and if you wear it nothing of it will be on her\" The man went aside and sat down When the Prophet (ﷺ) saw him leaving (after a while), he called back and asked. \"How much Qur'an do you know (by heart)? He said, 'I know such and such Suras,\" naming some Suras. The Prophet (ﷺ) said, \"I marry her to you for the amount of Qur'an you know (by heart).",
+                "hadithUrdu": "ایک عورت نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئیں اور عرض کی کہ میں اپنے آپ کو ہبہ کرنے آئی ہوں ، دیر تک وہ عورت کھڑٰی رہی ۔ آنحضرت صلی اللہ علیہ وسلم نے انہیں دیکھا اور پھر سر جھکا لیا جب دیر تک وہ وہیں کھڑی رہیں تو ایک صاحب نے اٹھ کر عرض کیا اگر آنحضرت صلی اللہ علیہ وسلم کو ان کی ضرورت نہیں ہے تو ان کا نکاح مجھ سے کر دیں ۔ آپ صلی اللہ علیہ وسلم نے فرمایا تمہارے پاس کوئی چیز ہے جو مہر میں انہیں دے سکو ، انہوں نے کہا کہ نہیں ۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ دیکھ لو ۔ وہ گئے اور واپس آ کر عرض کیا کہ واللہ ! مجھے کچھ نہیں ملا ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ جاؤ تلاش کرو ، لوہے کی ایک انگوٹھی ہی سہی ۔ وہ گئے اور واپس آ کر عرض کیا کہ وہ مجھے لوہے کی ایک انگوٹھی بھی نہیں ملی ۔ وہ ایک تہمد پہنے ہوئے تھے اور ان کے جسم پر ( کرتے کی جگہ ) چادر بھی نہیں تھی ۔ انہوں نے عرض کیا کہ میں انہیں اپنا تہمد مہر میں دے دوں گا ۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ اگر تمہارا تہمد یہ پہن لیں گی تو تمہارے لیے کچھ باقی نہیں رہے گا ۔ اور اگر تم اسے پہن لو گے تو ان کے لیے کچھ نہیں رہے گا ۔ وہ صاحب اس کے بعد ایک طرف بیٹھ گئے پھر جب آنحضرت صلی اللہ علیہ وسلم نے انہیں جاتے دیکھا تو آپ نے انہیں بلوایا اور فرمایا تمہیں قرآن کتنا یادہے ؟ انہوں نے عرض کیا کہ فلاں فلاں سورتیں ۔ انہوں نے سورتوں کو شمار کیا ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ جا میں نے اس عورت کو تمہارے نکاح میں اس قرآن کے عوض میں دے دیا جو انہیں یاد ہے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ نے بیان کیا ، کہا ہم سے عبدالعزیز بن ابی حازم نے بیان کیا ، ان سے ان کے والد نے اور انہوں نے حضرت سہل رضی اللہ عنہ سے سنا ، انہوں نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي حَازِمٍ، عَنْ أَبِيهِ، أَنَّهُ سَمِعَ سَهْلاً، يَقُولُ جَاءَتِ امْرَأَةٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَتْ جِئْتُ أَهَبُ نَفْسِي‏.‏ فَقَامَتْ طَوِيلاً فَنَظَرَ وَصَوَّبَ، فَلَمَّا طَالَ مُقَامُهَا فَقَالَ رَجُلٌ زَوِّجْنِيهَا، إِنْ لَمْ تَكُنْ لَكَ بِهَا حَاجَةٌ‏.‏ قَالَ ‏\"‏ عِنْدَكَ شَىْءٌ تُصْدِقُهَا ‏\"‏‏.‏ قَالَ لاَ‏.‏ قَالَ ‏\"‏ انْظُرْ ‏\"‏‏.‏ فَذَهَبَ ثُمَّ رَجَعَ فَقَالَ وَاللَّهِ إِنْ وَجَدْتُ شَيْئًا‏.‏ قَالَ ‏\"‏ اذْهَبْ فَالْتَمِسْ وَلَوْ خَاتَمًا مِنْ حَدِيدٍ ‏\"‏‏.‏ فَذَهَبَ ثُمَّ رَجَعَ قَالَ لاَ وَاللَّهِ وَلاَ خَاتَمًا مِنْ حَدِيدٍ‏.‏ وَعَلَيْهِ إِزَارٌ مَا عَلَيْهِ رِدَاءٌ‏.‏ فَقَالَ أُصْدِقُهَا إِزَارِي فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ إِزَارُكَ إِنْ لَبِسَتْهُ لَمْ يَكُنْ عَلَيْكَ مِنْهُ شَىْءٌ، وَإِنْ لَبِسْتَهُ لَمَ يَكُنْ عَلَيْهَا مِنْهُ شَىْءٌ ‏\"‏‏.‏ فَتَنَحَّى الرَّجُلُ فَجَلَسَ فَرَآهُ النَّبِيُّ صلى الله عليه وسلم مُوَلِّيًا فَأَمَرَ بِهِ فَدُعِيَ فَقَالَ ‏\"‏ مَا مَعَكَ مِنَ الْقُرْآنِ ‏\"‏‏.‏ قَالَ سُورَةُ كَذَا وَكَذَا لِسُوَرٍ عَدَّدَهَا‏.‏ قَالَ ‏\"‏ قَدْ مَلَّكْتُكَهَا بِمَا مَعَكَ مِنَ الْقُرْآنِ ‏\"‏‏.‏",
+                "headingArabic": "خَاتَمِ الْحَدِيدِ",
+                "headingUrdu": "لوہے کی انگوٹھی",
+                "headingEnglish": "An iron ring",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5622,
+                "hadithNumber": "5872",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) wanted to write a letter to a group of people or some non-Arabs. It was said to him, \"They do not accept any letter unless it is stamped.\" So the Prophet (ﷺ) had a silver ring made for himself, and on it was engraved: 'Muhammad, the Messenger of Allah'. .. as if I am now looking at the glitter of the ring on the finger (or in the palm) of the Prophet (ﷺ) .",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے عجم کے کچھ لوگوں ( شاہان عجم ) کے پاس خط لکھنا چاہا تو آپ سے کہا گیا کہ عجم کے لوگ کوئی خط اس وقت تک نہیں قبول کرتے جب تک اس پر مہر لگی ہوئی نہ ہو ۔ چنانچہ آنحضرت صلی اللہ علیہ وسلم نے چاندی کی ایک انگوٹھی بنوائی ۔ جس پر یہ کندہ تھا ” محمد رسول اللہ “ گویا اس وقت آنحضرت صلی اللہ علیہ وسلم کی انگلی یا آپ کی ہتھیلی میں اس کی چمک دیکھ رہا ہوں ۔",
+                "urduNarrator": "ہم سے عبدالاعلیٰ بن حماد نے بیان کیا ، انہوں نے کہا ہم سے یزید بن زریع نے بیان کیا ، انہوں نے کہا ہم سے سعید بن ابی عروبہ نے بیان کیا ، ان سے قتادہ نے اور ان سے حضرت انس بن مالک رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ الأَعْلَى، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم أَرَادَ أَنْ يَكْتُبَ إِلَى رَهْطٍ أَوْ أُنَاسٍ مِنَ الأَعَاجِمِ، فَقِيلَ لَهُ إِنَّهُمْ لاَ يَقْبَلُونَ كِتَابًا إِلاَّ عَلَيْهِ خَاتَمٌ، فَاتَّخَذَ النَّبِيُّ صلى الله عليه وسلم خَاتَمًا مِنْ فِضَّةٍ نَقْشُهُ مُحَمَّدٌ رَسُولُ اللَّهِ فَكَأَنِّي بِوَبِيصِ أَوْ بِبَصِيصِ الْخَاتَمِ فِي إِصْبَعِ النَّبِيِّ صلى الله عليه وسلم أَوْ فِي كَفِّهِ‏.‏",
+                "headingArabic": "نَقْشِ الْخَاتَمِ",
+                "headingUrdu": "انگوٹھی کندہ کرنا",
+                "headingEnglish": "To engrave a ring",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5623,
+                "hadithNumber": "5873",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) had a silver ring made for himself and it was worn by him on his hand. Afterwards it was worn by Abu Bakr رضی اللہ عنہ , and then by `Umar رضی اللہ عنہ , and then by `Uthman رضی اللہ عنہ till it fell in the Aris well. (On that ring) was engraved: 'Muhammad, the Messenger of Allah.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے چاندی کی ایک انگوٹھی بنوائی ۔ وہ انگوٹھی آپ کے ہاتھ میں ، اس کے بعد حضرت عمر رضی اللہ عنہ کے ہاتھ میں ، اس کے بعد حضرت عثمان رضی اللہ عنہ کے ہاتھ میں رہتی تھی لیکن ان کے زمانہ میں وہ اریس کے کنویں میں گر گئی اس کا نقش ” محمد رسول اللہ “ تھا ۔",
+                "urduNarrator": "ہم سے محمد بن سلام بیکندی نے بیان کیا ، کہا ہم کو عبداللہ بن نمیر نے خبر دی ، انہیں عبیداللہ عمری نے ، انہیں نافع نے اور ان سے حضرت عبداللہ بن عمر رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدُ بْنُ سَلاَمٍ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ اتَّخَذَ رَسُولُ اللَّهِ صلى الله عليه وسلم خَاتَمًا مِنْ وَرِقٍ، وَكَانَ فِي يَدِهِ، ثُمَّ كَانَ بَعْدُ فِي يَدِ أَبِي بَكْرٍ، ثُمَّ كَانَ بَعْدُ فِي يَدِ عُمَرَ، ثُمَّ كَانَ بَعْدُ فِي يَدِ عُثْمَانَ، حَتَّى وَقَعَ بَعْدُ فِي بِئْرِ أَرِيسَ، نَقْشُهُ مُحَمَّدٌ رَسُولُ اللَّهِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5624,
+                "hadithNumber": "5874",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) got a ring made for himself and said, \"I have got a ring made (for myself) and engraved a certain engraving on it so none of you should get such an engraving on his ring.\" I saw the glitter of the ring on his little finger.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ایک انگوٹھی بنوائی اور فرمایا کہ ہم نے ایک انگوٹھی بنوائی ہے اس پر لفظ ( محمد رسول اللہ ) کندہ کرایا ہے اس لیے انگوٹھی پرکوئی شخص یہ نقش نہ کندہ کرائے ۔ انس نے بیان کیا کہ جیسے اس انگوٹھی کی چمک آنحضرت صلی اللہ علیہ وسلم کی چھنگلیاں میں اب بھی میں دیکھ رہا ہوں ۔",
+                "urduNarrator": "ہم سے ابو معمر نے بیان کیا ، کہا ہم سے عبدالوارث بن سعید نے بیان کیا ، کہا ہم سے عبدالعزیز بن صہیب نے بیان کیا ، ان سے حضرت انس رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو مَعْمَرٍ، حَدَّثَنَا عَبْدُ الْوَارِثِ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ صُهَيْبٍ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ صَنَعَ النَّبِيُّ صلى الله عليه وسلم خَاتَمًا قَالَ ‏ \"‏ إِنَّا اتَّخَذْنَا خَاتَمًا، وَنَقَشْنَا فِيهِ نَقْشًا، فَلاَ يَنْقُشْ عَلَيْهِ أَحَدٌ ‏\"‏‏.‏ قَالَ فَإِنِّي لأَرَى بَرِيقَهُ فِي خِنْصَرِهِ‏.‏",
+                "headingArabic": "الْخَاتَمِ فِي الْخِنْصَرِ",
+                "headingUrdu": "چھوٹی انگلی میں انگوٹھی پہننا",
+                "headingEnglish": "To wear the ring on the little finger",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5625,
+                "hadithNumber": "5875",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "When the Prophet (ﷺ) intended to write to the Byzantines, it was said to him, \"Those people do not read your letter unless it is stamped.\" So the Prophet (ﷺ) took a silver ring and got 'Muhammad, the Apostle of Allah' engraved on it .... as if I am now looking at its glitter in his hand.",
+                "hadithUrdu": "جب نبی کریم صلی اللہ علیہ وسلم نے روم ( کے بادشاہ کو ) خط لکھانا چاہا تو آپ سے کہا گیا کہ اگر آپ کے خط پر مہر نہ ہوئی تو وہ خط نہیں پڑھتے ۔ چنانچہ آپ نے چاندی کی ایک انگوٹھی بنوائی اس پر لفظ ” محمد رسول اللہ “ کندہ کرایا ۔ جیسے آنحضرت صلی اللہ علیہ وسلم کے ہاتھ میں اس کی سفیدی اب بھی میں دیکھ رہا ہوں ۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا ، کہا ہم سے شعبہ نے بیان کیا ، ان سے قتادہ نے اور ان سے حضرت انس بن مالک رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ بْنُ أَبِي إِيَاسٍ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ لَمَّا أَرَادَ النَّبِيُّ صلى الله عليه وسلم أَنْ يَكْتُبَ إِلَى الرُّومِ قِيلَ لَهُ إِنَّهُمْ لَنْ يَقْرَءُوا كِتَابَكَ إِذَا لَمْ يَكُنْ مَخْتُومًا‏.‏ فَاتَّخَذَ خَاتَمًا مِنْ فِضَّةٍ، وَنَقْشُهُ مُحَمَّدٌ رَسُولُ اللَّهِ‏.‏ فَكَأَنَّمَا أَنْظُرُ إِلَى بَيَاضِهِ فِي يَدِهِ‏.‏",
+                "headingArabic": "اتِّخَاذُ الْخَاتَمِ لِيُخْتَمَ بِهِ الشَّىْءُ، أَوْ لِيُكْتَبَ بِهِ إِلَى أَهْلِ الْكِتَابِ وَغَيْرِهِمْ",
+                "headingUrdu": "خطوط پر مہر لگانے کے لیے انگوٹھی لینا",
+                "headingEnglish": "Taking a ring for stamping letters",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5626,
+                "hadithNumber": "5876",
+                "englishNarrator": "Narrated `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) had a golden ring made for himself, and when he wore it. he used to turn its stone toward the palm of his! hand. So the people too had gold made for themselves. The Prophet (ﷺ) then ascended the pulpit, and after glorifying and praising Allah, he said, \"I had it made for me, but now I will never wear it again.\" He threw it away, and then the people threw away their rings too. (Juwairiya, a subnarrator, said: I think Anas said that the Prophet (ﷺ) was wearing the ring in his right hand.)",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے پہلے ایک سونے کی انگوٹھی بنوائی اور پہننے میں آپ اس کا رنگ اندر کی طرف رکھتے تھے ۔ آپ کی دیکھا دیکھی لوگوں نے بھی سونے کی انگوٹھیاں بنا لیں تو حضور اکرم صلی اللہ علیہ وسلم منبر پر تشریف لائے اور اللہ کی حمد و ثنا کی اور فرمایا میں نے بھی سونے کی انگوٹھی بنوائی تھی ( حرمت نازل ہونے کے بعد ) آپ صلی اللہ علیہ وسلم نے فرمایا کہ اب میں اسے نہیں پہنوں گا ۔ پھر آپ نے وہ انگوٹھی پھینک دی اور لوگوں نے بھی اپنی سونے کی انگوٹھیوں کو پھینک دیا ۔ جویریہ نے بیان کیا کہ مجھے یہی یاد ہے کہ نافع نے ” داہنے ہاتھ میں “ بیان کیا ۔",
+                "urduNarrator": "ہم سے موسیٰ بن اسماعیل نے بیان کیا ، کہا ہم سے جویریہ نے بیان کیا ، ان سے نافع نے اور ان سے حضرت عبداللہ بن عمر رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا جُوَيْرِيَةُ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ، حَدَّثَهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم اصْطَنَعَ خَاتَمًا مِنْ ذَهَبٍ، جَعَلَ فَصَّهُ فِي بَطْنِ كَفِّهِ إِذَا لَبِسَهُ، فَاصْطَنَعَ النَّاسُ خَوَاتِيمَ مِنْ ذَهَبٍ، فَرَقِيَ الْمِنْبَرَ، فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ فَقَالَ ‏ \"‏ إِنِّي كُنْتُ اصْطَنَعْتُهُ، وَإِنِّي لاَ أَلْبَسُهُ ‏\"‏‏.‏ فَنَبَذَهُ فَنَبَذَ النَّاسُ‏.‏ قَالَ جُوَيْرِيَةُ وَلاَ أَحْسِبُهُ إِلاَّ قَالَ فِي يَدِهِ الْيُمْنَى‏.‏",
+                "headingArabic": "مَنْ جَعَلَ فَصَّ الْخَاتَمِ فِي بَطْنِ كَفِّهِ",
+                "headingUrdu": "انگوٹھی کا پتھر ہتھیلی کی طرف رکھنا",
+                "headingEnglish": "Keeping the stone of the ring towards the palm",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5627,
+                "hadithNumber": "5877",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) took a silver ring and had 'Muhammad, the Apostle' of Allah' engraved on it. The Prophet then said (to us), 'I have a silver ring with 'Muhammad, the Messenger of Allah engraved on it, so none of you should have the same engraving on his ring.\"",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم نے چاندی کی ایک انگوٹھی بنوائی اور اس میں یہ نقش کھدوایا ” محمد رسول اللہ “ اور لوگوں سے کہہ دیا کہ میں نے چاندی کی ایک انگوٹھی بنوا کر اس پر محمد رسول اللہ نقش کروایا ہے ۔ اس لیے اب کوئی شخص یہ نقش اپنی انگوٹھی پر نہ کھدوائے ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیا ، انہوں نے کہا ہم سے حماد بن زید نے بیان کیا ، ان سے عبدالعزیز بن صہیب نے اور ان سے حضرت انس بن مالک رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا حَمَّادٌ، عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم اتَّخَذَ خَاتَمًا مِنْ فِضَّةٍ، وَنَقَشَ فِيهِ، مُحَمَّدٌ رَسُولُ اللَّهِ‏.‏ وَقَالَ ‏ \"‏ إِنِّي اتَّخَذْتُ خَاتَمًا مِنْ وَرِقٍ، وَنَقَشْتُ فِيهِ، مُحَمَّدٌ رَسُولُ اللَّهِ‏.‏ فَلاَ يَنْقُشَنَّ أَحَدٌ عَلَى نَقْشِهِ ‏\"‏‏.‏",
+                "headingArabic": "قَوْلِ النَّبِيِّ صلى الله عليه وسلم ‏\"‏ لاَ يَنْقُشُ عَلَى نَقْشِ خَاتَمِهِ ‏\"‏‏.‏",
+                "headingUrdu": "\"کسی کی انگوٹھی پر وہی کندہ کاری نہیں ہونی چاہیے جو میری انگوٹھی پر کی گئی ہے۔\"",
+                "headingEnglish": "\"None should have the same engraving made on his ring as the engraving on my ring.\"",
+                "chapterId": "78",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 78,
+                    "chapterNumber": "78",
+                    "chapterEnglish": "Dress",
+                    "chapterUrdu": "لباس کے بیان میں",
+                    "chapterArabic": "كتاب اللباس",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 5601,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=224",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=222",
+                "label": "222",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=223",
+                "label": "223",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=224",
+                "label": "224",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=225",
+                "label": "225",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=226",
+                "label": "226",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=227",
+                "label": "227",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=228",
+                "label": "228",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=226",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=226",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=224",
+        "to": 5625,
+        "total": 40465
+    }
+}

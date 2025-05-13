@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 458,
+        "data": [
+            {
+                "id": 11714,
+                "hadithNumber": "4150",
+                "englishNarrator": "Abu Talha reported:",
+                "hadithEnglish": "'Umar bin al-Khattab ( رضی اللہ عنہ) delivered a sermon on Friday and made a mention of Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) and he also made a mention of Abu Bakr ( رضی اللہ عنہ) and then said: I do not leave behind me any problem more difficult than that of Kalala. I did not refer to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) more repeatedly than in case of the problem of Kalala, and he (the Holy Prophet) never showed more annoyance to me than in regard to this problem, so much so that he struck my chest with his fingers and said: 'Umar, does the verse revealed in summer season, at the end of Sura al-Nisa' not suffice you? Hadrat 'Umar (then) said: If I live I would give such verdict about (Kalala) that everyone would be able to decide whether he reads the Qur'an or he does not.",
+                "hadithUrdu": "حضرت عمر بن خطاب رضی اللہ عنہ نے جمعہ کے دن خطبہ دیا ، انہوں نے نبی صلی اللہ علیہ وسلم کا تذکرہ کیا اور حضرت ابوبکر رضی اللہ عنہ کا تذکرہ کیا ، پھر کہا : میں اپنے بعد کوئی ایسی چیز نہیں چھوڑ رہا جو میرے ہاں کلالہ سے زیادہ اہم ہو ، میں نے رسول اللہ صلی اللہ علیہ وسلم سے کسی چیز کے بارے میں اتنی مراجعت نہیں کی جتنی کلالہ کے بارے میں کی ، اور آپ نے بھی مجھ سے کسی چیز کے بارے میں اتنی شدت اختیار نہیں فرمائی جتنی کلالہ کے بارے میں فرمائی حتی کہ آپ نے اپنی انگلی میرے سینے میں چبھوئی اور فرمایا : \" اے عمر! تمہیں موسم گرما ( میں نازل ہونے ) والی آیت کافی نہیں جو سورہ نساء کے آخر میں ہے؟ ( جس سے مسئلہ واضح ہو گیا ہے ) \" اور میں ( عمر ) اگر زندہ رہا تو اس کے بارے میں ایسا واضح فیصلہ کروں گا جس ( کو دیکھتے ہوئے ) ایسا شخص ( بھی ) فیصلہ کر سکے گا جو قرآن پڑھتا ( اور سمجھتا ) ہے اور وہ بھی جو قرآن نہیں پڑھتا ۔",
+                "urduNarrator": "ہم سے محمد بن ابی بکر المقدمی اور محمد بن المثنی نے بیان کیا، اور یہ قول ابن المثنیٰ نے کہا: ہم سے یحییٰ بن سعید نے بیان کیا, ہشام نے ہمیں حدیث بیان کی : ہمیں قتادہ نے سالم بن ابی جعد سے حدیث بیان کی ، انہوں نے معدان بن ابی طلحہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي بَكْرٍ الْمُقَدَّمِيُّ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، وَاللَّفْظُ لِابْنِ الْمُثَنَّى، قَالَا: حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، حَدَّثَنَا هِشَامٌ، حَدَّثَنَا قَتَادَةُ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، عَنْ مَعْدَانَ بْنِ أَبِي طَلْحَةَ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ، خَطَبَ يَوْمَ جُمُعَةٍ، فَذَكَرَ نَبِيَّ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَذَكَرَ أَبَا بَكْرٍ، ثُمَّ قَالَ: إِنِّي لَا أَدَعُ بَعْدِي شَيْئًا أَهَمَّ عِنْدِي مِنَ الْكَلَالَةِ، مَا رَاجَعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي شَيْءٍ مَا رَاجَعْتُهُ فِي الْكَلَالَةِ، وَمَا أَغْلَظَ لِي فِي شَيْءٍ مَا أَغْلَظَ لِي فِيهِ، حَتَّى طَعَنَ بِإِصْبَعِهِ فِي صَدْرِي، وَقَالَ: «يَا عُمَرُ، أَلَا تَكْفِيكَ آيَةُ الصَّيْفِ الَّتِي فِي آخِرِ سُورَةِ النِّسَاءِ، وَإِنِّي إِنْ أَعِشْ أَقْضِ فِيهَا بِقَضِيَّةٍ يَقْضِي بِهَا مَنْ يَقْرَأُ الْقُرْآنَ، وَمَنْ لَا يَقْرَأُ الْقُرْآنَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "24",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 124,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "The Book Of The Rules Of Inheritance",
+                    "chapterUrdu": "وراث کے مقررہ حصوں کا بیان",
+                    "chapterArabic": "كتاب الْفَرَائِضِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11715,
+                "hadithNumber": "4151",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Qatada with the same chain of transmitters.",
+                "hadithUrdu": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے اسماعیل بن اولیاء نے بیان کیا,سعید بن ابی عروبہ اور شعبہ دونوں نے قتادہ سے اسی سند کے ساتھ اسی کے ہم معنی حدیث بیان کی.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، عَنْ سَعِيدِ بْنِ أَبِي عَرُوبَةَ، ح وحَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَابْنُ رَافِعٍ، عَنْ شَبَابَةَ بْنِ سَوَّارٍ، عَنْ شُعْبَةَ، كِلَاهُمَا عَنْ قَتَادَةَ بِهَذَا الْإِسْنَادِ نَحْوَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "24",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 124,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "The Book Of The Rules Of Inheritance",
+                    "chapterUrdu": "وراث کے مقررہ حصوں کا بیان",
+                    "chapterArabic": "كتاب الْفَرَائِضِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11716,
+                "hadithNumber": "4152",
+                "englishNarrator": "Al-Bara' (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "The last verse revealed in the Holy Qur'an is: They ask thee for a religious verdict; say: Allah gives you a religious verdict about Kalala (the person who has neither parents nor children) (iv 177).",
+                "hadithUrdu": "قرآن کی آخری آیت جو نازل ہوئی ( یہ تھی ) ( يَسْتَفْتُونَكَ قُلِ اللَّـهُ يُفْتِيكُمْ فِي الْكَلَالَةِ ۚ ) \" وہ آپ سے فتویٰ مانگتے ہیں ، کہہ دیجئے : اللہ تمہیں کلالہ کے بارے میں فتویٰ دیتا ہے.",
+                "urduNarrator": "ہم سے علی بن خشرم نے بیان کیا، کہا ہم سے وکیع نے بیان کیا، ابن ابی خالد نے ابواسحاق سے اور انہوں نے حضرت براء ( بن عازب ) رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ خَشْرَمٍ، أَخْبَرَنَا وَكِيعٌ، عَنِ ابْنِ أَبِي خَالِدٍ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ، قَالَ: آخِرُ آيَةٍ أُنْزِلَتْ مِنَ الْقُرْآنِ: {يَسْتَفْتُونَكَ قُلِ اللهُ يُفْتِيكُمْ فِي الْكَلَالَةِ.",
+                "headingArabic": "آخِرِ آيَةٍ أُنْزِلَتْ آيَةُ الْكَلاَلَةِ ‏‏",
+                "headingUrdu": "آخری آیت جو نازل ہونے والی تھی وہ کلالہ کی آیت تھی۔",
+                "headingEnglish": "The Last Verse To Be Revealed Was The Verse Of Kalalah",
+                "chapterId": "24",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 124,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "The Book Of The Rules Of Inheritance",
+                    "chapterUrdu": "وراث کے مقررہ حصوں کا بیان",
+                    "chapterArabic": "كتاب الْفَرَائِضِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11717,
+                "hadithNumber": "4153",
+                "englishNarrator": "Abu Ishaq said that he heard al-Bara' bin 'Azib رضی اللہ عنہ say:",
+                "hadithEnglish": "The last verse revealed (in the Holy Quran) is that pertaining to Kalala, and the last sura revealed is Sura al-Bara'at.",
+                "hadithUrdu": "آخری آیت جو نازل کی گئی ، آیت کلالہ ہے اور آخری سورت جو نازل کی گئی ، سورہ براءت ہے ۔ ( سورہ توبہ کا دوسرا نام ، سورت براءت ہے.",
+                "urduNarrator": "ہم سے محمد بن المثنیٰ اور ابن بشار نے بیان کیا، کہا کہ ہم سے محمد بن جعفر نے بیان کیا، شعبہ نے ہمیں ابواسحاق سے حدیث بیان کی ، انہوں نے کہا : میں نے حضرت براء بن عازب رضی اللہ عنہ سے سنا ، وہ کہہ رہے تھے",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ بَشَّارٍ، قَالَا: حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، قَالَ: سَمِعْتُ الْبَرَاءَ بْنَ عَازِبٍ، يَقُولُ: آخِرُ آيَةٍ أُنْزِلَتْ: آيَةُ الْكَلَالَةِ، وَآخِرُ سُورَةٍ أُنْزِلَتْ: بَرَاءَةُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "24",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 124,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "The Book Of The Rules Of Inheritance",
+                    "chapterUrdu": "وراث کے مقررہ حصوں کا بیان",
+                    "chapterArabic": "كتاب الْفَرَائِضِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11718,
+                "hadithNumber": "4154",
+                "englishNarrator": "Abu Ishaq said he heard al-Bara' bin 'Azib ( رضی اللہ عنہ) say: :",
+                "hadithEnglish": "The last complete sura revealed (in the Holy Qur'an) is Sura Tauba (i.e. al-Bara'at, ix.), and the last verse revealed is that pertaining to Kalala.",
+                "hadithUrdu": "آخری سورت جو پوری نازل کی گئی ، سورہ توبہ ہے اور آخری آیت جو نازل کی گئی ، آیت کلالہ ہے.",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم الحنظَلی نے بیان کیا، کہا ہم سے عیسیٰ نے بیان کیا اور وہ ابن یونس ہیں, زکریا نے ہمیں ابواسحاق کے واسطے سے حضرت براء رضی اللہ عنہ سے حدیث بیان کی کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ، أَخْبَرَنَا عِيسَى وَهُوَ ابْنُ يُونُسَ، حَدَّثَنَا زَكَرِيَّا، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ، أَنَّ آخِرَ سُورَةٍ أُنْزِلَتْ تَامَّةً: سُورَةُ التَّوْبَةِ، وَأَنَّ آخِرَ آيَةٍ أُنْزِلَتْ: آيَةُ الْكَلَالَةِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "24",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 124,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "The Book Of The Rules Of Inheritance",
+                    "chapterUrdu": "وراث کے مقررہ حصوں کا بیان",
+                    "chapterArabic": "كتاب الْفَرَائِضِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11719,
+                "hadithNumber": "4155",
+                "englishNarrator": "Aba Ishaq A similar (as no. 4154) was narrated from al-Bara' ( رضی اللہ عنہ) except that he said:",
+                "hadithEnglish": "\"The last sura that was revealed complete.",
+                "hadithUrdu": "آخری سورت جو مکمل نازل کی گئی ۔ ( تامة کے بجائے كاملة کے الفاظ ہیں).",
+                "urduNarrator": "ہم سے ابو کریب نے بیان کیا، کہا ہم سے یحییٰ نے بیان کیا، یعنی ابن آدم نے, عمار بن رزیق نے ہمیں ابواسحاق کے حوالے سے حضرت براء رضی اللہ عنہ سے اسی کے مانند حدیث بیان کی مگر انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا يَحْيَى يَعْنِي ابْنَ آدَمَ، حَدَّثَنَا عَمَّارٌ وَهُوَ ابْنُ رُزَيْقٍ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ، بِمِثْلِهِ، غَيْرَ أَنَّهُ قَالَ: آخِرُ سُورَةٍ أُنْزِلَتْ كَامِلَةً.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "24",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 124,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "The Book Of The Rules Of Inheritance",
+                    "chapterUrdu": "وراث کے مقررہ حصوں کا بیان",
+                    "chapterArabic": "كتاب الْفَرَائِضِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11720,
+                "hadithNumber": "4156",
+                "englishNarrator": "Al-Bara' (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "The last verse revealed was: They ask of thee religious verdict.. (iv. 177).",
+                "hadithUrdu": "آخری آیت جو اتاری گئی ، ( يَسْتَفْتُونَكَ ) ہے.",
+                "urduNarrator": "ہم سے عمرو ناقد نے بیان کیا، کہا ہم سے ابو احمد الزبیری نے بیان کیا، کہا ہم سے مالک بن مغل نے بیان کیا, ابوسفر نے حضرت براء رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا عَمْرٌو النَّاقِدُ، حَدَّثَنَا أَبُو أَحْمَدَ الزُّبَيْرِيُّ، حَدَّثَنَا مَالِكُ بْنُ مِغْوَلٍ، عَنْ أَبِي السَّفَرِ، عَنِ الْبَرَاءِ، قَالَ: آخِرُ آيَةٍ أُنْزِلَتْ: يَسْتَفْتُونَكَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "24",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 124,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "The Book Of The Rules Of Inheritance",
+                    "chapterUrdu": "وراث کے مقررہ حصوں کا بیان",
+                    "chapterArabic": "كتاب الْفَرَائِضِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11721,
+                "hadithNumber": "4157",
+                "englishNarrator": "Abu Huraira (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "When the body of a dead person having burden of debt upon him was brought to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) he would ask whether he had left property enough to clear off his debt, and if the property left had been sufficient for that (purpose), he observed funeral prayer for him, otherwise he said (to his companions): You observe prayer for your companion. But when Allah opened the gateways of victory for him, he said: I am nearer to the believers than themselves, so if anyone dies leaving a debt, its payment is my responsibility, and if anyone leaves a property, it goes to his heirs.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے خدا کی دعا اور سلامتی ہو اس پر ایک مردہ آدمی لایا جائے گا اور پوچھا جائے گا۔\"کیا اس نے اپنا قرض ادا کرنے کے لیے کچھ چھوڑا ہے؟\" اگر ایسا ہوتا کہ اس نے اپنے فرض کو ادا کرنے میں کوتاہی کی ہو تو وہ اس کے لیے دعا کرے گا، ورنہ وہ کہے گا: اپنے ساتھی کے لیے دعا کرو جب اللہ تعالیٰ نے اس پر فتوحات نازل کیں، تو اس نے کہا: میں مومنوں سے زیادہ حقدار ہوں۔ \" جو شخص فوت ہو جائے اور اس پر قرض ہو تو میں اسے ادا کروں گا اور جو مال چھوڑے گا وہ اس کے وارثوں کا ہے۔",
+                "urduNarrator": "مجھ سے زہیر بن حرب نے بیان کیا، کہا ہم سے ابو صفوان امیہ نے بیان کیا، یونس عیلی کی سند سے، اور مجھ سے ہرملہ بن یحییٰ نے بیان کیا، اور اس کے الفاظ بھی، انہوں نے کہا: ہم سے عبداللہ بن وہب نے بیان کیا، کہا کہ مجھ سے یونس نے بیان کیا، انہوں نے ابن شہاب سے، وہ ابو سلمہ بن عبدالرحمٰن سے، انہوں نے ابوہریرہ رضی اللہ عنہ سے کہ",
+                "hadithArabic": "وحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا أَبُو صَفْوَانَ الْأُمَوِيُّ، عَنْ يُونُسَ الْأَيْلِيِّ، ح وحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، وَاللَّفْظُ لَهُ، قَالَ: أَخْبَرَنَا عَبْدُ اللهِ بْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، كَانَ يُؤْتَى بِالرَّجُلِ الْمَيِّتِ عَلَيْهِ الدَّيْنُ، فَيَسْأَلُ: «هَلْ تَرَكَ لِدَيْنِهِ مِنْ قَضَاءٍ؟» فَإِنْ حُدِّثَ أَنَّهُ تَرَكَ وَفَاءً، صَلَّى عَلَيْهِ، وَإِلَّا، قَالَ: «صَلُّوا عَلَى صَاحِبِكُمْ»، فَلَمَّا فَتَحَ اللهُ عَلَيْهِ الْفُتُوحَ، قَالَ: «أَنَا أَوْلَى بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ، فَمَنْ تُوُفِّيَ وَعَلَيْهِ دَيْنٌ فَعَلَيَّ قَضَاؤُهُ، وَمَنْ تَرَكَ مَالًا فَهُوَ لِوَرَثَتِهِ.",
+                "headingArabic": "مَنْ تَرَكَ مَالاً فَلِوَرَثَتِهِ",
+                "headingUrdu": "جو مال چھوڑتا ہے وہ اس کے وارثوں کے لیے ہے۔",
+                "headingEnglish": "Whoever Leaves Behind Wealth, It Is For His Heirs",
+                "chapterId": "24",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 124,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "The Book Of The Rules Of Inheritance",
+                    "chapterUrdu": "وراث کے مقررہ حصوں کا بیان",
+                    "chapterArabic": "كتاب الْفَرَائِضِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11722,
+                "hadithNumber": "4158",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of al-Zuhri through another chain of transmitters.",
+                "hadithUrdu": "ہم سے عبد الملک بن شعیب بن لیث نے بیان کیا، مجھ سے میرے والد نے بیان کیا، ان سے میرے دادا نے بیان کیا، مجھ سے عقیل بن نے بیان کیا، مجھ سے زہیر بن حرب نے بیان کیا، ان سے یعقوب بن عبداللہ نے ہم سے ابراہیم، میرے بھتیجے ابن شہاب نے بیان کیا، ہم سے ابن نمیر نے بیان کیا، ہم سے میرے والد نے بیان کیا، ہم سے ابن ابی ذہب نے بیان کیا، یہ سب الزہری کی سند سے اس کے ساتھ ہیں۔ روایت کا سلسلہ یہ حدیث ہے۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ شُعَيْبِ بْنِ اللَّيْثِ، حَدَّثَنِي أَبِي، عَنْ جَدِّي، حَدَّثَنِي عُقَيْلٌ، ح وحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا ابْنُ أَخِي ابْنِ شِهَابٍ، ح وحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، كُلُّهُمْ عَنِ الزُّهْرِيِّ، بِهَذَا الْإِسْنَادِ هَذَا الْحَدِيثَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "24",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 124,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "The Book Of The Rules Of Inheritance",
+                    "chapterUrdu": "وراث کے مقررہ حصوں کا بیان",
+                    "chapterArabic": "كتاب الْفَرَائِضِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11723,
+                "hadithNumber": "4159",
+                "englishNarrator": "Abn Huraira ( رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) having said this: By Him in Whose Hand is the life of Muhammad, there is no believer on the earth with whom I am not the nearest among all the people. He who amongst you (dies) and leaves a debt, I am there to pay it, and he who amongst you (dies) leaving behind children I am there to look after them. And he who amongst You leaves behind property, that is for the inheritor whoever he is.",
+                "hadithUrdu": "آپ نے فرمایا : \" اس ذات کی قسم جس کے ہاتھ میں محمد کی جان ہے! روئے زمین پر کوئی مومن نہیں مگر میں سب لوگوں کی نسبت اس کے زیادہ قریب ہوں ، تم میں سے جس نے بھی جو قرض یا اولاد چھوڑی ( جس کے ضائع ہونے کا ڈر ہے ) تو میں اس کا ذمہ دار ہوں اور جس نے مال چھوڑا وہ عصبہ ( قرابت دار جو کسی طرح بھی وارث بن سکتا ہو اس ) کا ہے ، وہ جو بھی ہو.",
+                "urduNarrator": "مجھ سے محمد بن رافع نے بیان کیا، ہم سے شبابہ نے بیان کیا، انہوں نے کہا: مجھ سے ورقہ نے ابو الزناد کی سند سے بیان کیا، اعرج نے حضرت ابوہریرہ رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے روایت کی",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا شَبَابَةُ، قَالَ: حَدَّثَنِي وَرْقَاءُ، عَنْ أَبِي الزِّنَادِ، عَنِ الْأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «وَالَّذِي نَفْسُ مُحَمَّدٍ بِيَدِهِ، إِنْ عَلَى الْأَرْضِ مِنْ مُؤْمِنٍ إِلَّا أَنَا أَوْلَى النَّاسِ بِهِ، فَأَيُّكُمْ مَا تَرَكَ دَيْنًا، أَوْ ضَيَاعًا فَأَنَا مَوْلَاهُ، وَأَيُّكُمْ تَرَكَ مَالًا، فَإِلَى الْعَصَبَةِ مَنْ كَانَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "24",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 124,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "The Book Of The Rules Of Inheritance",
+                    "chapterUrdu": "وراث کے مقررہ حصوں کا بیان",
+                    "chapterArabic": "كتاب الْفَرَائِضِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11724,
+                "hadithNumber": "4160",
+                "englishNarrator": "Hammam bin Munabbih reported:",
+                "hadithEnglish": "This is what Abu Huraira (رضی اللہ عنہ ) narrated to us from Allah's Messenger (ﷺ). And he narrated many a hadith, and one was this: Allah's Messenger (ﷺ) him said: I am, according to the Book of Allah, the Exalted and Majestic, nearest to the believers of all the human beings. So whoever amongst you dies in debt or leaves behind destitute children, you should call me (for help) ), for I am his guardian. And who amongst you leaves property, his inheritor is entitled to get it, whoever he is.",
+                "hadithUrdu": "یہ وہ احادیث ہیں جو ہمیں حضرت ابوہریرہ رضی اللہ عنہ نے رسول اللہ صلی اللہ علیہ وسلم سے بیان کیں ، پھر انہوں نے چند احادیث بیان کیں ، ان میں سے یہ بھی تھی اور رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : اللہ عزوجل کی کتاب کی رو سے میں مومنوں کے ، ( ان کی اپنی ذات سمیت ) سب لوگوں کی نسبت زیادہ قریب ہوں ، تم میں سے جو قرض یا اولاد چھوڑ جائے تو مجھے بلانا میں اس کا ولی ہوں اور جو مال چھوڑ جائے تو اس کے مال کے معاملے میں ( ذوی الفروض کے حصے دینے کے بعد ) اس کے عصبہ ( قریب ترین مرد رشتہ دار ) کو ترجیح دی جائے ، وہ جو بھی ہو.",
+                "urduNarrator": "ہم سے محمد بن رافع نے بیان کیا، کہا ہم سے عبدالرزاق نے بیان کیا، کہا ہم سے معمر نے بیان کیا, ہمام بن منبہ سے روایت ہے ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ: هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَذَكَرَ أَحَادِيثَ مِنْهَا، وَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «أَنَا أَوْلَى النَّاسِ بِالْمُؤْمِنِينَ فِي كِتَابِ اللهِ عَزَّ وَجَلَّ، فَأَيُّكُمْ مَا تَرَكَ دَيْنًا، أَوْ ضَيْعَةً، فَادْعُونِي فَأَنَا وَلِيُّهُ، وَأَيُّكُمْ مَا تَرَكَ مَالًا، فَلْيُؤْثَرْ بِمَالِهِ عَصَبَتُهُ مَنْ كَانَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "24",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 124,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "The Book Of The Rules Of Inheritance",
+                    "chapterUrdu": "وراث کے مقررہ حصوں کا بیان",
+                    "chapterArabic": "كتاب الْفَرَائِضِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11725,
+                "hadithNumber": "4161",
+                "englishNarrator": "Abu Huraira (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: He who leaves property, that is for the inheritors; and he who leaves behind destitute children, then it is my responsibility (to look after them).",
+                "hadithUrdu": "آپ نے فرمایا : \" جس نے مال چھوڑا وہ اس کے ورثاء کا ہے اور جس نے بوجھ ( بے سہارا اولاد ہو یا قرض ) چھوڑا وہ ہمارے ذمہ ہے.",
+                "urduNarrator": "معاذ عنبری نے ہمیں حدیث بیان کی : ہمیں شعبہ نے عدی سے حدیث بیان کی کہ انہوں نے ابوحازم سے سنا ، انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا عُبَيْدُ اللهِ بْنُ مُعَاذٍ الْعَنْبَرِيُّ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ عَدِيٍّ، أَنَّهُ سَمِعَ أَبَا حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ: «مَنْ تَرَكَ مَالًا فَلِلْوَرَثَةِ، وَمَنْ تَرَكَ كَلًّا فَإِلَيْنَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "24",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 124,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "The Book Of The Rules Of Inheritance",
+                    "chapterUrdu": "وراث کے مقررہ حصوں کا بیان",
+                    "chapterArabic": "كتاب الْفَرَائِضِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11726,
+                "hadithNumber": "4162",
+                "englishNarrator": "Shubah narrated (a hadith similar to no.4161) with this chain, except that in the Hadith of Ghundar it says:",
+                "hadithEnglish": "\"Whoever leaves behind children, I will take care of them.\"",
+                "hadithUrdu": "\" جس نے بوجھ چھوڑا اس کی ذمہ داری میں نے لے لی.",
+                "urduNarrator": "مجھ سے ابوبکر بن نافع نے بیان کیا,  غندر اور عبدالرحمن بن مہدی نے کہا : ہمیں شعبہ نے اسی سند کے ساتھ حدیث بیان کی ، مگر غندر کی حدیث میں ہے",
+                "hadithArabic": "وحَدَّثَنِيهِ أَبُو بَكْرِ بْنُ نَافِعٍ، حَدَّثَنَا غُنْدَرٌ، ح وحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ يَعْنِي ابْنَ مَهْدِيٍّ، قَالَا: حَدَّثَنَا شُعْبَةُ، بِهَذَا الْإِسْنَادِ، غَيْرَ أَنَّ فِي حَدِيثِ غُنْدَرٍ: «وَمَنْ تَرَكَ كَلًّا وَلِيتُهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "24",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 124,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "The Book Of The Rules Of Inheritance",
+                    "chapterUrdu": "وراث کے مقررہ حصوں کا بیان",
+                    "chapterArabic": "كتاب الْفَرَائِضِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11727,
+                "hadithNumber": "4163",
+                "englishNarrator": "Umar bin Khattab ( رضی اللہ عنہ) reported:",
+                "hadithEnglish": "I donated a pedigree horse in the path of Allah. Its possessor made it languish. I thought that he would sell it at a cheap price. I asked Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) about it, whereupon he said: Don't buy it and do not get back your charity, for one who gets back the charity is like a dog who swallows its vomit.",
+                "hadithUrdu": "میں نے اللہ کی راہ میں ( جہاد کرنے کے لیے کسی کو ) ایک عمدہ گھوڑے پر سوار کیا ( اسے دے دیا ) تو اس کے ( نئے ) مالک نے اسے ضائع کر دیا ( اس کی ٹھیک طرح سے خبر گیری نہ کی ) ، میں نے خیال کیا کہ وہ اسے کم قیمت پر فروخت کر دے گا ، چنانچہ میں نے رسول اللہ صلی اللہ علیہ وسلم سے اس کے بارے میں پوچھا تو آپ نے فرمایا : اسے مت خریدو اور نہ اپنا ( دیا ہوا ) صدقہ واپس لو کیونکہ صدقہ واپس لینے والا ایسے کتے کی طرح ہے جو قے ( چاٹنے کے لیے ) اس کی طرف لوٹتا ہے.",
+                "urduNarrator": "عبداللہ بن مسلمہ بن قعنب نے ہمیں حدیث بیان کی : ہمیں مالک بن انس نے زید بن اسلم سے حدیث بیان کی ، انہوں نے اپنے والد سے روایت کی کہ حضرت عمر بن خطاب رضی اللہ عنہ نے کہا",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ مَسْلَمَةَ بْنِ قَعْنَبٍ، حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ أَبِيهِ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ، قَالَ: حَمَلْتُ عَلَى فَرَسٍ عَتِيقٍ فِي سَبِيلِ اللهِ، فَأَضَاعَهُ صَاحِبُهُ، فَظَنَنْتُ أَنَّهُ بَائِعُهُ بِرُخْصٍ، فَسَأَلْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنْ ذَلِكَ، فَقَالَ: «لَا تَبْتَعْهُ، وَلَا تَعُدْ فِي صَدَقَتِكَ، فَإِنَّ الْعَائِدَ فِي صَدَقَتِهِ كَالْكَلْبِ يَعُودُ فِي قَيْئِهِ.",
+                "headingArabic": "كَرَاهَةِ شِرَاءِ الإِنْسَانِ مَا تَصَدَّقَ بِهِ مِمَّنْ تَصَدَّقَ عَلَيْهِ ‏‏",
+                "headingUrdu": "آدمی کے لیے یہ ناپسندیدہ ہے کہ وہ صدقہ میں جس کو دے اس سے خریدے",
+                "headingEnglish": "It Is Disliked For A Man To Buy What He Gave In Charity From The One To Whom He Gave It",
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11728,
+                "hadithNumber": "4164",
+                "englishNarrator": "This hadith has been narrated on the authority of Malik bin Anas with the same chain of transmitters but with this addition:",
+                "hadithEnglish": "Don't buy that even if he gives you for one dirham.",
+                "hadithUrdu": "اسے مت خریدو ، چاہے وہ اسے تم کو ایک درہم میں دے.",
+                "urduNarrator": "مجھ سے زہیر بن حرب نے کہا, عبدالرحمن بن مہدی نے ہمیں مالک بن انس سے اسی سند کے ساتھ ( یہ ) حدیث بیان کی اور اضافہ کیا",
+                "hadithArabic": "وحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ يَعْنِي ابْنَ مَهْدِيٍّ، عَنْ مَالِكِ بْنِ أَنَسٍ، بِهَذَا الْإِسْنَادِ، وَزَادَ:لَا تَبْتَعْهُ وَإِنْ أَعْطَاكَهُ بِدِرْهَمٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11729,
+                "hadithNumber": "4165",
+                "englishNarrator": "Zaid bin Aslam reported on the authority of his father that",
+                "hadithEnglish": "'Umar (رضی اللہ عنہ) donated a horse in the path of Allah. He found that it had languished in the hand of its possessor, and he was a man of meagre resources He (Hadrat 'Umar رضی اللہ عنہ) intended to buy it. He came to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) and made a mention of that to him, whereupon he said: Don't buy that even if you get it for a dirham for he who gets back the charity is like a dog which swallows its vomit.",
+                "hadithUrdu": "حضرت عمر رضی اللہ عنہ سے روایت کی کہ انہوں نے اللہ کی راہ میں ایک گھوڑا سواری کے طور پر دیا ، تو انہوں نے اسے اس کے مالک کے ہاں اس حال میں پایا کہ اس نے اسے ضائع کر دیا تھا اور وہ تنگ دست تھا ، چنانچہ انہوں ( حضرت عمر رضی اللہ عنہ ) نے اسے خریدنے کا ارادہ کیا ، وہ رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے اور آپ کو یہ بات بتائی تو آپ نے فرمایا : \" اسے مت خریدو ، چاہے وہ تمہیں ایک درہم میں دیا جائے ، صدقہ واپس لینے والے کی مثال اس کتے کے جیسی ہے جو اپنی قے میں لوٹ جاتا ہے ( چاٹتا ہے).",
+                "urduNarrator": "مجھ سے امیہ بن بسطام نے بیان کیا، ہم سے یزید نے بیان کیا، یعنی ابن زری نے, روح بن قاسم نے ہمیں زید بن اسلم سے حدیث بیان کی ، انہوں نے اپنے والد سے اور انہوں نے",
+                "hadithArabic": "حَدَّثَنِي أُمَيَّةُ بْنُ بِسْطَامَ، حَدَّثَنَا يَزِيدُ يَعْنِي ابْنَ زُرَيْعٍ، حَدَّثَنَا رَوْحٌ وَهُوَ ابْنُ الْقَاسِمِ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ أَبِيهِ، عَنْ عُمَرَ، أَنَّهُ حَمَلَ عَلَى فَرَسٍ فِي سَبِيلِ اللهِ، فَوَجَدَهُ عِنْدَ صَاحِبِهِ وَقَدْ أَضَاعَهُ، وَكَانَ قَلِيلَ الْمَالِ، فَأَرَادَ أَنْ يَشْتَرِيَهُ، فَأَتَى رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَذَكَرَ ذَلِكَ لَهُ، فَقَالَ: «لَا تَشْتَرِهِ، وَإِنْ أُعْطِيتَهُ بِدِرْهَمٍ، فَإِنَّ مَثَلَ الْعَائِدِ فِي صَدَقَتِهِ، كَمَثَلِ الْكَلْبِ يَعُودُ فِي قَيْئِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11730,
+                "hadithNumber": "4166",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Zaid bin Aslam with the same chain of transmitters but with this (change) that the hadith transmitted on the authority of Malik and Rauh (he was the son of Qisirn) is more complete and lengthy.",
+                "hadithUrdu": "ہم سے ابن ابی عمر نے بیان کیا، ہم سے سفیان نے زید بن اسلم سے اسی سند کے ساتھ ( یہی ) حدیث بیان کی ، البتہ مالک اور روح کی حدیث زیادہ مکمل اور زیادہ ( مفصل ) ہے.",
+                "urduNarrator": null,
+                "hadithArabic": "وَحَدَّثَنَاهُ ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنْ زَيْدِ بْنِ أَسْلَمَ، بِهَذَا الْإِسْنَادِ، غَيْرَ أَنَّ حَدِيثَ مَالِكٍ، وَرَوْحٍ أَتَمُّ وَأَكْثَرُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11731,
+                "hadithNumber": "4167",
+                "englishNarrator": "Ibn 'Umar رضی اللہ عنہ reported:",
+                "hadithEnglish": "'Umar bin al-Khattib ( رضی اللہ عنہ ) donated a horse in the path of Allah and (later on) he found it being sold, and he decided to buy that. He asked the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) about it. whereupon he (the Holy prophet) said: Don't buy that and do not get back what you gave in charity.",
+                "hadithUrdu": "حضرت عمر بن خطاب رضی اللہ عنہ نے اللہ کی راہ میں ایک گھوڑا سواری کے طور پر دیا ، پھر انہوں نے اسے اس حالت میں پایا کہ اس کو فروخت کیا جا رہا تھا ، انہوں نے اسے خریدنے کا ارادہ کیا تو رسول اللہ صلی اللہ علیہ وسلم سے اس کے بارے میں پوچھا ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \" اسے مت خریدو اور ( کبھی ) اپنا صدقہ واپس نہ لو.",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، انہوں نے کہا امام مالک نے نافع سے ، انہوں نے حضرت ابن عمر رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ: قَرَأْتُ عَلَى مَالِكٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ، حَمَلَ عَلَى فَرَسٍ فِي سَبِيلِ اللهِ فَوَجَدَهُ يُبَاعُ، فَأَرَادَ أَنْ يَبْتَاعَهُ، فَسَأَلَ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنْ ذَلِكَ، فَقَالَ: «لَا تَبْتَعْهُ، وَلَا تَعُدْ فِي صَدَقَتِكَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11732,
+                "hadithNumber": "4168",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Ibn Umar رضی اللہ عنہ through another chain of transmitters.",
+                "hadithUrdu": "ہم سے قتیبہ بن سعید اور ابن روم نے بیان کیا، وہ سب لیث بن سعد کی سند سے، اور ہم سے مقدامی نے بیان کیا اور ہم سے محمد بن المثنیٰ نے بیان کیا، کہا: ہم سے انہوں نے بیان کیا۔ ہم سے یحییٰ نے جو القطان ہیں، کہا ہم سے ابن نمیر نے بیان کیا، کہا ہم سے ابو اسامہ نے بیان کیا، کہا ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے ابو اسامہ نے بیان کیا۔یہ سب عبید اللہ کی سند پر ہیں، دونوں نافع کی سند پر ہیں، ابن عمر کی سند پر ہیں، رسول اللہ صلی اللہ علیہ وسلم کی سند پر ہیں، جیسا کہ مالک کی حدیث ہے۔ .",
+                "urduNarrator": null,
+                "hadithArabic": "وَحَدَّثَنَاهُ قُتَيْبَةُ بْنُ سَعِيدٍ، وَابْنُ رُمْحٍ، جَمِيعًا عَنِ اللَّيْثِ بْنِ سَعْدٍ، ح وحَدَّثَنَا الْمُقَدَّمِيُّ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، قَالَا: حَدَّثَنَا يَحْيَى وَهُوَ الْقَطَّانُ، ح وحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، ح وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، كُلُّهُمْ عَنْ عُبَيْدِ اللهِ، كِلَاهُمَا عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، بِمِثْلِ حَدِيثِ مَالِكٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11733,
+                "hadithNumber": "4169",
+                "englishNarrator": "Salim reported from Ibn Umar ( رضی اللہ عنہ):",
+                "hadithEnglish": "'Umar رضی اللہ عنہ donated a horse in the path of Allah and then found it being sold, and he decided to buy that. He asked Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ) about it, whereupon Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: Umar, do not get back what you gave as charity.",
+                "hadithUrdu": "حضرت عمر رضی اللہ عنہ نے اللہ کی راہ میں سواری کے لیے ایک گھوڑا دیا ، پھر انہوں نے اسے دیکھا کہ فروخت کیا جا رہا ہے ۔ تو انہوں نے اس کو خریدنے کا ارادہ کر لیا ، پھر نبی صلی اللہ علیہ وسلم سے پوچھا تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" اے عمر! اپنا صدقہ واپس مت لو.",
+                "urduNarrator": "ہم سے ابن ابی عمر اور عبد بن حمید نے بیان کیا، اور یہ لفظ عبد کے لیے ہے، انہوں نے کہا: ہمیں عبد الرزاق نے خبر دی، ہمیں معمر نے، الزہری کی سند سے, سالم نے حضرت ابن عمر رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، وَعَبْدُ بْنُ حُمَيْدٍ، وَاللَّفْظُ لِعَبْدٍ، قَالَ: أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، أَنَّ عُمَرَ، حَمَلَ عَلَى فَرَسٍ فِي سَبِيلِ اللهِ، ثُمَّ رَآهَا تُبَاعُ، فَأَرَادَ أَنْ يَشْتَرِيَهَا، فَسَأَلَ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لَا تَعُدْ فِي صَدَقَتِكَ يَا عُمَرُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11734,
+                "hadithNumber": "4170",
+                "englishNarrator": "Ibn 'Abbas (رضی اللہ عنہ) reported::",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) having said this: He who gets back his charity is like a dog which vomits, and then returns to that and eats it.",
+                "hadithUrdu": "آپ نے فرمایا : \" اس شخص کی مثال جو صدقہ واپس لیتا ہے اس کتے کی طرح ہے جو قے کرتا ہے ، پھر اپنی قے کی طرف لوٹتا ہے اور کھاتا ہے.",
+                "urduNarrator": "مجھ سے ابراہیم بن موسیٰ رازی اور اسحاق بن ابراہیم نے بیان کیا، انہوں نے کہا:عیسیٰ بن یونس نے ہمیں خبر دی , ہمیں اوزاعی نے ابوجعفر محمد بن علی سے حدیث بیان کی ، انہوں نے ابن مسیب سے ، انہوں نے ابن عباس رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے روایت کی",
+                "hadithArabic": "حَدَّثَنِي إِبْرَاهِيمُ بْنُ مُوسَى الرَّازِيُّ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَا: أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، حَدَّثَنَا الْأَوْزَاعِيُّ، عَنْ أَبِي جَعْفَرٍ مُحَمَّدِ بْنِ عَلِيٍّ، عَنِ ابْنِ الْمُسَيِّبِ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ:مَثَلُ الَّذِي يَرْجِعُ فِي صَدَقَتِهِ، كَمَثَلِ الْكَلْبِ يَقِيءُ، ثُمَّ يَعُودُ فِي قَيْئِهِ فَيَأْكُلُهُ.",
+                "headingArabic": "تَحْرِيمِ الرُّجُوعِ فِي الصَّدَقَةِ وَالْهِبَةِ بَعْدَ الْقَبْضِ إِلَّا مَا وَهَبَهُ لِوَلَدِهِ وَإِنْ سَفَلَ",
+                "headingUrdu": "صدقہ قبول ہونے کے بعد واپس لینے کی ممانعت سوائے اس صورت کے کہ جو باپ بیٹے یا پوتے کو دے",
+                "headingEnglish": "The Prohibition Of Taking Back One's Charity After It Has Been Accepted, Except In The Case Of What A Father Gives To A Son Or Grandson",
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11735,
+                "hadithNumber": "4171",
+                "englishNarrator": null,
+                "hadithEnglish": "Muhammad bin Ali bin Al-Husain mention a similar report (as Hadith no. 4170) with this chain.",
+                "hadithUrdu": "ہم سے ابو کریب محمد بن الاعلٰی نے بیان کیا, ابن مبارک نے ہمیں اوزاعی سے خبر دی ، انہوں نے کہا : میں نے ( ابوجعفر ) محمد بن ( زین العابدین ) علی بن حسین رحمہم اللہ سے سنا ، وہ اسی سند سے اسی طرح بیان کر رہے تھے.",
+                "urduNarrator": null,
+                "hadithArabic": "وَحَدَّثَنَاهُ أَبُو كُرَيْبٍ مُحَمَّدُ بْنُ الْعَلَاءِ، أَخْبَرَنَا ابْنُ الْمُبَارَكِ، عَنِ الْأَوْزَاعِيِّ، قَالَ: سَمِعْتُ مُحَمَّدَ بْنَ عَلِيِّ بْنِ الْحُسَيْنِ، يَذْكُرُ بِهَذَا الْإِسْنَادِ نَحْوَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11736,
+                "hadithNumber": "4172",
+                "englishNarrator": null,
+                "hadithEnglish": "A hadith like this is reported on the authority of Muhammad son of Fatima (رضی اللہ عنہا) daughter of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌).",
+                "hadithUrdu": "مجھ سے حجاج بن شعر نے بیان کیا، ہم سے عبدالصمد نے بیان کیا، ہم سے حرب نے بیان کیا، یحییٰ بن ابی کثیر نے ہمیں حدیث بیان کی : مجھے عبدالرحمن بن عمرو نے حدیث بیان کی کہ انہیں فاطمہ بنت رسول اللہ صلی اللہ علیہ وسلم کے فرزند ( پڑپوتے ) ، محمد ( الباقر ) نے یہ حدیث اسی سند کے ساتھ انہی کی حدیث کی طرح بیان کی.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنِيهِ حَجَّاجُ بْنُ الشَّاعِرِ، حَدَّثَنَا عَبْدُ الصَّمَدِ، حَدَّثَنَا حَرْبٌ، حَدَّثَنَا يَحْيَى وَهُوَ ابْنُ أَبِي كَثِيرٍ، حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ عَمْرٍو، أَنَّ مُحَمَّدَ ابْنَ فَاطِمَةَ بِنْتِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، حَدَّثَهُ بِهَذَا الْإِسْنَادِ نَحْوَ حَدِيثِهِمْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11737,
+                "hadithNumber": "4173",
+                "englishNarrator": "Ibn Abbas ( رضی اللہ عنہ) reported:",
+                "hadithEnglish": "I heard Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) say: The similitude of one who gives a charity and then gets it back is like that of a dog which vomits and then eats its vomit.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم کو یہ فرماتے ہوئے سنا : اس شخص کی مثال جو صدقہ کرتا ہے ، پھر اپنے صدقے کو واپس لے لیتا ہےاس کتے کی طرح ہے جو قے کرتا ہے پھر اپنی قے کھاتا ہے.",
+                "urduNarrator": "مجھ سے ہارون بن سعید العیلی اور احمد بن عیسیٰ نے بیان کیا، کہا کہ ہم سے ابن وہب نے بیان کیا، عمرو نے جو ابن حارث ہیں، بیان کیا, بکیر سے روایت ہے کہ انہوں نے سعید بن مسیب سے سنا ، وہ کہہ رہے تھے : میں نے حضرت ابن عباس رضی اللہ عنہ سے سنا ، وہ کہہ رہے تھے",
+                "hadithArabic": "وحَدَّثَنِي هَارُونُ بْنُ سَعِيدٍ الْأَيْلِيُّ، وَأَحْمَدُ بْنُ عِيسَى، قَالَا: حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي عَمْرٌو وَهُوَ ابْنُ الْحَارِثِ، عَنْ بُكَيْرٍ، أَنَّهُ سَمِعَ سَعِيدَ بْنَ الْمُسَيِّبِ، يَقُولُ: سَمِعْتُ ابْنَ عَبَّاسٍ، يَقُولُ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، يَقُولُ: «إِنَّمَا مَثَلُ الَّذِي يَتَصَدَّقُ بِصَدَقَةٍ، ثُمَّ يَعُودُ فِي صَدَقَتِهِ، كَمَثَلِ الْكَلْبِ يَقِيءُ، ثُمَّ يَأْكُلُ قَيْئَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11738,
+                "hadithNumber": "4174",
+                "englishNarrator": "Ibn Abbas ( رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: One who gets back the gift is like one who eats vomit.",
+                "hadithUrdu": "آپ نے فرمایا : اپنے ہبہ کو واپس لینے والا اپنی قے کی طرف لوٹنے والے کی طرح ہے.",
+                "urduNarrator": "ہم سے محمد بن المثنیٰ اور محمد بن بشار نے بیان کیا، کہا: ہم سے محمد بن جعفر نے بیان کیا، شعبہ نے ہمیں حدیث بیان کی : میں نے قتادہ سے سنا ، وہ سعید بن مسیب سے حدیث بیان کر رہے تھے ، انہوں نے حضرت ابن عباس رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے روایت کی کہ",
+                "hadithArabic": "وحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، قَالَا: حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، سَمِعْتُ قَتَادَةَ، يُحَدِّثُ عَنْ سَعِيدِ بْنِ الْمُسَيِّبِ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ: «الْعَائِدُ فِي هِبَتِهِ كَالْعَائِدِ فِي قَيْئِهِ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 11426,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=457",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=455",
+                "label": "455",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=456",
+                "label": "456",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=457",
+                "label": "457",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=458",
+                "label": "458",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=459",
+                "label": "459",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=460",
+                "label": "460",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=461",
+                "label": "461",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=459",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=459",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=457",
+        "to": 11450,
+        "total": 40465
+    }
+}

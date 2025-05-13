@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 440,
+        "data": [
+            {
+                "id": 11264,
+                "hadithNumber": "3700",
+                "englishNarrator": "Abu Salama reported:",
+                "hadithEnglish": "Fatima bint Qais رضی اللہ عنہ , the sister of al-Dahhak bint Qais رضی اللہ عنہا informed him that Abu Hafs bin Mughira al-Makhzumi divorced her three times and then he proceeded on to the Yemen. The members of his family said to her: There is no maintenance allowance due to you from us. Khalid bin Walid رضی اللہ عنہ along with a group of persons visited Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) in the house of Maimuna رضی اللہ عنہا  and they said: Abu Hafs has divorced his wife with three pronouncements; is there any maintenance allowance due to her? Thereupon Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: No maintenance allowance is due to her, but she is required to spend the 'Idda; and he sent her the message that she should not be hasty in making a decision about herself and commanded her to move to the house of Umm Sharik  رضی اللہ عنہا , and then sent her the message that as the first immigrants (frequently) visit the house of Umm Sharik رضی اللہ عنہا , she should better go to the house of Ibn Umm Maktum, the blind, (and further said: In case you put off your head-dress, he (Ibn Umm Makhtum) will not see you. So she went to his house, and when the 'Idda was over, Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) married her to Usama bin Zaid bin Haritha  رضی اللہ عنہا .",
+                "hadithUrdu": "ضحاک بن قیس رضی اللہ عنہ کی ہمشیرہ فاطمہ بنت قیس رضی اللہ عنہا نے انہیں بتایا کہ ابوحفص بن مغیرہ مخزومی نے اسے تین طلاقیں دے دیں ، پھر یمن کی طرف طلا گیا ، تو اس کے عزیز و اقارب نے اسے کہا : تمہارا خرچ ہمارے ذمے نہیں ہے ۔ خالد بن ولید رضی اللہ عنہ چند ساتھیوں کے ہمراہ آئے ، حضرت میمونہ رضی اللہ عنہا کے گھر رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے اور عرض کی : ابوحفص نے اپنی بیوی کو تین طلاقیں دے دی ہیں ، کیا اس ( کی سابقہ بیوی ) کے لیے خرچہ ہے؟ تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" اس کے لیے خرچہ نہیں ہے جبکہ اس کے لیے عدت ( گزارنا ) ضروری ہے ۔ \" اور آپ نے اس کی طرف پیغام بھیجا : \" اپنے بارے میں مجھ سے ( مشورہ کرنے سے پہلے ) سبقت نہ کرنا ۔ \" اور اسے حکم دیا کہ ام شریک رضی اللہ عنہا کے ہاں منتقل ہو جائے ، پھر اسے پیغام بھیجا : \" ام شریک کے ہاں اولین مہاجرین آتے ہیں ، تم ابن مکتوم اعمیٰ کے ہاں چلی جاؤ ، جب ( کبھی ) تم اپنی اوڑھنی اتارو گی تو وہ تمہیں نہیں دیکھ سکیں گے ۔ \" وہ ان کے ہاں چلی گئیں ، جب ان کی عدت پوری ہو گئی تو رسول اللہ صلی اللہ علیہ وسلم نے ان کا نکاح اسامہ بن زید بن حارثہ رضی اللہ عنہا سے کر دیا.",
+                "urduNarrator": "مجھ سے محمد بن رافع نے بیان کیا، کہا ہم سے حسین بن محمد نے بیان کیا، ہم سے شیبان نے بیان کیا, یحییٰ بن ابی کثیر سے روایت ہے ، ( کہا : ) مجھے ابوسلمہ نے خبر دی کہ",
+                "hadithArabic": "وحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا حُسَيْنُ بْنُ مُحَمَّدٍ، حَدَّثَنَا شَيْبَانُ، عَنْ يَحْيَى وَهُوَ ابْنُ أَبِي كَثِيرٍ، أَخْبَرَنِي أَبُو سَلَمَةَ، أَنَّ فَاطِمَةَ بِنْتَ قَيْسٍ، أُخْتَ الضَّحَّاكِ بْنِ قَيْسٍ، أَخْبَرَتْهُ، أَنَّ أَبَا حَفْصِ بْنَ الْمُغِيرَةِ الْمَخْزُومِيَّ، طَلَّقَهَا ثَلَاثًا، ثُمَّ انْطَلَقَ إِلَى الْيَمَنِ، فَقَالَ لَهَا أَهْلُهُ: لَيْسَ لَكِ عَلَيْنَا نَفَقَةٌ، فَانْطَلَقَ خَالِدُ بْنُ الْوَلِيدِ فِي نَفَرٍ، فَأَتَوْا رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي بَيْتِ مَيْمُونَةَ، فَقَالُوا: إِنَّ أَبَا حَفْصٍ طَلَّقَ امْرَأَتَهُ ثَلَاثًا، فَهَلْ لَهَا مِنْ نَفَقَةٍ؟ فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لَيْسَتْ لَهَا نَفَقَةٌ، وَعَلَيْهَا الْعِدَّةُ»، وَأَرْسَلَ إِلَيْهَا أَنْ لَا تَسْبِقِينِي بِنَفْسِكِ، وَأَمَرَهَا أَنْ تَنْتَقِلَ إِلَى أُمِّ شَرِيكٍ، ثُمَّ أَرْسَلَ إِلَيْهَا: «أَنَّ أُمَّ شَرِيكٍ يَأْتِيهَا الْمُهَاجِرُونَ الْأَوَّلُونَ، فَانْطَلِقِي إِلَى ابْنِ أُمِّ مَكْتُومٍ الْأَعْمَى، فَإِنَّكِ إِذَا وَضَعْتِ خِمَارَكِ لَمْ يَرَكِ»، فَانْطَلَقَتْ إِلَيْهِ، فَلَمَّا مَضَتْ عِدَّتُهَا أَنْكَحَهَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أُسَامَةَ بْنَ زَيْدِ بْنِ حَارِثَةَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11265,
+                "hadithNumber": "3701",
+                "englishNarrator": "Fatima bint Qais رضی اللہ عنہا reported:",
+                "hadithEnglish": "I had been married to a person from Banu Makhzum and he divorced me with irrevocable divorce. I sent a message to his family asking for maintenance allowance, and the rest of the hadith has been transmitted with a slight change of words.",
+                "hadithUrdu": "میں بنو مخزوم کے ایک آدمی کے ہاں تھی ۔ اس نے مجھے تین طلاقیں دے دیں تو میں نے اس کے گھر والوں کے ہاں پیغام بھیجا ، میں خرچ کا مطالبہ کر رہی تھی ۔ ۔ ۔ آگے ان سب نے ابوسلمہ سے یحییٰ بن کثیر کی حدیث کے مانند بیان کیا ، البتہ محمد بن عمرو کی حدیث میں ہے : \" اپنے ( نکاح کے ) معاملے میں ( ہمارے ساتھ مشورہ کیے بغیر ) ہمیں پیچھے نہ چھوڑ دینا.",
+                "urduNarrator": "یحییٰ بن ایوب ، قتیبہ بن سعید اور ابن حجر نے ہمیں حدیث سنائی ، انہوں نے کہا : ہمیں اسماعیل ، یعنی ابن جعفر نے محمد بن عمرو سے حدیث بیان کی ، انہوں نے ہمیں ابوسلمہ سے ، انہوں نے فاطمہ بنت قیس رضی اللہ عنہا سے حدیث بیان کی ۔ اسی طرح ہمیں ابوبکر بن ابی شیبہ نے حدیث بیان کی ۔ ( کہا : ) ہم سے محمد بن بشر نے حدیث بیان کی ، ( کہا : ) ہم سے محمد بن عمرو نے باقی ماندہ سابقہ سند کے ساتھ حدیث بیان کی : ( ابوسلمہ نے ) کہا : میں نے فاطمہ بنت قیس رضی اللہ عنہا کے منہ سے سن کر یہ حدیث لکھی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، وَابْنُ حُجْرٍ، قَالُوا: حَدَّثَنَا إِسْمَاعِيلُ يَعْنُونَ ابْنَ جَعْفَرٍ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ فَاطِمَةَ بِنْتِ قَيْسٍ، ح وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرٍو، حَدَّثَنَا أَبُو سَلَمَةَ، عَنْ فَاطِمَةَ بِنْتِ قَيْسٍ، قَالَ: كَتَبْتُ ذَلِكَ مِنْ فِيهَا كِتَابًا، قَالَتْ: كُنْتُ عِنْدَ رَجُلٍ مِنْ بَنِي مَخْزُومٍ، فَطَلَّقَنِي الْبَتَّةَ، فَأَرْسَلْتُ إِلَى أَهْلِهِ أَبْتَغِي النَّفَقَةَ، وَاقْتَصُّوا الْحَدِيثَ بِمَعْنَى حَدِيثِ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، غَيْرَ أَنَّ فِي حَدِيثِ مُحَمَّدِ بْنِ عَمْرٍو: «لَا تَفُوتِينَا بِنَفْسِكِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11266,
+                "hadithNumber": "3702",
+                "englishNarrator": "Fatima bint Qais ( رضی اللہ عنہا) reported:",
+                "hadithEnglish": "She had been married to Abu 'Amr bin Hafs bin al-Mughira رضی اللہ عنہ and he divorced her with three pronouncements. She stated that she went to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) asking him about abandoning that house. He commanded her to move to the house of Ibn Umm Maktum رضی اللہ عنہ , the blind. Marwan refused to testify the divorced woman abandoning her house (before the 'Idda was over). 'Urwa said that 'A'isha رضی اللہ عنہا objected to (the words of) Fatima bint Qais رضی اللہ عنہا .",
+                "hadithUrdu": "وہ ابو عمرو بن حفص بن مغیرہ رضی اللہ عنہ کی بیوی تھیں ، انہوں نے اسے تینوں طلاقوں میں سے آخری طلاق بھی دے دی ، ان کا خیال تھا کہ وہ اپنے گھر سے باہر نکلنے کے بارے میں فتویٰ پوچھنے کے لیے رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئیں ، تو آپ صلی اللہ علیہ وسلم نے انہیں حکم دیا کہ نابینا ( صحابی ) ابن ام مکتوم رضی اللہ عنہ کے گھر منتقل ہو جائیں ۔ مروان نے ( جب وہ مدینے کا عامل تھا ) اس بات سے انکار کر دیا کہ وہ مطلقہ عورت کے اپنے گھر سے نکلنے کے بارے میں ان کی ( بات کی ) تصدیق کرے ۔ اور عروہ نے کہا : حضرت عائشہ رضی اللہ عنہا نے بھی فاطمہ بنت قیس رضی اللہ عنہا کے سامنے اس بات کو قبول کرنے سے انکار کر دیا.",
+                "urduNarrator": "ہم سب کو حسن بن علی الحلوانی اور عبد بن حمید نے بیان کیا، یعقوب بن ابراہیم بن سعد کی سند سے، میرے والد نے ہم سے بیان کیا, صالح نے ابن شہاب سے روایت کی ، ابوسلمہ بن عبدالرحمٰن بن عوف نے انہیں خبر دی کہ فاطمہ بنت قیس رضی اللہ عنہا نے انہیں بتایا کہ",
+                "hadithArabic": "حَدَّثَنَا حَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ، وَعَبْدُ بْنُ حُمَيْدٍ، جَمِيعًا عَنْ يَعْقُوبَ بْنِ إِبْرَاهِيمَ بْنِ سَعْدٍ، حَدَّثَنَا أَبِي، عَنْ صَالِح، عَنِ ابْنِ شِهَابٍ، أَنَّ أَبَا سَلَمَةَ بْنَ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، أَخْبَرَهُ، أَنَّ فَاطِمَةَ بِنْتَ قَيْسٍ، أَخْبَرَتْهُ أَنَّهَا كَانَتْ تَحْتَ أَبِي عَمْرِو بْنِ حَفْصِ بْنِ الْمُغِيرَةِ، فَطَلَّقَهَا آخِرَ ثَلَاثِ تَطْلِيقَاتٍ، فَزَعَمَتْ أَنَّهَا جَاءَتْ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ تَسْتَفْتِيهِ فِي خُرُوجِهَا مِنْ بَيْتِهَا، «فَأَمَرَهَا أَنْ تَنْتَقِلَ إِلَى ابْنِ أُمِّ مَكْتُومٍ الْأَعْمَى»، «فَأَبَى مَرْوَانُ أَنْ يُصَدِّقَهُ فِي خُرُوجِ الْمُطَلَّقَةِ مِنْ بَيْتِهَا»، وقَالَ عُرْوَةُ: إِنَّ عَائِشَةَ أَنْكَرَتْ ذَلِكَ عَلَى فَاطِمَةَ بِنْتِ قَيْسٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11267,
+                "hadithNumber": "3703",
+                "englishNarrator": null,
+                "hadithEnglish": "A similar report (as no. 3703) was narrated from Shihab with this chai, as well of the comment of Urwah about 'Aishah's رضی اللہ عنہا objection to Fatimah bint Qais رضی اللہ عنہا .",
+                "hadithUrdu": "مجھ سے محمد بن رافع نے بیان کیا، ہم سے حوین نے بیان کیا، ہم سے لیث نے بیان کیا،عقیل نے ابن شہاب سے اسی سند کے ساتھ اسی کے مانند روایت کی ، ساتھ عروہ کا قول بھی ذکر کیا کہ حضرت عائشہ رضی اللہ عنہا نے فاطمہ رضی اللہ عنہا کے سامنے اس بات کو ناقابل قبول قرار دیا.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنِيهِ مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا حُجَيْنٌ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، بِهَذَا الْإِسْنَادِ مِثْلَهُ، مَعَ قَوْلِ عُرْوَةَ: إِنَّ عَائِشَةَ أَنْكَرَتْ ذَلِكَ عَلَى فَاطِمَةَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11268,
+                "hadithNumber": "3704",
+                "englishNarrator": "Ubaidullah bin 'Abdullah bin 'Utba reported:",
+                "hadithEnglish": "'Amr bin Hafs bin al-Mughira رضی اللہ عنہ set out along with 'Ali bin Abi Talib ( رضی اللہ عنہ) to the Yemen and sent to his wife the one pronouncement of divorce which was still left from the (irrevocable) divorce; and he commanded al-Harith bin Hisham and 'Ayyash bin Abu Rabi'a to give her maintenance allowance. They said to her: By Allah, there is no maintenance allowance for you, except in case you are pregnant. She came to Allah's Apostle (may peace he upon him) and mentioned their opinion to him, whereupon he said: There is no maintenance allowance for you. Then she sought permission to move (to another place), and he (the Holy Prophet) permitted her. She said: Allah's Messenger, where (should I go)? He said: To the house of Ibn Umm Maktum and, as he is blind, she could put off her garmeqts in his presence and he would not see her. And when her 'Idda was over. Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) married her to Usama bin Zaid رضی اللہ عنہ . Marwan (the governor of Medina) sent Qabisa bin Dhuwaib in order to ask her about this hadith, and she narrated it to him, whereupon Marwan said: We have not heard this hadith but from a woman. We would adopt a safe (path) where we found the people. Fatima رضی اللہ عنہا said that when these words of, Marwan were conveyed to her. There is between me and you the word of Allah, the Exalted and Majestic: Do not turn them out of their houses. She asserted: This is in regard to the revocable divorce what new (turn can the event take) after three pronouncements (separation between irrevocable). Why do you say there is no maintenance allowance for her if she is not pregnant? Then on what ground do you restrain her?",
+                "hadithUrdu": "ابو عمرو بن حفص بن مغیرہ رضی اللہ عنہ حضرت علی بن ابی طالب رضی اللہ عنہ کے ساتھ یمن کی جانب گئے اور اپنی بیوی فاطمہ بنت قیس رضی اللہ عنہا کو اس کی ( تین ) طلاقوں میں سے جو طلاق باقی تھی بھیج دی ، اور انہوں نے ان کے بارے میں ( اپنے عزیزوں ) حارث بن ہشام اور عیاش بن ابی ربیعہ سے کہا کہ وہ انہیں خرچ دیں ، تو ان دونوں نے ان ( فاطمہ ) سے کہا : اللہ کی قسم! تمہارے لیے کوئی خرچ نہیں الا یہ کہ تم حاملہ ہوتی ۔ وہ نبی صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئیں اور آپ کو ان دونوں کی بات بتائی تو آپ صلی اللہ علیہ وسلم نے فرمایا : \" تمہارے لیے خرچ نہیں ( بنتا ۔ ) \" انہوں نے آپ سے نقل مکانی کی اجازت چاہی تو آپ نے انہیں اجازت دے دی ۔ انہوں نے پوچھا : اللہ کے رسول! کہاں؟ فرمایا : \" ابن ام مکتوم کے ہاں ۔ \" وہ نابینا تھے ، وہ ان کے سامنے اپنے ( اوڑھنے کے ) کپڑے اتارتیں تو وہ انہیں دیکھ نہیں سکتے تھے ۔ جب ان کی عدت پوری ہوئی تو نبی صلی اللہ علیہ وسلم نے ان کا نکاح اسامہ بن زید رضی اللہ عنہ سے کر دیا ۔ اس کے بعد مروان نے اس حدیث کے بارے میں دریافت کرنے کے لیے قبیصہ بن ذؤیب کو ان کے پاس بھیجا تو انہوں نے اسے یہ حدیث بیان کی ، اس پر مروان نے کہا : ہم نے یہ حدیث صرف ایک عورت سے سنی ہے ، ہم تو اسی مقبول طریقے کو تھامے رکھیں گے جس پر ہم نے تمام لوگوں کو پایا ہے ۔ جب فاطمہ رضی اللہ عنہا کو مروان کی یہ بات پہنچی تو انہوں نے کہا : میرے اور تمہارے درمیان قرآن فیصل ہے ۔ اللہ تعالیٰ نے فرمایا : \" تم انہیں ان کے گھروں سے مت نکالو ۔ \" آیت مکمل کی ۔ انہوں نے کہا : یہ آیت تو ( جس طرح اس کے الفاظ ( لَعَلَّ ٱللَّـهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا ) ( الطلاق 1 : 65 ) سے ظاہر ہے ) اس ( شوہر ) کے لیے ہوئی جسے رجوع کا حق حاصل ہے ، اور تیسری طلاق کے بعد از سر نو کون سی بات پیدا ہو سکتی ہے؟ اور تم یہ بات کیسے کہتے ہو کہ اگر وہ حاملہ نہیں ہے تو اس کے لیے خرچ نہیں ہے؟ پھر تم اسے روکتے کس بنا پر ہو.",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم اور عبد بن حمید نے بیان کیا، اور یہ لفظ عبد کے لیے ہے، انہوں نے کہا: ہمیں عبد الرزاق نے خبر دی، انہوں نے ہمیں خبر دی معمر نے ہمیں زہری سے خبر دی ، انہوں نے عبیداللہ بن عبداللہ بن عتبہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَبْدُ بْنُ حُمَيْدٍ، وَاللَّفْظُ لِعَبْدٍ، قَالَا: أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللهِ بْنِ عَبْدِ اللهِ بْنِ عُتْبَةَ، أَنَّ أَبَا عَمْرِو بْنَ حَفْصِ بْنِ الْمُغِيرَةِ، خَرَجَ مَعَ عَلِيِّ بْنِ أَبِي طَالِبٍ إِلَى الْيَمَنِ، فَأَرْسَلَ إِلَى امْرَأَتِهِ فَاطِمَةَ بِنْتِ قَيْسٍ بِتَطْلِيقَةٍ كَانَتْ بَقِيَتْ مِنْ طَلَاقِهَا، وَأَمَرَ لَهَا الْحَارِثَ بْنَ هِشَامٍ، وَعَيَّاشَ بْنَ أَبِي رَبِيعَةَ بِنَفَقَةٍ، فَقَالَا لَهَا: وَاللهِ مَا لَكِ نَفَقَةٌ إِلَّا أَنْ تَكُونِي حَامِلًا، فَأَتَتِ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَذَكَرَتْ لَهُ قَوْلَهُمَا، فَقَالَ: «لَا نَفَقَةَ لَكِ»، فَاسْتَأْذَنَتْهُ فِي الِانْتِقَالِ، فَأَذِنَ لَهَا، فَقَالَتْ: أَيْنَ يَا رَسُولَ اللهِ؟ فَقَالَ: «إِلَى ابْنِ أُمِّ مَكْتُومٍ» وَكَانَ أَعْمَى، تَضَعُ ثِيَابَهَا عِنْدَهُ وَلَا يَرَاهَا، فَلَمَّا مَضَتْ عِدَّتُهَا أَنْكَحَهَا النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أُسَامَةَ بْنَ زَيْدٍ، فَأَرْسَلَ إِلَيْهَا مَرْوَانُ، قَبِيصَةَ بْنَ ذُؤَيْبٍ يَسْأَلُهَا عَنِ الْحَدِيثِ، فَحَدَّثَتْهُ بِهِ، فَقَالَ مَرْوَانُ: لَمْ نَسْمَعْ هَذَا الْحَدِيثَ إِلَّا مِنِ امْرَأَةٍ، سَنَأْخُذُ بِالْعِصْمَةِ الَّتِي وَجَدْنَا النَّاسَ عَلَيْهَا، فَقَالَتْ فَاطِمَةُ، حِينَ بَلَغَهَا قَوْلُ مَرْوَانَ: فَبَيْنِي وَبَيْنَكُمُ الْقُرْآنُ، قَالَ اللهُ عَزَّ وَجَلَّ: {لَا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ} [الطلاق: 1] الْآيَةَ، قَالَتْ: هَذَا لِمَنْ كَانَتْ لَهُ مُرَاجَعَةٌ، فَأَيُّ أَمْرٍ يَحْدُثُ بَعْدَ الثَّلَاثِ؟ فَكَيْفَ تَقُولُونَ: لَا نَفَقَةَ لَهَا إِذَا لَمْ تَكُنْ حَامِلًا؟ فَعَلَامَ تَحْبِسُونَهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11269,
+                "hadithNumber": "3705",
+                "englishNarrator": "Sha'bi reported:",
+                "hadithEnglish": "I visited Fatima bint Qais رضی اللہ عنہ and asked her about the verdict of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) about (board and lodging during the 'Idda) and she said that her husband divorced her with an irrevocable divorce. She (further. said): I contended with him before Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) about lodging and maintenance allowance, and she said: He did not provide me with any lodging or maintenance allowance, and he commanded me to spend the 'Idda in the house of Ibn Umm Maktum رضی اللہ عنہ .",
+                "hadithUrdu": "میں فاطمہ بنت قیس رضی اللہ عنہا کے پاس گیا اور ان سے رسول اللہ صلی اللہ علیہ وسلم کے فیصلے کے متعلق دریافت کیا جو ان کے بارے میں تھا ۔ انہوں نے کہا : ان کے شوہر نے انہیں تین طلاقیں دے دیں ، کہا : تو میں رہائش اور خرچ کے لیے اس کے ساتھ اپنا جھگڑا لے کر رسول اللہ صلی اللہ علیہ وسلم کے پاس گئی ۔ کہا : تو آپ نے مجھے رہائش اور خرچ ( کا حق ) نہ دیا ، اور مجھے حکم دیا کہ میں اپنی عدت ابن ام مکتوم رضی اللہ عنہ کے گھر گزاروں.",
+                "urduNarrator": "زہیر بن حرب نے مجھے حدیث بیان کی ، ( کہا : ) ہمیں ہشیم نے حدیث بیان کی ، ( کہا : ) ہمیں سیار ، حصین ، مغیرہ ، اشعث ، مجالد ، اسماعیل بن ابی خالد اور داود سب نے شعبی سے خبر دی ۔ ۔ البتہ داود نے کہا : ہمیں حدیث بیان کی ۔ ۔ انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا هُشَيْمٌ، أَخْبَرَنَا سَيَّارٌ، وَحُصَيْنٌ، وَمُغِيرَةُ، وَأَشْعَثُ، وَمُجَالِدٌ، وَإِسْمَاعِيلُ بْنُ أَبِي خَالِدٍ، وَدَاوُدُ، كُلُّهُمْ عَنِ الشَّعْبِيِّ، قَالَ: دَخَلْتُ عَلَى فَاطِمَةَ بِنْتِ قَيْسٍ فَسَأَلْتُهَا عَنْ قَضَاءِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَلَيْهَا، فَقَالَتْ: طَلَّقَهَا زَوْجُهَا الْبَتَّةَ، فَقَالَتْ: فَخَاصَمْتُهُ إِلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي السُّكْنَى وَالنَّفَقَةِ، قَالَتْ: «فَلَمْ يَجْعَلْ لِي سُكْنَى، وَلَا نَفَقَةً، وَأَمَرَنِي أَنْ أَعْتَدَّ فِي بَيْتِ ابْنِ أُمِّ مَكْتُومٍ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11270,
+                "hadithNumber": "3706",
+                "englishNarrator": null,
+                "hadithEnglish": "It was narrated from Ash-Shabi that he said: I entered upon Fatimah bint Qais...\" a hadith like that of Zubair from Hushaim.",
+                "hadithUrdu": "یحییٰ بن یحییٰ نے ہمیں حدیث بیان کی ، کہا : ہمیں ہشیم نے حصین ، داود ، مغیرہ ، اسماعیل اور اشعث سے ، انہوں نے شعبی سے خبر دی کہ انہوں نے کہا : میں فاطمہ بنت قیس رضی اللہ عنہا کے پاس گیا ۔ ۔ ۔ ( آگے ) ہشیم سے زہیر کی روایت کردہ حدیث کے مانند ہے.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا هُشَيْمٌ، عَنْ حُصَيْنٍ، وَدَاوُدَ، وَمُغِيرَةَ، وَإِسْمَاعِيلَ، وَأَشْعَثَ، عَنِ الشَّعْبِيِّ، أَنَّهُ قَالَ: دَخَلْتُ عَلَى فَاطِمَةَ بِنْتِ قَيْسٍ، بِمِثْلِ حَدِيثِ زُهَيْرٍ، عَنْ هُشَيْمٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11271,
+                "hadithNumber": "3707",
+                "englishNarrator": "Sha'bi reported:",
+                "hadithEnglish": "We visited Fatima bint Qais رضی اللہ عنہا and she served us fresh dates and a drink of barley flour, and I asked her: Where should a woman who has been divorced by three pronouncements, spend the period of her 'Idda. She said: My husband divorced me with three pronouncements, and Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) permitted me to spend my 'Idda period with my family (with my parents).",
+                "hadithUrdu": "ہم فاطمہ بنت قیس رضی اللہ عنہا کے پاس گئے ، انہوں نے ابن طاب کی تازہ کھجوروں سے ہماری ضیافت کی ، اور ہمیں عمدہ جَو کے ستو پلائے ، اس کے بعد میں نے ان سے ایسی عورت کے بارے میں پوچھا جسے تین طلاقیں دی گئی ہوں کہ وہ عدت کہاں گزارے گی؟ انہوں نے جواب دیا : مجھے میرے شوہر نے تین طلاقیں دیں تو نبی صلی اللہ علیہ وسلم نے مجھے اجازت دی کہ میں اپنے گھرانے میں عدت گزاروں ۔ ( ابن مکتوم ان کے عزیز تھے).",
+                "urduNarrator": "ہم سے یحییٰ بن حبیب نے بیان کیا، کہا ہم سے خالد بن الحارث الحجیمی نے بیان کیا,قرہ نے ہمیں حدیث بیان کی ، ( کہا : ) ہمیں سیار ابوالحکم نے حدیث بیان کی ، ( کہا : ) ہمیں شعبی نے حدیث بیان کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ حَبِيبٍ، حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ الْهُجَيْمِيُّ، حَدَّثَنَا قُرَّةُ، حَدَّثَنَا سَيَّارٌ أَبُو الْحَكَمِ، حَدَّثَنَا الشَّعْبِيُّ، قَالَ: دَخَلْنَا عَلَى فَاطِمَةَ بِنْتِ قَيْسٍ، فَأَتْحَفَتْنَا بِرُطَبِ ابْنِ طَابٍ، وَسَقَتْنَا سَوِيقَ سُلْتٍ، فَسَأَلْتُهَا عَنِ الْمُطَلَّقَةِ ثَلَاثًا، أَيْنَ تَعْتَدُّ؟ قَالَتْ: «طَلَّقَنِي بَعْلِي ثَلَاثًا، فَأَذِنَ لِي النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَنْ أَعْتَدَّ فِي أَهْلِي.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11272,
+                "hadithNumber": "3708",
+                "englishNarrator": "It was narrated from Ash-Shabi from Fatima bint Qais (رضی اللہ عنہا) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) that there is no lodging and maintenance allowance for a woman who has been given irrevocable divorce.",
+                "hadithUrdu": "انہوں نے ایسی عورت کے بارے میں نبی صلی اللہ علیہ وسلم سے روایت کی جسے تین طلاقیں دے دی گئی ہوں ، آپ نے فرمایا : \" اس کے لیے نہ رہائش ہے اور نہ خرچ.",
+                "urduNarrator": "ہم سے محمد بن المثنیٰ اور ابن بشار نے بیان کیا، کہا: ہم سے عبدالرحمٰن بن مہدی نے بیان کیا، ہم سے سفیان نے بیان کیا,سلمہ بن کہیل نے شعبی سے اور انہوں نے فاطمہ بنت قیس رضی اللہ عنہا سے روایت کی",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ بَشَّارٍ، قَالَا: حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا سُفْيَانُ، عَنْ سَلَمَةَ بْنِ كُهَيْلٍ، عَنِ الشَّعْبِيِّ، عَنْ فَاطِمَةَ بِنْتِ قَيْسٍ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي الْمُطَلَّقَةِ ثَلَاثًا، قَالَ: «لَيْسَ لَهَا سُكْنَى، وَلَا نَفَقَةٌ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11273,
+                "hadithNumber": "3709",
+                "englishNarrator": "Fatima bint Qais (رضی اللہ عنہا) reported:",
+                "hadithEnglish": "My husband divorced me with three pronouncements. I decided to move (from his house to another place). So I came to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), and he said: Move to the house of your cousin 'Amr bin Umm Maktum and spend your period of 'Idda there.",
+                "hadithUrdu": "میرے شوہر نے مجھے تین طلاقیں دیں تو میں نے ( وہاں سے ) نقل مکانی کا ارادہ کیا ۔ میں نبی صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئی ، تو آپ نے فرمایا : \" تم اپنے چچا زاد عمرو بن ام مکتوم کے گھر منتقل ہو جاؤ ، اور ان کے ہاں عدت گزارو.",
+                "urduNarrator": "مجھ سے اسحاق بن ابراہیم الحنظلی نے کہا, یحییٰ بن آدم نے ہمیں خبر دی ، ( کہا : ) عمار بن رُزیق نے ہمیں ابواسحاق سے حدیث بیان کی ، انہوں نے شعبی سے اور انہوں نے فاطمہ بنت قیس رضی اللہ عنہا سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "وحَدَّثَنِي إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ، أَخْبَرَنَا يَحْيَى بْنُ آدَمَ، حَدَّثَنَا عَمَّارُ بْنُ رُزَيْقٍ، عَنْ أَبِي إِسْحَاقَ، عَنِ الشَّعْبِيِّ، عَنْ فَاطِمَةَ بِنْتِ قَيْسٍ، قَالَتْ: طَلَّقَنِي زَوْجِي ثَلَاثًا، فَأَرَدْتُ النُّقْلَةَ، فَأَتَيْتُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ: «انْتَقِلِي إِلَى بَيْتِ ابْنِ عَمِّكِ عَمْرِو بْنِ أُمِّ مَكْتُومٍ، فَاعْتَدِّي عِنْدَهُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11274,
+                "hadithNumber": "3710",
+                "englishNarrator": "Abu Ishaq reported:",
+                "hadithEnglish": "I was with al-Aswad bin Yazid sitting in the great mosque, and there was with us al-Sha'bi, and he narrated the narration of Fatima bint Qais (رضی اللہ عنہا ) that Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) did not make any provision for lodging and maintenance allowance for her. Al-Aswad caught hold of some pebbles in his fist and he threw them towards him saying: Woe be to thee, you narrate like it, whereas Umar رضی اللہ عنہ said: We cannot abandon the Book of Allah and the Sunnah of our Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) for the words of a woman. We do not know whether she remembers that or she forgets. For her, there is a provision of lodging and maintenance allowance. Allah, the Exalted and Majestic, said: Turn them not from their houses nor should they themselves go forth unless they commit an open indecency (lxv. 1).",
+                "hadithUrdu": "میں اسود بن یزید ( نخعی ) کے ساتھ ( کوفہ کی ) بڑی مسجد میں بیٹھا ہوا تھا ، شعبی بھی ہمارے ساتھ تھے ، تو شعبی نے فاطمہ بنت قیس رضی اللہ عنہا کی حدیث بیان کی کہ رسول اللہ صلی اللہ علیہ وسلم نے انہیں رہائش اور خرچ ( کا حق ) نہیں دیا ۔ پھر اسود نے مٹھی بھر کنکریاں لیں اور انہیں دے ماریں اور کہا : تم پر افسوس! تم اس طرح کی حدیث بیان کر رہے ہو؟ عمر رضی اللہ عنہ نے کہا تھا : ہم ایک عورت کے قول کی وجہ سے اللہ کی کتاب اور اس کے رسول کی سنت کو نہیں چھوڑ سکتے ، ہم نہیں جانتے کہ اس نے ( اس مسئلے کو ) یاد رکھا ہے یا بھول گئی ، اس کے لیے رہائش اور خرچ ہے ۔ ( اور یہ آیت تلاوت کی ) اللہ عزوجل نے فرمایا : \" تم انہیں ان کے گھروں سے نہ نکالو ، اور نہ وہ خود نکلیں ، مگر یہ کہ وہ کوئی کھلی بے حیائی کریں.",
+                "urduNarrator": "ہم سے محمد بن عمرو بن جبلہ نے بیان کیا، انہوں نے بیان کیا ابواحمد نے ہمیں خبر دی ، ( کہا : ) عمار بن رزیق نے ہمیں ابواسحاق سے حدیث بیان کی ، انہوں نے کہا",
+                "hadithArabic": "وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ عَمْرِو بْنِ جَبَلَةَ، حَدَّثَنَا أَبُو أَحْمَدَ، حَدَّثَنَا عَمَّارُ بْنُ رُزَيْقٍ، عَنْ أَبِي إِسْحَاقَ، قَالَ: كُنْتُ مَعَ الْأَسْوَدِ بْنِ يَزِيدَ جَالِسًا فِي الْمَسْجِدِ الْأَعْظَمِ، وَمَعَنَا الشَّعْبِيُّ، فَحَدَّثَ الشَّعْبِيُّ بِحَدِيثِ فَاطِمَةَ بِنْتِ قَيْسٍ، «أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، لَمْ يَجْعَلْ لَهَا سُكْنَى وَلَا نَفَقَةً»، ثُمَّ أَخَذَ الْأَسْوَدُ كَفًّا مِنْ حَصًى، فَحَصَبَهُ بِهِ، فَقَالَ: وَيْلَكَ تُحَدِّثُ بِمِثْلِ هَذَا، قَالَ عُمَرُ: لَا نَتْرُكُ كِتَابَ اللهِ وَسُنَّةَ نَبِيِّنَا صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ لِقَوْلِ امْرَأَةٍ، لَا نَدْرِي لَعَلَّهَا حَفِظَتْ، أَوْ نَسِيَتْ، لَهَا السُّكْنَى وَالنَّفَقَةُ، قَالَ اللهُ عَزَّ وَجَلَّ: {لَا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11275,
+                "hadithNumber": "3711",
+                "englishNarrator": null,
+                "hadithEnglish": "A hadith like this has been narrated on the authority of Ishaq with the same chain of transmitters.",
+                "hadithUrdu": "ہم سے احمد بن عبدہ الذہبی نے بیان کیا، کہا ہم سے ابوداؤد نے بیان کیا، انہوں نے بیان کیاسلیمان بن معاذ نے ابواسحاق سے اسی سند کے ساتھ عمار بن رزیق سے روایت کردہ ابواحمد کی حدیث کے ہم معنی حدیث مکمل قصے سمیت بیان کی.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ الضَّبِّيُّ، حَدَّثَنَا أَبُو دَاوُدَ، حَدَّثَنَا سُلَيْمَانُ بْنُ مُعَاذٍ، عَنْ أَبِي إِسْحَاقَ، بِهَذَا الْإِسْنَادِ، نَحْوَ حَدِيثِ أَبِي أَحْمَدَ، عَنْ عَمَّارِ بْنِ رُزَيْقٍ بِقِصَّتِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11276,
+                "hadithNumber": "3712",
+                "englishNarrator": "Fatima bint Qais ( رضی اللہ عنہا) reported:",
+                "hadithEnglish": "Her husband divorced her with three, pronouncements and Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) made no provision for her lodging and maintenance allowance. She (further said): Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said to me: When your period of 'Idda is over, inform me. So I informed him. (By that time) Mu'awiya, Abu Jahm and Usama bin Zaid رضی اللہ عنہم had given her the proposal of marriage. Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: So far as Mu'awiya is concerned, he is a poor man without any property. So far as Abu Jahm is concerned, he is a great beater of women, but Usama bin Zaid... She pointed with her hand (that she did not approve of the idea of marrying) Usama. But Allah's Messenger (ﷺ) said: Obedience to Allah and obedience to His Messenger is better for thee. She said: So I married him, and I became an object of envy.",
+                "hadithUrdu": "ان کے شوہر نے انہیں تین طلاقیں دیں تو رسول اللہ صلی اللہ علیہ وسلم نے انہیں رہائش دی نہ خرچ ۔ کہا : رسول اللہ صلی اللہ علیہ وسلم نے مجھے فرمایا : \" جب ( عدت سے ) آزاد ہو جاؤ تو مجھے اطلاع دینا \" سو میں نے آپ کو اطلاع دی ۔ معاویہ ، ابوجہم اور اسامہ بن زید رضی اللہ عنہم نے ان کی طرف پیغام بھیجا ، رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" معاویہ تو فقیر ہے اس کے پاس مال نہیں ہے ، اور رہا ابوجہم تو وہ عورتوں کو بہت مارنے والا ہے ، البتہ اسامہ بن زید ہے ۔ \" انہوں نے ( ناپسندیدگی کا اظہار کرتے ہوئے ) ہاتھ سے اس طرح اشارہ کیا : اسامہ! اسامہ! رسول اللہ صلی اللہ علیہ وسلم نے انہیں فرمایا : \" اللہ اور اس کے رسول صلی اللہ علیہ وسلم کی اطاعت تمہارے لیے بہتر ہے ۔ \" کہا : تو میں نے ان سے شادی کر لی ، اس کے بعد مجھ پر رشک کیا جانے لگا.",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، انہوں نے کہا وکیع نے ہمیں حدیث بیان کی ، کہا : ہمیں سفیان نے ابوبکر بن ابوجہم بن سخیر عدوی سے حدیث بیان کی ، انہوں نے کہا : میں فاطمہ بنت قیس رضی اللہ عنہا سے سنا وہ کہہ رہی تھیں کہ",
+                "hadithArabic": ") وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي بَكْرِ بْنِ أَبِي الْجَهْمِ بْنِ صُخَيْرٍ الْعَدَوِيِّ، قَالَ: سَمِعْتُ فَاطِمَةَ بِنْتَ قَيْسٍ، تَقُولُ: إِنَّ زَوْجَهَا طَلَّقَهَا ثَلَاثًا، فَلَمْ يَجْعَلْ لَهَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ سُكْنَى، وَلَا نَفَقَةً، قَالَتْ: قَالَ لِي رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إِذَا حَلَلْتِ فَآذِنِينِي»، فَآذَنْتُهُ، فَخَطَبَهَا مُعَاوِيَةُ، وَأَبُو جَهْمٍ، وَأُسَامَةُ بْنُ زَيْدٍ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «أَمَّا مُعَاوِيَةُ فَرَجُلٌ تَرِبٌ، لَا مَالَ لَهُ، وَأَمَّا أَبُو جَهْمٍ فَرَجُلٌ ضَرَّابٌ لِلنِّسَاءِ، وَلَكِنْ أُسَامَةُ بْنُ زَيْدٍ» فَقَالَتْ بِيَدِهَا هَكَذَا: أُسَامَةُ، أُسَامَةُ، فَقَالَ لَهَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «طَاعَةُ اللهِ، وَطَاعَةُ رَسُولِهِ خَيْرٌ لَكِ»، قَالَتْ: فَتَزَوَّجْتُهُ، فَاغْتَبَطْتُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11277,
+                "hadithNumber": "3713",
+                "englishNarrator": "Fatima bint Qais (رضی اللہ عنہا) reported:",
+                "hadithEnglish": "My husband Abu 'Amr bin Hafs bin al-Mughira رضی اللہ عنہ sent 'Ayyish bin Abu Rabi'a to me with a divorce, and he also sent through him five si's of dates and five si's of barley. I said: Is there no maintenance allowance for me but only this, and I cannot even spend my 'Idda period in your house? He said: No. She said: I dressed myself and came to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌). He said: How many pronouncements of divorce have been made for you? I said: Three. He said what he ('Ayyish b. Abu Rabi'a) had stated was true. There is no maintenance allowance for you. Spend 'Idda period in the house of your cousin, Ibn Umm Maktum. He is blind and you can put off your garment in his presence. And when you have spent your Idda period, you inform me. She said: Mu'awiya and Abu'l-Jahm (Allah be pleased with them) were among those who had given me the proposal of marriage. Thereupon Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: Mu'awiya is destitute and in poor condition and Abu'l-Jahm is very harsh with women (or he beats women, or like that), you should take Usama bin Zaid (as your husband).",
+                "hadithUrdu": "میرے شوہر ابوعمرو بن حفص بن مغیرہ رضی اللہ عنہ نے عیاش بن ابی ربیعہ کو میری طلاق کا پیغام دے کر بھیجا اور اس کے ساتھ پانچ صاع کھجوریں اور پانچ صاع جَو بھی بھیجے ۔ میں نے کہا : کیا میرے لیے صرف یہی خرچ ہے؟ کیا میں تم لوگوں کے گھر میں عدت نہیں گزاروں گی؟ اس نے جواب دیا : نہیں ۔ انہوں نے کہا : میں نے اپنے کپڑے سمیٹے اور رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئی تو آپ نے پوچھا : \" وہ تمہیں کتنی طلاقیں دے چکے ہیں؟ \" میں نے جواب دیا : تین ۔ آپ نے فرمایا : \" اس نے سچ کہا ، تمہارے لیے خرچ نہیں ہے ۔ اپنے چچا زاد عمرو بن ام مکتوم کے گھر عدت گزارو ، وہ نابینا ہیں تم ان کے ہاں اپنا اوڑھنے کا کپڑا اتار سکو گی ۔ جب تمہاری عدت ختم ہو جائے تو مجھے اطلاع دینا ۔ \" انہوں نے ( آکر ) کہا : مجھے کئی لوگوں نے نکاح کا پیغام بھیجا ہے ، ان میں معاویہ اور ابوجہم بھی ہیں ۔ نبی صلی اللہ علیہ وسلم نے فرمایا : \" معاویہ تو فقیر اور مفلوک الحال ہے ، اور رہے ابوجہم تو وہ عورتوں پر بہت سختی کرتے ہیں ۔ ۔ یا وہ عورتوں کو مارتے ہیں ، یا اس طرح کی کوئی اور بات کہی ۔ ۔ البتہ تم اسامہ بن زید کو قبول کر لو.",
+                "urduNarrator": "مجھ سے اسحاق بن منصور نے بیان کیا، انہوں نے ہم سے بیان کیا عبدالرحمٰن نے ہمیں سفیان سے حدیث بیان کی ، انہوں نے ابوبکر بن ابی جہم سے روایت کی ، انہوں نے کہا : میں نے فاطمہ بنت قیس رضی اللہ عنہا سے سنا وہ کہہ رہی تھیں",
+                "hadithArabic": "وحَدَّثَنِي إِسْحَاقُ بْنُ مَنْصُورٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، عَنْ أَبِي بَكْرِ بْنِ أَبِي الْجَهْمِ، قَالَ: سَمِعْتُ فَاطِمَةَ بِنْتَ قَيْسٍ، تَقُولُ: أَرْسَلَ إِلَيَّ زَوْجِي أَبُو عَمْرِو بْنُ حَفْصِ بْنِ الْمُغِيرَةِ، عَيَّاشَ بْنَ أَبِي رَبِيعَةَ بِطَلَاقِي، وَأَرْسَلَ مَعَهُ بِخَمْسَةِ آصُعِ تَمْرٍ، وَخَمْسَةِ آصُعِ شَعِيرٍ، فَقُلْتُ: أَمَا لِي نَفَقَةٌ إِلَّا هَذَا؟ وَلَا أَعْتَدُّ فِي مَنْزِلِكُمْ؟ قَالَ: لَا، قَالَتْ: فَشَدَدْتُ عَلَيَّ ثِيَابِي، وَأَتَيْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ. فَقَالَ: «كَمْ طَلَّقَكِ؟» قُلْتُ: ثَلَاثًا، قَالَ: «صَدَقَ، لَيْسَ لَكِ نَفَقَةٌ، اعْتَدِّي فِي بَيْتِ ابْنِ عَمِّكِ ابْنِ أُمِّ مَكْتُومٍ، فَإِنَّهُ ضَرِيرُ الْبَصَرِ، تُلْقِي ثَوْبَكِ عِنْدَهُ، فَإِذَا انْقَضَتْ عِدَّتُكِ فَآذِنِينِي» قَالَتْ: فَخَطَبَنِي خُطَّابٌ مِنْهُمْ مُعَاوِيَةُ، وَأَبُو الْجَهْمِ، فَقَالَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ مُعَاوِيَةَ تَرِبٌ، خَفِيفُ الْحَالِ، وَأَبُو الْجَهْمِ مِنْهُ شِدَّةٌ عَلَى النِّسَاءِ - أَوْ يَضْرِبُ النِّسَاءَ، أَوْ نَحْوَ هَذَا -، وَلَكِنْ عَلَيْكِ بِأُسَامَةَ بْنِ زَيْدٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11278,
+                "hadithNumber": "3714",
+                "englishNarrator": "Abu Bakr bin Abu'l-Jahm reported:",
+                "hadithEnglish": "I and Abu Salama bin 'Abdul-Rahman came to fatima bint Qais ( رضی اللہ عنہا) and asked her (about divorce, etc.). She said: I was the wife of Abu 'Amr bin Hafs bin al-Mughira  رضی اللہ عنہ , and he set out to join the battle of Najran. The rest of the hadith is the same, but he made this addition: She said: I married him and Allah hornoured me on account of Ibn Zaid and Allah favoured me because of him.",
+                "hadithUrdu": "میں اور ابوسلمہ بن عبدالرحمٰن فاطمہ بنت قیس رضی اللہ عنہا کے ہاں حاضر ہوئے ، ہم نے ان سے سوال کیا ، تو انہوں نے کہا : میں ابوعمرو بن حفص بن مغیرہ رضی اللہ عنہ کی بییو تھی ، وہ نجران کی لڑائی میں نکلے ، آگے انہوں نے ابن مہدی کی حدیث کے ہم معنی بیان کیا اور یہ اضافہ کیا : ( فاطمہ نے ) کہا : تو میں نے ان ( اسامہ ) سے شادی کر لی ، اللہ نے ابوزید ( اسامہ بن زید رضی اللہ عنہ ) کی وجہ سے مجھے شرف بخشا ، اللہ نے ابوزید کی وجہ سے مجھے عزت دی.",
+                "urduNarrator": "مجھ سے اسحاق بن منصور نے بیان کیا، انہوں نے ہم سے بیان کیا ابو عاصم نے ہمیں خبر دی ( کہا : ) ہمیں سفیان ثوری نے ابوبکر بن ابی جہم سے حدیث بیان کی ، انہوں نے کہا",
+                "hadithArabic": "وحَدَّثَنِي إِسْحَاقُ بْنُ مَنْصُورٍ، أَخْبَرَنَا أَبُو عَاصِمٍ، حَدَّثَنَا سُفْيَانُ الثَّوْرِيُّ، حَدَّثَنِي أَبُو بَكْرِ بْنُ أَبِي الْجَهْمِ، قَالَ: دَخَلْتُ أَنَا وَأَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، عَلَى فَاطِمَةَ بِنْتِ قَيْسٍ، فَسَأَلْنَاهَا، فَقَالَتْ: كُنْتُ عِنْدَ أَبِي عَمْرِو بْنِ حَفْصِ بْنِ الْمُغِيرَةِ، فَخَرَجَ فِي غَزْوَةِ نَجْرَانَ وَسَاقَ الْحَدِيثَ بِنَحْوِ حَدِيثِ ابْنِ مَهْدِيٍّ، وَزَادَ قَالَتْ: فَتَزَوَّجْتُهُ، فَشَرَّفَنِي اللهُ بِابْنِ زَيْدٍ، وَكَرَّمَنِي اللهُ بِابْنِ زَيْد.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11279,
+                "hadithNumber": "3715",
+                "englishNarrator": "Abu Bakr reported:",
+                "hadithEnglish": "I and Abu Salama came to Fatima bint Qais (رضی اللہ عنہا ) during the time of Ibn Zubair (Allah be pleased with him) and she narrated to us that her husband gave her an irrevocable divorce. (The rest of the hadith is the same.)",
+                "hadithUrdu": "میں اور ابوسلمہ ، ابن زبیر کے زمانہ خلافت میں ، فاطمہ بنت قیس رضی اللہ عنہا کے پاس گئے تو انہوں نے ہمیں حدیث بیان کی کہ ان کے شوہر نے انہیں تین طلاقیں دیں ، آگے سفیان کی حدیث کی طرح ہے.",
+                "urduNarrator": "ہم سے عبید اللہ بن معاذ الانبری نے بیان کیا، کہا ہم سے میرے والد نے بیان کیا، انہوں نے کہا شعبہ نے ہمیں حدیث بیان کی ، ( کہا : ) ابوبکر ( بن ابی جہم ) نے مجھے حدیث بیان کی ، انہوں نے کہا",
+                "hadithArabic": "وحَدَّثَنَا عُبَيْدُ اللهِ بْنُ مُعَاذٍ الْعَنْبَرِيُّ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، حَدَّثَنِي أَبُو بَكْرٍ، قَالَ: دَخَلْتُ أَنَا وَأَبُو سَلَمَةَ، عَلَى فَاطِمَةَ بِنْتِ قَيْسٍ زَمَنَ ابْنِ الزُّبَيْرِ، فَحَدَّثَتْنَا أَنَّ زَوْجَهَا طَلَّقَهَا طَلَاقًا بَاتًّا، بِنَحْوِ حَدِيثِ سُفْيَانَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11280,
+                "hadithNumber": "3716",
+                "englishNarrator": "Fatima bint Qais ( رضی اللہ عنہا ) reported:",
+                "hadithEnglish": "My husband divorced me with three pronouncements and Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) made no provision for lodging and maintenance allowance.",
+                "hadithUrdu": "میرے شوہر نے مجھے تین طلاقیں دیں تو رسول اللہ صلی اللہ علیہ وسلم نے میرے لیے رہائش اور خرچ نہیں رکھا.",
+                "urduNarrator": "مجھ سے حسن بن علی الحلوانی نے بیان کیا، کہا ہم سے یحییٰ بن آدم نے بیان کیا، کہا ہم سے حسن بن صالح نے السدی کی سند سے بیان کیا, بہی نے فاطمہ بنت قیس رضی اللہ عنہا سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "وحَدَّثَنِي حَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ، حَدَّثَنَا يَحْيَى بْنُ آدَمَ، حَدَّثَنَا حَسَنُ بْنُ صَالِح، عَنِ السُّدِّيِّ، عَنِ الْبَهِيِّ، عَنْ فَاطِمَةَ بِنْتِ قَيْسٍ، قَالَتْ: «طَلَّقَنِي زَوْجِي ثَلَاثًا، فَلَمْ يَجْعَلْ لِي رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ سُكْنَى، وَلَا نَفَقَةً.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11281,
+                "hadithNumber": "3717",
+                "englishNarrator": "Hisham reported on the authority of his father:",
+                "hadithEnglish": "Yahya bin Sa'id bin al-'As married the daughter of 'Abdul-Rahman bin al-Hakam, and he divorced her and he turned her out from his house. 'Urwa (Allah be -pleased with him) criticised this (action) of theirs (the members of the family of her in-laws). They said: Verily, Fatima too went out (of her in-laws' house). 'Urwa said: I came to 'A'isha (رضی اللہ عنہا) and told her about it and she said: There is no good for Fatima bint Qais ( رضی اللہ عنہا) in making mention of it.",
+                "hadithUrdu": "یحییٰ بن سعید بن عاص نے عبدالرحمٰن بن حکم کی بیٹی سے شادی کی ، بعد میں اسے طلاق دے دی اور اسے اپنے ہاں سے بھی نکال دیا ۔ عروہ نے اس بات کی وجہ سے ان پر سخت اعتراض کیا ، تو انہوں نے کہا : فاطمہ ( بھی اپنے خاوند کے گھر سے ) چلی گئی تھی ۔ عروہ نے کہا : اس پر میں حضرت عائشہ رضی اللہ عنہا کی خدمت میں حاضر ہوا اور انہیں یہ بات بتائی تو انہوں نے کہا : فاطمہ بنت قیس کے لیے اس حدیث کو بیان کرنے میں کوئی خیر نہیں ہے.",
+                "urduNarrator": "ہم سے ابو کریب نے بیان کیا، کہا ہم سے ابو اسامہ نے بیان کیا، کہا کہ مجھ سے ہشام کے والد نے بیان کیا، انہوں نے کہا",
+                "hadithArabic": "وحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامٍ، حَدَّثَنِي أَبِي، قَالَ: تَزَوَّجَ يَحْيَى بْنُ سَعِيدِ بْنِ الْعَاصِ، بِنْتَ عَبْدِ الرَّحْمَنِ بْنِ الْحَكَمِ، فَطَلَّقَهَا، فَأَخْرَجَهَا مِنْ عِنْدِهِ، فَعَابَ ذَلِكَ عَلَيْهِمْ عُرْوَةُ، فَقَالُوا: إِنَّ فَاطِمَةَ قَدْ خَرَجَتْ، قَالَ عُرْوَةُ: فَأَتَيْتُ عَائِشَةَ، فَأَخْبَرْتُهَا بِذَلِكَ، فَقَالَتْ: «مَا لِفَاطِمَةَ بِنْتِ قَيْسٍ خَيْرٌ فِي أَنْ تَذْكُرَ هَذَا الْحَدِيثَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11282,
+                "hadithNumber": "3718",
+                "englishNarrator": "Fatima bint Qais (رضی اللہ عنہا ) reported that she said:",
+                "hadithEnglish": "Allah's Messenger, my husband has divorcee me with three pronouncements and I am afraid that I may be put to hardship, and so he commanded her and so she moved (to another house).",
+                "hadithUrdu": "اے اللہ کے رسول! مجھے میرے شوہر نے تین طلاقیں دے دی ہیں ، اور میں ڈرتی ہوں کہ کوئی گھس کر مجھ پر حملہ کر دے گا ، کہا : اس پر آپ صلی اللہ علیہ وسلم نے انہیں حکم دیا تو انہوں نے جگہ بدل لی.",
+                "urduNarrator": "ہم سے محمد بن المثنیٰ نے بیان کیا، ہم سے حفص بن غیاث نے بیان کیا، ان سے ہشام نے اپنے والد کی سند سے بیان کیا, فاطمہ بنت قیس رضی اللہ عنہا سے روایت ہے ، انہوں نے کہا : میں نے عرض کی",
+                "hadithArabic": "وحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، حَدَّثَنَا هِشَامٌ، عَنْ أَبِيهِ، عَنْ فَاطِمَةَ بِنْتِ قَيْسٍ، قَالَتْ: قُلْتُ: يَا رَسُولَ اللهِ، زَوْجِي طَلَّقَنِي ثَلَاثًا، وَأَخَافُ أَنْ يُقْتَحَمَ عَلَيَّ، قَالَ: «فَأَمَرَهَا، فَتَحَوَّلَتْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11283,
+                "hadithNumber": "3719",
+                "englishNarrator": "A'isha ( رضی اللہ عنہا) said:",
+                "hadithEnglish": "It is no good for Fatima to make mention of it, i.e. her statement: There is no lodging and maintenance allowance (for the divorced women).",
+                "hadithUrdu": "اس بات کو بیان کرنے میں فاطمہ رضی اللہ عنہا کے لیے کوئی بھلائی نہیں ہے کہ \" نہ رہائش ہے نہ خرچ.",
+                "urduNarrator": "ہم سے محمد بن المثنیٰ نے بیان کیا، ہم سے محمد بن جعفر نے بیان کیا، انہوں نے ہم سے بیان کیا شعبہ نے ہمیں عبدالرحمٰن بن قاسم سے حدیث بیان کی ، انہوں نے اپنے والد ( قاسم ) سے ، انہوں نے حضرت عائشہ رضی اللہ عنہا سے روایت کی کہ انہوں نے کہا :",
+                "hadithArabic": "وحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّهَا قَالَتْ: «مَا لِفَاطِمَةَ خَيْرٌ أَنْ تَذْكُرَ هَذَا» قَالَ: تَعْنِي قَوْلَهَا: لَا سُكْنَى وَلَا نَفَقَةَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11284,
+                "hadithNumber": "3720",
+                "englishNarrator": "Ibn al-Qasim narrated on the authority of his father that 'Urwa bin Zubair (رضی اللہ عنہا) said to 'A'isha (رضی اللہ عنہا):",
+                "hadithEnglish": "Didn't you see that such and such daughter of al-Hakam was divorced by her husband with an irrevocable divorce, and she left (the house of her husband)? Thereupon 'A'isha (رضی اللہ عنہا) said: It was bad that she did. He (Urwa) said: Have you not heard the words of Fatima? Thereupon she said: There if no good for her in making mention of it.",
+                "hadithUrdu": "کیا آپ نے فلانہ بنت حکم کو نہیں دیکھا؟ اس کے شوہر نے اسے تین طلاقیں دیں تو وہ ( اس کے گھر سے ) چلی گئی ۔ ( عائشہ رضی اللہ عنہا نے ) کہا : اس نے برا کیا ۔ عروہ نے پوچھا : کیا آپ نے فاطمہ رضی اللہ عنہا کا قول نہیں سنا؟ تو انہوں نے جواب دیا : دیکھو! اس کو بیان کرنے میں اس کے لیے کوئی بھلائی نہیں ہے.",
+                "urduNarrator": "مجھ سے اسحاق بن منصور نے بیان کیا، ہم سے عبدالرحمٰن نے بیان کیا, سفیان نے عبدالرحمٰن بن قاسم سے اور انہوں نے اپنے والد ( قاسم ) سے روایت کی ، انہوں نے کہا : عروہ بن زبیر نے حضرت عائشہ رضی اللہ عنہا سے پوچھا",
+                "hadithArabic": ") وحَدَّثَنِي إِسْحَاقُ بْنُ مَنْصُورٍ، أَخْبَرَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، قَالَ: قَالَ عُرْوَةُ بْنُ الزُّبَيْرِ لِعَائِشَةَ: أَلَمْ تَرَيْ إِلَى فُلَانَةَ بِنْتِ الْحَكَمِ طَلَّقَهَا زَوْجُهَا الْبَتَّةَ، فَخَرَجَتْ، فَقَالَتْ: «بِئْسَمَا صَنَعَتْ»، فَقَالَ: أَلَمْ تَسْمَعِي إِلَى قَوْلِ فَاطِمَةَ، فَقَالَتْ: «أَمَا إِنَّهُ لَا خَيْرَ لَهَا فِي ذِكْرِ ذَلِكَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11285,
+                "hadithNumber": "3721",
+                "englishNarrator": "Jabir bin 'Abdullah (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "My maternal aunt was divorced, and she intended to pluck her dates. A person scolded her for having come out (during the period of 'Idda). She came to Allah's Prophet (ﷺ) and he said: Certainly you can pluck (dates) from your palm trees, for perhaps you may give charity or do an act of kindness.",
+                "hadithUrdu": "میری خالہ کو طلاق ہو گئی ، انہوں نے ( دورانِ عدت ) اپنی کھجوروں کا پھل توڑنے کا ارادہ کیا ، تو ایک آدمی نے انہیں ( گھر سے ) باہر نکلنے پر ڈانٹا ۔ وہ نبی صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئیں ، تو آپ نے فرمایا : \" کیوں نہیں ، اپنی کھجوروں کا پھل توڑو ، ممکن ہے کہ تم ( اس سے ) صدقہ کرو یا کوئی اور اچھا کام کرو.",
+                "urduNarrator": "ہم سے محمد بن حاتم بن میمون نے بیان کیا، کہا ہم سے یحییٰ بن سعید نے بیان کیا، انہوں نے ابن جریج سے، ہم سے محمد بن رافع نے بیان کیا، کہا ہم سے عبدالرزاق نے بیان کیا۔ ہم سے ابن جریج نے بیان کیا، اور مجھ سے ہارون بن عبداللہ نے بیان کیا، اور ہم سے حجاج بن محمد نے بیان کیا، انہوں نے کہا: ابن جریج نے کہا: انہوں نے مجھے خبر دی ابو الزبیر نے سنا,حضرت جابر بن عبداللہ رضی اللہ عنہ کہتے ہیں",
+                "hadithArabic": "وحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمِ بْنِ مَيْمُونٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنِ ابْنِ جُرَيْجٍ، ح وحَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، ح وحَدَّثَنِي هَارُونُ بْنُ عَبْدِ اللهِ، وَاللَّفْظُ لَهُ، حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، قَالَ: قَالَ ابْنُ جُرَيْجٍ: أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللهِ يَقُولُ: طُلِّقَتْ خَالَتِي، فَأَرَادَتْ أَنْ تَجُدَّ نَخْلَهَا، فَزَجَرَهَا رَجُلٌ أَنْ تَخْرُجَ، فَأَتَتِ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ: «بَلَى فَجُدِّي نَخْلَكِ، فَإِنَّكِ عَسَى أَنْ تَصَدَّقِي، أَوْ تَفْعَلِي مَعْرُوفًا.",
+                "headingArabic": "جَوَازِ خُرُوجِ الْمُعْتَدَّةِ الْبَائِنِ وَالْمُتَوَفَّى عَنْهَا زَوْجُهَا فِي النَّهَارِ لِحَاجَتِهَا",
+                "headingUrdu": "طلاق یا شوہر کی وفات کے بعد عدت کرنے والی عورت کے لیے اگر ضرورت ہو تو دن کے وقت باہر جانا جائز ہے۔",
+                "headingEnglish": "It is permissible for a woman who is observing 'Iddah after an irrevocable divorce or the death of her husband to go out during the day if she needs to",
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11286,
+                "hadithNumber": "3722",
+                "englishNarrator": "Ubaidullah bin 'Abdullah bin 'Utba (bin Mas'ud) reported that his father wrote to Umar bin 'Abdullah bin al Arqam al-Zuhri:",
+                "hadithEnglish": "He would go to Subai'ah bint al-Hirith al-Aslamiyya ( رضی اللہ عنہا) and ask her about a verdict from him which Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) gave her when she had asked that from him (in regard to the termination of 'Idda at the birth of a child) 'Umar bin Abdullah wrote to 'Abdullah bin 'Utba informing him that Subai'ah رضی اللہ عنہا had told him that she had been married to Sa'd bin Khaula and he belonged to the tribe of Amir bin Lu'ayy, and was one of those who participated in the Battle of Badr, and he died in the Farewell Pilgrimage and she had been in the family way at that time. And much time had not elapsed that she gave birth to a child after his death and when she was free from the effects of childbirth she embellished herself for those who had to give proposals of marriage. Abdul-Sunabil bin Ba'kak (from Banu 'Abdul-Dar) came to her and said: What is this that I see you embellished; perhaps you are inclined to marry, By Allah, you cannot marry unless four months and ten days (of 'Idda are passed). When he said that. I dressed myself, and as it was evening I came to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and asked him about it, and he gave me a religious verdict that I was allowed to marry when I had given birth to a child and asked me to marry if I so liked. Ibn Shihab said: I do not find any harm fur her in marrying when she has given birth to a child even when she is bleeding (after the birth of the child) except that her husband should not go near her until she is purified.",
+                "hadithUrdu": "سبیعہ بنت حارث اسلمیہ رضی اللہ عنہا کے پاس جائیں ، اور ان سے ان کے واقعے کے بارے میں اور ان کے فتویٰ پوچھنے پر جو کچھ رسول اللہ صلی اللہ علیہ وسلم نے ان سے فرمایا تھا اس کے بارے میں پوچھیں ۔ چنانچہ عمر بن عبداللہ نے عبداللہ بن عتبہ کو خبر دیتے ہوئے لکھا کہ سبیعہ نے انہیں بتایا ہے کہ وہ سعد بن خولہ کی بیوی تھیں ، وہ بنی عامر بن لؤی میں سے تھے اور وہ بدر میں شریک ہونے والوں میں سے تھے ۔ وہ حجۃ الوداع کے موقع پر ، فوت ہو گئے تھے جبکہ وہ حاملہ تھیں ۔ ان کی وفات کے بعد زیادہ وقت نہ گزرا تھا کہ انہوں نے بچے کو جنم دیا ۔ جب وی اپنے نفاس سے پاک ہوئیں تو انہوں نے نکاح کا پیغام دینے والوں کے لیے ( کہ انہیں ان کی عدت سے فراغت کا پتہ چل جائے کچھ ) بناؤ سنگھار کیا ۔ بنو عبدالدار کا ایک آدمی ۔ ۔ ابوالسنابل بن بعکک ۔ ۔ ان کے ہاں آیا تو ان سے کہا : کیا بات ہے میں آپ کو بنی سنوری دیکھ رہا ہوں؟ شاید آپ کو نکاح کی امید ہے؟ اللہ کی قسم! آپ نکاح نہیں کر سکتیں حتی کہ آپ پر چار مہینے دس دن گزر جائیں ۔ سبیعہ رضی اللہ عنہا نے کہا : جب اس نے مجھے یہ بات کہی تو شام کے وقت میں نے اپنے کپڑے سمیٹے ، رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئی اور آپ سے اس کے بارے میں دریافت کیا ۔ آپ صلی اللہ علیہ وسلم نے مجھے فتویٰ دیا کہ میں اسی وقت حلال ہو چکی ہوں جب میں نے بچہ جنا تھا اور آپ صلی اللہ علیہ وسلم نے ، اگر میں مناسب سمجھوں تو مجھے شادی کرنے کا حکم دیا ۔ ابن شہاب نے کہا : میں کوئی حرج نہیں سمجھتا کہ وضع حمل کے ساتھ ہی ، چاہے وہ اپنے ( نفاس کے ) خون میں ہو ، عورت نکاح کر لے ، البتہ اس کا شوہر اس کے پاک ہونے تک اس کے قریب نہ جائے.",
+                "urduNarrator": "ابو الطاہر اور حرملہ بن یحییٰ نے مجھ سے بات کی، اور وہ الفاظ میں قریب تھے، حرملہ نے کہا: اس نے ہم سے بیان کیا، اور ابو الطاہر نے کہا,  ہم سے ابن وہب نے بیان کیا, مجھ سے یونس بن یزید نے بیان کیا, ابن شہاب سے روایت ہے ، ( انہوں نے کہا : ) مجھے عبیداللہ بن عبداللہ بن عتبہ بن مسعود نے حدیث بیان کی کہ ان کے والد نے عمر بن عبداللہ بن ارقم زہری کو حکم دیتے ہوئے لکھا کہ",
+                "hadithArabic": "وحَدَّثَنِي أَبُو الطَّاهِرِ، وَحَرْمَلَةُ بْنُ يَحْيَى، وَتَقَارَبَا فِي اللَّفْظِ، قَالَ حَرْمَلَةُ: حَدَّثَنَا، وقَالَ أَبُو الطَّاهِرِ: أَخْبَرَنَا ابْنُ وَهْبٍ، حَدَّثَنِي يُونُسُ بْنُ يَزِيدَ، عَنِ ابْنِ شِهَابٍ، حَدَّثَنِي عُبَيْدُ اللهِ بْنُ عَبْدِ اللهِ بْنِ عُتْبَةَ بْنِ مَسْعُودٍ، أَنَّ أَبَاهُ كَتَبَ إِلَى عُمَرَ بْنِ عَبْدِ اللهِ بْنِ الْأَرْقَمِ الزُّهْرِيِّ، يَأْمُرُهُ أَنْ يَدْخُلَ عَلَى سُبَيْعَةَ بِنْتِ الْحَارِثِ الْأَسْلَمِيَّةِ، فَيَسْأَلَهَا عَنْ حَدِيثِهَا، وَعَمَّا قَالَ لَهَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ حِينَ اسْتَفْتَتْهُ، فَكَتَبَ عُمَرُ بْنُ عَبْدِ اللهِ إِلَى عَبْدِ اللهِ بْنِ عُتْبَةَ يُخْبِرُهُ، أَنَّ سُبَيْعَةَ أَخْبَرَتْهُ: أَنَّهَا كَانَتْ تَحْتَ سَعْدِ بْنِ خَوْلَةَ وَهُوَ فِي بَنِي عَامِرِ بْنِ لُؤَيٍّ، وَكَانَ مِمَّنْ شَهِدَ بَدْرًا، فَتُوُفِّيَ عَنْهَا فِي حَجَّةِ الْوَدَاعِ وَهِيَ حَامِلٌ، فَلَمْ تَنْشَبْ أَنْ وَضَعَتْ حَمْلَهَا بَعْدَ وَفَاتِهِ، فَلَمَّا تَعَلَّتْ مِنْ نِفَاسِهَا، تَجَمَّلَتْ لِلْخُطَّابِ، فَدَخَلَ عَلَيْهَا أَبُو السَّنَابِلِ بْنُ بَعْكَكٍ - رَجُلٌ مِنْ بَنِي عَبْدِ الدَّارِ - فَقَالَ لَهَا: مَا لِي أَرَاكِ مُتَجَمِّلَةً؟ لَعَلَّكِ تَرْجِينَ النِّكَاحَ، إِنَّكِ، وَاللهِ، مَا أَنْتِ بِنَاكِحٍ حَتَّى تَمُرَّ عَلَيْكِ أَرْبَعَةُ أَشْهُرٍ وَعَشْرٌ، قَالَتْ سُبَيْعَةُ: فَلَمَّا قَالَ لِي ذَلِكَ، جَمَعْتُ عَلَيَّ ثِيَابِي حِينَ أَمْسَيْتُ، فَأَتَيْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَسَأَلْتُهُ عَنْ ذَلِكَ، «فَأَفْتَانِي بِأَنِّي قَدْ حَلَلْتُ حِينَ وَضَعْتُ حَمْلِي، وَأَمَرَنِي بِالتَّزَوُّجِ إِنْ بَدَا لِي»، قَالَ ابْنُ شِهَابٍ: «فَلَا أَرَى بَأْسًا أَنْ تَتَزَوَّجَ حِينَ وَضَعَتْ، وَإِنْ كَانَتْ فِي دَمِهَا، غَيْرَ أَنَّهُ لَا يَقْرَبُهَا زَوْجُهَا حَتَّى تَطْهُرَ.",
+                "headingArabic": "انْقِضَاءِ عِدَّةِ الْمُتَوَفَّى عَنْهَا زَوْجُهَا وَغَيْرِهَا بِوَضْعِ الْحَمْلِ ‏‏",
+                "headingUrdu": "اس عورت کی عدت جس کا شوہر فوت ہو گیا ہو، اور اسی طرح کی عدت اس کے بچے کے جنم لینے پر ختم ہو جاتی ہے۔",
+                "headingEnglish": "The 'Iddah of a woman whose husband had died, and the like, ends when she gives birth.",
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11287,
+                "hadithNumber": "3723",
+                "englishNarrator": "Sulaiman bin Yasar narrated:",
+                "hadithEnglish": "Abu Salama bin 'Abdul-Rahman and Ibn 'Abbas (رضی اللہ عنہ) got together in the house of Abu Huraira (رضی اللہ عنہ) and began to discuss about the woman who gave birth to a child a few nights after the death of her husband. Ibn 'Abbas (رضی اللہ عنہ) said: Her 'Idda is that period which is longer of the two (between four months and ten days and the birth of the child, whichever is longer). Abu Salama, however said: Her period of 'Idda is over (with the birth of the child), and they were contending with each other over this issue, whereupon Abu Huraira (رضی اللہ عنہ) said: I subscribe (to the view) held by my nephew (i.e. Abu Salama رضی اللہ عنہا ). They sent Kuraib (the freed slave of Ibn 'Abbas) to Umm Salama to ask her about it. He came (back) to them and informed them that Umm Salama (رضی اللہ عنہا) said that Subai'ah al-Aslamiyya رضی اللہ عنہا gave birth to a child after the death of her husband when the few flights (had hardly) passed and she made mention of that to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) and he commanded her to marry.",
+                "hadithUrdu": "ابوسلمہ بن عبدالرحمٰن اور ابن عباس رضی اللہ عنہم دونوں حضرت ابوہریرہ رضی اللہ عنہ کے ہاں اکٹھے ہوئے اور وہ دونوں اس عورت کا ذکر کرنے لگے جس کا اپنے شوہر کی وفات سے چند راتوں کے بعد نفاس شروع ہو جائے ۔ ابن عباس رضی اللہ عنہ نے کہا : اس کی عدت دو وقتوں میں سے آخر والا ہے ۔ ابوسلمہ نے کہا : وہ حلال ہو چکی ہے ۔ وہ دونوں اس معاملے میں بحث کرنے لگے ، تو ابوہریرہ رضی اللہ عنہ نے کہا : میں اپنے بھتیجے ۔ ۔ یعنی ابوسلمہ ۔ ۔ کے ساتھ ہوں ۔ اس کے بعد انہوں نے اس مسئلے کے بارے میں دریافت کرنے کے لیے ابن عباس رضی اللہ عنہ کے آزاد کردہ غلام کریب کو حضرت ام سلمہ رضی اللہ عنہا کی طرف بھیجا ۔ وہ ( واپس ) ان کے پاس آیا تو انہیں بتایا کہ ام سلمہ رضی اللہ عنہا نے کہا ہے : سبیعہ اسلمیہ رضی اللہ عنہا نے اپنے شوہر کی وفات سے چند راتوں کے بعد بچہ جنا تھا ، انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے اس بات کا ذکر کیا تو آپ نے انہیں نکاح کرنے کا حکم دیا تھا.",
+                "urduNarrator": "ہم سے محمد بن المثنیٰ العنزی نے بیان کیا، انہوں نے کہا عبدالوہاب نے کہا : میں نے یحییٰ بن سعید سے سنا ، ( انہوں نے کہا : ) مجھے سلیمان بن یسار نے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى الْعَنَزِيُّ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، قَالَ: سَمِعْتُ يَحْيَى بْنَ سَعِيدٍ، أَخْبَرَنِي سُلَيْمَانُ بْنُ يَسَارٍ، أَنَّ أَبَا سَلَمَةَ بْنَ عَبْدِ الرَّحْمَنِ، وَابْنَ عَبَّاسٍ، اجْتَمَعَا عِنْدَ أَبِي هُرَيْرَةَ، وَهُمَا يَذْكُرَانِ الْمَرْأَةَ تُنْفَسُ بَعْدَ وَفَاةِ زَوْجِهَا بِلَيَالٍ، فَقَالَ ابْنُ عَبَّاسٍ: عِدَّتُهَا آخِرُ الْأَجَلَيْنِ، وَقَالَ أَبُو سَلَمَةَ: قَدْ حَلَّتْ، فَجَعَلَا يَتَنَازَعَانِ ذَلِكَ، قَالَ: فَقَالَ أَبُو هُرَيْرَةَ: أَنَا مَعَ ابْنِ أَخِي - يَعْنِي أَبَا سَلَمَةَ - فَبَعَثُوا كُرَيْبًا مَوْلَى ابْنِ عَبَّاسٍ، إِلَى أُمِّ سَلَمَةَ، يَسْأَلُهَا عَنْ ذَلِكَ، فَجَاءَهُمْ فَأَخْبَرَهُمْ، أَنَّ أُمَّ سَلَمَةَ قَالَتْ: «إِنَّ سُبَيْعَةَ الْأَسْلَمِيَّةَ نُفِسَتْ بَعْدَ وَفَاةِ زَوْجِهَا بِلَيَالٍ، وَإِنَّهَا ذَكَرَتْ ذَلِكَ لِرَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَأَمَرَهَا أَنْ تَتَزَوَّجَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11288,
+                "hadithNumber": "3724",
+                "englishNarrator": "It was narrated from Yahya bin Saeed with this chain (a hadith similar to no. 3723), except that Al-Laith in his Hadith:",
+                "hadithEnglish": "They sent him to Umm Salama رضی اللہ عنہا , but no mention was made of Kuraib.",
+                "hadithUrdu": "انہوں نے ( کسی کو ) ام سلمہ رضی اللہ عنہا کی طرف بھیجا ۔ انہوں نے کریب کا نام نہیں لیا.",
+                "urduNarrator": "ہم سے محمد بن رمح نے بیان کیا، انہوں نے کہا لیث اور یزید بن ہارون دونوں نے اسی سند کے ساتھ یحییٰ بن سعید سے روایت کی ، البتہ لیث نے اپنی حدیث میں کہا",
+                "hadithArabic": "وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ رُمْح، أَخْبَرَنَا اللَّيْثُ، ح وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَمْرٌو النَّاقِدُ، قَالَا: حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، كِلَاهُمَا عَنْ يَحْيَى بْنِ سَعِيدٍ، بِهَذَا الْإِسْنَادِ. غَيْرَ أَنَّ اللَّيْثَ قَالَ فِي حَدِيثِهِ: فَأَرْسَلُوا إِلَى أُمِّ سَلَمَةَ، وَلَمْ يُسَمِّ كُرَيْبًا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 119,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "The Book of Divorce",
+                    "chapterUrdu": "طلاق کے احکام و مسائل",
+                    "chapterArabic": "كتاب الطَّلَاقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 10976,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=439",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=437",
+                "label": "437",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=438",
+                "label": "438",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=439",
+                "label": "439",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=440",
+                "label": "440",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=441",
+                "label": "441",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=442",
+                "label": "442",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=443",
+                "label": "443",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=441",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=441",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=439",
+        "to": 11000,
+        "total": 40465
+    }
+}

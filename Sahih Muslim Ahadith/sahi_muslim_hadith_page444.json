@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 444,
+        "data": [
+            {
+                "id": 11364,
+                "hadithNumber": "3800",
+                "englishNarrator": null,
+                "hadithEnglish": "A hadith like this has been narrated on the authority of Suhail with the same chain of transmitters.",
+                "hadithUrdu": "ہم سے ابو کریب نے بیان کیا، انہوں نے کہا وکیع ، عبداللہ بن نمیر اور ابو احمد زبیری سب نے سفیان سے ، انہوں نے سہیل سے اسی سند کے ساتھ اسی کے مانند روایت کی اور ان سب نے بھی \" کوئی بیٹا اپنے والد کا \" کے الفاظ کہے.",
+                "urduNarrator": null,
+                "hadithArabic": "وَحَدَّثَنَاهُ أَبُو كُرَيْبٍ، حَدَّثَنَا وَكِيعٌ، ح وحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، ح وحَدَّثَنِي عَمْرٌو النَّاقِدُ، حَدَّثَنَا أَبُو أَحْمَدَ الزُّبَيْرِيُّ، كُلُّهُمْ عَنْ سُفْيَانَ، عَنْ سُهَيْلٍ، بِهَذَا الْإِسْنَادِ مِثْلَهُ، وَقَالُوا: «وَلَدٌ وَالِدَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "21",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 121,
+                    "chapterNumber": "21",
+                    "chapterEnglish": "The Book of Emancipating Slaves",
+                    "chapterUrdu": "غلامی سے آزادی کا بیان",
+                    "chapterArabic": "كتاب الْعِتْقِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11365,
+                "hadithNumber": "3801",
+                "englishNarrator": "Abu Huraira ( رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbade (two types of transactions) Mulamasa and Munabadha.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ملامسہ اور منابذہ کی بیعوں سے منع فرمایا.",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ التمیمی نے بیان کیا، کہا: میں نے مالک رضی اللہ عنہ کو پڑھا, محمد بن یحییٰ بن حبان نے اعرج سے ، انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ، قَالَ: قَرَأْتُ عَلَى مَالِكٍ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنِ الْأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، «أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنِ الْمُلَامَسَةِ، وَالْمُنَابَذَةِ.",
+                "headingArabic": "إِبْطَالِ بَيْعِ الْمُلاَمَسَةِ وَالْمُنَابَذَةِ",
+                "headingUrdu": "ملامسہ اور منابعہ کے لین دین کا باطل ہونا",
+                "headingEnglish": "The invalidity of Mulamasah and Munabadhah transactions",
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11366,
+                "hadithNumber": "3802",
+                "englishNarrator": null,
+                "hadithEnglish": "Abu Huraira ( رضی اللہ عنہ) reported like this from Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌).",
+                "hadithUrdu": "ہم سے ابو کریب اور ابن ابی عمر نے بیان کیا، کہا: ہم سے وکیع نے سفیان کی سند سے بیان کیا، ابوزناد نے اعرج سے ، انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے اسی کے مانند روایت کی.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنَا أَبُو كُرَيْبٍ، وَابْنُ أَبِي عُمَرَ، قَالَا: حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ،، عَنْ أَبِي الزِّنَادِ، عَنِ الْأَعْرَجِ، أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مِثْلَهُ،",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11367,
+                "hadithNumber": "3803",
+                "englishNarrator": null,
+                "hadithEnglish": "Abu Huraira رضی اللہ عنہ reported from Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) a hadith like this through another chain of transmitters.",
+                "hadithUrdu": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے ابن نمیر اور ابو اسامہ نے بیان کیا، اور ہم سے محمد بن عبداللہ بن نمیر نے بیان کیا، کہا ہم سے میرے والد نے بیان کیا۔ ہم سے محمد بن المثنی نے بیان کیا، کہا ہم سے عبدالوہاب نے بیان کیا، ان سب نے عبید اللہ بن عمر کی سند سے، وہ خبیب بن عبدالرحمٰن کی سند سے, حفص بن عاصم نے حضرت ابوہریرہ رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے اسی کے مانند روایت کی.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا ابْنُ نُمَيْرٍ، وَأَبُو أُسَامَةَ، ح وحَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللهِ بْنِ نُمَيْرٍ، حَدَّثَنَا أَبِي، ح وحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الْوَهَّابِ، كُلُّهُمْ عَنْ عُبَيْدِ اللهِ بْنِ عُمَرَ، عَنْ خُبَيْبِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ حَفْصِ بْنِ عَاصِمٍ،، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11368,
+                "hadithNumber": "3804",
+                "englishNarrator": null,
+                "hadithEnglish": "A hadith like this has been narrated on the authority of Abu Huraira ( رضی اللہ عنہ) through another chain of transmitters.",
+                "hadithUrdu": "ہم سے قتیبہ بن سعید نے بیان کیا، ان سے یعقوب نے، یعنی ہم سے ابن عبدالرحمٰن نے، انہوں نے سہیل بن کی سند سے بیان کیا۔ابوصالح نے حضرت ابوہریرہ رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے اسی کے مانند روایت کی.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا يَعْقُوبُ يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مِثْلَهُ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11369,
+                "hadithNumber": "3805",
+                "englishNarrator": "Abu Huraira ( رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Two types of trarisactions have been forbidden (by the Holy Prophet), al-Mlulamasa and al-Munabadha. As far as Mulamasa transaction is concerned, it is that every one of them (the parties entering into transaction) should touch the garment of the other without careful consideration, and al-Munabadha is that every one of them should throw his cloth to the other and one of them should not see the cloth of his friend.",
+                "hadithUrdu": "دو قسم کی بیعوں ( یعنی ) ملامسہ اور منابذہ سے منع کیا گیا ہے ۔ ملامسہ یہ ہے کہ دونوں ( بیچنے والے اور خریدنے والے ) میں سے ہر ایک بغیر سوچے ( اور غور کیے ) اپنے ساتھی کے کپڑے کو چھوئے ، اور منابذہ یہ ہے کہ دونوں میں سے ہر ایک اپنا کپڑا دوسرے کی طرف پھینکے اور کسی نے بھی اپنے ساتھی کے کپڑے کو ( جس کے ساتھ اس کے کپڑے کا تبادلہ ہو رہا ہے ) نہ دیکھا ہو ۔ ( اور اسی سے بیع کی تکمیل ہو جائے.",
+                "urduNarrator": "مجھ سے محمد بن رافع نے بیان کیا، کہا ہم سے عبدالرزاق نے بیان کیا، کہا ہم سے ابن جریج نے بیان کیا, عمرو بن دینار نے عطاء بن میناء سے روایت کی کہ انہوں نے ان ( عطاء ) کو حضرت ابوہریرہ رضی اللہ عنہ سے حدیث بیان کرتے ہوئے سنا ، انہوں نے کہا",
+                "hadithArabic": "وحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي عَمْرُو بْنُ دِينَارٍ، عَنْ عَطَاءِ بْنِ مِينَاءَ، أَنَّهُ سَمِعَهُ يُحَدِّثُ عَنْ أَبِي هُرَيْرَةَ، أَنَّهُ قَالَ: «نُهِيَ عَنْ بَيْعَتَيْنِ الْمُلَامَسَةِ، وَالْمُنَابَذَةِ»، أَمَّا الْمُلَامَسَةُ: فَأَنْ يَلْمِسَ كُلُّ وَاحِدٍ مِنْهُمَا ثَوْبَ صَاحِبِهِ بِغَيْرِ تَأَمُّلٍ، وَالْمُنَابَذَةُ: أَنْ يَنْبِذَ كُلُّ وَاحِدٍ مِنْهُمَا ثَوْبَهُ إِلَى الْآخَرِ، وَلَمْ يَنْظُرْ وَاحِدٌ مِنْهُمَا إِلَى ثَوْبِ صَاحِبِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11370,
+                "hadithNumber": "3806",
+                "englishNarrator": "Abu Sa'id al-Khudri ( رضی اللہ عنہ ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbade us (from), two types of business transactions and two ways of dressing. He forbade Mulamasa and Munabadha in transactions. Mulamasa means the touching of another's garment with his hand, whether at night or by day, without turning it over except this much. Munabadha means that a man throws his garment to another and the other throws his garment, and thus confirming their contract without the inspection of mutual agreement.",
+                "hadithUrdu": "اللہ کے رسول صلی اللہ علیہ وسلم نے ہمیں دو قسم کی بیعوں اور دو قسم کے پہناووں سے منع فرمایا : بیع میں آپ نے ملامسہ اور منابذہ سے منع فرمایا ۔ ملامسہ یہ ہے کہ کوئی آدمی دوسرے کے کپڑے کو دن میں یا رات میں اپنے ہاتھ سے چھوئے اور اس کے علاوہ اسے الٹ کر بھی نہ دیکھے ۔ اور منابذہ یہ ہے کہ کوئی آدمی دوسرے آدمی کی طرف اپنا کپڑا پھینکے اور دوسرا اس کی طرف اپنا کپڑا پھینکے اور بغیر دیکھے اور ( بغیر حقیقی ) رضامندی کے یہی ان کی بیع ہو.",
+                "urduNarrator": "مجھ سے ابو الطاہر اور حرملہ بن یحییٰ نے بیان کیا، اور لفظ حرملہ ہے، انہوں نے کہا: ہم سے ابن وہب نے بیان کیا، یونس نے مجھے ابن شہاب سے خبر دی ، انہوں نے کہا : مجھے عامر بن سعد بن ابی وقاص نے بتایا کہ حضرت ابوسعید خدری رضی اللہ عنہ نے کہا",
+                "hadithArabic": "وحَدَّثَنِي أَبُو الطَّاهِرِ، وَحَرْمَلَةُ بْنُ يَحْيَى، وَاللَّفْظُ لِحَرْمَلَةَ، قَالَا: أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي عَامِرُ بْنُ سَعْدِ بْنِ أَبِي وَقَّاصٍ، أَنَّ أَبَا سَعِيدٍ الْخُدْرِيَّ، قَالَ: «نَهَانَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنْ بَيْعَتَيْنِ، وَلِبْسَتَيْنِ، نَهَى عَنِ الْمُلَامَسَةِ، وَالْمُنَابَذَةِ فِي الْبَيْعِ»، وَالْمُلَامَسَةُ: لَمْسُ الرَّجُلِ ثَوْبَ الْآخَرِ بِيَدِهِ بِاللَّيْلِ أَوْ بِالنَّهَارِ، وَلَا يَقْلِبُهُ إِلَّا بِذَلِكَ، وَالْمُنَابَذَةُ: أَنْ يَنْبِذَ الرَّجُلُ إِلَى الرَّجُلِ بِثَوْبِهِ، وَيَنْبِذَ الْآخَرُ إِلَيْهِ ثَوْبَهُ وَيَكُونُ ذَلِكَ بَيْعَهُمَا مِنْ غَيْرِ نَظَرٍ وَلَا تَرَاضٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11371,
+                "hadithNumber": "3807",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Ibn Shihab through the same chain of transmitters.",
+                "hadithUrdu": "مجھ سے عمرو الناقد نے بیان کیا، ہم سے یعقوب بن ابراہیم بن سعد نے بیان کیا، ہم سے میرے والد نے بیان کیا، صالح نے ابن شہاب سے اسی سند کے ساتھ یہی حدیث بیان کی.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنِيهِ عَمْرٌو النَّاقِدُ، حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ، حَدَّثَنَا أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ بِهَذَا الْإِسْنَادِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11372,
+                "hadithNumber": "3808",
+                "englishNarrator": "Abu Huraira ( رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) forbade a transaction determined by throwing stones, and the type which involves some uncertainty.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے کنکر پھینک کر بیع کرنے اور دھوکے والی بیع سے منع فرمایا ہے.",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، ہم سے عبداللہ بن ادریس نے بیان کیا، ان سے یحییٰ بن سعید نے اور ہم سے ابو اسامہ نے بیان کیا، ان سے عبید اللہ نے بیان کیا, ابن حرب اور ان کا تلفظ ہم سے یحییٰ بن سعید نے بیان کیا، انہوں نے عبید اللہ کی سند سے، مجھ سے ابو الزناد نے العرج کی سند سے بیان کیا,حضرت ابوہریرہ رضی اللہ عنہ سے روایت ہے ، انہوں نے کہا",
+                "hadithArabic": "وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللهِ بْنُ إِدْرِيسَ، وَيَحْيَى بْنُ سَعِيدٍ، وَأَبُو أُسَامَةَ، عَنْ عُبَيْدِ اللهِ، ح وحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، وَاللَّفْظُ لَهُ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ عُبَيْدِ اللهِ، حَدَّثَنِي أَبُو الزِّنَادِ، عَنِ الْأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: «نَهَى رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنْ بَيْعِ الْحَصَاةِ، وَعَنْ بَيْعِ الْغَرَرِ.",
+                "headingArabic": "بُطْلاَنِ بَيْعِ الْحَصَاةِ وَالْبَيْعِ الَّذِي فِيهِ غَرَرٌ ‏‏",
+                "headingUrdu": "ہسہ لین دین اور ابہام پر مشتمل لین دین کا باطل ہونا",
+                "headingEnglish": "The invalidity of Hasah transactions and transactions involving ambiguity",
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11373,
+                "hadithNumber": "3809",
+                "englishNarrator": "Abdullah (bin 'Umar) (رضی اللہ عنہ ) said:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbade the transaction called habal al-habala.",
+                "hadithUrdu": "آپ نے حبل الحبلہ کی بیع سے منع فرمایا ہے.",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ اور محمد بن رومح نے بیان کیا، انہوں نے کہا: لیث نے نافع سے ، انہوں نے حضرت عبداللہ ( بن عمر رضی اللہ عنہ ) سے اور انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَمُحَمَّدُ بْنُ رُمْحٍ، قَالَا: أَخْبَرَنَا اللَّيْثُ، ح وحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللهِ، عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ «أَنَّهُ نَهَى عَنْ بَيْعِ حَبَلِ الْحَبَلَةِ».",
+                "headingArabic": "تَحْرِيمِ بَيْعِ حَبَلِ الْحَبَلَةِ ‏‏",
+                "headingUrdu": "حبل الحبلہ کی فروخت کی ممانعت",
+                "headingEnglish": "The prohibition of selling Habl Al-Habalah",
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11374,
+                "hadithNumber": "3810",
+                "englishNarrator": "Ibn 'Umar (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "The people of pre-Islamic days used to sell the meat of the slaughtered camel up to habal al-habala. And habal al-habala implies that a she-camel should give birth and then the (born one should grow young) and become pregnant. Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) forbade them that (this transaction).",
+                "hadithUrdu": "اہل جاہلیت اونٹ کے گوشت کی حبل الحبلہ تک بیع کرتے تھے ۔ اور حبل الحبلہ یہ ہے کہ اونٹنی ( مادہ ) بچہ جنے ، پھر وہ بچہ جو پیدا ہوا ہے ، حاملہ ہو ( اس کی یا اس کے گوشت کی بیع ) تو اللہ کے رسول صلی اللہ علیہ وسلم نے انہیں اس سے منع فرما دیا.",
+                "urduNarrator": "مجھ سے زہیر بن حرب اور محمد بن المثنٰی نے بیان کیا، اور یہ قول زہیر کا ہے، انہوں نے کہا: ہم سے یحییٰ نے بیان کیا, عبیداللہ سے روایت ہے ، انہوں نے کہا : مجھے نافع نے حضرت ابن عمر رضی اللہ عنہ سے خبر دی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، وَاللَّفْظُ لِزُهَيْرٍ، قَالَا: حَدَّثَنَا يَحْيَى وَهُوَ الْقَطَّانُ، عَنْ عُبَيْدِ اللهِ، أَخْبَرَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، قَالَ: «كَانَ أَهْلُ الْجَاهِلِيَّةِ يَتَبَايَعُونَ لَحْمَ الْجَزُورِ إِلَى حَبَلِ الْحَبَلَةِ، وَحَبَلُ الْحَبَلَةِ أَنْ تُنْتَجَ النَّاقَةُ ثُمَّ تَحْمِلَ الَّتِي نُتِجَتْ، فَنَهَاهُمْ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنْ ذَلِكَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11375,
+                "hadithNumber": "3811",
+                "englishNarrator": "Ibn 'Umar (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as having said this: One amongst you should not enter into a transaction when another is bargaining.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" تم میں سے کوئی کسی کی بیع پر بیع نہ کرے.",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، انہوں نے کہا امام مالک نے نافع سے ، انہوں نے حضرت ابن عمر رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ: قَرَأْتُ عَلَى مَالِكٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا يَبِعْ بَعْضُكُمْ عَلَى بَيْعِ بَعْضٍ».",
+                "headingArabic": "تَحْرِيمِ بَيْعِ الرَّجُلِ عَلَى بَيْعِ أَخِيهِ وَسَوْمِهِ عَلَى سَوْمِهِ وَتَحْرِيمِ النَّجْشِ وَتَحْرِيمِ التَّصْرِيَةِ",
+                "headingUrdu": "خریدار کو اپنا سامان بیچنے کے لیے خریدار کو خریداری منسوخ کرنے پر زور دینے کی ممانعت؛ اور بیچنے والے پر زور دینا کہ وہ پہلے سے طے شدہ فروخت کو منسوخ کر دے تاکہ کوئی خود سامان خرید سکے۔ اور مصنوعی طور پر قیمتوں میں اضافے کی ممانعت؛ اور خریدار کو دھوکہ دینے کے لیے دودھ کو تھن میں جمع ہونے دینے کی ممانعت",
+                "headingEnglish": "The prohibition of urging a buyer to cancel a purchase in order to sell him one's own goods; And urging a seller to cancel a sale already agreed upon so that one can buy the goods oneself; And the prohibition of artificially inflating prices; And the prohibition of letting milk accumulate in the udder in order to deceive the purchaser",
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11376,
+                "hadithNumber": "3812",
+                "englishNarrator": "Ibn 'Umar ( رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying: A person should not enter into a transaction when his brother is already making a transaction and he should not make a proposal of marriage when his brother has already made a proposal except when he gives permission.",
+                "hadithUrdu": "آپ نے فرمایا : \" کوئی آدمی اپنے ( مسلمان ) بھائی کی بیع پر بیع نہ کرے اور نہ اپنے ( مسلمان ) بھائی کے پیغامِ نکاح پر پیغام بھیجے ، الا یہ کہ وہ اسے اجازت دے.",
+                "urduNarrator": "ہم سے زہیر بن حرب اور محمد بن المثنی نے بیان کیا، اور یہ قول زہیر کا ہے، انہوں نے کہا: ہم سے یحییٰ نے بیان کیا، عبیداللہ نے کہا, مجھے نافع نے حضرت ابن عمر رضی اللہ عنہ سے خبر دی ، انہوں نے نبی صلی اللہ علیہ وسلم سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، وَاللَّفْظُ لِزُهَيْرٍ، قَالَا: حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللهِ، أَخْبَرَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا يَبِعِ الرَّجُلُ عَلَى بَيْعِ أَخِيهِ، وَلَا يَخْطُبْ عَلَى خِطْبَةِ أَخِيهِ، إِلَّا أَنْ يَأْذَنَ لَهُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11377,
+                "hadithNumber": "3813",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: A Muslim should not purchase (in opposition) to his brother.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" کوئی مسلمان کسی مسلمان کے سودے پر سودا بازی نہ کرے.",
+                "urduNarrator": "ہم سے یحییٰ بن ایوب، قتیبہ بن سعید اور ابن حجر نے بیان کیا، انہوں نے کہا اسماعیل بن جعفر نے ہمیں علاء سے حدیث بیان کی ، انہوں نے اپنے والد ( عبدالرحمٰن ) سے ، انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، وَابْنُ حُجْرٍ، قَالُوا: حَدَّثَنَا إِسْمَاعِيلُ وَهُوَ ابْنُ جَعْفَرٍ، عَنِ الْعَلَاءِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا يَسُمِ الْمُسْلِمُ عَلَى سَوْمِ أَخِيهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11378,
+                "hadithNumber": "3814",
+                "englishNarrator": "It was narrated from Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Messenger of Allah ﷺ forbade a men to urge someone a men to someone to cancel a sale already greed upon so that he can buy the good himself.",
+                "hadithUrdu": "اللہ کے رسول صلی اللہ علیہ وسلم نے اس سے منع فرمایا کہ کوئی آدمی اپنے ( مسلمان ) بھائی کے کیے گئے سودے پر سودا کرے ، اور دَورقی کی روایت میں ( سوم اخيه کی بجائے ) سيمة اخيه ( چھوٹے سے سودے ) کے الفاظ ہیں.",
+                "urduNarrator": "احمد بن ابراہیم دورقی نے مجھے یہی حدیث بیان کی ، کہا : مجھے عبدالصمد نے حدیث بیان کی ، کہا : ہمیں شعبہ نے علاء اور سہیل سے حدیث بیان کی ، ان دونوں نے اپنے اپنے والد ( عبدالرحمٰن بن یعقوب اور ابوصالح سمان ) سے ، انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے روایت کی ، نیز ہمیں محمد بن مثنیٰ نے یہی حدیث بیان کی ، کہا : ہمیں عبدالصمد نے حدیث بیان کی ، کہا : ہمیں شعبہ نے اعمش سے حدیث بیان کی ، انہوں نے ابوصالح سے ، انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے ، انہوں نے نبی صلی اللہ علیہ وسلم سے روایت کی ، نیز عبیداللہ بن معاذ نے ہمیں حدیث بیان کی ، کہا : ہمیں میرے والد نے حدیث بیان کی ، کہا : ہمیں شعبہ نے عدی بن ثابت سے حدیث بیان کی ، انہوں نے ابوحازم سے اور انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "وحَدَّثَنِيهِ أَحْمَدُ بْنُ إِبْرَاهِيمَ الدَّوْرَقِيُّ، حَدَّثَنِي عَبْدُ الصَّمَدِ، حَدَّثَنَا شُعْبَةُ، عَنِ الْعَلَاءِ، وَسُهَيْلٍ، عَنْ أَبِيهِمَا، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، ح وحَدَّثَنَاهُ مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الصَّمَدِ، حَدَّثَنَا شُعْبَةُ، عَنِ الْأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، ح وحَدَّثَنَا عُبَيْدُ اللهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ عَدِيٍّ وَهُوَ ابْنُ ثَابِتٍ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، «أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَهَى أَنْ يَسْتَامَ الرَّجُلُ عَلَى سَوْمِ أَخِيهِ»، وَفِي رِوَايَةِ الدَّوْرَقِيِّ: «عَلَى سِيمَةِ أَخِيهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11379,
+                "hadithNumber": "3815",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger (ﷺ) as saying: Do not go out to meet riders to enter into transaction with them; none of you must buy in opposition to another, nor must you bid against one another; a townsman must not sell for a man from the desert, and do not tie up udders of carnels and sheep, and he who buys them after that has been done has two courses open to him: after he has milked them he may keep them if he is pleased with them, or he may return them along with a sit of dates if he is displeased with them.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" بیع کے لیے قافلے کے ساتھ راستے میں ( جا کر ) ملاقات نہ کی جائے ، نہ تم میں سے کوئی دوسرے کی بیع پر بیع کرے ، نہ خریدنے کی نیت کے بغیر محض بھاؤ بڑھانے کے لیے قیمت لگاؤ ، نہ کوئی شہری کسی دیہاتی کے لیے بیع کرے اور نہ تم اونٹنی اور بکری کا دودھ روکو ، جس نے انہیں اس کے بعد خرید لیا تو ان کا دودھ دوہنے کے بعد اسے دو باتوں کا اختیار ہے : اگر اسے وہ پسند ہے تو اسے رکھ لے اور اگر اسے ناپسند ہے تو ایک صاع کھجور کے ساتھ اسے واپس کر دے.",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، انہوں نے کہا: میں نے مالک رضی اللہ عنہ کو ابو الزناد کی سند سے پڑھا, اعرج نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ: قَرَأْتُ عَلَى مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الْأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: لَا يُتَلَقَّى الرُّكْبَانُ لِبَيْعٍ، وَلَا يَبِعْ بَعْضُكُمْ عَلَى بَيْعِ بَعْضٍ، وَلَا تَنَاجَشُوا، وَلَا يَبِعْ حَاضِرٌ لِبَادٍ، وَلَا تُصَرُّوا الْإِبِلَ وَالْغَنَمَ، فَمَنِ ابْتَاعَهَا بَعْدَ ذَلِكَ فَهُوَ بِخَيْرِ النَّظَرَيْنِ بَعْدَ أَنْ يَحْلُبَهَا، فَإِنْ رَضِيَهَا أَمْسَكَهَا، وَإِنْ سَخِطَهَا رَدَّهَا وَصَاعًا مِنْ تَمْرٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11380,
+                "hadithNumber": "3816",
+                "englishNarrator": "Abu Huraira (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbade the (people) meeting the caravan (for entering into business transaction with them), and the selling of goods by a townsman on behalf of a man of the desert, and seeking by a woman the divorce of her sister (from her husband), and outbidding (against one another), and tying up the udders (of animals), and buying of (things) in opposition to one's brother.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ( تجارتی ) قافلوں کو آگے جا کر ( ان کے راستوں میں ) ملنے سے ، شہری کو کسی دیہاتی کے لیے بیع کرنے سے ، عورت کو اپنی ( مسلمان ) بہن کی طلاق کا مطالبہ کرنے سے ، محض بھاؤ چڑھانے کے لیے قیمت لگانے سے ، جانور کے تھنوں میں دودھ روکنے سے ، اور اپنے بھائی کے کیے گئے سودے پر سودا کرنے سے منع فرمایا ۔",
+                "urduNarrator": "ہم سے عبید اللہ بن نے بیان کیا, معاذ عنبری نے کہا : ہمیں شعبہ نے عدی بن ثابت سے حدیث بیان کی ، انہوں نے ابوحازم سے اور انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا عُبَيْدُ اللهِ بْنُ مُعَاذٍ الْعَنْبَرِيُّ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ عَدِيٍّ وَهُوَ ابْنُ ثَابِتٍ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، «أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنِ التَّلَقِّي لِلرُّكْبَانِ، وَأَنْ يَبِيعَ حَاضِرٌ لِبَادٍ، وَأَنْ تَسْأَلَ الْمَرْأَةُ طَلَاقَ أُخْتِهَا، وَعَنِ النَّجْشِ وَالتَّصْرِيَةِ، وَأَنْ يَسْتَامَ الرَّجُلُ عَلَى سَوْمِ أَخِيهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11381,
+                "hadithNumber": "3817",
+                "englishNarrator": null,
+                "hadithEnglish": "Shubah narrated with this chain (a hadith similar to no. 3816) that according to the Hadith of Ghundar and Wahb, \"it was forbidden;\" and according to the Hadith of Abdus-Samad; \"The Messenger of Allah ﷺ forbade...\" a Hadith like that of Mua'dh from Shobah.",
+                "hadithUrdu": "ابوبکر بن نافع نے مجھ سے کہا, غندر ، وہب بن جریر اور عبدالصمد بن عبدالوارث سب نے کہا : ہمیں شعبہ نے اسی سند کے ساتھ شعبہ سے روایت کردہ معاذ کی حدیث کی طرح حدیث بیان کی ، غندر اور وہب کی حدیث میں ( مجہول کے صیغے کے ساتھ ) ہے : \" منع کیا گیا ہے \" اور عبدالصمد کی حدیث میں ( معروف کے صیغے کے ساتھ ) ہے : \" رسول اللہ صلی اللہ علیہ وسلم نے منع فرمایا.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنِيهِ أَبُو بَكْرِ بْنُ نَافِعٍ، حَدَّثَنَا غُنْدَرٌ، ح وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، ح وحَدَّثَنَا عَبْدُ الْوَارِثِ بْنُ عَبْدِ الصَّمَدِ، حَدَّثَنَا أَبِي، قَالُوا جَمِيعًا: حَدَّثَنَا شُعْبَةُ بِهَذَا الْإِسْنَادِ فِي حَدِيثِ غُنْدَرٍ، وَوَهْبٍ: نُهِيَ، وَفِي حَدِيثِ عَبْدِ الصَّمَدِ: أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَهَى، بِمِثْلِ حَدِيثِ مُعَاذٍ، عَنْ شُعْبَةَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11382,
+                "hadithNumber": "3818",
+                "englishNarrator": "Ibn Umar ( رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbade the outbidding (against another).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ( خریدنے کے ارادے کے بغیر ) بھاؤ چڑھانے کے لیے قیمت لگانے سے منع فرمایا.",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، انہوں نے کہا: میں نے مالک رضی اللہ عنہ کو نافع کی سند سے پڑھا, حضرت ابن عمر رضی اللہ عنہ سے روایت ہے کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ: قَرَأْتُ عَلَى مَالِكٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، «أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنِ النَّجْشِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11383,
+                "hadithNumber": "3819",
+                "englishNarrator": "Ibn 'Umar (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: Do not go out to meet merchandise in the way, (wait) until it is brought into the market. This hadith has been reported on the authority of Ibn Numair but with a slight change of words.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے منع فرمایا کہ بازار میں پہنچنے سے پہلے سامان حاصل کیا جائے ۔ یہ ابن نمیر کے الفاظ ہیں اور دوسرے دونوں نے کہا : نبی صلی اللہ علیہ وسلم نے ( سامانِ تجارت لانے والوں کو ) راستے میں جا کر ملنے سے منع فرمایا ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، انہوں نے کہا ابن ابی زائدہ ، یحییٰ بن سعید اور ( عبداللہ ) ابن نمیر ، ان سب نے عبیداللہ سے ، انہوں نے نافع سے ، انہوں نے حضرت ابن عمر رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا ابْنُ أَبِي زَائِدَةَ، ح وَحَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى يَعْنِي ابْنَ سَعِيدٍ، ح وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي كُلُّهُمْ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى أَنْ تُتَلَقَّى السِّلَعُ حَتَّى تَبْلُغَ الأَسْوَاقَ ‏.‏ وَهَذَا لَفْظُ ابْنِ نُمَيْرٍ ‏.‏ وَقَالَ الآخَرَانِ إِنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنِ التَّلَقِّي ‏.‏",
+                "headingArabic": "تَحْرِيمِ تَلَقِّي الْجَلَبِ ‏‏",
+                "headingUrdu": "تاجروں کو روکنے کی ممانعت",
+                "headingEnglish": "The prohibition of intercepting traders",
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11384,
+                "hadithNumber": "3820",
+                "englishNarrator": null,
+                "hadithEnglish": "A hadith like that of Ibn Numair (as no. 3819) from 'Ubaidullah رضی اللہ عنہ was narrated from Ibn Umar رضی اللہ عنہ from the prophet ﷺ.",
+                "hadithUrdu": "امام مالک نے نافع سے ، انہوں نے حضرت ابن عمر رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے عبیداللہ سے ابن نمیر کی روایت کردہ حدیث کے مانند روایت کی.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، وَإِسْحَاقُ بْنُ مَنْصُورٍ، جَمِيعًا عَنِ ابْنِ مَهْدِيٍّ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِ حَدِيثِ ابْنِ نُمَيْرٍ، عَنْ عُبَيْدِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11385,
+                "hadithNumber": "3821",
+                "englishNarrator": "Abdullah (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: Do not meet the traders (in the way).",
+                "hadithUrdu": "نبی صلی اللہ علیہ وسلم نے ( راستے میں ) جا کر سامان تجارت لینے سے منع فرمایا.",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے عبداللہ بن مبارک نے بیان کیا، تیمی کی سند سے، ابو عثمان کی سند سے, حضرت عبداللہ رضی اللہ عنہ نے نبی صلی اللہ علیہ وسلم سے روایت کی کہ",
+                "hadithArabic": "وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللهِ بْنُ مُبَارَكٍ، عَنِ التَّيْمِيِّ، عَنْ أَبِي عُثْمَانَ، عَنْ عَبْدِ اللهِ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، «أَنَّهُ نَهَى عَنْ تَلَقِّي الْبُيُوعِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11386,
+                "hadithNumber": "3822",
+                "englishNarrator": "Abu Huraira ( رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger (ﷺ) as saying: Do not meet the merchandise (in the way).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ( راستے میں ) جا کر باہر سے لائے جانے والے سامان تجارت کو حاصل کرنے سے منع فرمایا.",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، انہوں نے بیان کیا ہُشَیم نے ہمیں ہشام سے خبر دی ، انہوں نے ابن سیرین سے اور انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا هُشَيْمٌ، عَنْ هِشَامٍ، عَنِ ابْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: «نَهَى رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَنْ يُتَلَقَّى الْجَلَبُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11387,
+                "hadithNumber": "3823",
+                "englishNarrator": "Abu Huraira ( رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: Do not meet the merchant in the way and enter into business transaction with him, and whoever meets him and buys from him (and in case it is done, see) that when the owner of (merchandise) comes into the market (and finds that he has been paid less price) he has the option (to declare the transaction null and void).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" سامانِ تجارت کو راستے میں جا کر حاصل نہ کرو ۔ جس نے باہر مل کر ان سے سامان خرید لیا ، تو جب اس کا مالک بازار میں آئے گا تو اسے ( بیع کو برقرار رکھنے یا فسخ کرنے کا ) اختیار ہو گا.",
+                "urduNarrator": "ہم سے ابن ابی عمر نے بیان کیا، کہا ہم سے ہشام بن سلیمان نے بیان کیا, ابن جریج نے کہا : مجھے ہشام قردوسی نے ابن سیرین سے خبر دی ، انہوں نے کہا : میں نے حضرت ابوہریرہ رضی اللہ عنہ سے سنا ، وہ کہہ رہے تھے",
+                "hadithArabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا هِشَامُ بْنُ سُلَيْمَانَ، عَنِ ابْنِ جُرَيْجٍ، أَخْبَرَنِي هِشَامٌ الْقُرْدُوسِيُّ، عَنِ ابْنِ سِيرِينَ، قَالَ: سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ: إِنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا تَلَقَّوْا الْجَلَبَ، فَمَنْ تَلَقَّاهُ فَاشْتَرَى مِنْهُ، فَإِذَا أَتَى سَيِّدُهُ السُّوقَ، فَهُوَ بِالْخِيَارِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11388,
+                "hadithNumber": "3824",
+                "englishNarrator": "Abu Huraira (رضی اللہ عنہ) reported it directly from Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌):",
+                "hadithEnglish": "The townsman 'should not sell for a man from the desert (with a view to taking advantage of his ignorance of the market conditions of the city). And Zuhair reported from the Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) that he forbade the townsman to sell on behalf of the man from the desert.",
+                "hadithUrdu": "آپ نے فرمایا : \"\" کوئی شہری کسی دیہاتی کے لیے بیع نہ کرے ۔ \"\" زہیر نے کہا : نبی صلی اللہ علیہ وسلم سے روایت ہے کہ آپ نے اس بات سے منع فرمایا کہ کوئی شہری کسی دیہاتی کی طرف سے بیع کرے.",
+                "urduNarrator": "ابوبکر بن ابی شیبہ ، عمرو ناقد اور زُہَیر بن حرب نے کہا : ہمیں سفیان نے زہری سے حدیث بیان کی ، انہوں نے سعید بن مسیب سے اور انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی ، وہ اس ( سند ) کو نبی صلی اللہ علیہ وسلم تک پہنچاتے تھے",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَمْرٌو النَّاقِدُ، وَزُهَيْرُ بْنُ حَرْبٍ، قَالُوا: حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيِّبِ، عَنْ أَبِي هُرَيْرَةَ، يَبْلُغُ بِهِ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا يَبِعْ حَاضِرٌ لِبَادٍ»، وقَالَ زُهَيْرٌ: عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «أَنَّهُ نَهَى أَنْ يَبِيعَ حَاضِرٌ لِبَادٍ.",
+                "headingArabic": "تَحْرِيمِ بَيْعِ الْحَاضِرِ لِلْبَادِي ‏‏",
+                "headingUrdu": "بستی کے رہنے والے کا اعرابی کی طرف سے فروخت کرنے کی ممانعت",
+                "headingEnglish": "The prohibition of the town-dweller selling on behalf of a bedouin",
+                "chapterId": "22",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 122,
+                    "chapterNumber": "22",
+                    "chapterEnglish": "The Book of Transactions",
+                    "chapterUrdu": "لین دین کے مسائل",
+                    "chapterArabic": "كتاب الْبُيُوعِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 11076,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=443",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=441",
+                "label": "441",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=442",
+                "label": "442",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=443",
+                "label": "443",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=444",
+                "label": "444",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=445",
+                "label": "445",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=446",
+                "label": "446",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=447",
+                "label": "447",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=445",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=445",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=443",
+        "to": 11100,
+        "total": 40465
+    }
+}

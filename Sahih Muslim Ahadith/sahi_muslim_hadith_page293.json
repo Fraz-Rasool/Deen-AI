@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 293,
+        "data": [
+            {
+                "id": 7589,
+                "hadithNumber": "25",
+                "englishNarrator": "Alī bin Khashram narrated to us, Abū Bakr, meaning Ibn Ayyāsh, informed us:",
+                "hadithEnglish": "He said ‘I heard al-Mughīrah saying: ‘There are no Ḥadīth on authority of Alī ‌رضی ‌اللہ ‌عنہ ‌, may Allah be pleased with him, that are confirmed except from the companions of Abdullah bin Mas’ūd ‌رضی ‌اللہ ‌عنہ.’",
+                "hadithUrdu": "کہا : میں نے مغیرہ سے سنا ، فرماتے تھے : حضرت علی ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے مروی احادیث میں کسی چیز کی تصدیق نہ کی جاتی تھی ، سوائے اس کے جو عبد اللہ بن مسعود ‌رضی ‌اللہ ‌عنہ ‌ ‌ کے شاگردوں سے روایت کی گئی ہو ۔",
+                "urduNarrator": "علی بن خشرم ‘ ابو بکر بن عیاش نے ہمیں بتایا",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ خَشْرَمٍ، أَخْبَرَنَا أَبُو بَكْرٍ يَعْنِي ابْنَ عَيَّاشٍ، قَالَ: سَمِعْتُ الْمُغِيرَةَ، يَقُولُ: «لَمْ يَكُنْ يَصْدُقُ عَلَى عَلِيٍّ رَضِيَ اللهُ عَنْهُ فِي الْحَدِيثِ عَنْهُ إِلَّا مِنْ أَصْحَابِ عَبْدِ اللهِ بْنِ مَسْعُودٍ»",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7590,
+                "hadithNumber": "26",
+                "englishNarrator": "Hasan bin ur-Rabī’ narrated to us, Hammād bin Zayd narrated to us, on authority of Ayyūb and Hishām [bin Hassān], on authority of Muhammad [bin Sīrīn] ; and Fuḍayl [bin Īyāḍ] narrated to us on authority of Hishām [bin Hassān]; he said Mukhlad bin Husayn narrated to us, on authority of Hishām [bin Hassān], on authority of Muhammad bin Sīrīn, that:",
+                "hadithEnglish": "He said: \"Indeed this knowledge is faith, so carefully consider from whom you take your faith\".",
+                "hadithUrdu": "یہ علم ، دین ہے ، اس لیے ( اچھی طرح ) دیکھ لو کہ تم کن لوگوں سے اپنا دین اخذ کرتے ہو ۔",
+                "urduNarrator": "حسن بن ربیع ‘ حماد بن زید ‘ ایوب ‘ ہشام ‘ محمد ‘ ح ‘ فضیل ‘ ہشام ‘ مخلد بن حسین ‘ ہشام ، انہوں نے محمد بن سیرین سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا حَسَنُ بْنُ الرَّبِيعِ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، وَهِشَامٍ، عَنْ مُحَمَّدٍ، وَحَدَّثَنَا فُضَيْلٌ، عَنْ هِشَامٍ قَالَ: وَحَدَّثَنَا مَخْلَدُ بْنُ حُسَيْنٍ، عَنْ هِشَامٍ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، قَالَ: «إِنَّ هَذَا الْعِلْمَ دِينٌ، فَانْظُرُوا عَمَّنْ تَأْخُذُونَ دِينَكُمْ»",
+                "headingArabic": "فِي أَنَّ الإِسْنَادَ مِنَ الدِّينِ وَأَنَّ الرِّوَايَةَ لَا تَكُونُ إِلَّا عَنْ الثِّقَاتِ وَأَنَّ جَرْحَ الرُّوَاةِ بِمَا هُوَ فِيهِمْ جَائِزٌ بَلْ وَاجِبٌ وَأَنَّهُ لَيْسَ مِنْ الْغِيبَةِ الْمُحَرَّمَةِ بَلْ مِنْ الذَّبِّ عَنْ الشَّرِيعَةِ الْمُكَرَّمَةِ",
+                "headingUrdu": "وہ جو بیانات سے متعلق ہے 'بیان کا سلسلہ مذہب سے ہے'؛ 'ٹرانسمیشنز نہیں لی جاتی ہیں سوائے ثقہ راویوں کے'؛ اور راویوں پر تنقید جو ان کے بارے میں جائز ہے، حتی کہ واجب ہے اور یہ کہ یہ غیبت کی ممنوع قسم نہیں ہے، بلکہ یہ شریعت کا دفاع ہے۔",
+                "headingEnglish": "That Which is Related to the Statements ‘The Chain of Narration is from the Religion’; ‘Transmissions are not Taken Except from Trustworthy Narrators’; and ‘Criticism of the Narrators With What is Permissible Regarding Them, Even Obligatory and That It is not the Prohibited Kind of Backbiting, Rather it is the Defense of the Noble Sharī’ah’",
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7591,
+                "hadithNumber": "27",
+                "englishNarrator": "Abū Ja’far Muhammad bin us-Sabbāh narrated to us, Ismā’īl bin Zakariyyā’ narrated to us, on authority of Āsim il-Ahwal, on authority of Ibn Sīrīn that:",
+                "hadithEnglish": "He said: \"They would not ask about the chains of narration, and when the Fitnah occurred, they said: 'Name for us your men'. So Ahl us-Sunnah would be regarded, and their Hadith were then taken, and Ahl ul-Bi’dah would be regarded, and their Hadith were not taken\".",
+                "hadithUrdu": "کہا : ( ابتدائی دور میں عالمان حدیث ) اسناد کے بارے میں کوئی سوال نہ کرتے تھے ، جب فتنہ پڑ گیا تو انہوں نے کہا : ہمارے سامنے اپنے رجال ( حدیث ) کے نام لو تاکہ اہل سنت کو دیکھ کر ان سے حدیث لی جائے اور اہل بدعت کو دیکھ کر ان کی حدیث قبول نہ کی جائے.",
+                "urduNarrator": "ہم سے ابو جعفر محمد بن الصباح نے بیان کیا، ہم سے اسماعیل بن زکریا نے بیان کیا,عاصم احول نے ابن سیرین سے روایت کی",
+                "hadithArabic": "حَدَّثَنَا أَبُو جَعْفَرٍ مُحَمَّدُ بْنُ الصَّبَّاحِ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ زَكَرِيَّاءَ، عَنْ عَاصِمٍ الْأَحْوَلِ، عَنِ ابْنِ سِيرِينَ، قَالَ: لَمْ يَكُونُوا يَسْأَلُونَ عَنِ الْإِسْنَادِ، فَلَمَّا وَقَعَتِ الْفِتْنَةُ، قَالُوا: سَمُّوا لَنَا رِجَالَكُمْ، فَيُنْظَرُ إِلَى أَهْلِ السُّنَّةِ فَيُؤْخَذُ حَدِيثُهُمْ، وَيُنْظَرُ إِلَى أَهْلِ الْبِدَعِ فَلَا يُؤْخَذُ حَدِيثُهُمْ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7592,
+                "hadithNumber": "28",
+                "englishNarrator": "Ishāq bin Ibrāhīm al-Hanthalī narrated to us, Īsā, and he is Ibn Yūnus, informed us, al-Awzā’ī narrated to us, on authority of Sulyamān bin Mūsā:",
+                "hadithEnglish": "He said: ‘I came across Tāwus ‌رضی ‌اللہ ‌عنہ and said: ‘So-and-so narrated to me such-and-such’. Then he said: ‘If your companion is trustworthy, then take from him.’",
+                "hadithUrdu": "انھوں نے کہا، میں طاوس ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے ملا اور ان سے کہا،مجھےشخص نے اس اس طرح حدیث سنائی، انھوں کہا ’اگر تمہارے صاحب ( استاد ) پوری طرح قابل اعتماد ہیں توان سے اخذ کر لو ۔",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم الحنظلی نے بیان کیا جو کہ ابن یونس ہیں,اوزاعی نے سلیمان بن موسٰی سے روایت کیا",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ، أَخْبَرَنَا عِيسَى وَهُوَ ابْنُ يُونُسَ، حَدَّثَنَا الْأَوْزَاعِيُّ، عَنْ سُلَيْمَانَ بْنِ مُوسَى، قَالَ: لَقِيتُ طَاوُسًا فَقُلْتُ: حَدَّثَنِي فُلَانٌ كَيْتَ وَكَيْتَ، قَالَ: «إِنْ كَانَ صَاحِبُكَ مَلِيًّا، فَخُذْ عَنْهُ»",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7593,
+                "hadithNumber": "29",
+                "englishNarrator": "Abdullah bin Abd ir-Rahman ad-Dārimī narrated to us, Marwān, meaning Ibn Muhammad ad-Dimashqī informed us, Sa’īd bin Abd il-Azīz narrated to us, on authority of Sulaymān bin Mūsā:",
+                "hadithEnglish": "He said, I said to Tāwus ‌رضی ‌اللہ ‌عنہ ‌\"So-and-so narrated to me like this-and-that\". He said: \"If your companion is trustworthy, then take from him.\"",
+                "hadithUrdu": "انہوں نے کہا : میں نے طاوس ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے عرض کی : فلاں نے ان ان الفاظ سے مجھے حدیث سنائی ۔ انہوں نے کہا : اگر تمہارے صاحب ثقاہت میں بھر پو ہیں تو ان سے اخذ کر لو ۔",
+                "urduNarrator": "ہم سے عبداللہ بن عبدالرحمٰن الدارمی نے بیان کیا، کہا کہ ہم سے مروان یعنی ابن محمد الدمشقی نے بیان کیا سعید بن عبد العزیز نے سلیمان بن موسیٰ سے روایت کی",
+                "hadithArabic": "وَحَدَّثَنَا عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ الدَّارِمِيُّ، أَخْبَرَنَا مَرْوَانُ يَعْنِي ابْنَ مُحَمَّدٍ الدِّمَشْقِيَّ، حَدَّثَنَا سَعِيدُ بْنُ عَبْدِ الْعَزِيزِ، عَنْ سُلَيْمَانَ بْنِ مُوسَى قَالَ: قُلْتُ لِطَاوُسٍ: إِنَّ فُلَانًا حَدَّثَنِي بِكَذَا وَكَذَا، قَالَ: «إِنْ كَانَ صَاحِبُكَ مَلِيًّا، فَخُذْ عَنْهُ»",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7594,
+                "hadithNumber": "30",
+                "englishNarrator": "Nasr bin Alī al-Jahdhamī narrated to us, al-Asma’ī narrated to us, on authority of Ibn Abī-Zinād, on authority of his father:",
+                "hadithEnglish": "He said: \"I met one hundred [transmitters] in al-Madīnah, each of whom were reliable. Narrations were not taken from one about who it was said, 'he is not from its people'.\"",
+                "hadithUrdu": "انہوں نےکہا : میں مدینہ میں سو ( اہل علم ) سے ملا جو ( دین میں تو ) محفوظ ومامون تھے ( لیکن ) ان سے حدیث اخذ نہیں کی جاتی تھیں ، کہا جاتا تھا یہ اس ( علم ) کے اہل نہیں",
+                "urduNarrator": "ہم سے نصر بن علی الجھمی نے بیان کیا، کہا ہم سے الصمعی نے بیان کیا،( عبد الرحمن ) بن ابی زناد نے اپنے والد سے روایت کی",
+                "hadithArabic": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ، حَدَّثَنَا الْأَصْمَعِيُّ، عَنِ ابْنِ أَبِي الزِّنَادِ، عَنْ أَبِيهِ قَالَ: أَدْرَكْتُ بِالْمَدِينَةِ مِائَةً، كُلُّهُمْ مَأْمُونٌ، مَا يُؤْخَذُ عَنْهُمُ الْحَدِيثُ، يُقَالُ: لَيْسَ مِنْ أَهْلِهِ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7595,
+                "hadithNumber": "31",
+                "englishNarrator": "Muhammad bin Abī Umar al-Makkī narrated to us, Sufyān narrated to us; and Abū Bakr bin Khallād al-Bāhilī narrated to us – and the wording is his, he said, I heard Sufyān bin Uyaynah, on authority of Mis’ar:",
+                "hadithEnglish": "He said, I heard Sa’d bin Ibrāhīm saying: ‘There is to be no narrating on authority of the Messenger of Allah, may Allah send blessings and peace upon him, except by trustworthy narrators (Thiqāt)’.",
+                "hadithUrdu": "کہا : میں نے سعد بن ابراہیم ( بن عبد الرحمن بن عوف ) سے سنا ، کہہ رہے تھے : ثقہ راویوں کے علاوہ اور نہ کوئی شخص رسول اللہﷺ سے حدیث بیان نہ کرے ۔",
+                "urduNarrator": "مسعر سے روایت ہے",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي عُمَرَ الْمَكِّيُّ، حَدَّثَنَا سُفْيَانُ، وحَدَّثَنِي أَبُو بَكْرِ بْنُ خَلَّادٍ الْبَاهِلِيُّ - وَاللَّفْظُ لَهُ - قَالَ: سَمِعْتُ سُفْيَانَ بْنَ عُيَيْنَةَ، عَنْ مِسْعَرٍ قَالَ: سَمِعْتُ سَعْدَ بْنَ إِبْرَاهِيمَ يَقُولُ: «لَا يُحَدِّثُ عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِلَّا الثِّقَاتُ»",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7596,
+                "hadithNumber": "32",
+                "englishNarrator": "Muhammad bin Abd Allah bin Quhzādh from the people of Marw narrated to us, he said I heard Abdān bin Uthmān saying, I heard Abdullah bin al-Mubārak ‌رضی ‌اللہ ‌عنہ saying:",
+                "hadithEnglish": "The chain of narration is from the Dīn, and were it not for the chain of narration whoever wished could say what he wanted’. Muhammad bin Abdullah said, al-Abbās bin Abī Rizmah narrated to me, he said I heard Abdullah [bin al-Mubārak] saying: ‘Between us and the people are ‘the legs’ (meaning the chain of narration, i.e. if a Ḥadīth was like a creature)’. Muhammad said, I heard Abā Ishāq Ibrāhīm bin Īsā at-Tālqānī say, I said to Abd Allah bin al-Mubārak: ‘Oh Abā Abd ir-Rahman! How is the Ḥadīth which goes ‘Indeed from al-Birr after al-Birr is that you pray for your parents after you pray for yourself and you fast for them both after you fast for yourself’? So [Ibn al-Mubārak] said: ‘Oh Abā Ishāq! On whose authority is this?’ I said to him: ‘This is a Ḥadīth from Shihāb bin Khirāsh’. [Ibn al-Mubārak] said: ‘[He is] trustworthy. On whose authority [did he transmit]?’ I said: ‘on authority of al-Hajjāj bin Dīnār’. [Ibn al-Mubārak] said: ‘[He is] trustworthy. On whose authority [did he transmit]?’ I said: ‘He [al-Hajjāj said] the Messenger of Allah, peace and blessings of Allah upon him, said…’ [Ibn al-Mubārak] said: ‘Oh Abā Ishāq! Indeed between al-Hajjāj bin Dīnār and the Prophet, peace and blessings of Allah upon him, is a wilderness in which the necks of the mounts are severed, however, there is no difference of opinion regarding charity [offered on behalf of one’s parents]’. Muhammad said, I heard Alī bin Shaqīq saying, I heard Abd Allah bin al-Mubārak saying in front of the people: ‘Abandon the Ḥadīth of Amr bin Thābit for indeed he would curse the Salaf [i.e., the Companions, may Allah be pleased with them]’.",
+                "hadithUrdu": "اسناد ( سلسلہ سند سے حدیث روایت کرنا ) دین میں سے ہے ۔ اگر اسناد نہ ہوتا تو جو کوئی جو کچھ چاہتا ، کہہ دیتا ۔ ( امام مسلم ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے ) کہا : اور محمد بن عبد اللہ نے کہا : مجھے عباس بن ابی رزمہ نے حدیث سنائی ، کہا : میں نے عبد اللہ ( بن مبارک ) کو یہ کہتے ہوئے سنا : ہمارے اور لوگوں کے درمیان ( فیصلہ کن چیز ، بیان کی جانے والی خبروں کے ) پاؤں ، یعنی سندیں ہیں ( جن پر روایات اس طرح کھڑی ہوتی ہیں جس طرح جاندار اپنے پاؤں پر کھڑے ہوتے ہیں ۔ )",
+                "urduNarrator": "محمد بن عبد اللہ بن قہزاد نے ( جو مرو کے باشندوں میں سے ہیں ) کہا : میں نے عبدان بن عثمان سے سنا ، کہہ رہے تھے : میں نے عبد اللہ بن مبارک ‌رضی ‌اللہ ‌عنہ ‌ ‌ کو یہ کہتے ہوئے سنا",
+                "hadithArabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ عَبْدِ اللهِ بْنِ قُهْزَاذَ مِنْ أَهْلِ مَرْوَ، قَالَ: سَمِعْتُ عَبْدَانَ بْنَ عُثْمَانَ يَقُولُ: سَمِعْتُ عَبْدَ اللهِ بْنَ الْمُبَارَكِ، يَقُولُ: «الْإِسْنَادُ مِنَ الدِّينِ، وَلَوْلَا الْإِسْنَادُ لَقَالَ مَنْ شَاءَ مَا شَاءَ‘وقَالَ مُحَمَّدُ بْنُ عَبْدِ اللهِ: حَدَّثَنِي الْعَبَّاسُ بْنُ أَبِي رِزْمَةَ، قَالَ: سَمِعْتُ عَبْدَ اللهِ، يَقُولُ: «بَيْنَنَا وَبَيْنَ [ص:16] الْقَوْمِ الْقَوَائِمُ» يَعْنِي الْإِسْنَادَ‘وقَالَ مُحَمَّدٌ: سَمِعْتُ أَبَا إِسْحَاقَ إِبْرَاهِيمَ بْنَ عِيسَى الطَّالْقَانِيَّ قَالَ: قُلْتُ لِعَبْدِ اللهِ بْنِ الْمُبَارَكِ، يَا أَبَا عَبْدِ الرَّحْمَنِ: الْحَدِيثُ الَّذِي جَاءَ «إِنَّ مِنَ الْبِرِّ بَعْدَ الْبِرِّ أَنْ تُصَلِّيَ لِأَبَوَيْكَ مَعَ صَلَاتِكَ، وَتَصُومَ لَهُمَا مَعَ صَوْمِكَ». قَالَ: فَقَالَ عَبْدُ اللهِ: يَا أَبَا إِسْحَاقَ، عَمَّنْ هَذَا؟ قَالَ: قُلْتُ لَهُ: هَذَا مِنْ حَدِيثِ شِهَابِ بْنِ خِرَاشٍ فَقَالَ: ثِقَةٌ، عَمَّنْ قَالَ؟ قُلْتُ: عَنِ الْحَجَّاجِ بْنِ دِينَارٍ، قَالَ: ثِقَةٌ، عَمَّنْ قَالَ؟ قُلْتُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ. قَالَ: يَا أَبَا إِسْحَاقَ، إِنَّ بَيْنَ الْحَجَّاجِ بْنِ دِينَارٍ وَبَيْنَ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مَفَاوِزَ تَنْقَطِعُ فِيهَا أَعْنَاقُ الْمَطِيِّ، وَلَكِنْ لَيْسَ فِي الصَّدَقَةِ اخْتِلَافٌ‘وَقَالَ مُحَمَّدٌ: سَمِعْتُ عَلِيَّ بْنَ شَقِيقٍ، يَقُولُ: سَمِعْتُ عَبْدَ اللهُ بْنَ الْمُبَارَكِ، يَقُولُ عَلَى رُءُوسِ النَّاسِ: «دَعُوا حَدِيثَ عَمْرِو بْنِ ثَابِتٍ فَإِنَّهُ كَانَ يَسُبَّ السَّلَفَ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7597,
+                "hadithNumber": "33",
+                "englishNarrator": "Abū Bakr ibn in-Naḍr bin Abīn-Naḍr narrated to me, he said Abūn-Naḍr Hāshim bin ul-Qāsim narrated to me, Abū Aqīl, companion of Buhayyah, narrated to us:",
+                "hadithEnglish": "He said: ‘I was sitting near al-Qāsim bin Ubayd Allah and Yahyā bin Sa’īd [bin Qays al-Madanī al-Qāḍī], when Yahyā said to al-Qāsim: ‘Oh Abā Muhammad! Indeed it is gravely harmful for the likes of you to be asked about something from the affair of this Dīn, and then knowledge of it is not found with you, and no relief [in the form of an answer]’ -or- ‘…knowledge and no articulation’. So al-Qāsim said [to Yahyā bin Sa’īd]: ‘Where did that come from?’ [Yahyā] said: ‘It is because you are the son of two Imāms of guidance- a descendent of Abu Bakr and Umar.’ [al-Qāsim] said to him: ‘More harmful than that- according to whoever reflects about Allah- is to speak without knowledge or to take [Ḥadīth] from someone who is not trustworthy’. [Abū Aqīl] said: ‘So [Yahyā bin Sa’īd] was quiet and did not respond to him’.",
+                "hadithUrdu": "کہا : میں قاسم بن عبید اللہ ( بن عبد اللہ بن بن عمر جن کی والدہ ام عبد اللہ بنت قاسم بن محمد بن ابی بکر تھیں ) اور یحییٰ بن سعید کے پاس بیٹھا ہوا تھا کہ یحییٰ نے قاسم بن عبید اللہ سے کہا : جناب ابو محمد! آپ جیسی شخصیت کے لیے یہ عیب ہے ، بہت بڑی بات ہے کہ آپ سے اس دین کے کسی معاملے کے بارے میں ( کچھ ) پوچھا جائے اور آپ کے پاس اس کے حوالے سے نہ علم ہو نہ کوئی حل یا ( یہ الفاظ کہے ) نہ علم ہو نہ نکلنے کی کوئی راہ ۔ تو قاسم نے ان سے کہا : کس وجہ سے؟ ( یحییٰ نے ) کہا : کیونکہ آپ ہدایت کے دو اماموں ابو بکر اور عمرؓ کے فرزند ہیں ۔ کہا : قاسم اس سے کہنے لگے : جس شخص کو اللہ کی طرف سے عقل ملی ہو ، اس کے نزدیک اس سے بھی بد تر بات یہ ہے کہ میں علم کے بغیر کچھ کہہ دوں یا اس سے روایت کروں جو ثقہ نہ ہو ۔ ( یہ سن کر یحییٰ ) خاموش ہو گئے اور انہیں کوئی جواب نہیں دیا ۔",
+                "urduNarrator": "مجھ سے ابوبکر بن النضر بن ابی النضر نے بیان کیا,ابو نضر ہاشم بن قاسم نے حدیث بیان کی ، کہا : ہم نے بہیہ کے مولیٰ ابو عقیل ( یحییٰ بن متوکل ) نے حدیث بیان کی",
+                "hadithArabic": "وحَدَّثَنِي أَبُو بَكْرِ بْنُ النَّضْرِ بْنِ أَبِي النَّضْرِ، قَالَ: حَدَّثَنِي أَبُو النَّضْرِ هَاشِمُ بْنُ الْقَاسِمِ، حَدَّثَنَا أَبُو عَقِيلٍ، صَاحِبُ بُهَيَّةَ، قَالَ: كُنْتُ جَالِسًا عِنْدَ الْقَاسِمِ بْنِ عُبَيْدِ اللهِ، وَيَحْيَى بْنِ سَعِيدٍ، فَقَالَ يَحْيَى لِلْقَاسِمِ: يَا أَبَا مُحَمَّدٍ إِنَّهُ قَبِيحٌ عَلَى مِثْلِكَ، عَظِيمٌ أَنْ تُسْأَلَ عَنْ شَيْءٍ مِنْ أَمْرِ هَذَا الدِّينِ، فَلَا يُوجَدَ عِنْدَكَ مِنْهُ عِلْمٌ، وَلَا فَرَجٌ - أَوْ عِلْمٌ، وَلَا مَخْرَجٌ - فَقَالَ لَهُ الْقَاسِمُ: وَعَمَّ ذَاكَ؟، قَالَ: لِأَنَّكَ ابْنُ إِمَامَيْ هُدًى. ابْنُ أَبِي بَكْرٍ، وَعُمَرَ، قَالَ: يَقُولُ لَهُ الْقَاسِمُ: أَقْبَحُ مِنْ ذَاكَ عِنْدَ مَنْ عَقَلَ عَنِ اللهِ أَنْ أَقُولَ بِغَيْرِ عِلْمٍ، أَوْ آخُذَ عَنْ غَيْرُ ثِقَةٍ، قَالَ: فَسَكَتَ فَمَا أَجَابَهُ",
+                "headingArabic": "الْكَشْفِ عَنْ مَعَايِبِ، رُوَاةِ الْحَدِيثِ وَنَقَلَةِ الأَخْبَارِ وَقَوْلِ الأَئِمَّةِ فِي ذَلِكَ",
+                "headingUrdu": "حدیث کے نقل کرنے والوں کے نقائص اور احادیث کے متعلقین اور اس کے متعلق ائمہ کے بیانات کا پردہ فاش کرنا",
+                "headingEnglish": "Unveiling Defects of the Transmitters of Ḥadīth and Relaters of Reports and the Statements of the A’immah Regarding That",
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7598,
+                "hadithNumber": "34",
+                "englishNarrator": "Bishr bin ul-Hakam al-Abdī narrated to me, he said, I heard Sufyān bin Uyaynah saying, they informed me on authority of Abī Aqīl, companion of Buhayyah, that a descendent of Abdullah bin Umar رضی ‌اللہ ‌عنہ was asked about something that he did not have knowledge about, so Yahyā bin Sa’īd said to him:",
+                "hadithEnglish": "‘By Allah, indeed it is a grave matter that the likes of you, a descendent of two Imāms of guidance – meaning Umar and Ibn Umar رضی ‌اللہ ‌عنہ is asked about a matter and you have no knowledge of it’. So [al-Qāsim] said: ‘By Allah, more grave than that according to Allah, and to whoever reflects about Allah, is to speak without knowledge or to report on authority of one who is not trustworthy’. [Ibn Uyaynah] said that Abū Aqīl Yahyā bin al-Mutawakkil witnessed them both when they said that.",
+                "hadithUrdu": "میں اس کو بہت بڑی بات سمجھتا ہوں کہ آپ جیسے انسان سے ( جبکہ آپ ہدایت کے وو اماموں یعنی عمر اور ابن عمر ‌رضی ‌اللہ ‌عنہ ‌ ‌ کے بیٹے ہیں ، کوئی بات پوچھی جائے ( اور ) اس کےب ارے میں آپ کو کچھ علم نہ ہو ۔ انہوں نے کہا : بخدا! اللہ کے نزدیک اور اس شخص کے نزدیک جسے اللہ نے عقل دی اس سے بھی بڑی بات یہ ہے کہ میں علم کے بغیر کچھ کہوں یا کسی ایسے شخص سے روایت کروں جو ثقہ نہیں ۔ ( سفیان نے ) کہا : ابو عقیل یحییٰ بن متوکل ( بھی ) ان کے پاس موجود تھے جب انہوں نے یہ بات کی ۔",
+                "urduNarrator": "بشر بن حکم عبدی نے مجھ سے بیان کیا ، کہا : میں نے سفیان بن عیینہ سے سنا ، کہہ رہے تھے : مجھے سے بہت سے لوگوں نے بہیہ کے مولیٰ ابو عقیل سے ( سن کر ) روایت کی کہ ( کچھ ) لوگوں نے حضرت عبد اللہ بن عمر ‌رضی ‌اللہ ‌عنہ ‌ ‌ کے ایک بیٹے سے کوئی بات پوچھی جس کے بارے میں ان کے علم میں کچھ نہ تھا تو یحییٰ بن سعید نے ان سے کہا :",
+                "hadithArabic": "وحَدَّثَنِي بِشْرُ بْنُ الْحَكَمِ الْعَبْدِيُّ، قَالَ: سَمِعْتُ سُفْيَانَ بْنَ عُيَيْنَةَ، يَقُولُ: أَخْبَرُونِي عَنْ أَبِي عَقِيلٍ صَاحِبِ بُهَيَّةَ، أَنَّ أَبْنَاءً لِعَبْدِ اللهِ بْنِ عُمَرَ، سَأَلُوهُ عَنْ شَيْءٍ لَمْ يَكُنْ عِنْدَهُ فِيهِ عِلْمٌ، فَقَالَ لَهُ يَحْيَى بْنُ سَعِيدٍ: وَاللهِ إِنِّي لَأُعْظِمُ أَنْ يَكُونَ مِثْلُكَ، وَأَنْتَ ابْنُ إِمَامَيِ الْهُدَى - يَعْنِي عُمَرَ، وَابْنَ عُمَرَ - تُسْأَلُ عَنْ أَمْرٍ لَيْسَ عِنْدَكَ فِيهِ عِلْمٌ، فَقَالَ: «أَعْظَمُ مِنْ ذَلِكَ وَاللهِ عِنْدَ اللهِ، وَعِنْدَ مَنْ عَقَلَ عَنِ اللهِ، أَنْ أَقُولَ بِغَيْرِ عِلْمٍ، أَوْ أُخْبِرَ عَنْ غَيْرِ ثِقَةٍ» قَالَ: وَشَهِدَهُمَا أَبُو عَقِيلٍ يَحْيَى بْنُ الْمُتَوَكِّلِ حِينَ قَالَا ذَلِكَ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7599,
+                "hadithNumber": "35",
+                "englishNarrator": "Amr bin Alī Abū Hafs narrated to us, he said I heard Yahyā bin Sa’īd, he said:",
+                "hadithEnglish": "‘I asked Sufyān ath-Thawrī , Shu’bah, Mālik, and Ibn Uyaynah about a man who is not reliable (Thabt) in Ḥadīth, and someone comes and asks me about him, and they said: ‘Inform [others] against him that he is not reliable’.’",
+                "hadithUrdu": "میں نے سفیان ثوری ، شعبہ ، مالک اور ابن عیینہ سے ایسے آدمی کے بارے میں پوچھا جو حدیث میں پور ی طرح قابل اعتماد ( ثقہ ) نہ ہو ، پھر کوئی آدمی آئے اور مجھ سے اس کے بارے میں سوال کرے؟ تو ان سب نے کہا : اس کے بارے میں بتا دو کہ وہ پوری طرح قابل اعتماد نہیں ہے",
+                "urduNarrator": "ہم سے عمرو بن علی ابو حفص نے بیان کیا، کہا کہ میں نے یحییٰ بن سعید سے سنا",
+                "hadithArabic": "وَحَدَّثَنَا عَمْرُو بْنُ عَلِيٍّ أَبُو حَفْصٍ، قَالَ: سَمِعْتُ يَحْيَى بْنَ سَعِيدٍ، قَالَ: سَأَلْتُ سُفْيَانَ الثَّوْرِيَّ، وَشُعْبَةَ، وَمَالِكًا، وَابْنَ عُيَيْنَةَ، عَنِ الرَّجُلِ لَا يَكُونُ ثَبْتًا فِي الْحَدِيثِ، فَيَأْتِينِي الرَّجُلُ، فَيَسْأَلُنِي عَنْهُ، قَالُوا: «أَخْبِرْ عَنْهُ أَنَّهُ لَيْسَ بِثَبْتٍ»",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7600,
+                "hadithNumber": "36",
+                "englishNarrator": null,
+                "hadithEnglish": "Ubayd Allah bin Sa’īd narrated to us, he said, I heard an-Naḍr saying: ‘Ibn Awn was asked about the Ḥadīth of Shahr and he was standing at the threshold of the door, so [Ibn Awn] said: ‘Indeed they criticized Shahr, indeed they criticized Shahr’. Muslim, may Allah have mercy on him, said ‘He means- the tongues of men were busy criticizing him’.’",
+                "hadithUrdu": "۔ نضر کہتے ہیں کہ ابن عون سے شہر ( بن حوشب ) کی حدیث کے بارے میں سوال کیا گیا ، ( اس وقت ) وہ ( اپنی ) دہلیز پر کھڑے تھے ، وہ کہنے لگے : انہوں ( محدثین ) نے یقینا شہر کو مطعون ٹھہرایا ہے ، انہوں نے شہر کو مطعون ٹھہرایا ہے ۔ امام مسلم ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا : لوگوں کی زبانوں نے انہیں نشانہ بنایا ، ان کے بارے میں باتیں کیں ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وَحَدَّثَنَا عُبَيْدُ اللهِ بْنُ سَعِيدٍ، قَالَ: سَمِعْتُ النَّضْرَ، يَقُولُ: سُئِلَ ابْنُ عَوْنٍ، عَنْ حَدِيثٍ لِشَهْرٍ وَهُوَ قَائِمٌ عَلَى أُسْكُفَّةِ الْبَابِ، فَقَالَ: «إِنَّ شَهْرًا نَزَكُوهُ، إِنَّ شَهْرًا نَزَكُوهُ». قَالَ مُسْلِمٌ رَحِمَهُ اللهُ: يَقُولُ: أَخَذَتْهُ أَلْسِنَةُ النَّاسِ تَكَلَّمُوا فِيهِ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7601,
+                "hadithNumber": "37",
+                "englishNarrator": "Hajjāj bin ush-Shā’ir narrated to me, Shabābah narrated to us, he said, Shu’bah said:",
+                "hadithEnglish": "‘I had met Shahr then abandoned transmitting from him’.",
+                "hadithUrdu": "میں شہر سے ملا لیکن ( روایت حدیث کے حوالے سے ) میں نے انہیں اہمیت نہ دی ۔",
+                "urduNarrator": "مجھ سے حجاج بن الشعر نے بیان کیا، کہا ہم سے شبابہ نے بیان کیا، انہوں نے کہا: شعبہ نے کہا:",
+                "hadithArabic": "وحَدَّثَنِي حَجَّاجُ بْنُ الشَّاعِرِ، حَدَّثَنَا شَبَابَةُ، قَالَ: قَالَ شُعْبَةُ: «وَقَدْ لَقِيتُ شَهْرًا فَلَمْ أَعْتَدَّ بِهِ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7602,
+                "hadithNumber": "38",
+                "englishNarrator": "Muhammad bin Abdullah bin Quhzādh, from the people of Marw, narrated to me, he said Alī bin Husayn bin Wāqid informed me, he said Abdullah bin al-Mubārak said, I said to Sufyān ath-Thawrī:",
+                "hadithEnglish": "‘Indeed Abbād bin Kathīr, about whose condition you are aware, when he related [narrations] he introduced a grave matter- do you believe that it should be said to the people ‘Do not take from him?’ Sufyān said: ‘Indeed!’ Abdullah [bin al-Mubārak] said: ‘So when I was in an assembly and Abbād was mentioned there, I praised him regarding his Dīn and said: ‘Do not take from him.’ Muhammad said, Abdullah bin Uthmān narrated to us, he said, my father said, Abdullah bin al-Mubārak said: ‘I ended up in an assembly of Shu’bah, and he said: ‘This is Abbād bin Kathīr so be warned against him.’",
+                "hadithUrdu": "بلاشبہ عباد بن کثیر ایسا ہے جس کا حال آپ کو معلوم ہے ۔ جب وہ حدیث بیان کرتا ہے تو بڑی بات کرتا ہے ، کیا آپ کی رائے ہے کہ میں لوگوں سے کہہ دیا کروں اس سے ( حدیث ) نہ لو؟ سفیان کہنےلگے : کیوں نہیں! عبد اللہ نے کہا : پھر یہ ( میرا معمول ) ہو گیا کہ جب میں کسی ( علمی ) مجلس میں ہوتا جہاں عباد کا ذکر ہوتا تو میں دین کے حوالے سے اس کی تعریف کرتا اور ( ساتھ یہ بھی ) کہتا : اس سے ( حدیث ) نہ لو ۔ ہم سے محمد نے بیان کیا ، کہا : ہم سے عبد اللہ بن عثمان نے بیان کیا ، کہا : میرے والد نے کہا : عبد اللہ بن مبارک نے کہا : میں شعبہ تک پہنچا تو انہوں نے ( بھی ) کہا : یہ عباد بن کثیر ہے تم لوگ اس سے ( حدیث بیان کرنے میں ) احتیاط کرو",
+                "urduNarrator": "مجھ سے محمد بن عبداللہ بن قحزاز نے جو کہ اہل مرو میں سے ہے، کہا: مجھ سے علی بن حسین بن واقد نے بیان کیا، انہوں نے کہاعبد اللہ بن مبارک نے کہا : میں نے سفیان ثوری سے عرض کی",
+                "hadithArabic": "وحَدَّثَنِي مُحَمَّدُ بْنُ عَبْدِ اللهِ بْنِ قُهْزَاذَ، مِنْ أَهْلِ مَرْوَ، قَالَ: أَخْبَرَنِي عَلِيُّ بْنُ حُسَيْنِ بْنِ وَاقِدٍ، قَالَ: قَالَ عَبْدُ اللهِ بْنُ الْمُبَارَكِ: قُلْتُ لِسُفْيَانَ الثَّوْرِيِّ: إِنَّ عَبَّادَ بْنَ كَثِيرٍ مَنْ تَعْرِفُ حَالَهُ، وَإِذَا حَدَّثَ جَاءَ بِأَمْرٍ عَظِيمٍ، فَتَرَى أَنْ أَقُولَ لِلنَّاسِ: لَا تَأْخُذُوا عَنْهُ؟ قَالَ سُفْيَانُ: «بَلَى»، قَالَ عَبْدُ اللهِ: فَكُنْتُ إِذَا كُنْتُ فِي مَجْلِسٍ ذُكِرَ فِيهِ عَبَّادٌ، أَثْنَيْتُ عَلَيْهِ فِي دِينِهِ، وَأَقُولُ: «لَا تَأْخُذُوا عَنْهُ» وَقَالَ مُحَمَّدٌ: حَدَّثَنَا عَبْدُ اللهِ بْنُ عُثْمَانَ، قَالَ: قَالَ أَبِي، قَالَ عَبْدُ اللهِ بْنُ الْمُبَارَكِ: انْتَهَيْتُ إِلَى شُعْبَةَ، فَقَالَ: هَذَا عَبَّادُ بْنُ كَثِيرٍ، فَاحْذَرُوهُ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7603,
+                "hadithNumber": "39",
+                "englishNarrator": "Al-Faḍl bin Sahl narrated to me, he said, I asked Mu’allā ar-Rāzī about Muhammad bin Sa’īd whom Abbād transmitted from, so he informed me about what Īsā bin Yūnus said:",
+                "hadithEnglish": "‘I was at his door and Sufyān was with [Muhammad bin Sa’īd], then when he came out I asked [Sufyān] about him. So he informed me that he was a liar.’",
+                "hadithUrdu": "میں اس کے دروزاے پر تھا ، سفیان اس کے پاس موجود تھے جب وہ باہر نکل گیا تو میں نے ان ( سفیان ) سے اس کے بارے میں پوچھا تو انہوں نے مجھے بتایا کہ وہ کذاب ہے ۔",
+                "urduNarrator": "فضل بن سہل نے بتایا ، کہا : میں نے معلیٰ رازی سے محمد بن سعید کے بارے میں ، جس سے عباد بن کثیر نے روایت کی ، پوچھا تو انہوں نے مجھے عیسیٰ بن یونس کے حوالے سے بیان کیا ، کہا",
+                "hadithArabic": "وحَدَّثَنِي الْفَضْلُ بْنُ سَهْلٍ، قَالَ: سَأَلْتُ مُعَلًّى الرَّازِيَّ، عَنْ مُحَمَّدِ بْنِ سَعِيدٍ، الَّذِي رَوَى عَنْهُ عَبَّادٌ، فَأَخْبَرَنِي عَنْ عِيسَى بْنِ يُونُسَ، قَالَ: «كُنْتُ عَلَى بَابِهِ، وَسُفْيَانُ عِنْدَهُ، فَلَمَّا خَرَجَ سَأَلْتُهُ عَنْهُ، فَأَخْبَرَنِي أَنَّهُ كَذَّابٌ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7604,
+                "hadithNumber": "40",
+                "englishNarrator": "Muhammad bin Abī Attāb narrated to me, he said Affān narrated to me, on authority of Muhammad bin Yahyā bin Sa’īd al-Qattān, on authority of his father, he said:",
+                "hadithEnglish": "‘We do not see the righteous more false in anything than they are regarding Ḥadīth’. Ibn Abī Attāb said: ‘So Muhammad bin Yahyā bin Sa’īd al-Qattān and I met and I asked him about it and he said on authority of his father: ‘You will not see the people of good (Ahl ul-Khayr) more false in anything than they are regarding Ḥadīth.’ Muslim said: ‘He was saying that falsehood flows upon their tongues although they do not intend to lie’.",
+                "hadithUrdu": "تم اہل خیر ( زہد و ورع والوں ) کو حدیث سے زیادہ کسی اور چیز میں جھوٹا نہیں پاؤ گے ۔ امام مسلم نے کہا کہ یحییٰ بن سعید نے فرمایا : ان کی زبان پر جھوٹ جاری ہو جاتا ہے ، وہ جان بوجھ کر جھوٹ نہیں بولتے ۔",
+                "urduNarrator": "محمد بن ابی عتاب نے کہا : مجھ سے عفان نے محمد بن یحییٰ بن سعید قطان سے حدیث بیان کی ، انہوں نے اپنے والد سے روایت کی ، کہا : ہم نے نیک لوگوں ( صوفیا ) کو حدیث سے بڑھ کر کسی اور چیز میں جھوٹ بولنے والا نہیں پایا ۔ ابن ابی عتاب نے کہا : میں محمد بن یحییٰ بن سعید قطان سے ملا تو اس ( بات کے ) بارے میں پوچھا ، انہوں نے اپنے والد سے روایت کرتے ہوئے کہا",
+                "hadithArabic": "وحَدَّثَنِي مُحَمَّدُ بْنُ أَبِي عَتَّابٍ، قَالَ: حَدَّثَنِي عَفَّانُ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ سَعِيدٍ الْقَطَّانِ، عَنْ أَبِيهِ، قَالَ: «لَمْ نَرَ الصَّالِحِينَ فِي شَيْءٍ أَكْذَبَ مِنْهُمْ فِي الْحَدِيثِ» [ص:18] قَالَ ابْنُ أَبِي عَتَّابٍ: فَلَقِيتُ أَنَا مُحَمَّدَ بْنَ يَحْيَى بْنِ سَعِيدٍ الْقَطَّانَ، فَسَأَلْتُهُ عَنْهُ، فَقَالَ: عَنْ أَبِيهِ، «لَمْ تَرَ أَهْلَ الْخَيْرِ فِي شَيْءٍ أَكْذَبَ مِنْهُمْ فِي الْحَدِيثِ». قَالَ مُسْلِمٌ: يَقُولُ: يَجْرِي الْكَذِبُ عَلَى لِسَانِهِمْ، وَلَا يَتَعَمَّدُونَ الْكَذِبَ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7605,
+                "hadithNumber": "41",
+                "englishNarrator": "Al-Faḍl bin Sahl narrated to me, he said Yazīd bin Hārūn narrated to us, he said Khalīfah bin Mūsā informed me, he said:",
+                "hadithEnglish": "‘I entered upon Ghālib bin Ubaydullah so he began dictating to me ‘Mak’hūl narrated to me this’ and ‘Mak’hūl narrated to me that’. So he prepared to answer the call of nature and stood up, then I looked in his notebook and in it was ‘Abān narrated to me, on authority of Anas’ and ‘Abān on authority of so-and-so’. So I abandoned [listening to his Ḥadīth] and stood up [to leave]’. I heard al-Hasan bin Alī al-Hulwānī saying: ‘I saw in one of the books of Affān a Ḥadīth of Hishām Abīl-Miqdām meaning a Ḥadīth of Umar bin Abd il-Azīz. [In it was written] ‘Hishām said: ‘A man said to be Yahyā bin so-and-so narrated to me, on authority of Muhammad bin Ka’b…’ [Al-Hulwānī] said, I said to Affān: ‘They would say Hishām heard it [directly] from Muhammad bin Ka’b’. So [Affān] said: ‘Indeed Hishām was stricken [with accusations of lying] with regards to this Ḥadīth for he would say ‘Yahyā narrated to me on authority of Muhammad’, then he claimed afterwards that he heard it from Muhammad [directly]’.’",
+                "hadithUrdu": "میں غالب بن عبید اللہ کے ہاں آیا تو اس نے مجھے لکھوانا شروع کیا : مکحول نے مجھ سے حدیث بیان کی ، مکحول نے مجھ سے حدیث بیان کی ۔ اسی اثنا میں پیشاب نے اسے مجبور کیا تو وہ اٹھ گیا ، میں نے ( جو ) اس کی کاپی دیکھی تو اس میں اس طرح تھامجھے ابان نے انس سے یہ حدیث سنائی ، ابان نے فلاں سے حدیث روایت کی ۔ اس پر میں نے اسے چھوڑ دیا اور اٹھ کھڑا ہوا ۔ ( امام مسلم نے کہا : ) اور میں نے حسن بن علی حلوانی سے سنا ، کہہ رہے تھے : میں نے عفان کی کتاب میں ابو مقدام ہشام کی ( وہ ) روایت دیکھی ( جو عمر بن عبد العزیز کی حدیث ہے ) ( اس میں تھا : ) ہشام نے کہا : مجھ سے ایک شخص نے جسے یحییٰ بن فلاں کہا جاتا تھا ، محمد بن کعب سے حدیث بیان بیان کی ، کہا : میں نے عفان سے کہا : ( اہل علم ) کہتے ہیں : ہشام نے یہ ( حدیث ) محمد بن کعب سے سنی تھی ۔ تو وہ کہنے لگے : وہ ( ہشام ) اسی حدیث کی وجہ سے فتنے میں پڑے ۔ ( پہلے ) وہ کہا کرتے تھے : مجھے یحییٰ نے محمد ( بن کعب ) سے روایت کی ، بعد ازاں یہ دعویٰ کر دیا کہ انہوں نے یہ ( حدیث براہ راست ) محمد سے سنی ہے ۔",
+                "urduNarrator": "مجھ سے الفضل بن سہل نے بیان کیا، انہوں نے کہا: ہم سے یزید بن ہارون نے بیان کیا، انہوں نے کہا: مجھ سے خلیفہ بن موسیٰ نے بیان کیا، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنِي الْفَضْلُ بْنُ سَهْلٍ، قَالَ: حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، قَالَ: أَخْبَرَنِي خَلِيفَةُ بْنُ مُوسَى، قَالَ: «دَخَلْتُ عَلَى غَالِبِ بْنِ عُبَيْدِ اللهِ فَجَعَلَ يُمْلِي عَلَيَّ، حَدَّثَنِي مَكْحُولٌ، حَدَّثَنِي مَكْحُولٌ، فَأَخَذَهُ الْبَوْلُ، فَقَامَ فَنَظَرْتُ فِي الْكُرَّاسَةِ، فَإِذَا فِيهَا حَدَّثَنِي أَبَانُ، عَنْ أَنَسٍ، وَأَبَانُ عَنْ فُلَانٍ، فَتَرَكْتُهُ، وَقُمْتُ‘قَالَ: وَسَمِعْتُ الْحَسَنَ بْنَ عَلِيٍّ الْحُلْوَانِيَّ، يَقُولُ: رَأَيْتُ فِي كِتَابِ عَفَّانَ، حَدِيثَ هِشَامٍ أَبِي الْمِقْدَامِ، حَدِيثَ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ، قَالَ هِشَامٌ: حَدَّثَنِي رَجُلٌ يُقَالُ لَهُ يَحْيَى بْنُ فُلَانٍ، عَنْ مُحَمَّدِ بْنِ كَعْبٍ، قَالَ: قُلْتُ لِعَفَّانَ: إِنَّهُمْ يَقُولُونَ هِشَامٌ، سَمِعَهُ مِنْ مُحَمَّدِ بْنِ كَعْبٍ، فَقَالَ: إِنَّمَا ابْتُلِيَ مِنْ قِبَلِ هَذَا الْحَدِيثِ، كَانَ يَقُولُ: حَدَّثَنِي يَحْيَى، عَنْ مُحَمَّدٍ، ثُمَّ ادَّعَى بَعْدُ أَنَّهُ سَمِعَهُ مِنْ مُحَمَّدٍ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7606,
+                "hadithNumber": "42",
+                "englishNarrator": "Muhammad bin Abdullah bin Quhzādh narrated to me, he said I heard Abd Allah bin Uthmān bin Jabalah saying, I said to Abd Allah bin al-Mubārak ‘Who is this man from whom you transmit the Ḥadīth of Abdullah bin Amr:",
+                "hadithEnglish": "‘The day of Fitr is the day of prizes…’?’ [Abd Allah] said: ‘Sulaymān bin al-Hajjāj. Look at what I placed in your hands [of praise] about him’. Ibn Quhzādh said I heard Wahb bin Zam’ah mentioning about Sufyān bin Abd il-Mālik, he said, Abdullah –meaning Ibn al-Mubārak- said: ‘I saw Rawh bin Ghutayf, the companion of blood the amount of a Dirham , and I took a seat in one of his audiences. Then I began to become ashamed for my companions to see me sitting with him while his Ḥadīth are disapproved of.’",
+                "hadithUrdu": "’’ عید الفطر کا دن انعامات کا دن ہے ۔ ‘ ‘ روایت کی؟ کہا : سلیمان بن حجاج ، ان میں سے جو ( احادیث ) تم نے اپنے پاس ( لکھ ) رکھی ہیں ( یا میں نے تمہیں اس کی جو حدیثیں دی ہیں ) ان میں ( اچھی طرح ) نظر کرنا ( غور کر لینا ۔ ) ابن قہزاذ نے کہا : میں نے وہب بن زمعہ سے سنا ، وہ سفیان بن عبد الملک سے روایت کر رہے تھے ، کہا : عبد اللہ ، یعنی ابن مبارک نے کہا : میں نے ایک درہم کے برابر خون والی حدیث کے راوی روح بن غطیف کو دیکھا ہے ۔ میں اس کے ساتھ ایک مجلس میں بیٹھا تو میں اپنے ساتھیوں سے شرم محسوس کر رہا تھا کہ وہ مجھے اس سے حدیث بیان کرنے کے ناپسندیدہ ہونے کے باوجود اس کے ساتھ بیٹھا دیکھیں اس کی حدیث ناپسندیدگی کی وجہ سے اور اس کی روایت میں نہ مقبولی کی وجہ سے-",
+                "urduNarrator": "مجھے محمد بن عبد اللہ قہزاذ نے حدیث سنائی ، کہا : میں نے عبد اللہ بن عثمان بن جبلہ سے سنا ، کہہ رہے تھے : میں نے عبد اللہ بن مبارک سے کہا : یہ کون ہے جس سے آپ نے عبد اللہ بن عمرو کی حدیث",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدُ بْنُ عَبْدِ اللهِ بْنِ قُهْزَاذَ، قَالَ: سَمِعْتُ عَبْدَ اللهِ بْنَ عُثْمَانَ بْنِ جَبَلَةَ، يَقُولُ: قُلْتُ لِعَبْدِ اللهِ بْنِ الْمُبَارَكِ: مَنْ هَذَا الرَّجُلُ الَّذِي رَوَيْتَ عَنْهُ حَدِيثَ عَبْدِ اللهِ بْنِ عَمْرٍو يَوْمُ الْفِطْرِ يَوْمُ الْجَوَائِزِ؟ قَالَ: «سُلَيْمَانُ بْنُ الْحَجَّاجِ انْظُرْ مَا وَضَعْتَ فِي يَدِكَ مِنْهُ‘قَالَ ابْنُ قُهْزَاذَ: وَسَمِعْتُ وَهْبَ بْنَ زَمْعَةَ، يَذْكُرُ عَنْ سُفْيَانَ بْنِ عَبْدِ الْمَلِكِ، قَالَ: قَالَ عَبْدُ اللهِ يَعْنِي ابْنَ الْمُبَارَكِ: «رَأَيْتُ رَوْحَ بْنَ غُطَيْفٍ صَاحِبَ الدَّمِ قَدْرِ الدِّرْهَمِ، وَجَلَسْتُ إِلَيْهِ مَجْلِسًا، فَجَعَلْتُ أَسْتَحْيِي مِنْ أَصْحَابِي أَنْ يَرَوْنِي جَالِسًا مَعَهُ كُرْهَ حَدِيثِهِ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7607,
+                "hadithNumber": "43",
+                "englishNarrator": "Ibn Quhzādh narrated to me, he said, I heard Wahb [bin Zam’ah] saying, on authority of Sufyān [bin Abd il-Mālik], on authority of Ibn al-Mubārak, he said:",
+                "hadithEnglish": "‘Baqiyyah [bin al-Walīd] is truthful of tongue however he transmits [Ḥadīth] from those who approach [the Muhaddithīn, i.e. are trustworthy] and from those who turn their backs on [the Muhaddithīn, i.e. and are weak]’.",
+                "hadithUrdu": "بقیہ زبان کے سچے ہیں لیکن وہ ہر آنے جانے والے ( علم حدیث میں مہارت رکھنے والے اور نہ رکھنے والے ہر شخص ) سے حدیث لے لیتے ہیں ۔",
+                "urduNarrator": "ابن قہزاذ نے کہا ، میں نے وہب سے سنا ، انہوں نے سفیان سے اور انہوں نے عبد اللہ بن مبارک سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنِي ابْنُ قُهْزَاذَ، قَالَ: سَمِعْتُ وَهْبًا، يَقُولُ: عَنْ سُفْيَانَ، عَنْ ابْنِ الْمُبَارَكِ، قَالَ: بَقِيَّةُ صَدُوقُ اللِّسَانِ، وَلَكِنَّهُ يَأْخُذُ عَمَّنْ أَقْبَلَ وَأَدْبَرَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7608,
+                "hadithNumber": "44",
+                "englishNarrator": "Qutaybah bin Sa’īd narrated to us, Jarīr narrated to us, on authority of Mughīrah, on authority of ash-Sha’bī, he said:",
+                "hadithEnglish": "‘al-Hārith al-A’war ul-Hamdānī narrated to me, and he is a liar’.",
+                "hadithUrdu": "مجھے حارث اعور ہمدانی نے حدیث سنائی اور وہ کذاب تھا ۔",
+                "urduNarrator": "قتیبہ بن سعید ‘ جریر نے مغیرہ سے ، انہوں نے شعبی سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا جَرِيرٌ، عَنْ مُغِيرَةَ، عَنِ الشَّعْبِيِّ، قَالَ: حَدَّثَنِي الْحَارِثُ الْأَعْوَرُ الْهَمْدَانِيُّ، وَكَانَ كَذَّابًا",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7609,
+                "hadithNumber": "45",
+                "englishNarrator": "Abū Āmir Abdullah bin Barrād al-Ash’arī narrated to us, Abū Usāmah narrated to us, on authority of Mufaḍḍal, on authority of Mughīrah, he said I heard ash-Sha’bī saying:",
+                "hadithEnglish": "‘al-Hārith al-A’war narrated to me,’ and he [ash-Sha’bī] was testifying that he was one of the liars’.",
+                "hadithUrdu": "مجھ سے حارث اعور نے روایت کی بیان کی اور ( یہ کہ ) وہ گواہی دیتے ہیں کہ وہ ( حارث ) جھوٹوں میں سے ایک تھا ۔",
+                "urduNarrator": "ابو عامر عبداللہ بن براداشعری ‘ ابو اسامہ ‘ مفضل بن مغیرہ سے روایت کی ، کہا : میں نے شعبی کو کہتے ہوئے سنا",
+                "hadithArabic": "حَدَّثَنَا أَبُو عَامِرٍ عَبْدُ اللهِ بْنُ بَرَّادٍ الْأَشْعَرِيُّ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ مُفَضَّلٍ، عَنْ مُغِيرَةَ، قَالَ: سَمِعْتُ الشَّعْبِيَّ، يَقُولُ: حَدَّثَنِي الْحَارِثُ الْأَعْوَرُ، وَهُوَ يَشْهَدُ أَنَّهُ أَحَدُ الْكَاذِبِينَ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7610,
+                "hadithNumber": "46",
+                "englishNarrator": "Qutaybah bin Sa’īd narrated to us, Jarīr narrated to us, on authority of Mughīrah, on authority of Ibrāhīm [bin Yazīd an-Nakhā’ī], he said, Alqamah said:",
+                "hadithEnglish": "‘I memorized the Qur’ān in two years’. Al-Hārith said: ‘The Qur’ān is easy; the revelation [i.e. the secret revelation to Alī in the belief of the Shī’ah] is more difficult ’.",
+                "hadithUrdu": "میں نے دو سال میں قرآن پڑھا ( تدبر کرتے ہوئے ختم کیا ۔ ) تو حارث نے کہا : قرآن آسان ہے ، وحی اس سے زیادہ مشکل ہے ۔",
+                "urduNarrator": "قتیبہ بن سعید ‘ جریر ‘ مغیرہ نے ابراہیم سے روایت کی ، کہا : علقمہ نے کہا",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا جَرِيرٌ، عَنْ مُغِيرَةَ، عَنْ إِبْرَاهِيمَ، قَالَ: قَالَ عَلْقَمَةُ: «قَرَأْتُ الْقُرْآنَ فِي سَنَتَيْنِ» فَقَالَ الْحَارِثُ: «الْقُرْآنُ هَيِّنٌ الْوَحْيُ أَشَدُّ»",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7611,
+                "hadithNumber": "47",
+                "englishNarrator": "Hajjāj bin ash-Shā’ir narrated to me, Ahmad- meaning Ibn Yūnus- narrated to us, Zā’idah narrated to us, on authority of al-A’mash, on authority of Ibrāhīm that al-Hārith said:",
+                "hadithEnglish": "‘I studied the Qur’ān for three years and the revelation for two years’; or he said: ‘…the revelation in three years and the Qur’ān in two years",
+                "hadithUrdu": "میں نے قرآن تین سال میں سیکھا اور وحی دو سال میں ( یا کہا ) : وحی تین سال میں اور قرآن دو سال میں ۔",
+                "urduNarrator": "حجاج بن شاعر ‘ احمد بن یونس نے ابراہیم نخعی سے روایت کی کہ حارث ( اعور ) نے کہا",
+                "hadithArabic": "وحَدَّثَنِي حَجَّاجُ بْنُ الشَّاعِرِ، حَدَّثَنَا أَحْمَدُ يَعْنِي ابْنَ يُونُسَ، حَدَّثَنَا زَائِدَةُ، عَنِ الْأَعْمَشِ، عَنْ إِبْرَاهِيمَ، أَنَّ الْحَارِثَ، قَالَ: «تَعَلَّمْتُ الْقُرْآنَ فِي ثَلَاثِ سِنِينَ، وَالْوَحْيَ فِي سَنَتَيْنِ» أَوْ قَالَ «الْوَحْيَ فِي ثَلَاثِ سِنِينَ، والْقُرْآنَ فِي سَنَتَيْنِ»",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7612,
+                "hadithNumber": "48",
+                "englishNarrator": null,
+                "hadithEnglish": "Hajjāj narrated to me, he said Ahmad- and he is Ibn Yūnus- narrated to me, Zā’idah narrated to us, on authority of Mansūr and al-Mughīrah, on authority of Ibrāhīm that al-Hārith was imputed.",
+                "hadithUrdu": "حجاج نے مجھ سے بیان کیا، انہوں نے کہا: مجھ سے احمد نے جو کہ ابن یونس ہیں، زیدہ نے, منصور اور مغیرہ نے ابراہیم سے روایت کی کہ حارث متہم راوی ہے.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنِي حَجَّاجٌ، قَالَ: حَدَّثَنِي أَحْمَدُ وَهُوَ ابْنُ يُونُسَ، حَدَّثَنَا زَائِدَةُ، عَنْ مَنْصُورٍ، وَالْمُغِيرَةِ، عَنْ إِبْرَاهِيمَ، «أَنَّ الْحَارِثَ اتُّهِمَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7613,
+                "hadithNumber": "49",
+                "englishNarrator": "Qutaybah bin Sa’īd narrated to us, Jarīr narrated to us, on authority of Hamzah az-Zayyāt, he said: ‘Murrah al-Hamdānī heard something from al-Hārith and said to him:",
+                "hadithEnglish": "‘sit by the door’. [Hamzah] said: ‘So Murrah went inside and took his sword and al-Hārith sensed evil and left’.",
+                "hadithUrdu": "تم دروازے ہی پر بیٹھو ( اندر نہ آؤ ) ۔ پھر وہ ( گھر میں ) داخل ہوئے اور اپنی تلوار اٹھا لی تو حارث نے برا انجام محسوس کر لیا اور چل دیا ۔",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا، کہا ہم سے جریر نے بیان کیا، انہوں نے حمزہ الزیات کی سند سے، انہوں نے کہا حمزہ زیات سے روایت ہے ، کہا : مرہ ہمدانی نے حارث سے کوئی بات سنی تو اس سے کہا",
+                "hadithArabic": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا جَرِيرٌ، عَنْ حَمْزَةَ الزَّيَّاتِ، قَالَ: سَمِعَ مُرَّةُ الْهَمْدَانِيُّ، مِنَ الْحَارِثِ شَيْئًا، فَقَالَ لَهُ: «اقْعُدْ بِالْبَابِ»، قَالَ: فَدَخَلَ مُرَّةُ، وَأَخَذَ سَيْفَهُ، قَالَ: وَأَحَسَّ الْحَارِثُ بِالشَّرِّ، فَذَهَبَ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "0",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 100,
+                    "chapterNumber": "0",
+                    "chapterEnglish": "Introduction",
+                    "chapterUrdu": "مقدمہ",
+                    "chapterArabic": "كتاب مُقَدِّمَةٌ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 7301,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=292",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=290",
+                "label": "290",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=291",
+                "label": "291",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=292",
+                "label": "292",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=293",
+                "label": "293",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=294",
+                "label": "294",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=295",
+                "label": "295",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=296",
+                "label": "296",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=294",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=294",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=292",
+        "to": 7325,
+        "total": 40465
+    }
+}

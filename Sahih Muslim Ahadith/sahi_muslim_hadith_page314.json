@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 314,
+        "data": [
+            {
+                "id": 8114,
+                "hadithNumber": "550",
+                "englishNarrator": "Abu Huraira ‌رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: Five prayers and from one Friday prayer to (the next) Friday prayer is an expiation (of the sins committed in between their intervals) if major sins are not committed.",
+                "hadithUrdu": "رسول اللہ ﷺ نے فرمایا : ’’ پانچوں نمازیں اور ( ہر ) جمعہ ( دوسرے ) جمعہ تک درمیانی مدت کے گناہوں کا کفارہ ( ان کو مٹانے والے ) ہیں جب تک کبیرہ گناہوں کا ارتکاب نہ کیاجائے ۔ ‘ ‘",
+                "urduNarrator": "ہم سے یحییٰ بن ایوب، قتیبہ بن سعید اور علی بن حجر نے بیان کیا، ان سب نے اسماعیل بن ایوب سے کہا: ہم سے اسماعیل بن جعفر نے بیان کیا,علاء نے اپنے والد عبد الرحمن بن یعقوب سے اور انہوں نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، وَعَلِيُّ بْنُ حُجْرٍ، كُلُّهُمْ عَنْ إِسْمَاعِيلَ، قَالَ ابْنُ أَيُّوبَ: حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، أَخْبَرَنِي الْعَلَاءُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ يَعْقُوبَ مَوْلَى الْحُرَقَةِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «الصَّلَاةُ الْخَمْسُ، وَالْجُمْعَةُ إِلَى الْجُمْعَةِ، كَفَّارَةٌ لِمَا بَيْنَهُنَّ، مَا لَمْ تُغْشَ الْكَبَائِرُ».",
+                "headingArabic": "الصَّلَوَاتُ الْخَمْسُ وَالْجُمُعَةُ إِلَى الْجُمُعَةِ وَرَمَضَانُ إِلَى رَمَضَانَ مُكَفِّرَاتٌ لِمَا بَيْنَهُنَّ مَا اجْتُنِبَتِ الْكَبَائِرُ.",
+                "headingUrdu": "ایک جمعہ سے دوسرے جمعہ تک اور ایک رمضان سے دوسرے رمضان تک پانچوں نمازیں درمیان میں آنے والے گناہوں کا کفارہ ہیں جب تک کہ کبیرہ گناہوں سے بچتا رہے۔",
+                "headingEnglish": "The five daily prayers, from one Jumu`ah to the next, and from one Ramadan to the next, are an expiation for whatever (sins) come in between, so long as one avoids major sins",
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8115,
+                "hadithNumber": "551",
+                "englishNarrator": "Abu Huraira رضی ‌اللہ ‌عنہ ‌reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: The five (daily) prayers and one Friday prayer to (the next) Friday prayer are expiations (for the sins committed in the intervals) between them.",
+                "hadithUrdu": "آپ نے فرمایا : ’’ پانچوں نمازیں اور ایک جمعہ ( دوسرے ) جمعہ تک درمیانی مدت کے گناہوں کاکفارہ ہیں ۔ ‘ ‘",
+                "urduNarrator": "مجھ سے نصر بن علی الجہضَمی نے بیان کیا، کہا ہم سے عبد الاعلٰی نے بیان کیا، ہم سے ہشام نے بیان کیا,محمد ( بن سیرین ) نےحضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ، انہو ں نے نبی ﷺ سے روایت کی",
+                "hadithArabic": "حَدَّثَنِي نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ، أَخْبَرَنَا عَبْدُ الْأَعْلَى، حَدَّثَنَا هِشَامٌ، عَنْ مُحَمَّدٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «الصَّلَوَاتُ الْخَمْسُ، وَالْجُمْعَةُ إِلَى الْجُمْعَةِ، كَفَّارَاتٌ لِمَا بَيْنَهُنَّ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8116,
+                "hadithNumber": "552",
+                "englishNarrator": "Abu Huraira ‌رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "Verily the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: The five (daily) prayers and from one Friday prayer to the (next) Friday prayer, and from Ramadhan to Ramadhan are expiations for the (sins) committed in between (their intervals) provided one shuns the major sins.",
+                "hadithUrdu": "رسول اللہ ﷺ فرمایا کرتے تھے : ’’جب ( انسان ) کبیرہ گناہوں سے اجتناب کر رہا ہو تو پانچ نمازیں ، ایک جمعہ ( دوسرے ) جمعہ تک اور ایک رمضان دوسرے رمضان تک ، درمیان کے عرصے میں ہونے والے گناہوں کو مٹانے کا سبب ہیں ۔ ‘ ‘",
+                "urduNarrator": "مجھ سے ابو الطاہر اور ہارون بن سعید العیلی نے بیان کیا، کہا, ہم سے ابن وہب نے ابو صخر سے بیان کیا,عمر بن اسحاق کےوالد اسحاق ( بن عبد اللہ ) نے حضرت ابوہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنِي أَبُو الطَّاهِرِ، وَهَارُونُ بْنُ سَعِيدٍ الْأَيْلِيُّ، قَالَا: أَخْبَرَنَا ابْنُ وَهْبٍ، عَنْ أَبِي صَخْرٍ، أَنَّ عُمَرَ بْنَ إِسْحَاقَ مَوْلَى زَائِدَةَ، حَدَّثَهُ عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ كَانَ يَقُولُ: «الصَّلَوَاتُ الْخَمْسُ، وَالْجُمْعَةُ إِلَى الْجُمْعَةِ، وَرَمَضَانُ إِلَى رَمَضَانَ، مُكَفِّرَاتٌ مَا بَيْنَهُنَّ إِذَا اجْتَنَبَ الْكَبَائِرَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8117,
+                "hadithNumber": "553",
+                "englishNarrator": "Uqba bin 'Amir رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "We were entrusted with the task of tending the camels. On my turn when I came back in the evening after grazing them in the pastures, I found Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) stand and address the people. I heard these words of his: If any Muslim performs ablution well, then stands and prays two rak'ahs setting about them with his heart as well as his face, Paradise would be guaranteed to him. I said: What a fine thing is this! And a narrator who was before me said: The first was better than even this. When I cast a glance, I saw that it was 'Umar رضی ‌اللہ ‌عنہ who said: I see that you have just come and observed: If anyone amongst you performs the ablution, and then completes the ablution well and then says: I testify that there is no god but Allah and that Muhammad is the servant of Allah and His Messenger, the eight gates of Paradise would be opened for him and he may enter by whichever of them he wishes.",
+                "hadithUrdu": "ہمارے ذمے اونٹ چرانے کا کام تھا ، میری باری آئی ، تو میں شام کو وقت ان کو چرا کر واپس لایا تو میں نے رسول اللہ ﷺکو دیکھا ، آپ کھڑے ہو کر لوگوں کو کچھ ارشاد فرما رہے تھے ، مجھے آپ کی یہ بات ( سننے کو ) ملی : ’’جو بھی مسلمان وضو کرتا ہے اور وہ اچھی طرح وضو کرتا ہے ، پھر کھڑے ہو کر پوری یکسوئی اور توجہ کے ساتھ دو رکعت نماز پڑھتا ہے تو اس کے لیے جنت واجب ہو جاتی ہے ۔ ‘ ‘ میں نے کہا : کیا خوب بات ہے یہ ! تو میرے سامنے ایک کہنے والا کہنے لگا : اس سے پہلے والی بات اس سے بھی زیادہ عمدہ ہے ۔ میں نے دیکھا تو وہ عمر ‌رضی ‌اللہ ‌عنہ ‌ ‌ تھے ، انہوں نے کہا : میں نے دیکھا ہے تو ابھی آئے ہو ، آپ ﷺ نے ( اس سے پہلے ) فرمایا تھا : ’’ تم میں سے جو شخص بھی وضو کرے اور اپنے وضو کو پورا کرے ( یا خوب اچھی طرح وضو کرے ) پھر یہ کہے : میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبود نہیں اور محمد اس کے بندے اور اس کے رسول ہیں ، تو اس کے لیے جنت کے آٹھوں دروازے کھول دیے جاتے ہیں ، جس سے چاہے داخل ہوجائے ۔ ‘ ‘",
+                "urduNarrator": "مجھ سے محمد بن حاتم بن میمون نے بیان کیا,عبدالرحمان بن مہدی نے کہا : ہمیں معاویہ بن صالح نے ربیعہ بن یزید کے حوالے سے ابو ادریس خولانی سےحدیث بیان کی ، انہوں نےعتبہ بن عامر ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ۔ اسی طرح ( معاویہ نے ) کہا : مجھے ابو عثمان نے جبیر بن نفیر سے ، انہو ں نے عقبہ بن عامر ‌رضی ‌اللہ ‌عنہ ‌ ‌ سےحدیث سنائی ، انہو ں نے کہا",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمِ بْنِ مَيْمُونٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا مُعَاوِيَةُ بْنُ صَالِحٍ، عَنْ رَبِيعَةَ يَعْنِي ابْنَ يَزِيدَ، عَنْ أَبِي إِدْرِيسَ الْخَوْلَانِيِّ، عَنْ عُقْبَةَ بْنِ عَامِرٍ. ح، وَحَدَّثَنِي أَبُو عُثْمَانَ، عَنْ جُبَيْرِ بْنِ نُفَيْرٍ، عَنْ عُقْبَةَ بْنِ عَامِرٍ، قَالَ: كَانَتْ عَلَيْنَا رِعَايَةُ الْإِبِلِ فَجَاءَتْ نَوْبَتِي فَرَوَّحْتُهَا بِعَشِيٍّ فَأَدْرَكْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَائِمًا يُحَدِّثُ النَّاسَ فَأَدْرَكْتُ مِنْ قَوْلِهِ: «مَا مِنْ مُسْلِمٍ يَتَوَضَّأُ فَيُحْسِنُ وُضُوءَهُ، ثُمَّ يَقُومُ فَيُصَلِّي رَكْعَتَيْنِ، مُقْبِلٌ عَلَيْهِمَا بِقَلْبِهِ وَوَجْهِهِ، إِلَّا وَجَبَتْ لَهُ الْجَنَّةُ» قَالَ فَقُلْتُ: مَا أَجْوَدَ هَذِهِ فَإِذَا قَائِلٌ بَيْنَ يَدَيَّ يَقُولُ: الَّتِي قَبْلَهَا أَجْوَدُ فَنَظَرْتُ فَإِذَا عُمَرُ قَالَ: إِنِّي قَدْ رَأَيْتُكَ جِئْتَ آنِفًا، قَالَ: مَا مِنْكُمْ مِنْ أَحَدٍ يَتَوَضَّأُ فَيُبْلِغُ - أَوْ فَيُسْبِغُ - الْوَضُوءَ ثُمَّ يَقُولُ: أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَأَنَّ مُحَمَّدًا عَبْدُ اللهِ وَرَسُولُهُ إِلَّا فُتِحَتْ لَهُ أَبْوَابُ الْجَنَّةِ الثَّمَانِيَةُ يَدْخُلُ مِنْ أَيِّهَا شَاءَ .",
+                "headingArabic": "الذِّكْرِ الْمُسْتَحَبِّ عَقِبَ الْوُضُوءِ ‏‏",
+                "headingUrdu": "وضو کے بعد مستحب ذکر (ذکر)",
+                "headingEnglish": "Adh-Dhikr (the remembrance) which is recommended following wudu’",
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8118,
+                "hadithNumber": "554",
+                "englishNarrator": "Uqba bin 'Amir al-Juhani ‌رضی ‌اللہ ‌عنہ ‌reported:",
+                "hadithEnglish": "Verily the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said and then narrated (the hadith) like one (mentioned above) except (this) that he said: He who performed ablution and said: I testify that there is no god but Allah, the One, there is no associate with Him and I testify that Muhammad is His servant and His Messenger.",
+                "hadithUrdu": "رسول اللہ ﷺ نے فرمایا : اس کے بعد پچھلی ورایت کے الفاظ ہیں ، البتہ انہوں نے ( اس طرح ) کہا : ’’ جس نےوضو کیا اور کہا : میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبود نہیں ، وہ اکیلا ہے ، اس کا کوئی شریک نہیں اور میں گواہی دیتا ہوں کہ محمدﷺ اس کے بندے اور اس کے رسول ہیں ۔ ‘ ‘",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا,زید بن حباب نے معاویہ بن صالح سے باقی ماندہ سابقہ سند کے ساتھ حضرت عقبہ بن عامر جہنی ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+                "hadithArabic": "وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا زَيْدُ بْنُ الْحُبَابُِ، حَدَّثَنَا مُعَاوِيَةُ بْنُ صَالِحٍ، عَنْ رَبِيعَةَ بْنِ يَزِيدَ، عَنْ أَبِي إِدْرِيسَ الْخَوْلَانِيِّ، وَأَبِي عُثْمَانَ، عَنْ جُبَيْرِ بْنِ نُفَيْرِ بْنِ مَالِكٍ الْحَضْرَمِيِّ، عَنْ عُقْبَةَ بْنِ عَامِرٍ الْجُهَنِيِّ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: فَذَكَرَ مِثْلَهُ غَيْرَ أَنَّهُ قَالَ: «مَنْ تَوَضَّأَ فَقَالَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8119,
+                "hadithNumber": "555",
+                "englishNarrator": "Abdullah bin Zaid bin 'Asim al-Ansari ‌رضی ‌اللہ ‌عنہ ‌, who was a Companion (of the Holy Prophet), reported:",
+                "hadithEnglish": "It was said to him (by people): Perform for us the ablution (as it was performed) by the Messenger of Allah (way peace be upon him). He ('Abdullah bin Zaid) called for a vessel (of water), and poured water from it on his hands and washed them three times. Then he inserted his hand (in the vessel) and brought it (water) out, rinsed his mouth and snuffed up water from the palm of one hand doing that three times, He again inserted his hand and brought it out and washed his face three times, then inserted his hand and brought it out and washed each arm up to the elbow twice, then inserted his hand and brought it out and wiped his head both front and back with his hands. He then washed his feet up to the ankles, and then said: This is how God's Messenger (peace be upon him) performed ablution.",
+                "hadithUrdu": "ہمیں رسول اللہ ﷺ کا ( سا ) وضو کر کے دکھائیں ۔ اس پر انہوں نے پانی کا ایک برتن منگوایا ، اسے جھکا کر اس میں سے اپنے دونوں ہاتھوں پر پانی انڈیلا اور انہیں تین بار دھویا ، پھر اپنا ہاتھ ڈال کر پانی نکالا اور ایک ہی چلو سے کلی کی اور ناک میں پانی کھینچا ، یہ تین بار کیا ، پھر اپنا ہاتھ ، پھر اپناہاتھ ڈال کر پانی نکالا اوراپنا چہرہ تین بار دھویا ، پھر اپنا ہاتھ ڈال کر پانی نکالا اور اپنے بازو کہنیوں تک دو دو بار دھوئے ، ( تاکہ امت کو معلوم ہو جائے کہ کسی عضو کو دوبار دھونا بھی جائز ہے ) پھر ہاتھ ڈال کر پانی نکالا اور اپنے سر کا مسح کیا اور ( آپ ) اپنے دونوں ہاتھ ( سرپر ) آگے سے پیچھے کواور پیچھے سے آگے کو لائے ، ( ایک طرف مسح کرنا اور اسی ہاتھ کودوبارہ واپس لانامستحب ہے ( پھر دونوں پاؤں ٹخنوں تک دھوئے ، پھرکہا : رسو اللہ ﷺ کا وضو اسی طرح تھا ۔",
+                "urduNarrator": "محمد بن الصباح نے مجھ سے کہا,خالد بن عبد اللہ نےعمرو بن یحییٰ بن عمارہ سے ، انہوں نے اپنےوالد ( یحییٰ بن عمارہ ) سے ، انہوں نے حضرت عبد اللہ بن زید بن عاصم انصاری ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ( انہیں شرف صحبت حاصل تھا ) ، ( یحییٰ بن عمارہ نے ) کہا : حضرت عبد اللہ بن زید سے کہا گیا",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدُ بْنُ الصَّبَّاحِ، حَدَّثَنَا خَالِدُ بْنُ عَبْدِ اللهِ، عَنْ عَمْرِو بْنِ يَحْيَى بْنِ عُمَارَةَ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللهِ بْنِ زَيْدِ بْنِ عَاصِمٍ الْأَنْصَارِيِّ، - وَكَانَتْ لَهُ صُحْبَةٌ - قَالَ: قِيلَ لَهُ: تَوَضَّأْ لَنَا وُضُوءَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: فَدَعَا بِإِنَاءٍ فَأَكْفَأَ مِنْهَا عَلَى يَدَيْهِ فَغَسَلَهُمَا ثَلَاثًا، ثُمَّ أَدْخَلَ يَدَهُ فَاسْتَخْرَجَهَا فَمَضْمَضَ، وَاسْتَنْشَقَ مِنْ كَفٍّ وَاحِدَةٍ فَفَعَلَ ذَلِكَ ثَلَاثًا، ثُمَّ أَدْخَلَ يَدَهُ فَاسْتَخْرَجَهَا فَغَسَلَ وَجْهَهُ ثَلَاثًا، ثُمَّ أَدْخَلَ يَدَهُ فَاسْتَخْرَجَهَا فَغَسَلَ يَدَيْهِ إِلَى الْمِرْفَقَيْنِ مَرَّتَيْنِ مَرَّتَيْنِ، ثُمَّ أَدْخَلَ يَدَهُ فَاسْتَخْرَجَهَا فَمَسَحَ بِرَأْسِهِ فَأَقْبَلَ بِيَدَيْهِ وَأَدْبَرَ، ثُمَّ غَسَلَ رِجْلَيْهِ إِلَى الْكَعْبَيْنِ، ثُمَّ قَالَ هَكَذَا كَانَ وُضُوءُ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ.",
+                "headingArabic": "فِي وُضُوءِ النَّبِيِّ صلى الله عليه وسلم ‏‏",
+                "headingUrdu": "وضو کی ایک اور وضاحت",
+                "headingEnglish": "Another description of wudu’",
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8120,
+                "hadithNumber": "556",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith is narrated by Amr bin Yahya with the same chain of transmitters, but there is no mention of ankles.",
+                "hadithUrdu": "( خالدبن عبداللہ کے بجائے ) سلیمان بن بلا ل نےعمرو بن یحییٰ سے باقی ماندہ پچھلی سند کے ساتھ یہی روایت بیان کی ، اس میں ’’ٹخنوں تک ‘ ‘ کے الفاظ نہیں ہیں ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وَحَدَّثَنِي الْقَاسِمُ بْنُ زَكَرِيَّا، حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ، عَنْ سُلَيْمَانَ هُوَ ابْنُ بِلَالٍ، عَنْ عَمْرِو بْنِ يَحْيَى، بِهَذَا الْإِسْنَادِ نَحْوَهُ وَلَمْ يَذْكُرْ الْكَعْبَيْنِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8121,
+                "hadithNumber": "557",
+                "englishNarrator": null,
+                "hadithEnglish": "Malik bin Anas narrated it from 'Amr bin Yahya with the same chain of transmitters, transmitters and mentioned the rinsing (of mouth) and snuffing (of water into the nostrils) three times, but he did not mention from one palm, and made this addition: He moved them (his hands) for wiping to the front of his head and then the nape of his neck, then bringing them back till he reached the place from which he had begun, after which he washed his feet.",
+                "hadithUrdu": "انہوں نےتین بار کلی کی اور ناک میں جھاڑی ۔ انہوں نے ’’ایک ہی چلو سے ‘ ‘ کےالفاظ ذکر نہیں کیے اور ’’دونوں ہاتھ آگے سے ( پیچھے کو ) لائے اور پیچھےسے ( آگے کو ) لائے ‘ ‘ کے بعد یہ الفاظ بڑھائے : انہوں نے سر کے اگلے حصے سے ( مسح ) شروع کیا اور دونوں ہاتھ گدی تک لائے ، پھر ان کوواپس کر کے اسی جگہ تک لائے جہاں سے شروع کیا تھا اور اپنے دونوں پاؤں دھوئے ۔",
+                "urduNarrator": "مجھ سے اسحاق بن موسیٰ الانصاری نے بیان کیا، کہا ہم سے معن نے بیان کیا,مالک بن انس نے عمرو بن یحییٰ کی سند سے یہی روایت بیان کی اور کہا",
+                "hadithArabic": "حَدَّثَنِي إِسْحَاقُ بْنُ مُوسَى الْأَنْصَارِيُّ، حَدَّثَنَا مَعْنٌ، حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، عَنْ عَمْرِو بْنِ يَحْيَى، بِهَذَا الْإِسْنَادِ وَقَالَ: مَضْمَضَ وَاسْتَنْثَرَ ثَلَاثًا وَلَمْ يَقُلْ: مِنْ كَفٍّ وَاحِدَةٍ، وَزَادَ بَعْدَ قَوْلِهِ، فَأَقْبَلَ بِهِمَا وَأَدْبَرَ بَدَأَ بِمُقَدَّمِ رَأْسِهِ، ثُمَّ ذَهَبَ بِهِمَا إِلَى قَفَاهُ ثُمَّ رَدَّهُمَا حَتَّى رَجَعَ إِلَى الْمَكَانِ الَّذِي بَدَأَ مِنْهُ وَغَسَلَ رِجْلَيْهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8122,
+                "hadithNumber": "558",
+                "englishNarrator": "It was narrated from 'Amr bin Yahya with cahin similar to theirs, and he quoted the Hadith and said:",
+                "hadithEnglish": "He rinsed his mouth. snuffed up water in nostrils and cleaned the nose with three handfuls and wiped his head moving (his hand) in front and then back once. Bahz said: Wuhaib narrated this hadith to me and Wuhaib said: Amr b. Yahya narrated to me this hadith twice.",
+                "hadithUrdu": "اور انہوں نے کلی کی ، ناک میں پانی ڈالا اور ناک جھاڑی ، تین چلو پانی سے ۔ اور یہ بھی کہا : پھر سر کا مسح کیا اور آگے سے ( پیچھے کو ) اور پیچھے سے ( آگے کو ) مسح کیا ایک بار ۔ بہز نے کہا : وہیب نے یہ حدیث مجھے املا کرائی اوروہیب نے کہا : عمرو بن یحییٰ نے یہ حدیث مجھے دوبار ( دومختلف موقعوں پر ) املا کرائی ۔",
+                "urduNarrator": "ہم سے عبدالرحمٰن بن بشر العبدی نے بیان کیا,بہز نے وہیب سے اور اس نے عمرو بن یحییٰ سے سابقہ راویوں کی اسناد کی طرح حدیث بیان کی اور اس میں کہا",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ بِشْرٍ الْعَبْدِيُّ، حَدَّثَنَا بَهْزٌ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا عَمْرُو بْنُ يَحْيَى، بِمِثْلِ إِسْنَادِهِمْ وَاقْتَصَّ الْحَدِيثَ وَقَالَ فِيهِ: فَمَضْمَضَ وَاسْتَنْشَقَ وَاسْتَنْثَرَ مِنْ ثَلَاثِ غَرَفَاتٍ وَقَالَ: أَيْضًا فَمَسَحَ بِرَأْسِهِ فَأَقْبَلَ بِهِ وَأَدْبَرَ مَرَّةً وَاحِدَةً قَالَ بَهْزٌ: أَمْلَى عَلَيَّ وُهَيْبٌ هَذَا الْحَدِيثَ، وقَالَ وُهَيْبٌ: أَمْلَى عَلَيَّ عَمْرُو بْنُ يَحْيَى هَذَا الْحَدِيثَ مَرَّتَيْنِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8123,
+                "hadithNumber": "559",
+                "englishNarrator": "Abdullah bin Zaid bin 'Asim al-Mazini ‌رضی ‌اللہ ‌عنہ ‌reported:",
+                "hadithEnglish": "He saw Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) perform the ablution. He rinsed his mouth then cleaned his nose, then washed his face three times, then washed his right hand thrice and then the other one, thrice. He then took fresh water and wiped his head and then washed his feet till he cleaned them.",
+                "hadithUrdu": "انہوں نے رسول اللہ ﷺ کو دیکھا ، آپ نے وضو کیا تو کلی کی ، پھر ناک جھاڑی ، پھر تین بار اپنا چہرہ دھویا اور اپنا دایاں ہاتھ تین بار اور دوسرا بھی تین بار دھویا اور سرکا مسح اس پانی سے کیا جو ہاتھ میں بچا ہوا نہیں تھا اور اپنے پاؤں دھوئے حتی کہ ان کو اچھی طرح صاف کر دیا ۔ ( اسی سند کے ایک راوی ) ابو طاہر نے حدیث بیان کرتے ہوئے کہا : ہمیں ابن وہب نے عمروبن حارث سے یہ حدیث سنائی ۔",
+                "urduNarrator": "ہارون بن سعید ایلی اور ابو طاہر نےحدیث بیان کی ، انہوں نےکہا : ہمیں ابن وہب نےحدیث سنائی ، انہوں نےکہا : مجھے عمرو بن حارث نے خبر دی کہ حبان بن واسع نے انہیں حدیث سنائی ( کہا : ) ان کے والد نے ان سے بیان کیا ( کہا : ) انہوں نے حضرت عبد اللہ بن زید بن عاصم مازنی انصاری ‌رضی ‌اللہ ‌عنہ ‌ ‌ کو یہ کہتے ہوئے سنا کہ",
+                "hadithArabic": "حَدَّثَنَا هَارُونُ بْنُ مَعْرُوفٍ، ح وَحَدَّثَنِي هَارُونُ بْنُ سَعِيدٍ الْأَيْلِيُّ، وَأَبُو الطَّاهِرِ، قَالُوا: حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي عَمْرُو بْنُ الْحَارِثِ، أَنَّ حَبَّانَ بْنَ وَاسِعٍ، حَدَّثَهُ أَنَّ أَبَاهُ، حَدَّثَهُ أَنَّهُ سَمِعَ عَبْدَ اللهِ بْنَ زَيْدِ بْنِ عَاصِمٍ الْمَازِنِيَّ، يَذْكُرُ أَنَّهُ: «رَأَى رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ فَمَضْمَضَ ثُمَّ اسْتَنْثَرَ ثُمَّ غَسَلَ وَجْهَهُ ثَلَاثًا، وَيَدَهُ الْيُمْنَى ثَلَاثًا وَالْأُخْرَى ثَلَاثًا، وَمَسَحَ بِرَأْسِهِ بِمَاءٍ غَيْرِ فَضْلِ يَدِهِ، وَغَسَلَ رِجْلَيْهِ حَتَّى أَنْقَاهُمَا».\r\n قَالَ أَبُو الطَّاهِرِ: حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ عَمْرِو بْنِ الْحَارِثِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8124,
+                "hadithNumber": "560",
+                "englishNarrator": "Abu Huraira ‌رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying: When anyone wipes himself with pebbles (after answering the call of nature) he must make use of an odd number and when any one of you performs ablution he must snuff in his nose water and then clean it.",
+                "hadithUrdu": "آپ نے فرمایا : ’’جب تم میں سے کوئی کسی ٹھوس چیز ( پتھر ، ڈھیلا ، ٹائلٹ پیپر وغیرہ ) سے استنجا کرے تو طاق عدد میں کرے اور جب تم میں سے کوئی وضو کرے توناک میں پانی ڈالے ، پھر ناک جھاڑے ۔ ‘ ‘",
+                "urduNarrator": "ہم سے قتیبہ بن سعید، عمرو النقید اور محمد بن عبداللہ بن نمیر نے ابن عیینہ کی سند سے بیان کیا، کہا: ہم سے سفیان نے ابوالزناد سے اور اعرج کی سند سے بیان کیا۔,ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے نبی ﷺ کی طرف منسوب کرتے ہوئے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَعَمْرٌو النَّاقِدُ، وَمُحَمَّدُ بْنُ عَبْدِ اللهِ بْنِ نُمَيْرٍ، جَمِيعًا عَنِ ابْنِ عُيَيْنَةَ، قَالَ قُتَيْبَةُ: حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي الزِّنَادِ، عَنِ الْأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، يَبْلُغُ بِهِ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «إِذَا اسْتَجْمَرَ أَحَدُكُمْ فَلْيَسْتَجْمِرْ وِتْرًا، وَإِذَا تَوَضَّأَ أَحَدُكُمْ فَلِيَجْعَلْ فِي أَنْفِهِ مَاءً ثُمَّ لِيَنْتَثِرْ».",
+                "headingArabic": "الإِيتَارِ فِي الاِسْتِنْثَارِ وَالاِسْتِجْمَارِ ‏‏",
+                "headingUrdu": "Odd numbers when rinsing the nose and cleaning oneself with pebbles (istijmar)",
+                "headingEnglish": "ناک دھونے اور کنکریوں سے صفائی کرتے وقت طاق عدد (استجمار) ‏‏",
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8125,
+                "hadithNumber": "561",
+                "englishNarrator": "Hammam bin Munabbih reported:",
+                "hadithEnglish": "This is what Abu Huraira رضی ‌اللہ ‌عنہ ‌transmitted to us from Muhammad, the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ), and he mentioned a number of a hadith, of which this is one: that the Messenger of Allah ( صلی ‌اللہ ‌علیہ ‌وسلم ) said: When anyone amongst you (performs ablution) he must snuff his nostrils with water and then clean them.",
+                "hadithUrdu": "یہ احادیث ہیں جو حضرت ابوہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے ہمیں محمدرسول اللہ ﷺ سے سنائیں ، پھر انہوں نے کچھ احادیث بیان کیں ، ان میں سے یہ بھی تھی کہ رسول اللہﷺنے فرمایا : ’’جب تم میں سے کوئی وضو کرے تو دونوں نتھنوں سے ناک میں پانی کھینچے پھر ناک جھاڑے ۔ ‘ ‘",
+                "urduNarrator": "مجھ سے محمد بن رافع نے بیان کیا، کہا ہم سے عبدالرزاق بن ہمام نے بیان کیا، ہم سے معمر نے بیان کیا,ہمام بن منبہ سےمنقول ہے ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ بْنُ هَمَّامٍ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ: هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ مُحَمَّدٍ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ - فَذَكَرَ أَحَادِيثَ مِنْهَا - وَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إِذَا تَوَضَّأَ أَحَدُكُمْ فَلْيَسْتَنْشِقْ بِمَنْخِرَيْهِ مِنَ الْمَاءِ ثُمَّ لِيَنْتَثِرْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8126,
+                "hadithNumber": "562",
+                "englishNarrator": "Abu Huraira رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah (ﷺ) said: When anyone performs ablution he must clean his nose and when anyone wipes himself with pebbles (after answering the call of nature) he must do that odd number of times.",
+                "hadithUrdu": "رسو ل اللہ ﷺ نے فرمایا : ’’جو وضو کرے وہ ناک جھاڑے اور جو استنجا کرے وہ طاق عدد میں کرے ۔ ‘ ‘",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، انہوں نے کہا: میں نے مالک کو ابن شہاب سے اور ابو ادریس خولانی کی سند سے پڑھا,مالک نے ابن شہاب سے ، انہوں نے ابو ادریس خولانی سے ، انہو ں نے حضرت ابوہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ، کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ: قَرَأْتُ عَلَى مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي إِدْرِيسَ الْخَوْلَانِيِّ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنْ تَوَضَّأَ فَلْيَسْتَنْثِرْ وَمَنِ اسْتَجْمَرَ، فَلْيُوتِرْ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8127,
+                "hadithNumber": "563",
+                "englishNarrator": null,
+                "hadithEnglish": "It has been transmitted by Abu Huraira ‌رضی ‌اللہ ‌عنہ ‌and Abu Sa'id al-Khudri (both of them the reputed Companions of the Holy Prophet) that the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said like that.",
+                "hadithUrdu": "یونس نے ابن شہاب سے روایت کی ، کہا : مجھے ابو ادریس خولانی نے بیان کیا کہ انہوں نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ اور حضرت ابوسعیدخدری ‌رضی ‌اللہ ‌عنہ ‌ ‌ دونوں سے سنا کہہ رہے تھے : رسول اللہ نے فرمایا...... اسی ( پچھلی حدیث کی ) طرح ۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، حَدَّثَنَا حَسَّانُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا يُونُسُ بْنُ يَزِيدَ، ح وَحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي أَبُو إِدْرِيسَ الْخَوْلَانِيُّ، أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ، وَأَبَا سَعِيدٍ الْخُدْرِيَّ يَقُولَانِ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8128,
+                "hadithNumber": "564",
+                "englishNarrator": "Abu Huraira رضی ‌اللہ ‌عنہ ‌reported:",
+                "hadithEnglish": "The Apostle of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said. When any one of you awakes up from sleep and performs ablution, he must clean his nose three times, for the devil spends the night in the interior of his nose.",
+                "hadithUrdu": "نبی ﷺ نے فرمایا : ’’جب تم میں سے کوئی نیند سے بیدار ہو تو تین ناک جھاڑے ، شیطان اس کی ناک کے بانسوں پر رات گزارتا ہے ۔ ‘ ‘",
+                "urduNarrator": "مجھ سے بشر بن الحکم العبدی نے بیان کیا، ان سے عبد العزیز نے، یعنی الدراوردی نے، ہم سے ابن الہدی نے، محمد بن ابراہیم کی سند سے بیان کیا,عیسیٰ بن طلحہ نےحضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنِي بِشْرُ بْنُ الْحَكَمِ الْعَبْدِيُّ، حَدَّثَنَا عَبْدُ الْعَزِيزِ يَعْنِي الدَّرَاوَرْدِيَّ، عَنِ ابْنِ الْهَادِ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ عِيسَى بْنِ طَلْحَةَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «إِذَا اسْتَيْقَظَ أَحَدُكُمْ مِنْ مَنَامِهِ فَلْيَسْتَنْثِرْ ثَلَاثَ مَرَّاتٍ، فَإِنَّ الشَّيْطَانَ يَبِيتُ عَلَى خَيَاشِيمِهِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8129,
+                "hadithNumber": "565",
+                "englishNarrator": "Jabir bin 'Abdullah ‌رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "He heard the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) say: When anyone wipes himself with pebbles (after answering the call of nature) he should do this odd number of times.",
+                "hadithUrdu": "رسول اللہ ﷺ نے فرمایا : ’’تم میں سے کوئی شخص جب ٹھوس چیز سے استنجا کرے تو طاق عدد میں کرے ۔ ‘ ‘",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم اور محمد بن رافع نے بیان کیا، کہا کہ ہم سے عبد الرزاق نے بیان کیا، ہم سے ابن جریج نے بیان کیا,ابو زبیر نے حضرت جابر بن عبد اللہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ کو سنا ، کہہ رہے تھے",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَمُحَمَّدُ بْنُ رَافِعٍ، قَالَ ابْنُ رَافِعٍ: حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللهِ، يَقُولُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إِذَا اسْتَجْمَرَ أَحَدُكُمْ فَلْيُوتِرْ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8130,
+                "hadithNumber": "566",
+                "englishNarrator": "Salim, the freed slave of Shaddad, said:",
+                "hadithEnglish": "I came to 'A'isha, the wife of the Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), on the day when Sa'd bin Abi Waqqas  ‌رضی ‌اللہ ‌عنہ died. 'Abdul-Rahman bin Abu Bakr ‌رضی ‌اللہ ‌عنہ also came there and he performed ablution in her presence. She (Hadrat 'A'isha) said: Abd al-Rahman, complete the ablution as I heard the Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) say: Woe to the heels because of hell-fire.",
+                "hadithUrdu": "جس دن حضرت سعد بن ابی وقاص ‌رضی ‌اللہ ‌عنہ ‌ ‌ فوت ہوئے میں رسول اللہ ﷺ کی اہلیہ حضرت عائشہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ کی خدمت میں حاضر ہوا ۔ عبد الرحمن بن ابی بکر ‌رضی ‌اللہ ‌عنہ ‌ ‌ ان کے ہاں آئے اور ان کے پاس وضو کیا تو انہو ں نےفرمایا : عبدالرحمن ! خوب اچھی طرح وضو کرو کیونکہ میں نے رسو ل اللہ ﷺ کو فرماتے ہوئے سنا تھا : ’’ ( وضوکے پانی سےتر نہ ہونے والی ) ایڑیوں کےلیے آگ کا عذاب ہے ۔ ‘ ‘",
+                "urduNarrator": "ہم سے ہارون بن سعید العیلی، ابو الطاہر اور احمد بن عیسی نے بیان کیا، انہوں نے کہا کہ ہم سے عبداللہ بن وہب نے بیان کیا،مخرمہ بن بکیر نے اپنےوالد سے ، انہوں نے شداد کے آزاد کردہ غلام سالم سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا هَارُونُ بْنُ سَعِيدٍ الْأَيْلِيُّ، وَأَبُو الطَّاهِرِ، وَأَحْمَدُ بْنُ عِيسَى، قَالُوا: أَخْبَرَنَا عَبْدُ اللهِ بْنُ وَهْبٍ، عَنْ مَخْرَمَةَ بْنِ بُكَيْرٍ، عَنْ أَبِيهِ، عَنْ سَالِمٍ، مَوْلَى شَدَّادٍ، قَالَ: دَخَلْتُ عَلَى عَائِشَةَ زَوْجِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَوْمَ تُوُفِّيَ سَعْدُ بْنُ أَبِي وَقَّاصٍ فَدَخَلَ عَبْدُ الرَّحْمَنِ بْنُ أَبِي بَكْرٍ فَتَوَضَّأَ عِنْدَهَا فَقَالَتْ: يَا عَبْدَ الرَّحْمَنِ أَسْبِغِ الْوُضُوءَ فَإِنِّي سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «وَيْلٌ لِلْأَعْقَابِ مِنَ النَّارِ».",
+                "headingArabic": "وُجُوبِ غَسْلِ الرِّجْلَيْنِ بِكَمَالِهِمَا ‏‏",
+                "headingUrdu": "پاؤں کا مکمل دھونا فرض ہے۔",
+                "headingEnglish": "The obligation of washing the feet completely",
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8131,
+                "hadithNumber": "567",
+                "englishNarrator": "Abdullah, the freed slave of Shahddad:",
+                "hadithEnglish": "He came to 'A'isha and transmitted from her a hadith like this (which she narrated) from the Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ).",
+                "hadithUrdu": "وہ حضرت عائشہؓ کی خدمت میں حاضر ہوئے اور پھر ان سے رسو ل ا للہ ﷺ کا مذکورہ بالا فرمان نقل کیا ۔",
+                "urduNarrator": "ایک اور سند سے محمد بن عبدالرحمان نے شداد بن ہاد کے آزادکردہ غلام ابو عبد اللہ ( سالم ) سے روایت بیان کی کہ",
+                "hadithArabic": "وَحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي حَيْوَةُ، أَخْبَرَنِي مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ، أَنَّ أَبَا عَبْدِ اللهِ مَوْلَى شَدَّادِ بْنِ الْهَادِ، حَدَّثَهُ أَنَّهُ دَخَلَ عَلَى عَائِشَةَ، فَذَكَرَ عَنْهَا عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ وَحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، وَأَبُو مَعْنٍ الرَّقَاشِيُّ، قَالَا: حَدَّثَنَا عُمَرُ بْنُ يُونُسَ، حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ، حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ، قَالَ: حَدَّثَنِي أَوْ حَدَّثَنَا أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، حَدَّثَنِي سَالِمٌ، مَوْلَى الْمَهْرِيِّ، قَالَ: خَرَجْتُ أَنَا وَعَبْدُ الرَّحْمَنِ بْنُ أَبِي بَكْرٍ فِي جَنَازَةِ سَعْدِ بْنِ أَبِي وَقَّاصٍ فَمَرَرْنَا عَلَى بَابُِ حُجْرَةِ عَائِشَةَ فَذَكَرَ عَنْهَا عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مِثْلَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8132,
+                "hadithNumber": "568",
+                "englishNarrator": "Salim, the freed slave of Mahri, reported:",
+                "hadithEnglish": "I and 'Abd al-Rahman bin Abu Bakr went out (in order to join) the funeral procession of Sa'd bin Abi Waqqas رضی ‌اللہ ‌عنہ ‌and passed by the door of the residence of 'A'isha رضی ‌اللہ ‌عنہا ‌, and then he transmitted a hadith like this from her who (narrated it) from the Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ).",
+                "hadithUrdu": "میں اور عبدالرحمن بن ابی بکر ‌رضی ‌اللہ ‌عنہ ‌ ‌ سعدبن ابی وقاص ‌رضی ‌اللہ ‌عنہ ‌ ‌ کے جنازے کے لیے نکلے تو ہم حضرت عائشہ ‌رضی ‌اللہ ‌عنہا ‌ ‌ کےحجرے کے دروازے سے گزرے ( وہاں ٹھہرے ، وضو کے لیے عبدالرحمان بن ابی بکر اندر گئے .... ) پھر انہوں نے حضرت عائشہ ؓ کےحوالے سے مذکورہ بالا روایت سنائی ۔",
+                "urduNarrator": "مجھ سے محمد بن حاتم اور ابو معن الرقاشی نے بیان کیا، انہوں نے کہا: ہم سے عمر بن یونس نے بیان کیا، کہا ہم سے عکرمہ بن عمار نے بیان کیا، کہا کہ مجھ سے یحییٰ بن ابی کثیر نے بیان کیا، انہوں نے کہا: مجھ سے ابو سلمہ بن عبدالرحمٰن نے بیان کیا، انہوں نے کہاابوسلمہ بن عبد الرحمن نے بیان کیا کہ مہری کے آزاد کردہ غلام سالم نے مجھے بتایا کہ",
+                "hadithArabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، وَأَبُو مَعْنٍ الرَّقَاشِيُّ، قَالَا: حَدَّثَنَا عُمَرُ بْنُ يُونُسَ، حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ، حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ، قَالَ: حَدَّثَنِي أَوْ حَدَّثَنَا أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، حَدَّثَنِي سَالِمٌ، مَوْلَى الْمَهْرِيِّ، قَالَ: خَرَجْتُ أَنَا وَعَبْدُ الرَّحْمَنِ بْنُ أَبِي بَكْرٍ فِي جَنَازَةِ سَعْدِ بْنِ أَبِي وَقَّاصٍ فَمَرَرْنَا عَلَى بَابُِ حُجْرَةِ عَائِشَةَ فَذَكَرَ عَنْهَا عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مِثْلَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8133,
+                "hadithNumber": "569",
+                "englishNarrator": null,
+                "hadithEnglish": "Salim, the freed slave of Shaddad b. al-Had said: I was in the presence of 'A'isha, and then narrated on her authority a hadith like this from the Prophet (way peace be upon him).",
+                "hadithUrdu": "نعیم بن عبد اللہ نے شداد بن بن ہاد کے آزاد کردہ غلام سالم سے روایت کی ، انہوں نے کہا : میں حضرت عائشہؓ کے پاس تھا....پھر اس نے حضرت عائشہ ؓ سے نبی ﷺ سے اسی طرح روایت بیان کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنِي سَلَمَةُ بْنُ شَبِيبٍ، حَدَّثَنَا الْحَسَنُ بْنُ أَعْيَنَ، حَدَّثَنَا فُلَيْحٌ، حَدَّثَنِي نُعَيْمُ بْنُ عَبْدِ اللهِ، عَنْ سَالِمٍ، مَوْلَى شَدَّادِ بْنِ الْهَادِ، قَالَ: كُنْتُ أَنَا مَعَ عَائِشَةَ رَضِيَ اللهُ عَنْهَا فَذَكَرَ عَنْهَا عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8134,
+                "hadithNumber": "570",
+                "englishNarrator": "Abdullah bin 'Amr رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "We returned from Mecca to Medina with the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), and when we came to some water on the way, some of the people were in a hurry at the time of the afternoon prayer and performed ablution hurriedly; and when we reached them, their heels were dry, no water had touched them. The Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: Woe to (dry) heels, because of Hell-fire. Make your ablution thorough.",
+                "hadithUrdu": "ہم رسول اللہ ﷺ کے ساتھ مکہ سے مدینہ واپس آئے ۔ راستے میں جب ہم ایک پانی ( والی منزل ) پر پہنچے تو عصر کے وقت کچھ لوگوں نے جلدی کی ، وضو کیا تو جلدی میں تھے ، ہم ان تک پہنچے تو ان کی ایڑیاں اس طر ح نظر آ رہی تھیں کہ انہیں پانی نہیں لگا تھا ، رسول اللہ ﷺ نے ( آکر ) فرمایا : ’’ ( ان ) ایڑیوں کے لیے آگ کا عذاب ہے ۔ وضو اچھی طرح کیا کرو ۔ ‘ ‘",
+                "urduNarrator": "مجھ سے زہیر بن حرب نے کہا,جریر نے منصور سے ، انہوں نے ہلال بن یساف سے ، انہوں نے ابو یحییٰ ( مصدع ، الاعرج ) سے اور انہوں نے حضرت عبد اللہ بن عمرو ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ انہوں نے کہا",
+                "hadithArabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا جَرِيرٌ، ح، وَحَدَّثَنَا إِسْحَاقُ، أَخْبَرَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ هِلَالِ بْنِ يِسَافٍ، عَنْ أَبِي يَحْيَى، عَنْ عَبْدِ اللهِ بْنِ عَمْرٍو، قَالَ: رَجَعْنَا مَعَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مِنْ مَكَّةَ إِلَى الْمَدِينَةِ حَتَّى إِذَا كُنَّا بِمَاءٍ بِالطَّرِيقِ تَعَجَّلَ قَوْمٌ عِنْدَ الْعَصْرِ، فَتَوَضَّئُوا وَهُمْ عِجَالٌ فَانْتَهَيْنَا إِلَيْهِمْ وَأَعْقَابُهُمْ تَلُوحُ لَمْ يَمَسَّهَا الْمَاءُ فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «وَيْلٌ لِلْأَعْقَابِ مِنَ النَّارِ أَسْبِغُوا الْوُضُوءَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8135,
+                "hadithNumber": "571",
+                "englishNarrator": "In the hadith transmitted by Shu'ba these words are not there:",
+                "hadithEnglish": "Complete the Wudu, and there is the name of Abu Yahya al-A'raj (a narrator).",
+                "hadithUrdu": "’’خوب اچھی طرح وضو کرو ‘ ‘ کے الفاظ بیان نہیں کیے اور اس کی حدیث ( کی سند ) میں ہے : ابو یحییٰ اعرج سےروایت ہے ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا کہ ہم سے وکیع نے بیان کیا، کہا ہم سے سفیان نے بیان کیا، ان سے ابن المثنیٰ اور ابن بشار نے بیان کیا، انہوں نے کہا: ہم سے محمد بن جعف نے بیان کیا، انہوں نے کہا: ہم سے شعبہ نے بیان کیا،منصور کے دوسرے شاگرد سفیان اور شعبہ کے حوالے سے بھی باقی ماندہ اسی سند کے ساتھ یہی روایت بیان کی گئی جس میں شعبہ نے",
+                "hadithArabic": "وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، وَحَدَّثَنَا ابْنُ الْمُثَنَّى، وَابْنُ بَشَّارٍ، قَالَا: حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالَ: حَدَّثَنَا شُعْبَةُ، كِلَاهُمَا عَنْ مَنْصُورٍ، بِهَذَا الْإِسْنَادِ وَلَيْسَ فِي حَدِيثِ شُعْبَةَ أَسْبِغُوا الْوُضُوءَ وَفِي حَدِيثِهِ عَنْ أَبِى يَحْيَى الْأَعْرَجِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8136,
+                "hadithNumber": "572",
+                "englishNarrator": "Abdullah bin Amr رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) lagged behind us on a journey. We travelled (back) and be took him; and then came the time of the afternoon prayer, and as we were going to wipe our feet he (the Holy Prophet) called out: Woe to the heels because of Hell-fire.",
+                "hadithUrdu": "ایک سفر کے دوران میں نبی کریم ﷺ ہم سے پیچھے رہ گئے ، آپ ہمارے پاس پہنچے تو عصر کی نماز کا وقت ہو چکا تھا ، ہم ( میں سے کچھ لوگ ) اپنے پاؤں پر ( جلدی میں ) ہاتھ پھیرنے لگے تو آپ نے بلند آواز سے فرمایا : ’’ ( ان ) ایڑیوں کے لیے آگ کا عذاب ہے ۔ ‘ ‘",
+                "urduNarrator": "ہم سے شیبان بن فرخ اور ابو کامل الجہدری نے بیان کیا، ابو کامل نے کہا, ہم سے ابو عوانہ نے ابو بشر سے بیان کیا،یوسف بن ماہک نے حضرت عبد اللہ بن عمرو ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، وَأَبُو كَامِلٍ الْجَحْدَرِيُّ، جَمِيعًا عَنْ أَبِي عَوَانَةَ، قَالَ أَبُو كَامِلٍ: حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي بِشْرٍ، عَنْ يُوسُفَ بْنِ مَاهَكَ، عَنْ عَبْدِ اللهِ بْنِ عَمْرٍو، قَالَ: تَخَلَّفَ عَنَّا النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي سَفَرٍ سَافَرْنَاهُ فَأَدْرَكَنَا وَقَدْ حَضَرَتْ صَلَاةُ الْعَصْرِ فَجَعَلْنَا نَمْسَحُ عَلَى أَرْجُلِنَا فَنَادَى: «وَيْلٌ لِلْأَعْقَابِ مِنَ النَّارِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8137,
+                "hadithNumber": "573",
+                "englishNarrator": "Abu Huraira رضی ‌اللہ ‌عنہ ‌reported:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) saw a man who did not wash his heel and he remarked: Woe to the heels because of hell-fire.",
+                "hadithUrdu": "نبی ﷺ نےایک آدمی کو دیکھا جس نے اپنی ایڑی نہیں دھوئی تھی تو آپ نے فرمایا : ’’ ( ان ) ایڑیوں کے لیے آگ کاعذاب ہے ۔ ‘ ‘",
+                "urduNarrator": "ہمیں عبدالرحمٰن بن سلام الجمعی نے بیان کیا,ربیع بن مسلم نے محمد بن زیاد سے ، انہوں نے حضرت ابوہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ سَلَّامٍ الْجُمَحِيُّ، حَدَّثَنَا الرَّبِيعُ يَعْنِي ابْنَ مُسْلِمٍ، عَنْ مُحَمَّدٍ وَهُوَ ابْنُ زِيَادٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ رَأَى رَجُلًا لَمْ يَغْسِلْ عَقِبَيْهِ فَقَالَ: «وَيْلٌ لِلْأَعْقَابِ مِنَ النَّارِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8138,
+                "hadithNumber": "574",
+                "englishNarrator": "Abu Huraira ‌رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "He saw people perform ablution with the help of a water jar and he said: Complete the Wudu for i heard Abu al-Qasim ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) say: Woe to the hamstrings because of hell-fire.",
+                "hadithUrdu": "انہوں نے کچھ لوگوں کو وضو کے برتن سے وضو کرتے دیکھا تو کہا : وضواچھی طرح کرو میں نے حضرت ابو القاسم ( محمد ) ﷺ سےسنا ، آپ فرما رہے تھے : ’’کونچوں کے لیے آگ کاعذاب ہے ۔ ‘ ‘",
+                "urduNarrator": "ہم سے قتیبہ، ابوبکر بن ابی شیبہ اور ابو کریب نے بیان کیا، انہوں نے کہا: ہم سے وکیع نے بیان کیا,شعبہ نےمحمد بن زیاد سے ، انہوں نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سےروایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ، قَالُوا: حَدَّثَنَا وَكِيعٌ، عَنْ شُعْبَةَ، عَنْ مُحَمَّدِ بْنِ زِيَادٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّهُ رَأَى قَوْمًا يَتَوَضَّئُونَ مِنَ الْمَطْهَرَةِ فَقَالَ: أَسْبِغُوا الْوُضُوءَ فَإِنِّي سَمِعْتُ أَبَا الْقَاسِمِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «وَيْلٌ لِلْعَرَاقِيبِ مِنَ النَّارِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "2",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 102,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "The Book of Purification",
+                    "chapterUrdu": "پاکی کا بیان",
+                    "chapterArabic": "كتاب الطَّهَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 7826,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=313",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=311",
+                "label": "311",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=312",
+                "label": "312",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=313",
+                "label": "313",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=314",
+                "label": "314",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=315",
+                "label": "315",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=316",
+                "label": "316",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=317",
+                "label": "317",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=315",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=315",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=313",
+        "to": 7850,
+        "total": 40465
+    }
+}

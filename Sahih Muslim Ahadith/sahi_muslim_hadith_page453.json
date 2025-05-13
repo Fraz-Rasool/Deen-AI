@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 453,
+        "data": [
+            {
+                "id": 11589,
+                "hadithNumber": "4025",
+                "englishNarrator": "Ibn 'Umar رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying He who kept a dog other than one meant for hunting or for watching the herd lost out of his deeds (equal to) two qirat every day.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جس نے شکار یا مویشیوں کے کتے کے سوا کتا رکھا اس کے عمل میں س ہر روز دو قیراط کم ہوں گے ۔ \"",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ، یحییٰ بن ایوب، قتیبہ اور ابن حجر نے بیان کیا کہ ہم کو یحییٰ بن یحییٰ نے خبر دی اور دوسروں نے کہا: اسماعیل، جو ابن جعفر ہیں، نے ہم سے کہا:عبداللہ بن دینار سے روایت ہے کہ انہوں نے حضرت ابن عمر رضی اللہ عنہ سے سنا ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَيَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ، وَابْنُ حُجْرٍ، قَالَ يَحْيَى بْنُ يَحْيَى: أَخْبَرَنَا، وَقَالَ الْآخَرُونَ: حَدَّثَنَا إِسْمَاعِيلُ وَهُوَ ابْنُ جَعْفَرٍ، عَنْ عَبْدِ اللهِ بْنِ دِينَارٍ، أَنَّهُ سَمِعَ ابْنَ عُمَرَ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنِ اقْتَنَى كَلْبًا، إِلَّا كَلْبَ ضَارِيَةٍ، أَوْ مَاشِيَةٍ، نَقَصَ مِنْ عَمَلِهِ كُلَّ يَوْمٍ قِيرَاطَانِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11590,
+                "hadithNumber": "4026",
+                "englishNarrator": "Salim bin 'Abdullah reported on the authority of his father:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: He who kept a dog other than one meant for watching the herd or for hunting would lose every day two qirat of his good deeds. 'Abdullah رضی اللہ عنہ and Abu Huraira رضی اللہ عنہ also said: Or dog meant for watching the field.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \"\" جس نے مویشیوں کے کتے یا شکار کے کتے کے سوا کتا رکھا تو اس کے عمل سے ہر روز ایک قیراط کم ہو گا ۔ \"\" حضرت عبداللہ رضی اللہ عنہ نے کہا : حضرت ابوہریرہ رضی اللہ عنہ نے کہا : \"\" یا کھیتی کے کتے ( کے سوا ۔ ) \"\".",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ، یحییٰ بن ایوب، قتیبہ اور ابن حجر نے بیان کیا کہ ہم سے یحییٰ نے بیان کیا اور دوسروں نے کہا: ہم سے بیان کیا۔ اسماعیل،محمد بن ابی حرملہ نے سالم بن عبداللہ سے اور انہوں نے اپنے والد ( عبداللہ بن عمر رضی اللہ عنہ ) سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَيَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ، وَابْنُ حُجْرٍ، قَالَ يَحْيَى: أَخْبَرَنَا، وَقَالَ الْآخَرُونَ: حَدَّثَنَا إِسْمَاعِيلُ، عَنْ مُحَمَّدٍ وَهُوَ ابْنُ أَبِي حَرْمَلَةَ، عَنْ سَالِمِ بْنِ عَبْدِ اللهِ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنِ اقْتَنَى كَلْبًا، إِلَّا كَلْبَ مَاشِيَةٍ، أَوْ كَلْبَ صَيْدٍ، نَقَصَ مِنْ عَمَلِهِ كُلَّ يَوْمٍ قِيرَاطٌ»، قَالَ عَبْدُ اللهِ، وَقَالَ أَبُو هُرَيْرَةَ: «أَوْ كَلْبَ حَرْثٍ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11591,
+                "hadithNumber": "4027",
+                "englishNarrator": "Salim reported on the authority of his father ( رضی اللہ عنہ):",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: He who kept a dog other than one meant for hunting or for the protection of the herd would lose two qirat of his deeds every day. Salim said: Abu Huraira ( رضی اللہ عنہ) used to say: Or the dog meant for watching the field, and he was the owner of the land.",
+                "hadithUrdu": "آپ نے فرمایا : \"\" جس نے شکاری کتے یا مویشیوں کے کتے کے سوا کتا پالا اس کے عمل سے ہر دو روز قیراط کم ہوں گے ۔ \"\" سالم نے کہا : حضرت ابوہریرہ رضی اللہ عنہ کہتے تھے : \"\" یا کھیتی کے کتے ( کے سوا ۔ ) \"\" اور وہ ( خود ) کھیتی کے مالک تھے ۔ ( اس لیے انہیں یہ بات یاد تھی ۔ ).",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم نے بیان کیا، کہا ہم سے وکیع نے بیان کیا,حنظلہ بن ابی سفیان ( اسود بن عبدالرحمان بن صفوان بن امیہ ) نے سالم سے ، انہوں نے اپنے والد ( عبداللہ بن عمر رضی اللہ عنہ ) سے اور انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے روایت کی",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا وَكِيعٌ، حَدَّثَنَا حَنْظَلَةُ بْنُ أَبِي سُفْيَانَ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنِ اقْتَنَى كَلْبًا، إِلَّا كَلْبَ ضَارٍ، أَوْ مَاشِيَةٍ، نَقَصَ مِنْ عَمَلِهِ كُلَّ يَوْمٍ قِيرَاطَانِ»، قَالَ سَالِمٌ: وَكَانَ أَبُو هُرَيْرَةَ يَقُولُ: «أَوْ كَلْبَ حَرْثٍ»، وَكَانَ صَاحِبَ حَرْثٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11592,
+                "hadithNumber": "4028",
+                "englishNarrator": "Salim bin Abdullah reported on the authority of his father:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: Whoseover amongst the owners of the house keeps a dog other than one meant for watching the herd or for hunting loses two qirat of his deeds every day.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جن گھر والوں نے مویشیوں ( کی حفاظت ) والے کتے یا شکاری کتے کے سوا کتا رکھا ، تو ان کے عمل سے ہر روز دو قیراط کم ہوں گے ۔ \"",
+                "urduNarrator": "ہم سے داؤد بن راشد نے بیان کیا، کہا ہم سے مروان بن معاویہ نے بیان کیا,عمر بن حمزہ بن عبداللہ بن عمر نے ہمیں خبر دی ، کہا : ہمیں سالم بن عبداللہ نے اپنے والد سے حدیث بیان کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا دَاوُدُ بْنُ رُشَيْدٍ، حَدَّثَنَا مَرْوَانُ بْنُ مُعَاوِيَةَ، أَخْبَرَنَا عُمَرُ بْنُ حَمْزَةَ بْنِ عَبْدِ اللهِ بْنِ عُمَرَ، حَدَّثَنَا سَالِمُ بْنُ عَبْدِ اللهِ، عَنْ أَبِيهِ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «أَيُّمَا أَهْلِ دَارٍ اتَّخَذُوا كَلْبًا، إِلَّا كَلْبَ مَاشِيَةٍ، أَوْ كَلْبَ صَائِدٍ، نَقَصَ مِنْ عَمَلِهِمْ كُلَّ يَوْمٍ قِيرَاطَانِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11593,
+                "hadithNumber": "4029",
+                "englishNarrator": "Ibn Umar (رضی اللہ عنہ) narrated:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: He who kept a dog ther than one meant for watching the fields or herds or hunting would lose one qirat every day out of his reward (with God).",
+                "hadithUrdu": "آپ نے فرمایا : \" جس نے کھیتی یا بکریوں ( کی حفاظت ) یا شکار کے کتے کے سوا کتا رکھا اس کے اجر میں سے ہر روز ایک قیراط کم ہو گا ۔ \"",
+                "urduNarrator": "ہم سے محمد بن مثنیٰ اور ابن بشار نے بیان کیا، اور یہ قول ابن المثنیٰ کا ہے، انہوں نے کہا: ہم سے محمد بن جعفر نے بیان کیا، ہم سے شعبہ نے، قتادہ کی سند سے, ابوحکم سے روایت ہے ، انہوں نے کہا : میں نے حضرت ابن عمر رضی اللہ عنہ سے سنا ، وہ نبی صلی اللہ علیہ وسلم سے حدیث بیان کر رہے تھے",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ بَشَّارٍ، وَاللَّفْظُ لِابْنِ الْمُثَنَّى، قَالَا: حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَبِي الْحَكَمِ، قَالَ: سَمِعْتُ ابْنَ عُمَرَ، يُحَدِّثُ عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنِ اتَّخَذَ كَلْبًا، إِلَّا كَلْبَ زَرْعٍ، أَوْ غَنَمٍ، أَوْ صَيْدٍ، يَنْقُصُ مِنْ أَجْرِهِ كُلَّ يَوْمٍ قِيرَاطٌ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11594,
+                "hadithNumber": "4030",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: He who kept a dog which is neither meant for hunting nor for watching the animals nor for watching the fields would lose two qirat every day out of his reward; and there is no mention of the fields in the hadith transmitted by Abu Tahir.",
+                "hadithUrdu": "آپ نے فرمایا : \"\" جس شخص نے کتا پالا جو شکاری ہے ، نہ مویشیوں کے لیے ہے اور نہ ہی زمین کے لیے ، اس کے اجر سے ہر روز دو قیراط کم ہوں گے ۔ \"\" ابوطاہر کی حدیث میں \"\" نہ زمین کے لیے \"\" کے الفاظ نہیں ہیں ۔",
+                "urduNarrator": "ابوطاہر اور حرملہ نے کہا : ہمیں ابن وہب نے خبر دی ، انہوں نے کہا : مجھے یونس نے ابن شہاب سے خبر دی ، انہوں نے سعید بن مسیب سے ، انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے اور انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے روایت کی",
+                "hadithArabic": "وحَدَّثَنِي أَبُو الطَّاهِرِ، وَحَرْمَلَةُ، قَالَا: أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيِّبِ، عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنِ اقْتَنَى كَلْبًا، لَيْسَ بِكَلْبِ صَيْدٍ، وَلَا مَاشِيَةٍ، وَلَا أَرْضٍ، فَإِنَّهُ يَنْقُصُ مِنْ أَجْرِهِ قِيرَاطَانِ كُلَّ يَوْمٍ»، وَلَيْسَ فِي حَدِيثِ أَبِي الطَّاهِرِ: وَلَا أَرْضٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11595,
+                "hadithNumber": "4031",
+                "englishNarrator": "Abu Huraira (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: He who kept a dog except one meant for watching the herd, or for hunting or for watching the fields. he lost two qirat of reward every day. Zuhri said: The words of Abu Huraira (رضی اللہ عنہ) were conveyed to Ibn Umar رضی اللہ عنہ who said: May Allah have mercy upon Abu Huraira رضی اللہ عنہ ; he owned a field.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \"\" جس نے مویشیوں ، شکار یا کھیتی ( کی حفاظت کرنے ) والے کتے کے سوا ( کوئی اور ) کتا رکھا اس کے اجر سے ہر روز ایک قیراط کم ہو گا ۔ \"\" امام زہری نے کہا : حضرت ابن عمر رضی اللہ عنہ کے سامنے حضرت ابوہریرہ رضی اللہ عنہ کے اس قول کا تذکرہ کیا گیا تو انہوں نے کہا : اللہ تعالیٰ ، ابوہریرہ رضی اللہ عنہ پر رحم فرمائے! وہ ( خود ) کھیت کے مالک تھے ۔ ( انہوں نے یہ بات ضبط کی ۔ )",
+                "urduNarrator": "ہم سے عبد بن حمید نے بیان کیا، کہا ہم سے عبد الرزاق نے بیان کیا، کہا ہم سے معمر نے بیان کیا, امام زہری نے ابوسلمہ سے اور انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنِ اتَّخَذَ كَلْبًا إِلَّا كَلْبَ مَاشِيَةٍ، أَوْ صَيْدٍ، أَوْ زَرْعٍ، انْتَقَصَ مِنْ أَجْرِهِ كُلَّ يَوْمٍ قِيرَاطٌ»، قَالَ الزُّهْرِيُّ: فَذُكِرَ لِابْنِ عُمَرَ قَوْلُ أَبِي هُرَيْرَةَ، فَقَالَ: «يَرْحَمُ اللهُ أَبَا هُرَيْرَةَ كَانَ صَاحِبَ زَرْعٍ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11596,
+                "hadithNumber": "4032",
+                "englishNarrator": "Abu Huraira ( رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: He who kept a dog would lose out of his deeds equal to one qirat every day. except (one kept) for watching the field or herd.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جس نے کتا رکھا ، اس کے عمل سے ہر روز ایک قیراط کم ہو گا ، سوائے کھیتی یا مویشیوں ( کی حفاظت کرنے ) والے کتے کے ۔ \"",
+                "urduNarrator": "مجھ سے زہیر بن حرب نے بیان کیا، کہا ہم سے اسماعیل بن ابراہیم نے بیان کیا, ہشام دستوائی نے ہمیں حدیث بیان کی ، کہا : ہمیں یحییٰ بن ابی کثیر نے ابوسلمہ سے حدیث بیان کی ، انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هِشَامٌ الدَّسْتَوَائِيُّ، حَدَّثَنَا يَحْيَى بْنُ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنْ أَمْسَكَ كَلْبًا، فَإِنَّهُ يَنْقُصُ مِنْ عَمَلِهِ كُلَّ يَوْمٍ قِيرَاطٌ، إِلَّا كَلْبَ حَرْثٍ، أَوْ مَاشِيَةٍ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11597,
+                "hadithNumber": "4033",
+                "englishNarrator": null,
+                "hadithEnglish": "A hadith like this has been transmitted on the authority of Abu Huraira رضی اللہ عنہ .",
+                "hadithUrdu": "ہم سے اسحاق بن ابراہیم نے بیان کیا، کہا ہم سے شعیب بن اسحاق نے بیان کیا, اوزاعی نے ہمیں حدیث بیان کی ، کہا : مجھے یحییٰ بن ابی کثیر نے حدیث سنائی ، کہا : مجھے ابوسلمہ بن عبدالرحمٰن نے حدیث سنائی ، کہا : مجھے حضرت ابوہریرہ رضی اللہ عنہ نے رسول اللہ صلی اللہ علیہ وسلم سے اسی کے مانند حدیث بیان کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا شُعَيْبُ بْنُ إِسْحَاقَ، حَدَّثَنَا الْأَوْزَاعِيُّ، حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ، حَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، حَدَّثَنِي أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11598,
+                "hadithNumber": "4034",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been reported on the authority of Yahya bin Abu Kathir with the same chain of transmitters.",
+                "hadithUrdu": "ہم سے احمد بن المنذر نے بیان کیا، کہا ہم سے عبدالصمد نے بیان کیا, حرب نے یحییٰ بن ابی کثیر سے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ الْمُنْذِرِ، حَدَّثَنَا عَبْدُ الصَّمَدِ، حَدَّثَنَا حَرْبٌ، حَدَّثَنَا يَحْيَى بْنُ أَبِي كَثِيرٍ، بِهَذَا الْإِسْنَادِ مِثْلَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11599,
+                "hadithNumber": "4035",
+                "englishNarrator": "Abu Huraira (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying: He who kept a dog, but not meant for hunting or watching the herd, would lose one qirat of reward every day.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جس نے ( ایسا ) کتا رکھا جو شکار یا بکریوں کا کتا نہیں ہے تو اس کے عمل سے ہر روز ایک قیراط کم ہو گا ۔ \"",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا، انہیں عبد الواحد نے، یعنی ابن زیاد نے، ہم سے اسماعیل بن سمیع کی سند سے بیان کیا, ابورزین نے ہمیں حدیث بیان کی ، کہا : میں نے حضرت ابوہریرہ رضی اللہ عنہ سے سنا ، وہ کہہ رہے تھے",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا عَبْدُ الْوَاحِدِ يَعْنِي ابْنَ زِيَادٍ، عَنْ إِسْمَاعِيلَ بْنِ سُمَيْعٍ، حَدَّثَنَا أَبُو رَزِينٍ، قَالَ: سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنِ اتَّخَذَ كَلْبًا، لَيْسَ بِكَلْبِ صَيْدٍ، وَلَا غَنَمٍ، نَقَصَ مِنْ عَمَلِهِ كُلَّ يَوْمٍ قِيرَاطٌ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11600,
+                "hadithNumber": "4036",
+                "englishNarrator": "Sufyan bin Abu Zuhair (he was a person belonging to the tribe of Shanu'a and was amongst the Companions of Allah's Messenger (ﷺ) said:",
+                "hadithEnglish": "I heard Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: He who kept a dog (other than that) which is indispensable for watching the field or the animals would lose one qirat out of his deeds every day. As-Sa'ib bin Yazid (one of the narrators) said: Did you hear it from Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌)? He said: Yes. by the Lord of this mosque.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ، آپ فرما رہے تھے : \" جس نے کتا رکھا جو اسے کھیتی اور تھن ( والے جانوروں کی حفاظت ) کا فائدہ نہیں دیتا تو اس کے عمل سے ہر روز ایک قیراط کم ہو گا ۔ \" ( سائب نے ) کہا : کیا آپ نے خود یہ حدیث رسول اللہ صلی اللہ علیہ وسلم سے سنی ہے؟ انہوں نے کہا : ہاں ، اس مسجد کے رب کی قسم!",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، انہوں نے کہا امام مالک نے زیدی بن خصفیہ سے روایت کی کہ انہیں سائب بن یزید نے بتایا کہ انہوں نے سفیان بن ابی زہیر سے سنا اورہ وہ شنوءہ قبیلے سے تعلق رکھنے والے ، رسول اللہ صلی اللہ علیہ وسلم کے صحابی تھے ، کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ: قَرَأْتُ عَلَى مَالِكٍ، عَنْ يَزِيدَ بْنِ خُصَيْفَةَ، أَنَّ السَّائِبَ بْنَ يَزِيدَ، أَخْبَرَهُ أَنَّهُ سَمِعَ سُفْيَانَ بْنَ أَبِي زُهَيْرٍ - وَهُوَ رَجُلٌ مِنْ شَنُوءَةَ، مِنْ أَصْحَابِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ -، قَالَ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، يَقُولُ: «مَنِ اقْتَنَى كَلْبًا، لَا يُغْنِي عَنْهُ زَرْعًا، وَلَا ضَرْعًا، نَقَصَ مِنْ عَمَلِهِ كُلَّ يَوْمٍ قِيرَاطٌ»، قَالَ: آنْتَ سَمِعْتَ هَذَا مِنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ؟ قَالَ: إِي وَرَبِّ هَذَا الْمَسْجِدِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11601,
+                "hadithNumber": "4037",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Sufyan bin Abu Zuhair al-Shana'i.",
+                "hadithUrdu": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، انہوں نے کہا اسماعیل نے ہمیں یزید بن خصفیہ سے حدیث بیان کی ، کہا : مجھے سائب بن یزید نے خبر دی کہ ان کے پاس سفیان بن ابی زہیر شنئي ( قبیلہ شنوءہ سے تعلق رکھنے والے ) آئے اور کہا : رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ۔ ۔ ۔ اسی کے مانند.",
+                "urduNarrator": null,
+                "hadithArabic": "دَّثَنَا يَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ، وَابْنُ حُجْرٍ، قَالُوا: حَدَّثَنَا إِسْمَاعِيلُ، عَنْ يَزِيدَ بْنِ خُصَيْفَةَ، أَخْبَرَنِي السَّائِبُ بْنُ يَزِيدَ، أَنَّهُ وَفَدَ عَلَيْهِمْ سُفْيَانُ بْنُ أَبِي زُهَيْرٍ الشَّنَئِيُّ، فَقَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11602,
+                "hadithNumber": "4038",
+                "englishNarrator": "It is narrated on the authority of Humaid:",
+                "hadithEnglish": "Anas bin Malik رضی اللہ عنہ was asked about the earnings of the cupper. He said: Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) got himself cupped. His cupper was Abu Taiba and he (the Holy Prophet) commanded to give him two sa's of corn. He (the Holy Prophet) talked with the members of his family and they lightened the burden of Kharaj (tax) from him (i. e. they made remission in the charges of their own accord). He (Allah's Apostle) said: The best (treatment) which you take is cupping, or it is the best of your treatments.",
+                "hadithUrdu": "حضرت انس بن مالک رضی اللہ عنہ سے پچھنے ( سینگی ) لگانے والے کی کمائی کے بارے میں پوچھا گیا تو انہوں نے کہا : رسول اللہ صلی اللہ علیہ وسلم نے پچھنے لگوائے ، آپ کو ابوطیبہ نے پچھنے لگائے تو آپ نے اسے غلے سے دو صاع دینے کا حکم دیا اور اس کے مالکوں سے بات کی تو انہوں نے اس کے محصول میں کچھ تخفیف کر دی اور آپ نے فرمایا : \" تم لوگ جو علاج کرواؤ اس میں سے بہترین سینگی لگوانا ہے یا ( فرمایا : ) یہ تمہارے بہترین علاجوں میں سے ہے ۔ \"",
+                "urduNarrator": "ہم سے یحییٰ بن ایوب، قتیبہ بن سعید اور علی بن حجر نے بیان کیا، انہوں نے کہا اسماعیل بن جعفر نے ہمیں حمید سے حدیث بیان کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، وَعَلِيُّ بْنُ حُجْرٍ، قَالُوا: حَدَّثَنَا إِسْمَاعِيلُ يَعْنُونَ ابْنَ جَعْفَرٍ، عَنْ حُمَيْدٍ، قَالَ: سُئِلَ أَنَسُ بْنُ مَالِكٍ، عَنْ كَسْبِ الْحَجَّامِ؟ فَقَالَ: احْتَجَمَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، حَجَمَهُ أَبُو طَيْبَةَ، فَأَمَرَ لَهُ بِصَاعَيْنِ مِنْ طَعَامٍ، وَكَلَّمَ أَهْلَهُ، فَوَضَعُوا عَنْهُ مِنْ خَرَاجِهِ، وَقَالَ: «إِنَّ أَفْضَلَ مَا تَدَاوَيْتُمْ بِهِ الْحِجَامَةُ»، أَوْ «هُوَ مِنْ أَمْثَلِ دَوَائِكُمْ».",
+                "headingArabic": "حِلِّ أُجْرَةِ الْحِجَامَةِ ‏‏",
+                "headingUrdu": "سنگی کی فیس کی کمائی کی اجازت",
+                "headingEnglish": "The permissibility of a cupper's earnings",
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11603,
+                "hadithNumber": "4039",
+                "englishNarrator": "Rumaid reported that Anas bin Malik (رضی اللہ عنہ) has asked about the earnings of a cupper. Then (the above-mentioned hadith was reported but with this addition) that he said:",
+                "hadithEnglish": "The best treatment which you get is cupping or aloeswood and do not torture your children by pressing their uvula.",
+                "hadithUrdu": "\" بلاشبہ سب سے افضل جس کے ذریعے سے تم علاج کراؤ ، پچھنے لگوانا اور عود بحری ( کا استعمال ) ہے اور تم اپنے بچوں کو گلا دبا کر ( مَل کر ) تکلیف نہ دو ۔ \"",
+                "urduNarrator": "ہم سے ابن ابی عمر نے بیان کیا، انہوں نے کہا مروان فزاری نے ہمیں حمید سے حدیث بیان کی ، انہوں نے کہا : حضرت انس رضی اللہ عنہ سے سینگی لگانے والے کی کمائی کے بارے میں پوچھا گیا ۔ ۔ ۔ آگے اسی کے مانند بیان کیا ، مگر انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا مَرْوَانُ يَعْنِي الْفَزَارِيَّ، عَنْ حُمَيْدٍ، قَالَ: سُئِلَ أَنَسٌ عَنْ كَسْبِ الْحَجَّامِ؟ فَذَكَرَ بِمِثْلِهِ، غَيْرَ أَنَّهُ، قَالَ: «إِنَّ أَفْضَلَ مَا تَدَاوَيْتُمْ بِهِ الْحِجَامَةُ، وَالْقُسْطُ الْبَحْرِيُّ، وَلَا تُعَذِّبُوا صِبْيَانَكُمْ بِالْغَمْزِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11604,
+                "hadithNumber": "4040",
+                "englishNarrator": "Humaid reported Anas ( رضی اللہ عنہ) having said this:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) called for young cupper belonging to us. He capped him and he (the Holy Prophet ﷺ) commanded that he should be paid one sa' or one mudd or two mudds (of wheat). It was said (that charges were high) and a reduction was made in the charges.",
+                "hadithUrdu": "نبی صلی اللہ علیہ وسلم نے ہمارے ایک پچھنے لگانے والے غلام کو بلایا اس نے آپ کو پچھنے لگائے تو آپ نے اسے ایک صاع ، ایک مد یا دو مد دینے کا حکم دیا اور اس کے متعلق ( اس کے مالکوں سے ) بات کی تو اس کے محصول میں کمی کر دی گئی ۔",
+                "urduNarrator": "ہم سے احمد بن الحسن بن خراش نے بیان کیا، کہا ہم سے شبابہ نے بیان کیا، شعبہ نے ہمیں حمید سے حدیث بیان کی ، انہوں نے کہا : میں نے حضرت انس رضی اللہ عنہ کو کہتے سنا",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ الْحَسَنِ بْنِ خِرَاشٍ، حَدَّثَنَا شَبَابَةُ، حَدَّثَنَا شُعْبَةُ، عَنْ حُمَيْدٍ، قَالَ: سَمِعْتُ أَنَسًا، يَقُولُ: «دَعَا النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ غُلَامًا لَنَا حَجَّامًا، فَحَجَمَهُ، فَأَمَرَ لَهُ بِصَاعٍ، أَوْ مُدٍّ، أَوْ مُدَّيْنِ، وَكَلَّمَ فِيهِ، فَخُفِّفَ عَنْ ضَرِيبَتِهِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11605,
+                "hadithNumber": "4041",
+                "englishNarrator": "Ibn Abbas (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) got himself cupped and he paid the clipper his charges and he put medicine in his nostrils.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے پچھنے لگوائے اور سینگی لگانے والے کو اس کی اجرت دی اور آپ نے ناک کے ذریعے سے دوا لی ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے عفان بن مسلم نے بیان کیا، اور ہم سے اسحاق بن ابراہیم نے بیان کیا، کہا کہ ہم سے المخزومی نے بیان کیا، ان دونوں کی سند سے وہیب، طاوس نے حضرت ابن عباس رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَفَّانُ بْنُ مُسْلِمٍ، ح وحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا الْمَخْزُومِيُّ، كِلَاهُمَا عَنْ وُهَيْبٍ، حَدَّثَنَا ابْنُ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، «أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ احْتَجَمَ، وَأَعْطَى الْحَجَّامَ أَجْرَهُ، وَاسْتَعَطَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11606,
+                "hadithNumber": "4042",
+                "englishNarrator": "Ibn 'Abbas (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "The slave of Banu Bayada cupped Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and he gave him his wages, and talked to his master and he reduced the charges, and if this earning was unlawful Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) would not have given it.",
+                "hadithUrdu": "بنو بیاضہ کے ایک غلام نے نبی صلی اللہ علیہ وسلم جو پچھنے لگائے تو نبی صلی اللہ علیہ وسلم نے اسے اس کی اجرت دی اور آپ نے اس کے مالک سے بات کی تو اس نے اس کے محصول میں کچھ تخفیف کر دی اور اگر یہ ( اجرت ) حرام ہوتی تو نبی صلی اللہ علیہ وسلم اس کو نہ دیتے ۔",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم اور عبد بن حمید نے بیان کیا، اور لفظ عبد کے لیے ہے، انہوں نے کہا: ہمیں عبدالرزاق نے خبر دی، ہمیں معمر نے خبر دی، عاصم کی سند سے,شعبی نے حضرت ابن عباس رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَبْدُ بْنُ حُمَيْدٍ، وَاللَّفْظُ لِعَبْدٍ، قَالَا: أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ عَاصِمٍ، عَنِ الشَّعْبِيِّ، عَنِ ابْنِ عَبَّاسٍ، قَالَ: «حَجَمَ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَبْدٌ لِبَنِي بَيَاضَةَ، فَأَعْطَاهُ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَجْرَهُ، وَكَلَّمَ سَيِّدَهُ فَخَفَّفَ عَنْهُ مِنْ ضَرِيبَتِهِ، وَلَوْ كَانَ سُحْتًا لَمْ يُعْطِهِ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11607,
+                "hadithNumber": "4043",
+                "englishNarrator": "Abu Sa'id al-Khudri (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "I heard Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) addressing in Medina. He said: O people, Allah is giving an indication (of the prohibition) of wine. and He is probably soon going to give an order about it. So he who has anything of it with him should sell that, and derive benefit out of it. He (the narrator) said: We waited for some time that Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: Verily Allah, the Exalted, has forbidden wine. So who hears this verse and he has anything of it with him, he should neither drink it nor sell it. He (the narrator) said: The people then brought whatever they had of it with them on the streets of Medina and spilt that.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ، آپ مدینہ میں خطبہ دے رہے تھے ، آپ نے فرمایاؒ \" لوگو! اللہ تعالیٰ شراب ( کی حرمت ) کے بارے میں اشارہ فرما رہا ہے اور شاید اللہ تعالیٰ جلد ہی اس کے بارے میں کوئی ( قطعی ) حکم نازل کر دے ۔ جس کے پاس اس ( شراب ) میں سے کچھ موجود ہے وہ اسے بیچ دے اور اس سے فائدہ اٹھا لے ۔ \" کہا : پھر ہم نے تھوڑا ہی عرصہ اس عالم میں گزارا کہ نبی صلی اللہ علیہ وسلم نے فرمایا : \" اللہ تعالیٰ نے یقینا شراب کو حرام کر دیا ہے ، جس شخص تک یہ آیت پہنچے اور اس کے پاس اس ( شراب ) میں سے کچھ ( حصہ باقی ) ہے تو نہ وہ اسے پیے اور نہ فروخت کرے ۔ \" کہا : لوگوں کے پاس جو بھی شراب تھی وہ اسے لے کر مدینہ کے راستے میں نکل آئے اور اسے بہا دیا ۔",
+                "urduNarrator": "ہم سے عبید اللہ بن عمر القواریری نے بیان کیا، کہا ہم سے عبد الاعلٰی بن عبد الاعلٰی نے بیان کیا، ہم سے سعید الجریری نے بیان کیا، ابو کے واسطہ سے،حضرت ابوسعید خدری رضی اللہ عنہ سے روایت ہے ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا عُبَيْدُ اللهِ بْنُ عُمَرَ الْقَوَارِيرِيُّ، حَدَّثَنَا عَبْدُ الْأَعْلَى بْنُ عَبْدِ الْأَعْلَى أَبُو هَمَّامٍ، حَدَّثَنَا سَعِيدٌ الْجُرَيْرِيُّ، عَنْ أَبِي نَضْرَةَ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَخْطُبُ بِالْمَدِينَةِ، قَالَ: «يَا أَيُّهَا النَّاسُ، إِنَّ اللهَ تَعَالَى يُعَرِّضُ بِالْخَمْرِ، وَلَعَلَّ اللهَ سَيُنْزِلُ فِيهَا أَمْرًا، فَمَنْ كَانَ عِنْدَهُ مِنْهَا شَيْءٌ فَلْيَبِعْهُ وَلْيَنْتَفِعْ بِهِ»، قَالَ: فَمَا لَبِثْنَا إِلَّا يَسِيرًا حَتَّى قَالَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ اللهَ تَعَالَى حَرَّمَ الْخَمْرَ، فَمَنْ أَدْرَكَتْهُ هَذِهِ الْآيَةُ وَعِنْدَهُ مِنْهَا شَيْءٌ فَلَا يَشْرَبْ، وَلَا يَبِعْ»، قَالَ: فَاسْتَقْبَلَ النَّاسُ بِمَا كَانَ عِنْدَهُ مِنْهَا فِي طَرِيقِ الْمَدِينَةِ فَسَفَكُوهَ.",
+                "headingArabic": "تَحْرِيمِ بَيْعِ الْخَمْرِ ‏‏",
+                "headingUrdu": "شراب بیچنے کی ممانعت",
+                "headingEnglish": "The prohibition of selling wine",
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11608,
+                "hadithNumber": "4044",
+                "englishNarrator": "Abdul-Rahman bin Wa'ala as-Saba'i (who was an Egyptian) asked:",
+                "hadithEnglish": "'Abdullah bin Abbas (رضی اللہ عنہ) about that which is extracted from the grapes, whereupon he said: A person presented to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) a small water-skin of wine. Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said to him: Do you know that Allah has forbidden it? He said: No. He then whispered to another man. Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) asked him what he had whispered. He said: I advised him to sell that, whereupon he (the Holy Prophet ﷺ) said: Verily He Who has forbidden its drinking has forbidden its sale also. He (the narrator) said: He opened the water skin until what was contained in it was spilt.",
+                "hadithUrdu": "انہوں نے حضرت عبداللہ بن عباس رضی اللہ عنہ سے اس چیز کے بارے میں سوال کیا جو انگور سے نچوڑی جاتی ہے ۔ حضرت ابن عباس رضی اللہ عنہ نے کہا : ایک آدمی نے رسول اللہ صلی اللہ علیہ وسلم کو شراب کا ایک مشکیزہ ہدیہ کیا تو رسول اللہ صلی اللہ علیہ وسلم نے اس سے فرمایا : \" کیا تمہیں علم ہے کہ اللہ تعالیٰ نے اسے حرام قررا دیا ہے؟ \" اس نے جواب دیا : نہیں ، اس کے بعد اس نے ایک انسان سے سرگوشی کی تو رسول اللہ صلی اللہ علیہ وسلم نے اس سے پوچھا : \" تم نے اس سے کیا سرگوشی کی ہے؟ \" اس نے جواب دیا : میں نے اس سے یہ فروخت کرنے کو کہا ہے ۔ تو آپ نے فرمایا : \" جس ( اللہ ) نے اس کا پینا حرام کیا ہے اس نے اس کی بیع بھی حرام قرار دی ہے ۔ \" کہا : اس پر اس شخص نے مشکیزے کا منہ کھول دیا حتی کہ جو اس میں تھا ، بہہ گیا ۔",
+                "urduNarrator": "سوید بن سعید نے ہمیں حدیث بیان کی ، کہا : ہمیں حفص بن میسرہ نے زید بن اسلم سے حدیث سنائی ، انہوں نے ۔ ۔ اہل مصر کے آدمی ۔ ۔ عبدالرحمٰن بن وعلہ سے روایت کی کہ وہ حضرت عبداللہ بن عباس رضی اللہ عنہ کے پاس آئے ۔ اور مجھے ابوطاہر نے حدیث بیان کی ۔ ۔ الفاظ انہی کے ہیں ۔ ۔ : ہمیں ابن وہب نے خبر دی ,مجھے مالک بن انس اور دوسروں نے زید بن اسلم سے ، انہوں نے ۔ ۔ مصر کے باشندوں میں سے ۔ ۔ عبدالرحمن بن وعلہ سبئی سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا سُوَيْدُ بْنُ سَعِيدٍ، حَدَّثَنَا حَفْصُ بْنُ مَيْسَرَةَ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ وَعْلَةَ - رَجُلٌ مِنْ أَهْلِ مِصْرَ - أَنَّهُ جَاءَ عَبْدَ اللهِ بْنَ عَبَّاسٍ، ح وحَدَّثَنَا أَبُو الطَّاهِرِ، وَاللَّفْظُ لَهُ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي مَالِكُ بْنُ أَنَسٍ، وَغَيْرُهُ عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ وَعْلَةَ السَّبَإِيِّ، مِنْ أَهْلِ مِصْرَ، أَنَّهُ سَأَلَ عَبْدَ اللهِ بْنَ عَبَّاسٍ، عَمَّا يُعْصَرُ مِنَ الْعِنَبِ، فَقَالَ ابْنُ عَبَّاسٍ: إِنَّ رَجُلًا أَهْدَى لِرَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ رَاوِيَةَ خَمْرٍ، فَقَالَ لَهُ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «هَلْ عَلِمْتَ أَنَّ اللهَ قَدْ حَرَّمَهَا؟» قَالَ: لَا، فَسَارَّ إِنْسَانًا، فَقَالَ لَهُ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «بِمَ سَارَرْتَهُ؟»، فَقَالَ: أَمَرْتُهُ بِبَيْعِهَا، فَقَالَ: «إِنَّ الَّذِي حَرَّمَ شُرْبَهَا حَرَّمَ بَيْعَهَا»، قَالَ: فَفَتَحَ الْمَزَادَةَ حَتَّى ذَهَبَ مَا فِيهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11609,
+                "hadithNumber": "4045",
+                "englishNarrator": null,
+                "hadithEnglish": "Abdul-Rahman bin Wa'ala narrated this on the authority of 'Abdullah bin Abbas رضی اللہ عنہ .",
+                "hadithUrdu": "مجھ سے ابو الطاہر نے بیان کیا، کہا ہم سے ابن وہب نے بیان کیا، کہا کہ مجھ سے سلیمان بن بلال نے بیان کیا, یحییٰ بن سعید نے عبدالرحمٰن بن وعلہ سے ، انہوں نے حضرت عبداللہ بن عباس رضی اللہ عنہ سے اور انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے ، اسی کے مانند روایت کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنِي أَبُو الطَّاهِرِ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي سُلَيْمَانُ بْنُ بِلَالٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ وَعْلَةَ، عَنْ عَبْدِ اللهِ بْنِ عَبَّاسٍ، عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مِثْلَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11610,
+                "hadithNumber": "4046",
+                "englishNarrator": "A'isha ( رضی اللہ عنہا) reported:",
+                "hadithEnglish": "When the concluding verses of Sura Baqara were revealed, Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) went out and read them out to the people and then forbade them to trade in wine.",
+                "hadithUrdu": "جب سورہ بقرہ کے آخری حصے کی آیات نازل ہوئیں تو رسول اللہ صلی اللہ علیہ وسلم باہر تشریف لے گئے ۔ آپ نے لوگوں کے سامنے ان کی تلاوت کی ، پھر آپ نے شراب کی تجارت سے بھی منع فرما دیا ۔",
+                "urduNarrator": "ہم سے زہیر بن حرب نے بیان کیا، اور ہم سے اسحاق بن ابراہیم نے بیان کیا، کہا کہ ہم سے انہوں نے بیان کیا، اور کہا: ہم سے جریر نے بیان کیا,منصور نے ابوضحیٰ ( مسلم بن صبیح ) سے ، انہوں نے مسروق سے اور انہوں نے حضرت عائشہ رضی اللہ عنہا سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ قَالَ زُهَيْرٌ: حَدَّثَنَا، وَقَالَ إِسْحَاقُ: أَخْبَرَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ أَبِي الضُّحَى، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ، قَالَتْ: «لَمَّا نَزَلَتِ الْآيَاتُ مِنْ آخِرِ سُورَةِ الْبَقَرَةِ، خَرَجَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَاقْتَرَأَهُنَّ عَلَى النَّاسِ، ثُمَّ نَهَى عَنِ التِّجَارَةِ فِي الْخَمْرِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11611,
+                "hadithNumber": "4047",
+                "englishNarrator": "A'isha (رضی اللہ عنہا) reported:",
+                "hadithEnglish": "When the concluding verses of Sura Baqara pertaining to Riba were revealed, Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) went out to the mosque and he forbade the trade in wine.",
+                "hadithUrdu": "جب سود کے بارے میں سورہ بقرہ کی آکری آیات نازل کی گئیں ، کہا : تو رسول اللہ صلی اللہ علیہ وسلم مسجد کی طرف تشریف لے گئے اور آپ نے شراب کی تجارت کو بھی حرام قرار دیا.",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ، ابو کریب اور اسحاق بن ابراہیم نے بیان کیا، اور یہ قول ابو کریب سے ہے، انہوں نے کہا: ہم سے انہوں نے بیان کیا۔ دوسرے دو: ہم سے ابو معاویہ نے بیان کیا،اعمش نے ( ابوضحیٰ ) مسلم سے ، انہوں نے مسروق سے اور انہوں نے حضرت عائشہ رضی اللہ عنہا سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَاللَّفْظُ لِأَبِي كُرَيْبٍ، قَالَ إِسْحَاقُ: أَخْبَرَنَا، وَقَالَ الْآخَرَانِ: حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الْأَعْمَشِ، عَنْ مُسْلِمٍ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ، قَالَتْ: «لَمَّا أُنْزِلَتِ الْآيَاتُ مِنْ آخِرِ سُورَةِ الْبَقَرَةِ فِي الرِّبَا»، قَالَتْ: «خَرَجَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِلَى الْمَسْجِدِ فَحَرَّمَ التِّجَارَةَ فِي الْخَمْرِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11612,
+                "hadithNumber": "4048",
+                "englishNarrator": "Jabir bin 'Abdullah (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying in the Year of Victory while he was in Mecca: Verily Allah and His Messenger have forbidden the sale of wine, carcass, swine and idols, It was said: Allah's Messenger, you see that the fat of the carcass is used for coating the boats and varnishing the hides and people use it for lighting purposes, whereupon he said: No, it is forbidden, Then Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: May Allah the Exalted and Majestic destroy the Jews; when Allah forbade the use of fat of the carcass for them, they melted it, and then sold it and made use of its price (received from it).",
+                "hadithUrdu": "انہوں نے رسول اللہ صلی اللہ علیہ وسلم کو فتح مکہ کے سال ، جب آپ مکہ ہی میں تھے ، فرماتے ہوئے سنا : \" بلاشبہ اللہ اور اس کے رسول صلی اللہ علیہ وسلم نے شراب ، مردار ، خنزیر اور بتوں کی بیع حرام قرار دی ہے ۔ \" کہا گیا : اے اللہ کے رسول! مردار جانور کی چربی کے بارے میں آپ کی کیا رائے ہے ، اس سے کشتیوں ( کے تختے ) کو روغن کیا جاتا ہے اور چمڑوں کو نرم کیا جاتا ہے اور لوگ اس سے چراغ جلاتے ہیں؟ آپ صلی اللہ علیہ وسلم نے فرمایا : \" نہیں ، وہ حرام ہے ۔ \" پھر اسی وقت ، رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" اللہ یہود کو ہلاک کرے! اللہ نے جب ان لے لیے ان جانوروں کی چربی حرام کی تو انہوں نے اسے پھگلایا ، پھر اسے فروخت کیا اور اس کی قیمت لے کر کھائی ۔ \"",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا, لیث نے ہمیں یزید بن ابی حبیب سے حدیث بیان کی ، انہوں نے عطاء بن ابی رباح سے اور انہوں نے حضرت جابر بن عبداللہ رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ عَطَاءِ بْنِ أَبِي رَبَاحٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللهِ، أَنَّهُ سَمِعَ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ عَامَ الْفَتْحِ وَهُوَ بِمَكَّةَ: «إِنَّ اللهَ وَرَسُولَهُ حَرَّمَ بَيْعَ الْخَمْرِ، وَالْمَيْتَةِ، وَالْخِنْزِيرِ، وَالْأَصْنَامِ»، فَقِيلَ: يَا رَسُولَ اللهِ، أَرَأَيْتَ شُحُومَ الْمَيْتَةِ، فَإِنَّهُ يُطْلَى بِهَا السُّفُنُ، وَيُدْهَنُ بِهَا الْجُلُودُ، وَيَسْتَصْبِحُ بِهَا النَّاسُ، فَقَالَ: «لَا، هُوَ حَرَامٌ»، ثُمَّ قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عِنْدَ ذَلِكَ: «قَاتَلَ اللهُ الْيَهُودَ، إِنَّ اللهَ عَزَّ وَجَلَّ لَمَّا حَرَّمَ عَلَيْهِمْ شُحُومَهَا أَجْمَلُوهُ، ثُمَّ بَاعُوهُ فَأَكَلُوا ثَمَنَهُ».",
+                "headingArabic": "تَحْرِيمِ بَيْعِ الْخَمْرِ وَالْمَيْتَةِ وَالْخِنْزِيرِ وَالأَصْنَامِ ‏‏",
+                "headingUrdu": "شراب، مردہ گوشت، خنزیر کا گوشت اور بت بیچنے کی ممانعت",
+                "headingEnglish": "The prohibition of selling wine, dead meat, pork and idols",
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11613,
+                "hadithNumber": "4049",
+                "englishNarrator": "Yazid bin Abu Habib رضی اللہ عنہ reported:",
+                "hadithEnglish": "'Ata' reported to me that he heard Jabir (bin 'Abdullah رضی اللہ عنہ) saying it that he had heard that from Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) in the Year of Victory.",
+                "hadithUrdu": "عطاء نے مجھے لکھ بھیجا کہ انہوں نے حضرت جابر بن عبداللہ رضی اللہ عنہ کو کہتے ہوئے سنا : میں نے فتح مکہ کے سال رسول اللہ صلی اللہ علیہ وسلم سے سنا ۔ ۔ آگے لیث کی حدیث کی طرح ہے ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ اور ابن نمیر نے بیان کیا، کہا کہ ہم سے ابو اسامہ نے بیان کیا،عبدالحمید سے روایت ہے ، کہا : مجھے یزید بن ابی حبیب نے حدیث بیان کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَابْنُ نُمَيْرٍ، قَالَا: حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ عَبْدِ الْحَمِيدِ بْنِ جَعْفَرٍ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ عَطَاءٍ، عَنْ جَابِرٍ، قَالَ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَامَ الْفَتْحِ، ح وحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا الضَّحَّاكُ يَعْنِي أَبَا عَاصِمٍ، عَنْ عَبْدِ الْحَمِيدِ، حَدَّثَنِي يَزِيدُ بْنُ أَبِي حَبِيبٍ، قَالَ: كَتَبَ إِلَيَّ عَطَاءٌ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللهِ، يَقُولُ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَامَ الْفَتْحِ بِمِثْلِ حَدِيثِ اللَّيْثِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "23",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 123,
+                    "chapterNumber": "23",
+                    "chapterEnglish": "The Book Of Musaqah",
+                    "chapterUrdu": "سیرابی کے عوض پیدوار میں حصہ داری اور مزارعت",
+                    "chapterArabic": "كتاب الْمُسَاقَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 11301,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=452",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=450",
+                "label": "450",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=451",
+                "label": "451",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=452",
+                "label": "452",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=453",
+                "label": "453",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=454",
+                "label": "454",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=455",
+                "label": "455",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=456",
+                "label": "456",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=454",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=454",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=452",
+        "to": 11325,
+        "total": 40465
+    }
+}

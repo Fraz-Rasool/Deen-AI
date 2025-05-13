@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 519,
+        "data": [
+            {
+                "id": 13239,
+                "hadithNumber": "5676",
+                "englishNarrator": "Ibn Wahb reported:",
+                "hadithEnglish": "I heard Laith bin Said as saying: Al-Hamv means the brother of husband or like it from amongst the relatives of the husband, for example, cousin, etc.",
+                "hadithUrdu": "میں نے لیث بن سعد سے سنا ، کہہ رہے تھے : حمو ( دیور/جیٹھ ) خاوند کابھائی ہے یا خاوند کے رشتہ داروں میں اس جیسا رشتہ رکھنے والا ، مثلاً : اس کا چچا زاد وغیرہ ۔",
+                "urduNarrator": "ابو الطاہر نے مجھے بتایا, ابن وہب نے کہا",
+                "hadithArabic": "و حَدَّثَنِي أَبُو الطَّاهِرِ أَخْبَرَنَا ابْنُ وَهْبٍ قَالَ وَسَمِعْتُ اللَّيْثَ بْنَ سَعْدٍ يَقُولُ الْحَمْوُ أَخُ الزَّوْجِ وَمَا أَشْبَهَهُ مِنْ أَقَارِبِ الزَّوْجِ ابْنُ الْعَمِّ وَنَحْوُهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13240,
+                "hadithNumber": "5677",
+                "englishNarrator": "Abdullah bin 'Amr bin al-'As رضی اللہ عنہ reported:",
+                "hadithEnglish": "Some persons from Banu Hisham entered the house of Asma' daughter of 'Umais رضی اللہ عنہا when Abu Bakr رضی اللہ عنہ also entered (and she was at that time his wife). He (Abu Bakr رضی اللہ عنہ) saw it and disapproved of it and he made a mention of that to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and said: I did not see but good only (in my wife). Thereupon Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: Verily Allah has made her immune from all this. Then Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) stood on the pulpit and said: After this day no man should enter the house of another person in his absence, but only when he is accompanied by one person or two persons.",
+                "hadithUrdu": "بنو ہاشم کے کچھ لوگ حضرت اسماء بنت عمیس رضی اللہ عنہا کے گھر گئے ، پھر حضرت ابو بکر رضی اللہ عنہ بھی آگئے ، حضرت اسماء رضی اللہ عنہا اس وقت ان کے نکاح میں تھیں ۔ انھوں نے ان لوگوں کو دیکھا تو انھیں ناگوارگزرا ۔ انھوں نے یہ بات رسول اللہ صلی اللہ علیہ وسلم کو بتائی ، ساتھ ہی کہا : میں نے خیر کے سواکچھ نہیں دیکھا ۔ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" اللہ تعالیٰ نے ( بھی ) انھیں ( حضرت اسماء بنت عمیس رضی اللہ عنہا کو ) اس سے بری قرار دیا ہے ، پھر رسول اللہ صلی اللہ علیہ وسلم منبر پر کھڑے ہوئے اور فرمایا؛ \" آج کے بعد کوئی شخص کسی ایسی عورت کے پا س نہ جائے جس کا خاوند گھر پر نہ ہو ، الا یہ کہ اس کے ساتھ ایک یا دو لوگ ہوں ۔ \"",
+                "urduNarrator": "ہم سے ہارون بن معروف نے بیان کیا، کہا ہم سے عبداللہ بن وہب نے بیان کیا، کہا کہ مجھ سے عمرو نے بیان کیا۔ مجھ سے ابو الطاہر نے بیان کیا، ہم سے عبداللہ بن وہب نے عمرو بن حارث کی سند سے بیان کیا کہ ان سے بکر بن سویدہ نے بیان کیا, عبدالرحمن بن جبیر نے کہا کہ حضرت عبداللہ بن عمرو بن عاص رضی اللہ عنہ نے انھیں حدیث سنائی کہ",
+                "hadithArabic": "حَدَّثَنَا هَارُونُ بْنُ مَعْرُوفٍ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ أَخْبَرَنِي عَمْرٌو؛ و حَدَّثَنِي أَبُو الطَّاهِرِ أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ عَنْ عَمْرِو بْنِ الْحَارِثِ أَنَّ بَكْرَ بْنَ سَوَادَةَ حَدَّثَهُ أَنَّ عَبْدَ الرَّحْمَنِ بْنَ جُبَيْرٍ حَدَّثَهُ أَنَّ عَبْدَ اللَّهِ بْنَ عَمْرِو بْنِ الْعَاصِ حَدَّثَهُ أَنَّ نَفَرًا مِنْ بَنِي هَاشِمٍ دَخَلُوا عَلَى أَسْمَاءَ بِنْتِ عُمَيْسٍ فَدَخَلَ أَبُو بَكْرٍ الصِّدِّيقُ وَهِيَ تَحْتَهُ يَوْمَئِذٍ فَرَآهُمْ فَكَرِهَ ذَلِكَ فَذَكَرَ ذَلِكَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَقَالَ لَمْ أَرَ إِلَّا خَيْرًا فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِنَّ اللَّهَ قَدْ بَرَّأَهَا مِنْ ذَلِكَ ثُمَّ قَامَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَى الْمِنْبَرِ فَقَالَ لَا يَدْخُلَنَّ رَجُلٌ بَعْدَ يَوْمِي هَذَا عَلَى مُغِيبَةٍ إِلَّا وَمَعَهُ رَجُلٌ أَوْ اثْنَانِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13241,
+                "hadithNumber": "5678",
+                "englishNarrator": "Anas رضی اللہ عنہ reported:",
+                "hadithEnglish": "When Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) was in the company of one of his wives a person happened to pass by them. He called him and when he came, he said to him: 0 so and so, she was my such and such wife. Thereupon he said, Allah's Messenger, if I were to doubt at all, I would have entertained no doubt about you at least. Thereupon Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: Verily Satan circulates in the body like blood.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم ( گھرسے باہر ) اپنی ایک اہلیہ کے ساتھ تھے ، آپ کے پا س سے ایک شخص گزرا تو آپ نے اسے بلالیا ، جب وہ آیا تو آپ نے فرمایا؛ \" اے فلاں!یہ میری فلاں بیوی ہے ۔ \" اس شخص نے کہا : اللہ کے رسول صلی اللہ علیہ وسلم ! میں کسی کے بارے میں گمان کرتا بھی تو آپ کے بارے میں تو نہیں کرسکتا تھا ۔ آپ صلی اللہ علیہ وسلم نے فرمایا؛ \" شیطان انسان کی رگوں میں خون کی طرح دوڑتا ہے ۔ \"",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ بن قعنب نے بیان کیا، ہم سے حماد بن سلمہ نے بیان کیا, ثابت بنانی نے حضرت انس رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ بْنِ قَعْنَبٍ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ عَنْ ثَابِتٍ الْبُنَانِيِّ عَنْ أَنَسٍ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ مَعَ إِحْدَى نِسَائِهِ فَمَرَّ بِهِ رَجُلٌ فَدَعَاهُ فَجَاءَ فَقَالَ يَا فُلَانُ هَذِهِ زَوْجَتِي فُلَانَةُ فَقَالَ يَا رَسُولَ اللَّهِ مَنْ كُنْتُ أَظُنُّ بِهِ فَلَمْ أَكُنْ أَظُنُّ بِكَ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِنَّ الشَّيْطَانَ يَجْرِي مِنْ الْإِنْسَانِ مَجْرَى الدَّمِ.",
+                "headingArabic": "بَيَانِ أَنَّهُ يُسْتَحَبُّ لِمَنْ رُئِيَ خَالِيًا بِامْرَأَةٍ وَكَانَتْ زَوْجَةً أَوْ مَحْرَمًا لَهُ",
+                "headingUrdu": "اس کے لیے مستحب ہے کہ جسے کسی عورت کے ساتھ اکیلے دیکھا جائے جو اس کی بیوی ہو یا محرم، کہے؛ \"یہ ایسا ہی ہے،\" شک سے بچنے کے لیے",
+                "headingEnglish": "It Is Recommended For The One Who Is Seen Alone With A Woman Who Is His Wife Or Mahram, To Say; \"This Is So-And-So,' To Ward off Suspicion",
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13242,
+                "hadithNumber": "5679",
+                "englishNarrator": "Safiyya daughter of Huyyay رضی اللہ عنہا (the wife of Allah's Apostle):",
+                "hadithEnglish": "The prophet (ﷺ) was observing I'tikaf and I came to visit him one night. I spoke to him, then I got up to go back, and he got up with me to send me back\" Her home was in the house of Usamah bin Zaid رضی اللہ عنہ . Two man of the Ansar passed by, nd when they saw the prophet ﷺ they hurried up. The prophet ﷺ said: \"Wait, this is Safiyya bint Huyayy.\" They said: \"Subhan Allah, O Messenger of Allah ﷺ!\" He said: \"The shaitan flows through man like blood, nd I was afraid that he might instil some evil (or something) in your hearts.\"",
+                "hadithUrdu": "ام المؤمنین صفیہ بنت حیی رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم اعتکاف میں تھے ، میں رات کو آپ صلی اللہ علیہ وسلم کی زیارت کو آئی ۔ میں نے آپ صلی اللہ علیہ وسلم سے باتیں کیں ، پھر میں لوٹ جانے کو کھڑی ہوئی تو آپ صلی اللہ علیہ وسلم بھی مجھے پہنچا دینے کو میرے ساتھ کھڑے ہوئے اور میرا گھر اسامہ بن زید رضی اللہ عنہ کی مکان میں تھا ۔ راہ میں انصار کے دو آدمی ملے جب انہوں نے رسول اللہ صلی اللہ علیہ وسلم کو دیکھا تو وہ جلدی جلدی چلنے لگے ۔ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ ٹھہرو ، یہ صفیہ بنت حیی ہے ۔ وہ دونوں بولے کہ سبحان اللہ یا رسول اللہ! ( یعنی ہم بھلا آپ پر کوئی بدگمانی کر سکتے ہیں؟ ) آپ صلی اللہ علیہ وسلم نے فرمایا کہ شیطان انسان کے بدن میں خون کی طرح پھرتا ہے اور میں ڈرا کہ کہیں تمہارے دل میں برا خیال نہ ڈالے ( اور اس کی وجہ سے تم تباہ ہو ) ۔",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم اور عبد بن حمید نے بیان کیا، اور وہ الفاظ میں قریب تھے، کہتے ہیں: ہم سے عبد الرزاق نے بیان کیا, معمر نے زہری سے ، انھوں نے علی بن حسین رضی اللہ عنہ سے ، انھوں نے حضرت صفیہ بنت حی ( ام الومنین رضی اللہ عنہا ) سے روایت کی ، کہا",
+                "hadithArabic": "و حَدَّثَنَا إِسْحَقُ بْنُ إِبْرَاهِيمَ وَعَبْدُ بْنُ حُمَيْدٍ وَتَقَارَبَا فِي اللَّفْظِ قَالَا أَخْبَرَنَا عَبْدُ الرَّزَّاقِ أَخْبَرَنَا مَعْمَرٌ عَنْ الزُّهْرِيِّ عَنْ عَلِيِّ بْنِ حُسَيْنٍ عَنْ صَفِيَّةَ بِنْتِ حُيَيٍّ قَالَتْ كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مُعْتَكِفًا فَأَتَيْتُهُ أَزُورُهُ لَيْلًا فَحَدَّثْتُهُ ثُمَّ قُمْتُ لِأَنْقَلِبَ فَقَامَ مَعِيَ لِيَقْلِبَنِي وَكَانَ مَسْكَنُهَا فِي دَارِ أُسَامَةَ بْنِ زَيْدٍ فَمَرَّ رَجُلَانِ مِنْ الْأَنْصَارِ فَلَمَّا رَأَيَا النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَسْرَعَا فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَى رِسْلِكُمَا إِنَّهَا صَفِيَّةُ بِنْتُ حُيَيٍّ فَقَالَا سُبْحَانَ اللَّهِ يَا رَسُولَ اللَّهِ قَالَ إِنَّ الشَّيْطَانَ يَجْرِي مِنْ الْإِنْسَانِ مَجْرَى الدَّمِ وَإِنِّي خَشِيتُ أَنْ يَقْذِفَ فِي قُلُوبِكُمَا شَرًّا أَوْ قَالَ شَيْئًا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13243,
+                "hadithNumber": "5680",
+                "englishNarrator": "This hadith has been reported on the authority of Safiyya رضی اللہ عنہا , the wife of Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌), through another chain of transmitters (and the words) are:",
+                "hadithEnglish": "She went to Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) to visit him as he was observing I'tikaf in the mosque during Ramadan. She talked with him for some time and then stood up to go back and Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) stood up in order to bid her good-bye. The rest of the hadith is the same except with the variation of the words that Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: Satan penetrates in man like the penetration of blood (in every part of body).",
+                "hadithUrdu": "وہ رمضان کے آخری عشرے میں نبی کریم صلی اللہ علیہ وسلم کے اعتکاف کے دوران مسجد میں آپ سے ملنے آئیں ، انھوں نے گھڑی بھر آپ سے بات کی ، پھر واپسی کے لئے کھڑی ہوگئیں ۔ رسول اللہ صلی اللہ علیہ وسلم بھی ان کو واپس چھوڑنے کےلیے کھڑی ہوگئیں ۔ رسول اللہ صلی اللہ علیہ وسلم بھی ان کو واپس چھوڑنے کے لئے کھڑے ہوگئے ۔ اس کے بعد ( شعیب نے ) معمر کی حدیث کے ہم معنی حدیث بیان کی ، مگر انھوں نے کہا : رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" شیطان انسان کے اندر وہاں پہنچتا ہے جہاں خون پہنچتاہے ۔ انھوں نے \" دوڑتا ہوا \" نہیں کہا ۔",
+                "urduNarrator": "مجھ سے عبداللہ بن عبدالرحمٰن دارمی نے بیان کیا , شعیب نے زہری سے روایت کی ، کہا : مجھے علی بن حسین نے بتایا کہ انھیں نبی کریم صلی اللہ علیہ وسلم کی اہلیہ محترمہ حضرت صفیہ رضی اللہ عنہا نے خبر دی کہ",
+                "hadithArabic": "و حَدَّثَنِيهِ عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ الدَّارِمِيُّ أَخْبَرَنَا أَبُو الْيَمَانِ أَخْبَرَنَا شُعَيْبٌ عَنْ الزُّهْرِيِّ أَخْبَرَنَا عَلِيُّ بْنُ حُسَيْنٍ أَنَّ صَفِيَّةَ زَوْجَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَخْبَرَتْهُ أَنَّهَا جَاءَتْ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَزُورُهُ فِي اعْتِكَافِهِ فِي الْمَسْجِدِ فِي الْعَشْرِ الْأَوَاخِرِ مِنْ رَمَضَانَ فَتَحَدَّثَتْ عِنْدَهُ سَاعَةً ثُمَّ قَامَتْ تَنْقَلِبُ وَقَامَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقْلِبُهَا ثُمَّ ذَكَرَ بِمَعْنَى حَدِيثِ مَعْمَرٍ غَيْرَ أَنَّهُ قَالَ فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِنَّ الشَّيْطَانَ يَبْلُغُ مِنْ الْإِنْسَانِ مَبْلَغَ الدَّمِ وَلَمْ يَقُلْ يَجْرِي.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13244,
+                "hadithNumber": "5681",
+                "englishNarrator": "Abu Waqid al-Laith رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) was sitting in the mosque along wish tome people when there came to him three persons; two of them stepped forward to the direction of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌), and one of them went away. The two stood by the side of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌), and one of them found a space in his circle and he sat in that; and the other one sat behind him and the third one went away. When Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) had finished his work, he said. Should I not inform you about these three persons? One of them sought refuge with Allah and Allah gave him refuge and the second one felt shy and Allah showed kindness to has shyness (and so he was accommodated in that meeting), and the last one reverted and Allah turned away His attention from him.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم مسجد میں بیٹھے تھے اور لوگ آپ صلی اللہ علیہ وسلم کے ساتھ تھے ، اتنے میں تین آدمی آئے ، دو تو سیدھے رسول اللہ صلی اللہ علیہ وسلم کے پاس آئے اور ایک چلا گیا ۔ وہ دو جو آئے ان میں سے ایک نے مجلس میں جگہ خالی پائی تو وہ وہاں بیٹھ گیا اور دوسرا لوگوں کے پیچھے بیٹھا اور تیسرا تو پیٹھ پھیر کر چل دیا ۔ جب رسول اللہ صلی اللہ علیہ وسلم فارغ ہوئے تو فرمایا کیا میں تم سے تین آدمیوں کا حال نہ کہوں؟ ایک نے تو اللہ کے پاس ٹھکانہ لیا تو اللہ نے اس کو جگہ دی اور دوسرے نے ( لوگوں میں گھسنے کی ) شرم کی تو اللہ نے بھی اس سے شرم کی اور تیسرے نے منہ پھیرا تو اللہ نے بھی اس سے منہ پھیر لیا ۔",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا, امام مالک بن انس نے اسحاق بن عبداللہ بن ابی طلحہ سےروایت کی کہ عقیل بن ابی طالب کے آذاد کردہ غلام ابو مرہ نے انھیں حضرت ابو واقد لیثی رضی اللہ عنہ سے روایت کرتے ہوئے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ عَنْ مَالِكِ بْنِ أَنَسٍ فِيمَا قُرِئَ عَلَيْهِ عَنْ إِسْحَقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ أَنَّ أَبَا مُرَّةَ مَوْلَى عَقِيلِ بْنِ أَبِي طَالِبٍ أَخْبَرَهُ عَنْ أَبِي وَاقِدٍ اللَّيْثِيِّ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَيْنَمَا هُوَ جَالِسٌ فِي الْمَسْجِدِ وَالنَّاسُ مَعَهُ إِذْ أَقْبَلَ نَفَرٌ ثَلَاثَةٌ فَأَقْبَلَ اثْنَانِ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَذَهَبَ وَاحِدٌ قَالَ فَوَقَفَا عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأَمَّا أَحَدُهُمَا فَرَأَى فُرْجَةً فِي الْحَلْقَةِ فَجَلَسَ فِيهَا وَأَمَّا الْآخَرُ فَجَلَسَ خَلْفَهُمْ وَأَمَّا الثَّالِثُ فَأَدْبَرَ ذَاهِبًا فَلَمَّا فَرَغَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ أَلَا أُخْبِرُكُمْ عَنْ النَّفَرِ الثَّلَاثَةِ أَمَّا أَحَدُهُمْ فَأَوَى إِلَى اللَّهِ فَآوَاهُ اللَّهُ وَأَمَّا الْآخَرُ فَاسْتَحْيَا فَاسْتَحْيَا اللَّهُ مِنْهُ وَأَمَّا الْآخَرُ فَأَعْرَضَ فَأَعْرَضَ اللَّهُ عَنْهُ.",
+                "headingArabic": "مَنْ أَتَى مَجْلِسًا فَوَجَدَ فُرْجَةً فَجَلَسَ فِيهَا وَإِلاَّ وَرَاءَهُمْ ‏‏",
+                "headingUrdu": "اگر کوئی آدمی کسی محفل میں آتا ہے اور جگہ پاتا ہے۔ اسے وہاں بیٹھنے دو، ورنہ اسے ان کے پیچھے بیٹھنے دو",
+                "headingEnglish": "If A Man Comes To A Gathering And Finds A Space. Let Him Sit There, Otherwise Let Him Sit Behind Them",
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13245,
+                "hadithNumber": "5682",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been reported on the authority of Ishaq bin 'Abdullah bin Talha with the same chain of transmitters.",
+                "hadithUrdu": "ہم سے احمد بن المنذر نے بیان کیا، ہم سے عبد الصمد نے بیان کیا، کہا ہم سے حرب نے بیان کیا، اور وہ ہم سے ابن شداد نے بیان کیا، مجھ سے اسحاق بن منصور نے بیان کیا، ہم سے حبان نے بیان کیا۔ ابان نے ہم سب کو بتایا, یحییٰ بن ابی کثیر نے کہا کہ اسحٰق بن عبد اللہ بن ابی طلحہ نے انھیں اسی سند سے اسی کے ہم معنی حدیث بیان کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنَا أَحْمَدُ بْنُ الْمُنْذِرِ حَدَّثَنَا عَبْدُ الصَّمَدِ حَدَّثَنَا حَرْبٌ وَهُوَ ابْنُ شَدَّادٍ و حَدَّثَنِي إِسْحَقُ بْنُ مَنْصُورٍ أَخْبَرَنَا حَبَّانُ حَدَّثَنَا أَبَانُ قَالَا جَمِيعًا حَدَّثَنَا يَحْيَى بْنُ أَبِي كَثِيرٍ أَنَّ إِسْحَقَ بْنَ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ حَدَّثَهُ فِي هَذَا الْإِسْنَادِ بِمِثْلِهِ فِي الْمَعْنَى.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13246,
+                "hadithNumber": "5683",
+                "englishNarrator": "Ibn 'Umar رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) having said: None of you should make another one stand in the meeting and then occupy his place.",
+                "hadithUrdu": "آپ نے فر ما یا : تم میں سے کو ئی شخص کسی دوسرے کو اس کی جگہ سے نہ اٹھا ئے کہ پھر وہاں ( خود ) بیٹھ جائے \"",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا, لیث نے نا فع سے انھوں نے حضرت ابن عمر رضی اللہ عنہ سے اور انھوں نے نبی صلی اللہ علیہ وسلم سے روایت کی کہ",
+                "hadithArabic": "و حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ حَدَّثَنَا لَيْثٌ  و حَدَّثَنِي مُحَمَّدُ بْنُ رُمْحِ بْنِ الْمُهَاجِرِ أَخْبَرَنَا اللَّيْثُ عَنْ نَافِعٍ عَنْ ابْنِ عُمَرَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَا يُقِيمَنَّ أَحَدُكُمْ الرَّجُلَ مِنْ مَجْلِسِهِ ثُمَّ يَجْلِسُ فِيهِ.",
+                "headingArabic": "تَحْرِيمِ إِقَامَةِ الإِنْسَانِ مِنْ مَوْضِعِهِ الْمُبَاحِ الَّذِي سَبَقَ إِلَيْهِ ‏‏",
+                "headingUrdu": "آدمی کو اس جگہ سے اٹھنے کی ممانعت جس پر وہ پہلے پہنچے",
+                "headingEnglish": "The Prohibition Of Making A Man Get Up From A Place That He Reached First",
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13247,
+                "hadithNumber": "5684",
+                "englishNarrator": "Ibn 'Umar رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: No person should ask another person to stand at his place and then he should himself sit there, but he should simply say: Make room and accommodate.",
+                "hadithUrdu": "آپ نے فرمایا : کو ئی شخص کسی دوسرے شخص کو اس کی جگہ سے نہ اٹھا ئے کہ پھر وہاں بیٹھ جائے \" ، بلکہ کھلے ہو کر بیٹھو اور وسعت پیدا کرو ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، کہا ہم سے عبداللہ بن نمیر نے بیان کیا، کہا ہم سے ابی نے بیان کیا، ہم سے زہیر بن حرب نے بیان کیا، ہم سے یحییٰ نے بیان کیا۔ وہ القطان ہیں اور ہم سے ابن المثنیٰ نے بیان کیا، ہم سے عبد الوہاب نے بیان کیا، یعنی ثقفی نے، ان سب سے عبید اللہ نے بیان کیا اور ہم سے ابوبکر بن ابی شیبہ نے بیان کیا۔ اور ہم سے اس کا لفظ محمد بن بشر، ابو اسامہ اور ابن نمیر نے بیان کیا، انہوں نے کہا:عبید اللہ نے نا فع سے حدیث بیان کی انھوں نے حضرت ابن عمر رضی اللہ عنہ سے انھوں نے نبی صلی اللہ علیہ وسلم سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ  و حَدَّثَنَا ابْنُ نُمَيْرٍ حَدَّثَنَا أَبِي و حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ حَدَّثَنَا يَحْيَى وَهُوَ الْقَطَّانُ و حَدَّثَنَا ابْنُ الْمُثَنَّى حَدَّثَنَا عَبْدُ الْوَهَّابِ يَعْنِي الثَّقَفِيَّ كُلُّهُمْ عَنْ عُبَيْدِ اللَّهِ و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَاللَّفْظُ لَهُ حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ وَأَبُو أُسَامَةَ وَابْنُ نُمَيْرٍ قَالُوا حَدَّثَنَا عُبَيْدُ اللَّهِ عَنْ نَافِعٍ عَنْ ابْنِ عُمَرَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَا يُقِيمُ الرَّجُلُ الرَّجُلَ مِنْ مَقْعَدِهِ ثُمَّ يَجْلِسُ فِيهِ وَلَكِنْ تَفَسَّحُوا وَتَوَسَّعُوا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13248,
+                "hadithNumber": "5685",
+                "englishNarrator": "A hadith like that of Al-laith (no. 5683) was narrated from Ibn Umar رضی اللہ عنہ , from the prophet ﷺ, but they did not mention in the hadith (the words):",
+                "hadithEnglish": "Rather accommodate on other and make room \". In the Hadith of Ibn Juraij it adds: \"I said: On Friday and at other time.'\"",
+                "hadithUrdu": "\" بلکہ کھلے ہو کر بیٹھو اور وسعت پیدا کرو \" کے الفاظ بیان نہیں کیے اور ( ابن رافع نے ) ابن جریج کی حدیث میں یہ اضا فہ کیا : میں نے ان ( ابن بن جریج ) سے پو چھا : جمعہ کے دن ؟ \" انھوں نے کہا : جمعہ میں اس اور اس کے علاوہ بھی ۔",
+                "urduNarrator": "ابو ربیع اور الکامل نے کہا : ہمیں حماد نے حدیث بیان کی کہا : ہمیں ایوب نے حدیث سنائی ۔ یحییٰ بن حبیب نے کہا : ہمیں روح نے حدیث سنائی ، محمد را فع نے کہا : ہمیں عبد الرزاق نے حدیث بیان کی ، ان دونوں ( روح اور عبدالرزاق ) نے ابن جریج سے روایت کی ، محمد بن رافع نے کہا : ہمیں ابن ابی فدیک نے حدیث بیان کی ، کہا : ضحاک بن عثمان نے خبر دی ، ان سب ( ایوب ابن جریج اور ضحاک بن عثمان ) نے نافع سے انھوں نے ابن عمر رضی اللہ عنہ سے اور انھوں نے نبی صلی اللہ علیہ وسلم سے لیث کی حدیث کے مانند روایت کی ، انھوں نے اس حدیث میں",
+                "hadithArabic": "و حَدَّثَنَا أَبُو الرَّبِيعِ وَأَبُو كَامِلٍ قَالَا حَدَّثَنَا حَمَّادٌ حَدَّثَنَا أَيُّوبُ ح و حَدَّثَنِي يَحْيَى بْنُ حَبِيبٍ حَدَّثَنَا رَوْحٌ ح و حَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ حَدَّثَنَا عَبْدُ الرَّزَّاقِ كِلَاهُمَا عَنْ ابْنِ جُرَيْجٍ ح و حَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ أَخْبَرَنَا الضَّحَّاكُ يَعْنِي ابْنَ عُثْمَانَ كُلُّهُمْ عَنْ نَافِعٍ عَنْ ابْنِ عُمَرَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِ حَدِيثِ اللَّيْثِ وَلَمْ يَذْكُرُوا فِي الْحَدِيثِ وَلَكِنْ تَفَسَّحُوا وَتَوَسَّعُوا وَزَادَ فِي حَدِيثِ ابْنِ جُرَيْجٍ قُلْتُ فِي يَوْمِ الْجُمُعَةِ قَالَ فِي يَوْمِ الْجُمُعَةِ وَغَيْرِهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13249,
+                "hadithNumber": "5686",
+                "englishNarrator": "Ibn 'Umar رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: None should make one'& brother stand and then sit at his place (and it was common with) Ibn Umar رضی اللہ عنہ that when any person stood in the company (with a view to making room for him) he did not sit there.",
+                "hadithUrdu": "نبی صلی اللہ علیہ وسلم نے فر ما یا : \" تم میں سے کو ئی شخص اپنے بھا ئی کو اس جگہ سے نہ اٹھا ئےکہ پھر اس کی جگہ پر بیٹھ جائے ۔ \" ( سالم نے کہا ) حضرت ابن عمر رضی اللہ عنہ کا یہ طریق تھا کہ کو ئی شخص ان کے لیے ( خود بھی ) اپنی جگہ سے اٹھتا تو وہ اس کی جگہ پر نہ بیٹھتے تھے ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا, عبد الا علیٰ نے معمر سے ، انھوں نے زہری سے ، انھوں نے سالم سے ، انھوں نے حضرت ابن عمر رضی اللہ عنہ سےروایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا عَبْدُ الْأَعْلَى عَنْ مَعْمَرٍ عَنْ الزُّهْرِيِّ عَنْ سَالِمٍ عَنْ ابْنِ عُمَرَ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَا يُقِيمَنَّ أَحَدُكُمْ أَخَاهُ ثُمَّ يَجْلِسُ فِي مَجْلِسِهِ وَكَانَ ابْنُ عُمَرَ إِذَا قَامَ لَهُ رَجُلٌ عَنْ مَجْلِسِهِ لَمْ يَجْلِسْ فِيهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13250,
+                "hadithNumber": "5687",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith hilt been reported on the authority of Ma'mar with the same chain of transmitters.",
+                "hadithUrdu": "ہم سے عبد بن حمید نے بیان کیا, عبد الرزاق نے کہا ,  معمر نے ہمیں اسی سند کے ساتھ اسی کے مانند خبر دی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنَاه عَبْدُ بْنُ حُمَيْدٍ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ أَخْبَرَنَا مَعْمَرٌ بِهَذَا الْإِسْنَادِ مِثْلَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13251,
+                "hadithNumber": "5688",
+                "englishNarrator": "Jabir reported:",
+                "hadithEnglish": "Allah's Apostle (ﷺ) as saying: None amongst you should make his brother stand on Friday (during the congregational prayer) and then occupy his-place. but he should only say to him (Accommodate me).",
+                "hadithUrdu": "آپ نے فر ما یا : \" تم میں سے کو ئی شخص جمعے کے دن اپنے بھا ئی کو کھڑا نہ کرے کہ پھر دوسری طرف سے آکر اس کی جگہ پر خود بیٹھ جائے ، بلکہ ( جوآئے وہ ) کہے \" جگہ کشادہ کردو ۔ \"",
+                "urduNarrator": "ہم سے سلمہ بن شبیب نے بیان کیا، کہا ہم سے حسن بن عیان نے بیان کیا، کہا ہم سے معقل نے بیان کیا اور وہ ابن عبید اللہ ہیں, ابو زبیر نے حضرت جا بر رضی اللہ عنہ سے اور انھوں نے نبی صلی اللہ علیہ وسلم سے روایت کی کہ",
+                "hadithArabic": "و حَدَّثَنَا سَلَمَةُ بْنُ شَبِيبٍ حَدَّثَنَا الْحَسَنُ بْنُ أَعْيَنَ حَدَّثَنَا مَعْقِلٌ وَهُوَ ابْنُ عُبَيْدِ اللَّهِ عَنْ أَبِي الزُّبَيْرِ عَنْ جَابِرٍ عَنْ النَّبِيِّ قَالَ لَا يُقِيمَنَّ أَحَدُكُمْ أَخَاهُ يَوْمَ الْجُمُعَةِ ثُمَّ لْيُخَالِفْ إِلَى مَقْعَدِهِ فَيَقْعُدَ فِيهِ وَلَكِنْ يَقُولُ افْسَحُوا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13252,
+                "hadithNumber": "5689",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: When anyone amongst you stands up, and in the Hadith Abu 'Awina, the words are: He who stands in his place and (goes away) and then comes back to it, he his the greatest right (to occupy that).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا : \" جب تم میں سے کو ئی شخص کھڑا ہو \" اور ابوعوانہ کی حدیث میں ہے \" جب تم میں سے کو ئی شخص اپنی جگہ سے کھڑا ہو ۔ پھر اس جگہ لوٹ آئے تو وہی اس ( جگہ ) کا زیادہ حقدارہے ۔ ۔ \"",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا, ابو عوانہ اور عبد العزیز بن محمد دونوں نے سہیل سے ، انھوں نے اپنے والد سے ، انھوں نے حضرت ابو ہریرہ رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "و حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ أَخْبَرَنَا أَبُو عَوَانَةَ وَقَالَ قُتَيْبَةُ أَيْضًا حَدَّثَنَا عَبْدُ الْعَزِيزِ يَعْنِي ابْنَ مُحَمَّدٍ كِلَاهُمَا عَنْ سُهَيْلٍ عَنْ أَبِيهِ عَنْ أَبِي هُرَيْرَةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِذَا قَامَ أَحَدُكُمْ وَفِي حَدِيثِ أَبِي عَوَانَةَ مَنْ قَامَ مِنْ مَجْلِسِهِ ثُمَّ رَجَعَ إِلَيْهِ فَهُوَ أَحَقُّ بِهِ.",
+                "headingArabic": "إِذَا قَامَ مِنْ مَجْلِسِهِ ثُمَّ عَادَ فَهُوَ أَحَقُّ بِهِ ‏‏",
+                "headingUrdu": "اگر آدمی اپنی جگہ سے اٹھ کر اس کے پاس واپس آجائے تو اس کا زیادہ حق ہے۔",
+                "headingEnglish": "If A Man Gets Up From His Spot Then Comes Back To It, He Has More Right To It",
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13253,
+                "hadithNumber": "5690",
+                "englishNarrator": "Umm Salama رضی اللہ عنہا reported:",
+                "hadithEnglish": "She had a eunuch (as a slave) in her house. Allah's Messenger (ﷺ) was once in the house that he (the eunuch) said to the brother of Umm Salama رضی اللہ عنہا : Abdullah bin Abi Umayya. If Allah grants you victory in Ta'if on the next day, I will show you the daughter of Ghailan for she has four folds (upon her body) on the front side of her stomach and eight folds on the back. Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) heard this and he said: Such (people) should not visit you.",
+                "hadithUrdu": "ایک مخنث ان کے ہاں مو جو دتھا رسول اللہ صلی اللہ علیہ وسلم بھی گھر پر تھے وہ حضرت ام سلمہ رضی اللہ عنہا کے بھا ئی سے کہنے لگا : عبد اللہ بن ابی امیہ! اگر کل ( کلاں کو ) اللہ تعا لیٰ تم لو گوں کو طا ئف پر فتح عطا فر ما ئے تو میں تمھیں غیلا ن کی بیٹی ( بادیہ بنت غیلا ن ) کا پتہ بتا ؤں گا وہ چار سلوٹوں کے ساتھ سامنے آتی ہے ( سامنے سے جسم پر چار سلوٹیں پڑتی ہیں ) اور آٹھ سلوٹوں کے ساتھ پیٹھ پھیر کر جا تی ہے ۔ ۔ ( انتہائی فربہ جسم کی ہے ) رسول اللہ صلی اللہ علیہ وسلم نے اس کی یہ بات سن لی تو آپ نے فر ما یا : \" یہ ( مخنث ) تمھا رے ہاں داخل نہ ہو ا کریں ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ اور ابو کریب نے بیان کیا، انہوں نے کہا کہ ہم سے وکیع نے بیان کیا، کہا ہم سے اسحاق بن ابراہیم نے بیان کیا، ہم سے جریر نے بیان کیا اور ہم سے ابو کریب نے بیان کیا: ہم سے کریب، ابو معاویہ نے ہشام کی سند سے بیان کیا اور ہم سے ابو کریب نے بھی بیان کیا، اور ہم سے ابن نمیر نے بیان کیا، ہم سے ہشام نے بیان کیا, اس کے والد , زینب بنت ام سلمہ رضی اللہ عنہا نے ام المومنین ام سلمہ رضی اللہ عنہا سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَأَبُو كُرَيْبٍ قَالَا حَدَّثَنَا وَكِيعٌ و حَدَّثَنَا إِسْحَقُ بْنُ إِبْرَاهِيمَ أَخْبَرَنَا جَرِيرٌ و حَدَّثَنَا أَبُو كُرَيْبٍ حَدَّثَنَا أَبُو مُعَاوِيَةَ كُلُّهُمْ عَنْ هِشَامٍ و حَدَّثَنَا أَبُو كُرَيْبٍ أَيْضًا وَاللَّفْظُ هَذَا حَدَّثَنَا ابْنُ نُمَيْرٍ حَدَّثَنَا هِشَامٌ عَنْ أَبِيهِ عَنْ زَيْنَبَ بِنْتِ أُمِّ سَلَمَةَ عَنْ أُمِّ سَلَمَةَ أَنَّ مُخَنَّثًا كَانَ عِنْدَهَا وَرَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي الْبَيْتِ فَقَالَ لِأَخِي أُمِّ سَلَمَةَ يَا عَبْدَ اللَّهِ بْنَ أَبِي أُمَيَّةَ إِنْ فَتَحَ اللَّهُ عَلَيْكُمْ الطَّائِفَ غَدًا فَإِنِّي أَدُلُّكَ عَلَى بِنْتِ غَيْلَانَ فَإِنَّهَا تُقْبِلُ بِأَرْبَعٍ وَتُدْبِرُ بِثَمَانٍ قَالَ فَسَمِعَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ لَا يَدْخُلْ هَؤُلَاءِ عَلَيْكُمْ.",
+                "headingArabic": "مَنْعِ الْمُخَنَّثِ مِنَ الدُّخُولِ عَلَى النِّسَاءِ الأَجَانِبِ ‏‏",
+                "headingUrdu": "ہرمافروڈائٹ کو غیر محرم عورتوں کے داخلے سے منع کرنا",
+                "headingEnglish": "Forbidding A Hermaphrodite From Entering Upon Non-Mahram Women",
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13254,
+                "hadithNumber": "5691",
+                "englishNarrator": "A'isha رضی اللہ عنہ reported:",
+                "hadithEnglish": "A eunuch used to come to the wives of Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and they did not And anything objectionable in his visit considering him to be a male without any sexual desire. Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) one day came as he was sitting with some of his wives and he was busy in describing the bodily characteristics of a lady and saying: As the comes in front tour folds appear on her front side and as she turns her back eight folds appear on the back side. Thereupon Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: I me that he knows these things; do not, therefore. allow him to cater. She ( A'isha رضی اللہ عنہا ) said: Then they began to observe veil from him.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کی ازواج کے پاس ایک مخنث آیا کرتا تھا اور ازواج مطہرات رضی اللہ عنہا اسے جنسی معاملا ت سے بے بہر ہ سمجھا کرتی تھیں ۔ فرما یا : \" ایک دن رسول اللہ صلی اللہ علیہ وسلم تشریف لا اور وہ آپ کی ایک اہلیہ کے ہاں بیٹھا ہوا ایک عورت کی تعریف کررہا تھا وہ کہنے لگا : جب وہ آتی ہے تو چار سلوٹوں کے ساتھ آتی ہے اور جب پیٹھ پھیرتی ہے تو آٹھ سلوٹوں کے ساتھ پیٹھ پھیرتی ہے ۔ اس پر نبی صلی اللہ علیہ وسلم نے فر ما یا : کیا میں دیکھ نہیں رہا کہ جو کچھ یہاں ہے اسے سب پتہ ہے ، یہ لوگ تمھا رے پاس نہ آیا کریں ۔ \" \" تو انھوں ( امہات المومنین رضی اللہ عنہا ) نے اس سے پردہ کر لیا ۔",
+                "urduNarrator": "ہم سے عبد بن حمید نے بیان کیا، کہا ہم سے عبد الرزاق نے بیان کیا، معمر کی سند سے، وہ زہری کی سند سے, عروہ نے حضرت عائشہ رضی اللہ عنہا سے روایت کی ، کہا",
+                "hadithArabic": "و حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ عَنْ مَعْمَرٍ عَنْ الزُّهْرِيِّ عَنْ عُرْوَةَ عَنْ عَائِشَةَ قَالَتْ كَانَ يَدْخُلُ عَلَى أَزْوَاجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مُخَنَّثٌ فَكَانُوا يَعُدُّونَهُ مِنْ غَيْرِ أُولِي الْإِرْبَةِ قَالَ فَدَخَلَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَوْمًا وَهُوَ عِنْدَ بَعْضِ نِسَائِهِ وَهُوَ يَنْعَتُ امْرَأَةً قَالَ إِذَا أَقْبَلَتْ أَقْبَلَتْ بِأَرْبَعٍ وَإِذَا أَدْبَرَتْ أَدْبَرَتْ بِثَمَانٍ فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَلَا أَرَى هَذَا يَعْرِفُ مَا هَاهُنَا لَا يَدْخُلَنَّ عَلَيْكُنَّ قَالَتْ فَحَجَبُوهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13255,
+                "hadithNumber": "5692",
+                "englishNarrator": "Asma' daughter of Abu Bakr رضی اللہ عنہا reported:",
+                "hadithEnglish": "The was married to Zubair رضی اللہ عنہ . He had neither land nor wealth nor slave nor anything else like it except a bom. She further said: I grazed his horse. provided fodder to it and looked after it, and ground dates for his camel. Besides this, I grazed the camel, made arrangements for providing it with water and patched up the leather bucket and kneaded the flour. But I was not proficient in baking the bread, so my female neighbours used to bake bread for me and they were sincere women. She further said: I was carrying on my head the stones of the dates from the land of Zubair رضی اللہ عنہ which Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) had endowed him and it was at a distance of two miles (from Medina). She add: As I was one day carrying the atones of dates upon my head I happened to meet Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) along with a group of his Companions. He called me and said (to the camel) to sit down so that he should make cite ride behind him. (I told my husband: ) I felt shy and remembered your jealousy, whereupon he said: By Allah. the carrying of the stone dates upon your bead is more severe a burden than riding with him. She said: (I led the life of hardship) until Abu Bakr رضی اللہ عنہ sent afterwards a female servant who took upon herself the responsibility of looking after the horse and I felt as it she had emancipated me.",
+                "hadithUrdu": "حضرت زبیر رضی اللہ عنہ نے مجھ سے نکا ح کیا تو ان کے پاس ایک گھوڑے کے سوانہ کچھ مال تھا ، نہ غلام تھا ، نہ کو ئی اور چیز تھی ۔ ان کے گھوڑے کو میں ہی چارا ڈالتی تھی ان کی طرف سے اس کی ساری ذمہ داری میں سنبھا لتی ۔ اس کی نگہداشت کرتی ان کے پانی لا نے والے اونٹ کے لیے کھجور کی گٹھلیاں توڑتی اور اسے کھلا تی میں ہی ( اس پر ) پانی لا تی میں ہی ان کا پانی کا ڈول سیتی آٹا گوندھتی ، میں اچھی طرح روٹی نہیں بنا سکتی تھی تو انصار کی خواتین میں سے میری ہمسائیاں میرے لیے روٹی بنا دیتیں ، وہ سچی ( دوستی والی ) عورتیں تھیں ، انھوں نے ( اسماء رضی اللہ تعالیٰ عنہا ) نے کہا رسول اللہ صلی اللہ علیہ وسلم نے زبیر رضی اللہ تعالیٰ عنہ کو زمین کا جو ٹکڑا عطا فرما یا تھا وہاں سے اپنے سر پر گٹھلیاں رکھ کر لا تی یہ ( زمین ) تقریباً دو تہائی فرسخ ( تقریباً 3.35کلو میٹر ) کی مسافت پر تھی ۔ کہا : ایک دن میں آرہی تھی گٹھلیاں میرے سر پر تھیں تو میں رسول اللہ صلی اللہ علیہ وسلم سے ملی آپ کے صحابہ کرام رضوان اللہ عنھم اجمعین میں سے کچھ لو گ آپ کے ساتھ تھے ۔ آپ صلی اللہ علیہ وسلم نے مجھے بلا یا ، پھر آواز سے اونٹ کو بٹھا نے لگے تا کہ ( گٹھلیوں کا بوجھ درمیان میں رکھتے ہو ئے ) مجھے اپنے پیچھے بٹھا لیں ۔ انھوں نے ( حضرت زبیر رضی اللہ تعالیٰ عنہ کو مخاطب کرتے ہو ئے ) کہا : مجھے شرم آئی مجھے تمھا ری غیرت بھی معلوم تھی تو انھوں ( زبیر رضی اللہ تعالیٰ عنہ ) نے کہا : اللہ جا نتا ہے کہ تمھارا اپنے سر پر گٹھلیوں کا بوجھ اٹھا نا آپ صلی اللہ علیہ وسلم کے ساتھ سوار ہونے سے زیادہ سخت ہے ۔ کہا : ( یہی کیفیت رہی ) یہاں تک کہ ابوبکر رضی اللہ عنہ نے میرے پاس ( رسول اللہ صلی اللہ علیہ وسلم کی عطا کردہ حدیث : 5693 ۔ ) ایک کنیز بھجوادی اور اس نے مجھ سے گھوڑے کی ذمہ داری لے لی ۔ ( مجھے ایسے لگا ) جیسے انھوں نے مجھے ( غلا می سے ) آزاد کرا دیا ہے ۔",
+                "urduNarrator": "ہم سے محمد بن العلاء ابو کریب ہمدانی نے بیان کیا، کہا ہم سے ابو اسامہ نے بیان کیا, ہشام کے والد ( عروہ ) نے حضرت اسماء بنت ابی بکر رضی اللہ عنہا سے روایت کی ، انھوں نے ( حضرت اسماء رضی اللہ عنہا ) نے کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلَاءِ أَبُو كُرَيْبٍ الْهَمْدَانِيُّ حَدَّثَنَا أَبُو أُسَامَةَ عَنْ هِشَامٍ أَخْبَرَنِي أَبِي عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ قَالَتْ تَزَوَّجَنِي الزُّبَيْرُ وَمَا لَهُ فِي الْأَرْضِ مِنْ مَالٍ وَلَا مَمْلُوكٍ وَلَا شَيْءٍ غَيْرَ فَرَسِهِ قَالَتْ فَكُنْتُ أَعْلِفُ فَرَسَهُ وَأَكْفِيهِ مَئُونَتَهُ وَأَسُوسُهُ وَأَدُقُّ النَّوَى لِنَاضِحِهِ وَأَعْلِفُهُ وَأَسْتَقِي الْمَاءَ وَأَخْرُزُ غَرْبَهُ وَأَعْجِنُ وَلَمْ أَكُنْ أُحْسِنُ أَخْبِزُ وَكَانَ يَخْبِزُ لِي جَارَاتٌ مِنْ الْأَنْصَارِ وَكُنَّ نِسْوَةَ صِدْقٍ قَالَتْ وَكُنْتُ أَنْقُلُ النَّوَى مِنْ أَرْضِ الزُّبَيْرِ الَّتِي أَقْطَعَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَى رَأْسِي وَهِيَ عَلَى ثُلُثَيْ فَرْسَخٍ قَالَتْ فَجِئْتُ يَوْمًا وَالنَّوَى عَلَى رَأْسِي فَلَقِيتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَمَعَهُ نَفَرٌ مِنْ أَصْحَابِهِ فَدَعَانِي ثُمَّ قَالَ إِخْ إِخْ لِيَحْمِلَنِي خَلْفَهُ قَالَتْ فَاسْتَحْيَيْتُ وَعَرَفْتُ غَيْرَتَكَ فَقَالَ وَاللَّهِ لَحَمْلُكِ النَّوَى عَلَى رَأْسِكِ أَشَدُّ مِنْ رُكُوبِكِ مَعَهُ قَالَتْ حَتَّى أَرْسَلَ إِلَيَّ أَبُو بَكْرٍ بَعْدَ ذَلِكَ بِخَادِمٍ فَكَفَتْنِي سِيَاسَةَ الْفَرَسِ فَكَأَنَّمَا أَعْتَقَتْنِي.",
+                "headingArabic": "جَوَازِ إِرْدَافِ الْمَرْأَةِ الأَجْنَبِيَّةِ إِذَا أَعْيَتْ فِي الطَّرِيقِ ‏‏",
+                "headingUrdu": "غیر محرم عورت کو ایک کے پیچھے (پہاڑ پر) بٹھانا جائز ہے اگر وہ راستے میں تھک چکی ہو",
+                "headingEnglish": "It Is Permissible To Seat A Non-Mahram Woman Behind One (On A Mount) If She Is Exhausted On The Road",
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13256,
+                "hadithNumber": "5693",
+                "englishNarrator": "Asma' رضی اللہ عنہا reported:",
+                "hadithEnglish": "I performed the household duties of Zubair رضی اللہ عنہ and he had a horse; I used to look after it. Nothing was more burdensome for me than looking after the horse I used to bring grass for it and looked after it, then I got a servant as Allah's Apustle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) had some prisoners of war in his possession. He gave me a female servant. She (the female servant) then began to look after the horse and thus relieved me of this burden. A person came and he said: Mother of 'Abdullah, I am a destitute person and I intend that I should start business under the shadow of your house. I (Asma' رضی اللہ عنہا) said: If I grant you permission, Zubair رضی اللہ عنہ may not agree to that, so you come and make a demand of it when Zubair رضی اللہ عنہ is also present there. He came accordingly find said: Mother of 'Abdullah. I am a destitute person. I intend to start t mall business in the shadow of your house. I said: Is there not in Medina (any place for starting the business) except my house? Zubair رضی اللہ عنہ said: Why is it that you prohibit the destitute man to start business here? So he started business and he (earned so much) that we sold our slave-girl to him There came Zubair رضی اللہ عنہ to me while the money was in my lap. He said: Give this to me. I said: (I intend) to spend it as charity.",
+                "hadithUrdu": "میں گھر کی خدمات سر انجام دےکر حضرت زبیر رضی اللہ عنہ کی خدمت کرتی تھی ، ان کا ایک گھوڑاتھا ، میں اس کی دیکھ بھال کرتی تھی ، میرے لیے گھر کی خدمات میں سے گھوڑے کی نگہداشت سے بڑھ کر کوئی اورخدمت زیادہ سخت نہ تھی ۔ میں اس کے لئے چارہ لاتی ، اس کی ہرضرورت کا خیال رکھتی اور اس کی نگہداشت کرتی ، کہا : پھر انھیں ایک خادمہ مل گئی ، رسول اللہ صلی اللہ علیہ وسلم کے پاس کچھ قیدی آئے تو آپ نے ان کے لئے ایک خادمہ عطا کردی ۔ کہا : اس نے مجھ سے گھوڑے کی نگہداشت ( کی ذمہ داری ) سنبھال لی اور مجھ سے بہت بڑا بوجھ ہٹا لیا ۔ میرے پاس ایک آدمی آیا اور کہا : ام عبداللہ! میں ایک فقیر آدمی ہوں : میرا دل چاہتاہے ہے کہ میں آپ کے گھر کے سائے میں ( بیٹھ کرسودا ) بیچ لیاکروں ۔ انھوں نے کہا : اگر میں نے تمھیں اجازت دے دی تو زبیر رضی اللہ عنہ انکار کردیں گے ۔ جب زبیر رضی اللہ عنہ موجود ہوں تو ( اس وقت ) آکر مجھ سے اجازت مانگنا ، پھر وہ شخص ( حضرت زبیر رضی اللہ تعالیٰ عنہ کی موجودگی میں ) آیا اور کہا : ام عبداللہ! میں ایک فقیرآدمی ہوں اور چاہتاہوں کہ میں آپ کے گھر کے سائے میں ( بیٹھ کر کچھ ) بیچ لیاکروں ، انھوں ( حضرت اسماء رضی اللہ تعالیٰ عنہا ) نے جواب دیا : مدینے میں تمھارے لئے میرے گھر کے سوا اور کوئی گھر نہیں ہے ؟تو حضرت زبیر رضی اللہ تعالیٰ عنہ نے ان سے کہا : تمھیں کیا ہوا ہے ، ایک فقیر آدمی کو سودا بیچنے سے روک رہی ہو؟وہ بیچنے لگا ، یہاں تک کہ اس نے کافی کمائی کرلی ، میں نے وہ خادمہ اسے بیچ دی ۔ زبیر رضی اللہ تعالیٰ عنہ اند رآئے تو اس خادمہ کی قیمت میری گود میں پڑی تھی ، انھوں نے کہا ، یہ مجھے ہبہ کردو ۔ تو انھوں نے کہا : میں اس کو صدقہ کرچکی ہوں ۔",
+                "urduNarrator": "ہم سے محمد بن عبید الغبری نے بیان کیا، کہا ہم سے حماد بن زید نے، ایوب کی سند سے, ابن ابی ملیکہ نے کہا کہ حضرت اسماء رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ الْغُبَرِيُّ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ عَنْ أَيُّوبَ عَنْ ابْنِ أَبِي مُلَيْكَةَ أَنَّ أَسْمَاءَ قَالَتْ كُنْتُ أَخْدُمُ الزُّبَيْرَ خِدْمَةَ الْبَيْتِ وَكَانَ لَهُ فَرَسٌ وَكُنْتُ أَسُوسُهُ فَلَمْ يَكُنْ مِنْ الْخِدْمَةِ شَيْءٌ أَشَدَّ عَلَيَّ مِنْ سِيَاسَةِ الْفَرَسِ كُنْتُ أَحْتَشُّ لَهُ وَأَقُومُ عَلَيْهِ وَأَسُوسُهُ قَالَ ثُمَّ إِنَّهَا أَصَابَتْ خَادِمًا جَاءَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سَبْيٌ فَأَعْطَاهَا خَادِمًا قَالَتْ كَفَتْنِي سِيَاسَةَ الْفَرَسِ فَأَلْقَتْ عَنِّي مَئُونَتَهُ فَجَاءَنِي رَجُلٌ فَقَالَ يَا أُمَّ عَبْدِ اللَّهِ إِنِّي رَجُلٌ فَقِيرٌ أَرَدْتُ أَنْ أَبِيعَ فِي ظِلِّ دَارِكِ قَالَتْ إِنِّي إِنْ رَخَّصْتُ لَكَ أَبَى ذَاكَ الزُّبَيْرُ فَتَعَالَ فَاطْلُبْ إِلَيَّ وَالزُّبَيْرُ شَاهِدٌ فَجَاءَ فَقَالَ يَا أُمَّ عَبْدِ اللَّهِ إِنِّي رَجُلٌ فَقِيرٌ أَرَدْتُ أَنْ أَبِيعَ فِي ظِلِّ دَارِكِ فَقَالَتْ مَا لَكَ بِالْمَدِينَةِ إِلَّا دَارِي فَقَالَ لَهَا الزُّبَيْرُ مَا لَكِ أَنْ تَمْنَعِي رَجُلًا فَقِيرًا يَبِيعُ فَكَانَ يَبِيعُ إِلَى أَنْ كَسَبَ فَبِعْتُهُ الْجَارِيَةَ فَدَخَلَ عَلَيَّ الزُّبَيْرُ وَثَمَنُهَا فِي حَجْرِي فَقَالَ هَبِيهَا لِي قَالَتْ إِنِّي قَدْ تَصَدَّقْتُ بِهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13257,
+                "hadithNumber": "5694",
+                "englishNarrator": "Ibn Umar رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: When there are three (persons), two should not converse secretly between themselves to the exclusion of the (third) one.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جب تین شخص ( موجود ) ہوں تو ایک کو چھوڑ کر دو آدمی آ پس میں سرگوشی نہ کریں ۔ \"",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، کہا: میں نے پڑھا, مالک نےنافع سے ، انھوں نے حضرت ابن عمر رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ نَافِعٍ عَنْ ابْنِ عُمَرَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِذَا كَانَ ثَلَاثَةٌ فَلَا يَتَنَاجَى اثْنَانِ دُونَ وَاحِدٍ.",
+                "headingArabic": "تَحْرِيمِ مُنَاجَاةِ الاِثْنَيْنِ دُونَ الثَّالِثِ بِغَيْرِ رِضَاهُ ‏‏",
+                "headingUrdu": "دو افراد کی نجی گفتگو کرنے کی ممانعت ایک تیسرے کو اس کی رضامندی کے بغیر چھوڑنا",
+                "headingEnglish": "The Prohibition Of Two People Conversing Privately To The Exclusion Of A Third Without His Consent",
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13258,
+                "hadithNumber": "5695",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been reported on the authority of lbn 'Umar رضی اللہ عنہ through two different chains of transmitters.",
+                "hadithUrdu": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، ہم سے محمد بن بشر اور ابن نمیر نے بیان کیا، ہم سے ابن نمیر نے بیان کیا، ہم سے میرے والد نے بیان کیا اور ہم سے محمد بن نمیر نے بیان کیا۔ المثنیٰ اور عبید اللہ بن سعید نے کہا: یحییٰ نے جو ابن سعید ہیں، ہم سب کو بیان کیا, عبیداللہ ، لیث بن اسعد ، ایوب ( سختیانی ) اور ایوب بن موسیٰ ان سب نے نافع سے ، انھوں نے حضرت ابن عمر رضی اللہ عنہ سے ، انھوں نے رسول اللہ صلی اللہ علیہ وسلم سے مالک کی حدیث کے ہم معنی روایت کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ وَابْنُ نُمَيْرٍ  و حَدَّثَنَا ابْنُ نُمَيْرٍ حَدَّثَنَا أَبِي  و حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى وَعُبَيْدُ اللَّهِ بْنُ سَعِيدٍ قَالَا حَدَّثَنَا يَحْيَى وَهُوَ ابْنُ سَعِيدٍ كُلُّهُمْ عَنْ عُبَيْدِ اللَّهِ  و حَدَّثَنَا قُتَيْبَةُ وَابْنُ رُمْحٍ عَنْ اللَّيْثِ بْنِ سَعْدٍ و حَدَّثَنَا أَبُو الرَّبِيعِ وَأَبُو كَامِلٍ قَالَا حَدَّثَنَا حَمَّادٌ عَنْ أَيُّوبَ  و حَدَّثَنَا ابْنُ الْمُثَنَّى حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ قَالَ سَمِعْتُ أَيُّوبَ بْنَ مُوسَى كُلُّ هَؤُلَاءِ عَنْ نَافِعٍ عَنْ ابْنِ عُمَرَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِمَعْنَى حَدِيثِ مَالِكٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13259,
+                "hadithNumber": "5696",
+                "englishNarrator": "Abdullah رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: If you are three, two amongst you should not converse secretly between yourselves to the exclusion of the other (third one), until some other people join him (and dispel his loneliness), for it may hurt his feelings.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جب تم تین لوگ ( ایک ساتھ ) ہوتو ایک کو چھوڑ کردو آدمی باہم سرگوشی نہ کریں ، یہاں تک کہ تم بہت سے لوگوں میں مل جاؤ ، کہیں ایسا نہ ہوکہ یہ ( دوکی سرگوشی ) اسے غمزدہ کردے ۔ \"",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ اور ہناد بن السری نے بیان کیا، کہا کہ ہم سے ابو الاحواص نے بیان کیا, منصور نے ابو وائل ( شقیق ) سے ، انھوں نے عبداللہ ( بن مسعود رضی اللہ عنہ ) سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَهَنَّادُ بْنُ السَّرِيِّ قَالَا حَدَّثَنَا أَبُو الْأَحْوَصِ عَنْ مَنْصُورٍ و حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ وَعُثْمَانُ بْنُ أَبِي شَيْبَةَ وَإِسْحَقُ بْنُ إِبْرَاهِيمَ وَاللَّفْظُ لِزُهَيْرٍ قَالَ إِسْحَقُ أَخْبَرَنَا وَقَالَ الْآخَرَانِ حَدَّثَنَا جَرِيرٌ عَنْ مَنْصُورٍ عَنْ أَبِي وَائِلٍ عَنْ عَبْدِ اللَّهِ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا كُنْتُمْ ثَلَاثَةً فَلَا يَتَنَاجَى اثْنَانِ دُونَ الْآخَرِ حَتَّى تَخْتَلِطُوا بِالنَّاسِ مِنْ أَجْلِ أَنْ يُحْزِنَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13260,
+                "hadithNumber": "5697",
+                "englishNarrator": "Abdullah رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: If you are three, two should not converse secretly to the exclusion of your companion for that hurts his feelings.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا؛ \" جب تم تین لوگ ہوتو اپنے ساتھی کو چھوڑ کر دو آپس میں سرگوشی نہ کریں کیونکہ یہ چیز اس کو غم زدہ کردے گی ۔ \"",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ، ابوبکر بن ابی شیبہ، ابن نمیر اور ابو کریب نے بیان کیا اور تلفظ یحییٰ نے کہا کہ ہمیں یحییٰ نے خبر دی۔ اور دوسروں نے کہا, ابو معاویہ نے اعمش سے ، انھوں نے شقیق سے ، انھوں نے حضرت عبداللہ ( بن مسعود رضی اللہ عنہ ) سے روایت کی ، کہا",
+                "hadithArabic": "و حَدَّثَنَا يَحْيَى بْنُ يَحْيَى وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَابْنُ نُمَيْرٍ وَأَبُو كُرَيْبٍ وَاللَّفْظُ لِيَحْيَى قَالَ يَحْيَى أَخْبَرَنَا وَقَالَ الْآخَرُونَ حَدَّثَنَا أَبُو مُعَاوِيَةَ عَنْ الْأَعْمَشِ عَنْ شَقِيقٍ عَنْ عَبْدِ اللَّهِ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا كُنْتُمْ ثَلَاثَةً فَلَا يَتَنَاجَى اثْنَانِ دُونَ صَاحِبِهِمَا فَإِنَّ ذَلِكَ يُحْزِنُهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13261,
+                "hadithNumber": "5698",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been reported on the authority of A'mash with the same chain of transmitters.",
+                "hadithUrdu": "اور ہم سے اسحاق بن ابراہیم نے بیان کیا, عیسیٰ بن یونس اورسفیان دونوں نے اعمش سے اسی سند کے ساتھ ( حدیث بیان کی ۔ )",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنَاه إِسْحَقُ بْنُ إِبْرَاهِيمَ أَخْبَرَنَا عِيسَى بْنُ يُونُسَ و حَدَّثَنَا ابْنُ أَبِي عُمَرَ حَدَّثَنَا سُفْيَانُ كِلَاهُمَا عَنْ الْأَعْمَشِ بِهَذَا الْإِسْنَادِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13262,
+                "hadithNumber": "5699",
+                "englishNarrator": "A'isha (the wife of Allah's Apostle) رضی اللہ عنہا said:",
+                "hadithEnglish": "When Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) fell ill, Gabriel used to recite this: In the name of Allah, may He cure you from all kinds of illnesses and safeguard you from the evil of a jealous one when he feels jealous and from the evil influence of eye.",
+                "hadithUrdu": "جب نبی اکرم صلی اللہ علیہ وسلم بیمار ہوتے تو جبریل علیہ السلام آپ کو دم کرتے ، وہ کہتے : \" اللہ کے نام سے ، وہ آپ کو بچائے اور ہر بیماری سے شفا دے اور حسد کرنے والے کے شر سے جب وہ حسد کرے اورنظر لگانے والی ہر آنکھ کے شرسے ( آپ کومحفوظ رکھے ۔ ) \"",
+                "urduNarrator": "ہم سے محمد بن ابی عمر المکی نے بیان کیا، کہا ہم سے عبدالعزیز الدراوردی نے بیان کیا، وہ یزید کی سند سے جو عبداللہ بن اسامہ بن الحاد کے بیٹے ہیں۔ محمد بن ابراہیم، ابو سلمہ بن عبدالرحمٰن کی سند سے, نبی اکرم صلی اللہ علیہ وسلم کی اہلیہ حضرت عائشہ صدیقہ رضی اللہ عنہا سے روایت ہے ، انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي عُمَرَ الْمَكِّيُّ حَدَّثَنَا عَبْدُ الْعَزِيزِ الدَّرَاوَرْدِيُّ عَنْ يَزِيدَ وَهُوَ ابْنُ عَبْدِ اللَّهِ بْنِ أُسَامَةَ بْنِ الْهَادِ عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ عَنْ عَائِشَةَ زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهَا قَالَتْ كَانَ إِذَا اشْتَكَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رَقَاهُ جِبْرِيلُ قَالَ بِاسْمِ اللَّهِ يُبْرِيكَ وَمِنْ كُلِّ دَاءٍ يَشْفِيكَ وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ وَشَرِّ كُلِّ ذِي عَيْنٍ.",
+                "headingArabic": "الطِّبِّ وَالْمَرَضِ وَالرُّقَى",
+                "headingUrdu": "دوا، بیماری اور رقیہ",
+                "headingEnglish": "Medicine, Sickness And Ruqyah",
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13263,
+                "hadithNumber": "5700",
+                "englishNarrator": "Abu Sa'id رضی اللہ عنہ reported:",
+                "hadithEnglish": "Gabriel came to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) and said: Muhammad, have you fallen ill? Thereupon he said: Yes. He (Gabriel) said: In the name of Allah I exorcise you from everything and safeguard you from every evil that may harm you and from the eye of a jealous one. Allah would cure you and I invoke the name of Allah for you.",
+                "hadithUrdu": "جبرائیل علیہ السلام نبی کریم صلی اللہ علیہ وسلم کے پاس آئے اور کہا : اے محمد!کیا آپ بیمار ہوگئے ہیں؟آپ صلی اللہ علیہ وسلم نے فرمایا : \" ہاں ۔ \" حضرت جبرائیل علیہ السلام نے یہ کلمات کہے : \" میں اللہ کے نام سے آپ کو دم کرتاہوں ، ہر چیز سے ( حفاظت کے لئے ) جو آپ کو تکلیف دے ، ہر نفس اور ہر حسد کرنے والی آنکھ کے شر سے ، اللہ آپ کو شفا دے ، میں اللہ کے نام سے آ پ کو دم کر تا ہوں ۔ \"",
+                "urduNarrator": "ہم سے بشر بن ہلال الصوف نے بیان کیا، ہم سے عبدالوارث نے بیان کیا، ہم سے عبدالعزیز بن صہیب نے بیان کیا, ابونضرہ نے حضرت ابوسعید رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا بِشْرُ بْنُ هِلَالٍ الصَّوَّافُ حَدَّثَنَا عَبْدُ الْوَارِثِ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ صُهَيْبٍ عَنْ أَبِي نَضْرَةَ عَنْ أَبِي سَعِيدٍ أَنَّ جِبْرِيلَ أَتَى النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ يَا مُحَمَّدُ اشْتَكَيْتَ فَقَالَ نَعَمْ قَالَ بِاسْمِ اللَّهِ أَرْقِيكَ مِنْ كُلِّ شَيْءٍ يُؤْذِيكَ مِنْ شَرِّ كُلِّ نَفْسٍ أَوْ عَيْنِ حَاسِدٍ اللَّهُ يَشْفِيكَ بِاسْمِ اللَّهِ أَرْقِيكَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 12951,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=518",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=516",
+                "label": "516",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=517",
+                "label": "517",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=518",
+                "label": "518",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=519",
+                "label": "519",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=520",
+                "label": "520",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=521",
+                "label": "521",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=522",
+                "label": "522",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=520",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=520",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=518",
+        "to": 12975,
+        "total": 40465
+    }
+}

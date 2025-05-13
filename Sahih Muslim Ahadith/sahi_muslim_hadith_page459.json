@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 459,
+        "data": [
+            {
+                "id": 11739,
+                "hadithNumber": "4175",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Qatada with the same chain of transmitters.",
+                "hadithUrdu": "ہم سے محمد بن المثنی نے بیان کیا، ہم سے ابن ابی عدی نے بیان کیا، سعید نے قتادہ سے اسی سند کے ساتھ اسی کے مانند روایت کی.",
+                "urduNarrator": null,
+                "hadithArabic": "وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، بِهَذَا الْإِسْنَادِ مِثْلَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11740,
+                "hadithNumber": "4176",
+                "englishNarrator": "Abdullah bin Tawus reported on the authority of his father who reported from Ibn Abas (رضی اللہ عنہ) who reported from Allah's Messenger (ﷺ) that he said:",
+                "hadithEnglish": "One who gets back his gift is like a dog which vomits and then swallows that vomit.",
+                "hadithUrdu": "\" اپنا ہبہ واپس لینے والا کتے کی طرح ہے جو قے کرتا ہے ، پھر اپنی قے کی طرف لوٹتا ہے.",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم نے بیان کیا، کہا ہم سے المخزومی نے بیان کیا، کہا ہم سے وہیب نے بیان کیا، کہا ہم سے عبداللہ بن طاؤس نے اپنے والد سے بیان کیا,حضرت ابن عباس رضی اللہ عنہ نے رسول اللہ صلی اللہ علیہ وسلم سے روایت کی  آپ نے فرمایا",
+                "hadithArabic": "وحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا الْمَخْزُومِيُّ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا عَبْدُ اللهِ بْنُ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «الْعَائِدُ فِي هِبَتِهِ، كَالْكَلْبِ يَقِيءُ، ثُمَّ يَعُودُ فِي قَيْئِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11741,
+                "hadithNumber": "4177",
+                "englishNarrator": "Nu'man bin Bashir رضی اللہ عنہ reported:",
+                "hadithEnglish": "His father brought him to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and said: I have donated this slave of mine to my son. Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: Have you donated to every one of your sons (a slave) like this? He said: No. Thereupon Allah's Messenger (may peace he upon him) said: Then take him back.",
+                "hadithUrdu": "ان کے والد انہیں لے کر رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے اور کہا : میں نے اپنے اس بیٹے کو غلام تحفے میں دیا ہے جو میرا تھا ، تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" کیا تم نے اپنے سب بچوں کو اس جیسا تحفہ دیا ہے؟ \" انہوں نے کہا : نہیں ، تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" اسے واپس لو.",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، انہوں نے کہا امام مالک نے ابن شہاب سے اور انہوں نے حمید بن عبدالرحمن اور محمد بن نعمان بن بشیر سے روایت کی ، وہ دونوں حضرت نعمان بن بشیر رضی اللہ عنہ سے حدیث بیان کر رہے تھے کہ انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ: قَرَأْتُ عَلَى مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، وَعَنْ مُحَمَّدِ بْنِ النُّعْمَانِ بْنِ بَشِيرٍ، يُحَدِّثَانِهِ عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، أَنَّهُ قَالَ: إِنَّ أَبَاهُ أَتَى بِهِ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ: إِنِّي نَحَلْتُ ابْنِي هَذَا غُلَامًا كَانَ لِي، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «أَكُلَّ وَلَدِكَ نَحَلْتَهُ مِثْلَ هَذَا؟» فَقَالَ: لَا، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «فَارْجِعْهُ».",
+                "headingArabic": "كَرَاهَةِ تَفْضِيلِ بَعْضِ الأَوْلاَدِ فِي الْهِبَةِ ‏‏",
+                "headingUrdu": "تحفہ دینے میں کسی کی اولاد میں سے کسی کو دوسروں پر ترجیح دینا ناپسندیدہ ہے۔",
+                "headingEnglish": "It Is Disliked To Favor Some Of One's Children Over Others In Gift-Giving",
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11742,
+                "hadithNumber": "4178",
+                "englishNarrator": "Nu'man bin Bashir رضی اللہ عنہ reported:",
+                "hadithEnglish": "My father brought me to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and said: I have donated this slave to my son. whereupon he said: Have you made (such) donation to every one or your sons? He said: No. Thereupon he (the-Holy Prophet) said: Then take him back.",
+                "hadithUrdu": "میرے والد مجھے لے کر رسول اللہ صلی اللہ علیہ وسلم کے پاس آئے اور کہا : میں نے اپنے اس بیٹے کو ایک غلام تحفے میں دیا ہے ۔ تو آپ نے پوچھا : \" کیا تم نے اپنے سب بیٹوں کو ( ایسا ) تحفہ دیا ہے؟ \" انہوں نے جواب دیا : نہیں ۔ آپ نے فرمایا : \" اسے واپس لو.",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا,ابراہیم بن سعد نے ہمیں ابن شہاب سے خبر دی ، انہوں نے حمید بن عبدالرحمٰن اور محمد بن نعمان سے اور انہوں نے حضرت نعمان بن بشیر رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "وحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، وَمُحَمَّدِ بْنِ النُّعْمَانِ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، قَالَ: أَتَى بِي أَبِي إِلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ: إِنِّي نَحَلْتُ ابْنِي هَذَا غُلَامًا، فَقَالَ: «أَكُلَّ بَنِيكَ نَحَلْتَ؟» قَالَ: لَا، قَالَ: «فَارْدُدْهُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11743,
+                "hadithNumber": "4179",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Zuhri with different chains of transmitters and a slight variation of words.",
+                "hadithUrdu": "ہم سے ابوبکر بن ابی شیبہ، اسحاق بن ابراہیم اور ابن ابی عمر نے بیان کیا,  ابن عیینہ ، لیث بن سعد ، یونس اور معمر سب نے زہری سے اسی سند کے ساتھ حدیث بیان کی ، البتہ یونس اور معمر کی حدیث میں \" تمام بیٹوں کو \" کے الفاظ ہیں اور لیث اور ابن عیینہ کی حدیث میں \" تمام اولاد کو \" ہے اور محمد بن نعمان اور حمید بن عبدالرحمان سے روایت کردہ لیث کی روایت ( یوں ) ہے کہ حضرت بشیر رضی اللہ عنہ ( اپنے بیٹے ) نعمان رضی اللہ عنہ کو لے کر آئے.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَابْنُ أَبِي عُمَرَ، عَنِ ابْنِ عُيَيْنَةَ، ح وحَدَّثَنَا قُتَيْبَةُ، وَابْنُ رُمْحٍ، عَنِ اللَّيْثِ بْنِ سَعْدٍ، ح وحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، قَالَ: أَخْبَرَنِي يُونُسُ، ح وحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالَا: أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، كُلُّهُمْ عَنِ الزُّهْرِيِّ، بِهَذَا الْإِسْنَادِ، أَمَّا يُونُسُ، وَمَعْمَرٌ، فَفِي حَدِيثِهِمَا: «أَكُلَّ بَنِيكَ»، وَفِي حَدِيثِ اللَّيْثِ، وَابْنِ عُيَيْنَةَ: «أَكُلَّ وَلَدِكَ»، وَرِوَايَةُ اللَّيْثِ، عَنْ مُحَمَّدِ بْنِ النُّعْمَانِ، وَحُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، أَنَّ بَشِيرًا، جَاءَ بِالنُّعْمَانِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11744,
+                "hadithNumber": "4180",
+                "englishNarrator": "Nu'man bin Bashir رضی اللہ عنہ reported:",
+                "hadithEnglish": "His father had donated a slave to him. Allah's Apostle (ﷺ) said: Who is this slave (how have you come to possess it)? Thereupon he (Nu'man bin Bashir رضی اللہ عنہ ) said: My father has donated it to me, whereupon he said: Have all brothers (of yours) been given this gift as given to you? He said: No. Thereupon he (the Holy Prophet ﷺ) said: Then return him.",
+                "hadithUrdu": "ان کے والد نے انہیں ایک غلام دیا تو نبی صلی اللہ علیہ وسلم نے ان سے پوچھا : \" یہ کیسا غلام ہے؟ \" انہوں نے کہا : یہ میرے والد نے مجھے دیا ہے ۔ ( پھر ) آپ نے ( نعمان رضی اللہ عنہ کے والد سے ) پوچھا : \" تم نے اس کے تمام بھائیوں کو بھی اسی طرح عطیہ دیا ہے جیسے اس کو دیا ہے؟ \" انہوں نے جواب دیا : نہیں ۔ آپ نے فرمایا : \" اسے واپس لو.",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا، کہا ہم سے جریر نے بیان کیا، وہ ہشام بن کی سند سے,عروہ سے روایت ہے ، انہوں نے کہا : ہمیں حضرت نعمان بن بشیر رضی اللہ عنہ نے حدیث بیان کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا جَرِيرٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، قَالَ: حَدَّثَنَا النُّعْمَانُ بْنُ بَشِيرٍ، قَالَ: وَقَدْ أَعْطَاهُ أَبُوهُ غُلَامًا، فَقَالَ لَهُ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَا هَذَا الْغُلَامُ؟» قَالَ: أَعْطَانِيهِ أَبِي، قَالَ: «فَكُلَّ إِخْوَتِهِ أَعْطَيْتَهُ كَمَا أَعْطَيْتَ هَذَا؟» قَالَ: لَا، قَالَ: «فَرُدَّهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11745,
+                "hadithNumber": "4181",
+                "englishNarrator": "Nu'man bin Bashir رضی اللہ عنہ reported:",
+                "hadithEnglish": "My father donated to me some of his property. My mother Amra bint Rawaha said: I shall not be pleased (with this act) until you make Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) a witness to it. My father went to Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) in order to make him the witness of the donation given to me. Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said to him: Have you done the same with every son of yours? He said: No. Thereupon he (the Holy Prophet) said: Fear Allah, and observe equity in case of your children. My father returned and got back the gift.",
+                "hadithUrdu": "میرے والد نے اپنے مال میں سے مجھے ہبہ کیا ( یہاں صدقہ ہبہ کے معنی میں ہے ) تو میری والدہ عمرہ بنت رواحہ نے کہا : میں راضی نہیں ہوں گی یہاں تک کہ تم اللہ کے رسول صلی اللہ علیہ وسلم کو گواہ بنا لو ۔ میرے والد مجھے لے کر رسول اللہ صلی اللہ علیہ وسلم کے پاس آئے تاکہ آپ کو مجھ پر کیے گئے صدقہ ( ہبہ ) پر گواہ بنائیں ۔ تو رسول اللہ صلی اللہ علیہ وسلم نے ان سے پوچھا : \" کیا تم نے یہ ( سلوک ) اپنے تمام بچوں کے ساتھ کیا ہے؟ \" انہوں نے جواب دیا : نہیں ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \" تم سب اللہ سے ڈرو اور اپنے بچوں کے مابین عدل کرو ۔ \" چنانچہ میرے والد واپس آئے اور وہ صدقہ ( ہبہ ) واپس لے لیا.",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے عباد بن العوام نے بیان کیا,حصین نے شعبی سے ، انہوں نے حضرت نعمان بن بشیر رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبَّادُ بْنُ الْعَوَّامِ، عَنْ حُصَيْنٍ، عَنِ الشَّعْبِيِّ، قَالَ: سَمِعْتُ النُّعْمَانَ بْنَ بَشِيرٍ، ح وحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَاللَّفْظُ لَهُ أَخْبَرَنَا أَبُو الْأَحْوَصِ، عَنْ حُصَيْنٍ، عَنِ الشَّعْبِيِّ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، قَالَ: تَصَدَّقَ عَلَيَّ أَبِي بِبَعْضِ مَالِهِ، فَقَالَتْ أُمِّي عَمْرَةُ بِنْتُ رَوَاحَةَ: لَا أَرْضَى حَتَّى تُشْهِدَ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَانْطَلَقَ أَبِي إِلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ لِيُشْهِدَهُ عَلَى صَدَقَتِي، فَقَالَ لَهُ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «أَفَعَلْتَ هَذَا بِوَلَدِكَ كُلِّهِمْ؟» قَالَ: لَا، قَالَ: «اتَّقُوا اللهَ، وَاعْدِلُوا فِي أَوْلَادِكُمْ»، فَرَجَعَ أَبِي، فَرَدَّ تِلْكَ الصَّدَقَةَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11746,
+                "hadithNumber": "4182",
+                "englishNarrator": "Nu'man bin Bashir رضی اللہ عنہ reported:",
+                "hadithEnglish": "His mother bint Rawaha asked his (Nu'man's) father about donating some gifts from his property to his son. He deferred the matter by one year, and then set forth to do that. She (Nu'man's mother) said: I shall not be pleased unless you call Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as witness to what you confer as a gift on your son. (Nu'man said): So father took hold of my hand and I was at that time a boy, and came to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌). and said: Allah's Messenger ﷺ, the mother of this son (of mine), daughter of Rawaha wishes that I should call you witness to what I confer as gift to her son. Allah's Messenger (ﷺ) said: Bashir, have you any other son besides this (son of yours)? He said: Yes. He (the Holy Prophet ﷺ) said: Have you given gifts to all of them like this? He said: No. Thereupon he (the Holy Prophet ﷺ) said: Then call me not as witness, for I cannot be witness to an injustice.",
+                "hadithUrdu": "ان کی والدہ ، ( عمرہ ) بنت رواحہ نے ان کے والد سے ، ان کے مال میں سے ، اپنے بیٹے کے لیے ( باغ ، زمین وغیرہ ) کچھ ہبہ کیے جانے کا مطالبہ کیا ، انہوں نے اسے ایک سال تک التوا میں رکھا ، پھر انہیں ( اس کا ) خیال آیا تو انہوں ( والدہ ) نے کہا : میں راضی نہیں ہوں گی یہاں تک کہ تم اس پر ، جو تم نے میرے بیٹے کے لیے ہبہ کیا ہے ، رسول اللہ صلی اللہ علیہ وسلم کو گواہ بنا لو ۔ اس پر میرے والد نے میرا ہاتھ تھاما ، میں ان دنوں بچہ تھا ، اور رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے اور عرض کی : اے اللہ کے رسول! اس کی والدہ بنت رواحہ کو یہ پسند ہے کہ میں آپ کو اس چیز پر گواہ بناؤں جو میں نے اس کے بیٹے کو دی ہے ، تو رسول اللہ صلی اللہ علیہ وسلم نے پوچھا : بشیر! کیا اس کے سوا بھی تمہارے بچے ہیں؟ انہوں نے جواب دیا : جی ہاں! آپ نے پوچھا : کیا ان سب میں سے ہر ایک کو تم نے اسی طرح ہبہ کیا ہے؟ \" انہوں نے جواب دیا : نہیں آپ نے فرمایا : پھر مجھے گواہ نہ بناؤ ، میں ظلم پر گواہ نہیں بنتا.",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے علی بن مشر نے بیان کیا,ابوحیان تیمی نے ہمیں شعبی سے حدیث بیان کی : مجھے حضرت نعمان بن بشیر رضی اللہ عنہ نے حدیث بیان کی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنْ أَبِي حَيَّانَ، عَنِ الشَّعْبِيِّ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، ح وحَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللهِ بْنِ نُمَيْرٍ، وَاللَّفْظُ لَهُ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، حَدَّثَنَا أَبُو حَيَّانَ التَّيْمِيُّ، عَنِ الشَّعْبِيِّ، حَدَّثَنِي النُّعْمَانُ بْنُ بَشِيرٍ، أَنَّ أُمَّهُ بِنْتَ رَوَاحَةَ، سَأَلَتْ أَبَاهُ بَعْضَ الْمَوْهِبَةِ مِنْ مَالِهِ لِابْنِهَا، فَالْتَوَى بِهَا سَنَةً ثُمَّ بَدَا لَهُ، فَقَالَتْ: لَا أَرْضَى حَتَّى تُشْهِدَ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَلَى مَا وَهَبْتَ لِابْنِي، فَأَخَذَ أَبِي بِيَدِي وَأَنَا يَوْمَئِذٍ غُلَامٌ، فَأَتَى رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ: يَا رَسُولَ اللهِ، إِنَّ أُمَّ هَذَا بِنْتَ رَوَاحَةَ أَعْجَبَهَا أَنْ أُشْهِدَكَ عَلَى الَّذِي وَهَبْتُ لِابْنِهَا، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «يَا بَشِيرُ ‍ أَلَكَ وَلَدٌ سِوَى هَذَا؟» قَالَ: نَعَمْ، فَقَالَ: «أَكُلَّهُمْ وَهَبْتَ لَهُ مِثْلَ هَذَا؟» قَالَ: لَا، قَالَ: «فَلَا تُشْهِدْنِي إِذًا، فَإِنِّي لَا أَشْهَدُ عَلَى جَوْرٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11747,
+                "hadithNumber": "4183",
+                "englishNarrator": "Nu'man bin Bashir رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) had said: Have you, besides him, other sons? He said: Yes. Thereupon he (the Holy Prophet ﷺ) said: Have you given gifts to all of them like this (as you have given to Nu'man)? He said: No. Thereupon he (the Holy Prophet ﷺ) said: I cannot bear witness to an injustice.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" کیا اس کے سوا بھی تمہارے بیٹے ہیں؟ \" انہوں نے کہا : جی ہاں ۔ آپ صلی اللہ علیہ وسلم نے پوچھا : \" کیا ان سب کو بھی تم نے اس جیسا عطیہ دیا ہے؟ \" انہوں نے جواب دیا : نہیں ۔ آپ نے فرمایا : \" تو میں ظلم پر گواہ نہیں بنتا.",
+                "urduNarrator": "ہم سے ابن نمیر نے بیان کیا، مجھ سے میرے والد نے بیان کیا, اسماعیل نے ہمیں شعبی سے حدیث بیان کی ، انہوں نے حضرت نعمان بن بشیر رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنِي أَبِي، حَدَّثَنَا إِسْمَاعِيلُ، عَنِ الشَّعْبِيِّ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «أَلَكَ بَنُونَ سِوَاهُ؟» قَالَ: نَعَمْ، قَالَ: «فَكُلَّهُمْ أَعْطَيْتَ مِثْلَ هَذَا؟» قَالَ: لَا، قَالَ:«فَلَا أَشْهَدُ عَلَى جَوْرٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11748,
+                "hadithNumber": "4184",
+                "englishNarrator": "Nu'man bin Bashir (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said to his father: Call me not as witness to an injustice.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ان کے والد سے فرمایا : \" مجھے ظلم پر گواہ مت بناؤ.",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم نے بیان کیا، کہا ہم سے جریر نے بیان کیا,عاصم احول نے شعبی سے اور انہوں نے حضرت نعمان بن بشیر رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا جَرِيرٌ، عَنْ عَاصِمٍ الْأَحْوَلِ، عَنِ الشَّعْبِيِّ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ لِأَبِيهِ: «لَا تُشْهِدْنِي عَلَى جَوْرٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11749,
+                "hadithNumber": "4185",
+                "englishNarrator": "Nu'man bin Bashir (رضی اللہ عنہ ) reported:",
+                "hadithEnglish": "My father took me to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and said: Allah's Messenger ﷺ, bear witness that I have given such and such gift to Nu'man from my property, whereupon he (the Holy Prophet ﷺ) said: Have you conferred upon all of your sons as you have conferred upon Nu'man? He said: No. Thereupon he (the Holy Prophet ﷺ) said: Call someone else besides me as a witness. And he further said: Would it, please you that they (your children) should all behave virtuously towards you? He said: Yes. He (the Holy Prophet ﷺ) said: Then don't do that (i.e. don't give gift to one to the exclusion of others).",
+                "hadithUrdu": "میرے والد مجھے اٹھائے ہوئے رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے اور عرض کی : اے اللہ کے رسول! گواہ رہیں کہ میں نے نعمان کو اپنے مال میں سے اتنا اتنا دیا ہے ۔ آپ نے فرمایا : \" کیا تم نے اپنے سب بیٹوں کو اسی جیسا عطیہ دیا ہے جیسا تم نے نعمان کو دیا ہے؟ \" انہوں نے جواب دیا : نہیں ۔ آپ نے فرمایا : \" اس پر میرے سوا کسی اور کو گواہ بناؤ ۔ \" پھر فرمایا : \" کیا تمہیں یہ بات اچھی لگتی ہے کہ وہ سب تمہارے ساتھ نیکی ( حسنِ سلوک ) کرنے میں برابر ہوں؟ \" انہوں نے کہا : کیوں نہیں! آپ نے فرمایا : \" تو پھر ( تم بھی ایسا ) نہ کرو.",
+                "urduNarrator": "ہم سے محمد بن المثنیٰ نے بیان کیا، ان سے عبد الوہاب نے، اور ان سے عبد الاعلٰی نے، ان سے اسحاق بن ابراہیم نے اور ہم سے یعقوب الدورقی نے بیان کیا، ان سب نے ان کی سند سے۔ ابن الیہ، اور تلفظ یعقوب کے لیے ہے، انہوں نے کہا: ہم سے اسماعیل بن ابراہیم نے بیان کیا, داود بن ابی ہند نے شعبی سے اور انہوں نے حضرت نعمان بن بشیر رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الْوَهَّابِ، وَعَبْدُ الْأَعْلَى، ح وحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَيَعْقُوبُ الدَّوْرَقِيُّ، جَمِيعًا عَنِ ابْنِ عُلَيَّةَ، وَاللَّفْظُ لِيَعْقُوبَ، قَالَ: حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، عَنْ دَاوُدَ بْنِ أَبِي هِنْدٍ، عَنِ الشَّعْبِيِّ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، قَالَ: انْطَلَقَ بِي أَبِي يَحْمِلُنِي إِلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: يَا رَسُولَ اللهِ، اشْهَدْ أَنِّي قَدْ نَحَلْتُ النُّعْمَانَ كَذَا وَكَذَا مِنْ مَالِي، فَقَالَ: «أَكُلَّ بَنِيكَ قَدْ نَحَلْتَ مِثْلَ مَا نَحَلْتَ النُّعْمَانَ؟» قَالَ: لَا، قَالَ: «فَأَشْهِدْ عَلَى هَذَا غَيْرِي»، ثُمَّ قَالَ: «أَيَسُرُّكَ أَنْ يَكُونُوا إِلَيْكَ فِي الْبِرِّ سَوَاءً؟» قَالَ: بَلَى، قَالَ: «فَلَا إِذًا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11750,
+                "hadithNumber": "4186",
+                "englishNarrator": "Nu'man bin Bashir رضی اللہ عنہ reported:",
+                "hadithEnglish": "My father conferred a gift upon me, and then brought me to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) to make him a witness (to it). He (the Holy Prophet ﷺ) said: Have you given such gift to every son of yours (as you have given to Nu'man)? He said: No. Thereupon he (the Holy Prophet ﷺ) said: Don't you expect goodness from them as you expect from him? He said: Yes. of course. He (the Holy Prophet ﷺ) said: I am not going to bear witness to it (as it is injustice). Ibn Aun (one of the narrators) said: I narrated this hadith to Muhammad (the other narrator) who said: Verily we narrated that lie (the Holy Prophet ﷺ) had said: Observe equity amongst your children.",
+                "hadithUrdu": "میرے والد نے مجھے ایک تحفہ دیا ، پھر مجھے لے کر رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے تاکہ آپ کو گواہ بنائیں ۔ آپ نے پوچھا : \"\" کیا تم نے اپنے سب بچوں کو یہ ( اسی طرح کا ) تحفہ دیا ہے؟ \"\" انہوں نے جواب دیا : نہیں ۔ آپ نے پوچھا : \"\" کیا تم ان سب سے اسی طرح کا نیک سلوک نہیں چاہتے جس طرح اس ( بیٹے ) سے چاہتے ہو؟ \"\" انہوں نے جواب دیا : کیوں نہیں! آپ صلی اللہ علیہ وسلم نے فرمایا : \"\" تو میں ( ظلم پر ) گواہ نہیں بنتا ۔ \"\" ( کیونکہ اس عمل کی بنا پر پہلے تمہاری طرف سے اور پھر جوابا ان کی طرف سے ظلم کا ارتکاب ہو گا ۔ \"\" ابن عون نے کہا : میں نے یہ حدیث محمد ( بن سیرین ) کو سنائی تو انہوں نے کہا : مجھے بیان کیا گیا ہے کہ آپ نے فرمایا : اپنے بیٹوں کے درمیان یکسانیت روا رکھو ( لفظی معنی ہیں : تقریبا ایک جیسا سلوک \"\" یعنی ان کو اس بات کا عادی بناؤ.",
+                "urduNarrator": "ہم سے احمد بن عثمان النفالی نے بیان کیا، کہا ہم سے ازہر نے بیان کیا,ابن عون نے ہمیں شعبی سے ، انہوں نے حضرت نعمان بن بشیر رضی اللہ عنہ سے حدیث بیان کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ عُثْمَانَ النَّوْفَلِيُّ، حَدَّثَنَا أَزْهَرُ، حَدَّثَنَا ابْنُ عَوْنٍ، عَنِ الشَّعْبِيِّ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، قَالَ: نَحَلَنِي أَبِي نُحْلًا، ثُمَّ أَتَى بِي إِلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ لِيُشْهِدَهُ، فَقَالَ: «أَكُلَّ وَلَدِكَ أَعْطَيْتَهُ هَذَا؟» قَالَ: لَا، قَالَ: «أَلَيْسَ تُرِيدُ مِنْهُمُ الْبِرَّ مِثْلَ مَا تُرِيدُ مِنْ ذَا؟» قَالَ: بَلَى، قَالَ: «فَإِنِّي لَا أَشْهَدُ»، قَالَ ابْنُ عَوْنٍ: فَحَدَّثْتُ بِهِ مُحَمَّدًا، فَقَالَ: إِنَّمَا تَحَدَّثْنَا أَنَّهُ قَالَ: «قَارِبُوا بَيْنَ أَوْلَادِكُمْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11751,
+                "hadithNumber": "4187",
+                "englishNarrator": "Jabir (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "The wife of Bashir رضی اللہ عنہ said (to her husband): Give to my son your slave as a gift, and make for me Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) a witness He came to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and said: The daughter of so and so (his wife Amra bint Rawaha) asked me to give my slave as a gift to her son, and call for me Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as a witness. Thereupon he (the Holy Prophet ﷺ) said: Has he (Nu'man) brothers? He (Bashir) said: Yes. He (further) said: Have you given to all others as you have given to him? He said: No. He said: Then it is not fair; and verily I cannot bear witness but only to what is just.",
+                "hadithUrdu": "حضرت بشیر رضی اللہ عنہ کی بیوی نے کہا : میرے بیٹے کو اپنا غلام ہبہ کر دو اور میرے لیے رسول اللہ صلی اللہ علیہ وسلم کو گواہ بناؤ ۔ وہ رسول اللہ صلی اللہ علیہ وسلم کے پاس آئے اور کہا : فلاں کی بیٹی نے مجھ سے مطالبہ کیا ہے کہ میں اس کے بیٹے کو اپنا غلام ہبہ کر دوں اور اس نے کہا ہے : میرے لیے ( اس پر ) رسول اللہ صلی اللہ علیہ وسلم کو گواہ بناؤ ۔ تو آپ نے پوچھا : \" کیا اس کے اور بھائی ہیں؟ \" انہوں نے جواب دیا : جی ہاں ۔ آپ نے پوچھا : \" کیا ان سب کو بھی تم نے اسی طرح عطیہ دیا ہے جس طرح اسے دیا ہے؟ \" انہوں نے جواب دیا : نہیں ۔ آپ نے فرمایا : \" یہ درست نہیں اور میں صرف حق پر گواہ بنتا ہوں.",
+                "urduNarrator": "ہم سے احمد بن عبداللہ بن یونس نے بیان کیا، کہا ہم سے زہیر نے بیان کیا، کہا ہم سے ابو الزبیر نے بیان کیا, حضرت جابر رضی اللہ عنہ سے روایت ہے ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللهِ بْنِ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا أَبُو الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ: قَالَتِ امْرَأَةُ بَشِيرٍ: انْحَلِ ابْنِي غُلَامَكَ وَأَشْهِدْ لِي رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَأَتَى رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ: إِنَّ ابْنَةَ فُلَانٍ سَأَلَتْنِي أَنْ أَنْحَلَ ابْنَهَا غُلَامِي، وَقَالَتْ: أَشْهِدْ لِي رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ: «أَلَهُ إِخْوَةٌ؟» قَالَ: نَعَمْ، قَالَ: «أَفَكُلَّهُمْ أَعْطَيْتَ مِثْلَ مَا أَعْطَيْتَهُ؟»، قَالَ: لَا، قَالَ: «فَلَيْسَ يَصْلُحُ هَذَا، وَإِنِّي لَا أَشْهَدُ إِلَّا عَلَى حَقٍّ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11752,
+                "hadithNumber": "4188",
+                "englishNarrator": "Jabir bin 'Abdullah ( رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: Any man who is given a gift for life, it belongs to him and his heirs. It belongs to the one to whom it is given, and does not go back to the one who gave it, because he has given it in such a way that it is subject to the rules of inheritance.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جس آدمی کو عمر بھر کے لیے دی جانے والی چیز اس کے اور اس کی اولاد کے لیے دی گئی تو وہ اسی کی ہے جسے دی گئی ، وہ اس شخص کو واپس نہیں ملے گی جس نے دی تھی ، کیونکہ اس نے ایسا عطیہ دیا ہے جس میں وراثت جاری ہو گئی ہے.",
+                "urduNarrator": "امام مالک نے ابن شہاب سے ، انہوں نے ابوسلمہ بن عبدالرحمن سے اور انہوں نے حضرت جابر بن عبداللہ رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ: قَرَأْتُ عَلَى مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ جَابِرِ بْنِ عَبْدِ اللهِ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «أَيُّمَا رَجُلٍ أُعْمِرَ عُمْرَى لَهُ وَلِعَقِبِهِ، فَإِنَّهَا لِلَّذِي أُعْطِيَهَا، لَا تَرْجِعُ إِلَى الَّذِي أَعْطَاهَا، لِأَنَّهُ أَعْطَى عَطَاءً وَقَعَتْ فِيهِ الْمَوَارِيثُ.",
+                "headingArabic": "الْعُمْرَى ‏‏",
+                "headingUrdu": "عمرہ (زندگی بھر کا تحفہ)",
+                "headingEnglish": "The 'Umra (Lifelong Gift)",
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11753,
+                "hadithNumber": "4189",
+                "englishNarrator": "Jabir bin 'Abdullah ( رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger (ﷺ) as saying: He who conferred a life grant upon a person, it becomes his possession and that of his successors, for he surrendered his right in that by his declaration. (This property) now belongs to one to whom this lifelong grant has been made, and to his successors. Yahya narrated in the beginning of his narration: Whatever man is given a life grant, then it belongs to him and his posterity.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم کو یہ فرماتے ہوئے سنا : \"\" جس نے کسی شخص کو عمر بھر کے لیے عطیہ دیا کہ وہ اس کا اور اس کی اولاد کا ہے تو اس کی اس بات نے ، اس چیز میں ، اس کے حق کو ختم کر دیا اور وہ اسی کی ہے جسے عمر بھر کے لیے دی گئی اور اس کی اولاد کی ۔ \"\" مگر یحییٰ نے ، اپنی حدیث کے آغاز ہی میں کہا : \"\" جس شخص کے عمر بھر کے لیے عطیہ دیا گیا تو وہ اسی کا اور اس کی اولاد کا ہے.",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ اور محمد بن رومح نے بیان کیا، کہا, لیث نے ہمیں ابن شہاب سے حدیث بیان کی ، انہوں نے ابوسلمہ سے اور انہوں نے حضرت جابر بن عبداللہ رضی اللہ عنہ سے روایت کی کہ انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَمُحَمَّدُ بْنُ رُمْحٍ، قَالَا: أَخْبَرَنَا اللَّيْثُ، ح وحَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا لَيْثٌ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ، عَنْ جَابِرِ بْنِ عَبْدِ اللهِ، أَنَّهُ قَالَ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «مَنْ أَعْمَرَ رَجُلًا عُمْرَى لَهُ وَلِعَقِبِهِ، فَقَدْ قَطَعَ قَوْلُهُ حَقَّهُ فِيهَا، وَهِيَ لِمَنْ أُعْمِرَ وَلِعَقِبِهِ»، غَيْرَ أَنَّ يَحْيَى قَالَ فِي أَوَّلِ حَدِيثِهِ: «أَيُّمَا رَجُلٍ أُعْمِرَ عُمْرَى فَهِيَ لَهُ وَلِعَقِبِهِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11754,
+                "hadithNumber": "4190",
+                "englishNarrator": "Jabir bin 'Abdullah al-Ansari (رضی اللہ عنہ) said:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: Whoever a person conferred Umra (life grant) upon a person and he says: I confer upon you this and upon your descendants and anyone who survives you, and that becomes his possession and that of his posterity. It would become (a permanent possession) of those who were conferred upon this gift, and it would not return to its owner (donor), for he gave that as a gift in which accrued the right of inheritance.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جس آدمی نے کسی دوسرے شخص کو عمر بھر کے لیے تحفہ دیا کہ وہ اس کا اور اس کی اولاد کا ہے اور کہا : میں نے تمہیں اور تمہاری اولاد کو دیا جب تک تم میں سے کوئی زندہ ہے ، تو وہ اسی کا ہے جسے دیا گیا ہے اور وہ اس کے ( پہلے ) مالک کو واپس نہیں ہو گا کیونکہ اس نے ایسا عطیہ دیا ہے جس میں وراثت جاری ہو گئی ہے.",
+                "urduNarrator": "مجھ سے عبدالرحمٰن بن بشر العبدی نے بیان کیا، کہا ہم سے عبدالرزاق نے بیان کیا, ابن جریج نے ہمیں خبر دی : مجھے ابن شہاب نے ابوسلمہ بن عبدالرحمن کی حدیث کی رو سے عمریٰ اور اس کے طریقے کے بارے میں بتایا کہ انہیں حضرت جابر بن عبداللہ انصاری رضی اللہ عنہ نے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ بِشْرٍ الْعَبْدِيُّ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي ابْنُ شِهَابٍ، عَنِ الْعُمْرَى وَسُنَّتِهَا، عَنْ حَدِيثِ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، أَنَّ جَابِرَ بْنَ عَبْدِ اللهِ الْأَنْصَارِيَّ، أَخْبَرَهُ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَ: أَيُّمَا رَجُلٍ أَعْمَرَ رَجُلًا عُمْرَى لَهُ وَلِعَقِبِهِ، فَقَالَ: قَدْ أَعْطَيْتُكَهَا وَعَقِبَكَ مَا بَقِيَ مِنْكُمْ أَحَدٌ، فَإِنَّهَا لِمَنْ أُعْطِيَهَا، وَإِنَّهَا لَا تَرْجِعُ إِلَى صَاحِبِهَا، مِنْ أَجْلِ أَنَّهُ أَعْطَى عَطَاءً وَقَعَتْ فِيهِ الْمَوَارِيثُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11755,
+                "hadithNumber": "4191",
+                "englishNarrator": "Jabir (رضی اللہ عنہ) said:",
+                "hadithEnglish": "The Umra for which Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) gave sanction that a person way say: This (property) is for you and for your descendants. And when he said: That is for you as long as you live, then it will return to its owner (after the death of the done). Ma'mar said: Zuhri used to give religious verdict according to this.",
+                "hadithUrdu": "وہ عمریٰ جسے رسول اللہ صلی اللہ علیہ وسلم نے نافذ کیا یہ ہے کہ آدمی کہے : یہ تمہارے لیے اور تمہاری اولاد کے لیے ہے ، البتہ جب وہ کہے : یہ تمہارے لیے ہے جب تک تم زندہ ہو ، تو وہ اسکے مالک کو واپس مل جائے گا ۔ معمر نے کہا : امام زہری رحمۃ اللہ علیہ اسی کے مطابق فتویٰ دیتے تھے.",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم اور عبد بن حمید نے بیان کیا، اور لفظ عبد کے لیے ہے، انہوں نے کہا: ہم سے عبد الرزاق نے بیان کیا،معمر نے ہمیں زہری رحمۃ اللہ علیہ سے خبر دی ، انہوں نے ابوسلمہ سے اور انہوں نے حضرت جابر رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَبْدُ بْنُ حُمَيْدٍ، وَاللَّفْظُ لِعَبْدٍ، قَالَا: أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ جَابِرٍ، قَالَ: إِنَّمَا الْعُمْرَى الَّتِي أَجَازَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَنْ يَقُولَ: هِيَ لَكَ وَلِعَقِبِكَ، فَأَمَّا إِذَا قَالَ: هِيَ لَكَ مَا عِشْتَ، فَإِنَّهَا تَرْجِعُ إِلَى صَاحِبِهَا‘قَالَ مَعْمَرٌ: وَكَانَ الزُّهْرِيُّ يُفْتِي بِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11756,
+                "hadithNumber": "4192",
+                "englishNarrator": "Jabir bin 'Abdullah ( رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) commanded that whoever is conferred upon a life grant along with his descendants is entitled to make use of the property conferred so long as he lives and his successors (also enjoy this privilege). That (property) becomes the their defect belonging. The donor cannot (after declaring Umra) lay down any condition or make any exception. Abu Salama said: For he conferred a grant and as such it becomes heritage. and the right of inheritance abrogated his condition.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے اس شخص کے بارے میں فیصلہ کیا جسے عمر بھر کے لیے ( یہ کہہ کر ) عطیہ دیا گیا کہ وہ اس کا اور اس کی اولاد کا ہے تو وہ حتمی طور پر اسی کا ہو گا ، اس ( صورت ) میں دینے والے کے لیے کوئی شرط لگانا اور استثناء کرنا جائز نہیں ۔ ابوسلمہ نے کہا : کیونکہ اس نے ایسا عطیہ دیا ہے جس میں وراثت جاری ہو چکی ہے تو وراثت نے اس کی شرط کو ختم کر دیا.",
+                "urduNarrator": "ہم سے محمد بن رافع نے بیان کیا، کہا ہم سے ابن ابی فدائک نے بیان کیا,ابن ابی ذئب نے ابن شہاب سے ، انہوں نے ابوسلمہ بن عبدالرحمن سے اور انہوں نے حضرت جابر بن عبداللہ رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، عَنِ ابْنِ أَبِي ذِئْبٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ جَابِرٍ وَهُوَ ابْنُ عَبْدِ اللهِ، «أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَضَى فِيمَنْ أُعْمِرَ عُمْرَى لَهُ وَلِعَقِبِهِ فَهِيَ لَهُ بَتْلَةً، لَا يَجُوزُ لِلْمُعْطِي فِيهَا شَرْطٌ، وَلَا ثُنْيَا»، قَالَ أَبُو سَلَمَةَ: «لِأَنَّهُ أَعْطَى عَطَاءً وَقَعَتْ فِيهِ الْمَوَارِيثُ، فَقَطَعَتِ الْمَوَارِيثُ شَرْطَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11757,
+                "hadithNumber": "4193",
+                "englishNarrator": "Jabir (bin 'Abdullah) (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: Life grant is for one upon whom it is bestowed.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" عمریٰ اسی کا ہے جسے ہبہ کیا گیا ہے.",
+                "urduNarrator": "ہم سے عبید اللہ بن عمر القواری نے بیان کیا, خالد بن حارث نے ہمیں حدیث بیان کی : ہمیں ہشام نے یحییٰ بن ابی کثیر سے حدیث بیان کی : ہمیں ابوسلمہ بن عبدالرحمن نے حدیث بیان کی ، انہوں نے کہا : میں نے حضرت جابر بن عبداللہ رضی اللہ عنہ سے سنا ، وہ کہہ رہے تھے",
+                "hadithArabic": "حَدَّثَنَا عُبَيْدُ اللهِ بْنُ عُمَرَ الْقَوَارِيرِيُّ، حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، حَدَّثَنَا هِشَامٌ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، حَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، قَالَ: سَمِعْتُ جَابِرَ بْنَ عَبْدِ اللهِ، يَقُولُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ:«الْعُمْرَى لِمَنْ وُهِبَتْ لَهُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11758,
+                "hadithNumber": "4194",
+                "englishNarrator": null,
+                "hadithEnglish": "Jabir bin 'Abdullah رضی اللہ عنہ reported a hadith like this through another chain of transmitters.",
+                "hadithUrdu": "ہم سے محمد بن المثنی نے بیان کیا, معاذ بن ہشام نے ہمیں حدیث بیان کی : مجھے میرے والد نے یحییٰ بن ابی کثیر سے حدیث بیان کی : ہمیں ابوسلمہ بن عبدالرحمن نے حضرت جابر بن عبداللہ رضی اللہ عنہ سے حدیث بیان کی کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ۔ ۔ ۔ اسی کی مانند.",
+                "urduNarrator": null,
+                "hadithArabic": "وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، حَدَّثَنِي أَبِي، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، حَدَّثَنَا أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ جَابِرِ بْنِ عَبْدِ اللهِ، أَنَّ نَبِيَّ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَ بِمِثْلِهِ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11759,
+                "hadithNumber": "4195",
+                "englishNarrator": null,
+                "hadithEnglish": "Jabir رضی اللہ عنہ reported this hadith directly from Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌).",
+                "hadithUrdu": "احمد بن یونس نے ہمیں حدیث بیان کی : ہمیں زہیر نے حدیث بیان کی : ہمیں ابوزبیر نے حضرت جابر رضی اللہ عنہ سے حدیث سنائی ، وہ اس کی نسبت نبی صلی اللہ علیہ وسلم کی طرف کر رہے تھے.",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا أَبُو الزُّبَيْرِ، عَنْ جَابِرٍ، يَرْفَعُهُ إِلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11760,
+                "hadithNumber": "4196",
+                "englishNarrator": "Jabir (bin 'Abdullah) (رضی اللہ عنہ) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) having said: Keep your property to yourselves and do not squander it, for he who conferred a life grant upon another that property will belong to him upon whom it is conferred whether he lives or dies, and (would pass on) to his successors (as heritage).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" اپنے اموال اپنے پاس روکے رکھو اور انہیں خراب نہ کرو ، کیونکہ جس نے بطور عمریٰ کوئی چیز دی تو وہ اسی کی ہے جسے دی گئی ہے ، وہ زندہ ہو یا مروہ ، اور اس کے وارثوں کی ہے ۔ \" ( یعنی جب اس کو اور اس کے وارثوں کو دی گئی یا غیر مؤقت دی گئی.",
+                "urduNarrator": "نیز یحییٰ بن یحییٰ نے ہمیں حدیث بیان کی ۔ ۔ الفاظ انہی کے ہیں ۔ ۔ ہمیں ابوخثیمہ نے ابوزبیر سے خبر دی ، انہوں نے حضرت جابر رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "وحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَاللَّفْظُ لَهُ، أَخْبَرَنَا أَبُو خَيْثَمَةَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «أَمْسِكُوا عَلَيْكُمْ أَمْوَالَكُمْ، وَلَا تُفْسِدُوهَا، فَإِنَّهُ مَنْ أَعْمَرَ عُمْرَى فَهِيَ لِلَّذِي أُعْمِرَهَا حَيًّا وَمَيِّتًا، وَلِعَقِبِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11761,
+                "hadithNumber": "4197",
+                "englishNarrator": "This hadith is narrated on the authority of Jabir رضی اللہ عنہ through other chains of transmitters, but (with this addition of words) that the hadith transmitted on the authority of Ayyub (these words are found):",
+                "hadithEnglish": "The Helpers (Ansar) conferred the benefit of 'Umra, upon the Emigrants (Muhajirin), whereupon Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: Keep your property to yourselves.",
+                "hadithUrdu": "انصار نے مہاجرین کو عمر بھر کے لیے دینا شروع کیا تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" اپنے اموال اپنے پاس رکھو.",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے محمد بن بشر نے بیان کیا,حجاج بن ابوعثمان ، سفیان اور ایوب سب نے ابوزبیر سے ، انہوں نے حضرت جابر رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے روایت کی ۔ ۔ آگے ابوخثیمہ کی حدیث کے ہم معنی ہے ۔ ایوب کی حدیث میں کچھ اضافہ ہے ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، حَدَّثَنَا حَجَّاجُ بْنُ أَبِي عُثْمَانَ، ح وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، عَنْ وَكِيعٍ، عَنْ سُفْيَانَ، ح وحَدَّثَنَا عَبْدُ الْوَارِثِ بْنُ عَبْدِ الصَّمَدِ، حَدَّثَنِي أَبِي، عَنْ جَدِّي، عَنْ أَيُّوبَ، كُلُّ هَؤُلَاءِ عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمَعْنَى حَدِيثِ أَبِي خَيْثَمَةَ، وَفِي حَدِيثِ أَيُّوبَ مِنَ الزِّيَادَةِ: قَالَ: جَعَلَ الْأَنْصَارُ يُعْمِرُونَ الْمُهَاجِرِينَ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «أَمْسِكُوا عَلَيْكُمْ أَمْوَالَكُمْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11762,
+                "hadithNumber": "4198",
+                "englishNarrator": "Jabir ( رضی اللہ عنہ) reported:",
+                "hadithEnglish": "A woman gave her garden as a life grant to her son. He died and later on she also died and left a son behind and brothers also, The sons of the woman making life grant said (to those who had been conferred upon this 'Umra): This garden has returned to us. The sons of the one who had been given life grant said: This belonged to our father, during his lifetime and in case of his death. They took their dispute to Tariq, the freed slave of 'Uthman. He called Jabir رضی اللہ عنہ and he gave testimony of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) having said: Life grant belongs to one who is conferred upon this (privilege). Tariq gave this decision and then wrote to Abdul-Malik and informed him, Jabir رضی اللہ عنہ bearing witness to it. Abdul-Malik said: Jabir رضی اللہ عنہ has told the truth. Then Tariq gave a decree and, as a result thereof, it is to this day that the garden belongs to descendants of one who was conferred upon the life grant.",
+                "hadithUrdu": "مدینہ میں ایک عورت نے اپنے بیٹے کو اپنا باغ بطور عمریٰ دیا ، پھر وہ فوت ہو گیا اور اس کے بعد وہ بھی فوت ہو گئی ، اس ( لڑکے ) نے اولاد چھوڑی اور اس کے بھائی بھی تھے جو بطور عمریٰ دینے والی عورت کے بیٹے تھے ، تو بطور عمریٰ دینے والی عورت کی اولاد نے کہا : باغ ہمیں واپس مل گیا ۔ اور جسے بطور عمریٰ ہبہ کیا گیا تھا اس کے بیٹوں نے کہا : زندگی اور موت دونوں صورتوں میں وہ ہمارے باپ ہی کا ہے ۔ چنانچہ وہ حضرت عثمان کے آزاد کردہ غلام طارق کے پاس ( جو عبدالملک بن مروان کی طرف سے مدینے کا گورنر تھا ) جھگڑا لے کر گئے ، انہوں نے حضرت جابر رضی اللہ عنہ کو بلایا تو انہوں نے عمریٰ کی بابت رسول اللہ صلی اللہ علیہ وسلم ( کے فرمان ) پر گواہی دی کہ وہ اس کے ( موجودہ ) مالک کا ہے ۔ طارق نے اسی کے مطابق فیصلہ کیا ، پھر انہوں نے عبدالملک کی طرف لکھا اور انہیں اس واقعے کی اطلاع دی اور حضرت جابر رضی اللہ عنہ کی گواہی کے بارے میں بھی بتایا تو عبدالملک نے کہا : حضرت جابر رضی اللہ عنہ نے سچ کہا ، تو طارق نے اس ( حکم ) کو نافذ کر دیا ، چنانچہ وہ باغ آج تک اسی کے بیٹوں کے پاس ہے جسےبطور عمریٰ دیا گیا تھا.",
+                "urduNarrator": "مجھ سے محمد بن رافع اور اسحاق بن منصور نے بیان کیا، اور یہ قول ابن رافع کا ہے، انہوں نے کہا: ہم سے عبدالرزاق نے بیان کیا، ابن جریج نے ہمیں خبر دی ، مجھے ابوزبیر نے حضرت جابر رضی اللہ عنہ سے خبر دی ، انہوں نے کہا",
+                "hadithArabic": "وحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، وَإِسْحَاقُ بْنُ مَنْصُورٍ، وَاللَّفْظُ لِابْنِ رَافِعٍ، قَالَا: حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ: أَعْمَرَتِ امْرَأَةٌ بِالْمَدِينَةِ حَائِطًا لَهَا ابْنًا لَهَا، ثُمَّ تُوُفِّيَ وَتُوُفِّيَتْ بَعْدَهُ، وَتَرَكَتْ وَلَدًا وَلَهُ إِخْوَةٌ بَنُونَ لِلْمُعْمِرَةِ، فَقَالَ وَلَدُ الْمُعْمِرَةِ: رَجَعَ الْحَائِطُ إِلَيْنَا، وَقَالَ: بَنُو الْمُعْمَرِ، بَلْ كَانَ لِأَبِينَا حَيَاتَهُ وَمَوْتَهُ، فَاخْتَصَمُوا إِلَى طَارِقٍ مَوْلَى عُثْمَانَ، فَدَعَا جَابِرًا، «فَشَهِدَ عَلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِالْعُمْرَى لِصَاحِبِهَا»، فَقَضَى بِذَلِكَ طَارِقٌ، ثُمَّ كَتَبَ إِلَى عَبْدِ الْمَلِكِ، فَأَخْبَرَهُ ذَلِكَ، وَأَخْبَرَهُ بِشَهَادَةِ جَابِرٍ، فَقَالَ عَبْدُ الْمَلِكِ: صَدَقَ جَابِرٌ، فَأَمْضَى ذَلِكَ طَارِقٌ، فَإِنَّ ذَلِكَ الْحَائِطَ لِبَنِي الْمُعْمَرِ حَتَّى الْيَوْمِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 11763,
+                "hadithNumber": "4199",
+                "englishNarrator": "Sulaiman bin Yasir reported:",
+                "hadithEnglish": "Jabir رضی اللہ عنہ gave this verdict. The inheritor has a right (to inherit) the life grant according to the statement of Jabir (bin 'Abdullah) (رضی اللہ عنہ) which he narrated from Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم سے روایت کردہ حضرت جابر بن عبداللہ رضی اللہ عنہ کے قول کی بنا پر طارق نے عمریٰ کا فیصلہ وارث کے حق میں کیا تھا.",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ اور اسحاق بن ابراہیم نے بیان کیا، اور یہ قول ابوبکر سے ہے، انہوں نے کہا: ہم سے انہوں نے بیان کیا، اور ابوبکر نے کہا: ہم سے سفیان بن عیینہ نے عمرو کی سند سے بیان کیا, سلیمان بن یسار سے روایت ہے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَاللَّفْظُ لِأَبِي بَكْرٍ، قَالَ إِسْحَاقُ: أَخْبَرَنَا، وَقَالَ أَبُو بَكْرٍ: حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَمْرٍو، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، أَنَّ طَارِقًا، «قَضَى بِالْعُمْرَى لِلْوَارِثِ» لِقَوْلِ جَابِرِ بْنِ عَبْدِ اللهِ، عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "25",
+                "bookSlug": "sahih-muslim",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 125,
+                    "chapterNumber": "25",
+                    "chapterEnglish": "The Book Of Gifts",
+                    "chapterUrdu": "عطیہ کی گئی چیزوں کا بیان",
+                    "chapterArabic": "كتاب الْهِبَاتِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 11451,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=458",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=456",
+                "label": "456",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=457",
+                "label": "457",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=458",
+                "label": "458",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=459",
+                "label": "459",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=460",
+                "label": "460",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=461",
+                "label": "461",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=462",
+                "label": "462",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=460",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=460",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=458",
+        "to": 11475,
+        "total": 40465
+    }
+}

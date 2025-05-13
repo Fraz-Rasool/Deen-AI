@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 330,
+        "data": [
+            {
+                "id": 8514,
+                "hadithNumber": "950",
+                "englishNarrator": "This hadith is transmitted by Sahl bin Sa'd رضی ‌اللہ ‌عنہ ‌in the same way as narrated by Malik, with the exception of these words:",
+                "hadithEnglish": "Abu Bakr رضی ‌اللہ ‌عنہ lifted his hands and praised Allah and retraced his (steps) till he stood in a row.",
+                "hadithUrdu": "ابو بکر ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے اپنے دونوں ہاتھ بلند کیے ، اللہ تعالیٰ کا شکریہ ادا کیا اور الٹے پاؤں واپس ہوئے حتیٰ کہ صف میں آ کھڑے ہوئے ۔",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا,عبد العزیز بن ابی حازم اور یعقوب بن عبد الرحمن القادری دونوں نے ابو حازم سے اور انہوں نے سہل بن سعد ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے امام مالک کی روایت کی طرح روایت بیان کی ۔ ان دونوں کی حدیث میں یہ ہے کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ يَعْنِي ابْنَ أَبِي حَازِمٍ، وَقَالَ قُتَيْبَةُ، حَدَّثَنَا يَعْقُوبُ وَهُوَ ابْنُ عَبْدِ الرَّحْمَنِ الْقَارِيُّ، كِلَاهُمَا عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، بِمِثْلِ حَدِيثِ مَالِكٍ وَفِي حَدِيثِهِمَا فَرَفَعَ أَبُو بَكْرٍ يَدَيْهِ فَحَمِدَ اللهَ، وَرَجَعَ الْقَهْقَرَى وَرَاءَهُ حَتَّى قَامَ فِي الصَّفِّ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8515,
+                "hadithNumber": "951",
+                "englishNarrator": "Sahl bin Sa'd al-Sa'idi ‌رضی ‌اللہ ‌عنہ ‌reported:",
+                "hadithEnglish": "The Apostle of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) went to Bani Amr bin 'Auf in order to bring about reconciliation amongst them. The rest of the hadith is the same but with (the addition of these words): The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) came and made his way through the rows till he came to the first row and Abu Bakr رضی ‌اللہ ‌عنہ retraced his steps.",
+                "hadithUrdu": "نبیﷺ قبیلہ بنو عمرو بن عوف کے درمیان صلح کرانے تشریف لے گئے .... آگے مذکورہ بالا راویوں کے مانند ( حدیث بیان کی ) اور اس میں یہ اضافہ کیا کہ رسول اللہﷺ آئے اور صفوں کو چیرتے ہوئے پہلی صف کے قریب کھڑے ہو گئے ۔ اس میں یہ الفاظ بھی ہیں کہ ابو بکر ‌رضی ‌اللہ ‌عنہ ‌ ‌ الٹے پاؤں پیچھے لوٹ آئے ۔",
+                "urduNarrator": "ہم سے محمد بن عبداللہ بن بز  یع نے بیان کیا، کہا ہم سے عبد الاعلٰی نے بیان کیا,عبید اللہ نے ابو حازم سے اور انہوں نے حضرت سہل بن سعد ساعدی ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللهِ بْنِ بَزِيعٍ، أَخْبَرَنَا عَبْدُ الْأَعْلَى، حَدَّثَنَا عُبَيْدُ اللهِ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ، قَالَ: ذَهَبَ نَبِيُّ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يُصْلِحُ بَيْنَ بَنِي عَمْرِو بْنِ عَوْفٍ بِمِثْلِ حَدِيثِهِمْ وَزَادَ فَجَاءَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَخَرَقَ الصُّفُوفَ حَتَّى قَامَ عِنْدَ الصَّفِّ الْمُقَدَّمِ وَفِيهِ أَنَّ أَبَا بَكْرٍ رَجَعَ الْقَهْقَرَى.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8516,
+                "hadithNumber": "952",
+                "englishNarrator": null,
+                "hadithEnglish": "He participated In the expedition of Tabuk along with the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ). The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) went out to answer the call of nature before the morning prayer. and I carried along with him a jar (full of water). When the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) came back to me (after relieving himself). I began to pour water upon his hands out of the jar and he washed his hands three times, then washed his face three times. He then tried to tuck up the sleeves of his cloak upon his forearms but since the sleeves were tight he inserted his hands in the cloak and then brought out his forearms up to the elbow below the cloak, and then wiped over his shoes and then moved on. Mughira ‌رضی ‌اللہ ‌عنہ said: I also moved along with him till he came to the people and (he found) that they had been saying their prayer under the Imamah of 'Abdul-Rahman bin 'Auf ‌رضی ‌اللہ ‌عنہ . The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) could get one rak ah out of two and said (this) last rak'ah along with the people. When Abd al-Rahman bin 'Auf ‌رضی ‌اللہ ‌عنہ ‌pronounced the salutation, the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) got up to complete the prayer. This made the Muslims terrified and most of them began to recite the glory of the Lord. When the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) finished his prayer, he turned towards them and then said: You did well, or said with a sense of joy: You did the right thing that you said prayer at the appointed hour.",
+                "hadithUrdu": "وہ رسول اللہﷺ کے ساتھ غز وہ تبوک میں شریک ہوئے ۔ مغیرہ نے کہا : صبح کی نماز سے پہلے رسول اللہﷺ قضائے حاجت کے لیے باہر نکلے اور میں نے آپ کے ہمراہ پانی کا ایک برتن اٹھا لیا ۔ جب رسو ل اللہﷺ میر ی طرف لوٹے تو میں برتن سے آپ کے ہاتھوں پر پانی ڈالنے لگا ، آپ نے اپنے دونوں ہاتھ تین بار دھوئے ، پھر اپنا چہرہ دھویا ، اس کے بعد اپنے دونوں ہاتھوں سے جبہ نکالنے لگے ، جبے کی دونوں آستینیں تنگ ہوئیں تو آپ نے اپنے ہاتھ جبے کے اندر کر لیے حتیٰ کہ آپ نے اپنے بازور جبے کے نیچے سے نکال لیے اور دونوں ہاتھ کہنیوں تک دھوئے ، پھر اپنے دونوں موزوں پر مسح ( کر کے ) وضو ( مکمل ) کیا ، پھر آپ آگے بڑھے ۔ مغیرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا : میں بھی آپ کے ساتھ آگے بڑھا یہاں تک کہ ہم لوگوں کو اس حال میں پایا کہ وہ عبد الرحمن بن عوف ‌رضی ‌اللہ ‌عنہ ‌ ‌ کو آگے کر چکے تھے ، انہوں نے نماز پڑھائی اور رسول اللہﷺ کو دو رکعتوں میں سے ایک ملی ۔ آپ نے آخری رکعت لوگوں کے ساتھ ادا کی ، چنانچہ جب حضرت عبد الرحمن بن عوف ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے سلام پھیرا تو رسول اللہﷺ اپنی نماز کی تکمیل کے لیے کھڑے ہو گئے ، اس بات نے مسلمانوں کو گھبراہٹ میں مبتلا کر دیا اور انہوں نے کثرت سے سبحان اللہ کہنا شروع کر دیا ، جب نبیﷺ نے اپنی نماز پوری کر لی تو ان کی طرف متوجہ ہوئے اور فرمایا : ’’ تم نے اچھا کیا ۔ ‘ ‘ یا فرمایا : ’’تم نے ٹھیک کیا ۔ ‘ ‘ آپ نے ان کی تحسین فرمائی کہ انہوں نے وقت پر نماز پڑھ لی تھی ۔",
+                "urduNarrator": "مجھ سے محمد بن رافع اور حسن بن علی الحلوانی نے عبدالرزاق کی سند سے بیان کیا، کہا: ہم سے عبدالرزاق نے بیان کیا، ہم سے ابن جریج نے بیان کیا,عباد بن زیاد کو عروہ بن مغیرہ بن شعبہ خبر دی کہ مغیرہ بن شعبہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے انہیں بتایا کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، وَحَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ، جَمِيعًا عَنْ عَبْدِ الرَّزَّاقِ، قَالَ ابْنُ رَافِعٍ: حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، حَدَّثَنِي ابْنُ شِهَابٍ، عَنْ حَدِيثِ عَبَّادِ بْنِ زِيَادٍ، أَنَّ عُرْوَةَ بْنَ الْمُغِيرَةِ بْنِ شُعْبَةَ، أَخْبَرَهُ أَنَّ الْمُغِيرَةَ بْنَ شُعْبَةَ «أَخْبَرَهُ أَنَّهُ غَزَا مَعَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ تَبُوكَ» قَالَ: الْمُغِيرَةُ «فَتَبَرَّزَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قِبَلَ الْغَائِطِ فَحَمَلْتُ مَعَهُ إِدَاوَةً قَبْلَ صَلَاةِ الْفَجْرِ، فَلَمَّا رَجَعَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِلَيَّ أَخَذْتُ أُهَرِيقُ عَلَى يَدَيْهِ مِنَ الْإِدَاوَةِ وَغَسَلَ يَدَيْهِ ثَلَاثَ مَرَّاتٍ ثُمَّ غَسَلَ وَجْهَهُ، ثُمَّ ذَهَبَ يُخْرِجُ جُبَّتَهُ عَنْ ذِرَاعَيْهِ، فَضَاقَ كُمَّا جُبَّتِهِ فَأَدْخَلَ يَدَيْهِ فِي الْجُبَّةِ، حَتَّى أَخْرَجَ ذِرَاعَيْهِ مِنْ أَسْفَلِ الْجُبَّةِ، وَغَسَلَ ذِرَاعَيْهِ إِلَى الْمِرْفَقَيْنِ، ثُمَّ تَوَضَّأَ عَلَى خُفَّيْهِ»، ثُمَّ أَقْبَلَ قَالَ: الْمُغِيرَةُ «فَأَقْبَلْتُ مَعَهُ حَتَّى نَجِدُ النَّاسَ قَدْ قَدَّمُوا عَبْدَ الرَّحْمَنِ بْنَ عَوْفٍ فَصَلَّى لَهُمْ فَأَدْرَكَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِحْدَى الرَّكْعَتَيْنِ فَصَلَّى مَعَ النَّاسِ الرَّكْعَةَ الْآخِرَةَ، فَلَمَّا سَلَّمَ عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ قَامَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يُتِمُّ صَلَاتَهُ فَأَفْزَعَ ذَلِكَ الْمُسْلِمِينَ فَأَكْثَرُوا التَّسْبِيحَ فَلَمَّا قَضَى النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ صَلَاتَهُ أَقْبَلَ عَلَيْهِمْ» ثُمَّ قَالَ: «أَحْسَنْتُمْ» أَوْ قَالَ: «قَدْ أَصَبْتُمْ» يَغْبِطُهُمْ أَنْ صَلَّوُا الصَّلَاةَ لِوَقْتِهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8517,
+                "hadithNumber": "953",
+                "englishNarrator": "This hadith is narrated by Hamza bin Mughira ‌رضی ‌اللہ ‌عنہ by another chain of transmitters (but with the addition of these words):",
+                "hadithEnglish": "I made up my mind to hold Abdul-Rahman bin 'Auf back, but the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: Leave him.",
+                "hadithUrdu": "میں نے عبد الرحمن بن عوف کو پیچھے کرنا چاہا تو نبیﷺ نے فرمایا : ’’اسے ( آگے ) رہنے دو ۔ ‘ ‘",
+                "urduNarrator": "ہم سے محمد بن رافع اور الحلوانی نے بیان کیا، انہوں نے کہا: ہم سے عبدالرزاق نے بیان کیا، ابن جریج کی سند سے، مجھ سے ابن شہاب نے بیان کیا,اسماعیل بن محمد بن سعد نے حمزہ بن مغیرہ سے روایت کی جو عباد کی روایت کی طرح ہے ۔ ( اس میں یہ بھی ہے کہ ) مغیرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، وَالْحُلْوَانِيُّ، قَالَ: حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنِ ابْنِ جُرَيْجٍ، حَدَّثَنِي ابْنُ شِهَابٍ، عَنْ إِسْمَاعِيلَ بْنِ مُحَمَّدِ بْنِ سَعْدٍ، عَنْ حَمْزَةَ بْنِ الْمُغِيرَةِ، نَحْوَ حَدِيثِ عَبَّادٍ، قَالَ الْمُغِيرَةُ: فَأَرَدْتُ تَأْخِيرَ عَبْدِ الرَّحْمَنِ فَقَالَ: النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ «دَعْهُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8518,
+                "hadithNumber": "954",
+                "englishNarrator": "Abu Huraira رضی ‌اللہ ‌عنہ ‌reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: Glorification of Allah is for men and clapping of hands is meant for women (if something happens in prayer). Harmala added in his narration that Ibn Shihab told him: I saw some of the scholars glorifying Allah and making a gesture.",
+                "hadithUrdu": "رسول اللہﷺ نے فرمایا : ’’ ( امام و متنبہ کرنے کا طریقہ ) مردوں کے لیے تسبیح ( سبحان اللہ کہنا ) ہے اور عورتوں کے ہاتھ پر ہاتھ مارنا ہے ۔ ‘ ‘ حرملہ نے اپنی روایت میں یہ اضافہ کیا کہ ابن شہاب نے کہا : میں نے علم والے لوگوں کو دیکھا ، وہ تسبیح کہتے تھے او ر اشارہ کرتے تھے",
+                "urduNarrator": "ابو بکر بن ابی شیبہ ، عمرو ناقد اور زہیر بن حرب نے کہا : ہمیں سفیان بن عیینہ نے زہری سے حدیث سنائی ، انہوں نے ابو سلمہ سے ، انہوں نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے اور انہوں نے نبیﷺ سے روایت کی ، نیز ہارون بن معروف اور حرملہ بن یحییٰ نے کہا : ہمیں ابن وہب نے بتایا ، انہوں نے کہا : مجھے یونس نے ابن شہاب کے حوالے سے خبر دی کہ انہوں نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے سنا ، وہ کہہ رہے تھے",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَمْرٌو النَّاقِدُ، وَزُهَيْرُ بْنُ حَرْبٍ، قَالُوا: حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، ِ عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ح وَحَدَّثَنَا هَارُونُ بْنُ مَعْرُوفٍ، وَحَرْمَلَةُ بْنُ يَحْيَى، قَالَا: أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي سعيدُ بْنُ الْمُسَيِّبِ، وَأَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، أَنَّهُمَا سَمِعَا أَبَا هُرَيْرَةَ يَقُولُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «التَّسْبِيحُ لِلرِّجَالِ وَالتَّصْفِيقُ لِلنِّسَاءِ» زَادَ حَرْمَلَةُ فِي رِوَايَتِهِ: قَالَ ابْنُ شِهَابٍ: وَقَدْ رَأَيْتُ رِجَالًا مِنْ أَهْلِ الْعِلْمِ يُسَبِّحُونَ وَيُشِيرُونَ.",
+                "headingArabic": "تَسْبِيحِ الرَّجُلِ وَتَصْفِيقِ الْمَرْأَةِ إِذَا نَابَهُمَا شَىْءٌ فِي الصَّلاَةِ ‏",
+                "headingUrdu": "مرد تسبیح پڑھتے ہیں اور عورتیں نماز کے دوران کوئی چیز نظر آنے پر تالیاں بجاتی ہیں۔",
+                "headingEnglish": "Men Saying The Tasbih And Women Clapping If They Notice Anything During The Prayer",
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8519,
+                "hadithNumber": "955",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith is narrated on the authority of Abu Huraira رضی ‌اللہ ‌عنہ by another chain of transmitters.",
+                "hadithUrdu": "ہم سے قتیبہ بن سعید نے بیان کیا، کہا ہم سے الفضیل نے بیان کیا، کہا ہم سے ابن عیاض نے بیان کیا، کہا ہم سے ابو کریب نے بیان کیا، کہا ہم سے ابو معاویہ نے بیان کیا، کہا ہم سے اسحاق بن ابرہ نے بیان کیا، کہا ہم سے عیسیٰ بن یونس نے بیان کیا، ان سب نے الاعمش کی سند سے بیان کیا،ابو صالح نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی اور انہوں نے نبیﷺ سے اسی ( سابقہ روایت ) کے مانند روایت بیان کی ہے ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا الْفُضَيْلُ يَعْنِي ابْنَ عِيَاضٍ، ح وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، كُلُّهُمْ عَنِ الْأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8520,
+                "hadithNumber": "956",
+                "englishNarrator": null,
+                "hadithEnglish": "A similar report was narrated from Abu Hurairah رضی ‌اللہ ‌عنہ ‌, from the prophet ‌ﷺ, and he added: (The tasbih is for men and clapping is for women) while praying.\"",
+                "hadithUrdu": "ہم سے محمد بن رافع نے بیان کیا، کہا ہم سے عبدالرزاق نے بیان کیا، کہا ہم سے معمر نے بیان کیا، وہ ہمام نے ابوہریرہ رضی اللہ عنہ سے کہ نبی اکرم صلی اللہ علیہ وسلم نے اسی طرح کی بات اور مزید «نماز میں.",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ وَزَادَ «فِي الصَّلَاةِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8521,
+                "hadithNumber": "957",
+                "englishNarrator": "Abu Huraira رضی ‌اللہ ‌عنہ ‌reported:",
+                "hadithEnglish": "One day the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) led the prayer. Then turning (towards his Companions) he said: O you, the man, why don't you say your prayer well? Does the observer of prayer not see how he is performing the prayer for he performs it for himself? By Allah, I see behind me as I see In front of me.",
+                "hadithUrdu": "ایک دن رسول اللہﷺ نے ( ہمیں ) نماز پڑھائی ، پھر سلام پھیرا اور فرمایا : ’’اے فلاں! تم اپنی نماز اچھی طرح نہیں پڑھ سکتے؟ کیا نمازی نماز پڑھتے وقت یہ نہیں دیکھتا ( غور کرتا ) کہ وہ نماز کیسے پڑھتا ہے؟ وہ اپنے ہی لیے نماز پڑھتا ہے ( کسی دوسرے کےلیے نہیں ۔ ) اللہ کی قسم! میں اپنے پیچھے بھی اسی طرح دیکھتا ہون جس طرح سامنے دیکھتا ہوں.",
+                "urduNarrator": "ہم سے ابو کریب محمد بن علاء الہمدانی نے بیان کیا، کہا ہم سے ابو اسامہ نے الولید کی سند سے بیان کیا، یعنی ابن کثیر نے,سعید کے والد ابو سعید مقبری نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو كُرَيْبٍ مُحَمَّدُ بْنُ الْعَلَاءِ الْهَمْدَانِيُّ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنِ الْوَلِيدِ يَعْنِي ابْنَ كَثِيرٍ، حَدَّثَنِي سَعِيدُ بْنُ أَبِي سَعِيدٍ الْمَقْبُرِيُّ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: صَلَّى رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَوْمًا ثُمَّ انْصَرَفَ فَقَالَ: «يَا فُلَانُ، أَلَا تُحْسِنُ صَلَاتَكَ؟ أَلَا يَنْظُرُ الْمُصَلِّي إِذَا صَلَّى كَيْفَ يُصَلِّي؟ فَإِنَّمَا يُصَلِّي لِنَفْسِهِ، إِنِّي وَاللهِ لَأُبْصِرُ مِنْ وَرَائِي كَمَا أُبْصِرُ مِنْ بَيْنِ يَدَيَّ.",
+                "headingArabic": "الأَمْرِ بِتَحْسِينِ الصَّلاَةِ وَإِتْمَامِهَا وَالْخُشُوعِ فِيهَا ‏",
+                "headingUrdu": "نماز کو صحیح طریقے سے ادا کرنے، اسے مکمل کرنے اور اس میں خشوع کرنے کا حکم",
+                "headingEnglish": "The Command To Perform The Prayer Properly, To Complete It, And To Have Khushu' In It",
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8522,
+                "hadithNumber": "958",
+                "englishNarrator": "Abu Huraira ‌رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: Do you find me seeing towards the Qibla only? By Allah, your bowing and your prostrating are not hidden from my view. Verily I see them behind my back.",
+                "hadithUrdu": "رسول اللہﷺ نے فرمایا : ’’کیا تم سمجھتے ہو کہ میرا رخ ادھر ( سامنے ) ہی ہے؟ اللہ کی قسم! مجھ پر نہ تمہارا رکوع مخفی ہے اور نہ تمہارا سجدہ ، یقینا میں تمہیں اپنے پیچھے بھی دیکھتا ہوں ۔ ‘ ‘",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے مالک بن انس سے اور ابو الزناد کی سند سے بیان کیا,اعرج نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، عَنْ مَالِكِ بْنِ أَنَسٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الْأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «هَلْ تَرَوْنَ قِبْلَتِي هَا هُنَا؟ فَوَاللهِ مَا يَخْفَى عَلَيَّ رُكُوعُكُمْ، وَلَا سُجُودُكُمْ إِنِّي لَأَرَاكُمْ وَرَاءَ ظَهْرِي».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8523,
+                "hadithNumber": "959",
+                "englishNarrator": "Anas ‌رضی ‌اللہ ‌عنہ ‌reported:",
+                "hadithEnglish": "The Apostle of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: Complete the bowing and prostration well. By Allah, I see you behind my back as to how you bow and prostrate or when you bow and prostrate.",
+                "hadithUrdu": "نبیﷺ نے فرمایا : ’’ رکوع اور سجدہ پوری طرح کیا کرو ، اللہ کی قسم! میں تمہیں اپنے پیچھے ( بھی ) دیکھتا ہوں ۔ ‘ ‘ ( بلکہ ) غالباً آپ نے اس طرح فرمایا : ’’ جب تم رکوع اور سجدہ کرتے ہو تو میں تمہیں اپنی پیٹھ پیچھے بھی دیکھتا ہوں ۔ ‘ ‘",
+                "urduNarrator": "مجھ سے ابو غسان المسمعی نے بیان کیا، کہا کہ معاذ یعنی ابن ہشام نے بیان کیا، کہا کہ مجھ سے میرے والد حذیفہ نے بیان کیا، اور ہم سے محمد بن المثنیٰ نے بیان کیا، کہا ہم سے ابن ابی عدی نے ص کے ہاتھ سے بیان کیا, میں نے قتادہ سے سنا ، وہ حضرت انس بن مالک ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کر رہے تھے کہ",
+                "hadithArabic": "حَدَّثَنِي أَبُو غَسَّانَ الْمِسْمَعِيُّ، حَدَّثَنَا مُعَاذٌ يَعْنِي ابْنَ هِشَامٍ، حَدَّثَنِي أَبِي، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ سَعِيدٍ، كِلَاهُمَا عَنْ قَتَادَةَ، عَنْ أَنَسٍ أَنَّ نَبِيَّ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «أَتِمُّوا الرُّكُوعَ وَالسُّجُودَ فَوَاللهِ، إِنِّي لَأَرَاكُمْ مِنْ بَعْدِ ظَهْرِي إِذَا مَا رَكَعْتُمْ، وَإِذَا مَا سَجَدْتُمْ» وَفِي حَدِيثِ سَعِيدٍ إِذَا رَكَعْتُمْ وَإِذَا سَجَدْتُمْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8524,
+                "hadithNumber": "960",
+                "englishNarrator": "It was narrated from Anas رضی ‌اللہ ‌عنہ ‌:",
+                "hadithEnglish": "The prophet of Allah ﷺ said: \"Complete the bowing and prostration, for by Allah, I can see you behind my back when you bow and prostrate.\"",
+                "hadithUrdu": "نبی اکرمﷺ نے فرمایا : ’’ رکوع اور سجدہ کو مکمل کرو ، اللہ کی قسم! جب بھی تم رکوع کرتے ہو اور جب بھی تم سجدہ کرتے ہو تو میں اپنی پیٹھ پیچھے تمہیں دیکھتا ہوں ۔ ‘ ‘ اور سعید کی روایت میں ( إذا ما ركعتم وإذا ما سجدتم کے بجائے ) إذا ركعتم وسجدتم ’’جب تم رکوع اور سجدہ کرتے ہو ۔ ‘ ‘ کے الفاظ ہیں ۔ یعنی سعید کی روایت میں اذا کے بعد دونوں جگہ ما کا لفظ نہیں ہے ۔",
+                "urduNarrator": "مجھ سے ابوغسان المسمعی نے بیان کیا، کہا کہ مجھ سے معاذ یعنی ابن ہشام نے بیان کیا، کہا کہ مجھ سے میرے والد حذیفہ نے بیان کیا، اور ہم سے محمد بن المثنیٰ نے بیان کیا، کہا ہم سے ابن ابی عدی نے  ہاتھ کی سند سے بیان کیا,قتادہ سے ( شعبہ کے بجائے دستوائی والے ) ہشام اور سعید نے اپنی اپنی سند کے ساتھ حضرت انس ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنِي أَبُو غَسَّانَ الْمِسْمَعِيُّ، حَدَّثَنَا مُعَاذٌ يَعْنِي ابْنَ هِشَامٍ، حَدَّثَنِي أَبِي، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ سَعِيدٍ، كِلَاهُمَا عَنْ قَتَادَةَ، عَنْ أَنَسٍ أَنَّ نَبِيَّ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «أَتِمُّوا الرُّكُوعَ وَالسُّجُودَ فَوَاللهِ، إِنِّي لَأَرَاكُمْ مِنْ بَعْدِ ظَهْرِي إِذَا مَا رَكَعْتُمْ، وَإِذَا مَا سَجَدْتُمْ» وَفِي حَدِيثِ سَعِيدٍ إِذَا رَكَعْتُمْ وَإِذَا سَجَدْتُمْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8525,
+                "hadithNumber": "961",
+                "englishNarrator": "Anas رضی اللہ عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) one day led us in the prayer. and when he completed the Prayer he turned his face towards us and said: O People, I am your Imam, so do not precede me in bowing and prostration and in standing and turning (faces, i. e. In pronouncing salutation), for I see you in front of me and behind me, and then said: By Him in Whose hand Is the life of Muhammad, if you could see what I see, you would have laughed little and wept much more. They said: What did you see, Messenger of Allah? He replied: (I saw) Paradise and Hell.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ایک دن نماز پڑھانے کے فوراً ہی بعد ہماری طرف متوجہ ہو کر فرمایا: ”لوگو! میں تمہارا امام ہوں۔ اس لئے مجھ سے پہلے رکوع، سجدہ، قومہ اور سلام نہ پھیرو۔ میں آگے اور پیچھے سے تم کو دیکھتا ہوں۔ اور قسم ہے اس ذات کی جس کے قبضہ میں میری جان ہے جو چیزیں میں دیکھتا ہوں اگر تم انہیں دیکھ لو تو ہنسو کم اور روؤ زیادہ“، لوگوں نے پوچھا: یا رسول اللہ! آپ نے کیا دیکھا ہے؟ ارشاد ہوا ”میں نے جنت اور دوزخ دیکھی ہے۔“",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ اور علی بن حجر نے بیان کیا - اور یہ قول ابوبکر کا ہے ابن حجر نے کہا: ہم سے انہوں نے بیان کیا اور ابوبکر نے کہا - ہم سے علی نے مختار بن فلفل سے بیان کیا،‏‏‏‏ سیدنا انس رضی اللہ عنہ کا بیان ہے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَلِيُّ بْنُ حُجْرٍ، - وَاللَّفْظُ لِأَبِي بَكْرٍ قَالَ ابْنُ حُجْرٍ: أَخْبَرَنَا، وَقَالَ أَبُو بَكْرٍ - حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنِ الْمُخْتَارِ بْنِ فُلْفُلٍ، عَنْ أَنَسٍ، قَالَ: صَلَّى بِنَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ذَاتَ يَوْمٍ فَلَمَّا قَضَى الصَّلَاةَ أَقْبَلَ عَلَيْنَا بِوَجْهِهِ، فَقَالَ: «أَيُّهَا النَّاسُ، إِنِّي إِمَامُكُمْ، فَلَا تَسْبِقُونِي بِالرُّكُوعِ وَلَا بِالسُّجُودِ، وَلَا بِالْقِيَامِ وَلَا بِالِانْصِرَافِ، فَإِنِّي أَرَاكُمْ أَمَامِي وَمِنْ خَلْفِي» ثُمَّ قَالَ: «وَالَّذِي نَفْسُ مُحَمَّدٍ بِيَدِهِ، لَوْ رَأَيْتُمْ مَا رَأَيْتُ لَضَحِكْتُمْ قَلِيلًا وَلَبَكَيْتُمْ كَثِيرًا» قَالُوا: وَمَا رَأَيْتَ يَا رَسُولَ اللهِ قَالَ: «رَأَيْتُ الْجَنَّةَ وَالنَّارَ.",
+                "headingArabic": "النَّهْىِ عَنْ سَبْقِ الإِمَامِ، بِرُكُوعٍ أَوْ سُجُودٍ وَنَحْوِهِمَا ‏",
+                "headingUrdu": "رکوع، سجدہ وغیرہ میں امام سے آگے نکلنے کی ممانعت",
+                "headingEnglish": "The Prohibition Of Preceding The Imam While Bowing, Prostrating And So On",
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8526,
+                "hadithNumber": "962",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith is narrated by Anas رضی ‌اللہ ‌عنہ ‌with another chain of transmitters, and in the hadith transmitted by Jarir there is no mention of turning (faces) .",
+                "hadithUrdu": "ہم سے قتیبہ بن سعید نے بیان کیا,( علی بن مسہر کے بجائے ) جریر اور ابن فضیل دونوں نے اپنی اپنی سند سے مختار بن فلفل سے روایت کی ، انہوں نے حضرت انس ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی اور انہوں نے نبیﷺ سے مذکورہ بالا روایت بیان کی ، جریر کی حدیث میں ’’نہ سلام پھیرنے میں ‘ ‘ کے الفاظ نہیں ۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا جَرِيرٌ، ح وَحَدَّثَنَا ابْنُ نُمَيْرٍ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، عَنِ ابْنِ فُضَيْلٍ، جَمِيعًا عَنِ الْمُخْتَارِ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِهَذَا الْحَدِيثِ وَلَيْسَ فِي حَدِيثِ جَرِيرٍ «وَلَا بِالِانْصِرَافِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8527,
+                "hadithNumber": "963",
+                "englishNarrator": "Abu Huraira رضی ‌اللہ ‌عنہ ‌reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: Does the man who lifts his head ahead of the Imam (from prostration) not fear that Allah may change his head into the head of an ass?",
+                "hadithUrdu": "محمدﷺ نے فرمایا : ’’جو شخص امام سے پہلے ( رکوع وسجود سے ) سر اٹھاتا ہے کیا وہ اس بات سے نہیں ڈرتا کہ اللہ تعالیٰ اس کے سرکو گدھے کے سر جیسا بنا دے؟ ‘ ‘",
+                "urduNarrator": "ہم سے خلف بن ہشام، ابو الربیع الزہرانی اور قتیبہ بن سعید نے بیان کیا, حماد بن زید نے محمد بن زیاد سے حدیث بیان کی ، انہوں نے کہا : ہمیں حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے حدیث سنائی کہ",
+                "hadithArabic": "حَدَّثَنَا خَلَفُ بْنُ هِشَامٍ، وَأَبُو الرَّبِيعِ الزَّهْرَانِيُّ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، كُلُّهُمْ عَنْ حَمَّادٍ، قَالَ: خَلَفٌ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ مُحَمَّدِ بْنِ زِيَادٍ، حَدَّثَنَا أَبُو هُرَيْرَةَ قَالَ: قَالَ مُحَمَّدٌ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «أَمَا يَخْشَى الَّذِي يَرْفَعُ رَأْسَهُ قَبْلَ الْإِمَامِ، أَنْ يُحَوِّلَ اللهُ رَأْسَهُ رَأْسَ حِمَارٍ؟»",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8528,
+                "hadithNumber": "964",
+                "englishNarrator": "Abu Huraira رضی ‌اللہ ‌عنہ ‌reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: Does the man who lifts his head before the Imam not fear that Allah may change his face into that of an ass?",
+                "hadithUrdu": "رسول اللہﷺ نے فرمایا : ’’ جو شخص اپنی نماز میں امام سے پہلے سر اٹھاتا ہے وہ اس بات سے محفوظ نہیں کہ اللہ تعالیٰ اس کی صورت گدھے کی صورت میں بدل دے",
+                "urduNarrator": "ہم سے عمرو ناقد اور زہیر بن حرب نے بیان کیا، کہا کہ ہم سے اسماعیل بن ابراہیم نے بیان کیا,یونس نے محمد بن زیاد سے اور انہوں نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+                "hadithArabic": "دَّثَنَا عَمْرٌو النَّاقِدُ، وَزُهَيْرُ بْنُ حَرْبٍ، قَالَا: حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، عَنْ يُونُسَ، عَنْ مُحَمَّدِ بْنِ زِيَادٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَا يَأْمَنُ الَّذِي يَرْفَعُ رَأْسَهُ فِي صَلَاتِهِ قَبْلَ الْإِمَامِ أَنْ يُحَوِّلَ اللهُ صُورَتَهُ فِي صُورَةِ حِمَارٍ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8529,
+                "hadithNumber": "965",
+                "englishNarrator": "This hadith has been narrated by Abu Huraira رضی ‌اللہ ‌عنہ by another chain of transmitters except for the words narrated by Rabi' bin Muslim:",
+                "hadithEnglish": "Allah may make his face like the face of an ass.",
+                "hadithUrdu": "’’اور اللہ اس کا چہرہ گدھے کا چہرہ بنا دے ‘ ‘ کے الفاظ ہیں ۔",
+                "urduNarrator": "ہم سے عبدالرحمٰن بن سلام الجمعی اور عبدالرحمٰن بن ربیع بن مسلم نے بیان کیا، ربیع بن مسلم ، شعبہ اور حماد بن سلمہ سب نے مختلف سندوں سے محمد بن زیاد سے اور انہوں نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی اور انہوں نے یہی روایت نبیﷺ سے بیان کی ۔ ( ان راویوں میں سے ) ربیع بن مسلم کی حدیث میں ( اس کی صورت بدل دے کے بجائے )",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ سَلَّامٍ الْجُمَحِيُّ، وَعَبْدُ الرَّحْمَنِ بْنُ الرَّبِيعِ بْنِ مُسْلِمٍ، جَمِيعًا عَنِ الرَّبِيعِ بْنِ مُسْلِمٍ، ح وَحَدَّثَنَا عُبَيْدُ اللهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنْ حَمَّادِ بْنِ سَلَمَةَ، كُلُّهُمْ عَنْ مُحَمَّدِ بْنِ زِيَادٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِهَذَا غَيْرَ أَنَّ فِي حَدِيثِ الرَّبِيعِ بْنِ مُسْلِمٍ، «أَنْ يَجْعَلَ اللهُ وَجْهَهُ وَجْهَ حِمَارٍ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8530,
+                "hadithNumber": "966",
+                "englishNarrator": "Jabir bin Samura رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: The people who lift their eyes towards the sky in Prayer should avoid it or they would lose their eyesight.",
+                "hadithUrdu": "رسول اللہﷺ نے فرمایا : ’’جو لوگ نماز میں اپنی نظریں آسمان کی طرف اٹھاتے ہیں وہ ہر صورت ( اپنی اس حرکت سے ) باز آ جائیں ورنہ ( ہو سکتا ہے ان کی نظر ) ان کی طرف نہ لوٹے ( سلب کر لی جائے ۔ ) ‘ ‘",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ اور ابو کریب نے بیان کیا، کہا: ہم سے ابو معاویہ نے الاعمش کی سند سے، مسیب کی سند سے، تمیم بن  طَرفہ سے,حضرت جابر بن سمرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت ہے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ، قَالَا: حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الْأَعْمَشِ، عَنِ الْمُسَيِّبِ، عَنْ تَمِيمِ بْنِ طَرَفَةَ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لَيَنْتَهِيَنَّ أَقْوَامٌ يَرْفَعُونَ أَبْصَارَهُمْ إِلَى السَّمَاءِ فِي الصَّلَاةِ، أَوْ لَا تَرْجِعُ إِلَيْهِمْ».",
+                "headingArabic": "النَّهْىِ عَنْ رَفْعِ الْبَصَرِ، إِلَى السَّمَاءِ فِي الصَّلاَةِ ‏",
+                "headingUrdu": "نماز کی حالت میں آسمان کی طرف نگاہ اٹھانے کی ممانعت",
+                "headingEnglish": "The Prohibition On Lifting Ones Gaze To The Heavens When in Salat",
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8531,
+                "hadithNumber": "967",
+                "englishNarrator": "Abu Huraira رضی ‌اللہ ‌عنہ ‌reported:",
+                "hadithEnglish": "The Messenger of Allah ﷺ said: People should avoid lifting their eyes towards the sky while supplicating in prayer, otherwise their eyes would be snatched away.",
+                "hadithUrdu": "رسول اللہﷺ نے فرمایا : ’’ لوگ نماز میں دعا کے وقت اپنی نظریں آسمان کی طرف بلند کرنے سے لازما باز آ جائیں یا ( پھر ایسا ہو سکتا ہے کہ ) ان کی نظریں اچک لی جائیں ۔ ‘ ‘",
+                "urduNarrator": "مجھ سے ابو الطاہر اور عمرو بن سواد نے بیان کیا، انہوں نے کہا: ہم سے ابن وہب نے بیان کیا، انہیں لیث بن سعد نے، جعفر بن ربیعہ سے، انہوں نے عبدالرحمٰن العراج کی طرف سے, حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت ہے کہ",
+                "hadithArabic": "حَدَّثَنِي أَبُو الطَّاهِرِ، وَعَمْرُو بْنُ سَوَّادٍ، قَالَا: أَخْبَرَنَا ابْنُ وَهْبٍ، حَدَّثَنِي اللَّيْثُ بْنُ سَعْدٍ، عَنْ جَعْفَرِ بْنِ رَبِيعَةَ، عَنْ عَبْدِ الرَّحْمَنِ الْأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَيَنْتَهِيَنَّ أَقْوَامٌ عَنْ رَفْعِهِمْ أَبْصَارَهُمْ عِنْدَ الدُّعَاءِ فِي الصَّلَاةِ إِلَى السَّمَاءِ، أَوْ لَتُخْطَفَنَّ أَبْصَارُهُمْ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8532,
+                "hadithNumber": "968",
+                "englishNarrator": "Jabir bin Samura رضی اللہ عنہما reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) came to us and said: How is it that I see you lifting your hands like the tails of headstrong horses? Be calm in prayer. He (the narrator) said: He then again came to us and saw us (sitting) in circles; he said: How is it that I see you in separate groups? He (the narrator) said: He again came to us and said: Why don't you draw yourselves up in rows as angels do in the presence of their Lord? We said: Messenger of Allah, bow do the angels draw themselves up in rows in the presence of their Lord? He (the Holy Prophet) said: They make the first rows complete and keep close together in the row.",
+                "hadithUrdu": "رسول اللہﷺ نکل کر ہمارے پاس تشریف لائے اور فرمایا : ’’ کیا وجہ ہے کہ میں تمہیں نماز میں اس طرح ہاتھ اٹھاتے دیکھ رہا ہوں ، جیسے وہ بدکتے ہوئے سرکش گھوڑوں کی دُمیں ہوں؟ ( ہاتھ اٹھا کر دائیں بائیں گھوڑے کی دم کی طرح کیوں ہلاتے ہو ۔ دیکھیے ، حدیث : 970 ۔ 971 ) نماز میں پرسکون رہو ۔ ‘ ‘ انہوں نے کہا : پھر آپ ( ایک اور موقع پر ) تشریف لائے اور ہمیں مختلف حلقوں میں بیٹھے دیکھا تو فرمایا : ’’ کیا وجہ ہے کہ تمہیں ٹولیوں میں ( بٹا ہوا ) دیکھ رہا ہوں؟ ‘ ‘ پھر ( ایک اور موقع پر ) تشریف لائے تو فرمایا : ’’ تم اس طرح صف بندی کیوں نہیں کرتے جس طرح بارگاہ الٰہی میں فرشتے صف بستہ ہوتے ہیں؟ ‘ ‘ ہم نے پوچھا : اے اللہ کے رسول! فرشتے صف بستہ ہوتے ہیں؟ ‘ ‘ ہم نے پوچھا : اے اللہ کے رسول! فرشتے اللہ تعالیٰ کی بارگاہ میں کس طرح صف بندی کرتے ہیں؟ آپ نے فرمایا : ’’ وہ پہلی صفوں کو مکمل کرتے ہیں اور صف میں ایک دوسرے کے ساتھ جڑ کر کھڑے ہوتے ہیں ۔ ‘ ‘",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ اور ابو کریب نے بیان کیا، انہوں نے کہا,ابو معاویہ نے اعمش سے ، انہوں نے مسیب بن رافع سے ، انہوں نے تمیم بن طرفہ سے اور انہوں نے حضرت جابر بن سمرہ رضی اللہ عنہما سے روایت کی ، انہوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ، قَالَا: حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الْأَعْمَشِ، عَنِ الْمُسَيَّبِ بْنِ رَافِعٍ، عَنْ تَمِيمِ بْنِ طَرَفَةَ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ: خَرَجَ عَلَيْنَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: «مَا لِي أَرَاكُمْ رَافِعِي أَيْدِيكُمْ كَأَنَّهَا أَذْنَابُ خَيْلٍ شُمْسٍ؟ اسْكُنُوا فِي الصَّلَاةِ» قَالَ: ثُمَّ خَرَجَ عَلَيْنَا فَرَآنَا حَلَقًا فَقَالَ: «مَالِي أَرَاكُمْ عِزِينَ» قَالَ: ثُمَّ خَرَجَ عَلَيْنَا فَقَالَ: «أَلَا تَصُفُّونَ كَمَا تَصُفُّ الْمَلَائِكَةُ عِنْدَ رَبِّهَا؟» فَقُلْنَا يَا رَسُولَ اللهِ، وَكَيْفَ تَصُفُّ الْمَلَائِكَةُ عِنْدَ رَبِّهَا؟ قَالَ: «يُتِمُّونَ الصُّفُوفَ الْأُوَلَ وَيَتَرَاصُّونَ فِي الصَّفِّ.",
+                "headingArabic": "الأَمْرِ بَالسُّكُونِ فِي الصَّلاَةِ وَالنَّهْيِ عَنِ الإِشَارَةِ بِالْيَدِ وَرَفْعِهَا عِنْدَ السَّلاَمِ وَإِتْمَامِ الصُّفُوفِ الأُوَلِ وَالتَّرَاصِّ فِيهَا وَالأَمْرِ بِالاِجْتِمَاعِ",
+                "headingUrdu": "نماز کے دوران پرسکون رہنے کا حکم اور سلام کرتے وقت ہاتھ سے اشارہ کرنے اور اٹھانے کی ممانعت؛ اور پہلی قطاریں مکمل کرنا، ان میں صف بندی کرنا، اور ایک ساتھ آنے کا حکم",
+                "headingEnglish": "The Command To Be Calm During The Prayer And The Prohibition Of Gesturing With One's Hand And Raising It When Saying The Salam; And Completing The First Rows, Aligning In Them, And The Command To Come Together",
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8533,
+                "hadithNumber": "969",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated by A'mash with the same chain of transmitters.",
+                "hadithUrdu": "مجھ سے ابو سعید اشجج نے بیان کیا، انہوں نے وکیع اور عیسیٰ بن یونس نے ( اپنی اپنی سند سے روایت کرتے ہوئے ) کہا : ہمیں اعمش نے اسی سند کے ساتھ مذکورہ بالا حدیث بیان کی.",
+                "urduNarrator": null,
+                "hadithArabic": "وَحَدَّثَنِي أَبُو سَعِيدٍ الْأَشَجُّ، حَدَّثَنَا وَكِيعٌ، ح وحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، قَالَا: جَمِيعًا حَدَّثَنَا الْأَعْمَشُ بِهَذَا الْإِسْنَادِ نَحْوَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8534,
+                "hadithNumber": "970",
+                "englishNarrator": "Jabir bin Samura رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "When we said prayer with the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), we pronounced: Peace be upon you and Mercy of Allah, peace be upon you and Mercy of Allah, and made gesture with the hand on both the sides. Upon this the Messenger of Allah (may peace be upon him said: What do you point out with your hands as if they are the tails of headstrong horses? This is enough for you that one should place one's hand on one's thigh and then pronounce salutation upon one's brother on the right side and then on the left.",
+                "hadithUrdu": "جب ہم رسول اللہﷺ کے ساتھ نماز پڑھتے تو ہم کہتے : السلام عليكم ورحمة الله ، السلام عليكم ورحمة الله اور انہوں نے اپنے ہاتھ سے دونوں جانب اشارہ کیا ، چنانچہ رسول اللہﷺ نے فرمایا : ’’ اپنے ہاتھوں کے ساتھ اشارہ کیوں کرتے ہو ، جیسے وہ بدکتے ہوئے سرکش گھوڑوں کی دُمیں ہوں؟ تم میں سے ( ہر ) ایک کے لیے بس یہی کافی ہے کہ اپنے ہاتھ اپنی ران پر رکھے ، پھر اپنے بھائی کو سلام کرے جو دائیں جانب ہے اور ( جو ) بائیں جانب ( ہے ۔ ) ‘ ‘",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، انہوں نے کہا کہ ہم سے وکیع نے بیان کیا, مسعر نے کہا , مجھ سے عبید اللہ ابن قبطیہ نے حضرت جابر بن سمرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت بیان کی ، انہوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، قَالَ: حَدَّثَنَا وَكِيعٌ، عَنْ مِسْعَرٍ، ح وَحَدَّثَنَا أَبُو كُرَيْبٍ، وَاللَّفْظُ لَهُ قَالَ: أَخْبَرَنَا ابْنُ أَبِي زَائِدَةَ، عَنْ مِسْعَرٍ، حَدَّثَنِي عُبَيْدُ اللهِ بْنُ الْقِبْطِيَّةِ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ: كُنَّا إِذَا صَلَّيْنَا مَعَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قُلْنَا: السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ، وَأَشَارَ بِيَدِهِ إِلَى الْجَانِبَيْنِ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «عَلَامَ تُومِئُونَ بِأَيْدِيكُمْ كَأَنَّهَا أَذْنَابُ خَيْلٍ شُمْسٍ؟ إِنَّمَا يَكْفِي أَحَدَكُمْ أَنْ يَضَعَ يَدَهُ عَلَى فَخِذِهِ ثُمَّ يُسَلِّمُ عَلَى أَخِيهِ مَنْ عَلَى يَمِينِهِ، وَشِمَالِهِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8535,
+                "hadithNumber": "971",
+                "englishNarrator": "Jabir bin Samura رضی ‌اللہ ‌عنہ ‌reported:",
+                "hadithEnglish": "We said our prayer with the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and, while pronouncing salutations, we made gestures with our hands (indicating) Peace be upon you, peace be upon you. The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) looked towards us and said: Why is it that you make gestures with your hands like the tails of headstrong horses? When any one of you pronounces salutation (in prayer) he should only turn his face towards his companion and should not make a gesture with his hand.",
+                "hadithUrdu": "میں نے رسول اللہﷺ کے ساتھ نماز پڑھی ہم لوگ جب سلام پھیرتے تو ہاتھوں کے اشارے سے السلام عليكم ، السلام عليكم کہتے تھے ، رسول اللہﷺ نے ہماری طرف دیکھا اور فرمایا : ’’کیا وجہ ہے کہ تم ہاتھوں سے اس طرح اشارہ کرتے ہو ، جیسے وہ بدکتے ہوئے سرکش گھوڑوں کی دمیں ہوں؟ تم میں سے کوئی جب سلام پھیرے تو اپنے ساتھی کی طرف رخ کرے اور ہاتھ سے اشارہ نہ کرے ۔ ‘ ‘",
+                "urduNarrator": "ہم سے القاسم بن زکریا نے بیان کیا، کہا ہم سے عبید اللہ بن موسیٰ نے بیان کیا، ان سے اسرائیل کے بارے میں,فرات قزاز نے عبید اللہ سے اور انہوں نے حضرت جابر بن سمرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ، کہا",
+                "hadithArabic": "وَحَدَّثَنَا الْقَاسِمُ بْنُ زَكَرِيَّا، حَدَّثَنَا عُبَيْدُ اللهِ بْنُ مُوسَى، عَنْ إِسْرَائِيلَ، عَنْ فُرَاتٍ يَعْنِي الْقَزَّازَ، عَنْ عُبَيْدِ اللهِ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ: صَلَّيْتُ مَعَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَكُنَّا إِذَا سَلَّمْنَا قُلْنَا بِأَيْدِينَا: السَّلَامُ عَلَيْكُمْ، السَّلَامُ عَلَيْكُمْ، فَنَظَرَ إِلَيْنَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: «مَا شَأْنُكُمْ تُشِيرُونَ بِأَيْدِيكُمْ كَأَنَّهَا أَذْنَابُ خَيْلٍ شُمْسٍ؟ إِذَا سَلَّمَ أَحَدُكُمْ فَلْيَلْتَفِتْ إِلَى صَاحِبِهِ، وَلَا يُومِئْ بِيَدِهِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8536,
+                "hadithNumber": "972",
+                "englishNarrator": "Abu Mas'ud رضی ‌اللہ ‌عنہ ‌reported: The Messenger of Allah (may peace he upon him) used to touch our shoulders in prayer and say:",
+                "hadithEnglish": "Keep straight, don't be irregular, for there would be dissension in your hearts. Let those of you who are sedate and prudent be near me, then those who are next to them, then those who are next to them. Abu Mas'ud ‌رضی ‌اللہ ‌عنہ said: Now-a-days there is much dissension amongst you.",
+                "hadithUrdu": "رسول اللہﷺ نماز میں ( ہمیں برابر کھڑا کرنے کے لیے ) ہمارے کندھوں کو ہاتھ لگا کر فرماتے : ’’برابر ہو جاؤ اور جدا جدا کھڑے نہ ہو کہ اس سے تمہارے دل باہم مختلف ہو جائیں ، میرے ساتھ تم میں سے پختہ عقل والے دانش مند ( کھڑے ) ہوں ، ان کے بعد وہ جو ( دانش مندی میں ) ان کے قریب ہوں ، پھر وہ جو ان کے قریب ہوں ۔ ‘ ‘ ابو مسعود ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے فرمایا : آج تم ایک دوسرے سے شدید ترین اختلاف رکھتے ہو ۔",
+                "urduNarrator": "عبد اللہ بن ادریس ، ابو معاویہ اور وکیع نے اعمش سے روایت کی ، انہوں نے عمارہ بن عمیر تیمی سے ، انہوں نے ابو معمر سے اور انہوں نے حضرت ابو مسعود ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "122 - (432) حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللهِ بْنُ إِدْرِيسَ، وَأَبُو مُعَاوِيَةَ، وَوَكِيعٌ، عَنِ الْأَعْمَشِ، عَنْ عُمَارَةَ بْنِ عُمَيْرٍ التَّيْمِيِّ، عَنْ أَبِي مَعْمَرٍ، عَنْ أَبِي مَسْعُودٍ، قَالَ: كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَمْسَحُ مَنَاكِبَنَا فِي الصَّلَاةِ، وَيَقُولُ: «اسْتَوُوا، وَلَا تَخْتَلِفُوا، فَتَخْتَلِفَ قُلُوبُكُمْ، لِيَلِنِي مِنْكُمْ أُولُو الْأَحْلَامِ وَالنُّهَى ثُمَّ الَّذِينَ يَلُونَهُمْ، ثُمَّ الَّذِينَ يَلُونَهُمْ» قَالَ أَبُو مَسْعُودٍ: «فَأَنْتُمُ الْيَوْمَ أَشَدُّ اخْتِلَافًا».",
+                "headingArabic": "تَسْوِيَةِ الصُّفُوفِ وَإِقَامَتِهَا وَفَضْلِ الأَوَّلِ فَالأَوَّلِ مِنْهَا وَالاِزْدِحَامِ عَلَى الصَّفِّ الأَوَّلِ وَالْمُسَابَقَةِ إِلَيْهَا وَتَقْدِيمِ أُولِي الْفَضْلِ وَتَقْرِيبِهِمْ مِنَ الإِمَامِ",
+                "headingUrdu": "قطاروں کو سیدھا کرنا؛ اگلی صف کی فضیلت اور پھر اگلی؛ اگلی صف کے لیے ایک دوسرے سے مقابلہ کرنا؛ اہل فضیلت کو مقدم ہونا چاہیے اور امام کے قریب ہونا چاہیے۔",
+                "headingEnglish": "Straightening The Rows; The Virtue Of The Front Row And Then The Next; Competing With One Another For The Front Row; The People Of Virtue Should Take Precedence And Be Closest To The Imam",
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8537,
+                "hadithNumber": "973",
+                "englishNarrator": "",
+                "hadithEnglish": "This hadith is narrated by Ibn Uyaina with the same chain of transmitters.",
+                "hadithUrdu": "جریر ، عیسیٰ بن یونس اور سفیان بن عیینہ نے ( اعمش سے ) باقی ماندہ اسی سند کے ساتھ مذکورہ بالا روایت بیان کی ۔",
+                "urduNarrator": "",
+                "hadithArabic": "وَحَدَّثَنَاهُ إِسْحَاقُ، أَخْبَرَنَا جَرِيرٌ ح، قَالَ: وَحَدَّثَنَا ابْنُ خَشْرَمٍ، أَخْبَرَنَا عِيسَى يَعْنِي ابْنَ يُونُسَ ح، قَالَ: وَحَدَّثَنَا ابْنَ أَبِي عُمَرَ، حَدَّثَنَا ابْنُ عُيَيْنَةَ، بِهَذَا الْإِسْنَادِ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8538,
+                "hadithNumber": "974",
+                "englishNarrator": "Abdullah bin Mas'ud رضی ‌اللہ ‌عنہ ‌reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: Let those who are sedate and prudent be near me, then those who are next to them (saying it tliree tinies), and beware of the tumult of the markets.",
+                "hadithUrdu": "رسول اللہﷺ نے فرمایا : ’’ میرے ساتھ تم میں سے پختہ عقل والے اور دانش مند کھڑے ہوں ، پھر وہ جو ( اس میں ) ان کے قریب ہوں ( پھر وہ جو ان کے قریب ہوں ، پھر وہ جو ان کے قریب ہوں ) تین بار فرمایا : اور تم بازاروں کے گڈ مڈ گروہ ( بننے ) سے بچو ۔ ‘ ‘",
+                "urduNarrator": "ہم سے یحییٰ بن حبیب الحارثی اور صالح بن حاتم بن وردان نے بیان کیا، انہوں نے کہا: ہم سے یزید بن زرعی نے بیان کیا، مجھ سے خالد الحدیث نے بیان کیا، انہوں نے ابو معشر کی سند سے، انہوں نے ابراہیم رضی اللہ عنہ کی سند سے, علقمہ،حضرت عبد اللہ بن مسعود ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت ہے ، کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ حَبِيبٍ الْحَارِثِيُّ، وَصَالِحُ بْنُ حَاتِمِ بْنِ وَرْدَانَ، قَالَا: حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنِي خَالِدٌ الْحَذَّاءُ، عَنْ أَبِي مَعْشَرٍ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللهِ بْنِ مَسْعُودٍ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لِيَلِنِي مِنْكُمْ، أُولُو الْأَحْلَامِ وَالنُّهَى، ثُمَّ الَّذِينَ يَلُونَهُمْ ثَلَاثًا، وَإِيَّاكُمْ وَهَيْشَاتِ الْأَسْوَاقِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 8226,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=329",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=327",
+                "label": "327",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=328",
+                "label": "328",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=329",
+                "label": "329",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=330",
+                "label": "330",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=331",
+                "label": "331",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=332",
+                "label": "332",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=333",
+                "label": "333",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=331",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=331",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=329",
+        "to": 8250,
+        "total": 40465
+    }
+}

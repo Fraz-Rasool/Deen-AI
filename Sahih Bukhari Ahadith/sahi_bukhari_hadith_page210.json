@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 210,
+        "data": [
+            {
+                "id": 5228,
+                "hadithNumber": "5463",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, If supper is served and the Iqama for (Isha) prayer is proclaimed, start with you supper first.\" Hadrat Ibn-e-Umer رضی اللہ عنہما has also reported likewise from the prophet ﷺ.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا جب رات کا کھانا سامنے رکھ دیا گیا ہو اور نماز بھی کھڑی ہو گئی ہو تو پہلے کھانا کھاؤ ۔ اور ایوب سے روایت ہے ، ان سے نافع نے ، ان سے حضرت ابن عمر رضی اللہ عنہما نے اور ان سے نبی کریم صلی اللہ علیہ وسلم نے اسی کے مطابق ۔",
+                "urduNarrator": "ہم سے معلی بن اسد نے بیان کیا ، انہوں نے کہا ہم سے وہیب نے بیان کیا ، ان سے ایوب نے ، ان سے ابوقلابہ نے اور ان سے انس بن مالک رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُعَلَّى بْنُ أَسَدٍ، حَدَّثَنَا وُهَيْبٌ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا وُضِعَ الْعَشَاءُ وَأُقِيمَتِ الصَّلاَةُ فَابْدَءُوا بِالْعَشَاءِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "71",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 71,
+                    "chapterNumber": "71",
+                    "chapterEnglish": "Food, Meals",
+                    "chapterUrdu": "کھانوں کے بیان میں",
+                    "chapterArabic": "كتاب الأطعمة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5229,
+                "hadithNumber": "5464",
+                "englishNarrator": "Narrated Nafi:",
+                "hadithEnglish": "Once Ibn Umar رضی اللہ عنہما was taking his supper while he was listening to the recitation of (Quran by) the Imam (in the Isha prayer).",
+                "hadithUrdu": "حضرت ابن عمر رضی اللہ عنہما نے ایک مرتبہ رات کا کھانا کھایا اور اس وقت آپ امام کی قرآت سن رہے تھے ۔",
+                "urduNarrator": "اور ایوب سے روایت ہے ، ان سے نافع نے کہ",
+                "hadithArabic": "وَعَنْ أَيُّوبَ عَنْ نَافِعٍ عَنِ ابْنِ عُمَرَ عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ‏.‏ وَعَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّهُ تَعَشَّى مَرَّةً وَهْوَ يَسْمَعُ قِرَاءَةَ الإِمَامِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "71",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 71,
+                    "chapterNumber": "71",
+                    "chapterEnglish": "Food, Meals",
+                    "chapterUrdu": "کھانوں کے بیان میں",
+                    "chapterArabic": "كتاب الأطعمة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5230,
+                "hadithNumber": "5465",
+                "englishNarrator": "Narrated Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"If the Iqama for (`Isha') prayer is proclaimed and supper is served, take your supper first.\" Wohaib and Yahya bin Saeed said: In Hisham's report, there is ''Supper is placed'' in place of ''Supper is ready''.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا جب نماز کھڑی ہو چکے اور رات کا کھانا بھی سامنے ہو تو کھانا کھاؤ ۔ وہیب اور یحییٰ بن سعید نے بیان کیا ، ان سے ہشام نے کہ ” جب رات کا کھانا رکھا جا چکے ۔ “",
+                "urduNarrator": "ہم سے محمد بن یوسف نے بیان کیا ، کہا ہم سے سفیان نے بیان کیا ، ان سے ہشام بن عروہ نے ، ان سے ان کے والد نے اور ان سے حضرت عائشہ رضی اللہ عنہا نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا سُفْيَانُ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ إِذَا أُقِيمَتِ الصَّلاَةُ وَحَضَرَ الْعَشَاءُ فَابْدَءُوا بِالْعَشَاءِ ‏\"‏‏.‏ قَالَ وُهَيْبٌ وَيَحْيَى بْنُ سَعِيدٍ عَنْ هِشَامٍ ‏\"‏ إِذَا وُضِعَ الْعَشَاءُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "71",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 71,
+                    "chapterNumber": "71",
+                    "chapterEnglish": "Food, Meals",
+                    "chapterUrdu": "کھانوں کے بیان میں",
+                    "chapterArabic": "كتاب الأطعمة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5231,
+                "hadithNumber": "5466",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "I know (about) the Hijab (the order of veiling of women) more than anybody else. Ubai bin Ka`b رضی اللہ عنہ used to ask me about it. Allah's Messenger (ﷺ) became the bridegroom of Zainab bint Jahsh رضی اللہ عنہا whom he married at Medina. After the sun had risen high in the sky, the Prophet (ﷺ) invited the people to a meal. Allah's Apostle remained sitting and some people remained sitting with him after the other guests had left. Then Allah's Messenger (ﷺ) got up and went away, and I too, followed him till he reached the door of `Aisha's room. Then he thought that the people must have left the place by then, so he returned and I also returned with him. Behold, the people were still sitting at their places. So he went back again for the second time, and I went along with him too. When we reached the door of `Aisha's room, he returned and I also returned with him to see that the people had left. Thereupon the Prophet (ﷺ) hung a curtain between me and him and the Verse regarding the order for (veiling of women) Hijab was revealed.",
+                "hadithUrdu": "میں پردہ کے حکم کے بارے میں زیادہ جانتا ہوں ۔ ابی بن کعب رضی اللہ عنہ بھی مجھ سے اس کے بارے میں پوچھا کرتے تھے ۔ زینب بنت جحش رضی اللہ عنہا سے رسول اللہ صلی اللہ علیہ وسلم کی شادی کا موقع تھا ۔ آنحضرت صلی اللہ علیہ وسلم نے ان سے نکاح مدینہ منورہ میں کیا تھا ۔ دن چڑھنے کے بعد حضور اکرم صلی اللہ علیہ وسلم نے لوگوں کی کھانے کی دعوت کی تھی ۔ آپ بیٹھے ہوئے تھے اور آپ کے ساتھ بعض اور صحابہ بھی بیٹھے ہوئے تھے ۔ اس وقت تک دوسرے لوگ ( کھانے سے فارغ ہو کر ) جا چکے تھے ۔ آخر آپ بھی کھڑے ہو گئے اور چلتے رہے ۔ میں بھی آپ کے ساتھ چلتا رہا ۔ آپ عائشہ رضی اللہ عنہا کے حجرے پر پہنچے پھر آپ نے خیال کیا کہ وہ لوگ ( بھی جو کھانے کے بعد گھر بیٹھے رہ گئے تھے ) جا چکے ہوں گے ( اس لیے آپ واپس تشریف لائے ) میں بھی آپ کے ساتھ واپس آیا لیکن وہ لوگ اب بھی اسی جگہ بیٹھے ہوئے تھے ۔ آپ پھر واپس آ گئے ۔ میں بھی آپ کے ساتھ دوبارہ واپس آیا ۔ آپ عائشہ رضی اللہ عنہا کے حجرہ پر پہنچے پھر آپ وہاں سے واپس ہوئے ۔ میں بھی آپ کے ساتھ تھا ۔ اب وہ لوگ جا چکے تھے ۔ اس کے بعد آنحضرت صلی اللہ علیہ وسلم نے اپنے اور میرے درمیان پردہ لٹکایا اور پردہ کی آیت نازل ہوئی ۔",
+                "urduNarrator": "مجھ سے عبداللہ بن محمد نے بیان کیا ، کہا ہم سے یعقوب بن ابراہیم نے بیان کیا ، کہا کہ مجھ سے میرے والد نے بیان کیا ، ان سے صالح نے ، ان سے ابن شہاب نے اور ان سے انس رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنِي أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، أَنَّ أَنَسًا، قَالَ أَنَا أَعْلَمُ النَّاسِ، بِالْحِجَابِ كَانَ أُبَىُّ بْنُ كَعْبٍ يَسْأَلُنِي عَنْهُ، أَصْبَحَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَرُوسًا بِزَيْنَبَ ابْنَةِ جَحْشٍ وَكَانَ تَزَوَّجَهَا بِالْمَدِينَةِ، فَدَعَا النَّاسَ لِلطَّعَامِ بَعْدَ ارْتِفَاعِ النَّهَارِ، فَجَلَسَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَجَلَسَ مَعَهُ رِجَالٌ بَعْدَ مَا قَامَ الْقَوْمُ، حَتَّى قَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَمَشَى وَمَشَيْتُ مَعَهُ، حَتَّى بَلَغَ باب حُجْرَةِ عَائِشَةَ، ثُمَّ ظَنَّ أَنَّهُمْ خَرَجُوا فَرَجَعْتُ مَعَهُ، فَإِذَا هُمْ جُلُوسٌ مَكَانَهُمْ، فَرَجَعَ وَرَجَعْتُ مَعَهُ الثَّانِيَةَ، حَتَّى بَلَغَ باب حُجْرَةِ عَائِشَةَ فَرَجَعَ وَرَجَعْتُ مَعَهُ، فَإِذَا هُمْ قَامُوا، فَضَرَبَ بَيْنِي وَبَيْنَهُ سِتْرًا، وَأُنْزِلَ الْحِجَابُ‏.‏",
+                "headingArabic": "قَوْلِ اللَّهِ تَعَالَى ‏{‏فَإِذَا طَعِمْتُمْ فَانْتَشِرُوا‏}",
+                "headingUrdu": "\"اور جب تم نے کھانا کھا لیا تو منتشر ہو جاؤ۔\"",
+                "headingEnglish": "\"And when you have taken your meal disperse.\"",
+                "chapterId": "71",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 71,
+                    "chapterNumber": "71",
+                    "chapterEnglish": "Food, Meals",
+                    "chapterUrdu": "کھانوں کے بیان میں",
+                    "chapterArabic": "كتاب الأطعمة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5232,
+                "hadithNumber": "5467",
+                "englishNarrator": "Narrated Abu Musa رضی اللہ عنہ :",
+                "hadithEnglish": "A son was born to me and I took him to the Prophet (ﷺ) who named him Ibrahim, did Tahnik for him with a date, invoked Allah to bless him and returned him to me. (The narrator added: That was Abu Musa's eldest son.)",
+                "hadithUrdu": "میرے یہاں ایک لڑکا پیدا ہوا تو میں اسے لے کر نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوا ۔ آنحضرت صلی اللہ علیہ وسلم نے اس کا نام ابراہیم رکھا اور کھجور کو اپنے دندان مبارک سے نرم کر کے اسے چٹایا اور اس کے لیے بر کت کی دعا کی پھر مجھے دے دیا ۔ یہ ابوموسیٰ رضی اللہ عنہ کے سب سے بڑے لڑکے تھے ۔",
+                "urduNarrator": "مجھ سے اسحاق بن نضر نے بیان کیا ، کہا ہم سے ابواسامہ نے بیان کیا ، کہا کہ مجھ سےبرید نے بیان کیا ، ان سے ابوبردہ نے اور ان سے ابوموسیٰ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي إِسْحَاقُ بْنُ نَصْرٍ، حَدَّثَنَا أَبُو أُسَامَةَ، قَالَ حَدَّثَنِي بُرَيْدٌ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى ـ رضى الله عنه ـ قَالَ وُلِدَ لِي غُلاَمٌ، فَأَتَيْتُ بِهِ النَّبِيَّ صلى الله عليه وسلم فَسَمَّاهُ إِبْرَاهِيمَ، فَحَنَّكَهُ بِتَمْرَةٍ، وَدَعَا لَهُ بِالْبَرَكَةِ وَدَفَعَهُ إِلَىَّ، وَكَانَ أَكْبَرَ وَلَدِ أَبِي مُوسَى‏.‏",
+                "headingArabic": "تَسْمِيَةِ الْمَوْلُودِ غَدَاةَ يُولَدُ، لِمَنْ لَمْ يَعُقَّ عَنْهُ، وَتَحْنِيكِهِ",
+                "headingUrdu": "جس نومولودکاعقیقہ نہ کرنا ہوتواس کا پیدائش کے دن ہی نام رکھنا اور اس کو گھٹی دینا",
+                "headingEnglish": "The naming of a newly born child, Al-'Al-'Aqiqa and its Tahnik",
+                "chapterId": "72",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 72,
+                    "chapterNumber": "72",
+                    "chapterEnglish": "Sacrifice on Occasion of Birth (`Aqiqa)",
+                    "chapterUrdu": "عقیقہ کے مسائل کا بیان",
+                    "chapterArabic": "كتاب العقيقة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5233,
+                "hadithNumber": "5468",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "A boy was brought to the Prophet (ﷺ) to do Tahnik for him, but the boy urinated on him, whereupon the Prophet had water poured on the place of urine.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم کی خدمت میں ایک نو مولود بچہ لایا گیا تاکہ آپ اس کی تحنیک کر دیں اس بچہ نے آپ کے اوپر پیشاب کر دیا ، آپ نے اس پر پانی بہا دیا ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیا ، کہا ہم سے یحییٰ نے بیان کیا ، ان سے ہشام نے ، ان سے ان کے والد نے اور ان سے حضرت عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ أُتِيَ النَّبِيُّ صلى الله عليه وسلم بِصَبِيٍّ يُحَنِّكُهُ، فَبَالَ عَلَيْهِ، فَأَتْبَعَهُ الْمَاءَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "72",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 72,
+                    "chapterNumber": "72",
+                    "chapterEnglish": "Sacrifice on Occasion of Birth (`Aqiqa)",
+                    "chapterUrdu": "عقیقہ کے مسائل کا بیان",
+                    "chapterArabic": "كتاب العقيقة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5234,
+                "hadithNumber": "5469",
+                "englishNarrator": "Narrated Asma' bint Abu Bakr رضی اللہ عنہما :",
+                "hadithEnglish": "I conceived `Abdullah bin Az-Zubair رضی اللہ عنہما at Mecca and went out (of Mecca) while I was about to give birth. I came to Medina and encamped at Quba', and gave birth at Quba'. Then I brought the child to Allah's Messenger (ﷺ) and placed it (on his lap). He asked for a date, chewed it, and put his saliva in the mouth of the child. So the first thing to enter its stomach was the saliva of Allah's Messenger (ﷺ). Then he did its Tahnik with a date, and invoked Allah to bless him. It was the first child born in the Islamic era, therefore they (Muslims) were very happy with its birth, for it had been said to them that the Jews had bewitched them, and so they would not produce any offspring.",
+                "hadithUrdu": "حضرت عبداللہ بن زبیر رضی اللہ عنہما مکہ میں ان کے پیٹ میں تھے ۔ انہوں نے کہا کہ پھر میں ( جب ہجرت کے لیے ) نکلی تو وقت ولادت قریب تھا ۔ مدینہ منورہ پہنچ کرمیں نے پہلی منزل قباء میں کی اور یہیں عبداللہ بن زبیر رضی اللہ عنہما پیدا ہو گئے ، میں نے نبی کریم صلی اللہ علیہ وسلم کی خدمت میں بچہ کو لے کر حاضر ہوئی اور اسے آپ کی گود میں رکھ دیا ۔ آنحضرت صلی اللہ علیہ وسلم نے کھجور طلب فرمائی اور اسے چبایا اور بچہ کے منہ میں اپنا تھوک ڈال دیا ۔ چنانچہ پہلی چیز جو اس بچہ کے پیٹ میں گئی وہ حضور اکرم صلی اللہ علیہ وسلم کا تھوک مبارک تھا پھر آپ نے کھجور سے تحنیک کی اور اس کے لیے برکت کی دعا فرمائی ۔ یہ سب سے پہلا بچہ اسلام میں ( ہجرت کے بعد مدینہ منورہ میں ) پیدا ہوا ۔ صحابہ کرام رضی اللہ عنہم اس سے بہت خوش ہوئے کیونکہ یہ افواہ پھیلائی جا رہی تھی کہ یہودیوں نے تم ( مسلمانوں ) پر جادو کر دیا ہے ۔ اس لیے تمہارے یہاں اب کوئی بچہ پیدا نہیں ہو گا ۔",
+                "urduNarrator": "ہم سے اسحاق بن نضر نے بیان کیا ، کہا ہم سے ابواسامہ نے بیان کیا ، کہا ہم سے ہشام بن عروہ نے بیان کیا ، ان سے ان کے والد نے اور ان سے حضرت اسماء بنت ابی بکر رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ نَصْرٍ، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ ـ رضى الله عنهما ـ أَنَّهَا حَمَلَتْ بِعَبْدِ اللَّهِ بْنِ الزُّبَيْرِ بِمَكَّةَ قَالَتْ فَخَرَجْتُ وَأَنَا مُتِمٌّ، فَأَتَيْتُ الْمَدِينَةَ فَنَزَلْتُ قُبَاءً فَوَلَدْتُ بِقُبَاءٍ، ثُمَّ أَتَيْتُ بِهِ رَسُولَ اللَّهِ صلى الله عليه وسلم فَوَضَعْتُهُ فِي حَجْرِهِ، ثُمَّ دَعَا بِتَمْرَةٍ فَمَضَغَهَا، ثُمَّ تَفَلَ فِي فِيهِ فَكَانَ أَوَّلَ شَىْءٍ دَخَلَ جَوْفَهُ رِيقُ رَسُولِ اللَّهِ صلى الله عليه وسلم ثُمَّ حَنَّكَهُ بِالتَّمْرَةِ، ثُمَّ دَعَا لَهُ فَبَرَّكَ عَلَيْهِ، وَكَانَ أَوَّلَ مَوْلُودٍ وُلِدَ فِي الإِسْلاَمِ، فَفَرِحُوا بِهِ فَرَحًا شَدِيدًا، لأَنَّهُمْ قِيلَ لَهُمْ إِنَّ الْيَهُودَ قَدْ سَحَرَتْكُمْ فَلاَ يُولَدُ لَكُمْ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "72",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 72,
+                    "chapterNumber": "72",
+                    "chapterEnglish": "Sacrifice on Occasion of Birth (`Aqiqa)",
+                    "chapterUrdu": "عقیقہ کے مسائل کا بیان",
+                    "chapterArabic": "كتاب العقيقة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5235,
+                "hadithNumber": "5470",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "Abu Talha رضی اللہ عنہ had a child who was sick. Once, while Abu Talha  رضی اللہ عنہ was out, the child died. When Abu Talha رضی اللہ عنہ returned home, he asked, \"How does my son fare?\" Um Salaim رضی اللہ عنہا (his wife) replied, \"He is quieter than he has ever been.\" Then she brought supper for him and he took his supper and slept with her. When he had finished, she said (to him), \"Bury the child (as he's dead).\" Next morning Abu Talha رضی اللہ عنہ came to Allah's Messenger (ﷺ) and told him about that. The Prophet (ﷺ) said (to him), \"Did you sleep with your wife last night?\" Abu Talha رضی اللہ عنہ said, \"Yes\". The Prophet (ﷺ) said, \"O Allah! Bestow your blessing on them as regards that night of theirs.\" Um Sulaim رضی اللہ عنہا gave birth to a boy. Abu Talha رضی اللہ عنہ told me to take care of the child till it was taken to the Prophet. Then Abu Talha رضی اللہ عنہ took the child to the Prophet (ﷺ) and Um Sulaim رضی اللہ عنہا sent some dates along with the child. The Prophet (ﷺ) took the child (on his lap) and asked if there was something with him. The people replied, \"Yes, a few dates.\" The Prophet took a date, chewed it, took some of it out of his mouth, put it into the child's mouth and did Tahnik for him with that, and named him 'Abdullah. Hadrat Muhammad bin Sireen has reported the aforementioned Hadith from Hadrat Anas رضی اللہ عنہ .",
+                "hadithUrdu": "ابوطلحہ رضی اللہ عنہ کا ایک لڑکا بیمار تھا ۔ ابوطلحہ کہیں باہر گئے ہوئے تھے کہ بچہ کا انتقال ہو گیا ۔ جب وہ ( تھکے ماندے ) واپس آئے تو پوچھا کہ بچہ کیسا ہے ؟ ان کی بیوی ام سلیم رضی اللہ عنہا نے کہا کہ وہ پہلے سے زیادہ سکون کے ساتھ ہے پھر بیوی نے ان کے سامنے کا کھانا رکھا اور ابوطلحہ رضی اللہ عنہ نے کھانا کھایا ۔ اس کے بعد انہوں نے ان کے ساتھ ہمبستری کی پھر جب فارغ ہوئے تو انہوں نے کہا کہ بچہ کو دفن کر دو ۔ صبح ہوئی تو ابوطلحہ رضی اللہ عنہ رسول کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے اور آپ کو واقعہ کی اطلاع دی ۔ آنحضرت صلی اللہ علیہ وسلم نے دریافت فرمایا تم نے رات ہمبستری بھی کی تھی ؟ انہوں نے عرض کیا کہ جی ہاں ۔ آنحضرت صلی اللہ علیہ وسلم نے دعا کی ” اے اللہ ! ان دونوں کو برکت عطا فرما ۔ “ پھر ان کے یہاں ایک بچہ پیدا ہوا تو مجھ سے ابوطلحہ رضی اللہ عنہ نے کہا کہ اسے حفاظت کے ساتھ آنحضرت صلی اللہ علیہ وسلم کی خدمت میں لے جاؤ ۔ چنانچہ بچہ آنحضرت صلی اللہ علیہ وسلم کی خدمت میں لائے اور ام سلیم رضی اللہ عنہا نے بچہ کے ساتھ کچھ کھجوریں بھیجیں ، آنحضرت صلی اللہ علیہ وسلم نے بچہ کو لیا اور دریافت فرمایا کہ اس کے ساتھ کوئی چیز بھی ہے ؟ لوگوں نے کہا کہ جی ہاں کھجوریں ہیں ۔ آپ نے اسے لے کر چبایا اور پھر اسے اپنے منہ میں نکال کر بچہ کے منہ میں رکھ دیا اور اس سے بچہ کی تحنیک کی اور اس کا نام عبداللہ رکھا ۔ہم سے محمد بن المثنیٰ نے بیان کیا، کہا ہم سے ابن ابی عدی نے بیان کیا، وہ ابن عون کی سند سے، وہ محمد سے، انہوں نے انس رضی اللہ عنہ سے اور انہوں نے حدیث بیان کی۔",
+                "urduNarrator": "ہم سے مطر بن فضل نے بیان کیا ، کہا ہم سے یزید بن ہارون نے ، انہیں عبداللہ بن عون نے خبر دی ، انہیں انس بن سیرین نے اور ان سے انس بن مالک رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مَطَرُ بْنُ الْفَضْلِ ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ عَوْنٍ ، عَنْ أَنَسِ بْنِ سِيرِينَ ، عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ ، قَالَ : كَانَ ابْنٌ لِأَبِي طَلْحَةَ يَشْتَكِي ، فَخَرَجَ أَبُو طَلْحَةَ فَقُبِضَ الصَّبِيُّ ، فَلَمَّا رَجَعَ أَبُو طَلْحَةَ ، قَالَ : مَا فَعَلَ ابْنِي ؟ قَالَتْ أُمُّ سُلَيْمٍ : هُوَ أَسْكَنُ مَا كَانَ ، فَقَرَّبَتْ إِلَيْهِ الْعَشَاءَ ، فَتَعَشَّى ثُمَّ أَصَابَ مِنْهَا ، فَلَمَّا فَرَغَ ، قَالَتْ : وَارُوا الصَّبِيَّ ، فَلَمَّا أَصْبَحَ أَبُو طَلْحَةَ أَتَى رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأَخْبَرَهُ ، فَقَالَ : أَعْرَسْتُمُ اللَّيْلَةَ ؟ قَالَ : نَعَمْ ، قَالَ : اللَّهُمَّ بَارِكْ لَهُمَا ، فَوَلَدَتْ غُلَامًا ، قَالَ لِي أَبُو طَلْحَةَ : احْفَظْهُ حَتَّى تَأْتِيَ بِهِ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَأَتَى بِهِ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَرْسَلَتْ مَعَهُ بِتَمَرَاتٍ ، فَأَخَذَهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ : أَمَعَهُ شَيْءٌ ؟ قَالُوا : نَعَمْ ، تَمَرَاتٌ ، فَأَخَذَهَا النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَمَضَغَهَا ثُمَّ أَخَذَ مِنْ فِيهِ فَجَعَلَهَا فِي فِي الصَّبِيِّ وَحَنَّكَهُ بِهِ وَسَمَّاهُ عَبْدَ اللَّهِ.حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنِ ابْنِ عَوْنٍ، عَنْ مُحَمَّدٍ، عَنْ أَنَسٍ، وَسَاقَ الْحَدِيثَ،‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "72",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 72,
+                    "chapterNumber": "72",
+                    "chapterEnglish": "Sacrifice on Occasion of Birth (`Aqiqa)",
+                    "chapterUrdu": "عقیقہ کے مسائل کا بیان",
+                    "chapterArabic": "كتاب العقيقة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5236,
+                "hadithNumber": "5471",
+                "englishNarrator": "Narrated Salman bin 'Amr رضی اللہ عنہ :",
+                "hadithEnglish": "'Aqiqa is to be offered for a (newly born) boy. Hajjaj, Hammad, Ayyub, Qatadah, Hisham, Habeeb, Hadrat Salman رضی اللہ عنہ reported it from the prophet ﷺ. Many people, Asim, Hisham, Hafsah, the daughter of Sireen, Rabab, Salman (bin Amir رضی اللہ عنہ) reported it from the prophet ﷺ. Yazeed bin Ibrahim, Ibn-s-Sireen quoted from Hadrat Salman رضی اللہ عنہ his saying.",
+                "hadithUrdu": "بچہ کا عقیقہ کرنا چاہیئے ۔ اور حجاج بن منہال نے کہا ۔ ان سے حماد بن سلمہ نے بیان کیا ، کہا ہم کو ایوب سختیانی ، قتادہ ، ہشام بن حسان اور حبیب بن شہید ان چاروں نے خبر دی ، انہیں محمد بن سیرین نے اور انہیں حضرت سلمان بن عامر رضی اللہ عنہ نے نبی کریم صلی اللہ علیہ وسلم سے ۔ اور کئی لوگوں نے بیان کیا ، ان سے عاصم بن سلیمان اور ہشام بن حسان نے ، ان سے حفصہ بنت سیرین نے ، ان سے رباب بنت صلیع نے ، ان سے سلمان بن عامر رضی اللہ عنہ نے اور انہوں نے مرفوعاً نبی کریم صلی اللہ علیہ وسلم سے روایت کیا ہے اور اس کی روایت یزید بن ابراہیم تستری نے کی ، ان سے محمد بن سیرین نے اور ان سے حضرت سلمان بن عامر رضی اللہ عنہ نے اپنا قول موقوفاً ( غیر مرفوع ) ذکر کیا ۔",
+                "urduNarrator": "ہم سے ابوالنعمان نے بیان کیا ، کہا ہم سے حماد بن زید نے بیان کیا ، ان سے ایوب سختیانی نے ، ان سے محمد بن سیرین نے ، ان سے سلمان بن عامر رضی اللہ عنہ ( صحابی ) نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدٍ، عَنْ سَلْمَانَ بْنِ عَامِرٍ، قَالَ مَعَ الْغُلاَمِ عَقِيقَةٌ‏.‏ وَقَالَ حَجَّاجٌ حَدَّثَنَا حَمَّادٌ أَخْبَرَنَا أَيُّوبُ وَقَتَادَةُ وَهِشَامٌ وَحَبِيبٌ عَنِ ابْنِ سِيرِينَ عَنْ سَلْمَانَ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏وَقَالَ غَيْرُ وَاحِدٍ عَنْ عَاصِمٍ، وَهِشَامٍ، عَنْ حَفْصَةَ بِنْتِ سِيرِينَ، عَنِ الرَّبَابِ، عَنْ سَلْمَانَ، عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏ وَرَوَاهُ يَزِيدُ بْنُ إِبْرَاهِيمَ عَنِ ابْنِ سِيرِينَ عَنْ سَلْمَانَ قَوْلَهُ‏.‏",
+                "headingArabic": "إِمَاطَةِ الأَذَى عَنِ الصَّبِيِّ، فِي الْعَقِيقَةِ",
+                "headingUrdu": "عقیقہ بچے کو نقصان پہنچانے والی چیز کو دور کر تا ہے۔",
+                "headingEnglish": "'Aqiqa is to remove what harms the child",
+                "chapterId": "72",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 72,
+                    "chapterNumber": "72",
+                    "chapterEnglish": "Sacrifice on Occasion of Birth (`Aqiqa)",
+                    "chapterUrdu": "عقیقہ کے مسائل کا بیان",
+                    "chapterArabic": "كتاب العقيقة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5237,
+                "hadithNumber": "5472",
+                "englishNarrator": "Narrated Salman bin `Amir Ad-Dabbi رضی اللہ عنہ :",
+                "hadithEnglish": "I heard Allah's Messenger (ﷺ) saying, \"`Aqiqa is to be offered for a (newly born) boy, so slaughter (an animal) for him, and relieve him of his suffering.\" Narrated Habib bin Ash-Shahid: Ibn Seereen told me to ask Al-Hassan from whom he had heard the narration of `Aqiqa. I asked him and he said, \"From Samura bin Jundab رضی اللہ عنہ .\"",
+                "hadithUrdu": "میں نے رسول کریم صلی اللہ علیہ وسلم سے سنا ، آپ نے فرمایا : کہ لڑکے کے ساتھ اس کا عقیقہ لگا ہوا ہے اس لیے اس کی طرف سے جانور ذبح کرو اور اس سے بال دور کرو ( سر منڈا دو یا ختنہ کرو ). مجھ سے عبداللہ بن ابی الاسود نے بیان کیا ، کہا ہم سے قریش بن انس نے بیان کیا ، کہا کہ ان سے حبیب بن شہید نے بیان کیا کہ مجھے محمد بن سیرین نے حکم دیا کہ میں حضرت امام حسن بصری سے پوچھوں کہ انہوں نے عقیقہ کی حدیث کس سے سنی ہے ۔ میں نے ان سے پوچھاتو انہوں نے کہا کہ سمرہ بن جندب رضی اللہ عنہ سے سنی ہے ۔",
+                "urduNarrator": "اور اصبغ بن فرج نے بیان کیا کہ مجھے عبداللہ بن وہب نے خبر دی ، انہیں جریر بن حازم نے ، انہیں حضرت ایوب سختیانی نے ، انہیں محمد بن سیرین نے کہ ہم سے حضرت سلمان بن عامر الضبی رضی اللہ عنہ نے بیان کیا ، کہاکہ",
+                "hadithArabic": "وَقَالَ أَصْبَغُ أَخْبَرَنِي ابْنُ وَهْبٍ عَنْ جَرِيرِ بْنِ حَازِمٍ عَنْ أَيُّوبَ السَّخْتِيَانِيِّ عَنْ مُحَمَّدِ بْنِ سِيرِينَ حَدَّثَنَا سَلْمَانُ بْنُ عَامِرٍ الضَّبِّيُّ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ مَعَ الْغُلاَمِ عَقِيقَةٌ، فَأَهْرِيقُوا عَنْهُ دَمًا وَأَمِيطُوا عَنْهُ الأَذَى ‏\"‏‏. حَدَّثَنِي عَبْدُ اللَّهِ بْنُ أَبِي الأَسْوَدِ، حَدَّثَنَا قُرَيْشُ بْنُ أَنَسٍ، عَنْ حَبِيبِ بْنِ الشَّهِيدِ، قَالَ أَمَرَنِي ابْنُ سِيرِينَ أَنْ أَسْأَلَ الْحَسَنَ، مِمَّنْ سَمِعَ حَدِيثَ الْعَقِيقَةِ، فَسَأَلْتُهُ فَقَالَ مِنْ سَمُرَةَ بْنِ جُنْدَبٍ‏.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "72",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 72,
+                    "chapterNumber": "72",
+                    "chapterEnglish": "Sacrifice on Occasion of Birth (`Aqiqa)",
+                    "chapterUrdu": "عقیقہ کے مسائل کا بیان",
+                    "chapterArabic": "كتاب العقيقة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5238,
+                "hadithNumber": "5473",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Neither Fara' nor 'Atira (is permissible):\" Al-Fara' nor 'Atira (is permissible):\" Al- Fara' was the first offspring (of camels or sheep) which the pagans used to offer (as a sacrifice) to their idols. And Al-`Atira was (a sheep which was to be slaughtered) during the month of Rajab.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا ( اسلام میں ) فرع اور عتیرہ نہیں ہیں ۔ ” فرع “ ( اونٹنی کے ) سب سے پہلے بچہ کو کہتے تھے جسے ( جاہلیت میں ) لوگ اپنے بتوں کے لیے ذبح کرتے تھے اور ” عتیرہ “ کو رجب میں ذبح کیا جاتا تھا ۔",
+                "urduNarrator": "ہم سے عبدان نے بیان کیا ، کہا ہم سے عبداللہ بن مبارک نے بیان کیا ، کہا ہم کو معمر نے خبر دی ، انہیں زہری نے خبر دی ، انہیں ابن مسیب نے اور انہیں حضرت ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدَانُ، حَدَّثَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا مَعْمَرٌ، أَخْبَرَنَا الزُّهْرِيُّ، عَنِ ابْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ فَرَعَ وَلاَ عَتِيرَةَ ‏\"‏‏.‏ وَالْفَرَعُ أَوَّلُ النِّتَاجِ، كَانُوا يَذْبَحُونَهُ لَطِوَاغِيتِهِمْ، وَالْعَتِيرَةُ فِي رَجَبٍ‏.‏",
+                "headingArabic": "الْفَرَعِ",
+                "headingUrdu": "الفارع",
+                "headingEnglish": "Al-Fara’",
+                "chapterId": "72",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 72,
+                    "chapterNumber": "72",
+                    "chapterEnglish": "Sacrifice on Occasion of Birth (`Aqiqa)",
+                    "chapterUrdu": "عقیقہ کے مسائل کا بیان",
+                    "chapterArabic": "كتاب العقيقة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5239,
+                "hadithNumber": "5474",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Neither Fara' nor 'Atira) is permissible).\" Al-Fara' was the first offspring (they got of camels or sheep) which they (pagans) used to offer (as a sacrifice) to their idols. 'Atira was (a sheep which used to be slaughtered) during the month of Rajab.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا فرع اور عتیرہ ( اسلام میں ) نہیں ہیں ۔ بیان کیا کہ ” فرع “ سب سے پہلے بچہ کو کہتے تھے جو ان کے یہاں ( اونٹنی سے ) پیدا ہوتا تھا ، اسے وہ اپنے بتوں کے نام پر ذبح کرتے تھے اور عتیرہ وہ قربانی جسے وہ (ایک بھیڑ جو ذبح کی جاتی تھی)رجب میں کرتے تھے ( اور اس کی کھال درخت پر ڈال دیتے ) ۔",
+                "urduNarrator": "ہم سے علی بن عبداللہ مدینی نے بیان کیا ، کہا ہم سے سفیان بن عیینہ نے بیان کیا ، ان سے زہری نے بیان کیا ، انہوں نے کہا ہم سے سعید بن مسیب نے بیان کیا اور ان سے حضرت ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، قَالَ الزُّهْرِيُّ حَدَّثَنَا عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ فَرَعَ وَلاَ عَتِيرَةَ ‏\"‏‏.‏ قَالَ وَالْفَرَعَ أَوَّلُ نِتَاجٍ كَانَ يُنْتَجُ لَهُمْ، كَانُوا يَذْبَحُونَهُ لِطَوَاغِيتِهِمْ، وَالْعَتِيرَةُ فِي رَجَبٍ‏.‏",
+                "headingArabic": "الْعَتِيرَةِ",
+                "headingUrdu": "العتیرہ",
+                "headingEnglish": "Al-‘Atira",
+                "chapterId": "72",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 72,
+                    "chapterNumber": "72",
+                    "chapterEnglish": "Sacrifice on Occasion of Birth (`Aqiqa)",
+                    "chapterUrdu": "عقیقہ کے مسائل کا بیان",
+                    "chapterArabic": "كتاب العقيقة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5240,
+                "hadithNumber": "5475",
+                "englishNarrator": "Narrated Adi bin Hatim رضی اللہ عنہ :",
+                "hadithEnglish": "I asked the Prophet (ﷺ) about the game killed by a Mi'rad (i.e. a sharp-edged piece of wood or a piece of wood provided with a sharp piece of iron used for hunting). He said, \"If the game is killed with its sharp edge, eat of it, but if it is killed with its shaft, with a hit by its broad side then the game is (unlawful to eat) for it has been beaten to death.\" I asked him about the game killed by a trained hound. He said, \"If the hound catches the game for you, eat of it, for killing the game by the hound, is like its slaughtering. But if you see with your hound or hounds another dog, and you are afraid that it might have shared in hunting the game with your hound and killed it, then you should not eat of it, because you have mentioned Allah's name on (sending) your hound only, but you have not mentioned it on some other hound.",
+                "hadithUrdu": "میں نے نبی کریم صلی اللہ علیہ وسلم سے بے پر کے تیر یا لکڑی یا گز سے شکار کے بارے میں پوچھا تو آپ نے فرمایا کہ اگر اس کی نوک شکار کو لگ جائے تو کھا لو لیکن اگر اس کی عرض کی طرف سے شکار کو لگے تو وہ نہ کھاؤ کیونکہ وہ موقوذہ ہے اور میں نے آپ سے کتے کے شکار کے بارے میں سوال کیا تو آپ نے فرمایا کہ جسے وہ تمہارے لیے رکھے ( یعنی وہ خود نہ کھائے ) اسے کھا لو کیونکہ کتے کا شکار کو پکڑ لینا یہ بھی ذبح کرنا ہے اور اگر تم اپنے کتے یا کتوں کے ساتھ کوئی دوسرا کتا بھی پاؤ اور تمہیں اندیشہ ہو کہ تمہارے کتے نے شکار اس دوسرے کے ساتھ پکڑا ہو گا اورکتا شکار کو مار چکا ہو تو ایسا شکار نہ کھاؤ کیونکہ تم نے اللہ کا نام ( بسم اللہ پڑھ کر ) اپنے کتے پر لیا تھا دوسرے کتے پر نہیں لیا تھا ۔",
+                "urduNarrator": "ہم سے ابونعیم فضل بن دکین نے بیان کیا ، کہا ہم سے زکریابن ابی زائدہ نے بیان کیا ، ان سے عامر شعبی نے ، ان سے عدی بن حاتم رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا زَكَرِيَّاءُ، عَنْ عَامِرٍ، عَنْ عَدِيِّ بْنِ حَاتِمٍ ـ رضى الله عنه ـ قَالَ سَأَلْتُ النَّبِيَّ صلى الله عليه وسلم عَنْ صَيْدِ الْمِعْرَاضِ قَالَ ‏\"‏ مَا أَصَابَ بِحَدِّهِ فَكُلْهُ، وَمَا أَصَابَ بِعَرْضِهِ فَهْوَ وَقِيذٌ ‏\"‏‏.‏ وَسَأَلْتُهُ عَنْ صَيْدِ الْكَلْبِ فَقَالَ ‏\"‏ مَا أَمْسَكَ عَلَيْكَ فَكُلْ، فَإِنَّ أَخْذَ الْكَلْبِ ذَكَاةٌ، وَإِنْ وَجَدْتَ مَعَ كَلْبِكَ أَوْ كِلاَبِكَ كَلْبًا غَيْرَهُ فَخَشِيتَ أَنْ يَكُونَ أَخَذَهُ مَعَهُ، وَقَدْ قَتَلَهُ، فَلاَ تَأْكُلْ، فَإِنَّمَا ذَكَرْتَ اسْمَ اللَّهِ عَلَى كَلْبِكَ وَلَمْ تَذْكُرْهُ عَلَى غَيْرِهِ ‏\"‏‏.‏",
+                "headingArabic": "التَّسْمِيَةِ عَلَى الصَّيْدِ",
+                "headingUrdu": "شکار کے وقت اللہ کا نام لینا",
+                "headingEnglish": "The mentioning of Allah's Name while hunting",
+                "chapterId": "73",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 73,
+                    "chapterNumber": "73",
+                    "chapterEnglish": "Hunting, Slaughtering",
+                    "chapterUrdu": "ذبیح اور شکار کے بیان میں",
+                    "chapterArabic": "كتاب الذبائح والصيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5241,
+                "hadithNumber": "5476",
+                "englishNarrator": "Narrated `Adi bin Hatim رضی اللہ عنہ :",
+                "hadithEnglish": "I asked Allah's Messenger (ﷺ) about the Mi'rad. He said, \"If you hit the game with its sharp edge, eat it, but if the Mi'rad hits the game with its shaft with a hit by its broad side do not eat it, for it has been beaten to death with a piece of wood. (i.e. unlawful).\" I asked, \"If I let loose my trained hound after a game?\" He said, \"If you let loose your trained hound after game, and mention the name of Allah, then you can eat.\" I said, \"If the hound eats of the game?\" He said \"Then you should not eat of it, for the hound has hunted the game for itself and not for you.\" I said, \"Some times I send my hound and then I find some other hound with it?\" He said \"Don't eat the game, as you have mentioned the Name of Allah on your dog only and not on the other.\"",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم سے بے پر کے تیر یا لکڑی گز سے شکار کے بارے میں پوچھا تو آپ نے فرمایا کہ جب تم اس کی نوک سے شکار کومار لو تو اسے کھاؤ لیکن اگر اس کی عرض کی طرف سے شکار کو لگے اور اس سے وہ مر جائے تو وہ موقوذہ ( مردار ) ہے اسے نہ کھاؤ ۔ میں نے سوال کیا کہ میںاپنا کتا بھی ( شکار کے لیے ) دوڑاتا ہوں ؟ آپ نے فرمایا کہ جب تم اپنے کتے پر بسم اللہ پڑھ کرشکار کے پیچھے دوڑاؤ تو وہ شکار کھا سکتے ہو ۔ میں نے پوچھااور اگر وہ کتا شکار میں سے کھا لے ؟ آپ نے فرمایا کہ پھر نہ کھاؤ کیونکہ وہ شکار اس نے تمہارے لیے نہیں پکڑا تھا ، صرف اپنے لیے پکڑا تھا ۔ میں نے پوچھا میں بعض وقت اپنا کتا چھوڑتا ہوں اور بعد میں اس کے ساتھ دوسرا کتا بھی پاتا ہوں ؟ آپ نے فرمایا کہ پھر ( اس کا شکار ) نہ کھاؤ کیونکہ تم نے بسم اللہ صرف ا پنے کتے پر پڑھی ہے ، دوسرے پر نہیں پڑھی ہے ۔",
+                "urduNarrator": "ہم سے سلیمان بن حرب نے بیان کیا ، کہا ہم سے شعبہ نے بیان کیا ، ان سے عبداللہ بن ابی سفر نے ، ان سے شعبی نے کہا کہ میں نے حضرت عدی بن حاتم رضی اللہ عنہ سے سنا ، انہوں نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي السَّفَرِ، عَنِ الشَّعْبِيِّ، قَالَ سَمِعْتُ عَدِيَّ بْنَ حَاتِمٍ ـ رضى الله عنه ـ قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الْمِعْرَاضِ فَقَالَ ‏\"‏ إِذَا أَصَبْتَ بِحَدِّهِ فَكُلْ، فَإِذَا أَصَابَ بِعَرْضِهِ فَقَتَلَ فَإِنَّهُ وَقِيذٌ، فَلاَ تَأْكُلْ ‏\"‏‏.‏ فَقُلْتُ أُرْسِلُ كَلْبِي‏.‏ قَالَ ‏\"‏ إِذَا أَرْسَلْتَ كَلْبَكَ وَسَمَّيْتَ، فَكُلْ ‏\"‏‏.‏ قُلْتُ فَإِنْ أَكَلَ قَالَ ‏\"‏ فَلاَ تَأْكُلْ، فَإِنَّهُ لَمْ يُمْسِكْ عَلَيْكَ، إِنَّمَا أَمْسَكَ عَلَى نَفْسِهِ ‏\"‏‏.‏ قُلْتُ أُرْسِلُ كَلْبِي فَأَجِدُ مَعَهُ كَلْبًا آخَرَ‏.‏ قَالَ ‏\"‏ لاَ تَأْكُلْ، فَإِنَّكَ إِنَّمَا سَمَّيْتَ عَلَى كَلْبِكَ، وَلَمْ تُسَمِّ عَلَى آخَرَ ‏\"‏‏.‏",
+                "headingArabic": "صَيْدِ الْمِعْرَاضِ",
+                "headingUrdu": "نوکدارلکڑی سے شکار کرنے کا بیان",
+                "headingEnglish": "The game killed by the Mi'rad",
+                "chapterId": "73",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 73,
+                    "chapterNumber": "73",
+                    "chapterEnglish": "Hunting, Slaughtering",
+                    "chapterUrdu": "ذبیح اور شکار کے بیان میں",
+                    "chapterArabic": "كتاب الذبائح والصيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5242,
+                "hadithNumber": "5477",
+                "englishNarrator": "Narrated Adi bin Hatim رضی اللہ عنہ :",
+                "hadithEnglish": "I said, \"O Allah's Messenger (ﷺ)! We let loose our trained hounds after a game?\" He said, \"Eat what they hunt for you.\" I said, \"Even if they killed (the game)?\" He replied, 'Even if they killed (the game).\" I said, 'We also hit (the game) with the Mi'rad?\" He said, \"Eat of the animal which the Mi'rad kills by piercing its body, but do not eat of the animal which is killed by the broad side of the Mi'rad.''",
+                "hadithUrdu": "میں نے عرض کیا یا رسول اللہ ! ہم سکھائے ہوئے کتے ( شکار پر ) چھوڑتے ہیں ؟ آپ نے فرمایا کہ جو شکار وہ صرف تمہارے لیے رکھے اسے کھاؤ ۔ میں نے عرض کیا اگرچہ کتے شکار کو مار ڈالیں ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا ( ہاں ) اگرچہ مار ڈالیں ! میں نے عرض کیا کہ ہم بے پر کے تیر یا لکڑی سے شکار کرتے ہیں ؟ آپ نے فرمایا کہ اگر ان کی دھاراس کو زخمی کر کے پھاڑ ڈالے تو کھاؤ لیکن اگر ان کے عرض سے شکار مارا جائے تو اسے نہ کھاؤ ( وہ مر دار ہے )",
+                "urduNarrator": "ہم سے قبیصہ بن عقبہ نے بیان کیا ، کہا ہم سے سفیان ثوری نے بیان کیا ، ان سے منصور بن معتمر نے ، ان سے ابراہیم نخعی نے ، ان سے ہمام بن حارث نے اور ان سے عدی بن حاتم رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا قَبِيصَةُ، حَدَّثَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ هَمَّامِ بْنِ الْحَارِثِ، عَنْ عَدِيِّ بْنِ حَاتِمٍ ـ رضى الله عنه ـ قَالَ قُلْتُ يَا رَسُولَ اللَّهِ إِنَّا نُرْسِلُ الْكِلاَبَ الْمُعَلَّمَةَ‏.‏ قَالَ ‏\"‏ كُلْ مَا أَمْسَكْنَ عَلَيْكَ ‏\"‏‏.‏ قُلْتُ وَإِنْ قَتَلْنَ قَالَ ‏\"‏ وَإِنْ قَتَلْنَ ‏\"‏‏.‏ قُلْتُ وَإِنَّا نَرْمِي بِالْمِعْرَاضِ‏.‏ قَالَ ‏\"‏ كُلْ مَا خَزَقَ، وَمَا أَصَابَ بِعَرْضِهِ فَلاَ تَأْكُلْ ‏\"‏‏.‏",
+                "headingArabic": "مَا أَصَابَ الْمِعْرَاضُ بِعَرْضِهِ",
+                "headingUrdu": "کھیل المراد کے وسیع پہلو سے مارا گیا۔",
+                "headingEnglish": "The game killed by the broad side of Al- Mi'rad",
+                "chapterId": "73",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 73,
+                    "chapterNumber": "73",
+                    "chapterEnglish": "Hunting, Slaughtering",
+                    "chapterUrdu": "ذبیح اور شکار کے بیان میں",
+                    "chapterArabic": "كتاب الذبائح والصيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5243,
+                "hadithNumber": "5478",
+                "englishNarrator": "Narrated Abu Tha`laba Al-Khushani رضی اللہ عنہ :",
+                "hadithEnglish": "I said, \"O Allah's Prophet! We are living in a land ruled by the people of the Scripture; Can we take our meals in their utensils? In that land there is plenty of game and I hunt the game with my bow and with my hound that is not trained and with my trained hound. Then what is lawful for me to eat?\" He said, \"As for what you have mentioned about the people of the Scripture, if you can get utensils other than theirs, do not eat out of theirs, but if you cannot get other than theirs, wash their utensils and eat out of it. If you hunt an animal with your bow after mentioning Allah's Name, eat of it. and if you hunt something with your trained hound after mentioning Allah's Name, eat of it, and if you hunt something with your untrained hound (and get it before it dies) and slaughter it, eat of it.\"",
+                "hadithUrdu": "میں نے عرض کیا اے اللہ کے نبی ! ہم اہل کتاب کے گاؤں میں رہتے ہیں تو کیا ہم ان کے برتن میں کھا سکتے ہیں ؟ اور ہم ایسی زمین میں رہتے ہیں جہاں شکار بہت ہوتا ہے ۔ میں تیر کمان سے بھی شکار کرتا ہوں اور اپنے اس کتے سے بھی جو سکھایا ہوا نہیں ہے اور اس کتے سے بھی جو سکھایا ہوا ہے تو اس میں سے کس کا کھانا میرے لیے جائز ہے ۔ آپ نے فرمایا کہ تم نے جو اہل کتاب کے برتن کا ذکر کیا ہے تو اگر تمہیں اس کے سوا کوئی اور برتن مل سکے تو اس میں نہ کھاؤ لیکن تمہیں کوئی دوسرا برتن نہ ملے تو ان کے برتن کو خوب دھوکر اس میں کھا سکتے ہو اور جو شکار تم اپنی تیر کمان سے کرو اور ( تیر پھینکتے وقت ) اللہ کانام لیا ہو تو ( اس کا شکار ) کھا سکتے ہو اور جو شکار تم نے غیر سدھائے ہوئے کتے سے کیا ہو اور شکار خود ذبح کیا ہو تو اسے کھا سکتے ہو ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یزید مقبری نے بیان کیا ، کہا ہم سے حیوہ بن شریح نے بیان کیا ، کہا کہ مجھے ربیعہ بن یزید دمشقی نے خبر دی ، انہیں ابو ادریس عائذ اللہ خولانی نے ، انہیں حضرت ابو ثعلبہ خشنی رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ، حَدَّثَنَا حَيْوَةُ، قَالَ أَخْبَرَنِي رَبِيعَةُ بْنُ يَزِيدَ الدِّمَشْقِيُّ، عَنْ أَبِي إِدْرِيسَ، عَنْ أَبِي ثَعْلَبَةَ الْخُشَنِيِّ، قَالَ قُلْتُ يَا نَبِيَّ اللَّهِ إِنَّا بِأَرْضِ قَوْمٍ أَهْلِ الْكِتَابِ، أَفَنَأْكُلُ فِي آنِيَتِهِمْ وَبِأَرْضِ صَيْدٍ، أَصِيدُ بِقَوْسِي وَبِكَلْبِي الَّذِي لَيْسَ بِمُعَلَّمٍ، وَبِكَلْبِي الْمُعَلَّمِ، فَمَا يَصْلُحُ لِي قَالَ ‏ \"‏ أَمَّا مَا ذَكَرْتَ مِنْ أَهْلِ الْكِتَابِ فَإِنْ وَجَدْتُمْ غَيْرَهَا فَلاَ تَأْكُلُوا فِيهَا، وَإِنْ لَمْ تَجِدُوا فَاغْسِلُوهَا وَكُلُوا فِيهَا، وَمَا صِدْتَ بِقَوْسِكَ فَذَكَرْتَ اسْمَ اللَّهِ فَكُلْ، وَمَا صِدْتَ بِكَلْبِكَ الْمُعَلَّمِ فَذَكَرْتَ اسْمَ اللَّهِ فَكُلْ، وَمَا صِدْتَ بِكَلْبِكَ غَيْرَ مُعَلَّمٍ فَأَدْرَكْتَ ذَكَاتَهُ فَكُلْ ‏\"‏‏.‏",
+                "headingArabic": "صَيْدِ الْقَوْسِ",
+                "headingUrdu": "کمان سے شکار کے بارے میں",
+                "headingEnglish": "About hunting with a bow",
+                "chapterId": "73",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 73,
+                    "chapterNumber": "73",
+                    "chapterEnglish": "Hunting, Slaughtering",
+                    "chapterUrdu": "ذبیح اور شکار کے بیان میں",
+                    "chapterArabic": "كتاب الذبائح والصيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5244,
+                "hadithNumber": "5479",
+                "englishNarrator": "Narrated `Abdullah bin Maghaffal رضی اللہ عنہ :",
+                "hadithEnglish": "He saw a man throwing stones with two fingers (at something) and said to him, \"Do not throw stones, for Allah's Messenger (ﷺ) has forbidden throwing stones, or he used to dislike it.\" `Abdullah added: Throwing stones will neither hunt the game, nor kill (or hurt) an enemy, but it may break a tooth or gouge out an eye.\" Afterwards `Abdullah once again saw the man throwing stones. He said to him, \"I tell you that Allah's Messenger (ﷺ) has forbidden or disliked the throwing the stones (in such a way), yet you are throwing stones! I shall not talk to you for such-and-such a period.\"",
+                "hadithUrdu": "انہوں  نے ایک شخص کو کنکری پھینکتے دیکھا تو فرمایا کہ کنکری نہ پھینکو کیونکہ رسول اللہ صلی اللہ علیہ وسلم نے کنکری پھینکنے سے منع فرمایا ہے یا ( انہوں نے بیان کیا کہ ) آنحضرت صلی اللہ علیہ وسلم کنکری پھینکنے کو پسند نہیں کرتے تھے اور کہا کہ اس سے نہ شکار کیا جا سکتا ہے اور نہ دشمن کو کوئی نقصان پہنچایا جا سکتا ہے البتہ یہ کبھی کسی کا دانت توڑ دیتی ہے اور آنکھ پھوڑ دیتی ہے ۔ اس کے بعد بھی انہوں نے اس شخص کو لنکریاں پھینکتے دیکھا تو کہا کہ میں رسول اللہ صلی اللہ علیہ وسلم کی حدیث تمہیں سنا رہا ہوں کہ آپ نے کنکری پھینکنے سے منع فرمایا یا کنکری پھینکنے کو ناپسند کیا اور تم اب بھی پھینکے جا رہے ہو ، میں تم سے اتنے دنوں تک کلام نہیں کروں گا ۔",
+                "urduNarrator": "ہم سے یوسف بن راشد نے بیان کیا ، کہا ہم سے وکیع اور یزید بن ہارون نے بیان کیا اور الفاظ حدیث یزید کے ہیں ، ان سے کہمس بن حسن نے ، ان سے عبداللہ بن بریدہ نے ، حضرت عبداللہ بن مغفل رضی اللہ عنہ",
+                "hadithArabic": "حَدَّثَنَا يُوسُفُ بْنُ رَاشِدٍ، حَدَّثَنَا وَكِيعٌ، وَيَزِيدُ بْنُ هَارُونَ ـ وَاللَّفْظُ لِيَزِيدَ ـ عَنْ كَهْمَسِ بْنِ الْحَسَنِ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ، أَنَّهُ رَأَى رَجُلاً يَخْذِفُ فَقَالَ لَهُ لاَ تَخْذِفْ فَإِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الْخَذْفِ ـ أَوْ كَانَ يَكْرَهُ الْخَذْفَ ـ وَقَالَ ‏ \"‏ إِنَّهُ لاَ يُصَادُ بِهِ صَيْدٌ وَلاَ يُنْكَى بِهِ عَدُوٌّ، وَلَكِنَّهَا قَدْ تَكْسِرُ السِّنَّ وَتَفْقَأُ الْعَيْنَ ‏\"‏‏.‏ ثُمَّ رَآهُ بَعْدَ ذَلِكَ يَخْذِفُ فَقَالَ لَهُ أُحَدِّثُكَ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ نَهَى عَنِ الْخَذْفِ‏.‏ أَوْ كَرِهَ الْخَذْفَ، وَأَنْتَ تَخْذِفُ لاَ أُكَلِّمُكَ كَذَا وَكَذَا‏.‏",
+                "headingArabic": "الْخَذْفِ وَالْبُنْدُقَةِ",
+                "headingUrdu": "الخذف اور البندوقہ",
+                "headingEnglish": "Al-Khadhf and Al-Bunduqa",
+                "chapterId": "73",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 73,
+                    "chapterNumber": "73",
+                    "chapterEnglish": "Hunting, Slaughtering",
+                    "chapterUrdu": "ذبیح اور شکار کے بیان میں",
+                    "chapterArabic": "كتاب الذبائح والصيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5245,
+                "hadithNumber": "5480",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Whoever keeps a (pet) dog which is neither a watch dog nor a hunting dog, will get a daily deduction of two Qirat from his good deeds.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا جس نے ایسا کتا پالا جو نہ مویشی کی حفاظت کے لیے ہے اور نہ شکار کرنے کے لیے تو روزانہ اس کی نیکیوں میں سے دو قیراط کی کمی ہو جاتی ہے ۔",
+                "urduNarrator": "ہم سے مسلم بن اسماعیل نے بیان کیا ، انہوں نے کہا ہم سے عبدالعزیز بن مسلم نے بیان کیا ، ان سے عبداللہ بن دینار نے بیان کیا ، انہوں نے کہا کہ میں نے حضرت ابن عمر رضی اللہ عنہما سے سنا کہ",
+                "hadithArabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُسْلِمٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دِينَارٍ، قَالَ سَمِعْتُ ابْنَ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنِ اقْتَنَى كَلْبًا لَيْسَ بِكَلْبِ مَاشِيَةٍ أَوْ ضَارِيَةٍ، نَقَصَ كُلَّ يَوْمٍ مِنْ عَمَلِهِ قِيرَاطَانِ ‏\"‏‏.‏",
+                "headingArabic": "مَنِ اقْتَنَى كَلْبًا لَيْسَ بِكَلْبِ صَيْدٍ أَوْ مَاشِيَةٍ",
+                "headingUrdu": "ایک (پالتو جانور) کتا",
+                "headingEnglish": "A (pet) dog",
+                "chapterId": "73",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 73,
+                    "chapterNumber": "73",
+                    "chapterEnglish": "Hunting, Slaughtering",
+                    "chapterUrdu": "ذبیح اور شکار کے بیان میں",
+                    "chapterArabic": "كتاب الذبائح والصيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5246,
+                "hadithNumber": "5481",
+                "englishNarrator": "Narrated `Abdullah bin `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "I heard the Prophet (ﷺ) saying, \"If someone keeps a dog neither for hunting, nor for guarding livestock, the reward (for his good deeds) will be reduced by two Qirats per day.\"",
+                "hadithUrdu": "میں نے نبی کریم صلی اللہ علیہ وسلم سے سنا ، آپ نے فرمایا کہ شکاریوں اور مویشی کی حفاظت کی غرض کے سوا جس نے کتا پالا تو اس کے ثواب میں سے روزانہ دو قیراط کی کمی ہو جاتی ہے ۔",
+                "urduNarrator": "ہم سے مکی بن ابراہیم نے بیان کیا ، انہوں نے کہا ہم کو حنظلہ بن ابی سفیان نے خبر دی ، انہوں نے کہا کہ میں نے سالم سے سنا ، انہوں نے بیان کیا کہ میں نے حضرت عبداللہ بن عمر رضی اللہ عنہما سے سنا ، انہوں نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا الْمَكِّيُّ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا حَنْظَلَةُ بْنُ أَبِي سُفْيَانَ، قَالَ سَمِعْتُ سَالِمًا، يَقُولُ سَمِعْتُ عَبْدَ اللَّهِ بْنَ عُمَرَ، يَقُولُ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ مَنِ اقْتَنَى كَلْبًا إِلاَّ كَلْبٌ ضَارٍ لِصَيْدٍ أَوْ كَلْبَ مَاشِيَةٍ، فَإِنَّهُ يَنْقُصُ مِنْ أَجْرِهِ كُلَّ يَوْمٍ قِيرَاطَانِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "73",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 73,
+                    "chapterNumber": "73",
+                    "chapterEnglish": "Hunting, Slaughtering",
+                    "chapterUrdu": "ذبیح اور شکار کے بیان میں",
+                    "chapterArabic": "كتاب الذبائح والصيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5247,
+                "hadithNumber": "5482",
+                "englishNarrator": "Narrated `Abdullah bin `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"If someone keeps a dog neither for guarding livestock, nor for hunting, his good deeds will decrease (in reward) by two Qirats a day.'",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا جس نے مویشی کی حفاظت یا شکار کی غرض کے سوا کسی اور وجہ سے کتا پالا اس کے ثواب سے روزانہ دو قیراط کی کمی ہو جاتی ہے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ، کہا ہم کو امام مالک نے خبر دی ، انہیں نافع نے اور ان سے حضرت عبداللہ بن عمر رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَنِ اقْتَنَى كَلْبًا إِلاَّ كَلْبَ مَاشِيَةٍ أَوْ ضَارٍ، نَقَصَ مِنْ عَمَلِهِ كُلَّ يَوْمٍ قِيرَاطَانِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "73",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 73,
+                    "chapterNumber": "73",
+                    "chapterEnglish": "Hunting, Slaughtering",
+                    "chapterUrdu": "ذبیح اور شکار کے بیان میں",
+                    "chapterArabic": "كتاب الذبائح والصيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5248,
+                "hadithNumber": "5483",
+                "englishNarrator": "Narrated Adi bin Hatim رضی اللہ عنہ :",
+                "hadithEnglish": "I asked Allah's Messenger (ﷺ). \"We hunt with the help of these hounds.\" He said, \"If you let loose your trained hounds after a game, and mention the name of Allah, then you can eat what the hounds catch for you, even if they killed the game. But you should not eat of it if the hound has eaten of it, for then it is likely that the hound has caught the game for itself. And if other hounds join your hound in hunting the game, then do not eat of it.\"",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم سے پوچھا کہ ہم لوگ ان کتوں سے شکار کرتے ہیں ؟ آپ نے فرمایا کہ اگر تم اپنے سکھائے ہوئے کتوں کو شکار کے لیے چھوڑتے وقت اللہ کا نام لیتے ہو تو جو شکار وہ تمہارے لیے پکڑ کر لائیں اسے کھاؤ خواہ وہ شکار کو مار ہی ڈالیں ۔ البتہ اگر کتا شکار میں سے خود بھی کھا لے تو اس میں یہ اندیشہ ہے کہ اس نے یہ شکار خود اپنے لیے پکڑا تھا اور اگر دوسرے کتے بھی تمہارے کتوں کے سواشکار میں شریک ہو جائیں تو نہ کھاؤ ۔",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا ، کہا ہم سے محمد بن فضیل نے بیان کیا ، ان سے بیان بن بشر نے ، ان سے شعبی نے اور ان سے حضرت عدی بن حاتم رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ بَيَانٍ، عَنِ الشَّعْبِيِّ، عَنْ عَدِيِّ بْنِ حَاتِمٍ، قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم قُلْتُ إِنَّا قَوْمٌ نَصِيدُ بِهَذِهِ الْكِلاَبِ‏.‏ فَقَالَ ‏ \"‏ إِذَا أَرْسَلْتَ كِلاَبَكَ الْمُعَلَّمَةَ وَذَكَرْتَ اسْمَ اللَّهِ، فَكُلْ مِمَّا أَمْسَكْنَ عَلَيْكُمْ، وَإِنْ قَتَلْنَ إِلاَّ أَنْ يَأْكُلَ الْكَلْبُ، فَإِنِّي أَخَافُ أَنْ يَكُونَ إِنَّمَا أَمْسَكَهُ عَلَى نَفْسِهِ، وَإِنْ خَالَطَهَا كِلاَبٌ مِنْ غَيْرِهَا فَلاَ تَأْكُلْ ‏\"‏‏.‏",
+                "headingArabic": "إِذَا أَكَلَ الْكَلْبُ",
+                "headingUrdu": "اگر شکاری (کھیل کا) کھاتا ہے",
+                "headingEnglish": "If a hound eats (of the game)",
+                "chapterId": "73",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 73,
+                    "chapterNumber": "73",
+                    "chapterEnglish": "Hunting, Slaughtering",
+                    "chapterUrdu": "ذبیح اور شکار کے بیان میں",
+                    "chapterArabic": "كتاب الذبائح والصيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5249,
+                "hadithNumber": "5484",
+                "englishNarrator": "Narrated Adi bin Hatim رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"If you let loose your hound after a game and mention Allah's Name on sending it, and the hound catches the game and kills it, then you can eat of it. But if the hound eats of it, then you should not eat thereof, for the hound has caught it for itself. And if along with your hound, joined other hounds, and Allah's Name was not mentioned at the time of their sending, and they catch an animal and kill it, you should not eat of it, for you will not know which of them has killed it. And if you have thrown an arrow at the game and then find it (dead) two or three days later and, it bears no mark other than the wound inflicted by your arrow, then you can eat of it. But if the game is found (dead) in water, then do not eat of it.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا جب تم نے اپنا کتا شکار پر چھوڑ ا اور بسم اللہ بھی پڑھی اور کتے نے شکار پکڑا اور اسے مار ڈالا تو اسے کھاؤ اور اگر اس نے خود بھی کھا لیا تو تم نہ کھاؤ کیونکہ یہ شکار اس نے اپنے لیے پکڑا ہے اور اگر دوسرے کتے جن پر اللہ کا نام نہ لیا گیا ہو ، اس کتے کے ساتھ شکار میں شریک ہو جائیں اور شکار پکڑ کر مار ڈالیں تو اےسا شکار نہ کھاؤ کےوں کہ تمہیں معلوم نہیں کہ کس کتے نے مارا ہے اور اگر تم نے شکار پر تیر مارا پھر وہ شکارتمہیں دو یا تین دن بعد ملا اور اس پر تمہارے تیر کے نشان کے سوا اور کوئی دوسرا نشان نہیں ہے تو ایسا شکار کھاؤ لیکن اگر وہ پانی میں گر گیا ہو تو نہ کھاؤ ۔",
+                "urduNarrator": "ہم سے موسیٰ بن اسماعیل نے بیان کیا ، کہا ہم سے ثابت بن یزید نے بیان کیا ، کہا ہم سے عاصم بن سلیمان نے بیان کیا ، ان سے شعبی نے ، ان سے عدی بن حاتم رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا ثَابِتُ بْنُ يَزِيدَ، حَدَّثَنَا عَاصِمٌ، عَنِ الشَّعْبِيِّ، عَنْ عَدِيِّ بْنِ حَاتِمٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا أَرْسَلْتَ كَلْبَكَ وَسَمَّيْتَ فَأَمْسَكَ وَقَتَلَ، فَكُلْ، وَإِنْ أَكَلَ فَلاَ تَأْكُلْ، فَإِنَّمَا أَمْسَكَ عَلَى نَفْسِهِ، وَإِذَا خَالَطَ كِلاَبًا لَمْ يُذْكَرِ اسْمُ اللَّهِ عَلَيْهَا فَأَمْسَكْنَ وَقَتَلْنَ فَلاَ تَأْكُلْ، فَإِنَّكَ لاَ تَدْرِي أَيُّهَا قَتَلَ، وَإِنْ رَمَيْتَ الصَّيْدَ فَوَجَدْتَهُ بَعْدَ يَوْمٍ أَوْ يَوْمَيْنِ، لَيْسَ بِهِ إِلاَّ أَثَرُ سَهْمِكَ، فَكُلْ، وَإِنْ وَقَعَ فِي الْمَاءِ فَلاَ تَأْكُلْ ‏\"‏‏.‏",
+                "headingArabic": "الصَّيْدِ إِذَا غَابَ عَنْهُ يَوْمَيْنِ أَوْ ثَلاَثَةً",
+                "headingUrdu": "اگر شکاری کسی کھیل کو مارے لیکن دو تین دن تک اسے نہ پکڑے۔",
+                "headingEnglish": "If the hunter hits a game but does not catch it till two or three days",
+                "chapterId": "73",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 73,
+                    "chapterNumber": "73",
+                    "chapterEnglish": "Hunting, Slaughtering",
+                    "chapterUrdu": "ذبیح اور شکار کے بیان میں",
+                    "chapterArabic": "كتاب الذبائح والصيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5250,
+                "hadithNumber": "5485",
+                "englishNarrator": "Narrated by `Adi bin Hatim رضی اللہ عنہ :",
+                "hadithEnglish": "He asked the Prophet (ﷺ) \"If a hunter throws an arrow at the game and after tracing it for two or three days he finds it dead but still bearing his arrow, (can he eat of it)?\" The Prophet (ﷺ) replied, \"He can eat if he wishes.\"",
+                "hadithUrdu": "انہوں نے نبی کریم صلی اللہ علیہ وسلم سے عرض کی کہ وہ شکار تیرسے مار تے ہیں پھر دو یا تین دن پر اسے تلاش کرتے ہیں ، تب وہ مردہ حالت میں ملتا ہے اور اس کے اندر ان کا تیر گھسا ہوا ہوتا ہے ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ اگر تو چاہے تو کھا سکتا ہے ۔",
+                "urduNarrator": "اور عبدالاعلیٰ نے بیان کیا ، ان سے داؤد بن ابی یاسر نے ، ان سے عامر شعبی نے اور ان سے حضرت عدی بن حاتم رضی اللہ عنہ نے کہ",
+                "hadithArabic": "وَقَالَ عَبْدُ الأَعْلَى عَنْ دَاوُدَ، عَنْ عَامِرٍ، عَنْ عَدِيٍّ، أَنَّهُ قَالَ لِلنَّبِيِّ صلى الله عليه وسلم، يَرْمِي الصَّيْدَ فَيَقْتَفِرُ أَثَرَهُ الْيَوْمَيْنِ وَالثَّلاَثَةَ، ثُمَّ يَجِدُهُ مَيِّتًا وَفِيهِ سَهْمُهُ قَالَ ‏ \"‏ يَأْكُلُ إِنْ شَاءَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "73",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 73,
+                    "chapterNumber": "73",
+                    "chapterEnglish": "Hunting, Slaughtering",
+                    "chapterUrdu": "ذبیح اور شکار کے بیان میں",
+                    "chapterArabic": "كتاب الذبائح والصيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5251,
+                "hadithNumber": "5486",
+                "englishNarrator": "Narrated `Adi bin Hatim رضی اللہ عنہ :",
+                "hadithEnglish": "I said, \"O Allah's Messenger (ﷺ)! I let loose my hound after a game and mention Allah's Name on sending it.\" The Prophet (ﷺ) said, \"If you let loose your hound after a game and you mention Allah's Name on sending it and the hound catches and kills the game and eats of it, then you should not eat of it, for it has killed it for itself.\" I said, \"Sometimes when I send my hound after a game, I find another hound along with it and I do not know which of them has caught the game.\" He said, \"You must not eat of it because you have not mentioned, the Name of Allah except on sending your own hound, and you did not mention it on the other hound.\" Then I asked him about the game hunted with a Mi'rad (i.e. a sharp edged piece of wood or a piece of wood provided with a sharp piece of iron used for hunting). He said, \"If the game is killed with its sharp edge, you can eat of it, but if it is killed by its broad side (shaft), you cannot eat of it, for then it is like an animal beaten to death with a piece of wood.\"",
+                "hadithUrdu": "میں نے عرض کیا یا رسول اللہ ! میں ( شکار کے لئے ) اپنا کتا چھوڑتے وقت بسم اللہ پڑھ لیتا ہوں ۔ آپ نے فرمایا کہ جب کتا چھوڑتے وقت بسم اللہ پڑھ لیا ہو اور پھر وہ کتا شکار پکڑا کے مار ڈالے اور خود بھی کھا لے تو ایسا شکار نہ کھاؤ کیونکہ یہ شکار اس نے خود اپنے لیے پکڑا ہے ۔ میں نے کہا کہ میں کتا شکار پر چھوڑتا ہوں لیکن اس کے سا تھ دوسرا کتا بھی مجھے ملتا ہے اور مجھے یہ معلوم نہیں کہ کس نے شکار پکڑا ہے ؟ آپ نے فرمایا کہ ایسا شکار نہ کھاؤ کیونکہ تم نے اپنے کتے پر بسم اللہ پڑھی ہے دوسرے کتے پر نہیں پڑھی اور میں نے آپ سے بے پر کے تیر یا لکڑی سے شکار کا حکم پوچھا تو آپ نے فرمایا کہ اگر شکار نوک کی دھار سے مرا ہو تو کھا لیکن اگر تو نے اس کی چوڑائی سے اسے مارا ہے تو ایسا شکار بوجھ سے مرا ہے پس اسے نہ کھا ۔",
+                "urduNarrator": "ہم سے آدم بن ایاس نے بیان کیا ، کہا ہم سے شعبہ نے بیان کیا ، ان سے عبداللہ بن ابی السفر نے ، ان سے عامر شعبی نے اور ان سے حضرت عدی بن حاتم رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي السَّفَرِ، عَنِ الشَّعْبِيِّ، عَنْ عَدِيِّ بْنِ حَاتِمٍ، قَالَ قُلْتُ يَا رَسُولَ اللَّهِ إِنِّي أُرْسِلُ كَلْبِي وَأُسَمِّي فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ إِذَا أَرْسَلْتَ كَلْبَكَ وَسَمَّيْتَ، فَأَخَذَ فَقَتَلَ فَأَكَلَ فَلاَ تَأْكُلْ، فَإِنَّمَا أَمْسَكَ عَلَى نَفْسِهِ ‏\"‏‏.‏ قُلْتُ إِنِّي أُرْسِلُ كَلْبِي أَجِدُ مَعَهُ كَلْبًا آخَرَ، لاَ أَدْرِي أَيُّهُمَا أَخَذَهُ‏.‏ فَقَالَ ‏\"‏ لاَ تَأْكُلْ فَإِنَّمَا سَمَّيْتَ عَلَى كَلْبِكَ وَلَمْ تُسَمِّ عَلَى غَيْرِهِ ‏\"‏‏.‏ وَسَأَلْتُهُ عَنْ صَيْدِ الْمِعْرَاضِ فَقَالَ ‏\"‏ إِذَا أَصَبْتَ بِحَدِّهِ، فَكُلْ، وَإِذَا أَصَبْتَ بِعَرْضِهِ فَقَتَلَ، فَإِنَّهُ وَقِيذٌ، فَلاَ تَأْكُلْ ‏\"‏‏.‏",
+                "headingArabic": "إِذَا وَجَدَ مَعَ الصَّيْدِ كَلْبًا آخَرَ",
+                "headingUrdu": "اگر کسی کو کھیل کے ساتھ کوئی اور شکاری مل جائے۔",
+                "headingEnglish": "If somebody finds another hound with the game",
+                "chapterId": "73",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 73,
+                    "chapterNumber": "73",
+                    "chapterEnglish": "Hunting, Slaughtering",
+                    "chapterUrdu": "ذبیح اور شکار کے بیان میں",
+                    "chapterArabic": "كتاب الذبائح والصيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5252,
+                "hadithNumber": "5487",
+                "englishNarrator": "Narrated Adi Bin Hatim رضی اللہ عنہ :",
+                "hadithEnglish": "I asked Allah's Messenger (ﷺ), \"We hunt with these hounds.\" He said, \"If you send your trained hounds after a game and mention Allah's Name on sending, you can eat of what they catch for you. But if the hound eats of the game, then you must not eat of it, for I am afraid that the hound caught it for itself, and if another hound joins your hounds (during the hunt), you should not eat of the game.\"",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم سے پوچھا کہ ہم اس قوم میں سکونت رکھتے ہیں جو ان کتوں سے شکار کرتی ہے ۔ آپ نے فرمایا کہ جب تم اپنا سکھایا ہو اکتا چھوڑ و اور اس پر اللہ کا نام لے لو تو اگر وہ کتا تمہارے لیے شکار لایا ہو تو تم اسے کھا سکتے ہو لیکن اگر کتے نے خود بھی کھا لیا ہو تو وہ شکار نہ کھاؤ کیونکہ اندیشہ ہے کہ اس نے وہ شکار خود اپنے لیے پکڑا ہے اور اگر اس کتے کے ساتھ کوئی دوسرا کتا بھی شکارمیں شریک ہو جائے تو پھر شکار نہ کھاؤ ۔",
+                "urduNarrator": "مجھ سے محمد بن سلام نے بیان کیا ، کہا ہم کو محمد ابن فضل نے خبر دی ، ان سے بیان بن بشر نے ، ان سے عامر شعبی نے اور ان سے حضرت عدی بن حاتم رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدٌ، أَخْبَرَنِي ابْنُ فُضَيْلٍ، عَنْ بَيَانٍ، عَنْ عَامِرٍ، عَنْ عَدِيِّ بْنِ حَاتِمٍ ـ رضى الله عنه ـ قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقُلْتُ إِنَّا قَوْمٌ نَتَصَيَّدُ بِهَذِهِ الْكِلاَبِ‏.‏ فَقَالَ ‏ \"‏ إِذَا أَرْسَلْتَ كِلاَبَكَ الْمُعَلَّمَةَ وَذَكَرْتَ اسْمَ اللَّهِ، فَكُلْ مِمَّا أَمْسَكْنَ عَلَيْكَ، إِلاَّ أَنْ يَأْكُلَ الْكَلْبُ، فَلاَ تَأْكُلْ فَإِنِّي أَخَافُ أَنْ يَكُونَ إِنَّمَا أَمْسَكَ عَلَى نَفْسِهِ، وَإِنْ خَالَطَهَا كَلْبٌ مِنْ غَيْرِهَا، فَلاَ تَأْكُلْ ‏\"‏‏.‏",
+                "headingArabic": "مَا جَاءَ فِي التَّصَيُّدِ",
+                "headingUrdu": "شکار کے بارے میں کیا کہا گیا ہے۔",
+                "headingEnglish": "What have been said about hunting",
+                "chapterId": "73",
+                "bookSlug": "sahih-bukhari",
+                "volume": "7",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 73,
+                    "chapterNumber": "73",
+                    "chapterEnglish": "Hunting, Slaughtering",
+                    "chapterUrdu": "ذبیح اور شکار کے بیان میں",
+                    "chapterArabic": "كتاب الذبائح والصيد",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 5226,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=209",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=207",
+                "label": "207",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=208",
+                "label": "208",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=209",
+                "label": "209",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=210",
+                "label": "210",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=211",
+                "label": "211",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=212",
+                "label": "212",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=213",
+                "label": "213",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=211",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=211",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=209",
+        "to": 5250,
+        "total": 40465
+    }
+}

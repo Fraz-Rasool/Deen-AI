@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 17,
+        "data": [
+            {
+                "id": 401,
+                "hadithNumber": "406",
+                "englishNarrator": "Narrated `Abdullah bin `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) saw sputum on the wall of the mosque in the direction of the Qibla and scraped it off. He faced the people and said, \"Whenever any one of you is praying, he should not spit in front of him because in the prayer Allah is in front of him.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے قبلے کی دیوار پر تھوک دیکھا ، آپ صلی اللہ علیہ وسلم نے اسے کھرچ ڈالا پھر ( آپ صلی اللہ علیہ وسلم نے ) لوگوں سے خطاب کیا اور فرمایا کہ جب کوئی شخص نماز میں ہو تو اپنے منہ کے سامنے نہ تھوکے کیونکہ نماز میں منہ کے سامنے اللہ عزوجل ہوتا ہے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ، انھوں نے کہا ہم سے امام مالک نے نافع کے واسطہ سے روایت کیا ، کہا انھوں نے عبداللہ بن عمر رضی اللہ عنہما کے واسطہ سے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ،‏.‏ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَأَى بُصَاقًا فِي جِدَارِ الْقِبْلَةِ فَحَكَّهُ، ثُمَّ أَقْبَلَ عَلَى النَّاسِ فَقَالَ ‏ \"‏ إِذَا كَانَ أَحَدُكُمْ يُصَلِّي، فَلاَ يَبْصُقْ قِبَلَ وَجْهِهِ، فَإِنَّ اللَّهَ قِبَلَ وَجْهِهِ إِذَا صَلَّى ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 402,
+                "hadithNumber": "407",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا , (the mother of faithful believers):",
+                "hadithEnglish": "Allah's Messenger (ﷺ) saw some nasal secretions, expectoration or sputum on the wall of the mosque in the direction of the Qibla and scraped it off.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے قبلہ کی دیوار پر رینٹ یا تھوک یا بلغم دیکھا تو اسے آپ صلی اللہ علیہ وسلم نے کھرچ ڈالا ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ، انھوں نے کہا کہ ہمیں امام مالک نے ہشام بن عروہ کے واسطہ سے ، انھوں نے اپنے والد سے ، انھوں نے حضرت عائشہ ام المؤمنین رضی اللہ عنہا سے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ أُمِّ الْمُؤْمِنِينَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَأَى فِي جِدَارِ الْقِبْلَةِ مُخَاطًا أَوْ بُصَاقًا أَوْ نُخَامَةً فَحَكَّهُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 403,
+                "hadithNumber": "408, 409",
+                "englishNarrator": "Narrated Abu Huraira and Abu Sa`id رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) saw some expectoration on the wall of the mosque; he took gravel and scraped it off and said, \"If anyone of you wanted to spit he should neither spit in front of him nor on his right but he could spit either on his left or under his left foot.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے مسجد کی دیوار پر بلغم دیکھا ، پھر رسول اللہ صلی اللہ علیہ وسلم نے ایک کنکری لی اور اسے صاف کر دیا ۔ پھر فرمایا کہ جب تم میں سے کوئی شخص تھوکے تو اسے اپنے منہ کے سامنے یا دائیں طرف نہیں تھوکنا چاہیے ، البتہ بائیں طرف یا اپنے پاؤں کے نیچے تھوک لے ۔",
+                "urduNarrator": "ہم سے سعید بن اسماعیل نے بیان کیا ، انھوں نے کہا ہم سے ابراہیم بن سعد نے بیان کیا ، انھوں نے کہا ہمیں ابن شہاب نے حمید بن عبدالرحمٰن کے واسطہ سے بیان کیا کہ حضرت ابوہریرہ اور حضرت ابو سعید خدری رضی اللہ عنہما نے انہیں خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ ، قَالَ : أَخْبَرَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ ، أَخْبَرَنَا ابْنُ شِهَابٍ ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ ، أَنَّ أَبَا هُرَيْرَةَ ، وَأَبَا سَعِيدٍ حَدَّثَاهُ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رَأَى نُخَامَةً فِي جِدَارِ الْمَسْجِدِ ، فَتَنَاوَلَ حَصَاةً فَحَكَّهَا ، فَقَالَ : إِذَا تَنَخَّمَ أَحَدُكُمْ ، فَلَا يَتَنَخَّمَنَّ قِبَلَ وَجْهِهِ ، وَلَا عَنْ يَمِينِهِ ، وَلْيَبْصُقْ عَنْ يَسَارِهِ أَوْ تَحْتَ قَدَمِهِ الْيُسْرَى.",
+                "headingArabic": "حَكِّ الْمُخَاطِ بِالْحَصَى مِنَ الْمَسْجِدِ",
+                "headingUrdu": "مسجد سے ناک کی رطوبت کو کنکری سے کھرچنا",
+                "headingEnglish": "To scrape the nasal secretion off the mosque with gravel",
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 404,
+                "hadithNumber": "410, 411",
+                "englishNarrator": "Narrated Abu Huraira and Abu Sa`id رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) saw some expectoration on the wall of the mosque; he took gravel and scraped it off and said, \"If anyone of you wanted to spit, he should neither spit in front of him nor on his right but could spit either on his left or under his left foot.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ایک کنکری سے اسے کھرچ ڈالا اور فرمایا اگر تم میں سے کسی کو تھوکنا ہو تو اسے اپنے چہرے کے سامنے یا اپنے دائیں طرف نہ تھوکا کرو، البتہ اپنے بائیں طرف یا اپنے بائیں قدم کے نیچے تھوک سکتے ہو۔",
+                "urduNarrator": "ہم سے یحییٰ بن بکیر نے بیان کیا ، انھوں نے کہا ہم سے لیث بن سعد نے بیان کیا ، انھوں نے عقیل بن خالد کے واسطے سے ، انھوں نے ابن شہاب سے ، انھوں نے حمید بن عبدالرحمٰن سے کہ حضرت ابوہریرہ اور حضرت ابو سعید خدری رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ ، قَالَ : حَدَّثَنَا اللَّيْثُ ، عَنْ عُقَيْلٍ ، عَنِ ابْنِ شِهَابٍ ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ ، أَنَّ أَبَا هُرَيْرَةَ ، وَأَبَا سَعِيدٍ أَخْبَرَاهُ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رَأَى نُخَامَةً فِي حَائِطِ الْمَسْجِدِ ، فَتَنَاوَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حَصَاةً فَحَتَّهَا ، ثُمَّ قَالَ : إِذَا تَنَخَّمَ أَحَدُكُمْ فَلَا يَتَنَخَّمْ قِبَلَ وَجْهِهِ ، وَلَا عَنْ يَمِينِهِ ، وَلْيَبْصُقْ عَنْ يَسَارِهِ أَوْ تَحْتَ قَدَمِهِ الْيُسْرَى.",
+                "headingArabic": "لاَ يَبْصُقْ عَنْ يَمِينِهِ، فِي الصَّلاَةِ",
+                "headingUrdu": "نماز میں دائیں طرف تھوکنا منع ہے",
+                "headingEnglish": "It is forbidden to spit on the right side while in Salat (prayers)",
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 405,
+                "hadithNumber": "412",
+                "englishNarrator": "Narrated Anas:",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"None of you should spit in front or on his right but he could spit either on his left or under his foot.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا ، تم اپنے سامنے یا اپنی دائیں طرف نہ تھوکا کرو ، البتہ بائیں طرف یا بائیں قدم کے نیچے تھوک سکتے ہو ۔",
+                "urduNarrator": "ہم سے حفص بن عمر نے بیان کیا ، انھوں نے کہا ہم سے شعبہ نے بیان کیا ، انھوں نے کہا کہ مجھے قتادہ نے خبر دی ، انھوں نے کہامیں نے انس بن مالک رضی اللہ عنہ سے سنا کہ",
+                "hadithArabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي قَتَادَةُ، قَالَ سَمِعْتُ أَنَسًا، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ لاَ يَتْفِلَنَّ أَحَدُكُمْ بَيْنَ يَدَيْهِ وَلاَ عَنْ يَمِينِهِ، وَلَكِنْ عَنْ يَسَارِهِ أَوْ تَحْتَ رِجْلِهِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 406,
+                "hadithNumber": "413",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"A faithful believer while in prayer is speaking in private to his Lord, so he should neither spit in front of him nor to his right side but he could spit either on his left or under his foot.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا مومن جب نماز میں ہوتا ہے تو وہ اپنے رب سے سرگوشی کرتا ہے ۔ اس لیے وہ اپنے سامنے یا دائیں طرف نہ تھوکے ، ہاں بائیں طرف یا پاؤں کے نیچے تھوک لے ۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا ، انھوں نے کہا ہم سے شعبہ نے بیان کیا ، انھوں نے کہا ہم سے قتادہ نے بیان کیا ، انھوں نے کہا کہ میں نے انس بن مالک رضی اللہ عنہ سے سنا کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ حَدَّثَنَا قَتَادَةُ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ إِنَّ الْمُؤْمِنَ إِذَا كَانَ فِي الصَّلاَةِ فَإِنَّمَا يُنَاجِي رَبَّهُ، فَلاَ يَبْزُقَنَّ بَيْنَ يَدَيْهِ وَلاَ عَنْ يَمِينِهِ، وَلَكِنْ عَنْ يَسَارِهِ أَوْ تَحْتَ قَدَمِهِ ‏\"‏‏.‏",
+                "headingArabic": "لِيَبْزُقْ عَنْ يَسَارِهِ، أَوْ تَحْتَ قَدَمِهِ الْيُسْرَى",
+                "headingUrdu": "بائیں جانب یا بائیں پاؤں کے نیچے تھوکنا چاہیے۔",
+                "headingEnglish": "One should spit on the left side or under one's left foot",
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 407,
+                "hadithNumber": "414",
+                "englishNarrator": "Narrated Abu Sa`id:",
+                "hadithEnglish": "The Prophet (ﷺ) saw sputum on (the wall of) the mosque in the direction of the Qibla and scraped it off with gravel. Then he forbade Spitting in front or on the right, but allowed it on one's left or under one's left foot.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے مسجد کے قبلہ کی دیوار پر بلغم دیکھا تو آپ صلی اللہ علیہ وسلم نے اسے کنکری سے کھرچ ڈالا ۔ پھر فرمایا کہ کوئی شخص سامنے یا دائیں طرف نہ تھوکے ، البتہ بائیں طرف یا بائیں پاؤں کے نیچے تھوک لینا چاہیے ۔",
+                "urduNarrator": "ہم سے علی بن عبداللہ مدینی نے بیان کیا ، کہا ہم سے سفیان بن عیینہ نے ، کہا ہم سے امام زہری نے حمید بن عبدالرحمٰن سے ، انھوں نے ابو سعید خدری سے کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيٌّ، قَالَ حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا الزُّهْرِيُّ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي سَعِيدٍ،‏.‏ أَنَّ النَّبِيَّ صلى الله عليه وسلم أَبْصَرَ نُخَامَةً فِي قِبْلَةِ الْمَسْجِدِ فَحَكَّهَا بِحَصَاةٍ، ثُمَّ نَهَى أَنْ يَبْزُقَ الرَّجُلُ بَيْنَ يَدَيْهِ أَوْ عَنْ يَمِينِهِ، وَلَكِنْ عَنْ يَسَارِهِ أَوْ تَحْتَ قَدَمِهِ الْيُسْرَى‏.‏ وَعَنِ الزُّهْرِيِّ سَمِعَ حُمَيْدًا عَنْ أَبِي سَعِيدٍ نَحْوَهُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 408,
+                "hadithNumber": "415",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Spitting in the mosque is a sin and its expiation is to bury it.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ مسجد میں تھوکنا گناہ ہے اور اس کا کفارہ اسے ( زمین میں ) چھپا دینا ہے ۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا ، کہا ہم سے شعبہ نے ، کہا ہم سے قتادہ نے کہا کہ میں نے انس بن مالک رضی اللہ عنہ سے سنا کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ حَدَّثَنَا قَتَادَةُ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ الْبُزَاقُ فِي الْمَسْجِدِ خَطِيئَةٌ، وَكَفَّارَتُهَا دَفْنُهَا ‏\"‏‏.‏",
+                "headingArabic": "كَفَّارَةِ الْبُزَاقِ فِي الْمَسْجِدِ",
+                "headingUrdu": "مسجد میں تھوکنے کا کفارہ",
+                "headingEnglish": "The expiation for spitting in the mosque",
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 409,
+                "hadithNumber": "416",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Prophet said, \"If anyone of you stands for prayer, he should not spit in front of him because in prayer he is speaking in private to Allah and he should not spit on his right as there is an angel, but he can spit either on his left or under his left foot and bury it (i.e. expectoration).",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا جب کوئی شخص نماز کے لیے کھڑا ہو تو سامنے نہ تھوکے کیونکہ وہ جب تک اپنی نماز کی جگہ میں ہوتا ہے تو اللہ تعالیٰ سے سرگوشی کرتا رہتا ہے اور دائیں طرف بھی نہ تھوکے کیونکہ اس طرف فرشتہ ہوتا ہے ، ہاں بائیں طرف یا قدم کے نیچے تھوک لے اور اسے مٹی میں چھپا دے ۔",
+                "urduNarrator": "ہم سے اسحاق بن نصر نے بیان کیا ، انھوں نے کہا ہمیں عبدالرزاق نے معمر بن راشد سے ، انھوں نے ہمام بن منبہ سے ، انھوں نے ابوہریرہ رضی اللہ عنہ سے سنا وہ نبی کریم صلی اللہ علیہ وسلم سے نقل کرتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ نَصْرٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنْ هَمَّامٍ، سَمِعَ أَبَا هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا قَامَ أَحَدُكُمْ إِلَى الصَّلاَةِ فَلاَ يَبْصُقْ أَمَامَهُ، فَإِنَّمَا يُنَاجِي اللَّهَ مَا دَامَ فِي مُصَلاَّهُ، وَلاَ عَنْ يَمِينِهِ، فَإِنَّ عَنْ يَمِينِهِ مَلَكًا، وَلْيَبْصُقْ عَنْ يَسَارِهِ أَوْ تَحْتَ قَدَمِهِ، فَيَدْفِنُهَا ‏\"‏‏.‏",
+                "headingArabic": "دَفْنِ النُّخَامَةِ فِي الْمَسْجِدِ",
+                "headingUrdu": "کفن کو مسجد میں دفن کرنا",
+                "headingEnglish": "The burying of the expectoration in the mosque",
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 410,
+                "hadithNumber": "417",
+                "englishNarrator": "Narrated Anas:",
+                "hadithEnglish": "The Prophet (ﷺ) saw expectoration (on the wall of the mosque) in the direction of the Qibla and scraped it off with his hand. It seemed that he disliked it and the sign of disgust was apparent from his face. He said, \"If anyone of you stands for the prayer, he is speaking in private to his Lord, (or) his Lord is between him and his Qibla, therefore he should not spit towards his Qibla, but he could spit either on his left or under his foot.\" Then he took the corner of his sheet and spat in it, folded it and said, \"Or do this.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے قبلہ کی طرف ( دیوار پر ) بلغم دیکھا تو آپ صلی اللہ علیہ وسلم نے خود اسے کھرچ ڈالا اور آپ صلی اللہ علیہ وسلم کی ناخوشی کو محسوس کیا گیا یا ( راوی نے اس طرح بیان کیا کہ ) اس کی وجہ سے آپ صلی اللہ علیہ وسلم کی شدید ناگواری کو محسوس کیا گیا ۔ پھر آپ صلی اللہ علیہ وسلم نے فرمایا کہ جب کوئی شخص نماز کے لیے کھڑا ہوتا ہے تو وہ اپنے رب سے سرگوشی کرتا ہے ، یا یہ کہ اس کا رب اس کے اور قبلہ کے درمیان ہوتا ہے ۔ اس لیے قبلہ کی طرف نہ تھوکا کرو ، البتہ بائیں طرف یا قدم کے نیچے تھوک لیا کرو ۔ پھر آپ صلی اللہ علیہ وسلم نے اپنی چادر کا ایک کونا ( کنارہ ) لیا ، اس میں تھوکا اور چادر کی ایک تہہ کو دوسری تہہ پر پھیر لیا اور فرمایا ، یا اس طرح کر لیا کرے ۔",
+                "urduNarrator": "ہم سے مالک بن اسماعیل نے بیان کیا ، کہا کہ ہم سے زہیر بن معاویہ نے ، کہا ہم سے حمید نے انس بن مالک سے کہ",
+                "hadithArabic": "حَدَّثَنَا مَالِكُ بْنُ إِسْمَاعِيلَ، قَالَ حَدَّثَنَا زُهَيْرٌ، قَالَ حَدَّثَنَا حُمَيْدٌ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم رَأَى نُخَامَةً فِي الْقِبْلَةِ فَحَكَّهَا بِيَدِهِ، وَرُئِيَ مِنْهُ كَرَاهِيَةٌ ـ أَوْ رُئِيَ كَرَاهِيَتُهُ لِذَلِكَ وَشِدَّتُهُ عَلَيْهِ ـ وَقَالَ ‏\"‏ إِنَّ أَحَدَكُمْ إِذَا قَامَ فِي صَلاَتِهِ فَإِنَّمَا يُنَاجِي رَبَّهُ ـ أَوْ رَبُّهُ بَيْنَهُ وَبَيْنَ قِبْلَتِهِ ـ فَلاَ يَبْزُقَنَّ فِي قِبْلَتِهِ، وَلَكِنْ عَنْ يَسَارِهِ أَوْ تَحْتَ قَدَمِهِ ‏\"‏‏.‏ ثُمَّ أَخَذَ طَرَفَ رِدَائِهِ فَبَزَقَ فِيهِ، وَرَدَّ بَعْضَهُ عَلَى بَعْضٍ، قَالَ ‏\"‏ أَوْ يَفْعَلُ هَكَذَا ‏\"‏‏.‏",
+                "headingArabic": "إِذَا بَدَرَهُ الْبُزَاقُ فَلْيَأْخُذْ بِطَرَفِ ثَوْبِهِ",
+                "headingUrdu": "جب تھوک نمازی کومجبور کردے تو اسے اپنے کپڑےکےکنارے میں تھو ک لیناچاہیے",
+                "headingEnglish": "If the spit or sputum comes out suddenly then one should spit in the corner of one's garnet",
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 411,
+                "hadithNumber": "418",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"Do you consider or see that my face is towards the Qibla? By Allah, neither your submissiveness nor your bowing is hidden from me, surely I see you from my back.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کیا تمہارا یہ خیال ہے کہ میرا منہ ( نماز میں ) قبلہ کی طرف ہے ، اللہ کی قسم مجھ سے نہ تمہارا خشوع چھپتا ہے نہ رکوع ، میں اپنی پیٹھ کے پیچھے سے تم کو دیکھتا رہتا ہوں ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ، انھوں نے کہا کہ ہمیں امام مالک نے ابوالزناد سے خبر دی ، انھوں نے اعرج سے ، انھوں نے حضرت ابوہریرہ رضی اللہ عنہ سے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ هَلْ تَرَوْنَ قِبْلَتِي هَا هُنَا فَوَاللَّهِ مَا يَخْفَى عَلَىَّ خُشُوعُكُمْ وَلاَ رُكُوعُكُمْ، إِنِّي لأَرَاكُمْ مِنْ وَرَاءِ ظَهْرِي ‏\"‏‏.‏",
+                "headingArabic": "عِظَةِ الإِمَامِ النَّاسَ فِي إِتْمَامِ الصَّلاَةِ، وَذِكْرِ الْقِبْلَةِ",
+                "headingUrdu": "نماز کی صحیح ادائیگی اور قبلہ (مکہ میں خانہ کعبہ) کے ذکر کے بارے میں لوگوں کو امام کی تبلیغ",
+                "headingEnglish": "Preaching of the Imam to the people regarding the proper offering of As-Salat (the prayers) and the mention of the Qiblah (Kabah at Makkah)",
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 412,
+                "hadithNumber": "419",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) led us in a prayer and then got up on the pulpit and said, \"In your prayer and bowing, I certainly see you from my back as I see you (while looking at you.)\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے ہمیں ایک مرتبہ نماز پڑھائی ، پھر آپ صلی اللہ علیہ وسلم منبر پر چڑھے ، پھر نماز کے باب میں اور رکوع کے باب میں فرمایا میں تمہیں پیچھے سے بھی اسی طرح دیکھتا رہتا ہوں جیسے اب سامنے سے دیکھ رہا ہوں ۔",
+                "urduNarrator": "ہم سے یحییٰ بن صالح نے بیان کیا ، انھوں نے کہا ہم سے فلیح بن سلیمان نے ہلال بن علی سے ، انھوں نے انس بن مالک رضی اللہ عنہ سے ، وہ کہتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ صَالِحٍ، قَالَ حَدَّثَنَا فُلَيْحُ بْنُ سُلَيْمَانَ، عَنْ هِلاَلِ بْنِ عَلِيٍّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ صَلَّى بِنَا النَّبِيُّ صلى الله عليه وسلم صَلاَةً ثُمَّ رَقِيَ الْمِنْبَرَ، فَقَالَ فِي الصَّلاَةِ وَفِي الرُّكُوعِ ‏ \"‏ إِنِّي لأَرَاكُمْ مِنْ وَرَائِي كَمَا أَرَاكُمْ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 413,
+                "hadithNumber": "420",
+                "englishNarrator": "Narrated `Abdullah bin `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) ordered for a horse race; the trained horses were to run from a place called Al-Hafya' to Thaniyat Al-Wada` and the horses which were not trained were to run from Al-Thaniya to the Masjid (mosque of) Bani Zuraiq. The sub narrator added: Ibn `Umar was one of those who took part in the race.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ان گھوڑوں کی جنھیں ( جہاد کے لیے ) تیار کیا گیا تھا مقام حفیاء سے دوڑ کرائی ، اس دوڑ کی حد ثنیۃ الوداع تھی اور جو گھوڑے ابھی تیار نہیں ہوئے تھے ان کی دوڑ ثنیۃ الوداع سے مسجد بنی زریق تک کرائی ۔ عبداللہ بن عمر رضی اللہ عنہما نے بھی اس گھوڑ دوڑ میں شرکت کی تھی ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ، انھوں نے کہا کہ ہمیں امام مالک نے خبر دی ، انھوں نے نافع کے واسطہ سے بیان کیا ، انھوں نے عبداللہ بن عمر رضی اللہ عنہما سے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم سَابَقَ بَيْنَ الْخَيْلِ الَّتِي أُضْمِرَتْ مِنَ الْحَفْيَاءِ، وَأَمَدُهَا ثَنِيَّةُ الْوَدَاعِ، وَسَابَقَ بَيْنَ الْخَيْلِ الَّتِي لَمْ تُضْمَرْ مِنَ الثَّنِيَّةِ إِلَى مَسْجِدِ بَنِي زُرَيْقٍ، وَأَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ كَانَ فِيمَنْ سَابَقَ بِهَا‏.‏",
+                "headingArabic": "هَلْ يُقَالُ مَسْجِدُ بَنِي فُلاَنٍ",
+                "headingUrdu": "یہ کہنا جائز ہے کہ فلاں بنی کی مسجد؟",
+                "headingEnglish": "It is permissible to say, \"Masjid (mosque) of Bani so-and-so?",
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 414,
+                "hadithNumber": "421",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "Some goods came to Allah's Messenger (ﷺ) from Bahrain. The Prophet (ﷺ) ordered the people to spread them in the mosque --it was the biggest amount of goods Allah's Messenger (ﷺ) had ever received. He left for prayer and did not even look at it. After finishing the prayer, he sat by those goods and gave from those to everybody he saw. Al-`Abbas came to him and said, \"O Allah's Messenger (ﷺ)! give me (something) too, because I gave ransom for myself and `Aqil\". Allah's Messenger (ﷺ) told him to take. So he stuffed his garment with it and tried to carry it away but he failed to do so. He said, \"O Allah's Messenger (ﷺ)! Order someone to help me in lifting it.\" The Prophet (ﷺ) refused. He then said to the Prophet: Will you please help me to lift it?\" Allah's Messenger (ﷺ) refused. Then Al-`Abbas threw some of it and tried to lift it (but failed). He again said, \"O Allah's Messenger (ﷺ) Order someone to help me to lift it.\" He refused. Al-`Abbas then said to the Prophet: \"Will you please help me to lift it?\" He again refused. Then Al-`Abbas threw some of it, and lifted it on his shoulders and went away. Allah's Messenger (ﷺ) kept on watching him till he disappeared from his sight and was astonished at his greediness. Allah's Messenger (ﷺ) did not get up till the last coin was distributed.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم کے پاس بحرین سے رقم آئی ۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ اسے مسجد میں ڈال دو اور یہ رقم اس تمام رقم سے زیادہ تھی جو اب تک آپ صلی اللہ علیہ وسلم کی خدمت میں آ چکی تھی ۔ پھر آپ صلی اللہ علیہ وسلم نماز کے لیے تشریف لائے اور اس کی طرف کوئی توجہ نہیں فرمائی ، جب آپ صلی اللہ علیہ وسلم نماز پوری کر چکے تو آ کر مال ( رقم ) کے پاس بیٹھ گئے اور اسے تقسیم کرنا شروع فرما دیا ۔ اس وقت جسے بھی آپ صلی اللہ علیہ وسلم دیکھتے اسے عطا فرما دیتے ۔ اتنے میں حضرت عباس رضی اللہ عنہ حاضر ہوئے اور بولے کہ یا رسول اللہ ! مجھے بھی عطا کیجیئے کیونکہ میں نے ( غزوہ بدر میں ) اپنا بھی فدیہ دیا تھا اور عقیل کا بھی ( اس لیے میں زیر بار ہوں ) رسول کریم صلی اللہ علیہ وسلم نے فرمایا کہ لے لیجیئے ۔ انھوں نے اپنے کپڑے میں روپیہ بھر لیا اور اسے اٹھانے کی کوشش کی لیکن ( وزن کی زیادتی کی وجہ سے ) وہ نہ اٹھا سکے اور کہنے لگے یا رسول اللہ ! کسی کو فرمائیے کہ وہ اٹھانے میں میری مدد کرے ۔ آپ صلی اللہ علیہ وسلم نے فرمایا نہیں ( یہ نہیں ہو سکتا ) انھوں نے کہا کہ پھر آپ ہی اٹھوا دیجیئے ۔ آپ صلی اللہ علیہ وسلم نے اس پر بھی انکار کیا ، تب حضرت عباس رضی اللہ عنہ نے اس میں سے تھوڑا سا گرا دیا اور باقی کو اٹھانے کی کوشش کی ، ( لیکن اب بھی نہ اٹھا سکے ) پھر فرمایا کہ یا رسول اللہ ! کسی کو میری مدد کرنے کا حکم دیجیئے ۔ آپ صلی اللہ علیہ وسلم نے انکار فرمایا تو انھوں نے کہا کہ پھر آپ ہی اٹھوا دیجیئے ۔ لیکن آپ صلی اللہ علیہ وسلم نے اس سے بھی انکار کیا ، تب انھوں نے اس میں سے تھوڑا سا روپیہ گرا دیا اور اسے اٹھا کر اپنے کاندھے پر رکھ لیا اور چلنے لگے ، رسول اللہ صلی اللہ علیہ وسلم کو ان کی اس حرص پر اتنا تعجب ہوا کہ آپ صلی اللہ علیہ وسلم اس وقت تک ان کی طرف دیکھتے رہے جب تک وہ ہماری نظروں سے غائب نہیں ہو گئے اور آپ صلی اللہ علیہ وسلم بھی وہاں سے اس وقت تک نہ اٹھے جب تک کہ ایک چونی بھی باقی رہی ۔",
+                "urduNarrator": "ابراہیم بن طہمان نے کہا ، عبدالعزیز بن صہیب سے ، انھوں نے حضرت انس رضی اللہ عنہ سے روایت کیا کہ",
+                "hadithArabic": "وَقَالَ إِبْرَاهِيمُ عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ أُتِيَ النَّبِيُّ صلى الله عليه وسلم بِمَالٍ مِنَ الْبَحْرَيْنِ فَقَالَ ‏\"‏ انْثُرُوهُ فِي الْمَسْجِدِ ‏\"‏‏.‏ وَكَانَ أَكْثَرَ مَالٍ أُتِيَ بِهِ رَسُولُ اللَّهِ صلى الله عليه وسلم، فَخَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى الصَّلاَةِ، وَلَمْ يَلْتَفِتْ إِلَيْهِ، فَلَمَّا قَضَى الصَّلاَةَ جَاءَ فَجَلَسَ إِلَيْهِ، فَمَا كَانَ يَرَى أَحَدًا إِلاَّ أَعْطَاهُ، إِذْ جَاءَهُ الْعَبَّاسُ فَقَالَ يَا رَسُولَ اللَّهِ، أَعْطِنِي فَإِنِّي فَادَيْتُ نَفْسِي وَفَادَيْتُ عَقِيلاً، فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ خُذْ ‏\"‏‏.‏ فَحَثَا فِي ثَوْبِهِ، ثُمَّ ذَهَبَ يُقِلُّهُ فَلَمْ يَسْتَطِعْ فَقَالَ يَا رَسُولَ اللَّهِ، أُؤْمُرْ بَعْضَهُمْ يَرْفَعُهُ إِلَىَّ‏.‏ قَالَ ‏\"‏ لاَ ‏\"‏‏.‏ قَالَ فَارْفَعْهُ أَنْتَ عَلَىَّ‏.‏ قَالَ ‏\"‏ لاَ ‏\"‏‏.‏ فَنَثَرَ مِنْهُ، ثُمَّ ذَهَبَ يُقِلُّهُ، فَقَالَ يَا رَسُولَ اللَّهِ، أُؤْمُرْ بَعْضَهُمْ يَرْفَعْهُ عَلَىَّ‏.‏ قَالَ ‏\"‏ لاَ ‏\"‏‏.‏ قَالَ فَارْفَعْهُ أَنْتَ عَلَىَّ‏.‏ قَالَ ‏\"‏ لاَ ‏\"‏‏.‏ فَنَثَرَ مِنْهُ، ثُمَّ احْتَمَلَهُ فَأَلْقَاهُ عَلَى كَاهِلِهِ ثُمَّ انْطَلَقَ، فَمَا زَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُتْبِعُهُ بَصَرَهُ حَتَّى خَفِيَ عَلَيْنَا، عَجَبًا مِنْ حِرْصِهِ، فَمَا قَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَثَمَّ مِنْهَا دِرْهَمٌ‏.‏",
+                "headingArabic": "الْقِسْمَةِ وَتَعْلِيقِ الْقِنْوِ فِي الْمَسْجِدِ",
+                "headingUrdu": "(سامان یا مال کی) تقسیم اور مسجد میں کھجوروں کا گچھا لٹکانا۔",
+                "headingEnglish": "The distribution (of goods or wealh) and the hanging of a cluster of dates in the mosque.",
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 415,
+                "hadithNumber": "422",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "I found the Prophet (ﷺ) in the mosque along with some people. He said to me, \"Did Abu Talha send you?\" I said, \"Yes\". He said, \"For a meal?\" I said, \"Yes.\" Then he said to his companions, \"Get up.\" They set out and I was ahead of them.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم کو مسجد میں پایا ، آپ صلی اللہ علیہ وسلم کے پاس اور بھی کئی لوگ تھے ۔ میں کھڑا ہو گیا تو آنحضرت صلی اللہ علیہ وسلم نے مجھ سے پوچھا کہ کیا تجھ کو ابوطلحہ نے بھیجا ہے ؟ میں نے کہا جی ہاں آپ صلی اللہ علیہ وسلم نے پوچھا کھانے کے لیے ؟ ( بلایا ہے ) میں نے عرض کی کہ جی ہاں ! تب آپ صلی اللہ علیہ وسلم نے اپنے قریب موجود لوگوں سے فرمایا کہ چلو ، سب حضرات چلنے لگے اور میں ان کے آگے آگے چل رہا تھا ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ، کہا ہم سے مالک نے اسحاق بن عبداللہ سے انھوں نے انس رضی اللہ عنہ سے سنا ، وہ کہتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ، سَمِعَ أَنَسًا، قَالَ وَجَدْتُ النَّبِيَّ صلى الله عليه وسلم فِي الْمَسْجِدِ مَعَهُ نَاسٌ فَقُمْتُ، فَقَالَ لِي ‏\"‏ آرْسَلَكَ أَبُو طَلْحَةَ ‏\"‏ قُلْتُ نَعَمْ‏.‏ فَقَالَ ‏\"‏ لِطَعَامٍ ‏\"‏‏.‏ قُلْتُ نَعَمْ‏.‏ فَقَالَ لِمَنْ حَوْلَهُ ‏\"‏ قُومُوا ‏\"‏‏.‏ فَانْطَلَقَ وَانْطَلَقْتُ بَيْنَ أَيْدِيهِمْ‏.‏",
+                "headingArabic": "مَنْ دَعَا لِطَعَامٍ فِي الْمَسْجِدِ وَمَنْ أَجَابَ فِيهِ",
+                "headingUrdu": "مسجد میں کھانے کی دعوت اور دعوت قبول کرنا",
+                "headingEnglish": "Receivng and invitation to dinner in the mosque and accepting it",
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 416,
+                "hadithNumber": "423",
+                "englishNarrator": "Narrated Sahl bin Sa`d:",
+                "hadithEnglish": "A man said, \"O Allah's Messenger (ﷺ)! If a man finds another man with his wife, (committing adultery) should the husband kill him?\" Later on I saw them (the man and his wife) doing Li`an in the mosque (taking oaths, one accusing, and the other denying adultery).",
+                "hadithUrdu": "ایک شخص نے کہا ، یا رسول اللہ ! اس شخص کے بارہ میں فرمائیے جو اپنی بیوی کے ساتھ کسی غیر مرد کو ( بدفعلی کرتے ہوئے ) دیکھتا ہے ، کیا اسے مار ڈالے ؟ آخر اس مرد نے اپنی بیوی کے ساتھ مسجد میں لعان کیا اور اس وقت میں موجود تھا ۔",
+                "urduNarrator": "ہم سے یحییٰ بن موسیٰ نے بیان کیا ، کہا ہم سے عبدالرزاق نے ، کہا ہم کو ابن جریج نے ، کہا ہمیں ابن شہاب نے سہل بن سعد ساعدی سے کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى، قَالَ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، قَالَ أَخْبَرَنَا ابْنُ جُرَيْجٍ، قَالَ أَخْبَرَنِي ابْنُ شِهَابٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، أَنَّ رَجُلاً، قَالَ يَا رَسُولَ اللَّهِ، أَرَأَيْتَ رَجُلاً وَجَدَ مَعَ امْرَأَتِهِ رَجُلاً أَيَقْتُلُهُ فَتَلاَعَنَا فِي الْمَسْجِدِ وَأَنَا شَاهِدٌ‏.‏",
+                "headingArabic": "الْقَضَاءِ وَاللِّعَانِ فِي الْمَسْجِدِ بَيْنَ الرِّجَالِ وَالنِّسَاءِ",
+                "headingUrdu": "مسجد میں عدالتی فیصلے دینا اور وہاں مرد اور عورت (شوہر اور بیوی) کے درمیان الان کرنا",
+                "headingEnglish": "To give the judicial verdicts in the mosque and to perform the Al-Lian between men and women (husbands and wives) there",
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 417,
+                "hadithNumber": "424",
+                "englishNarrator": "Narrated `Itban bin Malik:",
+                "hadithEnglish": "The Prophet (ﷺ) came to my house and said, \"Where do you like me to pray?\" I pointed to a place. The Prophet then said, \"Allahu Akbar\", and we aligned behind him and he offered a two-rak`at prayer.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم ان کے گھر تشریف لائے ۔ آپ صلی اللہ علیہ وسلم نے پوچھا کہ تم اپنے گھر میں کہاں پسند کرتے ہو کہ تمہارے لیے نماز پڑھوں ۔ عتبان نے بیان کیا کہ میں نے ایک جگہ کی طرف اشارہ کیا ۔ پھر نبی کریم صلی اللہ علیہ وسلم نے تکبیر کہی اور ہم نے آپ صلی اللہ علیہ وسلم کے پیچھے صف باندھی پھر آپ صلی اللہ علیہ وسلم نے دو رکعت نماز ( نفل ) پڑھائی ۔",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ قعنبی نے بیان کیا ، انھوں نے کہا ہم سے ابراہیم بن سعد نے ابن شہاب کے واسطہ سے بیان کیا ، انھوں نے محمود بن ربیع سے انھوں نے عتبان بن مالک سے ( جو نابینا تھے ) کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، قَالَ حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ، عَنْ مَحْمُودِ بْنِ الرَّبِيعِ، عَنْ عِتْبَانَ بْنِ مَالِكٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم أَتَاهُ فِي مَنْزِلِهِ فَقَالَ ‏ \"‏ أَيْنَ تُحِبُّ أَنْ أُصَلِّيَ لَكَ مِنْ بَيْتِكَ ‏\"‏‏.‏ قَالَ فَأَشَرْتُ لَهُ إِلَى مَكَانٍ، فَكَبَّرَ النَّبِيُّ صلى الله عليه وسلم وَصَفَفْنَا خَلْفَهُ، فَصَلَّى رَكْعَتَيْنِ‏.‏",
+                "headingArabic": "إِذَا دَخَلَ بَيْتًا يُصَلِّي حَيْثُ شَاءَ، أَوْ حَيْثُ أُمِرَ، وَلاَ يَتَجَسَّسُ",
+                "headingUrdu": "اگر کوئی گھر میں داخل ہو تو کیا وہ نماز جہاں چاہے پڑھے یا جیسا کہ اسے بتایا گیا ہے؟ اور اسے اس جگہ کے بارے میں معلومات حاصل کرنے یا جاسوسی کرنے کے لیے باہر نہیں دیکھنا چاہیے۔",
+                "headingEnglish": "If someone enters a house, should he offer prayers where he likes, or as he is told? And he should not look out to seek information about the place or do spying",
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 418,
+                "hadithNumber": "425",
+                "englishNarrator": "Narrated `Itban bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "Who was one of the companions of Allah's Messenger (ﷺ) and one of the Ansar's who took part in the battle of Badr: I came to Allah's Messenger (ﷺ) and said, \"O Allah's Messenger (ﷺ) I have weak eyesight and I lead my people in prayers. When it rains the water flows in the valley between me and my people so I cannot go to their mosque to lead them in prayer. O Allah's Messenger (ﷺ)! I wish you would come to my house and pray in it so that I could take that place as a Musalla. Allah's Messenger (ﷺ) said. \"Allah willing, I will do so.\" Next day after the sun rose high, Allah's Messenger (ﷺ) and Abu Bakr came and Allah's Messenger (ﷺ) asked for permission to enter. I gave him permission and he did not sit on entering the house but said to me, \"Where do you like me to pray?\" I pointed to a place in my house. So Allah's Messenger (ﷺ) stood there and said, 'Allahu Akbar', and we all got up and aligned behind him and offered a two-rak`at prayer and ended it with Taslim. We requested him to stay for a meal called \"Khazira\" which we had prepared for him. Many members of our family gathered in the house and one of them said, \"Where is Malik bin Al-Dukhaishin or Ibn Al-Dukhshun?\" One of them replied, \"He is a hypocrite and does not love Allah and His Apostle.\" Hearing that, Allah's Messenger (ﷺ) said, \"Do not say so. Haven't you seen that he said, 'None has the right to be worshipped but Allah' for Allah's sake only?\" He said, \"Allah and His Apostle know better. We have seen him helping and advising hypocrites.\" Allah's Messenger (ﷺ) said, \"Allah has forbidden the (Hell) fire for those who say, 'None has the right to be worshipped but Allah' for Allah's sake only.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کے صحابی اور غزوہ بدر کے حاضر ہونے والوں میں سے تھے ، وہ نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے اور کہا یا رسول اللہ ! میری بینائی میں کچھ فرق آ گیا ہے اور میں اپنی قوم کے لوگوں کو نماز پڑھایا کرتا ہوں لیکن جب برسات کا موسم آتا ہے تو میرے اور میری قوم کے درمیان جو وادی ہے وہ بھر جاتی ہے اور بہنے لگ جاتی ہے اور میں انہیں نماز پڑھانے کے لیے مسجد تک نہیں جا سکتا یا رسول اللہ ! میری خواہش ہے کہ آپ میرے گھر تشریف لائیں اور ( کسی جگہ ) نماز پڑھ دیں تاکہ میں اسے نماز پڑھنے کی جگہ بنا لوں ۔ راوی نے کہا کہ رسول اللہ صلی اللہ علیہ وسلم نے عتبان سے فرمایا ، انشاء اللہ تعالیٰ میں تمہاری اس خواہش کو پورا کروں گا ۔ عتبان نے کہا کہ ( دوسرے دن ) رسول اللہ صلی اللہ علیہ وسلم اور ابوبکر صدیق رضی اللہ عنہ جب دن چڑھا تو دونوں تشریف لے آئے اور رسول اللہ صلی اللہ علیہ وسلم نے اندر آنے کی اجازت چاہی ، میں نے اجازت دے دی ۔ جب آپ گھر میں تشریف لائے تو بیٹھے بھی نہیں اور پوچھا کہ تم اپنے گھر کے کس حصہ میں مجھ سے نماز پڑھنے کی خواہش رکھتے ہو ۔ عتبان نے کہا کہ میں نے گھر میں ایک کونے کی طرف اشارہ کیا ، تو رسول اللہ صلی اللہ علیہ وسلم ( اس جگہ ) کھڑے ہوئے اور تکبیر کہی ہم بھی آپ کے پیچھے کھڑے ہو گئے اور صف باندھی پس آپ نے دو رکعت ( نفل ) نماز پڑھائی پھر سلام پھیرا ۔ عتبان نے کہا کہ ہم نے آپ کو تھوڑی دیر کے لیے روکا اور آپ کی خدمت میں حلیم پیش کیا جو آپ ہی کے لیے تیار کیا گیا تھا ۔ عتبان نے کہا کہ محلہ والوں کا ایک مجمع گھر میں لگ گیا اور مجمع میں سے ایک شخص بولا کہ مالک بن دخشن یا ( یہ کہا ) ابن دخشن دکھائی نہیں دیتا ۔ اس پر کسی دوسرے نے کہہ دیا کہ وہ تو منافق ہے جسے خدا اور رسول سے کوئی محبت نہیں رسول اللہ صلی اللہ علیہ وسلم نے یہ سن کر فرمایا ایسا مت کہو ، کیا تم دیکھتے نہیں کہ اس نے «لا إله إلا الله» کہا ہے اور اس سے مقصود خالص خدا کی رضامندی حاصل کرنا ہے ۔ تب منافقت کا الزام لگانے والا بولا کہ اللہ اور اس کے رسول کو زیادہ علم ہے ہم تو بظاہر اس کی توجہات اور دوستی منافقوں ہی کے ساتھ دیکھتے ہیں ۔ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ اللہ تعالیٰ نے «لا إله إلا الله» کہنے والے پر اگر اس کا مقصد خالص خدا کی رضا حاصل کرنا ہو دوزخ کی آگ حرام کر دی ہے ۔ ابن شہاب نے کہا کہ پھر میں نے محمود سے سن کر حصین بن محمد انصاری سے جو بنوسالم کے شریف لوگوں میں سے ہیں ( اس حدیث ) کے متعلق پوچھا تو انھوں نے اس کی تصدیق کی اور کہا کہ محمود سچا ہے ۔",
+                "urduNarrator": "ہم سے سعید بن عفیر نے بیان کیا ، انھوں نے کہا ہم سے لیث بن سعد نے بیان کیا ، انھوں نے کہا کہ مجھ سے عقیل نے ابن شہاب کے واسطہ سے بیان کیا کہ مجھے محمود بن ربیع انصاری نے کہ عتبان بن مالک انصاری رضی اللہ عنہ",
+                "hadithArabic": "حَدَّثَنَا سَعِيدُ بْنُ عُفَيْرٍ، قَالَ حَدَّثَنِي اللَّيْثُ، قَالَ حَدَّثَنِي عُقَيْلٌ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي مَحْمُودُ بْنُ الرَّبِيعِ الأَنْصَارِيُّ، أَنَّ عِتْبَانَ بْنَ مَالِكٍ ـ وَهُوَ مِنْ أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم مِمَّنْ شَهِدَ بَدْرًا مِنَ الأَنْصَارِ ـ أَنَّهُ أَتَى رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ، قَدْ أَنْكَرْتُ بَصَرِي، وَأَنَا أُصَلِّي لِقَوْمِي، فَإِذَا كَانَتِ الأَمْطَارُ سَالَ الْوَادِي الَّذِي بَيْنِي وَبَيْنَهُمْ، لَمْ أَسْتَطِعْ أَنْ آتِيَ مَسْجِدَهُمْ فَأُصَلِّيَ بِهِمْ، وَوَدِدْتُ يَا رَسُولَ اللَّهِ أَنَّكَ تَأْتِينِي فَتُصَلِّيَ فِي بَيْتِي، فَأَتَّخِذَهُ مُصَلًّى‏.‏ قَالَ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ سَأَفْعَلُ إِنْ شَاءَ اللَّهُ ‏\"‏‏.‏ قَالَ عِتْبَانُ فَغَدَا رَسُولُ اللَّهِ صلى الله عليه وسلم وَأَبُو بَكْرٍ حِينَ ارْتَفَعَ النَّهَارُ، فَاسْتَأْذَنَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَأَذِنْتُ لَهُ، فَلَمْ يَجْلِسْ حَتَّى دَخَلَ الْبَيْتَ ثُمَّ قَالَ ‏\"‏ أَيْنَ تُحِبُّ أَنْ أُصَلِّيَ مِنْ بَيْتِكَ ‏\"‏‏.‏ قَالَ فَأَشَرْتُ لَهُ إِلَى نَاحِيَةٍ مِنَ الْبَيْتِ، فَقَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَكَبَّرَ، فَقُمْنَا فَصَفَّنَا، فَصَلَّى رَكْعَتَيْنِ ثُمَّ سَلَّمَ، قَالَ وَحَبَسْنَاهُ عَلَى خَزِيرَةٍ صَنَعْنَاهَا لَهُ‏.‏ قَالَ فَثَابَ فِي الْبَيْتِ رِجَالٌ مِنْ أَهْلِ الدَّارِ ذَوُو عَدَدٍ فَاجْتَمَعُوا، فَقَالَ قَائِلٌ مِنْهُمْ أَيْنَ مَالِكُ بْنُ الدُّخَيْشِنِ أَوِ ابْنُ الدُّخْشُنِ فَقَالَ بَعْضُهُمْ ذَلِكَ مُنَافِقٌ لاَ يُحِبُّ اللَّهَ وَرَسُولَهُ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لاَ تَقُلْ ذَلِكَ، أَلاَ تَرَاهُ قَدْ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ‏.‏ يُرِيدُ بِذَلِكَ وَجْهَ اللَّهِ ‏\"‏‏.‏ قَالَ اللَّهُ وَرَسُولُهُ أَعْلَمُ‏.‏ قَالَ فَإِنَّا نَرَى وَجْهَهُ وَنَصِيحَتَهُ إِلَى الْمُنَافِقِينَ‏.‏ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ فَإِنَّ اللَّهَ قَدْ حَرَّمَ عَلَى النَّارِ مَنْ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ‏.‏ يَبْتَغِي بِذَلِكَ وَجْهَ اللَّهِ ‏\"‏‏.‏ قَالَ ابْنُ شِهَابٍ ثُمَّ سَأَلْتُ الْحُصَيْنَ بْنَ مُحَمَّدٍ الأَنْصَارِيَّ ـ وَهْوَ أَحَدُ بَنِي سَالِمٍ وَهُوَ مِنْ سَرَاتِهِمْ ـ عَنْ حَدِيثِ مَحْمُودِ بْنِ الرَّبِيعِ، فَصَدَّقَهُ بِذَلِكَ‏.‏",
+                "headingArabic": "الْمَسَاجِدِ فِي الْبُيُوتِ",
+                "headingUrdu": "مساجد کو گھروں میں لے جانے کے بارے میں",
+                "headingEnglish": "About (taking) the mosques in the houses",
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 419,
+                "hadithNumber": "426",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "The Prophet (ﷺ) used to start every thing from the right (for good things) whenever it was possible in all his affairs; for example: in washing, combing or wearing shoes.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم اپنے تمام کاموں میں جہاں تک ممکن ہوتا دائیں طرف سے شروع کرنے کو پسند فرماتے تھے ۔ طہارت کے وقت بھی ، کنگھا کرنے اور جوتا پہننے میں بھی ۔",
+                "urduNarrator": "ہم سے سلیمان بن حرب نے بیان کیا ، کہا ہم کو شعبہ نے خبر دی اشعث بن سلیم کے واسطہ سے ، انھوں نے مسروق سے ، انھوں نے حضرت عائشہ رضی اللہ عنہا سے ، آپ فرماتی ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنِ الأَشْعَثِ بْنِ سُلَيْمٍ، عَنْ أَبِيهِ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ، قَالَتْ كَانَ النَّبِيُّ صلى الله عليه وسلم يُحِبُّ التَّيَمُّنَ مَا اسْتَطَاعَ فِي شَأْنِهِ كُلِّهِ فِي طُهُورِهِ وَتَرَجُّلِهِ وَتَنَعُّلِهِ‏.‏",
+                "headingArabic": "التَّيَمُّنِ فِي دُخُولِ الْمَسْجِدِ وَغَيْرِهِ",
+                "headingUrdu": "مساجد وغیرہ میں داخل ہوتے وقت دائیں پاؤں سے شروع کرنا چاہیے۔",
+                "headingEnglish": "While entering the mosques etc. one should start with the right foot",
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 420,
+                "hadithNumber": "427",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "Um Habiba رضی اللہ عنہا and Um Salama رضی اللہ عنہا mentioned about a church they had seen in Ethiopia in which there were pictures. They told the Prophet (ﷺ) about it, on which he said, \"If any religious man dies amongst those people they would build a place of worship at his grave and make these pictures in it. They will be the worst creature in the sight of Allah on the Day of Resurrection.\"",
+                "hadithUrdu": "ام حبیبہ رضی اللہ عنہا اور ام سلمہ رضی اللہ عنہما دونوں نے ایک کلیسا کا ذکر کیا جسے انھوں نے حبشہ میں دیکھا تو اس میں مورتیں ( تصویریں ) تھیں ۔ انھوں نے اس کا تذکرہ نبی کریم صلی اللہ علیہ وسلم سے بھی کیا ۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ ان کا یہ قاعدہ تھا کہ اگر ان میں کوئی نیکوکار ( نیک ) شخص مر جاتا تو وہ لوگ اس کی قبر پر مسجد بناتے اور اس میں یہی مورتیں ( تصویریں ) بنا دیتے پس یہ لوگ خدا کی درگاہ میں قیامت کے دن تمام مخلوق میں برے ہوں گے ۔",
+                "urduNarrator": "ہم سے محمد بن مثنی نے بیان کیا ، کہا ہم سے یحییٰ بن سعید قطان نے ہشام بن عروہ کے واسطہ سے بیان کیا ، کہا کہ مجھے میرے باپ نے حضرت عائشہ رضی اللہ عنہا سے یہ خبر پہنچائی کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا يَحْيَى، عَنْ هِشَامٍ، قَالَ أَخْبَرَنِي أَبِي، عَنْ عَائِشَةَ، أَنَّ أُمَّ حَبِيبَةَ، وَأُمَّ سَلَمَةَ ذَكَرَتَا كَنِيسَةً رَأَيْنَهَا بِالْحَبَشَةِ فِيهَا تَصَاوِيرُ، فَذَكَرَتَا لِلنَّبِيِّ صلى الله عليه وسلم فَقَالَ ‏ \"‏ إِنَّ أُولَئِكَ إِذَا كَانَ فِيهِمُ الرَّجُلُ الصَّالِحُ فَمَاتَ بَنَوْا عَلَى قَبْرِهِ مَسْجِدًا، وَصَوَّرُوا فِيهِ تِلْكَ الصُّوَرَ، فَأُولَئِكَ شِرَارُ الْخَلْقِ عِنْدَ اللَّهِ يَوْمَ الْقِيَامَةِ ‏\"‏‏.‏",
+                "headingArabic": "هَلْ تُنْبَشُ قُبُورُ مُشْرِكِي الْجَاهِلِيَّةِ، وَيُتَّخَذُ مَكَانَهَا مَسَاجِدَ",
+                "headingUrdu": "کیا زمانہ جاہلیت کے مشرکین کی قبریں کھودنا اور اس جگہ کو مسجد کے طور پر استعمال کرنا جائز ہے؟",
+                "headingEnglish": "Is it permissible to dig the graves of pagans of the period of Ignorance, and to use that place as a mosque?",
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 421,
+                "hadithNumber": "428",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "When the Prophet (ﷺ) arrived Medina he dismounted at `Awali-i-Medina amongst a tribe called Banu `Amr bin `Auf. He stayed there For fourteen nights. Then he sent for Bani An-Najjar and they came armed with their swords. As if I am looking (just now) as the Prophet (ﷺ) was sitting over his Rahila (Mount) with Abu Bakr riding behind him and all Banu An-Najjar around him till he dismounted at the courtyard of Abu Aiyub's house. The Prophet (ﷺ) loved to pray wherever the time for the prayer was due even at sheep-folds. Later on he ordered that a mosque should be built and sent for some people of Banu-An-Najjar and said, \"O Banu An-Najjar! Suggest to me the price of this (walled) piece of land of yours.\" They replied, \"No! By Allah! We do not demand its price except from Allah.\" Anas added: There were graves of pagans in it and some of it was unleveled and there were some date-palm trees in it. The Prophet (ﷺ) ordered that the graves of the pagans be dug out and the unleveled land be level led and the date-palm trees be cut down . (So all that was done). They aligned these cut date-palm trees towards the Qibla of the mosque (as a wall) and they also built two stone side-walls (of the mosque). His companions brought the stones while reciting some poetic verses. The Prophet (ﷺ) was with them and he kept on saying, \"There is no goodness except that of the Hereafter, O Allah! So please forgive the Ansars and the emigrants. \"",
+                "hadithUrdu": "جب نبی کریم صلی اللہ علیہ وسلم مدینہ تشریف لائے تو یہاں کے بلند حصہ میں بنی عمرو بن عوف کے یہاں آپ اترے اور یہاں چوبیس راتیں قیام فرمایا ۔ پھر آپ صلی اللہ علیہ وسلم نے بنونجار کو بلا بھیجا ، تو وہ لوگ تلواریں لٹکائے ہوئے آئے ۔ انس نے کہا ، گویا میری نظروں کے سامنے نبی کریم صلی اللہ علیہ وسلم اپنی سواری پر تشریف فرما ہیں ، جبکہ ابوبکر صدیق رضی اللہ عنہ آپ صلی اللہ علیہ وسلم کے پیچھے بیٹھے ہوئے ہیں اور بنو نجار کے لوگ آپ صلی اللہ علیہ وسلم کے چاروں طرف ہیں ۔ یہاں تک کہ آپ صلی اللہ علیہ وسلم ابوایوب کے گھر کے سامنے اترے اور آپ صلی اللہ علیہ وسلم یہ پسند کرتے تھے کہ جہاں بھی نماز کا وقت آ جائے فوراً نماز ادا کر لیں ۔ آپ بکریوں کے باڑوں میں بھی نماز پڑھ لیتے تھے ، پھر آپ نے یہاں مسجد بنانے کے لیے حکم فرمایا ۔ چنانچہ بنو نجار کے لوگوں کو آپ صلی اللہ علیہ وسلم نے بلوا کر فرمایا کہ اے بنو نجار ! تم اپنے اس باغ کی قیمت مجھ سے لے لو ۔ انھوں نے جواب دیا نہیں یا رسول اللہ ! اس کی قیمت ہم صرف اللہ سے مانگتے ہیں ۔ انس رضی اللہ عنہ نے بیان کیا کہ میں جیسا کہ تمہیں بتا رہا تھا یہاں مشرکین کی قبریں تھیں ، اس باغ میں ایک ویران جگہ تھی اور کچھ کھجور کے درخت بھی تھے پس نبی کریم صلی اللہ علیہ وسلم نے مشرکین کی قبروں کو اکھڑوا دیا ویرانہ کو صاف اور برابر کرایا اور درختوں کو کٹوا کر ان کی لکڑیوں کو مسجد کے قبلہ کی جانب بچھا دیا اور پتھروں کے ذریعہ انہیں مضبوط بنا دیا ۔ صحابہ پتھر اٹھاتے ہوئے رجز پڑھتے تھے اور نبی کریم صلی اللہ علیہ وسلم بھی ان کے ساتھ تھے اور یہ کہہ رہے تھے کہ اے اللہ ! آخرت کے فائدہ کے علاوہ اور کوئی فائدہ نہیں پس انصار و مہاجرین کی مغفرت فرمانا ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیا ، انھوں نے کہا ہم سے عبدالوارث نے بیان کیا ، انھوں نے ابوالتیاح کے واسطہ سے بیان کیا ، انھوں نے انس بن مالک رضی اللہ عنہ سے ، انھوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ أَبِي التَّيَّاحِ، عَنْ أَنَسٍ، قَالَ قَدِمَ النَّبِيُّ صلى الله عليه وسلم الْمَدِينَةَ فَنَزَلَ أَعْلَى الْمَدِينَةِ، فِي حَىٍّ يُقَالُ لَهُمْ بَنُو عَمْرِو بْنِ عَوْفٍ‏.‏ فَأَقَامَ النَّبِيُّ صلى الله عليه وسلم فِيهِمْ أَرْبَعَ عَشْرَةَ لَيْلَةً، ثُمَّ أَرْسَلَ إِلَى بَنِي النَّجَّارِ فَجَاءُوا مُتَقَلِّدِي السُّيُوفِ، كَأَنِّي أَنْظُرُ إِلَى النَّبِيِّ صلى الله عليه وسلم عَلَى رَاحِلَتِهِ، وَأَبُو بَكْرٍ رِدْفُهُ، وَمَلأُ بَنِي النَّجَّارِ حَوْلَهُ، حَتَّى أَلْقَى بِفِنَاءِ أَبِي أَيُّوبَ، وَكَانَ يُحِبُّ أَنْ يُصَلِّيَ حَيْثُ أَدْرَكَتْهُ الصَّلاَةُ، وَيُصَلِّي فِي مَرَابِضِ الْغَنَمِ، وَأَنَّهُ أَمَرَ بِبِنَاءِ الْمَسْجِدِ، فَأَرْسَلَ إِلَى مَلإٍ مِنْ بَنِي النَّجَّارِ فَقَالَ ‏\"‏ يَا بَنِي النَّجَّارِ ثَامِنُونِي بِحَائِطِكُمْ هَذَا ‏\"‏‏.‏ قَالُوا لاَ وَاللَّهِ، لاَ نَطْلُبُ ثَمَنَهُ إِلاَّ إِلَى اللَّهِ‏.‏ فَقَالَ أَنَسٌ فَكَانَ فِيهِ مَا أَقُولُ لَكُمْ، قُبُورُ الْمُشْرِكِينَ، وَفِيهِ خَرِبٌ، وَفِيهِ نَخْلٌ، فَأَمَرَ النَّبِيُّ صلى الله عليه وسلم بِقُبُورِ الْمُشْرِكِينَ فَنُبِشَتْ، ثُمَّ بِالْخَرِبِ فَسُوِّيَتْ، وَبِالنَّخْلِ فَقُطِعَ، فَصَفُّوا النَّخْلَ قِبْلَةَ الْمَسْجِدِ، وَجَعَلُوا عِضَادَتَيْهِ الْحِجَارَةَ، وَجَعَلُوا يَنْقُلُونَ الصَّخْرَ، وَهُمْ يَرْتَجِزُونَ، وَالنَّبِيُّ صلى الله عليه وسلم مَعَهُمْ وَهُوَ يَقُولُ ‏\"‏ اللَّهُمَّ لاَ خَيْرَ إِلاَّ خَيْرُ الآخِرَهْ فَاغْفِرْ لِلأَنْصَارِ وَالْمُهَاجِرَهْ ‏\"‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 422,
+                "hadithNumber": "429",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "\"The Prophet (ﷺ) prayed in the sheep fold.\" Later on I heard him saying, \"He prayed in the sheep folds before the construction of the, mosque.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم بکریوں کے باڑوں میں نماز پڑھتے تھے ، ابوالتیاح یا شعبہ نے کہا ، پھر میں نے انس کو یہ کہتے ہوئے سنا کہ نبی کریم صلی اللہ علیہ وسلم بکریوں کے باڑہ میں مسجد کی تعمیر سے پہلے نماز پڑھا کرتے تھے ۔",
+                "urduNarrator": "ہم سے سلیمان بن حرب نے بیان کیا ، انھوں نے کہا ہم سے شعبہ نے ابوالتیاح کے واسطے سے ، انھوں نے انس بن مالک رضی اللہ عنہ سے ، انھوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي التَّيَّاحِ، عَنْ أَنَسٍ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يُصَلِّي فِي مَرَابِضِ الْغَنَمِ، ثُمَّ سَمِعْتُهُ بَعْدُ يَقُولُ كَانَ يُصَلِّي فِي مَرَابِضِ الْغَنَمِ قَبْلَ أَنْ يُبْنَى الْمَسْجِدُ‏.‏",
+                "headingArabic": "الصَّلاَةِ فِي مَرَابِضِ الْغَنَمِ",
+                "headingUrdu": "بھیڑ کے باڑے میں نماز پڑھنا",
+                "headingEnglish": "To offer As-Salat (the prayer) in a sheep-fold",
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 423,
+                "hadithNumber": "430",
+                "englishNarrator": "Narrated Nafi`:",
+                "hadithEnglish": "\"I saw Ibn `Umar praying while taking his camel as a Sutra in front of him and he said, \"I saw the Prophet doing the same.\"",
+                "hadithUrdu": "میں نے ابن عمر رضی اللہ عنہما کو اپنے اونٹ کی طرف نماز پڑھتے دیکھا اور انھوں نے فرمایا کہ میں نے نبی کریم صلی اللہ علیہ وسلم کو اسی طرح پڑھتے دیکھا تھا ۔",
+                "urduNarrator": "ہم سے صدقہ بن فضل نے بیان کیا ، انھوں نے کہا ہم سے سلیمان بن حیان نے ، کہا ہم سے عبیداللہ نے نافع کے واسطہ سے ، انھوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا صَدَقَةُ بْنُ الْفَضْلِ، قَالَ أَخْبَرَنَا سُلَيْمَانُ بْنُ حَيَّانَ، قَالَ حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، قَالَ رَأَيْتُ ابْنَ عُمَرَ يُصَلِّي إِلَى بَعِيرِهِ وَقَالَ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يَفْعَلُهُ‏.‏",
+                "headingArabic": "الصَّلاَةِ فِي مَوَاضِعِ الإِبِلِ",
+                "headingUrdu": "اونٹوں کے صحن میں نماز پڑھنا۔",
+                "headingEnglish": "To offer As-Salat (the prayer) in the camel yards (the places where the camels are stationed)",
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 424,
+                "hadithNumber": "431",
+                "englishNarrator": "Narrated `Abdullah bin `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "The sun eclipsed and Allah's Messenger (ﷺ) offered the eclipse prayer and said, \"I have been shown the Hellfire (now) and I never saw a worse and horrible sight than the sight I have seen today.\"",
+                "hadithUrdu": "سورج گہن ہوا تو نبی کریم صلی اللہ علیہ وسلم نے نماز پڑھی اور فرمایا کہ مجھے ( آج ) دوزخ دکھائی گئی ، اس سے زیادہ بھیانک منظر میں نے کبھی نہیں دیکھا ۔",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ نے بیان کیا ، انھوں نے امام مالک کے واسطہ سے بیان کیا ، انھوں نے زید بن اسلم سے ، انھوں نے عطاء بن یسار سے ، انھوں نے عبداللہ بن عباس رضی اللہ عنہما سے ، انھوں نے فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، قَالَ انْخَسَفَتِ الشَّمْسُ، فَصَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم ثُمَّ قَالَ ‏ \"‏ أُرِيتُ النَّارَ، فَلَمْ أَرَ مَنْظَرًا كَالْيَوْمِ قَطُّ أَفْظَعَ ‏\"‏‏.‏",
+                "headingArabic": "مَنْ صَلَّى وَقُدَّامَهُ تَنُّورٌ أَوْ نَارٌ أَوْ شَىْءٌ مِمَّا يُعْبَدُ، فَأَرَادَ بِهِ اللَّهَ",
+                "headingUrdu": "جس نے بھٹی یا آگ یا کوئی اور قابل عبادت چیز اپنے سامنے رکھ کر نماز پڑھی لیکن اس نے صرف اللہ کے لیے نماز کی نیت کی۔",
+                "headingEnglish": "whoever offered Salat (prayer) with furnace or fire or any other worshipable thing in front of him but he intended Salat solely for Allah",
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 425,
+                "hadithNumber": "432",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما  :",
+                "hadithEnglish": "The Prophet (ﷺ) had said, \"Offer some of your prayers (Nawafil) at home, and do not take your houses as graves.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا اپنے گھروں میں بھی نمازیں پڑھا کرو اور انہیں بالکل مقبرہ نہ بنا لو ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیا ، انھوں نے کہا ہم سے یحییٰ نے بیان کیا ، انھوں نے عبیداللہ بن عمر کے واسطہ سے بیان کیا ، انھوں نے کہا کہ مجھے نافع نے عبداللہ بن عمر رضی اللہ عنہما کے واسطہ سے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، قَالَ أَخْبَرَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ اجْعَلُوا فِي بُيُوتِكُمْ مِنْ صَلاَتِكُمْ، وَلاَ تَتَّخِذُوهَا قُبُورًا ‏\"‏‏.‏",
+                "headingArabic": "كَرَاهِيَةِ الصَّلاَةِ فِي الْمَقَابِرِ",
+                "headingUrdu": "قبروں میں نماز پڑھنے کی ناپسندیدگی",
+                "headingEnglish": "The dislikeness of offering As-Salat (the prayers) in grave-yards",
+                "chapterId": "8",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 8,
+                    "chapterNumber": "8",
+                    "chapterEnglish": "Prayers (Salat)",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 401,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=16",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=14",
+                "label": "14",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=15",
+                "label": "15",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=16",
+                "label": "16",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=17",
+                "label": "17",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=18",
+                "label": "18",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=19",
+                "label": "19",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=20",
+                "label": "20",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=18",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=18",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=16",
+        "to": 425,
+        "total": 40465
+    }
+}

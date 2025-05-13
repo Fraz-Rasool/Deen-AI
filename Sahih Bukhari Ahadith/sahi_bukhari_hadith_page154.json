@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 154,
+        "data": [
+            {
+                "id": 3828,
+                "hadithNumber": "4008",
+                "englishNarrator": "Narrated Abu Masud Al-Badri  رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"It is sufficient for one to recite the last two Verses of Surat-al-Baqara at night.\" Abdur Rehman (bin Yazeed) narrates: I visited Hadrat Abu Masoud رضی اللہ عنہ When he was performing circumambulation  of the Ka'bah and asked him of it, so he narrated me the Hadith in the same way.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ سورۃ البقرہ کی دو آیتیں ( «امن الرسول» سے آخر تک ) ایسی ہیں کہ جو شخص رات میں انہیں پڑھ لے وہ اس کے لیے کافی ہو جاتی ہیں۔ عبدالرحمٰن نے بیان کیا کہ پھر میں نے خود ابومسعود رضی اللہ عنہ سے ملاقات کی، وہ اس وقت بیت اللہ کا طواف کر رہے تھے۔ میں نے ان سے اس حدیث کے متعلق پوچھا تو انہوں نے یہ حدیث مجھ سے بیان کی۔",
+                "urduNarrator": "ہم سے موسیٰ بن اسماعیل نے بیان کیا، ہم سے ابوعوانہ نے بیان کیا، ان سے اعمش نے، ان سے ابراہیم نخعی نے، ان سے عبدالرحمٰن بن یزید نخعی نے، ان سے علقمہ بن یسعی نے اور ان سے ابومسعود بدری رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُوسَى، حَدَّثَنَا أَبُو عَوَانَةَ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ، عَنْ عَلْقَمَةَ، عَنْ أَبِي مَسْعُودٍ الْبَدْرِيِّ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الآيَتَانِ مِنْ آخِرِ سُورَةِ الْبَقَرَةِ مَنْ قَرَأَهُمَا فِي لَيْلَةٍ كَفَتَاهُ ‏\"‏‏.‏ قَالَ عَبْدُ الرَّحْمَنِ فَلَقِيتُ أَبَا مَسْعُودٍ وَهْوَ يَطُوفُ بِالْبَيْتِ، فَسَأَلْتُهُ فَحَدَّثَنِيهِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3829,
+                "hadithNumber": "4009",
+                "englishNarrator": "Narrated Mahmud bin Ar-Rabi:",
+                "hadithEnglish": "`Itban bin Malik رضی اللہ عنہ who was one of the companions of the Prophet (ﷺ) and one of the warriors of Badr, came to Allah's Messenger (ﷺ).",
+                "hadithUrdu": "عتبان بن مالک رضی اللہ عنہ جو نبی کریم صلی اللہ علیہ وسلم کے صحابی تھے اور وہ بدر میں شریک ہوئے تھے اور انصار میں سے تھے، نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے۔",
+                "urduNarrator": "ہم سے یحییٰ بن بکیر نے بیان کیا، کہا ہم سے لیث بن سعد نے بیان کیا، ان سے عقیل نے، ان سے ابن شہاب نے، انہیں محمود بن ربیع نے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي مَحْمُودُ بْنُ الرَّبِيعِ، أَنَّ عِتْبَانَ بْنَ مَالِكٍ، وَكَانَ، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم مِمَّنْ شَهِدَ بَدْرًا مِنَ الأَنْصَارِ أَنَّهُ أَتَى رَسُولَ اللَّهِ صلى الله عليه وسلم‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3830,
+                "hadithNumber": "4010",
+                "englishNarrator": "Narrated Ibn Shihab:",
+                "hadithEnglish": "I asked Al-Husain bin Muhammad who was one of the sons of Salim and one of the nobles amongst them, about the narration of Mahmud bin Ar-Rabi 'from `Itban bin Malik رضی اللہ عنہ , and he confirmed it.",
+                "hadithUrdu": "پھر میں نے حصین بن محمد انصاری سے جو بنی سالم کے شریف لوگوں میں سے تھے، محمود بن ربیع کی حدیث کے متعلق پوچھا جس کی روایت انہوں نے عتبان بن مالک رضی اللہ عنہ سے کی تھی تو انہوں نے بھی اس کی تصدیق کی۔",
+                "urduNarrator": "ہم سے احمد نے بیان کیا جو صالح کے بیٹے ہیں، کہا ہم سے عنبسہ ابن خالد نے بیان کیا، ان سے یونس بن یزید نے بیان کیا اور ان سے ابن شہاب نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ ـ هُوَ ابْنُ صَالِحٍ ـ حَدَّثَنَا عَنْبَسَةُ، حَدَّثَنَا يُونُسُ، قَالَ ابْنُ شِهَابٍ ثُمَّ سَأَلْتُ الْحُصَيْنَ بْنَ مُحَمَّدٍ ـ وَهْوَ أَحَدُ بَنِي سَالِمٍ وَهْوَ مِنْ سَرَاتِهِمْ ـ عَنْ حَدِيثِ، مَحْمُودِ بْنِ الرَّبِيعِ عَنْ عِتْبَانَ بْنِ مَالِكٍ، فَصَدَّقَةُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3831,
+                "hadithNumber": "4011",
+                "englishNarrator": "Narrated `Abdullah bin `Amr bin Rabi`a رضی اللہ عنہ :",
+                "hadithEnglish": "who was one of the leaders of Bani `Adi and his father participated in the battle of Badr in the company of the Prophet. `Umar رضی اللہ عنہ appointed Qudama bin Maz'un رضی اللہ عنہ as ruler of Bahrain, Qudama رضی اللہ عنہ was one of the warriors of the battle of Badr and was the maternal uncle of `Abdullah bin `Umar and Hafsa رضی اللہ عنہم .",
+                "hadithUrdu": "وہ قبیلہ بنی عدی کے سب لوگوں میں بڑے تھے اور ان کے والد عامر بن ربیعہ بدر میں نبی کریم صلی اللہ علیہ وسلم کے ساتھ شریک تھے۔ ( انہوں نے بیان کیا کہ ) عمر رضی اللہ عنہ نے قدامہ بن مظعون رضی اللہ عنہ کو بحرین کا عامل بنایا تھا، وہ قدامہ رضی اللہ عنہ بھی بدر کے معرکے میں شریک تھے اور عبداللہ بن عمر اور حفصہ رضی اللہ عنہم کے ماموں تھے۔",
+                "urduNarrator": "ہم سے ابوالیمان نے بیان کیا، کہا ہمیں شعیب نے خبر دی، ان سے زہری نے بیان کیا، کہا کہ مجھے عبداللہ بن عامر بن ربیعہ رضی اللہ عنہ نے خبر دی،",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي عَبْدُ اللَّهِ بْنُ عَامِرِ بْنِ رَبِيعَةَ، وَكَانَ، مِنْ أَكْبَرِ بَنِي عَدِيٍّ وَكَانَ أَبُوهُ شَهِدَ بَدْرًا مَعَ النَّبِيِّ صلى الله عليه وسلم أَنَّ عُمَرَ اسْتَعْمَلَ قُدَامَةَ بْنَ مَظْعُونٍ عَلَى الْبَحْرَيْنِ، وَكَانَ شَهِدَ بَدْرًا، وَهُوَ خَالُ عَبْدِ اللَّهِ بْنِ عُمَرَ وَحَفْصَةَ رضى الله عنهم‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3832,
+                "hadithNumber": "4012, 4013",
+                "englishNarrator": "Narrated `Abdullah bin `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "His two paternal uncles who had fought in the battle of Badr informed him that Allah's Messenger (ﷺ) forbade the renting of fields. I said to Salim, \"Do you rent your land?\" He said, \"Yes, for Rafi`  رضی اللہ عنہ is mistaken.\"",
+                "hadithUrdu": "ان کے دو چچاؤں ( ظہیر اور مظہر رافع بن عدی بن زید انصاری کے بیٹوں ) جنہوں نے بدر کی لڑائی میں شرکت کی تھی، نے انہیں خبر دی کہ رسول اللہ صلی اللہ علیہ وسلم نے زمین کو کرایہ پر دینے سے منع کیا تھا۔ میں نے سالم سے کہا لیکن آپ تو کرایہ پر دیتے ہیں۔ انہوں نے کہا کہ ہاں، رافع رضی اللہ عنہ نے اپنے اوپر زیادتی کی تھی۔",
+                "urduNarrator": "ہم سے عبداللہ بن محمد بن اسماء نے بیان کیا، کہا ہم سے جویریہ بن اسماء نے بیان کیا، ان سے امام مالک رحمہ اللہ نے، ان سے زہری نے، انہیں سالم بن عبداللہ نے خبر دی، بیان کیا کہ رافع بن خدیج رضی اللہ عنہ نے عبداللہ بن عمر رضی اللہ عنہما کو خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ أَسْمَاءَ، حَدَّثَنَا جُوَيْرِيَةُ، عَنْ مَالِكٍ، عَنِ الزُّهْرِيِّ، أَنَّ سَالِمَ بْنَ عَبْدِ اللَّهِ، أَخْبَرَهُ قَالَ أَخْبَرَ رَافِعُ بْنُ خَدِيجٍ عَبْدَ اللَّهِ بْنَ عُمَرَ، أَنَّ عَمَّيْهِ، وَكَانَا، شَهِدَا بَدْرًا أَخْبَرَاهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ كِرَاءِ الْمَزَارِعِ‏.‏ قُلْتُ لِسَالِمٍ فَتُكْرِيهَا أَنْتَ قَالَ نَعَمْ، إِنَّ رَافِعًا أَكْثَرَ عَلَى نَفْسِهِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3833,
+                "hadithNumber": "4014",
+                "englishNarrator": "Narrated `Abdullah bin Shaddad bin Al-Had Al-Laithi:",
+                "hadithEnglish": "I saw Rifa`a bin Rafi` Al-Ansari رضی اللہ عنہ who was a Badr warrior.",
+                "hadithUrdu": "میں نے رفاعہ بن رافع انصاری رضی اللہ عنہ کو دیکھا ہے۔ وہ بدر کی لڑائی میں شریک ہوئے تھے۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا، کہا ہم سے شعبہ نے بیان کیا، ان سے حصین بن عبدالرحمٰن نے، انہوں نے عبداللہ بن شداد بن ہاد لیثی سے سنا، انہوں نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، عَنْ حُصَيْنِ بْنِ عَبْدِ الرَّحْمَنِ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ شَدَّادِ بْنِ الْهَادِ اللَّيْثِيَّ، قَالَ رَأَيْتُ رِفَاعَةَ بْنَ رَافِعٍ الأَنْصَارِيَّ، وَكَانَ شَهِدَ بَدْرًا‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3834,
+                "hadithNumber": "4015",
+                "englishNarrator": "Narrated Al-Miswar bin Makhrama رضی اللہ عنہما :",
+                "hadithEnglish": "`Amr bin `Auf رضی اللہ عنہ , who was an ally of Bani 'Amir bin Luai and one of those who fought at Badr in the company of the Prophet (ﷺ) , said, \"Allah's Messenger (ﷺ) sent Abu 'Ubaida bin Al-Jarrah   رضی اللہ عنہ to Bahrain to bring the Jizya taxation from its people, for Allah's Messenger (ﷺ) had made a peace treaty with the people of Bahrain and appointed Al-`Ala' bin Al-Hadrami رضی اللہ عنہ as their ruler. So, Abu 'Ubaida رضی اللہ عنہ arrived with the money from Bahrain. When the Ansar heard of the arrival of Abu 'Ubaida رضی اللہ عنہ (on the next day) they offered the morning prayer with the Prophet (ﷺ) and when the morning prayer had finished, they presented themselves before him. On seeing the Ansar, Allah's Messenger (ﷺ) smiled and said, \"I think you have heard that Abu 'Ubaida رضی اللہ عنہ has brought something?\" They replied, \"Indeed, it is so, O Allah's Apostle!\" He said, \"Be happy, and hope for what will please you. By Allah, I am not afraid that you will be poor, but I fear that worldly wealth will be bestowed upon you as it was bestowed upon those who lived before you. So you will compete amongst yourselves for it, as they competed for it and it will destroy you as it did them.\"",
+                "hadithUrdu": "عمرو بن عوف رضی اللہ عنہ جو بنی عامر بن لوی کے حلیف تھے اور بدر کی لڑائی میں نبی کریم صلی اللہ علیہ وسلم کے ساتھ شریک تھے۔ ( نے بیان کیا کہ ) نبی کریم صلی اللہ علیہ وسلم نے ابوعبیدہ بن جراح رضی اللہ عنہ کو بحرین، وہاں کا جزیہ لانے کے لیے بھیجا۔ نبی کریم صلی اللہ علیہ وسلم نے بحرین والوں سے صلح کی تھی اور ان پر علاء بن حضرمی رضی اللہ عنہ کو امیر بنایا تھا، پھر ابوعبیدہ رضی اللہ عنہ بحرین سے مال ایک لاکھ درہم لے کر آئے۔ جب انصار کو ابوعبیدہ رضی اللہ عنہ کے آنے کی خبر ہوئی تو انہوں نے فجر کی نماز نبی کریم صلی اللہ علیہ وسلم کے ساتھ پڑھی۔ آپ صلی اللہ علیہ وسلم جب نماز سے فارغ ہوئے تو تمام انصار آپ کے سامنے آئے۔ آپ صلی اللہ علیہ وسلم انہیں دیکھ کر مسکرائے اور فرمایا: میرا خیال ہے کہ تمہیں یہ اطلاع مل گئی ہے کہ ابوعبیدہ مال لے کر آئے ہیں۔ انہوں نے عرض کیا: جی ہاں، یا رسول اللہ! آپ صلی اللہ علیہ وسلم نے فرمایا کہ پھر تمہیں خوشخبری ہو اور جس سے تمہیں خوشی ہو گی اس کی امید رکھو۔ اللہ کی قسم! مجھے تمہارے متعلق محتاجی سے ڈر نہیں لگتا، مجھے تو اس کا خوف ہے کہ دنیا تم پر بھی اسی طرح کشادہ کر دی جائے گی جس طرح تم سے پہلوں پر کشادہ کی گئی تھی، پھر پہلوں کی طرح اس کے لیے تم آپس میں رشک کرو گے اور جس طرح وہ ہلاک ہو گئے تھے تمہیں بھی یہ چیز ہلاک کر کے رہے گی۔",
+                "urduNarrator": "ہم سے عبدان نے بیان کیا، کہا ہم کو عبداللہ بن مبارک مروزی نے خبر دی، کہا ہم کو معمر اور یونس دونوں نے خبر دی، انہیں زہری نے، انہیں عروہ بن زبیر نے خبر دی، انہیں مسور بن مخرمہ رضی اللہ عنہما نے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدَانُ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا مَعْمَرٌ، وَيُونُسُ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، أَنَّهُ أَخْبَرَهُ أَنَّ الْمِسْوَرَ بْنَ مَخْرَمَةَ أَخْبَرَهُ أَنَّ عَمْرَو بْنَ عَوْفٍ وَهْوَ حَلِيفٌ لِبَنِي عَامِرِ بْنِ لُؤَىٍّ، وَكَانَ شَهِدَ بَدْرًا مَعَ النَّبِيِّ صلى الله عليه وسلم أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم بَعَثَ أَبَا عُبَيْدَةَ بْنَ الْجَرَّاحِ إِلَى الْبَحْرَيْنِ يَأْتِي بِجِزْيَتِهَا، وَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم هُوَ صَالَحَ أَهْلَ الْبَحْرَيْنِ، وَأَمَّرَ عَلَيْهِمِ الْعَلاَءَ بْنَ الْحَضْرَمِيِّ، فَقَدِمَ أَبُو عُبَيْدَةَ بِمَالٍ مِنَ الْبَحْرَيْنِ فَسَمِعَتِ الأَنْصَارُ بِقُدُومِ أَبِي عُبَيْدَةَ، فَوَافَوْا صَلاَةَ الْفَجْرِ مَعَ النَّبِيِّ صلى الله عليه وسلم، فَلَمَّا انْصَرَفَ تَعَرَّضُوا لَهُ، فَتَبَسَّمَ رَسُولُ اللَّهِ صلى الله عليه وسلم حِينَ رَآهُمْ ثُمَّ قَالَ ‏\"‏ أَظُنُّكُمْ سَمِعْتُمْ أَنَّ أَبَا عُبَيْدَةَ قَدِمَ بِشَىْءٍ ‏\"‏‏.‏ قَالُوا أَجَلْ يَا رَسُولَ اللَّهِ‏.‏ قَالَ ‏\"‏ فَأَبْشِرُوا وَأَمِّلُوا مَا يَسُرُّكُمْ، فَوَاللَّهِ مَا الْفَقْرَ أَخْشَى عَلَيْكُمْ، وَلَكِنِّي أَخْشَى أَنْ تُبْسَطَ عَلَيْكُمُ الدُّنْيَا كَمَا بُسِطَتْ عَلَى مَنْ قَبْلَكُمْ، فَتَنَافَسُوهَا كَمَا تَنَافَسُوهَا، وَتُهْلِكَكُمْ كَمَا أَهْلَكَتْهُمْ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3835,
+                "hadithNumber": "4016, 4017",
+                "englishNarrator": "Narrated Nafi`:",
+                "hadithEnglish": "Ibn `Umar رضی اللہ عنہما used to kill all kinds of snakes until Abu Lubaba Al-Badri told him that the Prophet (ﷺ) had forbidden the killing of harmless snakes living in houses and called Jinan. So Ibn `Umar gave up killing them.",
+                "hadithUrdu": "ابن عمر ہر قسم کے سانپوں کو مار ڈالتے تھے یہاں تک کہ ابو لبابہ بدری نے ان سے کہا کہ رسول اللہ صلی اللہ علیہ وسلم نے گھروں میں رہنے والے بے ضرر سانپوں کو مارنے سے منع فرمایا ہے اور جنان کہا ہے۔ چنانچہ ابن عمر نے ان کو قتل کرنا چھوڑ دیا۔",
+                "urduNarrator": "ہم سے ابوالنعمان محمد بن فضل نے بیان کیا، کہا ہم سے جریر بن حازم نے بیان کیا، ان سے نافع نے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا جَرِيرُ بْنُ حَازِمٍ، عَنْ نَافِعٍ، أَنَّ ابْنَ عُمَرَ ـ رضى الله عنهما ـ كَانَ يَقْتُلُ الْحَيَّاتِ كُلَّهَا‏. حَتَّى حَدَّثَهُ أَبُو لُبَابَةَ الْبَدْرِيُّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنْ قَتْلِ جِنَّانِ الْبُيُوتِ، فَأَمْسَكَ عَنْهَا‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3836,
+                "hadithNumber": "4018",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "Some men of the Ansar requested Allah's Messenger (ﷺ) to allow them to see him, they said, \"Allow us to forgive the ransom of our sister's son, `Abbas رضی اللہ عنہ .\" The Prophet (ﷺ) said, \"By Allah, you will not leave a single Dirham of it!\"",
+                "hadithUrdu": "انصار کے چند لوگوں نے رسول اللہ صلی اللہ علیہ وسلم سے اجازت چاہی اور عرض کیا کہ آپ ہمیں اجازت عطا فرمائیں تو ہم اپنے بھانجے عباس رضی اللہ عنہ کا فدیہ معاف کر دیں لیکن نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”اللہ کی قسم! ان کے فدیہ سے ایک درہم بھی نہ چھوڑنا۔“",
+                "urduNarrator": "مجھ سے ابراہیم بن المنذر نے بیان کیا، کہا ہم سے محمد بن فلیح نے بیان کیا، ان سے موسیٰ بن عقبہ نے کہ ہم سے ابن شہاب نے بیان کیا اور ان سے انس بن مالک رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي إِبْرَاهِيمُ بْنُ الْمُنْذِرِ، حَدَّثَنَا مُحَمَّدُ بْنُ فُلَيْحٍ، عَنْ مُوسَى بْنِ عُقْبَةَ، قَالَ ابْنُ شِهَابٍ حَدَّثَنَا أَنَسُ بْنُ مَالِكٍ، أَنَّ رِجَالاً، مِنَ الأَنْصَارِ اسْتَأْذَنُوا رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالُوا ائْذَنْ لَنَا فَلْنَتْرُكْ لاِبْنِ أُخْتِنَا عَبَّاسٍ فِدَاءَهُ‏.‏ قَالَ ‏ \"‏ وَاللَّهِ لاَ تَذَرُونَ مِنْهُ دِرْهَمًا ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3837,
+                "hadithNumber": "4019",
+                "englishNarrator": "Narrated Al-Miqdad bin `Amr Al-Kindi, who was an ally of Bani Zuhra and one of those who fought the battle of Badr together with Allah's Messenger (ﷺ) told him:",
+                "hadithEnglish": "He said to Allah's Messenger (ﷺ) \"Suppose I met one of the infidels and we fought, and he struck one of my hands with his sword and cut it off and then took refuge in a tree and said, \"I surrender to Allah (i.e. I have become a Muslim),' could I kill him, O Allah's Messenger (ﷺ), after he had said this?\" Allah's Messenger (ﷺ) said, \"You should not kill him.\" Al- Miqdad said, \"O Allah's Messenger (ﷺ)! But he had cut off one of my two hands, and then he had uttered those words?\" Allah's Messenger (ﷺ) replied, \"You should not kill him, for if you kill him, he would be in your position where you had been before killing him, and you would be in his position where he had been before uttering those words.\"",
+                "hadithUrdu": "انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے عرض کیا کہ اگر کسی موقع پر میری کسی کافر سے ٹکر ہو جائے اور ہم دونوں ایک دوسرے کو قتل کرنے کی کوشش میں لگ جائیں اور وہ میرے ایک ہاتھ پر تلوار مار کر اسے کاٹ ڈالے، پھر وہ مجھ سے بھاگ کر ایک درخت کی پناہ لے کر کہنے لگے ”میں اللہ پر ایمان لے آیا۔“ تو کیا یا رسول اللہ! اس کے اس اقرار کے بعد پھر بھی میں اسے قتل کر دوں؟ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ پھر تم اسے قتل نہ کرنا۔ انہوں نے عرض کیا یا رسول اللہ! وہ پہلے میرا ایک ہاتھ بھی کاٹ چکا ہے؟ اور یہ اقرار میرے ہاتھ کاٹنے کے بعد کیا ہے؟ آپ صلی اللہ علیہ وسلم نے پھر بھی یہی فرمایا کہ اسے قتل نہ کرنا، کیونکہ اگر تو نے اسے قتل کر ڈالا تو اسے قتل کرنے سے پہلے جو تمہارا مقام تھا اب اس کا وہ مقام ہو گا اور تمہارا مقام وہ ہو گا جو اس کا مقام اس وقت تھا جب اس نے اس کلمہ کا اقرار نہیں کیا تھا۔",
+                "urduNarrator": "ہم سے ابوعاصم نے بیان کیا، کہا ہم سے ابن جریج نے، ان سے زہری نے، ان سے عطاء بن یزید لیثی نے، ان سے عبیداللہ بن عدی نے اور ان سے مقداد بن اسود رضی اللہ عنہ نے۔ (دوسری سند) امام بخاری نے کہا اور مجھ سے اسحاق بن منصور نے بیان کیا، کہا ہم سے یعقوب بن ابراہیم بن سعد نے، ان سے ابن شہاب کے بھتیجے (محمد بن عبداللہ) نے، اپنے چچا (محمد بن مسلم بن شہاب) سے بیان کیا، انہیں عطاء بن یزید لیثی ثم الجندعی نے خبر دی، انہیں عبیداللہ بن عدی بن خیار نے خبر دی اور انہیں مقداد بن عمرو کندی رضی اللہ عنہ نے، وہ بنی زہرہ کے حلیف تھے اور بدر کی لڑائی میں رسول اللہ صلی اللہ علیہ وسلم کے ساتھ تھے۔ انہوں نے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، عَنِ الزُّهْرِيِّ، عَنْ عَطَاءِ بْنِ يَزِيدَ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَدِيٍّ، عَنِ الْمِقْدَادِ بْنِ الأَسْوَدِ، حَدَّثَنِي إِسْحَاقُ، حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ، حَدَّثَنَا ابْنُ أَخِي ابْنِ شِهَابٍ، عَنْ عَمِّهِ، قَالَ أَخْبَرَنِي عَطَاءُ بْنُ يَزِيدَ اللَّيْثِيُّ، ثُمَّ الْجُنْدَعِيُّ أَنَّ عُبَيْدَ، اللَّهِ بْنَ عَدِيِّ بْنِ الْخِيَارِ أَخْبَرَهُ أَنَّ الْمِقْدَادَ بْنَ عَمْرٍو الْكِنْدِيَّ، وَكَانَ حَلِيفًا لِبَنِي زُهْرَةَ، وَكَانَ مِمَّنْ شَهِدَ بَدْرًا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم أَخْبَرَهُ أَنَّهُ قَالَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم أَرَأَيْتَ إِنْ لَقِيتُ رَجُلاً مِنَ الْكُفَّارِ فَاقْتَتَلْنَا، فَضَرَبَ إِحْدَى يَدَىَّ بِالسَّيْفِ فَقَطَعَهَا، ثُمَّ لاَذَ مِنِّي بِشَجَرَةٍ فَقَالَ أَسْلَمْتُ لِلَّهِ‏.‏ آأَقْتُلُهُ يَا رَسُولَ اللَّهِ بَعْدَ أَنْ قَالَهَا فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لاَ تَقْتُلْهُ ‏\"‏‏.‏ فَقَالَ يَا رَسُولَ اللَّهِ، إِنَّهُ قَطَعَ إِحْدَى يَدَىَّ، ثُمَّ قَالَ ذَلِكَ بَعْدَ مَا قَطَعَهَا‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ لاَ تَقْتُلْهُ، فَإِنْ قَتَلْتَهُ فَإِنَّهُ بِمَنْزِلَتِكَ قَبْلَ أَنْ تَقْتُلَهُ، وَإِنَّكَ بِمَنْزِلَتِهِ قَبْلَ أَنْ يَقُولَ كَلِمَتَهُ الَّتِي قَالَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3838,
+                "hadithNumber": "4020",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said on the day of Badr, \"Who will go and see what has happened to Abu Jahl?\" Ibn Mas`ud رضی اللہ عنہ went and saw him struck by the two sons of 'Afra and was on the point of death . Ibn Mas`ud said, \"Are you Abu Jahl?\" Abu Jahl replied, \"Can there be a man more superior to the one whom you have killed (or as Sulaiman said, or his own folk have killed.)?\" Abu Jahl added, \"Would that I had been killed by other than a mere farmer. \"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے بدر کی لڑائی کے دن فرمایا ”کون دیکھ کر آئے گا کہ ابوجہل کے ساتھ کیا ہوا؟ عبداللہ بن مسعود رضی اللہ عنہ اس کے لیے روانہ ہوئے اور دیکھا کہ عفراء کے دونوں بیٹوں نے اسے قتل کر دیا ہے اور اس کی لاش ٹھنڈی ہونے والی ہے۔ انہوں نے پوچھا، ابوجہل تم ہی ہو؟ ابن علیہ نے بیان کیا کہ ابن مسعود رضی اللہ عنہ نے پوچھا تھا کہ تو ابوجہل ہے؟ اس پر اس نے کہا، کیا اس سے بھی بڑا کوئی ہو گا جسے تم نے آج قتل کر دیا ہے؟ سلیمان نے بیان کیا، کہا کہ یا اس نے یوں کہا، ”جسے اس کی قوم نے قتل کر دیا ہے؟ ( کیا اس سے بھی بڑا کوئی ہو گا ) کہا کہ ابومجلز نے بیان کیا کہ ابوجہل نے کہا، کاش! ایک کسان کے سوا مجھے کسی اور نے مارا ہوتا۔",
+                "urduNarrator": "مجھ سے یعقوب بن ابراہیم نے بیان کیا، کہا ہم سے ابن علیہ نے بیان کیا، کہا ہم سے سلیمان تیمی نے بیان کیا، کہا ہم سے انس رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي يَعْقُوبُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا ابْنُ عُلَيَّةَ، حَدَّثَنَا سُلَيْمَانُ التَّيْمِيُّ، حَدَّثَنَا أَنَسٌ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَ بَدْرٍ ‏ \"‏ مَنْ يَنْظُرُ مَا صَنَعَ أَبُو جَهْلٍ ‏\"‏‏.‏ فَانْطَلَقَ ابْنُ مَسْعُودٍ، فَوَجَدَهُ قَدْ ضَرَبَهُ ابْنَا عَفْرَاءَ حَتَّى بَرَدَ، فَقَالَ آنْتَ أَبَا جَهْلٍ قَالَ ابْنُ عُلَيَّةَ قَالَ سُلَيْمَانُ هَكَذَا قَالَهَا أَنَسٌ‏.‏ قَالَ أَنْتَ أَبَا جَهْلٍ قَالَ وَهَلْ فَوْقَ رَجُلٍ قَتَلْتُمُوهُ قَالَ سُلَيْمَانُ أَوْ قَالَ قَتَلَهُ قَوْمُهُ‏.‏ قَالَ وَقَالَ أَبُو مِجْلَزٍ قَالَ أَبُو جَهْلٍ فَلَوْ غَيْرُ أَكَّارٍ قَتَلَنِي‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3839,
+                "hadithNumber": "4021",
+                "englishNarrator": "Narrated `Umar رضی اللہ عنہ :",
+                "hadithEnglish": "\"When the Prophet (ﷺ) died I said to Abu Bakr رضی اللہ عنہ , 'Let us go to our Ansari brethren.' We met two pious men from them, who had fought in the battle of Badr.\" When I mentioned this to `Urwa bin Az-Zubair, he said, \"Those two pious men were 'Uwaim bin Sa`ida and Manbin Adi رضی اللہ عنہما .\"",
+                "hadithUrdu": "جب نبی کریم صلی اللہ علیہ وسلم کی وفات ہو گئی تو میں نے ابوبکر رضی اللہ عنہ سے کہا آپ ہمیں ساتھ لے کر ہمارے انصاری بھائیوں کے یہاں چلیں۔ پھر ہماری ملاقات دو نیک ترین انصاری صحابیوں سے ہوئی جنہوں نے بدر کی لڑائی میں شرکت کی تھی۔ عبیداللہ نے کہا، پھر میں نے اس حدیث کا تذکرہ عروہ بن زبیر سے کیا تو انہوں نے بتایا کہ وہ دونوں صحابی عویم بن ساعدہ اور معن بن عدی رضی اللہ عنہما تھے۔",
+                "urduNarrator": "ہم سے موسیٰ بن اسماعیل نے بیان کیا، کہا ہم سے عبدالواحد بن زیاد نے بیان کیا، کہا ہم سے معمر نے بیان کیا، ان سے زہری نے، ان سے عبیداللہ بن عبداللہ نے اور ان سے ابن عباس رضی اللہ عنہما نے عمر رضی اللہ عنہ سے کہ",
+                "hadithArabic": "حَدَّثَنَا مُوسَى، حَدَّثَنَا عَبْدُ الْوَاحِدِ، حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، حَدَّثَنِي ابْنُ عَبَّاسٍ، عَنْ عُمَرَ ـ رضى الله عنهم ـ لَمَّا تُوُفِّيَ النَّبِيُّ صلى الله عليه وسلم قُلْتُ لأَبِي بَكْرٍ انْطَلِقْ بِنَا إِلَى إِخْوَانِنَا مِنَ الأَنْصَارِ‏.‏ فَلَقِيَنَا مِنْهُمْ رَجُلاَنِ صَالِحَانِ شَهِدَا بَدْرًا‏.‏ فَحَدَّثْتُ عُرْوَةَ بْنَ الزُّبَيْرِ فَقَالَ هُمَا عُوَيْمُ بْنُ سَاعِدَةَ، وَمَعْنُ بْنُ عَدِيٍّ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3840,
+                "hadithNumber": "4022",
+                "englishNarrator": "Narrated Qais:",
+                "hadithEnglish": "The Badr warriors were given five thousand (Dirhams) each, yearly. `Umar رضی اللہ عنہ said, \"I will surely give them more than what I will give to others.\"",
+                "hadithUrdu": "بدری صحابہ کا ( سالانہ ) وظیفہ پانچ پانچ ہزار تھا۔ عمر رضی اللہ عنہ نے فرمایا کہ میں انہیں ( بدری صحابہ کو ) ان صحابیوں پر فضیلت دوں گا جو ان کے بعد ایمان لائے۔",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم نے بیان کیا، انہوں نے محمد بن فضیل سے سنا، انہوں نے اسماعیل ابن ابی خالد سے، انہوں نے قیس بن ابی حازم سے کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، سَمِعَ مُحَمَّدَ بْنَ فُضَيْلٍ، عَنْ إِسْمَاعِيلَ، عَنْ قَيْسٍ، كَانَ عَطَاءُ الْبَدْرِيِّينَ خَمْسَةَ آلاَفٍ خَمْسَةَ آلاَفٍ‏.‏ وَقَالَ عُمَرُ لأُفَضِّلَنَّهُمْ عَلَى مَنْ بَعْدَهُمْ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3841,
+                "hadithNumber": "4023",
+                "englishNarrator": "Narrated Jubair bin Mut'im:",
+                "hadithEnglish": "I heard the Prophet (ﷺ) reciting Surat-at-Tur in Maghrib prayer, and that was at a time when belief was first planted in my heart.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم سے میں نے سنا، آپ مغرب کی نماز میں سورۃ والطور کی تلاوت کر رہے تھے، یہ پہلا موقع تھا جب میرے دل میں ایمان نے قرار پکڑا۔",
+                "urduNarrator": "مجھ سے اسحاق بن منصور نے بیان کیا، کہا ہم سے عبدالرزاق نے بیان کیا، کہا ہم کو معمر نے خبر دی، انہیں زہری نے، انہیں محمد بن جبیر نے، ان سے ان کے والد نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي إِسْحَاقُ بْنُ مَنْصُورٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ مُحَمَّدِ بْنِ جُبَيْرٍ، عَنْ أَبِيهِ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقْرَأُ فِي الْمَغْرِبِ بِالطُّورِ، وَذَلِكَ أَوَّلَ مَا وَقَرَ الإِيمَانُ فِي قَلْبِي‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3842,
+                "hadithNumber": "4024",
+                "englishNarrator": "Narrated Said bin Al-Musaiyab:",
+                "hadithEnglish": "When the first civil strife (in Islam) took place because of the murder of 'Uthman       رضی اللہ عنہ , it left none of the Badr warriors alive. When the second civil strife, that is the battle of Al-Harra, took place, it left none of the Hudaibiya treaty companions alive. Then the third civil strife took place and it did not subside till it had exhausted all the strength of the people.",
+                "hadithUrdu": "پہلا فساد جب برپا ہوا یعنی عثمان رضی اللہ عنہ کی شہادت کا تو اس نے اصحاب بدر میں سے کسی کو باقی نہیں چھوڑا۔ پھر جب دوسرا فساد برپا ہوا یعنی حرہ کا، تو اس نے اصحاب حدیبیہ میں سے کسی کو باقی نہیں چھوڑا۔ پھر تیسرا فساد برپا ہوا تو وہ اس وقت تک نہیں گیا جب تک لوگوں میں کچھ بھی خوبی یا عقل باقی تھی۔",
+                "urduNarrator": "الزہری کی سند سے، محمد بن جبیر بن مطعم کی سند سے، اپنے والد کی سند سے، کہ رسول اللہ صلی اللہ علیہ وسلم نے بدر کے قیدیوں کے بارے میں فرمایا: - مطعم بن عدی زندہ تھے اور پھر ان بدبوداروں سے بات کی میں نے انہیں ان کے پاس چھوڑ دیا۔ اور لیث نے یحییٰ بن سعید انصاری سے بیان کیا، انہوں نے کہا کہ ہم سے سعید بن مسیب نے بیان کیا کہ",
+                "hadithArabic": "وَعَنِ الزُّهْرِيِّ، عَنْ مُحَمَّدِ بْنِ جُبَيْرِ بْنِ مُطْعِمٍ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ فِي أُسَارَى بَدْرٍ ‏ \"‏ لَوْ كَانَ الْمُطْعِمُ بْنُ عَدِيٍّ حَيًّا ثُمَّ كَلَّمَنِي فِي هَؤُلاَءِ النَّتْنَى لَتَرَكْتُهُمْ لَهُ ‏\"‏‏.‏ وَقَالَ اللَّيْثُ عَنْ يَحْيَى، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، وَقَعَتِ الْفِتْنَةُ الأُولَى ـ يَعْنِي مَقْتَلَ عُثْمَانَ ـ فَلَمْ تُبْقِ مِنْ أَصْحَابِ بَدْرٍ أَحَدًا، ثُمَّ وَقَعَتِ الْفِتْنَةُ الثَّانِيَةُ ـ يَعْنِي الْحَرَّةَ ـ فَلَمْ تُبْقِ مِنْ أَصْحَابِ الْحُدَيْبِيَةِ أَحَدًا ثُمَّ وَقَعَتِ الثَّالِثَةُ فَلَمْ تَرْتَفِعْ وَلِلنَّاسِ طَبَاخٌ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3843,
+                "hadithNumber": "4025",
+                "englishNarrator": "Narrated Az-Zuhri :",
+                "hadithEnglish": "\"I heard `Urwa bin Az-Zubair. Sa`id bin Al-Musaiyab, 'Alqama bin Waqqas and 'Ubaidullah bin `Abdullah each narrating part of the narrative concerning `Aisha  رضی اللہ عنہا the wife of the Prophet. `Aisha رضی اللہ عنہا said: When I and Um Mistah رضی اللہ عنہا were returning, Um Mistah رضی اللہ عنہا stumbled by treading on the end of her robe, and on that she said, 'May Mistah be ruined.' I said, 'You have said a bad thing, you curse a man who took part in the battle of Badri Companion? Then she narrated the whole episode of calumny.\"",
+                "hadithUrdu": "میں نے عروہ بن زبیر، سعید بن مسیب، علقمہ بن وقاص اور عبیداللہ بن عبداللہ سے نبی کریم صلی اللہ علیہ وسلم کی زوجہ مطہرہ عائشہ رضی اللہ عنہا کی تہمت کے متعلق سنا۔ ان میں سے ہر ایک نے مجھ سے اس واقعہ کا کوئی حصہ بیان کیا۔ عائشہ رضی اللہ عنہا نے بیان کیا تھا کہ میں اور ام مسطح باہر قضائے حاجت کو جا رہے تھے کہ ام مسطح رضی اللہ عنہا اپنی چادر میں الجھ کر پھسل پڑیں۔ اس پر ان کی زبان سے نکلا، مسطح کا برا ہو۔ میں نے کہا، آپ نے اچھی بات نہیں کہی۔ ایک ایسے شخص کو آپ برا کہتی ہیں جو بدر میں شریک ہو چکا ہے۔ پھر انہوں نے تہمت کا واقعہ بیان کیا۔",
+                "urduNarrator": "ہم سے حجاج بن منہال نے بیان کیا، انہوں نے کہا ہم سے عبداللہ بن عمر نمیری نے بیان کیا، کہا ہم سے یونس بن یزید نے بیان کیا، کہا کہ میں نے زہری سے سنا، کہا کہ",
+                "hadithArabic": "حَدَّثَنَا الْحَجَّاجُ بْنُ مِنْهَالٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عُمَرَ النُّمَيْرِيُّ، حَدَّثَنَا يُونُسُ بْنُ يَزِيدَ، قَالَ سَمِعْتُ الزُّهْرِيَّ، قَالَ سَمِعْتُ عُرْوَةَ بْنَ الزُّبَيْرِ، وَسَعِيدَ بْنَ الْمُسَيَّبِ، وَعَلْقَمَةَ بْنَ وَقَّاصٍ، وَعُبَيْدَ اللَّهِ بْنَ عَبْدِ اللَّهِ، عَنْ حَدِيثِ، عَائِشَةَ ـ رضى الله عنها ـ زَوْجِ النَّبِيِّ صلى الله عليه وسلم كُلٌّ ـ حَدَّثَنِي طَائِفَةً مِنَ الْحَدِيثِ ـ قَالَتْ فَأَقْبَلْتُ أَنَا وَأُمُّ مِسْطَحٍ فَعَثَرَتْ أُمُّ مِسْطَحٍ فِي مِرْطِهَا فَقَالَتْ تَعِسَ مِسْطَحٌ‏.‏ فَقُلْتُ بِئْسَ مَا قُلْتِ، تَسُبِّينَ رَجُلاً شَهِدَ بَدْرًا فَذَكَرَ حَدِيثَ الإِفْكِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3844,
+                "hadithNumber": "4026",
+                "englishNarrator": "Narrated Ibn Shihab:",
+                "hadithEnglish": "These were the battles of Allah's Messenger (ﷺ) (which he fought), and while mentioning (the Badr battle) he said, \"While the corpses of the pagans were being thrown into the well, Allah's Messenger (ﷺ) said (to them), 'Have you found what your Lord promised true?\" `Abdullah رضی اللہ عنہما said, \"Some of the Prophet's companions said, \"O Allah's Messenger (ﷺ)! You are addressing dead people.' Allah's Messenger (ﷺ) replied, 'You do not hear what I am saying, better than they.' The total number of Muslim fighters from Quraish who fought in the battle of Badr and were given their share of the booty, were 81 men.\" Az-Zubair رضی اللہ عنہ said, \"When their shares were distributed, their number was 100 men. But Allah knows it better.\"",
+                "hadithUrdu": "جب ( بدر کے ) کفار مقتولین کنویں میں ڈالے جانے لگے تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”کیا تم نے اس چیز کو پا لیا جس کا تم سے تمہارے رب نے وعدہ کیا تھا؟“ موسیٰ نے بیان کیا، ان سے نافع نے اور ان سے عبداللہ بن عمر رضی اللہ عنہما نے کہ اس پر نبی کریم صلی اللہ علیہ وسلم کے چند صحابہ نے عرض کیا: یا رسول اللہ! آپ ایسے لوگوں کو آواز دے رہے ہیں جو مر چکے ہیں؟ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”جو کچھ میں نے ان سے کہا ہے اسے خود تم نے بھی ان سے زیادہ بہتر طریقہ پر نہیں سنا ہو گا۔“ ابوعبداللہ ( امام بخاری رحمہ اللہ ) نے کہا کہ قریش ( صحابہ ) کے جتنے لوگ بدر میں شریک ہوئے تھے اور جن کا حصہ بھی ( اس غنیمت میں ) لگا تھا، ان کی تعداد اکیاسی تھی۔ عروہ بن زبیر بیان کرتے تھے کہ زبیر رضی اللہ عنہ نے کہا، میں نے ( ان مہاجرین کے حصے ) تقسیم کئے تھے اور ان کی تعداد سو تھی اور زیادہ بہتر علم اللہ کو ہے۔",
+                "urduNarrator": "ہم سے ابراہیم بن المنذر نے بیان کیا، کہا ہم سے محمد بن فلیح بن سلیمان نے بیان کیا، ان سے موسیٰ بن عقبہ نے اور ان سے ابن شہاب نے بیان کیا۔ یہ رسول اللہ صلی اللہ علیہ وسلم کے غزوات کا بیان تھا۔ پھر انہوں نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ، حَدَّثَنَا مُحَمَّدُ بْنُ فُلَيْحِ بْنِ سُلَيْمَانَ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنِ ابْنِ شِهَابٍ، قَالَ هَذِهِ مَغَازِي رَسُولِ اللَّهِ صلى الله عليه وسلم‏.‏ فَذَكَرَ الْحَدِيثَ، فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَهْوَ يُلْقِيهِمْ ‏\"‏ هَلْ وَجَدْتُمْ مَا وَعَدَكُمْ رَبُّكُمْ حَقًّا ‏\"‏‏.‏ قَالَ مُوسَى قَالَ نَافِعٌ قَالَ عَبْدُ اللَّهِ قَالَ نَاسٌ مِنْ أَصْحَابِهِ يَا رَسُولَ اللَّهِ تُنَادِي نَاسًا أَمْوَاتًا قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَا أَنْتُمْ بِأَسْمَعَ لِمَا قُلْتُ مِنْهُمْ ‏\"‏‏.‏ قَالَ أَبُو عَبْدِ اللَّهِ فَجَمِيعُ مَنْ شَهِدَ بَدْرًا مِنْ قُرَيْشٍ مِمَّنْ ضُرِبَ لَهُ بِسَهْمِهِ أَحَدٌ وَثَمَانُونَ رَجُلاً، وَكَانَ عُرْوَةُ بْنُ الزُّبَيْرِ يَقُولُ قَالَ الزُّبَيْرُ قُسِمَتْ سُهْمَانُهُمْ فَكَانُوا مِائَةً، وَاللَّهُ أَعْلَمُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3845,
+                "hadithNumber": "4027",
+                "englishNarrator": "Narrated Az-Zubair رضی اللہ عنہ :",
+                "hadithEnglish": "On the day of Badr, (Quraishi) Emigrants received 100 shares of the war booty.\"",
+                "hadithUrdu": "بدر کے دن مہاجرین کے سو حصے لگائے گئے تھے۔",
+                "urduNarrator": "ہم سے ابراہیم بن موسیٰ نے بیان کیا، کہ ہم کو ہشام نے خبر دی، انہیں معمر نے، انہیں ہشام بن عروہ نے، انہیں ان کے والد نے اور ان سے زبیر رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا هِشَامٌ، عَنْ مَعْمَرٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنِ الزُّبَيْرِ، قَالَ ضُرِبَتْ يَوْمَ بَدْرٍ لِلْمُهَاجِرِينَ بِمِائَةِ سَهْمٍ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3846,
+                "hadithNumber": "4028",
+                "englishNarrator": "Narrated Ibn `Umar  رضی اللہ عنہما :",
+                "hadithEnglish": "Bani An-Nadir and Bani Quraiza fought (against the Prophet (ﷺ) violating their peace treaty), so the Prophet exiled Bani An-Nadir and allowed Bani Quraiza to remain at their places (in Medina) taking nothing from them till they fought against the Prophet (ﷺ) again) . He then killed their men and distributed their women, children and property among the Muslims, but some of them came to the Prophet (ﷺ) and he granted them safety, and they embraced Islam. He exiled all the Jews from Medina. They were the Jews of Bani Qainuqa', the tribe of `Abdullah bin Salam رضی اللہ عنہ and the Jews of Bani Haritha and all the other Jews of Medina.",
+                "hadithUrdu": "بنو نضیر اور بنو قریظہ نے نبی کریم صلی اللہ علیہ وسلم سے ( معاہدہ توڑ کر ) لڑائی مول لی۔ اس لیے آپ نے قبیلہ بنو نضیر کو جلا وطن کر دیا لیکن قبیلہ بنو قریظہ کو جلا وطن نہیں کیا اور اس طرح ان پر احسان فرمایا۔ پھر بنو قریظہ نے بھی جنگ مول لی۔ اس لیے آپ نے ان کے مردوں کو قتل کروایا اور ان کی عورتوں، بچوں اور مال کو مسلمانوں میں تقسیم کر دیا۔ صرف بعض بنی قریظہ اس سے الگ قرار دیئے گئے تھے کیونکہ وہ آپ صلی اللہ علیہ وسلم کی پناہ میں آ گئے تھے۔ اس لیے آپ نے انہیں پناہ دی اور انہوں نے اسلام قبول کر لیا تھا۔ آپ صلی اللہ علیہ وسلم نے مدینہ کے تمام یہودیوں کو جلا وطن کر دیا تھا۔ بنو قینقاع کو بھی جو عبداللہ بن سلام رضی اللہ عنہ کا قبیلہ تھا، یہود بنی حارثہ کو اور مدینہ کے تمام یہودیوں کو۔",
+                "urduNarrator": "ہم سے اسحاق بن نصر نے بیان کیا، کہ ہم سے عبدالرزاق نے بیان کیا، کہا ہم کو ابن جریج نے خبر دی، انہیں موسیٰ بن عقبہ نے، انہیں نافع نے اور ان سے ابن عمر رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ نَصْرٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ حَارَبَتِ النَّضِيرُ وَقُرَيْظَةُ، فَأَجْلَى بَنِي النَّضِيرِ، وَأَقَرَّ قُرَيْظَةَ وَمَنَّ عَلَيْهِمْ، حَتَّى حَارَبَتْ قُرَيْظَةُ فَقَتَلَ رِجَالَهُمْ وَقَسَمَ نِسَاءَهُمْ وَأَوْلاَدَهُمْ وَأَمْوَالَهُمْ بَيْنَ الْمُسْلِمِينَ إِلاَّ بَعْضَهُمْ لَحِقُوا بِالنَّبِيِّ صلى الله عليه وسلم فَآمَنَهُمْ وَأَسْلَمُوا، وَأَجْلَى يَهُودَ الْمَدِينَةِ كُلَّهُمْ بَنِي قَيْنُقَاعَ وَهُمْ رَهْطُ عَبْدِ اللَّهِ بْنِ سَلاَمٍ وَيَهُودَ بَنِي حَارِثَةَ، وَكُلَّ يَهُودِ الْمَدِينَةِ‏.‏",
+                "headingArabic": "حَدِيثِ بَنِي النَّضِيرِ",
+                "headingUrdu": "بنی نضیر کا قصہ",
+                "headingEnglish": "The story of Bani An-Nadir",
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3847,
+                "hadithNumber": "4029",
+                "englishNarrator": "Narrated Sa`id bin Jubair:",
+                "hadithEnglish": "I mentioned to Ibn `Abbas رضی اللہ عنہما Surat-Hashr. He said, \"Call it Surat-an-Nadir.\" Hoshaim has has also reported from Abu Bishr likewise.",
+                "hadithUrdu": "میں نے ابن عباس رضی اللہ عنہما کے سامنے کہا، ”سورۃ الحشر“ تو انہوں نے کہا کہ اسے ”سورۃ نضیر“ کہو ( کیونکہ یہ سورت بنو نضیر ہی کے بارے میں نازل ہوئی ہے ) اس روایت کی متابعت ہشیم سے ابوبشر نے کی ہے۔",
+                "urduNarrator": "مجھ سے حسن بن مدرک نے بیان کیا، کہا ہم سے یحییٰ بن حماد نے بیان کیا، کہا ہم کو ابوعوانہ نے خبر دی، انہیں ابوبشر نے، ان سے سعید بن جبیر نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي الْحَسَنُ بْنُ مُدْرِكٍ، حَدَّثَنَا يَحْيَى بْنُ حَمَّادٍ، أَخْبَرَنَا أَبُو عَوَانَةَ، عَنْ أَبِي بِشْرٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، قَالَ قُلْتُ لاِبْنِ عَبَّاسٍ سُورَةُ الْحَشْرِ‏.‏ قَالَ قُلْ سُورَةُ النَّضِيرِ‏.‏ تَابَعَهُ هُشَيْمٌ عَنْ أَبِي بِشْرٍ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3848,
+                "hadithNumber": "4030",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "Some people used to allot some date palm trees to the Prophet (ﷺ) as gift till he conquered Banu Quraiza and Bani An-Nadir, where upon he started returning their date palms to them.",
+                "hadithUrdu": "انصاری صحابہ نے نبی کریم صلی اللہ علیہ وسلم کے لیے کچھ کھجور کے درخت مخصوص رکھتے تھے ( تاکہ اس کا پھل آپ کی خدمت میں بھیج دیا جائے ) لیکن جب اللہ تعالیٰ نے بنو قریظہ اور بنو نضیر پر فتح عطا فرمائی تو آپ صلی اللہ علیہ وسلم ان کے پھل واپس فرما دیا کرتے تھے۔",
+                "urduNarrator": "ہم سے عبداللہ بن ابی الاسود نے بیان کیا، ان سے معمر نے بیان کیا، ان سے ان کے والد نے، انہوں نے انس بن مالک رضی اللہ عنہ سے سنا، انہوں نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي الأَسْوَدِ، حَدَّثَنَا مُعْتَمِرٌ، عَنْ أَبِيهِ، سَمِعْتُ أَنَسَ بْنَ مَالِكٍ ـ رضى الله عنه قَالَ كَانَ الرَّجُلُ يَجْعَلُ لِلنَّبِيِّ صلى الله عليه وسلم النَّخَلاَتِ حَتَّى افْتَتَحَ قُرَيْظَةَ وَالنَّضِيرَ، فَكَانَ بَعْدَ ذَلِكَ يَرُدُّ عَلَيْهِمْ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3849,
+                "hadithNumber": "4031",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) had the date-palm trees of Bani Al-Nadir burnt and cut down at a place called Al-Buwaira. Allah then revealed: \"What you cut down of the date-palm trees (of the enemy) Or you left them standing on their stems. It was by Allah's Permission.\" (59.5)",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے بنی نضیر کے کھجوروں کے باغات جلوا دیئے تھے اور ان کے درختوں کو کٹوا دیا تھا۔ یہ باغات مقام بویرہ میں تھے اس پر یہ آیت نازل ہوئی «ما قطعتم من لينة أو تركتموها قائمة على أصولها فبإذن الله‏» ”جو درخت تم نے کاٹ دیئے ہیں یا جنہیں تم نے چھوڑ دیا ہے کہ وہ اپنے جڑوں پر کھڑے رہیں تو یہ اللہ کے حکم سے ہوا ہے۔“",
+                "urduNarrator": "ہم سے آدم نے بیان کیا، کہا ہم سے لیث نے بیان کیا، ان سے نافع نے اور ان سے ابن عمر رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا اللَّيْثُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ حَرَّقَ رَسُولُ اللَّهِ صلى الله عليه وسلم نَخْلَ بَنِي النَّضِيرِ وَقَطَعَ وَهْىَ الْبُوَيْرَةُ فَنَزَلَتْ ‏{‏مَا قَطَعْتُمْ مِنْ لِينَةٍ أَوْ تَرَكْتُمُوهَا قَائِمَةً عَلَى أُصُولِهَا فَبِإِذْنِ اللَّهِ‏}‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3850,
+                "hadithNumber": "4032",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) burnt the date-palm trees of Bani An-Nadir. Hassan bin Thabit رضی اللہ عنہ said the following poetic Verses about this event:-- \"the terrible burning of Al-Buwaira Has been received indifferently By the nobles of Bani Luai (The masters and nobles of Quraish).\" Abu Sufyan bin Al-Harith (i.e. the Prophet's cousin who was still a disbeliever then) replied to Hassan, saying in poetic verses:-- \"May Allah bless that burning And set all its (i.e. Medina's) Parts on burning fire. You will see who is far from it (i.e. Al-Buwaira) And which of our lands will be Harmed by it (i.e. the burning of Al- Buwaira).",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے بنو نضیر کے باغات جلوا دیئے تھے۔ انہوں نے کہا کہ حسان بن ثابت رضی اللہ عنہ نے اسی کے متعلق یہ شعر کہا تھا ( ترجمہ ) ”بنو لوی ( قریش ) کے سرداروں نے بڑی آسانی کے ساتھ برداشت کر لیا۔ مقام بویرہ میں اس آگ کو جو پھیل رہی تھی۔“ بیان کیا کہ پھر اس کا جواب ابوسفیان بن حارث نے ان اشعار میں دیا۔ ”خدا کرے کہ مدینہ میں ہمیشہ یوں ہی آگ لگتی رہے اور اس کے اطراف میں یوں ہی شعلے اٹھتے رہیں۔ تمہیں جلد ہی معلوم ہو جائے گا کہ ہم میں سے کون اس مقام بویرہ سے دور ہے اور تمہیں معلوم ہو جائے گا کہ کس کی زمین کو نقصان پہنچتا ہے۔“",
+                "urduNarrator": "ہم سے اسحاق نے بیان کیا، کہا ہم کو حبان نے خبر دی، انہیں جویریہ بن اسماء نے، انہیں نافع نے، انہیں ابن عمر رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنِي إِسْحَاقُ، أَخْبَرَنَا حَبَّانُ، أَخْبَرَنَا جُوَيْرِيَةُ بْنُ أَسْمَاءَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما أَنَّ النَّبِيَّ صلى الله عليه وسلم حَرَّقَ نَخْلَ بَنِي النَّضِيرِ قَالَ وَلَهَا يَقُولُ حَسَّانُ بْنُ ثَابِتٍ وَهَانَ عَلَى سَرَاةِ بَنِي لُؤَىٍّ حَرِيقٌ بِالْبُوَيْرَةِ مُسْتَطِيرُ قَالَ فَأَجَابَهُ أَبُو سُفْيَانَ بْنُ الْحَارِثِ أَدَامَ اللَّهُ ذَلِكَ مِنْ صَنِيعٍ وَحَرَّقَ فِي نَوَاحِيهَا السَّعِيرُ سَتَعْلَمُ أَيُّنَا مِنْهَا بِنُزْهٍ وَتَعْلَمُ أَىَّ أَرْضَيْنَا تَضِيرُ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3851,
+                "hadithNumber": "4033, 4034",
+                "englishNarrator": "Narrated Malik bin Aus Al-Hadathan An-Nasri:",
+                "hadithEnglish": "Once `Umar bin Al-Khattab رضی اللہ عنہ called him and while he was sitting with him, his gatekeeper, Yarfa came and said, \"Will you admit `Uthman, `Abdur-Rahman bin `Auf, Az Zubair and Sa`d (bin Abi Waqqas رضی اللہ عنہم ) who are waiting for your permission?\" `Umar said, \"Yes, let them come in.\" After a while, Yarfa- came again and said, \"Will you admit `Ali رضی اللہ عنہ and `Abbas رضی اللہ عنہ who are asking your permission?\" `Umar رضی اللہ عنہ said, \"Yes.\" So, when the two entered, `Abbas رضی اللہ عنہ said, \"O chief of the believers! Judge between me and this (i.e. `Ali). \"Both of them had a dispute regarding the property of Bani An-Nadir which Allah had given to His Apostle as Fai (i.e. booty gained without fighting), `Ali and `Abbas رضی اللہ عنہ started reproaching each other. The (present) people (i.e. `Uthman and his companions) said, \"O chief of the believers! Give your verdict in their case and relieve each from) the other.\" `Umar رضی اللہ عنہ said, \"Wait I beseech you, by Allah, by Whose Permission both the heaven and the earth stand fast! Do you know that Allah's Messenger (ﷺ) said, 'We (Prophets) our properties are not to be inherited, and whatever we leave, is to be spent in charity,' and he said it about himself?\" They (i.e. `Uthman and his company) said, \"He did say it. \"`Umar رضی اللہ عنہ then turned towards `Ali and `Abbas  رضی اللہ عنہ and said, \"I beseech you both, by Allah! Do you know that Allah's Messenger (ﷺ) said this?\" They replied in the affirmative. He said, \"Now I am talking to you about this matter. Allah the Glorified favored His Apostle with something of this Fai (i.e. booty won without fighting) which He did not give to anybody else. Allah said:-- \"And what Allah gave to His Apostle (\"Fai\"\" Booty) from them--For which you made no expedition With either Calvary or camelry. But Allah gives power to His Apostles Over whomsoever He will And Allah is able to do all things.\" (59.6) So this property was especially granted to Allah's Messenger (ﷺ) . But by Allah, the Prophet (ﷺ) neither took it all for himself only, nor deprived you of it, but he gave it to all of you and distributed it amongst you till only this remained out of it. And from this Allah's Messenger (ﷺ) used to spend the yearly maintenance for his family, and whatever used to remain, he used to spend it where Allah's Property is spent (i.e. in charity), Allah's Messenger (ﷺ) kept on acting like that during all his life, Then he died, and Abu Bakr رضی اللہ عنہ said, 'I am the successor of Allah's Messenger (ﷺ).' So he (i.e. Abu Bakr رضی اللہ عنہ ) took charge of this property and disposed of it in the same manner as Allah's Messenger (ﷺ) used to do, and all of you (at that time) knew all about it.\" Then `Umar رضی اللہ عنہ turned towards `Ali رضی اللہ عنہ and `Abbas and said, \"You both remember that Abu Bakr رضی اللہ عنہ disposed of it in the way you have described and Allah knows that, in that matter, he was sincere, pious, rightly guided and the follower of the right. Then Allah caused Abu Bakr رضی اللہ عنہ to die and I said, 'I am the successor of Allah's Messenger (ﷺ) and Abu Bakr رضی اللہ عنہ .' So I kept this property in my possession for the first two years of my rule (i.e. Caliphate and I used to dispose of it in the same wa as Allah's Messenger (ﷺ) and Abu Bakr رضی اللہ عنہ used to do; and Allah knows that I have been sincere, pious, rightly guided an the follower of the right (in this matte Later on both of you (i.e. `Ali and `Abbas) came to me, and the claim of you both was one and the same, O `Abbas! You also came to me. So I told you both that Allah's Messenger (ﷺ) said, \"Our property is not inherited, but whatever we leave is to be given in charity.' Then when I thought that I should better hand over this property to you both or the condition that you will promise and pledge before Allah that you will dispose it off in the same way as Allah's Messenger (ﷺ) and Abu Bakr رضی اللہ عنہ did and as I have done since the beginning of my caliphate or else you should not speak to me (about it).' So, both of you said to me, 'Hand it over to us on this condition.' And on this condition I handed it over to you. Do you want me now to give a decision other than that (decision)? By Allah, with Whose Permission both the sky and the earth stand fast, I will never give any decision other than that (decision) till the Last Hour is established. But if you are unable to manage it (i.e. that property), then return it to me, and I will manage on your behalf.\" The sub-narrator said, \"I told `Urwa bin Az-Zubair of this Hadith and he said, 'Malik bin Aus has told the truth\" I heard `Aisha, the wife of the Prophet (ﷺ) saying, 'The wives of the Prophet (ﷺ) sent `Uthman to Abu Bakr رضی اللہ عنہ demanding from him their 1/8 of the Fai which Allah had granted to his Apostle. But I used to oppose them and say to them: Will you not fear Allah? Don't you know that the Prophet used to say: Our property is not inherited, but whatever we leave is to be given in charity? The Prophet (ﷺ) mentioned that regarding himself. He added: 'The family of Muhammad can take their sustenance from this property. So the wives of the Prophet (ﷺ) stopped demanding it when I told them of that.' So, this property (of Sadaqa) was in the hands of `Ali who withheld it from `Abbas and overpowered him. Then it came in the hands of Hasan bin `Ali, then in the hands of Husain bin `Ali, and then in the hands of `Ali bin Husain and Hasan bin Hasan, and each of the last two used to manage it in turn, then it came in the hands of Zaid bin Hasan, and it was truly the Sadaqa of Allah's Apostle .\"",
+                "hadithUrdu": "عمر بن خطاب رضی اللہ عنہ نے انہیں بلایا تھا۔ ( وہ بھی امیرالمؤمنین ) کی خدمت میں موجود تھے کہ امیرالمؤمنین کے چوکیدار یرفاء آئے اور عرض کیا کہ عثمان بن عفان اور عبدالرحمٰن بن عوف، زبیر بن عوام اور سعد بن ابی وقاص رضی اللہ عنہم اندر آنا چاہتے ہیں۔ کیا آپ کی طرف سے انہیں اجازت ہے؟ امیرالمؤمنین نے فرمایا کہ ہاں، انہیں اندر بلا لو۔ تھوڑی دیر بعد یرفاء پھر آئے اور عرض کیا عباس اور علی رضی اللہ عنہما بھی اجازت چاہتے ہیں کیا انہیں اندر آنے کی اجازت ہے؟ آپ نے فرمایا کہ ہاں، جب یہ بھی دونوں بزرگ اندر تشریف لے آئے تو عباس رضی اللہ عنہ نے کہا، امیرالمؤمنین! میرا اور ان ( علی رضی اللہ عنہ ) کا فیصلہ کر دیجئیے۔ وہ دونوں اس جائیداد کے بارے میں جھگڑ رہے تھے جو اللہ تعالیٰ نے رسول اللہ صلی اللہ علیہ وسلم کو مال بنو نضیر سے فئے کے طور پر دی تھی۔ اس موقع پر علی اور عباس رضی اللہ عنہما نے ایک دوسرے کو سخت سست کہا اور ایک دوسرے پر تنقید کی تو حاضرین بولے، امیرالمؤمنین! آپ ان دونوں بزرگوں کا فیصلہ کر دیں تاکہ دونوں میں کوئی جھگڑا نہ رہے۔ عمر رضی اللہ عنہ نے کہا، جلدی نہ کیجئے۔ میں آپ لوگوں سے اس اللہ کا واسطہ دے کر پوچھتا ہوں جس کے حکم سے آسمان و زمین قائم ہیں، کیا آپ کو معلوم ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا تھا کہ ہم انبیاء کی وراثت تقسیم نہیں ہوتی جو کچھ ہم چھوڑ جائیں وہ صدقہ ہوتا ہے اور اس سے آپ صلی اللہ علیہ وسلم کی مراد خود اپنی ذات سے تھی؟ حاضرین بولے کہ جی ہاں، آپ صلی اللہ علیہ وسلم نے یہ فرمایا تھا۔ پھر عمر رضی اللہ عنہ عباس اور علی رضی اللہ عنہما کی طرف متوجہ ہوئے اور ان سے کہا، میں آپ دونوں سے بھی اللہ کا واسطہ دے کر پوچھتا ہوں۔ کیا آپ کو بھی معلوم ہے کہ نبی کریم صلی اللہ علیہ وسلم نے یہ حدیث ارشاد فرمائی تھی؟ ان دونوں بزرگوں نے بھی جواب ہاں میں دیا۔ اس کے بعد عمر رضی اللہ عنہ نے کہا، پھر میں آپ لوگوں سے اس معاملہ پر گفتگو کرتا ہوں۔ اللہ سبحانہ وتعالیٰ نے اپنے رسول صلی اللہ علیہ وسلم کو اس مال فئے میں سے ( جو بنو نضیر سے ملا تھا ) آپ کو خاص طور پر عطا فرما دیا تھا۔ اللہ تعالیٰ نے اس کے متعلق فرمایا ہے کہ ”بنو نضیر کے مالوں سے جو اللہ نے اپنے رسول کو دیا ہے تو تم نے اس کے لیے گھوڑے اور اونٹ نہیں دوڑائے۔ ( یعنی جنگ نہیں کی ) اللہ تعالیٰ کا ارشاد ”قدیر“ تک۔ تو یہ مال خاص رسول اللہ صلی اللہ علیہ وسلم کے لیے تھا لیکن اللہ کی قسم کہ آپ صلی اللہ علیہ وسلم نے تمہیں نظر انداز کر کے اپنے لیے اسے مخصوص نہیں فرمایا تھا نہ تم پر اپنی ذات کو ترجیح دی تھی۔ پہلے اس مال میں سے تمہیں دیا اور تم میں اس کی تقسیم کی اور آخر اس فئے میں سے یہ جائیداد بچ گئی۔ پس آپ اپنی ازواج مطہرات کا سالانہ خرچ بھی اسی میں سے نکالتے تھے اور جو کچھ اس میں سے باقی بچتا اسے آپ اللہ تعالیٰ کے مصارف میں خرچ کرتے تھے۔ آپ صلی اللہ علیہ وسلم نے اپنی زندگی میں یہ جائیداد انہی مصارف میں خرچ کی۔ پھر جب آپ کی وفات ہو گئی تو ابوبکر رضی اللہ عنہ نے کہا کہ مجھے نبی کریم صلی اللہ علیہ وسلم کا خلیفہ بنا دیا گیا ہے۔ اس لیے انہوں نے اسے اپنے قبضہ میں لے لیا اور اسے انہی مصارف میں خرچ کرتے رہے جس میں نبی کریم صلی اللہ علیہ وسلم خرچ کیا کرتے تھے اور آپ لوگ یہیں موجود تھے۔ اس کے بعد عمر رضی اللہ عنہ علی رضی اللہ عنہ اور عباس رضی اللہ عنہ کی طرف متوجہ ہوئے اور فرمایا۔ آپ لوگوں کو معلوم ہے کہ ابوبکر رضی اللہ عنہ نے بھی وہی طریقہ اختیار کیا، جیسا کہ آپ لوگوں کو بھی اس کا اقرار ہے اور اللہ کی قسم کہ وہ اپنے اس طرز عمل میں سچے، مخلص، صحیح راستے پر اور حق کی پیروی کرنے والے تھے۔ پھر اللہ تعالیٰ نے ابوبکر رضی اللہ عنہ کو بھی اٹھا لیا، اس لیے میں نے کہا کہ مجھے رسول اللہ صلی اللہ علیہ وسلم اور ابوبکر رضی اللہ عنہ کا خلیفہ بنایا گیا ہے۔ چنانچہ میں اس جائیداد پر اپنی خلافت کے دو سالوں سے قابض ہوں اور اسے انہیں مصارف میں صرف کرتا ہوں جس میں نبی کریم صلی اللہ علیہ وسلم اور ابوبکر رضی اللہ عنہ نے کیا تھا اور اللہ تعالیٰ جانتا ہے کہ میں بھی اپنے طرز عمل میں سچا، مخلص، صحیح راستے پر اور حق کی پیروی کرنے والا ہوں۔ پھر آپ دونوں میرے پاس آئے ہیں۔ آپ دونوں ایک ہی ہیں اور آپ کا معاملہ بھی ایک ہے۔ پھر آپ میرے پاس آئے۔ آپ کی مراد عباس رضی اللہ عنہ سے تھی۔ تو میں نے آپ دونوں کے سامنے یہ بات صاف کہہ دی تھی کہ رسول اللہ صلی اللہ علیہ وسلم فرما گئے تھے کہ ”ہمارا ترکہ تقسیم نہیں ہوتا۔ ہم جو کچھ چھوڑ جائیں وہ صدقہ ہے۔“ پھر جب میرے دل میں آیا کہ وہ جائیداد بطور انتظام میں آپ دونوں کو دے دوں تو میں نے آپ سے کہا کہ اگر آپ چاہیں تو میں یہ جائیداد آپ کو دے سکتا ہوں۔ لیکن شرط یہ ہے کہ اللہ تعالیٰ کے سامنے کئے ہوئے عہد کی تمام ذمہ داریوں کو آپ پورا کریں۔ آپ لوگوں کو معلوم ہے کہ نبی کریم صلی اللہ علیہ وسلم اور ابوبکر رضی اللہ عنہ نے اور خود میں نے، جب سے میں خلیفہ بنا ہوں۔ اس جائیداد کے معاملہ میں کس طرز عمل کو اختیار کیا ہوا ہے۔ اگر یہ شرط آپ کو منظور نہ ہو تو پھر مجھ سے اس کے بارے میں آپ لوگ بات نہ کریں۔ آپ لوگوں نے اس پر کہا کہ ٹھیک ہے۔ آپ اسی شرط پر وہ جائیداد ہمارے حوالے کر دیں۔ چنانچہ میں نے اسے آپ لوگوں کے حوالے کر دیا۔ کیا آپ حضرات اس کے سوا کوئی اور فیصلہ اس سلسلے میں مجھ سے کروانا چاہتے ہیں؟ اس اللہ کی قسم! جس کے حکم سے آسمان و زمین قائم ہیں، قیامت تک میں اس کے سوا کوئی اور فیصلہ نہیں کر سکتا۔ اگر آپ لوگ ( شرط کے مطابق اس کے انتظام سے ) عاجز ہیں تو وہ جائیداد مجھے واپس کر دیں میں خود اس کا انتظام کروں گا۔ذیلی راوی نے کہا کہ میں نے عروہ بن زبیر سے یہ حدیث بیان کی تو انہوں نے کہا کہ مالک بن اوس نے سچ کہا ہے میں نے نبی کریم صلی اللہ علیہ وسلم کی زوجہ عائشہ رضی اللہ عنہا کو یہ فرماتے ہوئے سنا: رسول اللہ صلی اللہ علیہ وسلم نے عثمان رضی اللہ عنہ کو ابوبکر رضی اللہ عنہ کے پاس بھیجا کہ وہ ان سے 1/8 فی کا مطالبہ کریں جو اللہ نے اپنے رسول کو دیا تھا۔ لیکن میں ان کی مخالفت کرتا تھا اور ان سے کہتا تھا: کیا تم اللہ سے نہیں ڈرتے؟ کیا آپ کو معلوم نہیں کہ رسول اللہ صلی اللہ علیہ وسلم فرمایا کرتے تھے: ہمارا مال میراث میں نہیں ملتا، لیکن جو کچھ ہم چھوڑتے ہیں وہ صدقہ کرتے ہیں؟ رسول اللہ صلی اللہ علیہ وسلم نے اس کا ذکر اپنے بارے میں فرمایا۔ انہوں نے مزید کہا: 'محمد کا خاندان اس جائیداد سے اپنا رزق لے سکتا ہے۔ چنانچہ جب میں نے ان کو یہ بتایا تو ازواج مطہرات نے اس کا مطالبہ کرنا چھوڑ دیا۔ چنانچہ یہ مال (صدقہ) علی رضی اللہ عنہ کے ہاتھ میں تھا جس نے اسے عباس سے روک لیا اور ان پر غلبہ حاصل کر لیا۔ پھر حسن بن علی کے ہاتھ میں آیا، پھر حسین بن علی کے ہاتھ میں، پھر علی بن حسین اور حسن بن حسن کے ہاتھ میں، اور آخری دو میں سے ہر ایک باری باری اس کا انتظام کیا کرتا تھا۔ پھر زید بن حسن کے ہاتھ میں آیا اور یہ واقعی رسول اللہ صلی اللہ علیہ وسلم کا صدقہ تھا۔",
+                "urduNarrator": "ہم سے ابوالیمان نے بیان کیا، کہا ہم کو شعیب نے خبر دی، ان سے زہری نے بیان کیا، انہیں مالک بن اوس بن حدثان نصری نے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي مَالِكُ بْنُ أَوْسِ بْنِ الْحَدَثَانِ النَّصْرِيُّ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ ـ رضى الله عنه ـ دَعَاهُ إِذْ جَاءَهُ حَاجِبُهُ يَرْفَا فَقَالَ هَلْ لَكَ فِي عُثْمَانَ، وَعَبْدِ الرَّحْمَنِ، وَالزُّبَيْرِ وَسَعْدٍ يَسْتَأْذِنُونَ فَقَالَ نَعَمْ، فَأَدْخِلْهُمْ‏.‏ فَلَبِثَ قَلِيلاً، ثُمَّ جَاءَ فَقَالَ هَلْ لَكَ فِي عَبَّاسٍ وَعَلِيٍّ يَسْتَأْذِنَانِ قَالَ نَعَمْ‏.‏ فَلَمَّا دَخَلاَ قَالَ عَبَّاسٌ يَا أَمِيرَ الْمُؤْمِنِينَ، اقْضِ بَيْنِي وَبَيْنَ هَذَا، وَهُمَا يَخْتَصِمَانِ فِي الَّذِي أَفَاءَ اللَّهُ عَلَى رَسُولِهِ صلى الله عليه وسلم مِنْ بَنِي النَّضِيرِ، فَاسْتَبَّ عَلِيٌّ وَعَبَّاسٌ، فَقَالَ الرَّهْطُ يَا أَمِيرَ الْمُؤْمِنِينَ، اقْضِ بَيْنَهُمَا وَأَرِحْ أَحَدَهُمَا مِنَ الآخَرِ‏.‏ فَقَالَ عُمَرُ اتَّئِدُوا، أَنْشُدُكُمْ بِاللَّهِ الَّذِي بِإِذْنِهِ تَقُومُ السَّمَاءُ وَالأَرْضُ، هَلْ تَعْلَمُونَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ لاَ نُورَثُ، مَا تَرَكْنَا صَدَقَةٌ ‏\"‏‏.‏ يُرِيدُ بِذَلِكَ نَفْسَهُ‏.‏ قَالُوا قَدْ قَالَ ذَلِكَ‏.‏ فَأَقْبَلَ عُمَرُ عَلَى عَبَّاسٍ وَعَلِيٍّ فَقَالَ أَنْشُدُكُمَا بِاللَّهِ هَلْ تَعْلَمَانِ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَدْ قَالَ ذَلِكَ قَالاَ نَعَمْ‏.‏ قَالَ فَإِنِّي أُحَدِّثُكُمْ عَنْ هَذَا الأَمْرِ، إِنَّ اللَّهَ سُبْحَانَهُ كَانَ خَصَّ رَسُولَهُ صلى الله عليه وسلم فِي هَذَا الْفَىْءِ بِشَىْءٍ لَمْ يُعْطِهِ أَحَدًا غَيْرَهُ فَقَالَ جَلَّ ذِكْرُهُ ‏{‏وَمَا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ مِنْهُمْ فَمَا أَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍ وَلاَ رِكَابٍ‏}‏ إِلَى قَوْلِهِ ‏{‏قَدِيرٌ‏}‏ فَكَانَتْ هَذِهِ خَالِصَةً لِرَسُولِ اللَّهِ صلى الله عليه وسلم، ثُمَّ وَاللَّهِ مَا احْتَازَهَا دُونَكُمْ، وَلاَ اسْتَأْثَرَهَا عَلَيْكُمْ، لَقَدْ أَعْطَاكُمُوهَا وَقَسَمَهَا فِيكُمْ، حَتَّى بَقِيَ هَذَا الْمَالُ مِنْهَا، فَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُنْفِقُ عَلَى أَهْلِهِ نَفَقَةَ سَنَتِهِمْ مِنْ هَذَا الْمَالِ، ثُمَّ يَأْخُذُ مَا بَقِيَ فَيَجْعَلُهُ مَجْعَلَ مَالِ اللَّهِ، فَعَمِلَ ذَلِكَ رَسُولُ اللَّهِ صلى الله عليه وسلم حَيَاتَهُ، ثُمَّ تُوُفِّيَ النَّبِيُّ صلى الله عليه وسلم فَقَالَ أَبُو بَكْرٍ فَأَنَا وَلِيُّ رَسُولِ اللَّهِ صلى الله عليه وسلم‏.‏ فَقَبَضَهُ أَبُو بَكْرٍ، فَعَمِلَ فِيهِ بِمَا عَمِلَ بِهِ رَسُولُ اللَّهِ صلى الله عليه وسلم وَأَنْتُمْ حِينَئِذٍ‏.‏ فَأَقْبَلَ عَلَى عَلِيٍّ وَعَبَّاسٍ وَقَالَ تَذْكُرَانِ أَنَّ أَبَا بَكْرٍ عَمِلَ فِيهِ كَمَا تَقُولاَنِ، وَاللَّهُ يَعْلَمُ إِنَّهُ فِيهِ لَصَادِقٌ بَارٌّ رَاشِدٌ تَابِعٌ لِلْحَقِّ ثُمَّ تَوَفَّى اللَّهُ أَبَا بَكْرٍ فَقُلْتُ أَنَا وَلِيُّ رَسُولِ اللَّهِ صلى الله عليه وسلم وَأَبِي بَكْرٍ‏.‏ فَقَبَضْتُهُ سَنَتَيْنِ مِنْ إِمَارَتِي أَعْمَلُ فِيهِ بِمَا عَمِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَأَبُو بَكْرٍ، وَاللَّهُ يَعْلَمُ أَنِّي فِيهِ صَادِقٌ بَارٌّ رَاشِدٌ تَابِعٌ لِلْحَقِّ، ثُمَّ جِئْتُمَانِي كِلاَكُمَا وَكَلِمَتُكُمَا وَاحِدَةٌ وَأَمْرُكُمَا جَمِيعٌ، فَجِئْتَنِي ـ يَعْنِي عَبَّاسًا ـ فَقُلْتُ لَكُمَا إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ لاَ نُورَثُ، مَا تَرَكْنَا صَدَقَةٌ ‏\"‏‏.‏ فَلَمَّا بَدَا لِي أَنْ أَدْفَعَهُ إِلَيْكُمَا قُلْتُ إِنْ شِئْتُمَا دَفَعْتُهُ إِلَيْكُمَا عَلَى أَنَّ عَلَيْكُمَا عَهْدَ اللَّهِ وَمِيثَاقَهُ لَتَعْمَلاَنِ فِيهِ بِمَا عَمِلَ فِيهِ رَسُولُ اللَّهِ صلى الله عليه وسلم وَأَبُو بَكْرٍ، وَمَا عَمِلْتُ فِيهِ مُذْ وَلِيتُ، وَإِلاَّ فَلاَ تُكَلِّمَانِي، فَقُلْتُمَا ادْفَعْهُ إِلَيْنَا بِذَلِكَ‏.‏ فَدَفَعْتُهُ إِلَيْكُمَا، أَفَتَلْتَمِسَانِ مِنِّي قَضَاءً غَيْرَ ذَلِكَ فَوَاللَّهِ الَّذِي بِإِذْنِهِ تَقُومُ السَّمَاءُ وَالأَرْضُ لاَ أَقْضِي فِيهِ بِقَضَاءٍ غَيْرِ ذَلِكَ حَتَّى تَقُومَ السَّاعَةُ، فَإِنْ عَجَزْتُمَا عَنْهُ، فَادْفَعَا إِلَىَّ فَأَنَا أَكْفِيكُمَاهُ‏.‏قَالَ فَحَدَّثْتُ هَذَا الْحَدِيثَ، عُرْوَةَ بْنَ الزُّبَيْرِ فَقَالَ صَدَقَ مَالِكُ بْنُ أَوْسٍ، أَنَا سَمِعْتُ عَائِشَةَ ـ رضى الله عنها ـ زَوْجَ النَّبِيِّ صلى الله عليه وسلم تَقُولُ أَرْسَلَ أَزْوَاجُ النَّبِيِّ صلى الله عليه وسلم عُثْمَانَ إِلَى أَبِي بَكْرٍ يَسْأَلْنَهُ ثُمُنَهُنَّ مِمَّا أَفَاءَ اللَّهُ عَلَى رَسُولِهِ صلى الله عليه وسلم، فَكُنْتُ أَنَا أَرُدُّهُنَّ، فَقُلْتُ لَهُنَّ أَلاَ تَتَّقِينَ اللَّهَ، أَلَمْ تَعْلَمْنَ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَقُولُ ‏\"‏ لاَ نُورَثُ، مَا تَرَكْنَا صَدَقَةٌ ـ يُرِيدُ بِذَلِكَ نَفْسَهُ ـ إِنَّمَا يَأْكُلُ آلُ مُحَمَّدٍ صلى الله عليه وسلم فِي هَذَا الْمَالِ ‏\"‏‏.‏ فَانْتَهَى أَزْوَاجُ النَّبِيِّ صلى الله عليه وسلم إِلَى مَا أَخْبَرَتْهُنَّ‏.‏ قَالَ فَكَانَتْ هَذِهِ الصَّدَقَةُ بِيَدِ عَلِيٍّ، مَنَعَهَا عَلِيٌّ عَبَّاسًا فَغَلَبَهُ عَلَيْهَا، ثُمَّ كَانَ بِيَدِ حَسَنِ بْنِ عَلِيٍّ، ثُمَّ بِيَدِ حُسَيْنِ بْنِ عَلِيٍّ، ثُمَّ بِيَدِ عَلِيِّ بْنِ حُسَيْنٍ وَحَسَنِ بْنِ حَسَنٍ، كِلاَهُمَا كَانَا يَتَدَاوَلاَنِهَا، ثُمَّ بِيَدِ زَيْدِ بْنِ حَسَنٍ، وَهْىَ صَدَقَةُ رَسُولِ اللَّهِ صلى الله عليه وسلم حَقًّا‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3852,
+                "hadithNumber": "4035, 4036",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "Fatima رضی اللہ عنہا and Al-`Abbas رضی اللہ عنہ came to Abu Bakr رضی اللہ عنہ , claiming their inheritance of the Prophet's land of Fadak and his share from Khaibar. Abu Bakr رضی اللہ عنہ said, \"I heard the Prophet (ﷺ) saying, 'Our property is not inherited, and whatever we leave is to be given in charity. But the family of Muhammad can take their sustenance from this property.' By Allah, I would love to do good to the Kith and kin of Allah's Apostle rather than to my own Kith and kin.\"",
+                "hadithUrdu": "فاطمہ رضی اللہ عنہا اور عباس رضی اللہ عنہ ابوبکر رضی اللہ عنہ کے پاس آئے اور نبی کریم صلی اللہ علیہ وسلم کی زمین جو فدک میں تھی اور جو خیبر میں آپ کو حصہ ملا تھا، اس میں سے اپنی میراث کا مطالبہ کیا۔ابوبکر رضی اللہ عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو یہ فرماتے ہوئے سنا کہ ہمارا مال وراثت میں نہیں ملتا اور جو کچھ ہم چھوڑتے ہیں وہ صدقہ کرتے ہیں، لیکن محمد صلی اللہ علیہ وسلم کا خاندان اس مال سے اپنا رزق لے سکتا ہے۔ اللہ کی قسم میں اپنے رشتہ داروں کے ساتھ بہتر سلوک کرنے کے بجائے رسول اللہ صلی اللہ علیہ وسلم کے رشتہ داروں کے ساتھ بھلائی کرنا پسند کروں گا۔",
+                "urduNarrator": "ہم سے ابراہیم بن موسیٰ نے بیان کیا،کہا ہم سے ہشام نے بیان کیا, انہوں نے کہا ہم کو معمر نے خبر دی، انہیں زہری نے، انہیں عروہ نے اور انہیں عائشہ رضی اللہ عنہا نے کہ",
+                "hadithArabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا هِشَامٌ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ فَاطِمَةَ ـ عَلَيْهَا السَّلاَمُ ـ وَالْعَبَّاسَ أَتَيَا أَبَا بَكْرٍ يَلْتَمِسَانِ مِيرَاثَهُمَا، أَرْضَهُ مِنْ فَدَكٍ، وَسَهْمَهُ مِنْ خَيْبَرَ‏.‏فَقَالَ أَبُو بَكْرٍ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ لاَ نُورَثُ، مَا تَرَكْنَا صَدَقَةٌ، إِنَّمَا يَأْكُلُ آلُ مُحَمَّدٍ فِي هَذَا الْمَالِ ‏\"‏‏.‏ وَاللَّهِ لَقَرَابَةُ رَسُولِ اللَّهِ صلى الله عليه وسلم أَحَبُّ إِلَىَّ أَنْ أَصِلَ مِنْ قَرَابَتِي‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "65",
+                "bookSlug": "sahih-bukhari",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 65,
+                    "chapterNumber": "65",
+                    "chapterEnglish": "Military Expeditions led by the Prophet (PBUH) (Al-Maghaazi)",
+                    "chapterUrdu": "غزوات کے بیان میں",
+                    "chapterArabic": "كتاب المغازي",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 3826,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=153",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=151",
+                "label": "151",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=152",
+                "label": "152",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=153",
+                "label": "153",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=154",
+                "label": "154",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=155",
+                "label": "155",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=156",
+                "label": "156",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=157",
+                "label": "157",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=155",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=155",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=153",
+        "to": 3850,
+        "total": 40465
+    }
+}

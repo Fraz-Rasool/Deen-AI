@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 359,
+        "data": [
+            {
+                "id": 9239,
+                "hadithNumber": "1675",
+                "englishNarrator": "Abu Murra, the freed slave of Umm Hani, narrated on the authority of Abu Darda' رضی اللہ عنہ:",
+                "hadithEnglish": "My Friend ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) instructed me in three (acts), and I would never abandon them as long as I live. (And these three things are): Three fasts during every month, the forenoon prayer, and this that I should not sleep till I have observed the Witr prayer.",
+                "hadithUrdu": "میرےحبیب صلی اللہ علیہ وسلم نے مجھے تین باتوں کی تلقین فرمائی ہے ، جب تک میں زندہ رہوں گا ان کو کبھی ترک نہیں کروں گا ، ہر ماہ تین دنوں کے روزے ، چاشت کی نماز اور یہ کہ جب تک وتر نہ پڑھ لوں نہ سوؤں ۔",
+                "urduNarrator": "مجھ سے ہارون بن عبداللہ اور محمد بن رافع نے بیان کیا، کہا: ہم سے ابن ابی فودیک نے ضحاک بن عثمان کی سند سے، ابراہیم بن عبداللہ بن حنین کی سند سے، ابو مرہ کے آزاد کردہ غلام سے۔ ام ہانی کے اختیار پر, حضرت ابو درداء رضی اللہ عنہ سے روایت ہے ، انھوں نے کہا",
+                "hadithArabic": "و حَدَّثَنِي هَارُونُ بْنُ عَبْدِ اللَّهِ وَمُحَمَّدُ بْنُ رَافِعٍ قَالَا حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ عَنْ الضَّحَّاكِ بْنِ عُثْمَانَ عَنْ إِبْرَاهِيمَ بْنِ عَبْدِ اللَّهِ بْنِ حُنَيْنٍ عَنْ أَبِي مُرَّةَ مَوْلَى أُمِّ هَانِئٍ عَنْ أَبِي الدَّرْدَاءِ قَالَ أَوْصَانِي حَبِيبِي صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِثَلَاثٍ لَنْ أَدَعَهُنَّ مَا عِشْتُ بِصِيَامِ ثَلَاثَةِ أَيَّامٍ مِنْ كُلِّ شَهْرٍ وَصَلَاةِ الضُّحَى وَبِأَنْ لَا أَنَامَ حَتَّى أُوتِرَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9240,
+                "hadithNumber": "1676",
+                "englishNarrator": "Ibn 'Umar رضی اللہ عنہ reported:",
+                "hadithEnglish": "Hafsa رضی اللہ عنہا , the Mother of the Believers, informed him that when the Mu'adhdhin became silent after calling (people) to the dawn prayer, the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) commenced the dawn (prayer) when it dawned by observing two short rak'ahs before the commencement of the (Fard) prayer.",
+                "hadithUrdu": "ام المومنین حضرت حفصہ رضی اللہ عنہا نے انھیں بتایاکہ جب موذن صبح کی اذان کہہ کر خاموش ہوجاتا اور صبح ظاہر ہوجاتی تو رسول اللہ صلی اللہ علیہ وسلم نماز کی اقامت سے پہلے دو مختصر رکعتیں پڑھتے ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، کہا: میں نے پڑھاامام مالک ؒ نے نافع سے اور انھوں نے حضرت عبداللہ بن عمر رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ نَافِعٍ عَنْ ابْنِ عُمَرَ أَنَّ حَفْصَةَ أُمَّ الْمُؤْمِنِينَ أَخْبَرَتْهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ إِذَا سَكَتَ الْمُؤَذِّنُ مِنْ الْأَذَانِ لِصَلَاةِ الصُّبْحِ وَبَدَا الصُّبْحُ رَكَعَ رَكْعَتَيْنِ خَفِيفَتَيْنِ قَبْلَ أَنْ تُقَامَ الصَّلَاةُ.",
+                "headingArabic": "اسْتِحْبَابِ رَكْعَتَيْ سُنَّةِ الْفَجْرِ وَالْحَثِّ عَلَيْهِمَا وَتَخْفِيفِهِمَا وَالْمُحَافَظَةِ عَلَيْهِمَا وَبَيَانِ مَا يُسْتَحَبُّ أَنْ يُقْرَأَ فِيهِمَا",
+                "headingUrdu": "فجر کی سنت کے لیے دو رکعتیں پڑھنا مستحب ہے۔ اور ان کو باقاعدگی سے نماز پڑھنے کی ترغیب دیتے ہیں، اور ان کو مختصر کر دیتے ہیں، اور ان کو ادا کرنے پر قائم رہتے ہیں، اور یہ واضح کرتے ہیں کہ اس میں کیا پڑھنا مستحب ہے۔",
+                "headingEnglish": "It is recommended to pray two rak`ah for the sunnah of Fajr. And encouragement to pray them regularly, and to make them brief, and to persist in offering them, and clarifying what is recommended to recite therein",
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9241,
+                "hadithNumber": "1677",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been transmitted by Nafi' with the same chain of narrators.",
+                "hadithUrdu": "ہم سے یحییٰ بن یحییٰ، قتیبہ اور ابن روم نے بیان کیا,لیث بن سعد ، عبیداللہ اور ایوب سب نے نافع سے اسی سند کے ساتھ اسی طرح روایت بیان کی ہے جس طرح امام مالک ؒ نے کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنَا يَحْيَى بْنُ يَحْيَى وَقُتَيْبَةُ وَابْنُ رُمْحٍ عَنْ اللَّيْثِ بْنِ سَعْدٍ ح و حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ وَعُبَيْدُ اللَّهِ بْنُ سَعِيدٍ قَالَا حَدَّثَنَا يَحْيَى عَنْ عُبَيْدِ اللَّهِ ح و حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ حَدَّثَنَا إِسْمَعِيلُ عَنْ أَيُّوبَ كُلُّهُمْ عَنْ نَافِعٍ بِهَذَا الْإِسْنَادِ كَمَا قَالَ مَالِكٌ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9242,
+                "hadithNumber": "1678",
+                "englishNarrator": "Hafsa رضی اللہ عنہا reported:",
+                "hadithEnglish": "When it was dawn, the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) did not observe (any other prayers) but two short rak'ahs.",
+                "hadithUrdu": "جب فجر طلوع ہوجاتی تو رسول اللہ صلی اللہ علیہ وسلم دو مختصر رکعتوں کے سوا کوئی نماز نہ پڑھتے تھے ۔",
+                "urduNarrator": "مجھ سے احمد بن عبداللہ بن الحکم نے بیان کیا,محمد بن جعفر نے کہا : ہمیں شعبہ نے زید بن محمد سے حدیث سنائی ، انھوں نے کہا : میں نے نافع سے سنا ، وہ حضرت ابن عمر رضی اللہ تعالیٰ عنہ سے حدیث بیان کرتے تھے اور وہ حضرت حفصہ رضی اللہ عنہا سے روایت بیان کررہے تھے حضرت حفصہ رضی اللہ  عنہا نے کہا",
+                "hadithArabic": "و حَدَّثَنِي أَحْمَدُ بْنُ عَبْدِ اللَّهِ بْنِ الْحَكَمِ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ زَيْدِ بْنِ مُحَمَّدٍ قَالَ سَمِعْتُ نَافِعًا يُحَدِّثُ عَنْ ابْنِ عُمَرَ عَنْ حَفْصَةَ قَالَتْ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا طَلَعَ الْفَجْرُ لَا يُصَلِّي إِلَّا رَكْعَتَيْنِ خَفِيفَتَيْنِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9243,
+                "hadithNumber": "1679",
+                "englishNarrator": null,
+                "hadithEnglish": "A hadith like this has been narrated by Shu'ba with the same chain of transmitters.",
+                "hadithUrdu": "( محمد بن جعفر کی بجائے ) نضر نے ہمیں خبر دی ، کہا : شعبہ نے اسی سند کے ساتھ اسی سابقہ حدیث کی مانند حدیث بیان کی ہے ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنَاه إِسْحَقُ بْنُ إِبْرَاهِيمَ أَخْبَرَنَا النَّضْرُ حَدَّثَنَا شُعْبَةُ بِهَذَا الْإِسْنَادِ مِثْلَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9244,
+                "hadithNumber": "1680",
+                "englishNarrator": "Hafsa رضی اللہ عنہا reported:",
+                "hadithEnglish": "When the dawn appeared, the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) observed two rak'ahs (of Sunnah prayers).",
+                "hadithUrdu": "نبی اکرم صلی اللہ علیہ وسلم کے سامنے جب فجر روشن ہوجاتی تو آپ دو رکعتیں نماز پڑھتے تھے ۔",
+                "urduNarrator": "ہم سے محمد بن عباد نے بیان کیا، کہا ہم سے سفیان نے بیان کیا، عمرو کی سند سے اور زہری کی سند سے, سالم نے اپنے والد ( عبداللہ بن عمر رضی اللہ تعالیٰ عنہ ) سے روایت کی ، انھوں نے کہا : حضرت حفصہ رضی اللہ عنہا نے مجھے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبَّادٍ حَدَّثَنَا سُفْيَانُ عَنْ عَمْرٍو عَنْ الزُّهْرِيِّ عَنْ سَالِمٍ عَنْ أَبِيهِ أَخْبَرَتْنِي حَفْصَةُ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ إِذَا أَضَاءَ لَهُ الْفَجْرُ صَلَّى رَكْعَتَيْنِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9245,
+                "hadithNumber": "1681",
+                "englishNarrator": "A'isha رضی اللہ عنہا reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) used to observe two rak'ahs of Sunnah (prayer) when he heard the Adhan and shortened them.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم اذان سنتے تو فجر کی دو رکعتیں پڑھتے اور ان میں تخفیف کرتے تھے ۔",
+                "urduNarrator": "عمرو الناقد نے ہمیں بتایا,عبدہ بن سلیمان نے کہا : ہمیں ہشام بن عروہ نے اپنے والد کے حوالے سے حضرت عائشہ رضی اللہ عنہا سے حدیث بیان کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا عَمْرٌو النَّاقِدُ حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ عَنْ أَبِيهِ عَنْ عَائِشَةَ قَالَتْ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُصَلِّي رَكْعَتَيْ الْفَجْرِ إِذَا سَمِعَ الْأَذَانَ وَيُخَفِّفُهُمَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9246,
+                "hadithNumber": "1682",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated by the same chain of transmitters and in the hadith narrated by Usama the words are: When it was dawn .",
+                "hadithUrdu": "مجھ سے علی بن حجر نے بیان کیا جنہوں نے ہم سے بیان کیا,علی بن مسہر ، ابو اسامہ ، عبداللہ بن نمیر ، اور وکیع سب نے ہشام سے اسی سند کے ساتھ یہی حدیث روایت کی ، البتہ ابو اسامہ کی روایت میں ( جب اذان سننے کی بجائے ) \" جب فجر طلوع ہوتی \" کے الفاظ ہیں ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنِيهِ عَلِيُّ بْنُ حُجْرٍ حَدَّثَنَا عَلِيٌّ يَعْنِي ابْنَ مُسْهِرٍ ح و حَدَّثَنَاه أَبُو كُرَيْبٍ حَدَّثَنَا أَبُو أُسَامَةَ ح و حَدَّثَنَاه أَبُو بَكْرٍ وَأَبُو كُرَيْبٍ وَابْنُ نُمَيْرٍ عَنْ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ ح و حَدَّثَنَاه عَمْرٌو النَّاقِدُ حَدَّثَنَا وَكِيعٌ كُلُّهُمْ عَنْ هِشَامٍ بِهَذَا الْإِسْنَادِ وَفِي حَدِيثِ أَبِي أُسَامَةَ إِذَا طَلَعَ الْفَجْرُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9247,
+                "hadithNumber": "1683",
+                "englishNarrator": "A'isha رضی اللہ عنہا reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) used to observe two (supererogatory) rak'ahs in between the call to prayer and the Iqama of the dawn prayer.",
+                "hadithUrdu": "نبی اکرم صلی اللہ علیہ وسلم صبح کی نماز کی اذان اور اقامت کے درمیان دو رکعتیں پڑھتے تھے ۔",
+                "urduNarrator": "اور ہم سے محمد بن المثنی نے بیان کیا، ہم سے ابن ابی عدی نے بیان کیا، ہشام کی سند سے اور یحییٰ کی سند سے,ابو سلمہ نے حضرت عائشہ رضی اللہ عنہا سے روایت کی کہ",
+                "hadithArabic": "و حَدَّثَنَاه مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ عَنْ هِشَامٍ عَنْ يَحْيَى عَنْ أَبِي سَلَمَةَ عَنْ عَائِشَةَ أَنَّ نَبِيَّ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يُصَلِّي رَكْعَتَيْنِ بَيْنَ النِّدَاءِ وَالْإِقَامَةِ مِنْ صَلَاةِ الصُّبْحِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9248,
+                "hadithNumber": "1684",
+                "englishNarrator": "A'isha رضی اللہ عنہا reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) observed two rak'ahs of the dawn prayer and he shortened them (to the extent) that I (out of surprise) said: Did he recite in them Surah Fatiha (only)?",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم صبح کی ( سنت ) دورکعتیں پڑھتے اور ان کو اتنا ہلکا پڑھتے کہ میں ( دل میں ) کہتی تھی : کیا آپ نے ان میں فاتحہ بھی پڑھی ہے یا نہیں؟ ( آپ صلی اللہ علیہ وسلم عموما فاتحہ بھی بہت ٹھر ٹھر کر پڑھتے تھے ۔ )",
+                "urduNarrator": "اور ہم سے محمد بن المثنیٰ نے بیان کیا، کہا ہم سے عبدالوہاب نے بیان کیا، انہوں نے کہا: میں نے سنا, یحییٰ بن سعید نے کہا : مجھے محمد بن عبدالرحمان نے بتایا کہ انھوں نے عمرہ کوحضرت عائشہ رضی اللہ عنہا سے حدیث بیان کرتے ہوئے سنا وہ کہا کرتی تھیں کہ",
+                "hadithArabic": "و حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنَا عَبْدُ الْوَهَّابِ قَالَ سَمِعْتُ يَحْيَى بْنَ سَعِيدٍ قَالَ أَخْبَرَنِي مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ أَنَّهُ سَمِعَ عَمْرَةَ تُحَدِّثُ عَنْ عَائِشَةَ أَنَّهَا كَانَتْ تَقُولُ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُصَلِّي رَكْعَتَيْ الْفَجْرِ فَيُخَفِّفُ حَتَّى إِنِّي أَقُولُ هَلْ قَرَأَ فِيهِمَا بِأُمِّ الْقُرْآنِ(ام لا).",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9249,
+                "hadithNumber": "1685",
+                "englishNarrator": "A'isha رضی اللہ عنہا reported:",
+                "hadithEnglish": "When it was dawn, the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) observed two rak'ahs, and I would say: Does he recite only the opening chapter of the Qur'an in it?",
+                "hadithUrdu": "جب فجر طلوع ہوجاتی تو رسول اللہ صلی اللہ علیہ وسلم دو رکعتیں ادا کرتے ۔ ( دل میں ) کہتی کیا آ پ صلی اللہ علیہ وسلم ان میں فاتحہ پڑھتے ہیں؟",
+                "urduNarrator": "ہم سے عبید اللہ بن معاذ نے بیان کیا، کہا ہم سے میرے والد نے بیان کیا، انہوں نے کہا, شعبہ نے محمد بن عبدالرحمان انصاری سے روایت کی ۔ انھوں نے عمرہ بنت عبدالرحمان سے سنا ، انھوں نے حضرت عائشہ رضی اللہ عنہا سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ حَدَّثَنَا أَبِي حَدَّثَنَا شُعْبَةُ عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ الْأَنْصَارِيِّ سَمِعَ عَمْرَةَ بِنْتَ عَبْدِ الرَّحْمَنِ عَنْ عَائِشَةَ قَالَتْ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا طَلَعَ الْفَجْرُ صَلَّى رَكْعَتَيْنِ أَقُولُ هَلْ يَقْرَأُ فِيهِمَا بِفَاتِحَةِ الْكِتَابِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9250,
+                "hadithNumber": "1686",
+                "englishNarrator": "A'isha رضی اللہ عنہا reported:",
+                "hadithEnglish": "The Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) was not so much particular about observing supererogatory rak'ahs as in case of the two rak'ahs of the dawn prayer.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نوافل میں سے کسی اور ( نماز ) کی اتنی زیادہ پاسداری نہیں کرتے تھے جتنی آپ صبح سے پہلے کی دو رکعتوں کی کرتے تھے ۔",
+                "urduNarrator": "مجھ سے زہیر بن حرب نے بیان کیا، انہوں نے ہم سے بیان کیا, یحییٰ بن سعید نے ابن جریج سے روایت کی ، انھوں نے کہا : مجھے عطاء بن عبید بن عمیر سے حدیث سنائی اور ا نھوں نے حضرت عائشہ رضی اللہ عنہا سےروایت کی کہ",
+                "hadithArabic": "و حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ عَنْ ابْنِ جُرَيْجٍ قَالَ حَدَّثَنِي عَطَاءٌ عَنْ عُبَيْدِ بْنِ عُمَيْرٍ عَنْ عَائِشَةَ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَمْ يَكُنْ عَلَى شَيْءٍ مِنْ النَّوَافِلِ أَشَدَّ مُعَاهَدَةً مِنْهُ عَلَى رَكْعَتَيْنِ قَبْلَ الصُّبْحِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9251,
+                "hadithNumber": "1687",
+                "englishNarrator": "A'isha رضی اللہ عنہا reported:",
+                "hadithEnglish": "I have never seen the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) hastening as much in observing supererogatory as two rak'ahs before the (Fard) of the dawn prayer.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم کو کسی بھی نفل ( کی ادائیگی ) کے لئے اسقدر جلدی کرتے نہیں دیکھاجتنی جلدی آپ نماز فجر سے پہلے کی دو رکعتوں کے لئے کرتے تھے ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ اور ابن نمیر نے روایت کی ہے,حفص نے ابن جریج سے باقی ماندہ اسی سند کے ساتھ حضرت عائشہ رضی اللہ عنہا سے روایت کی ، کہا",
+                "hadithArabic": "و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَابْنُ نُمَيْرٍ جَمِيعًا عَنْ حَفْصِ بْنِ غِيَاثٍ قَالَ ابْنُ نُمَيْرٍ حَدَّثَنَا حَفْصٌ عَنْ ابْنِ جُرَيْجٍ عَنْ عَطَاءٍ عَنْ عُبَيْدِ بْنِ عُمَيْرٍ عَنْ عَائِشَةَ قَالَتْ مَا رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي شَيْءٍ مِنْ النَّوَافِلِ أَسْرَعَ مِنْهُ إِلَى الرَّكْعَتَيْنِ قَبْلَ الْفَجْرِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9252,
+                "hadithNumber": "1688",
+                "englishNarrator": "A'isha رضی اللہ عنہا reported:",
+                "hadithEnglish": "Allah's Messenger as saying: The two rak'ahs at dawn are better than this world and what it contains.",
+                "hadithUrdu": "آپ نے فرمایا : \" فجر کی دو رکعتیں دنیا اور جو کچھ دنیا میں ہے ، اس سے بہتر ہیں ۔ \"",
+                "urduNarrator": "ہم سے محمد بن عبید الغبری نے بیان کیا, ابو عوانہ نے قتادہ سے ، انھوں نے زرارہ بن اوفیٰ سے ، انھوں نے سعد بن ہشام سے ، انھوں نے حضرت عائشہ رضی اللہ عنہا سے اور ا نھوں نے نبی کریم صلی اللہ علیہ وسلم سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ الْغُبَرِيُّ حَدَّثَنَا أَبُو عَوَانَةَ عَنْ قَتَادَةَ عَنْ زُرَارَةَ بْنِ أَوْفَى عَنْ سَعْدِ بْنِ هِشَامٍ عَنْ عَائِشَةَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ رَكْعَتَا الْفَجْرِ خَيْرٌ مِنْ الدُّنْيَا وَمَا فِيهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9253,
+                "hadithNumber": "1689",
+                "englishNarrator": "A'isha رضی اللہ عنہا reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said about the two (supererogatory) rak'ahs of the dawn: They are dearer to me than the whole world.",
+                "hadithUrdu": "آپ نے طلوع فجر کے وقت کی دورکعتوں کے بارے میں فرمایا : \" وہ دو ( رکعتیں ) مجھے ساری دنیا سے زیادہ پسند ہیں ۔ \"",
+                "urduNarrator": "ہم سے یحییٰ بن حبیب نے بیان کیا، انہوں نے بیان کیامعتمر کے والد سلیمان بن طرخان نے قتادہ سے اسی سند کے ساتھ حضرت عائشہ رضی اللہ عنہا سے اور انھوں نے نبی اکرم صلی اللہ علیہ وسلم سے روایت کی کہ",
+                "hadithArabic": "و حَدَّثَنَا يَحْيَى بْنُ حَبِيبٍ حَدَّثَنَا مُعْتَمِرٌ قَالَ قَالَ أَبِي حَدَّثَنَا قَتَادَةُ عَنْ زُرَارَةَ عَنْ سَعْدِ بْنِ هِشَامٍ عَنْ عَائِشَةَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ فِي شَأْنِ الرَّكْعَتَيْنِ عِنْدَ طُلُوعِ الْفَجْرِ لَهُمَا أَحَبُّ إِلَيَّ مِنْ الدُّنْيَا جَمِيعًا",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9254,
+                "hadithNumber": "1690",
+                "englishNarrator": "Abu Huraira رضی اللہ  عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) recited in the two (supererogatory) rak'ahs of the dawn (prayer): Say: O unbelievers, (Qur'an, cix.) and Say: Allah is one (cxii.).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فجر کی دو رکعتوں میں ( قُلْ يَا أَيُّهَا الْكَافِرُ‌ونَ ) اور ( قُلْ هُوَ اللہ أَحَدٌ ) تلاوت کیں ۔",
+                "urduNarrator": "مجھ سے محمد بن عباد اور ابن ابی عمر نے بیان کیا، کہا: ہم سے مروان بن معاویہ نے بیان کیا، وہ یزید کی سند سے، وہ ابن کیسان ہیں، ابو حازم کی سند سے,حضرت ابو ہریرہ رضی اللہ  عنہ سے روایت ہے کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدُ بْنُ عَبَّادٍ وَابْنُ أَبِي عُمَرَ قَالَا حَدَّثَنَا مَرْوَانُ بْنُ مُعَاوِيَةَ عَنْ يَزِيدَ هُوَ ابْنُ كَيْسَانَ عَنْ أَبِي حَازِمٍ عَنْ أَبِي هُرَيْرَةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَرَأَ فِي رَكْعَتَيْ الْفَجْرِ قُلْ يَا أَيُّهَا الْكَافِرُونَ وَقُلْ هُوَ اللَّهُ أَحَدٌ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9255,
+                "hadithNumber": "1691",
+                "englishNarrator": "Ibn 'Abbas رضی اللہ  عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) used to recite in first of the two (supererogatory) rak'ahs of the dawn: Say: We believed in Allah and what was revealed to us... verse 136 from Surah Baqara, and in the second of the two: I believe in Allah and I bear testimony that we are Muslims (iii. 52).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم فجر کی دو رکعتوں میں سے پہلی میں ( قرآن مجید سے آیت ) ( قُولُوا آمَنَّا بِاللَّـهِ وَمَا أُنزِلَ إِلَيْنَا ) ( والاحصہ ) پڑھتے جو سورة بقرہ کی آیت ہے اور دوسری میں ( آل عمران کی آیت ) ( آمَنَّا بِاللہ وَاشْهَدْ بِأَنَّا مُسْلِمُونَ ) ( والا حصہ ) پڑھتے ۔",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا، ہم سے الفزاری نے بیان کیا، معنی مروان بن معاویہ فزاری نے عثمان بن حکیم انصاری سے حدیث بیان کی ، انھوں نے کہا : مجھے سعید بن یسار نے بتایا کہ انھیں حضرت ابن عباس رضی اللہ  عنہ نے خبردی کہ",
+                "hadithArabic": "و حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ حَدَّثَنَا الْفَزَارِيُّ يَعْنِي مَرْوَانَ بْنَ مُعَاوِيَةَ عَنْ عُثْمَانَ بْنِ حَكِيمٍ الْأَنْصَارِيِّ قَالَ أَخْبَرَنِي سَعِيدُ بْنُ يَسَارٍ أَنَّ ابْنَ عَبَّاسٍ أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَقْرَأُ فِي رَكْعَتَيْ الْفَجْرِ فِي الْأُولَى مِنْهُمَا قُولُوا آمَنَّا بِاللَّهِ وَمَا أُنْزِلَ إِلَيْنَا الْآيَةَ الَّتِي فِي الْبَقَرَةِ وَفِي الْآخِرَةِ مِنْهُمَا آمَنَّا بِاللَّهِ وَاشْهَدْ بِأَنَّا مُسْلِمُونَ(آل عمران:52).",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9256,
+                "hadithNumber": "1692",
+                "englishNarrator": "Ibn 'Abbas رضی اللہ عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) used to recite in the two (supererogatory) rak'ahs of the dawn prayer: Say: We believed in Allah and what was revealed to us and that which is found in Surah Al-i-'lmran: Come to that word (creed) which is common between you and us (iii. 64).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم فجر کی دو رکعتوں میں ( قرآن مجید میں سے ) ( قُولُوا آمَنَّا بِاللَّـهِ وَمَا أُنزِلَ إِلَيْنَا ) ( والا حصہ ) اور جو سورہ آل عمران میں ہے ( تَعَالَوْا إِلَىٰ كَلِمَةٍ سَوَاءٍ بَيْنَنَا وَبَيْنَكُمْ ) ( والاحصہ ) پڑھا کرتے تھے ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا, ابو خالد احمر نے عثمان بن حکیم سے ، انھوں نے سعید بن یسار سے اور انھوں نے حضرت ابن عباس رضی اللہ عنہ سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا أَبُو خَالِدٍ الْأَحْمَرُ عَنْ عُثْمَانَ بْنِ حَكِيمٍ عَنْ سَعِيدِ بْنِ يَسَارٍ عَنْ ابْنِ عَبَّاسٍ قَالَ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقْرَأُ فِي رَكْعَتَيْ الْفَجْرِ قُولُوا آمَنَّا بِاللَّهِ وَمَا أُنْزِلَ إِلَيْنَا وَالَّتِي فِي آلِ عِمْرَانَ تَعَالَوْا إِلَى كَلِمَةٍ سَوَاءٍ بَيْنَنَا وَبَيْنَكُمْ)آل عمران:64.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9257,
+                "hadithNumber": "1693",
+                "englishNarrator": null,
+                "hadithEnglish": "A Hadith similar to that of Mawran Al-Fazari (no. 1692) was narrated from 'Uthman bin Hakim with this chain.",
+                "hadithUrdu": "مجھ سے علی بن خشرم نے بیان کیا، انہوں نے ہم سے بیان کیا,عیسی بن یونس نے عثمان بن حکیم سے اسی سندکے ساتھ مروان فزاری کی حدیث کی طرح حدیث بیان کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنِي عَلِيُّ بْنُ خَشْرَمٍ أَخْبَرَنَا عِيسَى بْنُ يُونُسَ عَنْ عُثْمَانَ بْنِ حَكِيمٍ فِي هَذَا الْإِسْنَادِ بِمِثْلِ حَدِيثِ مَرْوَانَ الْفَزَارِيّ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9258,
+                "hadithNumber": "1694",
+                "englishNarrator": "Umm Habiba رضی اللہ عنہا (the wife of the Holy Prophet) reported:",
+                "hadithEnglish": "It was narrated that Amr bin Aws said: 'Anbasah bin Abi Sufyan told me, during his final illness, a hadith tht made him Happy. He said: \"I heard the Messenger of Allah say: 'Whoever prays twelve Rak'ah every day and night, a house will be built for him in Paradise because of them.' \"\r\nUmm Habibah said: \"I have not stopped doing them since I heard about them from the Messenger of Allah ﷺ.\"\r\nAnbasah said: \"I have not stopped doing them since I heard about them from Umm Habibah.\" \r\n 'Amr bin Awr said: \"I have not stopped doing them since I heard about them from 'Anbasah.\"\r\nAl-Nu'man bin Salim said: \"I have not stopped doing them since I heard about them from 'Amr bin Aws.\"",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا \"\" جس نے ایک دن اور ایک رات میں بارہ رکعات ادا کیں اس کے لئے ان کے بدلے جنت میں ایک گھر بنا دیاجاتا ہے ۔ \"\" ام حبیبہ رضی اللہ عنہا نے کہا : جب سے میں نے ان کے بارے میں رسول اللہ صلی اللہ علیہ وسلم سے سنا ، میں نے انھیں کبھی ترک نہیں کیا ۔ عنبسہ نے کہا : جب سے میں نے ان کے بارے میں حضرت ام حبیبہ رضی اللہ عنہا سے سنا ، میں نے انھیں کبھی ترک نہیں کیا ۔ عمرو بن اوس نے کہا : جب سے میں نے ان کے بارے میں عنبسہ سے سنا ، میں نے انھیں کبھی ترک نہیں کیا ۔ نعمان بن سالم نے کہا : جب سے میں نے عمرو بن اوس سے ان کے بارے میں سنا ، میں نے انھیں کبھی ترک نہیں کیا ۔",
+                "urduNarrator": "ہم سے محمد بن عبداللہ بن نمیر نے بیان کیا, ابو خالد سلیمان بن حیان نے داود بن ابی سند سے حدیث بیان کی ، انہوں نے نعمان بن سالم سے اور انھوں نے عمرہ بن اوس سے روایت کی ، انھوں نے کہا : مجھے عنبسہ بن ابی سفیان نے اپنے مرض الموت میں ایک ایسی حدیث سنائی جس سے انتہائی خوشی حاصل ہوتی ہے ، کہا : میں نے ام حبیبہ رضی اللہ عنہا سے سنا وہ کہتی تھیں",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ حَدَّثَنَا أَبُو خَالِدٍ يَعْنِي سُلَيْمَانَ بْنَ حَيَّانَ عَنْ دَاوُدَ بْنِ أَبِي هِنْدٍ عَنْ النُّعْمَانِ بْنِ سَالِمٍ عَنْ عَمْرِو بْنِ أَوْسٍ قَالَ حَدَّثَنِي عَنْبَسَةُ بْنُ أَبِي سُفْيَانَ فِي مَرَضِهِ الَّذِي مَاتَ فِيهِ بِحَدِيثٍ يَتَسَارُّ إِلَيْهِ قَالَ سَمِعْتُ أُمَّ حَبِيبَةَ تَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ مَنْ صَلَّى اثْنَتَيْ عَشْرَةَ رَكْعَةً فِي يَوْمٍ وَلَيْلَةٍ بُنِيَ لَهُ بِهِنَّ بَيْتٌ فِي الْجَنَّةِ قَالَتْ أُمُّ حَبِيبَةَ فَمَا تَرَكْتُهُنَّ مُنْذُ سَمِعْتُهُنَّ مِنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَقَالَ عَنْبَسَةُ فَمَا تَرَكْتُهُنَّ مُنْذُ سَمِعْتُهُنَّ مِنْ أُمِّ حَبِيبَةَ وَقَالَ عَمْرُو بْنُ أَوْسٍ مَا تَرَكْتُهُنَّ مُنْذُ سَمِعْتُهُنَّ مِنْ عَنْبَسَةَ وَقَالَ النُّعْمَانُ بْنُ سَالِمٍ مَا تَرَكْتُهُنَّ مُنْذُ سَمِعْتُهُنَّ مِنْ عَمْرِو بْنِ أَوْسٍ.",
+                "headingArabic": "فَضْلِ السُّنَنِ الرَّاتِبَةِ قَبْلَ الْفَرَائِضِ وَبَعْدَهُنَّ وَبَيَانِ عَدَدِهِنَّ",
+                "headingUrdu": "فرض نمازوں سے پہلے اور بعد کی سنتوں کی فضیلت اور ان کی تعداد",
+                "headingEnglish": "The virtue of the regular sunnah prayers before and after the obligatory prayers, and their numbers",
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9259,
+                "hadithNumber": "1695",
+                "englishNarrator": "Nu'man bin Salim reported with the same chain of transmitters:",
+                "hadithEnglish": "He who observed twelve voluntary rak'ahs, a house will be built for him in Paradise.",
+                "hadithUrdu": "\" جس نے ایک دن میں بارہ رکعات نوافل پڑے اس کے لئے جنت میں گھر بنایا جائے گا ۔ \"",
+                "urduNarrator": "مجھ سے ابو غسان المسماعی نے بیان کیا، انہوں نے ہم سے بیان کیا,بشر بن مفضل نے کہا : ہمیں داود نے نعمان بن سالم سے اسی سندکے ساتھ یہ حدیث بیان کی",
+                "hadithArabic": "حَدَّثَنِي أَبُو غَسَّانَ الْمِسْمَعِيُّ حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ حَدَّثَنَا دَاوُدُ عَنْ النُّعْمَانِ بْنِ سَالِمٍ بِهَذَا الْإِسْنَادِ مَنْ صَلَّى فِي يَوْمٍ ثِنْتَيْ عَشْرَةَ سَجْدَةً تَطَوُّعًا بُنِيَ لَهُ بَيْتٌ فِي الْجَنَّةِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9260,
+                "hadithNumber": "1696",
+                "englishNarrator": "Umm Habiba رضی اللہ عنہا , the wife of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), reported :",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: If any Muslim servant (of Allah) prays for the sake of Allah twelve rak'ahs (of Sunan) every day, over and above the obligatory ones, Allah will build for him a house in Paradise, or a house will be built for him in Paradise; and I have not abandoned observing them after (hearing it from the Messenger of Allah). (So said also 'Amr and Nu'man.)",
+                "hadithUrdu": "آ پ صلی اللہ علیہ وسلم فرمارہے تھے : ”کوئی ایسا مسلمان بندہ نہیں جو ہر روز اللہ کے لئے فرائض کے علاوہ بارہ رکعات سنتیں ادا کرتا ہے مگر اللہ اس کے لئے جنت میں ایک گھر بنا دیتا ہے ۔ یا اس کے لئے جنت میں ایک گھر بنا دیاجاتا ہے ۔ ام حبیبہ رضی اللہ عنہا نے کہا : میں اب تک انھیں مسلسل اداکرتے آرہی ہوں ۔ عمرو نے کہا : میں اب تک ان کو ہمیشہ ادا کر تا آرہاہوں ۔ نعمان نے بھی اس کے مطابق کہا ۔",
+                "urduNarrator": "ہم سے محمد بن بشار نے بیان کیا, محمد بن جعفر نے کہا : ہمیں شعبہ نے نعمان بن سالم سے حدیث سنائی ، انھوں نے عمرو بن اوس سے انھوں نے عنبسہ بن ابی سفیان سے اور انھوں نے نبی اکرم صلی اللہ علیہ وسلم کی زوجہ محترمہ ام حبیبہ رضی اللہ عنہا سے روایت کی کہ انھوں نے نبی اکرم صلی اللہ علیہ وسلم سے سنا",
+                "hadithArabic": "و حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ النُّعْمَانِ بْنِ سَالِمٍ عَنْ عَمْرِو بْنِ أَوْسٍ عَنْ عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ عَنْ أُمِّ حَبِيبَةَ زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهَا قَالَتْ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ مَا مِنْ عَبْدٍ مُسْلِمٍ يُصَلِّي لِلَّهِ كُلَّ يَوْمٍ ثِنْتَيْ عَشْرَةَ رَكْعَةً تَطَوُّعًا غَيْرَ فَرِيضَةٍ إِلَّا بَنَى اللَّهُ لَهُ بَيْتًا فِي الْجَنَّةِ أَوْ إِلَّا بُنِيَ لَهُ بَيْتٌ فِي الْجَنَّةِ قَالَتْ أَمُّ حَبِيبَةَ فَمَا بَرِحْتُ أُصَلِّيهِنَّ بَعْدُ و قَالَ عَمْرٌو مَا بَرِحْتُ أُصَلِّيهِنَّ بَعْدُ و قَالَ النُّعْمَانُ مِثْلَ ذَلِكَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9261,
+                "hadithNumber": "1697",
+                "englishNarrator": "Umm Habiba رضی اللہ عنہا reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) having said: If any Muslim servant (of Allah) performed ablution, and performed it well, and then observed every day, the rest of the hadith is the same.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جس بھی مسلمان بندے نے اہتمام کے ساتھ مکمل وضو کیا ، پھر اللہ کی رضا کی خاطر ہر روز ( نفل ) نماز پڑھی ۔ ۔ ۔ \" اور اسی کے مطابق روایت کی ۔",
+                "urduNarrator": "اور مجھ سے عبدالرحمٰن بن بشر اور عبداللہ بن ہاشم العبدی نے بیان کیا، کہا بہز نے شعبہ سے باقی ماندہ سابقہ سندکے ساتھ حضرت ام حبیبہ رضی اللہ عنہا سے روایت کی کہ",
+                "hadithArabic": "و حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ بِشْرٍ وَعَبْدُ اللَّهِ بْنُ هَاشِمٍ الْعَبْدِيُّ قَالَا حَدَّثَنَا بَهْزٌ حَدَّثَنَا شُعْبَةُ قَالَ النُّعْمَانُ بْنُ سَالِمٍ أَخْبَرَنِي قَالَ سَمِعْتُ عَمْرَو بْنَ أَوْسٍ يُحَدِّثُ عَنْ عَنْبَسَةَ عَنْ أُمِّ حَبِيبَةَ قَالَتْ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَا مِنْ عَبْدٍ مُسْلِمٍ تَوَضَّأَ فَأَسْبَغَ الْوُضُوءَ ثُمَّ صَلَّى لِلَّهِ كُلَّ يَوْمٍ فَذَكَرَ بِمِثْلِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9262,
+                "hadithNumber": "1698",
+                "englishNarrator": "Ibn 'Umar رضی اللہ عنہ reported:",
+                "hadithEnglish": "I prayed along with Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) two rak'ahs before and two rak'ahs after the noon prayer, two rak'ahs after the sunset prayer and two rak'ahs after the 'Isha' prayer and two rak'ahs after the Friday prayer; and so far as the sunset, 'Isha' and Friday prayers are concerned, I observed (them) along with the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) in his house.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم کے ساتھ ظہر سے پہلے دو رکعتیں پڑھیں اور اس کے بعد دو رکعتیں اور مغرب کے بعد دورکعتیں اور عشاء کے بعد دورکعتیں اور جمعے کے بعد دو رکعتیں ادا کیں ۔ جہاں تک مغرب ، عشاء اور جمعے ( کی سنتوں ) کا تعلق ہے ، وہ میں نے رسول اللہ صلی اللہ علیہ وسلم کے ساتھ آپ کے گھر میں پڑھیں ۔",
+                "urduNarrator": "مجھ سے زہیر بن حرب اور عبید اللہ بن سعید نے بیان کیا، کہا: ہم سے یحییٰ نے جو ابن سعید ہیں، انہوں نے عبید اللہ کی سند سے بیان کیا، انہوں نے کہا: مجھ سے نافع نے ابن عمر اور ابو بکر بن سعید رضی اللہ عنہما سے بیان کیا,  ہم سے ابی شیبہ نے بیان کیا، کہا ہم سے ابو اسامہ نے بیان کیا، کہا ہم سے عبید اللہ نے بیان کیا، نافع کی سند سے,حضرت ابن عمر سے رضی اللہ عنہ سے روایت ہے ، انھوں نے کہا",
+                "hadithArabic": "و حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ وَعُبَيْدُ اللَّهِ بْنُ سَعِيدٍ قَالَا حَدَّثَنَا يَحْيَى وَهُوَ ابْنُ سَعِيدٍ عَنْ عُبَيْدِ اللَّهِ قَالَ أَخْبَرَنِي نَافِعٌ عَنْ ابْنِ عُمَرَ ح و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا أَبُو أُسَامَةَ حَدَّثَنَا عُبَيْدُ اللَّهِ عَنْ نَافِعٍ عَنْ ابْنِ عُمَرَ قَالَ صَلَّيْتُ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَبْلَ الظُّهْرِ سَجْدَتَيْنِ وَبَعْدَهَا سَجْدَتَيْنِ وَبَعْدَ الْمَغْرِبِ سَجْدَتَيْنِ وَبَعْدَ الْعِشَاءِ سَجْدَتَيْنِ وَبَعْدَ الْجُمُعَةِ سَجْدَتَيْنِ فَأَمَّا الْمَغْرِبُ وَالْعِشَاءُ وَالْجُمُعَةُ فَصَلَّيْتُ مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي بَيْتِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9263,
+                "hadithNumber": "1699",
+                "englishNarrator": "Abdullah bin Shaqiq said:",
+                "hadithEnglish": "I asked 'A'isha رضی اللہ عنہا about the Messenger of Allah's ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) voluntary prayers, and she replied: Before the noon prayer, he used to pray four rak'ahs in my house; then would go out and lead the people in prayer; then come in and pray two rak'ahs. He would then lead the people in the sunset prayer; then come in and pray two rak'ahs. Then he would lead the people in the 'Isha' prayer, and enter my house and pray two rak'ahs. He would pray nine rak'ahs during the night, including Witr. At night he would pray for a long time standing and for a long time sitting, and when he recited the Holy Qur'an while standing, he would bow and prostrate himself from the standing position, and when he recited while sitting, he would bow and prostrate himself from the sitting position, and when it was dawn he would pray two rak'ahs.",
+                "hadithUrdu": "میں نے حضرت عائشہ رضی اللہ عنہا سے رسول اللہ صلی اللہ علیہ وسلم کی نفل نماز کے بارے میں سوال کیا؟تو انھوں نے جوابدیا : آپ میرے گھر میں ظہر سے پہلے چار رکعت پڑھتے ، پھر ( گھر سے ) نکلتے اور لوگوں کو نماز پڑھاتے ، پھر گھر واپس آتے اور دو رکعتیں ادا فرماتے ۔ اور آپ لوگوں کو مغرب کی نماز پڑھاتے پھر گھر آتے اور دو رکعت نماز پڑھتے ، اور لوگوں کو عشاء کی نماز پڑھاتے اور میرے گھر آتے اور دو رکعتیں پڑھتے ، ان میں وتر شامل ہوتے ، اور طویل رات کھڑے ہوکر اور طویل ر ات بیٹھ کر نماز ادا کرتے اور جب کھڑے ہوکر قراءت کرتے تو رکوع اور سجدہ بھی کھڑے ہوکر کرتے اور جب بیٹھ کر قراءت کرتے تو رکوع اور سجدہ بھی بیٹھ کر کرتے اور جب فجر طلوع ہوتی تو دو رکعتیں پڑھتے ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، کہا ہم سے ہشیم نے بیان کیا,خالد نے عبداللہ بن شقیق سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى أَخْبَرَنَا هُشَيْمٌ عَنْ خَالِدٍ عَنْ عَبْدِ اللَّهِ بْنِ شَقِيقٍ قَالَ سَأَلْتُ عَائِشَةَ عَنْ صَلَاةِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ تَطَوُّعِهِ فَقَالَتْ كَانَ يُصَلِّي فِي بَيْتِي قَبْلَ الظُّهْرِ أَرْبَعًا ثُمَّ يَخْرُجُ فَيُصَلِّي بِالنَّاسِ ثُمَّ يَدْخُلُ فَيُصَلِّي رَكْعَتَيْنِ وَكَانَ يُصَلِّي بِالنَّاسِ الْمَغْرِبَ ثُمَّ يَدْخُلُ فَيُصَلِّي رَكْعَتَيْنِ وَيُصَلِّي بِالنَّاسِ الْعِشَاءَ وَيَدْخُلُ بَيْتِي فَيُصَلِّي رَكْعَتَيْنِ وَكَانَ يُصَلِّي مِنْ اللَّيْلِ تِسْعَ رَكَعَاتٍ فِيهِنَّ الْوِتْرُ وَكَانَ يُصَلِّي لَيْلًا طَوِيلًا قَائِمًا وَلَيْلًا طَوِيلًا قَاعِدًا وَكَانَ إِذَا قَرَأَ وَهُوَ قَائِمٌ رَكَعَ وَسَجَدَ وَهُوَ قَائِمٌ وَإِذَا قَرَأَ قَاعِدًا رَكَعَ وَسَجَدَ وَهُوَ قَاعِدٌ وَكَانَ إِذَا طَلَعَ الْفَجْرُ صَلَّى رَكْعَتَيْنِ.",
+                "headingArabic": "جَوَازِ النَّافِلَةِ قَائِمًا وَقَاعِدًا وَفِعْلِ بَعْضِ الرَّكْعَةِ قَائِمًا وَبَعْضِهَا قَاعِدًا ‏",
+                "headingUrdu": "کھڑے ہو کر یا بیٹھ کر نفلی نماز پڑھنا اور ایک ہی رکعت میں کھڑے ہو کر بیٹھنا جائز ہے۔",
+                "headingEnglish": "It is permissible to offer voluntary prayers standing or sitting, and to stand and sit in the same rak`ah",
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 8951,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=358",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=356",
+                "label": "356",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=357",
+                "label": "357",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=358",
+                "label": "358",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=359",
+                "label": "359",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=360",
+                "label": "360",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=361",
+                "label": "361",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=362",
+                "label": "362",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=360",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=360",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=358",
+        "to": 8975,
+        "total": 40465
+    }
+}

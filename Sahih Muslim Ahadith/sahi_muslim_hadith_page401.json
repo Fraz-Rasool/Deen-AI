@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 401,
+        "data": [
+            {
+                "id": 10289,
+                "hadithNumber": "2725",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Abu Bishr with the same chain of transmitters (with a slight variation of words and these are), that he (the narrator) said: During any month continuously since he came to Medina.",
+                "hadithUrdu": "ہم سے محمد بن بشار اور ابوبکر بن نافع نے غندر کی سند سے،شعبہ نے اسی سند کے ساتھ ابو بشر سے ( سابقہ حدیث کے مانند ) روایت کی اور ( \" پورا مہینہ کے بجائے ) \" جب سے مدینہ آئے متواتر کوئی مہینہ \" کہا ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، وَأَبُو بَكْرِ بْنُ نَافِعٍ، عَنْ غُنْدَرٍ، عَنْ شُعْبَةَ، عَنْ أَبِي بِشْرٍ، بِهَذَا الْإِسْنَادِ، وَقَالَ: شَهْرًا مُتَتَابِعًا مُنْذُ قَدِمَ الْمَدِينَةَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10290,
+                "hadithNumber": "2726",
+                "englishNarrator": "Uthman bin Hakim al-Ansari said:",
+                "hadithEnglish": "I asked Sa'id bin Jubair about fasting In Rajab, and we were then passing through the month of Rajab, whereupon he said: I heard Ibn 'Abbas (رضی اللہ تعالیٰ عنہما) as saying: The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) used to observe fast (so continuously) that we (were inclined) to say that he would not break (them) and did not observe them so continuously) that we (were inclined to say) that he would not observe fast.",
+                "hadithUrdu": "میں نے سعید بن جبیر سے رجب میں روزہ رکھنے کے بارے میں سوال کیا ، اور ہم ان دنوں رجب میں ہی تھے ، تو انھوں نے کہا : میں نے ابن عباس رضی اللہ تعالیٰ عنہما کو یہ فرماتے ہوئے سنا : رسول اللہ صلی اللہ علیہ وسلم روزے رکھتے حتیٰ کہ ہم کہتے : آپ صلی اللہ علیہ وسلم روزے ترک نہیں کریں گے اور آپ صلی اللہ علیہ وسلم روزے ترک کرتے حتیٰ کہ ہم کہتے : آپ صلی اللہ علیہ وسلم روزے نہیں رکھیں گے ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، انہوں نے بیان کیاعبداللہ بن نمیر نے کہا : ہمیں عثمان بن حکیم نے حدیث سنائی ، کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللهِ بْنُ نُمَيْرٍ، ح وحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا عُثْمَانُ بْنُ حَكِيمٍ الْأَنْصَارِيُّ، قَالَ: سَأَلْتُ سَعِيدَ بْنَ جُبَيْرٍ، عَنْ صَوْمِ رَجَبٍ وَنَحْنُ يَوْمَئِذٍ فِي رَجَبٍ فَقَالَ: سَمِعْتُ ابْنَ عَبَّاسٍ رَضِيَ اللهُ عَنْهُمَا، يَقُولُ: كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَصُومُ حَتَّى نَقُولَ: لَا يُفْطِرُ، وَيُفْطِرُ حَتَّى نَقُولَ: لَا يَصُومُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10291,
+                "hadithNumber": "2727",
+                "englishNarrator": null,
+                "hadithEnglish": "A similar report (as no. 2726) was narrated from 'Uthman bin Hakim with this chain.",
+                "hadithUrdu": "مجھ سے علی بن حجر نے بیان کیا، انہوں نے ہم سے بیان کیاعلی بن مسہر اور عیسیٰ بن یونس دونوں نے اسی سند کے ساتھ عثمان بن حکیم سے اسی ( سابقہ حدیث ) کے مانند روایت کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنِيهِ عَلِيُّ بْنُ حُجْرٍ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، ح وحَدَّثَنِي إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، كِلَاهُمَا عَنْ عُثْمَانَ بْنِ حَكِيمٍ، فِي هَذَا الْإِسْنَادِ بِمِثْلِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10292,
+                "hadithNumber": "2728",
+                "englishNarrator": "Anas (رضی اللہ تعالیٰ عنہ) reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) used to observe fast till it was said that he had observed fast, he had observed fast (perhaps never to break it), and he did not fast till it was said that he had given up fast, he had given up fast (perhaps never to observe it).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم روزے رکھتے حتیٰ کہ کہاجاتا : آپ صلی اللہ علیہ وسلم نے روزے شروع کردیے ، آپ صلی اللہ علیہ وسلم نے روزے شروع کردیے ۔ آپ صلی اللہ علیہ وسلم روزے ترک کرتے حتیٰ کہ کہا جاتا : آپ صلی اللہ علیہ وسلم نے روزے رکھنے چھوڑ دیے ۔ آپ صلی اللہ علیہ وسلم نے روزےرکھنے چھوڑ دیے ۔",
+                "urduNarrator": "زہیر بن حرب اورابو بکر بن نافع نے ۔ الفاظ انھی کے ہین ۔ دو الگ الگ سندوں کے ساتھ حماد سے حدیث بیان کی ، کہا : ہمیں ثابت نے حضرت انس رضی اللہ تعالیٰ عنہ سے روایت کی کہ",
+                "hadithArabic": "وحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، وَابْنُ أَبِي خَلَفٍ، قَالَا: حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا حَمَّادٌ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ رَضِيَ اللهُ عَنْهُ، ح وحَدَّثَنِي أَبُو بَكْرِ بْنُ نَافِعٍ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا بَهْزٌ، حَدَّثَنَا حَمَّادٌ، حَدَّثَنَا ثَابِتٌ، عَنْ أَنَسٍ رَضِيَ اللهُ عَنْهُ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، كَانَ يَصُومُ حَتَّى يُقَالَ: قَدْ صَامَ، قَدْ صَامَ، وَيُفْطِرُ حَتَّى يُقَالَ: قَدْ أَفْطَرَ، قَدْ أَفْطَرَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10293,
+                "hadithNumber": "2729",
+                "englishNarrator": "Abdullah bin 'Amr bin al-'As رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) was informed that he could stand up for (prayer) throughout the night and observe fast every day so long as he lived. Thereupon the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: Is it you who said this? I said to him: Messenger of Allah, it is I who said that. Thereupon the Messenger of Allah may peace be upon him) said: You are not capable enough to do so. Observe fast and break it; sleep and stand for prayer, and observe fast for three days during the month; for every good is multiplied ten times and this is like fasting for ever. I said: Messenger of Allah. I am capable of doing more than this. Thereupon he said: Fast one day and do not fast for the next two days. I said: Messenger of Allah, I have the strength to do more than that. The Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), said: Fast one day and break on the other day. That is known as the fasting of David (peace be upon him) and that is the best fasting. I said: I am capable of doing more than this. Thereupon the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: There is nothing better than this. 'Abdullah bin 'Amr (رضی اللہ تعالیٰ عنہ) said: Had I accepted the three days (fasting during every month) as the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) had said, it would have been more dear to me than my family and my property.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کو اطلاع دی گئی کہ وہ ( عبداللہ ) کہتاہے : میں جب تک زندہ ہوں ( مسلسل ) رات کا قیام کروں گا اور دن کا روزہ رکھوں گا ۔ تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \"\" تم ہی ہو جو یہ باتیں کرتے ہو؟ \"\" میں نے آپ صلی اللہ علیہ وسلم سے عرض کی : اللہ کے رسول صلی اللہ علیہ وسلم !واقعی میں نے ہی یہ کہا ہے ۔ تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \"\" تم یہ کام نہیں کرسکو گے ، لہذا روزہ رکھو اور روزہ ترک بھی کرو ۔ نیند بھی کرو اور قیام بھی کرو ، مہینے میں تین دن کے روزے رکھ لیا کرو کیونکہ ہر نیکی ( کا اجر ) دس گنا ہے ۔ اس طرح یہ سارے وقت کے روزوں کی طرح ہے ۔ \"\" میں نے عرض کی : میں اس سے افضل عمل کی طاقت رکھتا ہوں ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \"\" ایک دن روزہ رکھو اور دو دن نہ رکھو ۔ \"\" کہا : \"\" میں نے عرض کی : میں اس سے افضل عمل کی طاقت رکھتا ہوں ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \"\" ایک دن روزہ رکھو اورایک دن نہ رکھو ۔ \"\" یہ داود علیہ السلام کا روزہ ہے ۔ اور یہ روزوں کا سب سے منصفانہ ( طریقہ ) ہے ۔ \"\" کہا : میں اس سے افضل عمل کی طاقت رکھتا ہوں ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \"\" اس سے افضل کوئی صورت نہیں ۔ \"\" عبداللہ بن عمرو رضی اللہ تعالیٰ عنہ نے کہا : یہ بات مجھے اپنے اہل وعیال سے بھی زیاد عزیز ہے کہ میں ( مہینے میں ) تین دنوں کی بات تسلیم کرلیتا جو رسول اللہ صلی اللہ علیہ وسلم نے ارشاد فرمائی تھی ۔",
+                "urduNarrator": "مجھ سے ابو الطاہر نے بیان کیا، انہوں نے کہا: میں نے عبداللہ بن وہب کو یونس سے روایت کرتے ہوئے سنا, ابن شہاب نے سعید بن مسیب اور ابو سلمہ بن عبدالرحمن سے روایت کی کہ حضرت عبداللہ بن عمرو بن عاص رضی اللہ تعالیٰ عنہ نے کہا",
+                "hadithArabic": "حَدَّثَنِي أَبُو الطَّاهِرِ، قَالَ: سَمِعْتُ عَبْدَ اللهِ بْنَ وَهْبٍ، يُحَدِّثُ عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، ح وحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي سَعِيدُ بْنُ الْمُسَيِّبِ، وَأَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، أَنَّ عَبْدَ اللهِ بْنَ عَمْرِو بْنِ الْعَاصِ، قَالَ: أُخْبِرَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ يَقُولُ: لَأَقُومَنَّ اللَّيْلَ وَلَأَصُومَنَّ النَّهَارَ، مَا عِشْتُ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «آنْتَ الَّذِي تَقُولُ ذَلِكَ؟» فَقُلْتُ لَهُ: قَدْ قُلْتُهُ، يَا رَسُولَ اللهِ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ «فَإِنَّكَ لَا تَسْتَطِيعُ ذَلِكَ، فَصُمْ وَأَفْطِرْ، وَنَمْ وَقُمْ، وَصُمْ مِنَ الشَّهْرِ ثَلَاثَةَ أَيَّامٍ، فَإِنَّ الْحَسَنَةَ بِعَشْرِ أَمْثَالِهَا، وَذَلِكَ مِثْلُ صِيَامِ الدَّهْرِ» قَالَ قُلْتُ: فَإِنِّي أُطِيقُ أَفْضَلَ مِنْ ذَلِكَ، قَالَ: «صُمْ يَوْمًا وَأَفْطِرْ يَوْمَيْنِ» قَالَ قُلْتُ: فَإِنِّي أُطِيقُ أَفْضَلَ مِنْ ذَلِكَ، يَا رَسُولَ اللهِ، قَالَ: «صُمْ يَوْمًا وَأَفْطِرْ يَوْمًا، وَذَلِكَ صِيَامُ دَاوُدَ عَلَيْهِ السَّلَام، وَهُوَ أَعْدَلُ الصِّيَامِ» قَالَ قُلْتُ: فَإِنِّي أُطِيقُ أَفْضَلَ مِنْ ذَلِكَ، قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لَا أَفْضَلَ مِنْ ذَلِكَ» قَالَ عَبْدُ اللهِ بْنُ عَمْرٍو رَضِيَ اللهُ عَنْهُمَا: «لَأَنْ أَكُونَ قَبِلْتُ الثَّلَاثَةَ الْأَيَّامَ الَّتِي قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، أَحَبُّ إِلَيَّ مِنْ أَهْلِي وَمَالِي».",
+                "headingArabic": "النَّهْيِ عَنْ صَوْمِ الدَّهْرِ لِمَنْ تَضَرَّرَ بِهِ أَوْ فَوَّتَ بِهِ حَقًّا أَوْ لَمْ يُفْطِرْ الْعِيدَيْنِ وَالتَّشْرِيقَ وَبَيَانِ تَفْضِيلِ صَوْمِ يَوْمٍ وَإِفْطَارِ يَوْمٍ",
+                "headingUrdu": "جس شخص کو اس سے نقصان پہنچے یا دوسرے فرائض میں کوتاہی کرے یا دو عیدوں پر یا ایام تشریق میں روزہ نہ رکھے اس کے لیے عمر بھر کے لیے روزے رکھنے کی ممانعت؛ متبادل دنوں میں روزہ رکھنا بہتر ہے۔",
+                "headingEnglish": "Prohibition of Fasting for a lifetime for the one who will be harmed by that or who will neglect other duties, or does not break his fast on the two 'Ids or during the days of At-Tashriq; It is better to fast alternate days",
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10294,
+                "hadithNumber": "2730",
+                "englishNarrator": "Yahya reported:",
+                "hadithEnglish": "I and 'Abdullah bin Yazid set out till we came to Abu Salama. We sent a messenger to him (in his house in order to inform him about our arrival) and he came to us. There was a mosque near the door of his house, and we were in that mosque, till he came out to us. He said: If you like you may enter (the house) and, if you like, you may sit here (in the mosque). We said: We would rather sit here and (you) relate to us. He (Yahya) then narrated that 'Abdullah bin Amr bin al-'As ( رضی اللہ تعالیٰ عنہ) told him: I used to observe fast uninterruptedly and recited the (whole of the) Qur'an every night. It (the uninterrupted fasting and recital of the Qur'an every night) was mentioned to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) or he sent for me, and I went to him and he said to me: I have been informed that you fast continuously and recite (the whole of the Qur'an) every night. I said: Apostle of Allah, it is right, but I covet thereby nothing but good, whereupon he said: It suffices for you that you should observe fast for three days during every month. I said: Apostle of Allah, I am capable of doing more than this. He said: Your wife has a right upon you, your visitor has a right upon you, your body has a right upon you; so observe the fast of David, the Messenger of Allah (peace be upon him), for he was the best worshipper of Allah. I said: Apostle of Allah, what is the fast of David? He said: He used to fast one day and did not fast the other day. He (also) said: Recite the Qur'an during every month. I said: Apostle of Allah, I am capable of doing more than this, whereupon he said: Recite it in twenty days; recite it in ten days. I said: I am capable of doing more than this, whereupon he said: Recite it every week, and do not exceed beyond this, for your wife has a right upon you, your visitor has a right upon you, your body has a right upon you. He ('Amr bin 'As) said: I was hard to myself and thus I was put to hardship. The Apostle of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) had told me: 'You do not know you may live long (thus and bear the hardships for a long time), and I accepted that which the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) had told me. When I grew old I wished I had availed myself of the concession (granted by) the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ).",
+                "hadithUrdu": "میں اور عبداللہ بن یزید حضرت ابو سلمہ کے پاس حاضری کے لیے ( اپنے گھروں سے ) روانہ ہوئے ۔ ہم نے ایک پیغام لے جانے والا آدمی ان کے پاس بھیجا تو وہ بھی ہمارے لئے باہر نکل آئے ۔ وہاں ان کے گھر کے دروازے کے پاس ایک مسجد تھی ، کہا : ہم مسجد میں رہے یہاں تک کہ وہ بھی ہمارے پاس آگئے ۔ انھوں نے کہا : اگر تم چاہو تو ( گھر میں ) داخل ہوجاؤ ۔ اور اگر چاہو تو یہیں ( مسجد میں ) بیٹھ جاؤ ۔ کہا : ہم نے کہا : نہیں ، ہم یہیں بیٹھیں گے ، آپ ہمیں احادیث سنائیں ۔ انھوں نے کہا : مجھے حضرت عبداللہ بن عمرو بن عاص رضی اللہ تعالیٰ عنہ نے حدیث سنائی ، کہا : میں مسلسل روزے رکھتا تھا اور ہر رات ( قیام میں پورے ) قرآن کی قراءت کرتاتھا ۔ نبی اکرم صلی اللہ علیہ وسلم کے سامنے میرا ذکر کیا گیا ( اور آپ صلی اللہ علیہ وسلم تشریف لائے ) یا آپ صلی اللہ علیہ وسلم نے مجھے پیغام بھیجا اور میں آپ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوا ۔ تو آپ صلی اللہ علیہ وسلم نے مجھ سے فرمایا : کیا مجھے نہیں بتایا گیا کہ تم ہمیشہ ( ہرروز ) روزہ رکھتے ہو اور ہر رات ( پورا ) قرآن پڑھتے ہو؟ \"\" میں نے عرض کی : اے اللہ کے نبی کریم صلی اللہ علیہ وسلم !کیوں نہیں ( یہ بات درست ہے ) اور ایسا کرنے میں میرے پیش نظر بھلائی کے سوا کچھ نہیں ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \"\" تمھارے لیے اتنا ہی کافی ہے کہ تم ہر مہینے میں تین دن روزے رکھو ۔ \"\" میں نے عرض کی : اے اللہ کے نبی صلی اللہ علیہ وسلم !میں اس سے افضل عمل کرنے کی طاقت رکھتا ہوں ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \"\" تم پر تمھاری بیوی کا حق ہے ، تم پر تمھارے مہمانوں کاحق ہے ، اور تم پر تمھارے جسم کاحق ہے ، \"\" ( آخر میں ) آپ صلی اللہ علیہ وسلم نے فرمایا؛ \"\" اللہ کے نبی داود علیہ السلام کے روزوں کی طرح روزے رکھو وہ سب لوگوں سے بڑھ کر عبادت گزار تھے ۔ \"\" کہا : میں نے عرض کی : اے اللہ کے نبی صلی اللہ علیہ وسلم !داود علیہ السلام کا روزہ کیا تھا؟آپ صلی اللہ علیہ وسلم نے فرمایا : \"\" وہ ایک دن روزہ رکھتے تھے اور ایک دن افطار کرتے تھے ۔ \"\" فرمایا : \"\" قرآن کی قراءت ایک ماہ میں ( مکمل کیا ) کرو ۔ \"\" کہا : میں نے عرض کی : اے اللہ کے نبی صلی اللہ علیہ وسلم !میں اس سے افضل عمل کی طاقت رکھتا ہوں ۔ آپ صلی اللہ علیہ وسلم فرمایا ۔ اسے ہر بیس دن میں پڑھ لیاکرو ۔ کہا : میں نے عرض کی : اے اللہ کے نبی صلی اللہ علیہ وسلم !میں اس سے افضل عمل کی طاقت رکھتا ہوں ۔ آپ صلی اللہ علیہ وسلم فرمایا ۔ اسے ہر دس دن میں پڑھ لیاکرو ۔ کہا : میں نے عرض کی : اے اللہ کے نبی صلی اللہ علیہ وسلم !میں اس سے افضل عمل کی طاقت رکھتا ہوں ۔ آپ صلی اللہ علیہ وسلم فرمایا ۔ اسے ہر سات دن میں پڑھ لیاکرو ۔ اس سے زیادہ نہ کرو تم پر تمھاری بیوی کا حق ہے ، تم پر تمھارے مہمانوں کاحق ہے ، اور تم پر تمھارے جسم کاحق ہے ، \"\" کہا : میں نے ( اپنے اوپر ) سختی کی تو مجھ پر سختی کی گئی ۔ اور نبی اکرم صلی اللہ علیہ وسلم نے مجھ سے فرمایا : \"\" تم نہیں جانتے شاید تمھاری عمر طویل ہو ۔ \"\" کہا : میں اسی کی طرف آگیا جو مجھے ر سول اللہ صلی اللہ علیہ وسلم نے بتایا تھا ، جب میں بوڑھا ہوگیا تو میں نے پسند کیا ( اور تمنا کی ) کہ میں نے نبی کریم صلی اللہ علیہ وسلم کی رخصت قبول کرلی ہوتی ۔",
+                "urduNarrator": "ہم سے عبداللہ بن محمد الرومی نے بیان کیا، ہم سے النضدر بن محمد نے بیان کیا، انہوں نے ہم سے بیان کیا عکرمہ بن عمار نے کہا : ہمیں یحییٰ نے حدیث سنائی کہا",
+                "hadithArabic": "وحَدَّثَنَا عَبْدُ اللهِ بْنُ مُحَمَّدٍ الرُّومِيُّ، حَدَّثَنَا النَّضْرُ بْنُ مُحَمَّدٍ، حَدَّثَنَا عِكْرِمَةُ وَهُوَ ابْنُ عَمَّارٍ، حَدَّثَنَا يَحْيَى، قَالَ: انْطَلَقْتُ أَنَا وَعَبْدُ اللهِ بْنُ يَزِيدَ، حَتَّى نَأْتِيَ أَبَا سَلَمَةَ، فَأَرْسَلْنَا إِلَيْهِ رَسُولًا، فَخَرَجَ عَلَيْنَا، وَإِذَا عِنْدَ بَابِ دَارِهِ مَسْجِدٌ، قَالَ: فَكُنَّا فِي الْمَسْجِدِ حَتَّى خَرَجَ إِلَيْنَا، فَقَالَ: إِنْ تَشَاءُوا، أَنْ تَدْخُلُوا، وَإِنْ تَشَاءُوا، أَنْ تَقْعُدُوا هَا هُنَا، قَالَ فَقُلْنَا: لَا، بَلْ نَقْعُدُ هَا هُنَا، فَحَدِّثْنَا، قَالَ: حَدَّثَنِي عَبْدُ اللهِ بْنُ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللهُ عَنْهُمَا، قَالَ: كُنْتُ أَصُومُ الدَّهْرَ وَأَقْرَأُ الْقُرْآنَ كُلَّ لَيْلَةٍ، قَالَ: فَإِمَّا ذُكِرْتُ لِلنَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَإِمَّا أَرْسَلَ إِلَيَّ فَأَتَيْتُهُ، فَقَالَ لِي: «أَلَمْ أُخْبَرْ أَنَّكَ تَصُومُ الدَّهْرَ وَتَقْرَأُ الْقُرْآنَ كُلَّ لَيْلَةٍ؟» فَقُلْتُ: بَلَى، يَا نَبِيَّ اللهِ، وَلَمْ أُرِدْ بِذَلِكَ إِلَّا الْخَيْرَ، قَالَ: «فَإِنَّ بِحَسْبِكَ أَنْ تَصُومَ مِنْ كُلِّ شَهْرٍ ثَلَاثَةَ أَيَّامٍ» قُلْتُ: يَا نَبِيَّ اللهِ، إِنِّي أُطِيقُ أَفْضَلَ مِنْ ذَلِكَ، قَالَ «فَإِنَّ لِزَوْجِكَ عَلَيْكَ حَقًّا، وَلِزَوْرِكَ عَلَيْكَ حَقًّا، وَلِجَسَدِكَ عَلَيْكَ حَقًّا» قَالَ: «فَصُمْ صَوْمَ دَاوُدَ نَبِيِّ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَإِنَّهُ كَانَ أَعْبَدَ النَّاسِ» قَالَ قُلْتُ: يَا نَبِيَّ اللهِ، وَمَا صَوْمُ دَاوُدَ؟ قَالَ: «كَانَ يَصُومُ يَوْمًا وَيُفْطِرُ يَوْمًا» قَالَ: «وَاقْرَأِ الْقُرْآنَ فِي كُلِّ شَهْرٍ» قَالَ قُلْتُ: يَا نَبِيَّ اللهِ، إِنِّي أُطِيقُ أَفْضَلَ مِنْ ذَلِكَ، قَالَ: «فَاقْرَأْهُ فِي كُلِّ عِشْرِينَ» قَالَ قُلْتُ: يَا نَبِيَّ اللهِ، إِنِّي أُطِيقُ أَفْضَلَ مِنْ ذَلِكَ، قَالَ: «فَاقْرَأْهُ فِي كُلِّ عَشْرٍ» قَالَ قُلْتُ: يَا نَبِيَّ اللهِ، إِنِّي أُطِيقُ أَفْضَلَ مِنْ ذَلِكَ، قَالَ: «فَاقْرَأْهُ فِي كُلِّ سَبْعٍ، وَلَا تَزِدْ عَلَى ذَلِكَ، فَإِنَّ لِزَوْجِكَ عَلَيْكَ حَقًّا، وَلِزَوْرِكَ عَلَيْكَ حَقًّا، وَلِجَسَدِكَ عَلَيْكَ حَقًّا» قَالَ: فَشَدَّدْتُ، فَشُدِّدَ عَلَيَّ. قَالَ: وَقَالَ لِي النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إِنَّكَ لَا تَدْرِي لَعَلَّكَ يَطُولُ بِكَ عُمْرٌ» قَالَ: «فَصِرْتُ إِلَى الَّذِي قَالَ لِي النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَلَمَّا كَبِرْتُ وَدِدْتُ أَنِّي كُنْتُ قَبِلْتُ رُخْصَةَ نَبِيِّ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10295,
+                "hadithNumber": "2731",
+                "englishNarrator": "It was narrated by Yahya bin Abu Kathir with the same chain of transmitters and he made this addition after these words:",
+                "hadithEnglish": "During every month, (fasting) for three days, there is for you ten times for every good and that is perpetual fasting (for three days would bring a reward for full thirty days). I said: What is the fast of the Messenger of Allah, David? He said: Half of the age (observing fast on alternate days for the whole life). And in the hadith no mention has been made of the recital of the Qur'an, and he did not say: Your visitor has a right upon you, but (instead) he said: Your son has a right upon you.",
+                "hadithUrdu": "\"\" ہر مہینے میں تین دن \"\" کے بعد یہ الفاظ زائد بیان کیے : \"\" تمھارے لئے ہر نیکی کے بدلے میں اس جیسی دس ( نیکیاں ) ہیں ۔ ، تو یہ سارے سال کے ( روزے ) ہیں ۔ \"\" اور ( اس ) حدیث میں کہا : میں نے عرض کی : اللہ کے نبی داود علیہ السلام کا روزہ کیاتھا؟فرمایا : \"\" آدھا سال ۔ \"\" اورانھوں نے حدیث میں قرآن پڑھنے کے حوالے سے کچھ بیان نہیں کیا اور انھوں نے؛ \"\" تمھارے مہمانوں کا تم پر حق ہے \"\" کے الفاظ بیا ن نہیں کیے ، اس کی بجائے انھوں نے کہا : ( آپ صلی اللہ علیہ وسلم نے فرمایا : ) \"\" اور تمھاری اولاد کا تم پرحق ہے ۔ \"\"",
+                "urduNarrator": "مجھ سے زہیر بن حرب نے بیان کیا، ہم سے روح بن عبادہ نے بیان کیا، انہوں نے کہا حسین المعلم نے یحییٰ بن ابی کثیر سے اسی سند کے ساتھ ( سابقہ حدیث کے مانند ) حدیث سنائی ، اور آپ صلی اللہ علیہ وسلم کے فرماں",
+                "hadithArabic": "وحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا حُسَيْنٌ الْمُعَلِّمُ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، بِهَذَا الْإِسْنَادِ وَزَادَ فِيهِ، بَعْدَ قَوْلِهِ: «مِنْ كُلِّ شَهْرٍ ثَلَاثَةَ أَيَّامٍ»: «فَإِنَّ لَكَ بِكُلِّ حَسَنَةٍ عَشْرَ أَمْثَالِهَا، فَذَلِكَ الدَّهْرُ كُلُّهُ» وَقَالَ فِي الْحَدِيثِ: قُلْتُ: وَمَا صَوْمُ نَبِيِّ اللهِ دَاوُدَ؟ قَالَ: «نِصْفُ الدَّهْرِ» وَلَمْ يَذْكُرْ فِي الْحَدِيثِ مِنْ قِرَاءَةِ الْقُرْآنِ شَيْئًا، وَلَمْ يَقُلْ «وَإِنَّ لِزَوْرِكَ عَلَيْكَ حَقًّا» وَلَكِنْ قَالَ: «وَإِنَّ لِوَلَدِكَ عَلَيْكَ حَقًّا».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10296,
+                "hadithNumber": "2732",
+                "englishNarrator": "Abdullah bin 'Amr (رضی اللہ تعالیٰ عنہ) reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said to me: Recite the whole of the Qur'An during every month. I said: I find power (to recite it) in a shorter period. He said: Then recite it in twenty nights. I said: I find power (to recite it in a shorter period even than this), whereupon he said: Then recite it in seven (nights) and do not exceed beyond it.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے مجھ سے فرمایا : \" قرآن مجید کی تلاوت مہینے میں ( مکمل ) کیاکرو ۔ \" میں نے عرض کی : میں ( اس سے زیادہ کی ) قوت پاتا ہوں ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \" بیس راتوں میں پڑھ لیا کرو ۔ \" میں نے عرض کی : میں ( اس سے زیادہ کی ) قوت پاتا ہوں ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \" سات دنوں میں پڑھ لیا کرو ۔ \" اور اس سے زیادہ ( قراءت ) مت کرنا ۔ \"",
+                "urduNarrator": "مجھ سے القاسم بن زکریا نے بیان کیا، کہا ہم سے عبید اللہ بن موسیٰ نے بیان کیا, شیبان نے یحییٰ سے ، انہوں نے بنی زہرہ کے مولیٰ محمد بن عبدالرحمن سے ، انھوں نے ابو سلمہ سے روایت کی ۔ ( یحییٰ نے کہا : ) میرا اپنے بارے میں خیال ہے کہ میں نے خود بھی یہ حدیث ابو سلمہ سے سنی ، انھوں نے حضرت عبداللہ بن عمرو رضی اللہ تعالیٰ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنِي الْقَاسِمُ بْنُ زَكَرِيَّا، حَدَّثَنَا عُبَيْدُ اللهِ بْنُ مُوسَى، عَنْ شَيْبَانَ، عَنْ يَحْيَى، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ، مَوْلَى بَنِي زُهْرَةَ، عَنْ أَبِي سَلَمَةَ، قَالَ: - وَأَحْسَبُنِي قَدْ سَمِعْتُهُ أَنَا مِنْ أَبِي سَلَمَةَ - عَنْ عَبْدِ اللهِ بْنِ عَمْرٍو رَضِيَ اللهُ عَنْهُمَا، قَالَ: قَالَ لِي رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «اقْرَأِ الْقُرْآنَ فِي كُلِّ شَهْرٍ» قَالَ قُلْتُ: إِنِّي أَجِدُ قُوَّةً، قَالَ: «فَاقْرَأْهُ فِي عِشْرِينَ لَيْلَةً» قَالَ قُلْتُ: إِنِّي أَجِدُ قُوَّةً، قَالَ: «فَاقْرَأْهُ فِي سَبْعٍ وَلَا تَزِدْ عَلَى ذَلِكَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10297,
+                "hadithNumber": "2733",
+                "englishNarrator": "Abdullah bin 'Amr bin al-'As (رضی اللہ تعالیٰ عنہ) reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: 'Abdullah, don't be like so and so who observed prayer during the whole night and then abandoned it (altogether).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" اے عبداللہ!فلاں شخص کی طرح نہ ہوجانا وہ رات کوقیام کرتاتھا ، پھر اس نے رات کا قیام ترک کردیا ۔ \"",
+                "urduNarrator": "مجھ سے احمد بن یوسف ازدی نے بیان کیا، ہم سے عمرو بن ابی سلمہ نے بیان کیا ,اوزاعی نے کہا : مجھے یحییٰ بن ابی کثیر نے ( عمر ) بن حکم بن ثوبان سے حدیث سنائی ، کہا : مجھے ابو سلمہ بن عبدالرحمن نے حضرت عبداللہ بن عمرو بن عاص رضی اللہ تعالیٰ عنہ سے حدیث سنائی ، کہا",
+                "hadithArabic": "وحَدَّثَنِي أَحْمَدُ بْنُ يُوسُفَ الْأَزْدِيُّ، حَدَّثَنَا عَمْرُو بْنُ أَبِي سَلَمَةَ، عَنِ الْأَوْزَاعِيِّ، قِرَاءَةً قَالَ: حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ، عَنِ ابْنِ الْحَكَمِ بْنِ ثَوْبَانَ، حَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ عَبْدِ اللهِ بْنِ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللهُ عَنْهُمَا، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «يَا عَبْدَ اللهِ، لَا تَكُنْ بِمِثْلِ فُلَانٍ كَانَ يَقُومُ اللَّيْلَ فَتَرَكَ قِيَامَ اللَّيْلِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10298,
+                "hadithNumber": "2734",
+                "englishNarrator": "Abdu'llah bin 'Amr bin 'As (رضی اللہ تعالیٰ عنہ) reported:",
+                "hadithEnglish": "It was conveyed to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) that I observe fast successively and pray during the whole night. He sent for me or I met him and he (the Holy Prophet) said: It has been conveyed to me that you observe fast continuously and do not break it and pray during the whole night. Don't do that. for there is share for your eyes, share for your own self, share for your family; so observe fast and break it, pray and sleep and observe fast for one day during the ten days, and there is a reward for you (for other) nine (days besides the tenth day of the fast). I said: Apostle of Allah, I find myself more powerful than this. He said: Then observe the fast of David (peace be upon him). He ('Amr) said: Apostle of Allah, how did David observe fast? He (the Holy Prophet) said: He used to fast one day and break it on the other day, and he did not run (from the battlefield) as he encountered (the enemy). He said: Apostle of Allah, who can guarantee this for me (will I also encounter the enemy dauntlessly)? 'Ata', the narrator of the hadith, said: I do not know how there (crept in) the matter of perpetual fast. The Apostle of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), however, said: He who observed perpetual fast did not fast at all; he who observed perpetual fast did not fast at all, he who observed perpetual fast did not fast at all.",
+                "hadithUrdu": "نبی اکرم صلی اللہ علیہ وسلم کو اطلاع ملی کہ میں روزے رکھتا ہوں ، لگاتار رکھتا ہوں اور رات بھر قیام کرتاہوں ، آپ صلی اللہ علیہ وسلم نے مجھے پیغام بھیجا یا میری آپ صلی اللہ علیہ وسلم سے ملاقات ہوئی تو آپ صلی اللہ علیہ وسلم نے فرمایا : \" کیا مجھے نہیں بتایا گیا کہ تم روزے رکھتے ہواور ( کوئی روزہ ) نہیں چھوڑتے اور رات بھر نماز پڑھتے ہو؟تم ایسا نہ کرو کیونکہ ( تمھارے وقت میں سے ) تمھاری آنکھ کا بھی حصہ ہے ۔ ( کہ وہ نیند کے دوران میں آرام کرے ) اور تمھاری جان کا بھی حصہ ہے ۔ اور تمھارے گھر والوں کا بھی حصہ ہے ۔ لہذا تم روزے رکھو بھی اور ترک بھی کرو ، نماز پڑو آرام بھی کرو ، اور ہردس دن میں سے ایک دن کاروزہ رکھو اور تمھیں ( باقی ) نو دنوں کا ( بھی ) اجر ملے گا ۔ \" کہا : اے اللہ کے نبی ( صلی اللہ علیہ وسلم ) میں خود کو اس سے زیادہ طاقت رکھنے والا پاتا ہوں ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \" توپھر داودعلیہ السلام کے سے روزے رکھو ۔ \" کہا : اے اللہ کے نبی ( صلی اللہ علیہ وسلم ) !داودعلیہ السلام کے روزے کس طرح تھے؟آپ صلی اللہ علیہ وسلم نے فرمایا : \" وہ ایک دن روزہ رکھتے تھے ایک دن افطار کرتے تھے اورجب ( دشمن سے ) آمنا سامنا ہوتا تو بھاگتے نہیں تھے ۔ \" کہا : اے اللہ کے نبی کریم صلی اللہ علیہ وسلم !مجھے اس کی ضمانت کون دےگا ( کہ میری زندگی کا ہردن روزے سے شمار ہوگا؟ ) عطاء نے کہا : میں نہیں جانتا کہ انھوں نے ہمیشہ روزہ رکھنے کا ذکر کس طرح کیا ۔ تونبی اکرم صلی اللہ علیہ وسلم نے فرمایا : \" اس نے روزہ نہیں رکھا جس نے ( وقفے کے بغیر ) ہمیشہ روزہ رکھا ، اس نے روزہ نہیں رکھا جس نے ہمیشہ روزہ رکھا ۔ \" اس نے روزہ نہیں رکھا جس نے ہمیشہ روزہ رکھا ۔ \"",
+                "urduNarrator": "مجھ سے محمد بن رافع نے بیان کیا، انہوں نے ہم سے بیان کیا عبدالرزاق نے کہا : ہمیں ابن جریج نے خبر دی ، کہا : میں نے عطاء سے سنا وہ کہتے تھے کہ ابو عباس نے ان کوخبر دی کہ انھوں نے حضرت عبداللہ بن عمرو بن عاص رضی اللہ تعالیٰ عنہ سے سنا ، وہ کہہ رہے تھے",
+                "hadithArabic": "وحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، قَالَ: سَمِعْتُ عَطَاءً، يَزْعُمُ أَنَّ أَبَا الْعَبَّاسِ، أَخْبَرَهُ أَنَّهُ سَمِعَ عَبْدَ اللهِ بْنَ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللهُ عَنْهُمَا، يَقُولُ: بَلَغَ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَنِّي أَصُومُ أَسْرُدُ، وَأُصَلِّي اللَّيْلَ، فَإِمَّا أَرْسَلَ إِلَيَّ وَإِمَّا لَقِيتُهُ، فَقَالَ: «أَلَمْ أُخْبَرْ أَنَّكَ تَصُومُ وَلَا تُفْطِرُ، وَتُصَلِّي اللَّيْلَ؟ فَلَا تَفْعَلْ، فَإِنَّ لِعَيْنِكَ حَظًّا، وَلِنَفْسِكَ حَظًّا، وَلِأَهْلِكَ حَظًّا، فَصُمْ وَأَفْطِرْ، وَصَلِّ وَنَمْ، وَصُمْ مِنْ كُلِّ عَشَرَةِ أَيَّامٍ يَوْمًا، وَلَكَ أَجْرُ تِسْعَةٍ» قَالَ: إِنِّي أَجِدُنِي أَقْوَى مِنْ ذَلِكَ، يَا نَبِيَّ اللهِ، قَالَ: «فَصُمْ صِيَامَ دَاوُدَ عَلَيْهِ السَّلَامُ» قَالَ: وَكَيْفَ كَانَ دَاوُدُ يَصُومُ؟ يَا نَبِيَّ اللهِ، قَالَ: «كَانَ يَصُومُ يَوْمًا، وَيُفْطِرُ يَوْمًا، وَلَا يَفِرُّ إِذَا لَاقَى» قَالَ: مَنْ لِي بِهَذِهِ؟ يَا نَبِيَّ اللهِ، - قَالَ عَطَاءٌ: فَلَا أَدْرِي كَيْفَ ذَكَرَ صِيَامَ الْأَبَدِ - فَقَالَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لَا صَامَ مَنْ صَامَ الْأَبَدَ، لَا صَامَ مَنْ صَامَ الْأَبَدَ، لَا صَامَ مَنْ صَامَ الْأَبَدَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10299,
+                "hadithNumber": "2735",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated by Ibn Juraij with the same chain of transmitters. Imam Muslim has narrated this hadith on the authority of Abu 'Abbas al-Sa'ib bin Farrukh and he was a trustworthy and reliable (narrator) among the people of Mecca.",
+                "hadithUrdu": "محمد بن بکر نے ہم سے حدیث بیان کی ، ( کہا : ) ہمیں ابن جریج نے اسی سند سے ( سابقہ حدیث کے مانند ) حدیث سنائی اور کہا کہ ابو عباس الشاعر نے ان کوخبر دی ۔ امام مسلم ؒ نے کہا : ابو عباس سائب بن فروخ اہل مکہ سے ہیں ، ثقہ اورعدول ہیں ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنِيهِ مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا مُحَمَّدُ بْنُ بَكْرٍ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، بِهَذَا الْإِسْنَادِ، وَقَالَ: إِنَّ أَبَا الْعَبَّاسِ الشَّاعِرَ أَخْبَرَهُ. قَالَ مُسْلِم: «أَبُو الْعَبَّاسِ السَّائِبُ بْنُ فَرُّوخَ، مِنْ أَهْلِ مَكَّةَ ثِقَةٌ عَدْلٌ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10300,
+                "hadithNumber": "2736",
+                "englishNarrator": "Abdullah bin Amr (رضی اللہ تعالیٰ عنہما) reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said to me: 'Abdullah bin Amr, you fast continuously and stand in prayer for the whole of night. If you do like that, your eyes would be highly strained and would sink and lose sight. There is no (reward for) fasting (for him) who fasts perpetually. Fasting for three days during the month is like fasting, the whole of the month. I said: I am capable of doing more than this, whereupon he said: Observe the fast of David. He used to fast one day and break (the other) day. And he did not turn back in the encounter.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے مجھ سے فرمایا : \" اے عبداللہ بن عمرو!تم ہمیشہ ( بلاوقفہ روازانہ ) روزے رکھتے ہو اور رات بھر قیام کرتے ہو اور جب تم ایسا ہی کرو گے تو ( ایسا کرنے والے کی ) آنکھیں اندر دھنس جائیں گی اور ( جا گ جاگ کر ) کمزور ہوجائیں گی ، ( اور جہاں تک اجر کا تعلق ہے تو ) جس نے ہمیشہ روزہ رکھا ، اس نے روزہ نہ رکھا ، مہینے میں سے تیس دن کے روزے پورے مہینے کے روزے ( متصور ) ہوں گے ۔ \" میں نے عرض کی : میں اس سے زیادہ ( روزے رکھنے ) کی طاقت رکھتاہوں ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \" تم داود علیہ السلام کے روزے کی طرح روزے رکھو ، وہ ایک دن روزہ رکھتے تھے اور ایک دن ترک کرتے تھے اور ( دشمن سے ) آمنے سامنے کے وقت بھاگتے نہیں تھے ۔ \"",
+                "urduNarrator": "ہم سے عبید اللہ بن معاذ نے بیان کیا، کہا کہ مجھ سے میرے والد نے بیان کیا، انہوں نے کہا شعبہ نے ہمیں حبیب سے حدیث بیا ن کی ، انھوں نے ابو عباس ( سائب بن فروخ ) سے سنا ، انھوں نے عبداللہ بن عمرو  رضی اللہ تعالیٰ عنہماسے سنا ، کہا",
+                "hadithArabic": "وحَدَّثَنَا عُبَيْدُ اللهِ بْنُ مُعَاذٍ، حَدَّثَنِي أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ حَبِيبٍ، سَمِعَ أَبَا الْعَبَّاسِ، سَمِعَ عَبْدَ اللهِ بْنَ عَمْرٍو رَضِيَ اللهُ عَنْهُمَا، قَالَ: قَالَ لِي رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «يَا عَبْدَ اللهِ بْنَ عَمْرٍو إِنَّكَ لَتَصُومُ الدَّهْرَ، وَتَقُومُ اللَّيْلَ، وَإِنَّكَ إِذَا فَعَلْتَ ذَلِكَ، هَجَمَتْ لَهُ الْعَيْنُ، وَنَهَكَتْ لَا صَامَ مَنْ صَامَ الْأَبَدَ، صَوْمُ ثَلَاثَةِ أَيَّامٍ مِنَ الشَّهْرِ، صَوْمُ الشَّهْرِ كُلِّهِ» قُلْتُ: فَإِنِّي أُطِيقُ أَكْثَرَ مِنْ ذَلِكَ، قَالَ: «فَصُمْ صَوْمَ دَاوُدَ، كَانَ يَصُومُ يَوْمًا وَيُفْطِرُ يَوْمًا، وَلَا يَفِرُّ إِذَا لَاقَى».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10301,
+                "hadithNumber": "2737",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith is narrated on the authority of Habib b. Abu Thabit with the same chain of transmitters and he said: And you would become exhausted.",
+                "hadithUrdu": "ہم سے ابو کریب نے بیان کیا، ہم سے ابن بشر نے مسعر کی سند سے بیان کیا، ہم سے  حبیب بن ابی ثابت نے اسی سند کےساتھ ( سابقہ حدیث کے مانند ) حدیث سنائی اور کہا : \" اور ( ہمیشہ روزے رکھنے والے کی ) جان درماندہ ہوجائے گی ۔ \"",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنَاه أَبُو كُرَيْبٍ، حَدَّثَنَا ابْنُ بِشْرٍ، عَنْ مِسْعَرٍ، حَدَّثَنَا حَبِيبُ بْنُ أَبِي ثَابِتٍ، بِهَذَا الْإِسْنَادِ، وَقَالَ «وَنَفِهَتِ النَّفْسُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10302,
+                "hadithNumber": "2738",
+                "englishNarrator": "Abdullah bin 'Amr (رضی اللہ تعالیٰ عنہ) reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said to me: I have been informed that you stand for prayer the whole of night and fast during the day. I said: I do that, whereupon he said: If you did that you in fact strained heavily your eyes and made yourself weak. There is a right of your eyes (upon you) and a right of your self (upon you) and a right of your family (upon you). Stand for prayer and sleep. observe fasts and break (them).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے مجھ سے ارشاد فرمایا : \" کیا مجھے خبر نہیں دی گئی کہ تم رات بھر قیام کرتے ہو اور ( روزانہ ) دن کا روزہ رکھتے ہو؟ \" میں نے عرض کی : میں یہ کام کرتا ہوں ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \" جب تم یہ کام کرو گے تو ( اس کانتیجہ یہ ہوگاکہ ) تمھاری آنکھیں اندر کو دھنس جائیں گی ۔ اور تمھاری جان کمزورہوجائے گی ۔ تم پر تمھاری آنکھ کا حق ہے ۔ تمھاری اپنی ذات کا حق ہے ۔ اور تمھارے گھر والوں کاحق ہے ۔ قیام کرو اورنیند بھی لو ، روزہ رکھو بھی اور روزہ چھوڑو بھی ۔ \"",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، انہوں نے کہا سفیان بن عینیہ نے عمر و سے ، انھوں نے ابوعباس سے ، انھوں نے حضرت عبداللہ بن عمر و رضی اللہ تعالیٰ عنہ سےروایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَمْرٍو، عَنْ أَبِي الْعَبَّاسِ، عَنْ عَبْدِ اللهِ بْنِ عَمْرٍو رَضِيَ اللهُ عَنْهُمَا، قَالَ: قَالَ لِي رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «أَلَمْ أُخْبَرْ أَنَّكَ تَقُومُ اللَّيْلَ وَتَصُومُ النَّهَارَ؟» قُلْتُ: إِنِّي أَفْعَلُ ذَلِكَ، قَالَ: «فَإِنَّكَ، إِذَا فَعَلْتَ ذَلِكَ، هَجَمَتْ عَيْنَاكَ، وَنَفِهَتْ نَفْسُكَ، لِعَيْنِكَ حَقٌّ، وَلِنَفْسِكَ حَقٌّ، وَلِأَهْلِكَ حَقٌّ، قُمْ وَنَمْ، وَصُمْ وَأَفْطِرْ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10303,
+                "hadithNumber": "2739",
+                "englishNarrator": "Abdullah bin 'Amr (رضی اللہ تعالیٰ عنہما) reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ) as saying: With Allah the best fasting is that of David and the best prayer is that of David (peace be upon him) for he slept half of the night and stood for prayer for the third of it and (then) slept the sixth part of it and he observed fast one day and broke on the other.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا \" اللہ تعالیٰ کے نزدیک سب سے پسندیدہ ( نفلی ) روزے داود علیہ السلام کے روزے ہیں اور اللہ تعالیٰ کے نزدیک سب سے پسندیدہ ( نفلی ) نماز داود علیہ السلام کی نماز ہے ۔ وہ آدھی رات تک سوتے تھے اور اس کا ایک تہائی قیام کرتے تھے اور اس کے ( آخری ) چھٹےحصے میں سوجاتے تھے ۔ اور ایک دن روزہ رکھتے تھے اورایک دن افطارکرتے ( روزہ نہ رکھتے ) تھے ۔ \"",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ اور زہیر بن حرب نے بیان کیا، کہا: ہم سے بیان کیا ہمیں سفیان بن عینیہ نے عمرو بن دینار سے حدیث بیان کی ، انھوں نے عمرو بن اوس سے اور انھوں نے عبداللہ بن عمرو  رضی اللہ تعالیٰ عنہماسے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَزُهَيْرُ بْنُ حَرْبٍ، قَالَ زُهَيْرٌ: حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ عَمْرِو بْنِ أَوْسٍ، عَنْ عَبْدِ اللهِ بْنِ عَمْرٍو رَضِيَ اللهُ عَنْهُمَا، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ أَحَبَّ الصِّيَامِ إِلَى اللهِ، صِيَامُ دَاوُدَ، وَأَحَبَّ الصَّلَاةِ إِلَى اللهِ، صَلَاةُ دَاوُدَ عَلَيْهِ السَّلَام، كَانَ يَنَامُ نِصْفَ اللَّيْلِ، وَيَقُومُ ثُلُثَهُ، وَيَنَامُ سُدُسَهُ، وَكَانَ يَصُومُ يَوْمًا، وَيُفْطِرُ يَوْمًا».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10304,
+                "hadithNumber": "2740",
+                "englishNarrator": "Abdullah bin 'Amr bin al-'As رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: The best fasting in the eye of Allah is that of David, for he fasted for half of the age (he fasted on alternate days), and the best prayer in the eye of Allah, the Exalted and Majestic, is that of David (peace be upon him), for he slept for half of the night and then stood for prayer and then again slept. He prayed for one-third of the night after midnight. He (the narrator) said: I asked 'Amr b. Dinar whether 'Amr bin Aus said that he stood for prayer one-third of the night after midnight. He said: Yes.",
+                "hadithUrdu": "نبی اکرم صلی اللہ علیہ وسلم نے فرمایا : \"\" اللہ کے نزدیک سب سے پسندیدہ روزے داود علیہ السلام کے روزے ہیں ۔ وہ آدھا زمانہ روزے رکھتے تھے ۔ اور اللہ تعالیٰ کے نزدیک سب سے پسندیدہ نماز داود علیہ السلام کی نماز ہے ، وہ آدھی رات تک سوتے تھے پھر قیام کرتے تھے ، پھر اس کے آخری حصے میں سوجاتے تھے ، وہ آدھی رات کے بعدرات کا ایک تہائی حصہ قیام کرتے تھے ۔ \"\" حدیث نمبر ۔ میں ( ابن جریج ) نے عمرو بن دینارسے پوچھا : کیا عمرو بن اوس یہ کہتے تھے : \"\" وہ آدھی رات کے بعد رات کاتہائی حصہ قیام کرتے تھے؟ \"\" انھوں نے جواب دیا : ہاں ۔",
+                "urduNarrator": "مجھ سے محمد بن رافع نے بیان کیا، کہا ہم سے عبدالرزاق نے بیان کیا، انہوں نے بیان کیا ہمیں ابن جریج نے خبر دی ، انھوں نے کہا : مجھے عمرو بن دینار نے خبر دی کہ ان کو عمرو بن اوس نے حضرت عبداللہ بن عمرو بن عاص رضی اللہ تعالیٰ عنہ سے ( یہ ) خبر دی کہ",
+                "hadithArabic": "وحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي عَمْرُو بْنُ دِينَارٍ، أَنَّ عَمْرَو بْنَ أَوْسٍ، أَخْبَرَهُ عَنْ عَبْدِ اللهِ بْنِ عَمْرِو بْنِ الْعَاصِ رَضِيَ اللهُ عَنْهُمَا، أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَ: «أَحَبُّ الصِّيَامِ إِلَى اللهِ صِيَامُ دَاوُدَ، كَانَ يَصُومُ نِصْفَ الدَّهْرِ، وَأَحَبُّ الصَّلَاةِ إِلَى اللهِ عَزَّ وَجَلَّ، صَلَاةُ دَاوُدَ عَلَيْهِ السَّلَام، كَانَ يَرْقُدُ شَطْرَ اللَّيْلِ، ثُمَّ يَقُومُ، ثُمَّ يَرْقُدُ آخِرَهُ، يَقُومُ ثُلُثَ اللَّيْلِ بَعْدَ شَطْرِهِ» قَالَ: قُلْتُ لِعَمْرِو بْنِ دِينَارٍ: أَعَمْرُو بْنُ أَوْسٍ كَانَ يَقُولُ: يَقُومُ ثُلُثَ اللَّيْلِ بَعْدَ شَطْرِهِ؟ قَالَ: نَعَمْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10305,
+                "hadithNumber": "2741",
+                "englishNarrator": "Abu Qatada reported:",
+                "hadithEnglish": "Abu al Malih informed me: I went along with your father to 'Abdullah bin Amr رضی اللہ تعالیٰ عنہ , and he narrated to us that the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) was informed about my fasting and he came to me, and I placed a leather cushion filled with fibre of date-palms for him. He sat down upon the ground and there was that cushion between me and him, and he said to me: Does three days' fasting in a month not suffice you? I said: Messenger of Allah, (I am capable of observing more fasts). He said: (Would) five (not suffice for you)? I said: Messenger of Allah, (I am capable of observing more fasts) He said: (Would) seven (fasts) not suffice you? I said: Messenger of Allah, (I am capable of observing more fasts). He (the Holy Prophet) then said: (Would) nine (fasts not suffice you)? I said: Messenger of Allah, (I am capable of observing more fasts). He said: (Would) eleven (fasts not suffice you)? I said: Messenger of Allah, (I am capable of observing more fasts than these). Thereupon the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: There is no fasting (better than) the fasting of David which comprises half of the age, fasting a day and not fasting a day.",
+                "hadithUrdu": "مجھے ابوملیح نے خبر دی ، کہا : میں تمھارے والد کے ہمراہ سیدنا عبداللہ بن عمرو رضی اللہ تعالیٰ عنہ کے پاس گیا تو انھوں نے ہمیں حدیث سنائی کے رسول اللہ صلی اللہ علیہ وسلم کے سامنے میرے روزوں کاذکر کیا گیا تو آپ صلی اللہ علیہ وسلم میرے ہاں تشریف لائے ، میں نے آپ صلی اللہ علیہ وسلم کے لئے چمڑے کاایک تکیہ رکھا جس میں کھجور کی چھال بھری ہوئی تھی ۔ آپ صلی اللہ علیہ وسلم زمین پر بیٹھ گئے اور تکہہ میرے اورآپ صلی اللہ علیہ وسلم کے درمیان میں آگیا ، آپ صلی اللہ علیہ وسلم نے مجھے فرمایا : \" کیا تمھیں ہر مہینے میں سے تین دن ( کے روزے ) کافی نہیں؟ \" میں نے عرض کی اللہ کے رسول صلی اللہ علیہ وسلم ( اس سے زیادہ ) آپ صلی اللہ علیہ وسلم نے فرمایا : پانچ ۔ \" میں نے عرض کی اللہ کے رسول صلی اللہ علیہ وسلم ( اس سے زیادہ ) آپ صلی اللہ علیہ وسلم نے فرمایا : سات ۔ \" میں نے عرض کی اللہ کے رسول صلی اللہ علیہ وسلم ( اس سے زیادہ ) آپ صلی اللہ علیہ وسلم نے فرمایا : نو ۔ \" میں نے عرض کی اللہ کے رسول صلی اللہ علیہ وسلم ( اس سے زیادہ ) آپ صلی اللہ علیہ وسلم نے فرمایا : گیارہ ۔ \" آپ صلی اللہ علیہ وسلم نے فرمایا : داود علیہ السلام کے روزوں سے بڑھ کر کوئی ر وزے نہیں ہیں ، آدھا زمانہ ، ایک دن روزہ رکھنا اور ایک دن نہ رکھنا ۔ \"",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، کہا ہم سے خالد بن عبداللہ نے بیان کیا، ان سے خالد کی سند سےابو قلابہ ( بن زید بن عامر الجرمی البصری ) نے کہا",
+                "hadithArabic": "وحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا خَالِدُ بْنُ عَبْدِ اللهِ، عَنْ خَالِدٍ، عَنْ أَبِي قِلَابَةَ، قَالَ: أَخْبَرَنِي أَبُو الْمَلِيحِ، قَالَ: دَخَلْتُ مَعَ أَبِيكَ عَلَى عَبْدِ اللهِ بْنِ عَمْرٍو فَحَدَّثَنَا، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ذُكِرَ لَهُ صَوْمِي، فَدَخَلَ عَلَيَّ، فَأَلْقَيْتُ لَهُ وِسَادَةً مِنْ أَدَمٍ حَشْوُهَا لِيفٌ، فَجَلَسَ عَلَى الْأَرْضِ، وَصَارَتِ الْوِسَادَةُ بَيْنِي وَبَيْنَهُ، فَقَالَ لِي: «أَمَا يَكْفِيكَ مِنْ كُلِّ شَهْرٍ ثَلَاثَةُ أَيَّامٍ؟» قُلْتُ: يَا رَسُولَ اللهِ، قَالَ: «خَمْسًا» قُلْتُ: يَا رَسُولَ اللهِ، قَالَ: «سَبْعًا» قُلْتُ: يَا رَسُولَ اللهِ، قَالَ: «تِسْعًا» قُلْتُ: يَا رَسُولَ اللهِ، قَالَ: «أَحَدَ عَشَرَ» قُلْتُ: يَا رَسُولَ اللهِ، فَقَالَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لَا صَوْمَ فَوْقَ صَوْمِ دَاوُدَ، شَطْرُ الدَّهْرِ، صِيَامُ يَوْمٍ، وَإِفْطَارُ يَوْمٍ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10306,
+                "hadithNumber": "2742",
+                "englishNarrator": "Abdullah bin Amr (رضی اللہ تعالیٰ عنہ) reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) had said to him: Observe fast for a day and there would be reward for you for the rest (of the days). He said: I am capable of doing more than this. He then said: Observe fast for two days, and there would be reward for you for the rest (of the days). He said: I am capable of doing more than this. He (the Holy Prophet) said: Observe fast for three days and there would be reward for you for the rest of the days. He said: I am capable of doing more than this, whereupon he said: Observe fast for four days and there would be reward for you for the rest of the days. He said: I am capable of doing more than this. Thereupon he said: Then observe fast (which is the) best in the eye of Allah, the fast of David (peace be upon him) ; he used to observe fast one day and break on the other day.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے انھیں فرمایا : \" ایک دن کاروزہ رکھو اور تمھارے لئے ان ( دنوں ) کا اجر ہے جوباقی ہیں ۔ کہا : میں اس سےزیادہ طاقت رکھتا ہوں ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \" دودن روزے رکھو اور تمہارے لئے ان ( دنوں ) کا اجر ہے جو باقی ہیں ۔ کہا : میں اس سےزیادہ طاقت رکھتا ہوں ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \" تین دن روزے رکھو اور تمہارے لئے ان ( دنوں ) کا اجر ہے جو باقی ہیں ۔ کہا : میں اس سےزیادہ طاقت رکھتا ہوں ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \" چاردن روزے رکھو اور تمہارے لئے ان ( دنوں ) کا اجر ہے جو باقی ہیں ۔ کہا : میں اس سےزیادہ طاقت رکھتا ہوں ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \" اللہ کے نزدیک سب سے زیادہ فضیلت والے روزے ، یعنی داود علیہ السلام کے روزے کی طرح ( روزے ) رکھو ، وہ ایک دن روزہ رکھتے تھے اور ایک دن چھوڑ دیتے تھے ۔ \"",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، ہم سے گندر نے بیان کیا، شعبہ کی سند سے، ہم سے محمد بن المثنیٰ نے بیان کیا، ہم سے محمد بن جعفر نے بیان کیا، انہوں نے ہم سے بیان کیا۔ کے بارے میں زیاد بن فیاض سے روایت ہے ، کہا : میں نے ابو عیاض سے سنا ، انھوں نے حضرت عبداللہ بن عمر و رضی اللہ تعالیٰ عنہ سے رویت کی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا غُنْدَرٌ، عَنْ شُعْبَةَ، ح وحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ زِيَادِ بْنِ فَيَّاضٍ، قَالَ: سَمِعْتُ أَبَا عِيَاضٍ، عَنْ عَبْدِ اللهِ بْنِ عَمْرٍو رَضِيَ اللهُ عَنْهُمَا، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ لَهُ: «صُمْ يَوْمًا، وَلَكَ أَجْرُ مَا بَقِيَ» قَالَ: إِنِّي أُطِيقُ أَكْثَرَ مِنْ ذَلِكَ، قَالَ: «صُمْ يَوْمَيْنِ، وَلَكَ أَجْرُ مَا بَقِيَ» قَالَ: إِنِّي أُطِيقُ أَكْثَرَ مِنْ ذَلِكَ، قَالَ: «صُمْ ثَلَاثَةَ أَيَّامٍ، وَلَكَ أَجْرُ مَا بَقِيَ» قَالَ: إِنِّي أُطِيقُ أَكْثَرَ مِنْ ذَلِكَ، قَالَ: «صُمْ أَرْبَعَةَ أَيَّامٍ، وَلَكَ أَجْرُ مَا بَقِيَ» قَالَ: إِنِّي أُطِيقُ أَكْثَرَ مِنْ ذَلِكَ، قَالَ: «صُمْ أَفْضَلَ الصِّيَامِ عِنْدَ اللهِ، صَوْمَ دَاوُدَ عَلَيْهِ السَّلَام كَانَ يَصُومُ يَوْمًا وَيُفْطِرُ يَوْمًا».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10307,
+                "hadithNumber": "2743",
+                "englishNarrator": "Abdullah bin 'Amr (رضی اللہ تعالیٰ عنہ) reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said to me! 'Abdullah bin 'Amr, it has been conveyed to me that you observe fast during the day and stand in prayer during the whole night. Don't do that, for your body has a share of its own in you, your eye has a share of its own in you, your wife has a share of her own in you. Observe fast and break it too. Fast for three days in every month and that is a prepetual fasting. I said! Messenger of Allah, I have got strength enough (to do more than this), whereupon he said: Then observe the fast of David (peace be upon him). Observe fast one day and break it (on the other) day. And he ('Abdullah bin 'Amr) used to say: Would that I had availed myself of this concession.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے مجھ سے فرمایا : \"\" اے عبداللہ بن عمرو! مجھے خبر ملی ہے کہ تم ( روزانہ ) دن کاروزہ رکھتے ہو اور رات بھر قیام کرتے ہو ، ایسا مت کرو کیونکہ تم پرتمھارے جسم کا حصہ ( ادا کرناضروری ) ہے ، تم پر تمھاری آنکھ کا حصہ ( ادا کرنا ضروری ہے ) تم پر تمھاری بیوی کا حصہ ( ادا کرنا ضروری ہے ) روزے رکھو اور ترک بھی کرو ، ہر مہینے میں سے تین دن کے روزے رکھ لیا کرو ۔ یہ سارے وقت کے روزوں ( کے برابر ) ہیں ۔ \"\" میں نے عرض کی : اے اللہ کے رسول صلی اللہ علیہ وسلم !میرے اندر ( زیادہ روزے رکھنے کی ) قوت ہے ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \"\" تم داود علیہ السلام کے روزے کی طرح ( روزے ) رکھو ، وہ ایک دن روزہ رکھتے تھے اور ایک دن چھوڑ دیتے تھے ۔ \"\" وہ کہا کرتے تھے : کاش! میں نے رخصت کو قبول کیا ہوتا ۔",
+                "urduNarrator": "مجھ سے زہیر بن حرب اور محمد بن حاتم نے ابن مہدی کی سند سے بیان کیا کہ ہم سے عبدالرحمٰن بن مہدی نے بیان کیا اور سلیم نے بیان کیا۔ ہم سے ابن حیان نے بیان کیا, سعید بن میناء نے ہمیں حدیث سنائی ، کہا : عبداللہ بن عمرو عاص رضی اللہ تعالیٰ عنہ نے کہا",
+                "hadithArabic": "وحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، وَمُحَمَّدُ بْنُ حَاتِمٍ، جَمِيعًا عَنِ ابْنِ مَهْدِيٍّ، قَالَ زُهَيْرٌ: حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا سَلِيمُ بْنُ حَيَّانَ، حَدَّثَنَا سَعِيدُ بْنُ مِينَاءَ، قَالَ: قَالَ عَبْدُ اللهِ بْنُ عَمْرٍو: قَالَ لِي رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «يَا عَبْدَ اللهِ بْنَ عَمْرٍو، بَلَغَنِي أَنَّكَ تَصُومُ النَّهَارَ وَتَقُومُ اللَّيْلَ، فَلَا تَفْعَلْ، فَإِنَّ لِجَسَدِكَ عَلَيْكَ حَظًّا، وَلِعَيْنِكَ عَلَيْكَ حَظًّا، وَإِنَّ لِزَوْجِكَ عَلَيْكَ حَظًّا، صُمْ وَأَفْطِرْ، صُمْ مِنْ كُلِّ شَهْرٍ ثَلَاثَةَ أَيَّامٍ، فَذَلِكَ صَوْمُ الدَّهْرِ» قُلْتُ: يَا رَسُولَ اللهِ، إِنَّ بِي قُوَّةً، قَالَ: فَصُمْ صَوْمَ دَاوُدَ عَلَيْهِ السَّلَام، صُمْ يَوْمًا وَأَفْطِرْ يَوْمًا فَكَانَ يَقُولُ: «يَا لَيْتَنِي أَخَذْتُ بِالرُّخْصَةِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10308,
+                "hadithNumber": "2744",
+                "englishNarrator": "Mu'adha al-'Adawiyya reported:",
+                "hadithEnglish": "She asked 'A'isha رضی اللہ عنہا , the wife of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌), whether the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) observed fasts for three days during every month. She said: Yes I said to her: Which were (the particular) days of the month on which he observed fast? She said: He was not particular about the days of the month on which to observe fast.",
+                "hadithUrdu": "ام المؤمنین عائشہ صدیقہ رضی اللہ عنہا سے پوچھا کہ کیا رسول اللہ صلی اللہ علیہ وسلم ہر ماہ میں تین روزے رکھتے تھے؟ انہوں نے کہا کہ ہاں ۔ پھر پوچھا کہ کن دنوں میں ( روزے رکھتے تھے؟ ) انہوں نے کہا کہ کچھ پرواہ نہ کرتے ، کسی بھی دن روزہ رکھ لیتے تھے ۔",
+                "urduNarrator": "ہم سے شیبان بن فروخ نے بیان کیا، کہا ہم سے عبد الوارث نے بیان کیا، ان سے یزید الرشک نے کہا: آپ نے مجھ سے بیان کیا؟ سیدہ معاذہ العدویہ سے روایت ہے کہ انہوں نے",
+                "hadithArabic": "حَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ يَزِيدَ الرِّشْكِ، قَالَ: حَدَّثَتْنِي مُعَاذَةُ الْعَدَوِيَّةُ، أَنَّهَا سَأَلَتْ عَائِشَةَ زَوْجَ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «أَكَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَصُومُ مِنْ كُلِّ شَهْرٍ ثَلَاثَةَ أَيَّامٍ؟» قَالَتْ: «نَعَمْ»، فَقُلْتُ لَهَا: «مِنْ أَيِّ أَيَّامِ الشَّهْرِ كَانَ يَصُومُ؟» قَالَتْ: «لَمْ يَكُنْ يُبَالِي مِنْ أَيِّ أَيَّامِ الشَّهْرِ يَصُومُ».",
+                "headingArabic": "اسْتِحْبَابِ صِيَامِ ثَلَاثَةِ أَيَّامٍ مِنْ كُلِّ شَهْرٍ وَصَوْمِ يَوْمِ عَرَفَةَ وَعَاشُورَاءَ وَالِاثْنَيْنِ وَالْخَمِيسِ",
+                "headingUrdu": "ہر مہینے کے تین دن روزہ رکھنا مستحب ہے اور عرفہ اور عاشورہ کے روزے رکھنا اور سوموار اور جمعرات کے روزے رکھنا مستحب ہے۔",
+                "headingEnglish": "It is recommended to fast three days of every month, and to fast on the days of 'Arafah and 'Ashura', and to fast on Mondays and Thursdays",
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10309,
+                "hadithNumber": "2745",
+                "englishNarrator": "Imran bin Husain (رضی اللہ تعالیٰ عنہ) reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said to him (or he said to another person and he was listening to it): O, so and so, did you observe fast in the middle of the month? He said: No. Thereupon he (the Messenger of Allah) said: When you break it, then observe fast for two days.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ان سے پوچھا ۔ یاکسی اور شخص سے پوچھا اور وہ سن رہے تھے : ۔ \" اےفلاں!کیا تم نے اس مہینے کے وسط میں روزے رکھے ہیں؟ \" اس نے جواب دیا نہیں : آپ صلی اللہ علیہ وسلم نے فرمایا؛ \" تو جب ( رمضان مکمل کرکے ) روزے ترک کروتو ( ہرمہینے ) دو دن کے روزے رکھتے رہو ۔ \"",
+                "urduNarrator": "مجھ سے عبداللہ بن محمد بن اسماء الضبعی نے بیان کیا، ان سے مہدی نے جو ابن میمون ہیں، انہوں نے بیان کیا، ہم سے غیلان بن جریر نے، مطرف کی سند سے بیان کیا, حضرت عمران بن حصین رضی اللہ تعالیٰ عنہ سے روایت ہے کہ",
+                "hadithArabic": "وحَدَّثَنِي عَبْدُ اللهِ بْنُ مُحَمَّدِ بْنِ أَسْمَاءَ الضُّبَعِيُّ، حَدَّثَنَا مَهْدِيٌّ وَهُوَ ابْنُ مَيْمُونٍ، حَدَّثَنَا غَيْلَانُ بْنُ جَرِيرٍ، عَنْ مُطَرِّفٍ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ رَضِيَ اللهُ عَنْهُمَا، أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَ لَهُ: - أَوْ قَالَ لِرَجُلٍ وَهُوَ يَسْمَعُ - «يَا فُلَانُ، أَصُمْتَ مِنْ سُرَّةِ هَذَا الشَّهْرِ؟» قَالَ: لَا، قَالَ: «فَإِذَا أَفْطَرْتَ، فَصُمْ يَوْمَيْنِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10310,
+                "hadithNumber": "2746",
+                "englishNarrator": "Abu Qatada رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "A person came to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and said: How do you fast? The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) felt annoyed. When 'Umar ( رضی اللہ تعالیٰ عنہ) noticed his annoyance, he said: We are well pleased with Allah as our Lord, with Islam as our code of life, and with Muhammad as our Prophet. We seek refuge with Allah from the anger of Allah and that of His Messenger. 'Umar رضی اللہ تعالیٰ عنہ kept on repeating these words till his (the Prophet's) anger calmed down. Then Umar رضی اللہ تعالیٰ عنہ said: Messenger of Allah, what is the position of one who fasts perpetually? He ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: He neither fasted nor broke it, or he said: He did not fast and he did not break it. 'Umar said: What about him who fasts for two days and does not fast one day? He ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: Is anyone capable of doing that? He ('Umar) said: What is the position of him who fasts for a day and doesn't fast on the other day? Thereupon he (the Holy Prophet) said: That is the fast of David (peace be upon him). He ('Umar) said: What about him who fasts one day and doesn't fast for two days. Thereupon he (the Messenger of Allah) said: I wish I were given the strength to do that. Thereafter he ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: Fasting three days every month and that of Ramadan every year is a perpetual fasting. I seek from Allah that fasting on the day of 'Arafa may atone for the sins of the preceding and the coming years, and I seek from Allah that fasting on the day of Ashura may atone for the sins of the preceding year.",
+                "hadithUrdu": "ایک آدمی رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوا اور پوچھا : آپ کس طرح روزے رکھتے ہیں؟اس کی بات سے رسول اللہ صلی اللہ علیہ وسلم غصے میں آگئے ، جب حضرت عمر رضی اللہ تعالیٰ عنہ نے آپ صلی اللہ علیہ وسلم کا غصہ دیکھا تو کہنے لگے : ہم اللہ کے رب ہونے ، اسلام کے دین ہونے اور محمد صلی اللہ علیہ وسلم کے رسول ہونے پر راضی ہیں ، ہم اللہ کے غصے سے اوراس کے رسول صلی اللہ علیہ وسلم کے غصے سے اللہ کی پناہ میں آتے ہیں ۔ حضرت عمر رضی اللہ تعالیٰ عنہ بار بار ان کلمات کو دہرانے لگے حتیٰ کہ رسول اللہ صلی اللہ علیہ وسلم کا غصہ ٹھنڈا ہوگیا ، توحضرت عمر رضی اللہ تعالیٰ عنہ نے کہااللہ کے رسول صلی اللہ علیہ وسلم اس شخص کا کیا حکم ہے جو سال بھر ( مسلسل ) روزہ رکھتا ہے؟آپ صلی اللہ علیہ وسلم نے فرمایا؛ \" نہ اس نے روزہ رکھا نہ اس نے افطارکیا ۔ \" یا فرمایا ۔ \" اس نے روزہ نہیں رکھا اس نے افطار نہیں کیا ۔ \" کہا : اس کا کیا حکم ہے جو دو دن روزہ رکھتاہے اور ایک دن افطار کرتاہے ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \" کیاکوئی اس کی طاقت رکھتاہے؟ \" پوچھا : اس کا کیا حکم ہے جو ایک دن روزہ رکھتاہے اور ایک دن افطار کرتاہے ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \" یہ داود علیہ السلام کا روزہ ہے ۔ \" پوچھا : اس کا کیا حکم ہے جو ایک دن روزہ رکھتاہے اور دو دن افطار کرتاہے ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \" مجھے پسند ہے کہ مجھے اس کی طاقت مل جاتی ۔ پھر رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" ہر مہینے کے تین روزے اور ایک رمضان ( کے روزوں ) سے ( لے کردوسرے ) رمضان ( کے روزے ) یہ ( عمل ) سارے سال کے روزوں ( کے برابر ) ہے ۔ اور عرفہ کے دن کا روزہ میں اللہ سے امید رکھتاہوں کہ پچھلے سال کے گناہوں کاکفارہ بن جائے گا اور اگلے سال کے گناہوں کا بھی اور یوم عاشورہ کاروزہ ، میں اللہ سے امید رکھتاہوں کہ پچھلے سال کے گناہوں کا کفارہ بن جائے گا ۔ \"",
+                "urduNarrator": "یحییٰ بن یحییٰ التمیمی اور قتیبہ بن سعید نے ہم سے روایت کی ہے, حماد نے غیلان سے ، انھوں نے عبداللہ بن معبد زمانی سے اورانھوں نے حضرت ابو قتادہ رضی اللہ تعالیٰ عنہ سے روایت کی کہ",
+                "hadithArabic": "وحَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، جَمِيعًا عَنْ حَمَّادٍ، قَالَ يَحْيَى: أَخْبَرَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ غَيْلَانَ، عَنْ عَبْدِ اللهِ بْنِ مَعْبَدٍ الزِّمَّانِيِّ، عَنْ أَبِي قَتَادَةَ: رَجُلٌ أَتَى النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ: كَيْفَ تَصُومُ؟ فَغَضِبَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَلَمَّا رَأَى عُمَرُ رَضِيَ اللهُ عَنْهُ، غَضَبَهُ، قَالَ: رَضِينَا بِاللهِ رَبًّا، وَبِالْإِسْلَامِ دِينًا، وَبِمُحَمَّدٍ نَبِيًّا، نَعُوذُ بِاللهِ مِنْ غَضَبِ اللهِ وَغَضَبِ رَسُولِهِ، فَجَعَلَ عُمَرُ رَضِيَ اللهُ عَنْهُ يُرَدِّدُ هَذَا الْكَلَامَ حَتَّى سَكَنَ غَضَبُهُ، فَقَالَ عُمَرُ: يَا رَسُولَ اللهِ، كَيْفَ بِمَنْ يَصُومُ الدَّهْرَ كُلَّهُ؟ قَالَ: «لَا صَامَ وَلَا أَفْطَرَ» - أَوْ قَالَ - «لَمْ يَصُمْ وَلَمْ يُفْطِرْ» قَالَ: كَيْفَ مَنْ يَصُومُ يَوْمَيْنِ وَيُفْطِرُ يَوْمًا؟ قَالَ: «وَيُطِيقُ ذَلِكَ أَحَدٌ؟» قَالَ: كَيْفَ مَنْ يَصُومُ يَوْمًا وَيُفْطِرُ يَوْمًا؟ قَالَ: «ذَاكَ صَوْمُ دَاوُدَ عَلَيْهِ السَّلَام» قَالَ: كَيْفَ مَنْ يَصُومُ يَوْمًا وَيُفْطِرُ يَوْمَيْنِ؟ قَالَ: «وَدِدْتُ أَنِّي طُوِّقْتُ ذَلِكَ» ثُمَّ قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «ثَلَاثٌ مِنْ كُلِّ شَهْرٍ، وَرَمَضَانُ إِلَى رَمَضَانَ، فَهَذَا صِيَامُ الدَّهْرِ كُلِّهِ، صِيَامُ يَوْمِ عَرَفَةَ، أَحْتَسِبُ عَلَى اللهِ أَنْ يُكَفِّرَ السَّنَةَ الَّتِي قَبْلَهُ، وَالسَّنَةَ الَّتِي بَعْدَهُ، وَصِيَامُ يَوْمِ عَاشُورَاءَ، أَحْتَسِبُ عَلَى اللهِ أَنْ يُكَفِّرَ السَّنَةَ الَّتِي قَبْلَهُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10311,
+                "hadithNumber": "2747",
+                "englishNarrator": "Abu Qatada al-Ansari (رضی اللہ تعالیٰ عنہ) reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) was asked about his fasting. The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) felt annoyed. Thereupon 'Umar (Allah be pleased with him) said: We are pleased with Allah as the Lord, with Islam as our Code of Life, with Muhammad as the Messenger and with our pledge (to you for willing and cheerful submission) as a (sacred) commitment. He was then asked about perpetual fasting, whereupon he said: He neither fasted nor did he break it, or he did not fast and he did not break it. He was then asked about fasting for two days and breaking one day. He (the Holy Prophet) said: And who has strength enough to do it? He was asked about fasting for a day and breaking for two days, whereupon he said: May Allah bestow upon us strength to do it. He was then asked about fasting for a day and breaking on the other, whereupon he said: That is the fasting of my brother David (peace be upon him). He was then asked about fasting on Monday, whereupon he said: It was the day on which I was born. on which I was commissioned with prophethood or revelation was sent to me, (and he further) said: Three days' fasting every month and of the whole of Ramadan every year is a perpetual fast. He was asked about fasting on the day of 'Arafa (9th of Dhu'I-Hijja), whereupon he said: It expiates the sins of the preceding year and the coming year. He was asked about fasting on the day of 'Ashura (10th of Muharram), whereupon be said: It expiates the sins of the preceding year. (Imam Muslim said that in this hadith there is a) narration of Imam Shu'ba that he was asked about fasting on Monday and Thursday, but we (Imam Muslim) did not mention Thursday for we found it as an error (in reporting).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم سے آپ کے روزوں کے بارے میں سوال کیاگیا تو رسول اللہ صلی اللہ علیہ وسلم نارض ہوگئے ، اس پر حضرت عمر رضی اللہ تعالیٰ عنہ نے عرض کی : ہم اللہ کے رب ہونے ، اسلام کے دین ہونے ، محمد صلی اللہ علیہ وسلم کے رسول ہونے ، اور بیعت کے طور پر اپنی بیعت پر راضی ہیں ۔ ( جو ہم نے رسول اللہ صلی اللہ علیہ وسلم سے کی ۔ ) کہا : اس کے بعد آپ سے بغیر وقفے کے ہمیشہ روزہ رکھنے ( صیام الدھر ) کے بارے میں پوچھا گیا تو آپ صلی اللہ علیہ وسلم نے فرمایا : \"\" اس شخص نے روزہ رکھا نہ افطار کیا ۔ \"\" اس کے بعد آپ سے دو دن روزہ رکھنے اور ایک دن ترک کرنے کے بارے میں پوچھاگیا ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \"\" اس کی طاقت کون رکھتاہے؟ \"\" کہا : اور آپ سے ایک دن روزہ رکھنے اور دو دن ترک کرنے کے بارے میں پوچھاگیا ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \"\" کاش کے اللہ تعالیٰ نے ہمیں اس کام کی طاقت دی ہوتی ۔ \"\" کہا : اور آپ صلی اللہ علیہ وسلم سے ایک دن روزہ رکھنے اور ایک دن روزہ ترک کرنے کے بارے میں سوال کیاگیا ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \"\" یہ میرے بھائی داود علیہ السلام کا روزہ ہے ۔ \"\" کہا : اور آپ سے سوموار کا روزہ رکھنے کے بارے میں سوال کیاگیا ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \"\" یہ دن ہے جب میں پیدا ہوا اور جس دن مجھے ( رسول بنا کر ) بھیجا گیا ۔ یا مجھ پر ( قرآن ) نازل کیا گیا ۔ \"\" کہا : اس کے بعد آپ صلی اللہ علیہ وسلم نے فرمایا : \"\" ہر ماہ کے تین روزے اور اگلے رمضان تک رمضان کے روزے ہی ہمیشہ کے روزے ہیں ۔ \"\" کہا : آپ صلی اللہ علیہ وسلم سے یوم عرفہ کے روزے کے بارے میں پوچھا گیاٍ ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \"\" یہ گزشتہ اور آئندہ سال کے گناہوں کاکفارہ بن جاتا ہے ۔ \"\" کہا : آپ صلی اللہ علیہ وسلم سے عاشورہ کے دن کے روزے کے بارے میں پوچھا گیاٍ ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \"\" وہ گزشتہ سال کے گناہوں کا کفارہ بن جاتاہے ۔ \"\" امام مسلمؒ نے کہا : اس حدیث میں شعبہ کی روایت ( یوں ) ہے : انھوں ( ابوقتادہ رضی اللہ تعالیٰ عنہ ) نے کہا : اور آپ سے سوموار اور جمعرات کے روزے کے بارے میں سوال کیاگیا ۔ لیکن ہم نے جمعرات کے ذکر سے سکوت کیا ہے ، کیونکہ ہمارے خیال میں یہ ( راوی کا ) وہم ہے ۔",
+                "urduNarrator": "ہم سے محمد بن المثنیٰ اور محمد بن بشار نے بیان کیا - اور یہ لفظ ابن المثنیٰ کا ہے - انہوں نے کہا: ہم سے بیان کیا محمد بن جعفر نے کہا : ہمیں شعبہ نے غیلان بن جریر سے حدیث سنائی ، انھوں نے عبداللہ بن معبد زمانی سے سنا ، انھوں نے حضرت ابو قتادہ انصاری رضی اللہ تعالیٰ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، - وَاللَّفْظُ لِابْنِ الْمُثَنَّى - قَالَا: حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ غَيْلَانَ بْنِ جَرِيرٍ، سَمِعَ عَبْدَ اللهِ بْنَ مَعْبَدٍ الزِّمَّانِيَّ، عَنْ أَبِي قَتَادَةَ الْأَنْصَارِيِّ رَضِيَ اللهُ عَنْهُ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ سُئِلَ عَنْ صَوْمِهِ؟ قَالَ: فَغَضِبَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ عُمَرُ رَضِيَ اللهُ عَنْهُ: رَضِينَا بِاللهِ رَبًّا، وَبِالْإِسْلَامِ دِينًا، وَبِمُحَمَّدٍ رَسُولًا، وَبِبَيْعَتِنَا بَيْعَةً. قَالَ: فَسُئِلَ عَنْ صِيَامِ الدَّهْرِ؟ فَقَالَ: «لَا صَامَ وَلَا أَفْطَرَ - أَوْ مَا صَامَ وَمَا أَفْطَرَ -» قَالَ: فَسُئِلَ عَنْ صَوْمِ يَوْمَيْنِ وَإِفْطَارِ يَوْمٍ؟ قَالَ: «وَمَنْ يُطِيقُ ذَلِكَ؟» قَالَ: وَسُئِلَ عَنْ صَوْمِ يَوْمٍ، وَإِفْطَارِ يَوْمَيْنِ؟ قَالَ: «لَيْتَ أَنَّ اللهَ قَوَّانَا لِذَلِكَ» قَالَ: وَسُئِلَ عَنْ صَوْمِ يَوْمٍ، وَإِفْطَارِ يَوْمٍ؟ قَالَ: «ذَاكَ صَوْمُ أَخِي دَاوُدَ - عَلَيْهِ السَّلَام -» قَالَ: وَسُئِلَ عَنْ صَوْمِ يَوْمِ الِاثْنَيْنِ؟ قَالَ: «ذَاكَ يَوْمٌ وُلِدْتُ فِيهِ، وَيَوْمٌ بُعِثْتُ - أَوْ أُنْزِلَ عَلَيَّ فِيهِ -» قَالَ: فَقَالَ: «صَوْمُ ثَلَاثَةٍ مِنْ كُلِّ شَهْرٍ، وَرَمَضَانَ إِلَى رَمَضَانَ، صَوْمُ الدَّهْرِ» قَالَ: وَسُئِلَ عَنْ صَوْمِ يَوْمِ عَرَفَةَ؟ فَقَالَ: «يُكَفِّرُ السَّنَةَ الْمَاضِيَةَ وَالْبَاقِيَةَ» قَالَ: وَسُئِلَ عَنْ صَوْمِ يَوْمِ عَاشُورَاءَ؟ فَقَالَ: «يُكَفِّرُ السَّنَةَ الْمَاضِيَةَ» وَفِي هَذَا الْحَدِيثِ مِنْ رِوَايَةِ شُعْبَةَ قَالَ: وَسُئِلَ عَنْ صَوْمِ يَوْمِ الِاثْنَيْنِ وَالْخَمِيسِ؟ فَسَكَتْنَا عَنْ ذِكْرِ الْخَمِيسِ لَمَّا نُرَاهُ وَهْمًا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10312,
+                "hadithNumber": "2748",
+                "englishNarrator": null,
+                "hadithEnglish": "It was narrated from Shu'ba with this chain (a Hadith similar to no. 2747).",
+                "hadithUrdu": "ہم سے عبید اللہ بن معاذ بن معاذ ، شبابہ اورنضر بن شمیل سب نے شعبہ سے اس سند کے ساتھ ( سابق حدیث کے مانند ) روایت کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنَاه عُبَيْدُ اللهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، ح وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا شَبَابَةُ، ح وحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا النَّضْرُ بْنُ شُمَيْلٍ، كُلُّهُمْ عَنْ شُعْبَةَ بِهَذَا الْإِسْنَادِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10313,
+                "hadithNumber": "2749",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated by Ghailan bin Jarir with the same chain of transmitters, but with one variation, that there has been made mention of Monday and not of Thursday.",
+                "hadithUrdu": "مجھ سے احمد بن سعید دارمی نے بیان کیا، کہا ہم سے حبان بن ہلال نے بیان کیا، کہا ہم سےابان عطار نے کہا : ہمیں غیلان بن جریر نے اسی سند کے ساتھ شعبہ کی حدیث کی مانند حدیث بیا ن کی ، مگر انھوں نے ( اپنی ) اس حدیث میں سوموار کا ذکرکیا ، جمعرات کا ذکر نہیں کیا ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنِي أَحْمَدُ بْنُ سَعِيدٍ الدَّارِمِيُّ، حَدَّثَنَا حَبَّانُ بْنُ هِلَالٍ، حَدَّثَنَا أَبَانُ الْعَطَّارُ، حَدَّثَنَا غَيْلَانُ بْنُ جَرِيرٍ، فِي هَذَا الْإِسْنَادِ، بِمِثْلِ حَدِيثِ شُعْبَةَ غَيْرَ أَنَّهُ ذَكَرَ فِيهِ الِاثْنَيْنِ، وَلَمْ يَذْكُرِ الْخَمِيسَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 10001,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=400",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=398",
+                "label": "398",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=399",
+                "label": "399",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=400",
+                "label": "400",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=401",
+                "label": "401",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=402",
+                "label": "402",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=403",
+                "label": "403",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=404",
+                "label": "404",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=402",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=402",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=400",
+        "to": 10025,
+        "total": 40465
+    }
+}

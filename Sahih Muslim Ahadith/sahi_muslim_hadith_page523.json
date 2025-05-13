@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 523,
+        "data": [
+            {
+                "id": 13339,
+                "hadithNumber": "5776",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Ibn Juraij through another chain of transmitters.",
+                "hadithUrdu": "ہم سے ابو الربیع سلیمان بن داؤد اور قتیبہ بن سعید نے بیان کیا، کہا: حماد بن زید اور سفیان بن عینیہ دونوں نے عمرو بن دینار سے ابن جریج کی سند کے ساتھ اسی کی حدیث کےمانند حدیث بیان کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنَا أَبُو الرَّبِيعِ سُلَيْمَانُ بْنُ دَاوُدَ وَقُتَيْبَةُ بْنُ سَعِيدٍ قَالَا حَدَّثَنَا حَمَّادٌ وَهُوَ ابْنُ زَيْدٍ و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ كِلَاهُمَا عَنْ عَمْرِو بْنِ دِينَارٍ بِإِسْنَادِ ابْنِ جُرَيْجٍ نَحْوَ حَدِيثِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13340,
+                "hadithNumber": "5777",
+                "englishNarrator": "Usama bin Zaid رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) having said this: This calamity or illness was a punishment with which were punished some of the nations before you. Then it was left upon the earth. It goes away once and comes back again. He who heard of its presence in a land should not go towards it, and he who happened to be in a land where it had broken out should not fly from it.",
+                "hadithUrdu": "\" آپ صلی اللہ علیہ وسلم نے فرمایا : یہ بیماری ( طاعون ایک ) عذاب ہے جو تم سے پہلے ایک امت کو ہوا تھا ۔ پھر وہ زمین میں رہ گیا ۔ کبھی چلا جاتا ہے ، کبھی پھر آتا ہے ۔ لہٰذا جو کوئی کسی ملک میں سنے کہ وہاں طاعون ہے ، تو وہ وہاں نہ جائے اور جب اس کے ملک میں طاعون نمودار ہو تو وہاں سے بھاگے بھی نہیں ۔",
+                "urduNarrator": "مجھ سے ابو الطاہر احمد بن عمرو اور حرملہ بن یحییٰ نے بیان کیا، کہا کہ ہم سے ابن وہب نے بیان کیا, یونس نے ابن شہاب سے ، انھوں نے عامر بن سعد سے خبر دی ، انھوں نے حضرت اسامہ بن زید رضی اللہ عنہ سے ، انھوں نے رسول اللہ صلی اللہ علیہ وسلم سے روایت کی :  کہ",
+                "hadithArabic": "حَدَّثَنِي أَبُو الطَّاهِرِ أَحْمَدُ بْنُ عَمْرٍو وَحَرْمَلَةُ بْنُ يَحْيَى قَالَا أَخْبَرَنَا ابْنُ وَهْبٍ أَخْبَرَنِي يُونُسُ عَنْ ابْنِ شِهَابٍ أَخْبَرَنِي عَامِرُ بْنُ سَعْدٍ عَنْ أُسَامَةَ بْنِ زَيْدٍ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ إِنَّ هَذَا الْوَجَعَ أَوْ السَّقَمَ رِجْزٌ عُذِّبَ بِهِ بَعْضُ الْأُمَمِ قَبْلَكُمْ ثُمَّ بَقِيَ بَعْدُ بِالْأَرْضِ فَيَذْهَبُ الْمَرَّةَ وَيَأْتِي الْأُخْرَى فَمَنْ سَمِعَ بِهِ بِأَرْضٍ فَلَا يَقْدَمَنَّ عَلَيْهِ وَمَنْ وَقَعَ بِأَرْضٍ وَهُوَ بِهَا فَلَا يُخْرِجَنَّهُ الْفِرَارُ مِنْهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13341,
+                "hadithNumber": "5778",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Zuhri with a different chain of transmitters.",
+                "hadithUrdu": "ہم سے ابو کامل الجہدری نے بیان کیا، اسے عبد الواحد یعنی ابن زیاد نے بیان کیا, معمر نے زہری سے یونس کی سند کے ساتھ اسی ( یونس ) کی حدیث کے مانند حدیث بیان کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنَاه أَبُو كَامِلٍ الْجَحْدَرِيُّ حَدَّثَنَا عَبْدُ الْوَاحِدِ يَعْنِي ابْنَ زِيَادٍ حَدَّثَنَا مَعْمَرٌ عَنْ الزُّهْرِيِّ بِإِسْنَادِ يُونُسَ نَحْوَ حَدِيثِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13342,
+                "hadithNumber": "5779",
+                "englishNarrator": "Shu'ba reported from Habib:",
+                "hadithEnglish": "While we were in Medina we heard of plague having broken out in Kufa. 'Ata bin Yasir and others said to me that Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) had said. If you are in a land where it (this scourge) has broken out, don't get out of it, and if you were to know that it had broken (in another land, then don't enter it. I said to him: From whom (did you hear it)? They said: 'Amir bin Sa'd رضی اللہ عنہ has narrated it. So I came to him. They said that he was not present there. So I met his brother Ibrahim bin Sa'd رضی اللہ عنہ and asked him. He said: I bear testimony to the fact that Usama رضی اللہ عنہ narrated it to Sa'd رضی اللہ عنہ saying: I heard Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying that it is a God-sent punishment from the calamity or from the remnant of the calamity with which people were afflicted before you. So when it is in a land and you are there, don't get out of it, and if (this news reaches you) that it has broken out in a land, then don't enter therein. Habib said: I said to Ibrahim: Did you hear Usama رضی اللہ عنہ narrating it to Sa'd رضی اللہ عنہ and he was not denying it. He said: Yes.",
+                "hadithUrdu": "ہم مدینہ میں تھے تو مجھے خبر پہنچی کہ کو فہ میں طاعون پھیل گیا ہے تو عطاء بن یسار اور دوسرے لو گوں نے مجھ سے کہا کہ رسول اللہ صلی اللہ علیہ وسلم نے فرما یا تھا : جب تم کسی سر زمین میں ہوا ور وہاں طاعون پھیل جا ئے تو تم اس سر زمین سے مت نکلواور جب تم کو یہ خبر پہنچے کہ وہ کسی سر زمین میں پھیل گیا ہے تو تم اس میں مت جاؤ ۔ \"\" کہا : میں نے پو چھا : ( حدیث ) کس سے روایت کی گئی ؟ ان سب نے کہا : عامر بن سعد سے وہی یہ حدیث بیان کرتے تھے ۔ کیا : تو میں ان کے ہاں پہنچا ، ان کے ( گھر کے ) لوگوں نے کہا : وہ موجود نہیں ، تو میں ان کے بھا ئی ابرا ہیم بن سعد سے ملا اور ان سے دریافت کیا تو انھوں نے کہا : میں اسامہ رضی اللہ تعالیٰ عنہ کے پاس مو جو د تھا جب وہ ( میرے والد ) حضرت سعد رضی اللہ تعالیٰ عنہ کو حدیث بیان کررہے تھے ۔ انھوں نے کہا : میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ، آپ فرما رہے تھے : \"\" یہ بیماری سزا اور عذاب ہے یاعذاب کا بقیہ حصہ ہے جس میں تم سے پہلے کے لو گوں کو مبتلا کیا گیا تھا ۔ تو جب یہ کسی سر زمین میں پھیل جائے اور تم وہیں ہو تو وہاں سے باہر مت نکلواور جب تمھیں خبر پہنچے کہ یہ کسی سر زمین میں ہے تو اس میں مت جاؤ ۔ \"\" حبیب نے کہا : میں نے ابرا ہیم ( بن سعد ) سے کہا : کیا آپ نے ( خود ) اسامہ رضی اللہ عنہ سے سنا تھا وہ حضرت سعد رضی اللہ عنہ کو یہ حدیث سنا رہے تھے اور وہ اس کا انکا ر نہیں کر رہے تھے؟انھوں نے کہا : ہاں ۔",
+                "urduNarrator": "ہم سے محمد بن المثنی نے بیان کیا, ابن ابی عدی نے شعبہ سے انھوں نے حبیب ( بن ابی ثابت اسدی ) سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ عَنْ شُعْبَةَ عَنْ حَبِيبٍ قَالَ كُنَّا بِالْمَدِينَةِ فَبَلَغَنِي أَنَّ الطَّاعُونَ قَدْ وَقَعَ بِالْكُوفَةِ فَقَالَ لِي عَطَاءُ بْنُ يَسَارٍ وَغَيْرُهُ إِنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِذَا كُنْتَ بِأَرْضٍ فَوَقَعَ بِهَا فَلَا تَخْرُجْ مِنْهَا وَإِذَا بَلَغَكَ أَنَّهُ بِأَرْضٍ فَلَا تَدْخُلْهَا قَالَ قُلْتُ عَمَّنْ قَالُوا عَنْ عَامِرِ بْنِ سَعْدٍ يُحَدِّثُ بِهِ قَالَ فَأَتَيْتُهُ فَقَالُوا غَائِبٌ قَالَ فَلَقِيتُ أَخَاهُ إِبْرَاهِيمَ بْنَ سَعْدٍ فَسَأَلْتُهُ فَقَالَ شَهِدْتُ أُسَامَةَ يُحَدِّثُ سَعْدًا قَالَ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ إِنَّ هَذَا الْوَجَعَ رِجْزٌ أَوْ عَذَابٌ أَوْ بَقِيَّةُ عَذَابٍ عُذِّبَ بِهِ أُنَاسٌ مِنْ قَبْلِكُمْ فَإِذَا كَانَ بِأَرْضٍ وَأَنْتُمْ بِهَا فَلَا تَخْرُجُوا مِنْهَا وَإِذَا بَلَغَكُمْ أَنَّهُ بِأَرْضٍ فَلَا تَدْخُلُوهَا قَالَ حَبِيبٌ فَقُلْتُ لِإِبْرَاهِيمَ آنْتَ سَمِعْتَ أُسَامَةَ يُحَدِّثُ سَعْدًا وَهُوَ لَا يُنْكِرُ قَالَ نَعَمْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13343,
+                "hadithNumber": "5780",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Shu'ba with the same chain of transmitters except for the fact that no mention has been made of the account of 'Ata bin Yasir as in the previous hadith.",
+                "hadithUrdu": "عبید اللہ بن معاذ کے والد نے کہا : ہمیں شعبہ نے اسی سند کے ساتھ یہ حدیث سنا ئی مگر انھوں نے حدیث کے آغاز میں عطاء بن یسار کا واقعہ بیان نہیں کیا ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنَاه عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ حَدَّثَنَا أَبِي حَدَّثَنَا شُعْبَةُ بِهَذَا الْإِسْنَادِ غَيْرَ أَنَّهُ لَمْ يَذْكُرْ قِصَّةَ عَطَاءِ بْنِ يَسَارٍ فِي أَوَّلِ الْحَدِيثِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13344,
+                "hadithNumber": "5781",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been transmitted on the authority of Sa'd bin Malik, Khuzaima bin Thabit and Usama bin Zaid رضی اللہ عنہ .",
+                "hadithUrdu": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، ہم سے وکیع نے بیان کیا, سفیان نے حبیب سے ، انھوں نے ابرا ہیم بن سعد سے ، انھوں نے حضرت سعد بن مالک ، حضرت حزیمہ بن ثابت اور حضرت اسامہ بن زید رضی اللہ عنہ سے روایت کی ، انھوں نے کہا : رسول اللہ صلی اللہ علیہ وسلم نے فرما یا : \" آگے شعبہ کی حدیث کے ہم معنی ہے ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا وَكِيعٌ عَنْ سُفْيَانَ عَنْ حَبِيبٍ عَنْ إِبْرَاهِيمَ بْنِ سَعْدٍ عَنْ سَعْدِ بْنِ مَالِكٍ وَخُزَيْمَةَ بْنِ ثَابِتٍ وَأُسَامَةَ بْنِ زَيْدٍ قَالُوا قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِمَعْنَى حَدِيثِ شُعْبَةَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13345,
+                "hadithNumber": "5782",
+                "englishNarrator": null,
+                "hadithEnglish": "Ibrahim bin Sa'd bin Abu Waqqas reported: Usama bin Zaid and Sa'd رضی اللہ عنہ had been sitting and they had been conversing and they said this hadith.",
+                "hadithUrdu": "ہم سے عثمان بن ابی شیبہ اور اسحاق بن ابراہیم نے جریر کی سند سے بیان کیا, اعمش نے حبیب سے ، انھوں نے ابرا ہیم بن سعد بن ابی وقاص سے روایت کی ، کہا : حضرت اسامہ بن زید رضی اللہ عنہ اور حضرت سعد رضی اللہ عنہ بیٹھے ہو ئے احادیث بیان کررہے تھے ۔ تو ان دونوں نے کہا : رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا ، جس طرح ان سب کی حدیث ہے ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ وَإِسْحَقُ بْنُ إِبْرَاهِيمَ كِلَاهُمَا عَنْ جَرِيرٍ عَنْ الْأَعْمَشِ عَنْ حَبِيبٍ عَنْ إِبْرَاهِيمَ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ قَالَ كَانَ أُسَامَةُ بْنُ زَيْدٍ وَسَعْدٌ جَالِسَيْنِ يَتَحَدَّثَانِ فَقَالَا قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِنَحْوِ حَدِيثِهِمْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13346,
+                "hadithNumber": "5783",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been transmitted by Ibrahim bin Sa'd bin Malik on the authority of his father.",
+                "hadithUrdu": "مجھ سے وہب بن بقیع نے بیان کیا، یعنی خالد کا مطلب ہے  ملر نے,شیبانی نے حبیب بن ابی ثابت سے ، انھوں نے ابرا ہیم بن سعد بن مالک سے ، انھوں نے اپنے والد سے ، انھوں نے رسول اللہ صلی اللہ علیہ وسلم سے ان سب کی بیان کردہ حدیث کے مطا بق روایت کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنِيهِ وَهْبُ بْنُ بَقِيَّةَ أَخْبَرَنَا خَالِدٌ يَعْنِي الطَّحَّانَ عَنْ الشَّيْبَانِيِّ عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ عَنْ إِبْرَاهِيمَ بْنِ سَعْدِ بْنِ مَالِكٍ عَنْ أَبِيهِ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِنَحْوِ حَدِيثِهِمْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13347,
+                "hadithNumber": "5784",
+                "englishNarrator": "Abdullah bin 'Abbas رضی اللہ عنہ reported:",
+                "hadithEnglish": "Umar bin Khattab رضی اللہ عنہ set out for Syria. As he came at Sargh (a town by the side of Hijaz on the way to Syria), there met him the commander of the forces, Abu Ubaida bin Jandb رضی اللہ عنہ , and his companions. They informed him that a scourge had broken out in Syria. Ibn 'Abbas رضی اللہ عنہ further reported that 'Umar رضی اللہ عنہ said: Call to me tile earliest emigrants. So I called them. He (Hadrat 'Umar رضی اللہ عنہ ) sought their advice, and they told him that the scourge had broker, out in Syria. There was a difference of opinion (whether they should proceed further or go back to their homes in such a situation). Some of them said: You ('Umar رضی اللہ عنہ ) have set forth for a task, and, therefore, we would not advise you to go back, whereas some of them said: You have along with you the remnants (of the sacred galaxy) of men and (the blessed) Companions of Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), so we would not advise you to go forth towards this calamity (with such eminent persons and thus expose them deliberately to a danger). He (Hadrat 'Umar رضی اللہ عنہ ) said: You can now go away. He said: Call to me the Ansar. So I called them to him, and he consulted them, and they trod the same path as was trodden by the Muhajirin, and they differed in their opinions as they had differed. He said: Now, you can go. He again said: Call to me the old persons of the Quraish who had migrated before the Victory (that is the Victory of Mecca), so I called them (and Hadrat 'Umar رضی اللہ عنہ consulted them) and not even two persons differed (from the opinion held by the earlier delegates). They said: Our opinion is that you better go back along with the people and do not make them go to this scourge, So 'Umar made announcement to the people: In the morning I would be on the back of my side. So they (set forth in the morning), whereupon Abu 'Ubaida bin Jarrah رضی اللہ عنہ said: Are you going to run away from the Divine Decree? Thereupon 'Umar رضی اللہ عنہ said: Had it been someone else to say this besides you! 'Umar رضی اللہ عنہ (in fact) did not approve of his opposing (this decision) and he said: Yes, we are running from the Divine Decree (to the) Divine Decree. You should think if there had been camels for you and you happened to get down in a valley having two sides, one of them covered with verdure and the other being barren, would you not (be doing) according to the Divine Decree if you graze them in verdure? And in case you graze them in the barren land (even then you would be grazing them) according to the Divine Decree. There happened to come 'Abdul-Rahman bin 'Auf رضی اللہ عنہ and he had been absent in connection with some of his needs. He said: I have with me a knowledge of it, that I heard Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying: If you hear of its presence (the presence of plague) in a land, don't enter it, but if it spreads in the land where you are, don't fly from it. Thereupon 'Umar bin Khattab رضی اللہ عنہ praised Allah and then went back?",
+                "hadithUrdu": "سیدنا عمر بن خطاب رضی اللہ عنہ شام کی طرف نکلے ۔ جب ( تبوک کے مقام ) سرغ پر پہنچے تو لشکر گاہوں کے امراء میں سیدنا ابوعبیدہ بن الجراح رضی اللہ عنہ اور ان کے اصحاب نے آپ سے ملاقات کی ۔ اور یہ بتایا کہ شام میں وبا پھیل گئی ہے ۔ سیدنا ابن عباس رضی اللہ عنہما نے کہا کہ سیدنا عمر رضی اللہ عنہ نے کہا کہ میرے سامنے مہاجرین اوّلین کو بلاؤ ۔ ( مہاجرین اوّلین وہ لوگ ہیں جنہوں نے دونوں قبلہ کی طرف نماز پڑھی ہو ) میں نے ان کو بلایا ۔ سیدنا عمر رضی اللہ عنہ نے ان سے مشورہ لیا اور ان سے بیان کیا کہ شام کے ملک میں وبا پھیلی ہوئی ہے ۔ انہوں نے اختلاف کیا ۔ بعض نے کہا کہ آپ ایک اہم کام کے لئے نکلے ہوئے ہیں اس لئے ہم آپ کا لوٹنا مناسب نہیں سمجھتے ۔ بعض نے کہا کہ تمہارے ساتھ وہ لوگ ہیں جو اگلوں میں باقی رہ گئے ہیں اور رسول اللہ صلی اللہ علیہ وسلم کے اصحاب ہیں اور ہم ان کو وبائی ملک میں لے جانا مناسب نہیں سمجھتے ۔ سیدنا عمر رضی اللہ عنہ نے کہا کہ اب تم لوگ جاؤ ۔ پھر کہا کہ انصار کے لوگوں کو بلاؤ ۔ میں نے ان کو بلایا تو انہوں نے ان سے مشورہ لیا ۔ انصار بھی مہاجرین کی چال چلے اور انہی کی طرح اختلاف کیا ۔ سیدنا عمر رضی اللہ عنہ نے کہا کہ تم لوگ جاؤ ۔ پھر کہا کہ اب قریش کے بوڑھوں کو بلاؤ جو فتح مکہ سے پہلے یا ( فتح کے ساتھ ہی ) مسلمان ہوئے ہیں ۔ میں نے ان کو بلایا اور ان میں سے دو نے بھی اختلاف نہیں کیا ، سب نے یہی کہا کہ ہم مناسب سمجھتے ہیں کہ آپ لوگوں کو لے کر لوٹ جائیے اور ان کو وبا کے سامنے نہ کیجئے ۔ آخر سیدنا عمر رضی اللہ عنہ نے لوگوں میں منادی کرا دی کہ میں صبح کو اونٹ پر سوار ہوں گا ( اور مدینہ لوٹوں گا ) تم بھی سوار ہو جاؤ ۔ سیدنا ابوعبیدہ بن الجراح رضی اللہ عنہ نے کہا کہ کیا تقدیر سے بھاگتے ہو؟ سیدنا عمر رضی اللہ عنہ نے کہا کہ کاش یہ بات کوئی اور کہتا ( یا اگر اور کوئی کہتا تو میں اس کو سزا دیتا ) { اور سیدنا عمر رضی اللہ عنہ برا جانتے تھے ان کا خلاف کرنے کو } ہاں ہم اللہ کی تقدیر سے اللہ کی تقدیر کی طرف بھاگتے ہیں ۔ کیا اگر تمہارے پاس اونٹ ہوں اور تم ایک وادی میں جاؤ جس کے دو کنارے ہوں ایک کنارہ سرسبز اور شاداب ہو اور دوسرا خشک اور خراب ہو اور تم اپنے اونٹوں کو سرسبز اور شاداب کنارے میں چراؤ تو اللہ کی تقدیر سے چرایا اور جو خشک اور خراب میں چراؤ تب بھی اللہ کی تقدیر سے چرایا ( سیدنا عمر رضی اللہ عنہ کا مطلب یہ ہے کہ جیسے اس چرواہے پر کوئی الزام نہیں ہے بلکہ اس کا فعل قابل تعریف ہے کہ جانوروں کو آرام دیا ایسا ہی میں بھی اپنی رعیت کا چرانے والا ہوں تو جو ملک اچھا معلوم ہوتا ہے ادھر لے جاتا ہوں اور یہ کام تقدیر کے خلاف نہیں ہے بلکہ عین تقدیر الٰہی ہے ) ؟ اتنے میں سیدنا عبدالرحمن بن عوف رضی اللہ عنہ آئے اور وہ کسی کام کو گئے ہوئے تھے ، انہوں نے کہا کہ میرے پاس تو اس مسئلہ کی دلیل موجود ہے ، میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ہے آپ صلی اللہ علیہ وسلم فرماتے تھے کہ جب تم سنو کہ کسی ملک میں وبا پھیلی ہے تو وہاں مت جاؤ اور اگر تمہارے ملک میں وبا پھیلے تو بھاگو بھی نہیں ۔ کہا : اس پر سیدنا عمر رضی اللہ عنہ نے اللہ کا شکر ادا کیا ۔ پھر ( اگلےدن ) روانہ ہوگئے ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ التمیمی نے بیان کیا، کہا: امام مالک نے ابن شہاب سے ، انھوں نے عبدالحمید بن عبدالرحمن بن زید بن خطاب سے ، انھوں نے عبداللہ بن عبداللہ بن حارث بن نوفل سے ، انھوں نے حضرت عبداللہ بن عباس رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ ابْنِ شِهَابٍ عَنْ عَبْدِ الْحَمِيدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ زَيْدِ بْنِ الْخَطَّابِ عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ الْحَارِثِ بْنِ نَوْفَلٍ عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ أَنَّ عُمَرَ بْنَ الْخَطَّابِ خَرَجَ إِلَى الشَّامِ حَتَّى إِذَا كَانَ بِسَرْغَ لَقِيَهُ أَهْلُ الْأَجْنَادِ أَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ وَأَصْحَابُهُ فَأَخْبَرُوهُ أَنَّ الْوَبَاءَ قَدْ وَقَعَ بِالشَّامِ قَالَ ابْنُ عَبَّاسٍ فَقَالَ عُمَرُ ادْعُ لِي الْمُهَاجِرِينَ الْأَوَّلِينَ فَدَعَوْتُهُمْ فَاسْتَشَارَهُمْ وَأَخْبَرَهُمْ أَنَّ الْوَبَاءَ قَدْ وَقَعَ بِالشَّامِ فَاخْتَلَفُوا فَقَالَ بَعْضُهُمْ قَدْ خَرَجْتَ لِأَمْرٍ وَلَا نَرَى أَنْ تَرْجِعَ عَنْهُ وَقَالَ بَعْضُهُمْ مَعَكَ بَقِيَّةُ النَّاسِ وَأَصْحَابُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَلَا نَرَى أَنْ تُقْدِمَهُمْ عَلَى هَذَا الْوَبَاءِ فَقَالَ ارْتَفِعُوا عَنِّي ثُمَّ قَالَ ادْعُ لِي الْأَنْصَارِ فَدَعَوْتُهُمْ لَهُ فَاسْتَشَارَهُمْ فَسَلَكُوا سَبِيلَ الْمُهَاجِرِينَ وَاخْتَلَفُوا كَاخْتِلَافِهِمْ فَقَالَ ارْتَفِعُوا عَنِّي ثُمَّ قَالَ ادْعُ لِي مَنْ كَانَ هَاهُنَا مِنْ مَشْيَخَةِ قُرَيْشٍ مِنْ مُهَاجِرَةِ الْفَتْحِ فَدَعَوْتُهُمْ فَلَمْ يَخْتَلِفْ عَلَيْهِ رَجُلَانِ فَقَالُوا نَرَى أَنْ تَرْجِعَ بِالنَّاسِ وَلَا تُقْدِمَهُمْ عَلَى هَذَا الْوَبَاءِ فَنَادَى عُمَرُ فِي النَّاسِ إِنِّي مُصْبِحٌ عَلَى ظَهْرٍ فَأَصْبِحُوا عَلَيْهِ فَقَالَ أَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ أَفِرَارًا مِنْ قَدَرِ اللَّهِ فَقَالَ عُمَرُ لَوْ غَيْرُكَ قَالَهَا يَا أَبَا عُبَيْدَةَ وَكَانَ عُمَرُ يَكْرَهُ خِلَافَهُ نَعَمْ نَفِرُّ مِنْ قَدَرِ اللَّهِ إِلَى قَدَرِ اللَّهِ أَرَأَيْتَ لَوْ كَانَتْ لَكَ إِبِلٌ فَهَبَطَتْ وَادِيًا لَهُ عُدْوَتَانِ إِحْدَاهُمَا خَصْبَةٌ وَالْأُخْرَى جَدْبَةٌ أَلَيْسَ إِنْ رَعَيْتَ الْخَصْبَةَ رَعَيْتَهَا بِقَدَرِ اللَّهِ وَإِنْ رَعَيْتَ الْجَدْبَةَ رَعَيْتَهَا بِقَدَرِ اللَّهِ قَالَ فَجَاءَ عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ وَكَانَ مُتَغَيِّبًا فِي بَعْضِ حَاجَتِهِ فَقَالَ إِنَّ عِنْدِي مِنْ هَذَا عِلْمًا سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ إِذَا سَمِعْتُمْ بِهِ بِأَرْضٍ فَلَا تَقْدَمُوا عَلَيْهِ وَإِذَا وَقَعَ بِأَرْضٍ وَأَنْتُمْ بِهَا فَلَا تَخْرُجُوا فِرَارًا مِنْهُ قَالَ فَحَمِدَ اللَّهَ عُمَرُ بْنُ الْخَطَّابِ ثُمَّ انْصَرَفَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13348,
+                "hadithNumber": "5785",
+                "englishNarrator": "This hadith has been reported on the authority of Ma'mar with the same chain of transmitters but with this addition:",
+                "hadithEnglish": "Do you think that he would graze in the barren land but would abandon the green land? Would you not attribute it to be a failing on his part? He said: Yes. He said: Then proceed. And he moved on until he came to Medina. And he said to me: This is the right place, or he said: That is the destination if Allah so wills.",
+                "hadithUrdu": "اگر وہ ( اونٹ ) بنجر کنارے پر چرے اور سرسبز کنارے کو چھوڑ دے تو کیا آپ اسے اس کے عجز اور غلطی پر محمول کریں گے؟انھوں نے کہا : ہاں ، حضرت عمر رضی اللہ عنہ نے کہا : تو پھر چلیں ۔ ( ابن عباس رضی اللہ عنہ نے ) کہا : وہ چل کر مدینہ آئے اور کہا : ان شاء اللہ! یہی ( کجاوے ) کھولنے کی ، یاکہا : یہی اترنے کی جگہ ہے ۔",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم، محمد بن رافع اور عبد بن حمید نے بیان کیا اور ہم سے عبد الرزاق نے بیان کیا۔ اس نے ہمیں بتایامعمر نے ہمیں اسی سند کے ساتھ مالک کی حدیث کی طرح حدیث بیان کی اور معمر کی حدیث میں یہ الفاظ زائد بیان کیے ، کہا : اور انہوں ( حضرت عمر رضی اللہ تعالیٰ عنہ ) نے ان ( ابو عبیدہ رضی اللہ عنہ ) سے یہ بھی کہا : آپ کا کیا حال ہے کہ",
+                "hadithArabic": "و حَدَّثَنَا إِسْحَقُ بْنُ إِبْرَاهِيمَ وَمُحَمَّدُ بْنُ رَافِعٍ وَعَبْدُ بْنُ حُمَيْدٍ قَالَ ابْنُ رَافِعٍ حَدَّثَنَا و قَالَ الْآخَرَانِ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ أَخْبَرَنَا مَعْمَرٌ بِهَذَا الْإِسْنَادِ نَحْوَ حَدِيثِ مَالِكٍ وَزَادَ فِي حَدِيثِ مَعْمَرٍ قَالَ وَقَالَ لَهُ أَيْضًا أَرَأَيْتَ أَنَّهُ لَوْ رَعَى الْجَدْبَةَ وَتَرَكَ الْخَصْبَةَ أَكُنْتَ مُعَجِّزَهُ قَالَ نَعَمْ قَالَ فَسِرْ إِذًا قَالَ فَسَارَ حَتَّى أَتَى الْمَدِينَةَ فَقَالَ هَذَا الْمَحِلُّ أَوْ قَالَ هَذَا الْمَنْزِلُ إِنْ شَاءَ اللَّهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13349,
+                "hadithNumber": "5786",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been transmitted on the authority of 'Abdullah bin Harith with a slight variation of wording.",
+                "hadithUrdu": "مجھ سے ابو الطاہر اور حرملہ بن یحییٰ نے بیان کیا، کہا کہ ہم سے ابن وہب نے بیان کیا, یونس نے اسی سند کے ساتھ ابن شہاب سے خبر دی ، مگر انھوں نے کہا : بلاشبہ عبداللہ بن حارث نے انھیں حدیث سنائی اور \" عبداللہ بن عبداللہ \" نہیں کہا ۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنِيهِ أَبُو الطَّاهِرِ وَحَرْمَلَةُ بْنُ يَحْيَى قَالَا أَخْبَرَنَا ابْنُ وَهْبٍ أَخْبَرَنِي يُونُسُ عَنْ ابْنِ شِهَابٍ بِهَذَا الْإِسْنَادِ غَيْرَ أَنَّهُ قَالَ إِنَّ عَبْدَ اللَّهِ بْنَ الْحَارِثِ حَدَّثَهُ وَلَمْ يَقُلْ عَبْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13350,
+                "hadithNumber": "5787",
+                "englishNarrator": "Amir bin Rabi'ah reported:",
+                "hadithEnglish": "'Umar رضی اللہ عنہ went to Syria and as he came to Sargh, information was given to him that an epidemic had broken out in Syria. 'Abdul-Rahman bin 'Auf رضی اللہ عنہ narrated to him that Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) had said: When you hear of its presence in a land, don't move towards it, and when it breaks out in a land and you are therein, then don't run away from it. So 'Umar bin Khattab رضی اللہ عنہ came back from Sargh. Salim bin 'Abdullah رضی اللہ عنہ reported that 'Umar رضی اللہ عنہ went back, along with people on hearing the hadith reported on the authority of 'Abdul-Rahman bin 'Auf.",
+                "hadithUrdu": "حضرت عمر رضی اللہ عنہ شام کی طرف روانہ ہو ئے ، جب سرغ پہنچے تو ان کو یہ اطلا ع ملی کہ شام میں وبا نمودار ہو گئی ہے ۔ تو حضرت عبدالرحمٰن بن عوف رضی اللہ عنہ نے انھیں بتا یا کہ رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا تھا : \"\" جب تم کسی علاقے میں اس ( وبا ) کی خبر سنو تو وہاں نہ جا ؤ اور جب تم کسی علاقے میں ہواور وہاں وبا نمودار ہو جا ئے تو اس وبا سے بھا گنے کے لیے وہاں سے نہ نکلو ۔ \"\" اس پر حضرت عمر بن خطاب رضی اللہ تعالیٰ عنہ سرغ سے لوٹ آئے ۔ اور ابن شہاب سے روایت ہے ، انھوں نے سالم بن عبد اللہ سے روایت کی کہ حضرت عمر رضی اللہ تعالیٰ عنہ حضرت عبد الرحمان بن عوف رضی اللہ تعالیٰ عنہ کی حدیث کی وجہ سے لوگوں کو لے کر لوٹ آئے ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ التمیمی نے بیان کیا، کہا: امام مالک نے ابن شہاب سے ، انھوں نے عبد اللہ بن عامر بن ربیعہ سے ، روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ ابْنِ شِهَابٍ عَنْ عَبْدِ الْحَمِيدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ زَيْدِ بْنِ الْخَطَّابِ عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ الْحَارِثِ بْنِ نَوْفَلٍ عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ أَنَّ عُمَرَ بْنَ الْخَطَّابِ خَرَجَ إِلَى الشَّامِ حَتَّى إِذَا كَانَ بِسَرْغَ لَقِيَهُ أَهْلُ الْأَجْنَادِ أَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ وَأَصْحَابُهُ فَأَخْبَرُوهُ أَنَّ الْوَبَاءَ قَدْ وَقَعَ بِالشَّامِ قَالَ ابْنُ عَبَّاسٍ فَقَالَ عُمَرُ ادْعُ لِي الْمُهَاجِرِينَ الْأَوَّلِينَ فَدَعَوْتُهُمْ فَاسْتَشَارَهُمْ وَأَخْبَرَهُمْ أَنَّ الْوَبَاءَ قَدْ وَقَعَ بِالشَّامِ فَاخْتَلَفُوا فَقَالَ بَعْضُهُمْ قَدْ خَرَجْتَ لِأَمْرٍ وَلَا نَرَى أَنْ تَرْجِعَ عَنْهُ وَقَالَ بَعْضُهُمْ مَعَكَ بَقِيَّةُ النَّاسِ وَأَصْحَابُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَلَا نَرَى أَنْ تُقْدِمَهُمْ عَلَى هَذَا الْوَبَاءِ فَقَالَ ارْتَفِعُوا عَنِّي ثُمَّ قَالَ ادْعُ لِي الْأَنْصَارِ فَدَعَوْتُهُمْ لَهُ فَاسْتَشَارَهُمْ فَسَلَكُوا سَبِيلَ الْمُهَاجِرِينَ وَاخْتَلَفُوا كَاخْتِلَافِهِمْ فَقَالَ ارْتَفِعُوا عَنِّي ثُمَّ قَالَ ادْعُ لِي مَنْ كَانَ هَاهُنَا مِنْ مَشْيَخَةِ قُرَيْشٍ مِنْ مُهَاجِرَةِ الْفَتْحِ فَدَعَوْتُهُمْ فَلَمْ يَخْتَلِفْ عَلَيْهِ رَجُلَانِ فَقَالُوا نَرَى أَنْ تَرْجِعَ بِالنَّاسِ وَلَا تُقْدِمَهُمْ عَلَى هَذَا الْوَبَاءِ فَنَادَى عُمَرُ فِي النَّاسِ إِنِّي مُصْبِحٌ عَلَى ظَهْرٍ فَأَصْبِحُوا عَلَيْهِ فَقَالَ أَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ أَفِرَارًا مِنْ قَدَرِ اللَّهِ فَقَالَ عُمَرُ لَوْ غَيْرُكَ قَالَهَا يَا أَبَا عُبَيْدَةَ وَكَانَ عُمَرُ يَكْرَهُ خِلَافَهُ نَعَمْ نَفِرُّ مِنْ قَدَرِ اللَّهِ إِلَى قَدَرِ اللَّهِ أَرَأَيْتَ لَوْ كَانَتْ لَكَ إِبِلٌ فَهَبَطَتْ وَادِيًا لَهُ عُدْوَتَانِ إِحْدَاهُمَا خَصْبَةٌ وَالْأُخْرَى جَدْبَةٌ أَلَيْسَ إِنْ رَعَيْتَ الْخَصْبَةَ رَعَيْتَهَا بِقَدَرِ اللَّهِ وَإِنْ رَعَيْتَ الْجَدْبَةَ رَعَيْتَهَا بِقَدَرِ اللَّهِ قَالَ فَجَاءَ عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ وَكَانَ مُتَغَيِّبًا فِي بَعْضِ حَاجَتِهِ فَقَالَ إِنَّ عِنْدِي مِنْ هَذَا عِلْمًا سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ إِذَا سَمِعْتُمْ بِهِ بِأَرْضٍ فَلَا تَقْدَمُوا عَلَيْهِ وَإِذَا وَقَعَ بِأَرْضٍ وَأَنْتُمْ بِهَا فَلَا تَخْرُجُوا فِرَارًا مِنْهُ قَالَ فَحَمِدَ اللَّهَ عُمَرُ بْنُ الْخَطَّابِ ثُمَّ انْصَرَفَ و حَدَّثَنَا إِسْحَقُ بْنُ إِبْرَاهِيمَ وَمُحَمَّدُ بْنُ رَافِعٍ وَعَبْدُ بْنُ حُمَيْدٍ قَالَ ابْنُ رَافِعٍ حَدَّثَنَا و قَالَ الْآخَرَانِ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ أَخْبَرَنَا مَعْمَرٌ بِهَذَا الْإِسْنَادِ نَحْوَ حَدِيثِ مَالِكٍ وَزَادَ فِي حَدِيثِ مَعْمَرٍ قَالَ وَقَالَ لَهُ أَيْضًا أَرَأَيْتَ أَنَّهُ لَوْ رَعَى الْجَدْبَةَ وَتَرَكَ الْخَصْبَةَ أَكُنْتَ مُعَجِّزَهُ قَالَ نَعَمْ قَالَ فَسِرْ إِذًا قَالَ فَسَارَ حَتَّى أَتَى الْمَدِينَةَ فَقَالَ هَذَا الْمَحِلُّ أَوْ قَالَ هَذَا الْمَنْزِلُ إِنْ شَاءَ اللَّهُ و حَدَّثَنِيهِ أَبُو الطَّاهِرِ وَحَرْمَلَةُ بْنُ يَحْيَى قَالَا أَخْبَرَنَا ابْنُ وَهْبٍ أَخْبَرَنِي يُونُسُ عَنْ ابْنِ شِهَابٍ بِهَذَا الْإِسْنَادِ غَيْرَ أَنَّهُ قَالَ إِنَّ عَبْدَ اللَّهِ بْنَ الْحَارِثِ حَدَّثَهُ وَلَمْ يَقُلْ عَبْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13351,
+                "hadithNumber": "5788",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: There is no infection, no safar, no hama. A desert Arab said: Allah's Messenger, how is it that when the camel is in the sand it is like a deer-then a camel afflicted with scab mixes with it and it is affected by sub? He (the Holy Prophet) said: Who infected the first one?",
+                "hadithUrdu": "جب رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا : \" مرض کا کسی دوسرے کو چمٹنا ماہ صفر کی نحوست اور مقتول کی کھوپڑی سے الوکا نکلنا سب بے اصل ہیں تو ایک اعرا بی ( بدو ) نے کہا : تو پھر اونٹوں کا یہ حال کیوں ہو تا ہے کہ وہ صحرامیں ایسے پھر رہے ہوتے ہیں جیسے ہرن ( صحت مند چاق چوبند ) ، پھر ایک خارش زدہ اونٹ آتا ہے ، ان میں شامل ہو تا ہے ، اور ان سب کو خارش لگا دیتا ہے؟آپ صلی اللہ علیہ وسلم نے ارشاد فر ما یا : \" پہلے اونٹ کو کس نے بیماری لگا ئی تھی ؟",
+                "urduNarrator": "مجھ سے ابو الطاہر نے بیان کیا اور ہرملہ بن یحییٰ نے اور یہ لفظ ابو الطاہر کا ہے، کہا: ہم سے ابن وہب نے بیان کیا، یونس نے کہا ,  ابن شہاب نے کہا : مجھے ابو سلمہ بن عبد الرحمٰن نے حضرت ابو ہریرہ رضی اللہ عنہ سے حدیث بیان کی کہ",
+                "hadithArabic": "حَدَّثَنِي أَبُو الطَّاهِرِ، وَحَرْمَلَةُ بْنُ يَحْيَى - وَاللَّفْظُ لِأَبِي الطَّاهِرِ - قَالَا: أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، قَالَ: ابْنُ شِهَابٍ: فَحَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، حِينَ قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لَا عَدْوَى وَلَا صَفَرَ وَلَا هَامَةَ» فَقَالَ أَعْرَابِيٌّ: يَا رَسُولَ اللهِ فَمَا بَالُ الْإِبِلِ تَكُونُ فِي الرَّمْلِ كَأَنَّهَا الظِّبَاءُ، فَيَجِيءُ الْبَعِيرُ الْأَجْرَبُ فَيَدْخُلُ فِيهَا فَيُجْرِبُهَا كُلَّهَا؟ قَالَ: «فَمَنْ أَعْدَى الْأَوَّلَ؟».",
+                "headingArabic": "لا عدوى ولا طيرة ولا هامة ولا صفر،ولا نوء ولا غول، ولا يورد ممرض على مصح",
+                "headingUrdu": "کوئی عدویہ نہیں، کوئی طیارہ نہیں، حماہ نہیں۔ نہ صفر، نہ نوا، اور نہ غول، اور نہ بیمار اونٹ کو صحت مند اونٹ کے پاس لایا جائے۔",
+                "headingEnglish": "There Is No 'Adwa, No Tiyarah (Evil Omens), No Hamah. No Safar, No Nawa', And No Ghoul, And No Sick Camel Should Be Brought To A Healthy Camel",
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13352,
+                "hadithNumber": "5789",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: There is no transitive disease, no evil omen, no safar, no hama. A desert Arab said: O Allah's, Messenger.... The rest of the hadith is the same.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا : کسی سے کو ئی مرض خود بخود نہیں چمٹتا ، نہ بد فالی کی کو ئی حقیقت ہے نہ صفر کی نحوست کی اور نہ کھوپڑی سے الونکلنے کی ۔ \" تو ایک اعرابی کہنے لگا : یا رسول اللہ صلی اللہ علیہ وسلم ! ( آگے ) یو نس کی حدیث کی مانند ( ہے ۔ )",
+                "urduNarrator": "مجھ سے محمد بن حاتم اور حسن الحلوانی نے بیان کیا، کہا کہ ہم سے یعقوب نے جو ابراہیم بن سعد کے بیٹے ہیں، بیان کیا,صالح نے ابن شہاب سے روایت کی ، کہا : مجھے ابو سلمہ بن عبدالرحمٰن وغیرہ نے بتا یا کہ حضرت ابو ہریرہ رضی اللہ عنہ نے کہا",
+                "hadithArabic": "وحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، وَحَسَنٌ الْحُلْوَانِيُّ، قَالَا: حَدَّثَنَا يَعْقُوبُ وَهُوَ ابْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ، حَدَّثَنَا أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ وَغَيْرُهُ، أَنَّ أَبَا هُرَيْرَةَ، قَالَ: إِنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا عَدْوَى وَلَا طِيَرَةَ وَلَا صَفَرَ وَلَا هَامَةَ» فَقَالَ أَعْرَابِيٌّ: يَا رَسُولَ اللهِ بِمِثْلِ حَدِيثِ يُونُسَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13353,
+                "hadithNumber": "5790",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: There is no transitive disease. Thereupon a desert Arab stood up. The rest of the hadith is the same and in the hadith transmitted on the authority of Zuhri' the Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) is reported to have said: There is no transitive disease, no safar, no hama.",
+                "hadithUrdu": "نبی صلی اللہ علیہ وسلم نے فرما یا : کو ئی مرض کسی دوسرے کو خود بخود نہیں چمٹتا ۔ \" تو ایک اعرابی کھڑا ہو گیا ، پھر یونس اور صالح کی حدیث کی مانند بیان کیا اور شعیب سے روایت ہے ، انھوں نے زہری سے روایت کی ، کہا : مجھے سائب بن یزید بن اخت نمر نے حدیث سنا ئی کہ رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا : \" نہ کسی سے خود بخود مرض چمٹتا ہے نہ صفر کی نحوست کو ئی چیز ہے اور نہ کھوپڑی سے الو نکلنا ۔ \"",
+                "urduNarrator": "مجھ سے عبداللہ بن عبدالرحمٰن دارمی نے بیان کیا، کہا ہم سے ابوالیمان نے بیان کیا, شعیب نے زہری سے روایت کی ، کہا : مجھے سنان بن ابی سنان دؤلی نے بتایا کہ حضرت ابو ہریرہ رضی اللہ عنہ نے کہا",
+                "hadithArabic": "وحَدَّثَنِي عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ الدَّارِمِيُّ، أَخْبَرَنَا أَبُو الْيَمَانِ، عَنْ شُعَيْبٍ، عَنِ الزُّهْرِيِّ، أَخْبَرَنِي سِنَانُ بْنُ أَبِي سِنَانٍ الدُّؤَلِيُّ، أَنَّ أَبَا هُرَيْرَةَ، قَالَ: قَالَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لَا عَدْوَى» فَقَامَ أَعْرَابِيٌّ فَذَكَرَ بِمِثْلِ حَدِيثِ يُونُسَ، وَصَالِحٍ، وَعَنْ شُعَيْبٍ، عَنِ الزُّهْرِيِّ، قَالَ: حَدَّثَنِي السَّائِبُ بْنُ يَزِيدَ ابْنِ أُخْتِ نَمِرٍ أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا عَدْوَى وَلَا صَفَرَ وَلَا هَامَةَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13354,
+                "hadithNumber": "5791",
+                "englishNarrator": "Abu Salama bin 'Abdul-Rahman bin 'Auf رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying: There is no transitive disease, but he is also reported to have said: A sick person should not be taken to one who is healthy. Abu Salama said that Abu Huraira رضی اللہ عنہ used to narrate these two (different ahadith) from Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), but afterwards Abu Huraira رضی اللہ عنہ became silent on these words: There is no transitive disease, but he stuck to this that the sick person should not be taken to one who is healthy. Harith bin Abu Dhubab (and he was the first cousin of Abu Huraira رضی اللہ عنہ ) said: Abu Huraira رضی اللہ عنہ , I used to hear from you that you narrated to us along with this hadith and the other one also (there is no transitive disease), but now you observe silence about it. You used to say that Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: There is no transitive disease. Abu Huraira رضی اللہ عنہ denied having any knowledge of that, but he said that the sick camel should not be taken to the healthy one. Harith, however, did not agree with him, which irritated Abu Huraira رضی اللہ عنہ and he said to him some words in the Abyssinian language. He said to Harith: Do you know what I said to you? He said: No. Abu Huraira رضی اللہ عنہ said: I simply denied having said it. Abu Salama sad: By my life, Abu Huraira رضی اللہ عنہ in fact used to report Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) having said: There is no transitive disease. I do not know whether Abu Huraira رضی اللہ عنہ has forgotten it or he deemed it an abrogated statement in the light of the other one.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا : \"\" کسی سے کو ئی مرض خود بخود نہیں چمٹتااور وہ حدیث بیان کرتے تھے کہ رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا : \"\" بیمار اونٹوں والا صحت مند اونٹوں والے ( چرواہے ) کے پاس اونٹ نہ لے جا ئے ۔ \"\" ابو سلمہ نے کہا کہ حضرت ابوہریرہ رضی اللہ عنہ دونوں حدیثیں رسول اللہ صلی اللہ علیہ وسلم سے بیان کیا کرتے تھے ، پھر ابوہریرہ رضی اللہ عنہ \"\" لاعدوي \"\" والی حدیث بیان کرنے سے رک گئے اور \"\" بیمار اونٹوں والا صحت مند اونٹوں والے کے پاس ( اونٹ ) نہ لا ئے ۔ \"\" والی حدیث پر قائم رہے ۔ تو حارث بن ابی ذباب نے ۔ وہ ابو ہریرہ رضی اللہ تعالیٰ عنہ کے چچا کے بیٹے تھے ۔ ۔ کہا : ابوہریرہ رضی اللہ تعالیٰ عنہ !میں تم سے سنا کرتا تھا ، تم اس کے ساتھ ایک اور حدیث بیان کرتے تھے جسے بیان کرنے سے اب تم خاموش ہو گئے ۔ ہو ۔ تم کہا کرتے تھے : رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا : \"\" کسی سے مرض خود بخود نہیں چمٹتا \"\" تو ابو ہریرہ رضی اللہ تعالیٰ عنہ نے اس حدیث کو پہناننے سے انکا ر کر دیا اور یہ حدیث بیان کی ۔ \"\" بیمار اونٹوں والا صحت مند اونٹوں والے کے پاس ( اونٹ ) نہ لا ئے ۔ \"\" اس پر حارث نے اس معاملے میں ان کے ساتھ تکرار کی حتی کہ ابو ہریرہ رضی اللہ تعالیٰ عنہ غصے میں آگئے اور حبشی زبان میں ان کو نہ سمجھ میں آنے والی کو ئی بات کہی ، پھر حارث سے کہا : تمھیں پتہ چلا ہے کہ میں نے تم سے کیا کہا ہے؟ انھوں نے کہا : نہیں ۔ ابو ہریرہ رضی اللہ تعالیٰ عنہ نے کہا تھا : میں ( اس سے ) انکا ر کرتا ہوں ۔ ابو سلمہ نے کہا : مجھے اپنی زند گی کی قسم!ابو ہریرہ رضی اللہ تعالیٰ عنہ ہمیں یہ حدیث سنایا کرتے تھے ۔ \"\" لاعدوي ( کسی سے خود بخود کو ئی بیماری نہیں لگتی ) مجھے معلوم نہیں کہ ابو ہریرہ رضی اللہ تعالیٰ عنہ بھول گئے ہیں یا ایک بات نے دوسری کو منسوخ کردیا ہے ۔",
+                "urduNarrator": "مجھ سے ابو الطاہر اور حرملہ نے بیان کیا - اور وہ الفاظ میں ایک جیسے تھے - انہوں نے کہا: ہم سے ابن وہب نے بیان کیا, یو نس نے ابن شہاب سے روایت کی ، کہ ابوسلمہ بن عبد الرحمٰن بن عوف رضی اللہ عنہ نے انھیں حدیث بیان کی کہ",
+                "hadithArabic": "وحَدَّثَنِي أَبُو الطَّاهِرِ، وَحَرْمَلَةُ - وَتَقَارَبَا فِي اللَّفْظِ - قَالَا: أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَنَّ أَبَا سَلَمَةَ بْنَ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، حَدَّثَهُ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا عَدْوَى» وَيُحَدِّثُ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا يُورِدُ مُمْرِضٌ عَلَى مُصِحٍّ» قَالَ أَبُو سَلَمَةَ: كَانَ أَبُو هُرَيْرَةَ يُحَدِّثُهُمَا كِلْتَيْهِمَا عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، ثُمَّ صَمَتَ أَبُو هُرَيْرَةَ بَعْدَ ذَلِكَ عَنْ قَوْلِهِ «لَا عَدْوَى» وَأَقَامَ عَلَى أَنْ «لَا يُورِدُ مُمْرِضٌ عَلَى مُصِحٍّ» قَالَ: فَقَالَ الْحَارِثُ بْنُ أَبِي ذُبَابٍ وَهُوَ ابْنُ عَمِّ أَبِي هُرَيْرَةَ: قَدْ كُنْتُ أَسْمَعُكَ، يَا أَبَا هُرَيْرَةَ تُحَدِّثُنَا مَعَ هَذَا الْحَدِيثِ حَدِيثًا آخَرَ، قَدْ سَكَتَّ عَنْهُ، كُنْتَ تَقُولُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لَا عَدْوَى» فَأَبَى أَبُو هُرَيْرَةَ أَنْ يَعْرِفَ ذَلِكَ، وَقَالَ: «لَا يُورِدُ مُمْرِضٌ عَلَى مُصِحٍّ» فَمَا رَآهُ الْحَارِثُ فِي ذَلِكَ حَتَّى غَضِبَ أَبُو هُرَيْرَةَ فَرَطَنَ بِالْحَبَشِيَّةِ، فَقَالَ لِلْحَارِثِ: أَتَدْرِي مَاذَا قُلْتُ؟ قَالَ: لَا، قَالَ أَبُو هُرَيْرَةَ: قُلْتُ أَبَيْتُ قَالَ أَبُو سَلَمَةَ: وَلَعَمْرِي لَقَدْ كَانَ أَبُو هُرَيْرَةَ، يُحَدِّثُنَا، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا عَدْوَى» فَلَا أَدْرِي أَنَسِيَ أَبُو هُرَيْرَةَ، أَوْ نَسَخَ أَحَدُ الْقَوْلَيْنِ الْآخَرَ؟",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13355,
+                "hadithNumber": "5792",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: There is no transitive disease and he also reported along with it: The ill should not be taken to the healthy.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا : \" کو ئی مرض خود بخود دوسرے کو نہیں لگ جا تا ۔ اور اس کے ساتھ یہ بیان کرتے \" بیمار اونٹوں والا ( اپنے اونٹ ) صحت مند اونٹوں والے کے پاس نہ لا ئے ۔ \" یو نس کی حدیث کے مانند ۔",
+                "urduNarrator": "مجھ سے محمد بن حاتم، حسن الحلوانی اور عبد بن حمید نے بیان کیا - عبد نے کہا: اس نے مجھ سے بیان کیا اور باقی دو نے کہا - ہم سے یعقوب نے بیان کیا، یعنی ابن نے۔ میرے والد ابراہیم بن سعد نے مجھ سے کہا, صالح نے ابن شہاب سے روایت کی ، کہا : مجھے ابو سلمہ بن عبدالرحمٰن نے بتایا : انھوں نے حضرت ابو ہریرہ رضی اللہ عنہ کو حدیث بیان کرتے ہوئے سنا کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، وَحَسَنٌ الْحُلْوَانِيُّ، وَعَبْدُ بْنُ حُمَيْدٍ - قَالَ عَبْدٌ: حَدَّثَنِي، وقَالَ الْآخَرَانِ - حَدَّثَنَا يَعْقُوبُ يَعْنُونَ ابْنَ إِبْرَاهِيمَ بْنِ سَعْدٍ، حَدَّثَنِي أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ يُحَدِّثُ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا عَدْوَى» وَيُحَدِّثُ مَعَ ذَلِكَ «لَا يُورِدُ الْمُمْرِضُ عَلَى الْمُصِحِّ» بِمِثْلِ حَدِيثِ يُونُسَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13356,
+                "hadithNumber": "5793",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been reported on the authority of Zuhri with the same chain of transmitters.",
+                "hadithUrdu": "ہم سے عبداللہ بن عبدالرحمٰن دارمی نے بیان کیا، کہا ہم سے ابو الیمان نے بیان کیا, شعیب نے زہری سے اسی سند کے ساتھ اسی کے مانند روایت کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَاهُ عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ الدَّارِمِيُّ، أَخْبَرَنَا أَبُو الْيَمَانِ، حَدَّثَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، بِهَذَا الْإِسْنَادِ نَحْوَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13357,
+                "hadithNumber": "5794",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: There is no transitive disease, no huma, no star promising rain, no safar.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا : : کسی سے خود بخود مرض کا لگ جانا کھوپڑی سے الوکانکلنا ، ستارے کے غائب ہو نے اور طلوع ہو نے سے بارش برسنا اور صفر ( کی نحوست ) کی کو ئی حقیقت نہیں ۔ \"",
+                "urduNarrator": "ہم سے یحییٰ بن ایوب، قتیبہ اور ابن حجر نے بیان کیا، انہوں نے کہا: ہم سے اسماعیل نے بیان کیا، یعنی ابن جعفر نے, علاء کے والد ( عبد الرحمٰن ) نے حضرت ابو ہریرہ رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ، وَابْنُ حُجْرٍ، قَالُوا: حَدَّثَنَا إِسْمَاعِيلُ يَعْنُونَ ابْنَ جَعْفَرٍ، عَنِ الْعَلَاءِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا عَدْوَى وَلَا هَامَةَ وَلَا نَوْءَ وَلَا صَفَرَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13358,
+                "hadithNumber": "5795",
+                "englishNarrator": "Jabir رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying: There is no transitive disease, no ill omen, no ghoul.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرما یا : \" کسی سے کو ئی مرض لا زمی طور پر نہیں چمٹ جا تا ۔ نہ بد شگونی کو ئی چیز ہے ، نہ چھلا وے ( غول بیا بانی ) کی کو ئی حقیقت ہے ۔ \"",
+                "urduNarrator": "ہم سے احمد بن یونس نے بیان کیا، ہم سے زہیر نے بیان کیا، ہم سے ابو الزبیر نے جابر رضی اللہ عنہ سے اور ہم سے یحییٰ بن یحییٰ نے بیان کیا، ابو خیثمہ ( زہیر ) نے ابو زبیر سے ، انھوں نے حضرت جابر رضی اللہ عنہ سے روایت کی کہا",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا أَبُو الزُّبَيْرِ، عَنْ جَابِرٍ، وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا أَبُو خَيْثَمَةَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لَا عَدْوَى، وَلَا طِيَرَةَ، وَلَا غُولَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13359,
+                "hadithNumber": "5796",
+                "englishNarrator": "Jabir رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying: There is no transitive disease, no ghoul, no safar.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا : \" کسی سے کو ئی مرض خود بخود نہیں چمٹتا ، نہ چھلا وا کوئی چیز ہے ، نہ صفر کی ( نحوست ) کو ئی حقیقت ہے ۔ \"",
+                "urduNarrator": "مجھ سے عبداللہ بن ہاشم بن حیان نے بیان کیا، انہوں نے ہم سے اس کے متعلق بیان کیا, یزید تستری نے کہا : ہمیں ابو زبیر نے حضرت جا بر رضی اللہ عنہ سے روایت کی کہا",
+                "hadithArabic": "وحَدَّثَنِي عَبْدُ اللهِ بْنُ هَاشِمِ بْنِ حَيَّانَ، حَدَّثَنَا بَهْزٌ، حَدَّثَنَا يَزِيدُ وَهُوَ التُّسْتَرِيُّ، حَدَّثَنَا أَبُو الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لَا عَدْوَى، وَلَا غُولَ، وَلَا صَفَرَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13360,
+                "hadithNumber": "5797",
+                "englishNarrator": "Jabir bin 'Abdullah رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: There is no transitive disease, no safar, no ghoul. He (the narrator) said: I heard Abu Zubair say: Jabir رضی اللہ عنہ explained for them the word safar. Abu Zubair said: safar means belly. It was said to Jabir رضی اللہ عنہ : Why is it so? He said that it was held that safar implied the worms of the belly, but he gave no explanation of ghoul. Abu Zubair said: Ghoul is that which kills the travellers.",
+                "hadithUrdu": "نبی صلی اللہ علیہ وسلم کو یہ فر ما تے ہو ئے سنا ہے : \" کسی سے کو ئی مرض خود بخود نہیں لگ جا تا ، نہ صفر ( کی نحوست ) اور چھلاوا کو ئی چیز ہے ۔ ( ابن جریج نے کہا : ) میں نے ابو زبیر کو یہ ذکر کرتے ہو ئے سنا کہ حضرت جابر رضی اللہ عنہ نے ان کے سامنے آپ صلی اللہ علیہ وسلم کے فرمان \" ( وَلَا صَفَر ) کی وضاحت کی ، ابو زبیر نے کہا : صفر پیٹ ( کی بیماری ) ہے ۔ حضرت جا بر رضی اللہ عنہ سے پوچھا گیا : کیسے ؟انھوں نے کہا : کہا جا تا تھا کہ اس سے پیٹ کے اندربننے والے جانور مراد ہیں ۔ کہا : انھوں نے غول کی تشریح نہیں کی ، البتہ ابو زبیر نے کہا : یہ غول ( وہی ہے جس کے بارے میں کہا جا تا ہے ) جو رنگ بدلتا ہے ( اور مسافروں کو راستے سے بھٹکا کر مارڈالتا ہے ۔ )",
+                "urduNarrator": "مجھ سے محمد بن حاتم نے بیان کیا، کہا ہم سے روح بن عبادہ نے بیان کیا, ابن جریج نے کہا ,  مجھے ابو زبیر نے بتا یا کہ انھوں نے جابر بن عبد اللہ رضی اللہ عنہ کو کہتے ہو ئے سنا ، میں نے",
+                "hadithArabic": "وحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللهِ، يَقُولُ: سَمِعْتُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «لَا عَدْوَى وَلَا صَفَرَ، وَلَا غُولَ» وَسَمِعْتُ أَبَا الزُّبَيْرِ يَذْكُرُ، أَنَّ جَابِرًا فَسَّرَ لَهُمْ قَوْلَهُ: «وَلَا صَفَرَ»، فَقَالَ أَبُو الزُّبَيْرِ: الصَّفَرُ: الْبَطْنُ، فَقِيلَ لِجَابِرٍ: كَيْفَ؟ قَالَ: كَانَ يُقَالُ دَوَابُّ الْبَطْنِ، قَالَ وَلَمْ يُفَسِّرِ الْغُولَ، قَالَ أَبُو الزُّبَيْرِ: هَذِهِ الْغُولُ: الَّتِي تَغَوَّلُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13361,
+                "hadithNumber": "5798",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "I heard Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: There is no divination but the best type is the good omen. It was said to Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌): What is good omen? Thereupon he said: A good word which one of you hears.",
+                "hadithUrdu": "میں نے نبی صلی اللہ علیہ وسلم کو فرماتے ہو ئے سنا : \" بد شگونی کی کو ئی حقیقت نہیں اور شگون میں سے اچھی نیک فال ہے ۔ \" عرض کی گئی ۔ اللہ کے رسول صلی اللہ علیہ وسلم !فال کیا ہے ؟ ( وہ شگون سے کس طرح مختلف ہے؟ ) آپ صلی اللہ علیہ وسلم نے فر ما یا : \" ( فال ) نیک کلمہ ہے تو تم میں سے کوئی شخص سنتا ہےَ ۔ \"",
+                "urduNarrator": "ہم سے عبد بن حمید نے بیان کیا، کہا ہم سے عبدالرزاق نے بیان کیا, معمر نے زہری سے ، انھوں نے عبید اللہ بن عبد اللہ بن عتبہ سے روایت کی کہ حضرت ابو ہریرہ رضی اللہ عنہ نے کہا",
+                "hadithArabic": "وَحَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللهِ بْنِ عَبْدِ اللهِ بْنِ عُتْبَةَ، أَنَّ أَبَا هُرَيْرَةَ، قَالَ: سَمِعْتُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «لَا طِيَرَةَ وَخَيْرُهَا الْفَأْلُ» قِيلَ: يَا رَسُولَ اللهِ وَمَا الْفَأْلُ؟ قَالَ: «الْكَلِمَةُ الصَّالِحَةُ يَسْمَعُهَا أَحَدُكُمْ».",
+                "headingArabic": "الطِّيَرَةِ وَالْفَأْلِ وَمَا يَكُونُ فِيهِ الشُّؤْمُ ‏‏",
+                "headingUrdu": "(برائی) شگون اور الفضل، اور جو کہ ناشائستہ سمجھا جا سکتا ہے",
+                "headingEnglish": "(Evil) Omens And Al-Fa'l, And That Which May Be Regarded As Inauspicious",
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13362,
+                "hadithNumber": "5799",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Zuhri with the same chain of transmitters but with a slight variation of wording.",
+                "hadithUrdu": "مجھ سے عبد الملک بن شعیب بن لیث نے بیان کیا، میرے والد نے مجھ سے میرے دادا کی سند سے بیان کیا, عقیل بن خالد اور شعیب دونوں نے زہری سے اسی سند کے ساتھ اسی کے مانند روایت کی ۔ عقیل کی حدیث میں ہے کہ رسول اللہ صلی اللہ علیہ وسلم سے روایت ہے ، انھوں نے \" میں نے سنا \" کے الفا ظ نہیں کہے اور شعیب کی حدیث میں ہے ۔ انھوں نے کہا : \" میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ۔ \" جس طرح معمر نے کہا ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنِي عَبْدُ الْمَلِكِ بْنُ شُعَيْبِ بْنِ اللَّيْثِ، حَدَّثَنِي أَبِي، عَنْ جَدِّي، حَدَّثَنِي عُقَيْلُ بْنُ خَالِدٍ، وحَدَّثَنِيهِ عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ الدَّارِمِيُّ، أَخْبَرَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، كِلَاهُمَا عَنِ الزُّهْرِيِّ، بِهَذَا الْإِسْنَادِ، مِثْلَهُ. وَفِي حَدِيثِ عُقَيْلٍ: عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَلَمْ يَقُلْ: سَمِعْتُ وَفِي حَدِيثِ شُعَيْبٍ: قَالَ: سَمِعْتُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، كَمَا قَالَ: مَعْمَرٌ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 13363,
+                "hadithNumber": "5800",
+                "englishNarrator": "Anas رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: There is no transitive disease, no divination, but good omen pleases me, i.e. the good word or a good word.",
+                "hadithUrdu": "نبی صلی اللہ علیہ وسلم نے فر ما یا : \" کسی سے کو ئی مرض خود بخود نہیں لگتا برے شگون کی کو ئی حقیقت نہیں اور ( اس کے بالمقابل ) نیک فال یعنی حوصلہ افزائی کا اچھا کلمہ پاکیزہ بات مجھے اچھی لگتی ہے ۔ \"",
+                "urduNarrator": "ہم سے حداب بن خالد نے بیان کیا, ہمام بن یحییٰ نے کہا ,  ہمیں قتادہ نے حضرت انس رضی اللہ عنہ سے حدیث بیان کی کہ",
+                "hadithArabic": "حَدَّثَنَا هَدَّابُ بْنُ خَالِدٍ، حَدَّثَنَا هَمَّامُ بْنُ يَحْيَى، حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ، أَنَّ نَبِيَّ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: لَا عَدْوَى، وَلَا طِيَرَةَ، وَيُعْجِبُنِي الْفَأْلُ: الْكَلِمَةُ الْحَسَنَةُ، الْكَلِمَةُ الطَّيِّبَةُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "40",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 140,
+                    "chapterNumber": "40",
+                    "chapterEnglish": "The Book of Greetings",
+                    "chapterUrdu": "سلامتی اور صحت کا بیان",
+                    "chapterArabic": "كتاب السَّلَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 13051,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=522",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=520",
+                "label": "520",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=521",
+                "label": "521",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=522",
+                "label": "522",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=523",
+                "label": "523",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=524",
+                "label": "524",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=525",
+                "label": "525",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=526",
+                "label": "526",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=524",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=524",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=522",
+        "to": 13075,
+        "total": 40465
+    }
+}

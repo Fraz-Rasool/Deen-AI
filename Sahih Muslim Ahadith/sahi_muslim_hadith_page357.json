@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 357,
+        "data": [
+            {
+                "id": 9189,
+                "hadithNumber": "1625",
+                "englishNarrator": "Anas bin Malik رضی اللہ عنہ reported:",
+                "hadithEnglish": "When the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) set out on a journey before the sun declined (from the meridian), he delayed the noon prayer till the afternoon prayer, and then dismounted (his ride) and combined them (noon and afternoon prayers), but if the sun had declined before his setting out on a journey, he observed the noon prayer and then mounted (the ride).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم جب سورج ڈھلنے سے پہلے کوچ کرتے تو ظہر کو اس وقت تک موخر فرماتے کہ عصر کا وقت ہوجاتا ، پھر آپ ( سواری سے ) اترتے ، دونوں نمازوں کوجمع کرتے ، اور اگر آپ کے کوچ کرنے سے پہلے سورج ڈھل جاتا تو ظہر پڑھ کر سوار ہوتے ۔",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا, مفضل بن فضالہ نے عقیل سے ، انھوں نے ابن شہاب سے اور انھوں نے حضرت انس بن مالک رضی اللہ عنہ سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "و حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ حَدَّثَنَا الْمُفَضَّلُ يَعْنِي ابْنَ فَضَالَةَ عَنْ عُقَيْلٍ عَنْ ابْنِ شِهَابٍ عَنْ أَنَسِ بْنِ مَالِكٍ قَالَ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا ارْتَحَلَ قَبْلَ أَنْ تَزِيغَ الشَّمْسُ أَخَّرَ الظُّهْرَ إِلَى وَقْتِ الْعَصْرِ ثُمَّ نَزَلَ فَجَمَعَ بَيْنَهُمَا فَإِنْ زَاغَتْ الشَّمْسُ قَبْلَ أَنْ يَرْتَحِلَ صَلَّى الظُّهْرَ ثُمَّ رَكِبَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9190,
+                "hadithNumber": "1626",
+                "englishNarrator": "Anas رضی اللہ عنہ reported:",
+                "hadithEnglish": "When the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) intended to combine two prayers on a journey, he delayed the noon prayer till came the early time of the afternoon prayer, and then combined the two.",
+                "hadithUrdu": "ر سول اللہ صلی اللہ علیہ وسلم سفر میں جب دو نمازوں کو جمع کرنا چاہتے توظہر کو موخر کرتے حتیٰ کہ عصر کا اول وقت ہوجاتا ، پھر آپ دونوں نمازوں کو جمع کرتے ۔",
+                "urduNarrator": "مجھ سے عمرو ناقد نے بیان کیا، کہا ہم سے شبابہ بن سوار مدنی نے بیان کیا، کہا ہم سے لیث بن سعد نے بیان کیا، ان سے عقیل بن خالد نے بیان کیا، وہ زہری سے، انہوں نے انس رضی اللہ عنہ سے کہا",
+                "hadithArabic": "و حَدَّثَنِي عَمْرٌو النَّاقِدُ حَدَّثَنَا شَبَابَةُ بْنُ سَوَّارٍ الْمَدَايِنِيُّ حَدَّثَنَا لَيْثُ بْنُ سَعْدٍ عَنْ عُقَيْلِ بْنِ خَالِدٍ عَنْ الزُّهْرِيِّ عَنْ أَنَسٍ قَالَ كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا أَرَادَ أَنْ يَجْمَعَ بَيْنَ الصَّلَاتَيْنِ فِي السَّفَرِ أَخَّرَ الظُّهْرَ حَتَّى يَدْخُلَ أَوَّلُ وَقْتِ الْعَصْرِ ثُمَّ يَجْمَعُ بَيْنَهُمَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9191,
+                "hadithNumber": "1627",
+                "englishNarrator": "Anas reported:",
+                "hadithEnglish": "When the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) had to set out on a journey hurriedly, he delayed the noon prayer to the earlier time for the afternoon prayer, and then he would combine them, and he would delay the sunset prayer to the time when the twilight would disappear and then combine it with the 'Isha' prayer.",
+                "hadithUrdu": "نبی اکرم صلی اللہ علیہ وسلم کو جب سفر میں جلدی ہوتی تو ظہر کو عصر کے اول وقت تک موخر کردیتے ، پھر دونوں کو جمع کرلیتے اور مغرب کو موخر کرتے اور عشاء کے ساتھ اکٹھا کرکے پڑھتے جب شفق غائب ہوجاتی ۔",
+                "urduNarrator": "مجھ سے ابو الطاہر اور عمرو بن سواد نے بیان کیا، کہا کہ ہم سے ابن وہب نے بیان کیا، انہوں نے مجھ سے بیان کیا,جابر بن اسماعیل نے بھی عقیل بن خالد رضی اللہ عنہ سے، ابن شہاب رضی اللہ عنہ نے انس رضی اللہ عنہ سے بیان کیا",
+                "hadithArabic": "و حَدَّثَنِي أَبُو الطَّاهِرِ وَعَمْرُو بْنُ سَوَّادٍ قَالَا أَخْبَرَنَا ابْنُ وَهْبٍ حَدَّثَنِي جَابِرُ بْنُ إِسْمَعِيلَ عَنْ عُقَيْلٍ عَنْ ابْنِ شِهَابٍ عَنْ أَنَسٍ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا عَجِلَ عَلَيْهِ السَّفَرُ يُؤَخِّرُ الظُّهْرَ إِلَى أَوَّلِ وَقْتِ الْعَصْرِ فَيَجْمَعُ بَيْنَهُمَا وَيُؤَخِّرُ الْمَغْرِبَ حَتَّى يَجْمَعَ بَيْنَهَا وَبَيْنَ الْعِشَاءِ حِينَ يَغِيبُ الشَّفَقُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9192,
+                "hadithNumber": "1628",
+                "englishNarrator": "Ibn 'Abbas رضی اللہ عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) observed the noon and afternoon prayers together, and the sunset and Isha' prayers together without being in a state of fear or in a state of journey.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ظہر اور عصر کو اکھٹا پڑھا اور مغرب اور عشاء کو اکھٹا پڑھا کسی خوف اور سفر کے بغیر ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، کہا: میں نے پڑھاامام مالک ؒ نے ابو زبیر سے ، انھوں نے سعید بن جبیر سے اور انھوں نے حضرت ابن عباس رضی اللہ عنہ سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ أَبِي الزُّبَيْرِ عَنْ سَعِيدِ بْنِ جُبَيْرٍ عَنْ ابْنِ عَبَّاسٍ قَالَ صَلَّى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الظُّهْرَ وَالْعَصْرَ جَمِيعًا وَالْمَغْرِبَ وَالْعِشَاءَ جَمِيعًا فِي غَيْرِ خَوْفٍ وَلَا سَفَرٍ.",
+                "headingArabic": "الْجَمْعِ بَيْنَ الصَّلاَتَيْنِ فِي الْحَضَرِ ‏",
+                "headingUrdu": "سفر نہ کرتے وقت دو نمازوں میں شامل ہونا",
+                "headingEnglish": "Joining two prayers when not traveling",
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9193,
+                "hadithNumber": "1629",
+                "englishNarrator": "Ibn 'Abbas رضی اللہ  عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) observed the noon and afternoon prayers together in Medina without being in a state of fear or in a state of journey. (Abu Zubair said: I asked Sa'id [one of the narrators] why he did that. He said: I asked Ibn 'Abbas رضی اللہ  عنہ as you have asked me, and he replied that he [the Holy Prophet] wanted that no one among his Ummah should be put to [unnecessary] hardship.)",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ظہر اور عصر کو مدینہ میں کسی خوف اور سفر کے بغیر جمع کرکے پڑھا ۔ ابوزبیر نے کہا : میں نے ( ابن عباس رضی اللہ تعالیٰ عنہ کے شاگرد ) سعید سے پوچھا : آپ صلی اللہ علیہ وسلم ؤ نے ایسا کیوں کیاتھا؟انھوں نےجواب دیا : میں بھی حضرت ابن عباس رضی اللہ عنہ سے سوا ل کیاتھا جیسے تم نے مجھ سے سوال کیا ہے تو انھوں نے کہا : آپ نے چاہا کہ اپنی امت کےکسی فرد کو تنگی اور دشواری میں نہ ڈالیں ۔",
+                "urduNarrator": "ہمیں احمد بن یونس اور عون بن سلام نے بیان کیا,زہیر نے کہا : ہمیں ابو زبیر نے سعید بن جبیر سے حدیث سنائی ، انھوں نے حضرت ابن عباس رضی اللہ  عنہ سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "و حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ وَعَوْنُ بْنُ سَلَّامٍ جَمِيعًا عَنْ زُهَيْرٍ قَالَ ابْنُ يُونُسَ حَدَّثَنَا زُهَيْرٌ حَدَّثَنَا أَبُو الزُّبَيْرِ عَنْ سَعِيدِ بْنِ جُبَيْرٍ عَنْ ابْنِ عَبَّاسٍ قَالَ صَلَّى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الظُّهْرَ وَالْعَصْرَ جَمِيعًا بِالْمَدِينَةِ فِي غَيْرِ خَوْفٍ وَلَا سَفَرٍ قَالَ أَبُو الزُّبَيْرِ فَسَأَلْتُ سَعِيدًا لِمَ فَعَلَ ذَلِكَ فَقَالَ سَأَلْتُ ابْنَ عَبَّاسٍ كَمَا سَأَلْتَنِي فَقَالَ أَرَادَ أَنْ لَا يُحْرِجَ أَحَدًا مِنْ أُمَّتِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9194,
+                "hadithNumber": "1630",
+                "englishNarrator": "Ibn 'Abbas رضی اللہ عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) combined the prayers as he set on a journey in the expedition to Tabuk. He combined the noon prayer with the afternoon prayer and the sunset prayer with the 'Isha' prayer. Sa'id (one of the rawis) said to Ibn 'Abbas رضی اللہ عنہ : What prompted him to do this? He said: He wanted that his Ummah should not be put to (unnecessary) hardship.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے غزوہ تبوک کے دوران ایک سفر میں نمازوں کو جمع کیا ، ظہراورعصر کو اکھٹا پڑھا اور مغرب اور عشاء کو اکھٹا پڑھا ۔ سعید نے کہا میں نے ابن عباس رضی اللہ عنہ سے پوچھا : آپ صلی اللہ علیہ وسلم نے ایسا کیوں کیا تھا؟انھوں نے کہا : آپ نے چاہا اپنی امت کو حرج ( اور تنگی ) میں نہ ڈالیں ۔",
+                "urduNarrator": "ہم سے یحییٰ بن حبیب الحارث نے بیان کیا، ہم سے خالد نے بیان کیا، ہم سے ابن الحارث نے بیان کیا، ہم سے قرہ نے بیان کیا، ہم سے ابو الزبیر نے بیان کیا، ہم سے سعید بن جبیر نے بیان کیا، ہم سے ابن عباس نے بیان کیا",
+                "hadithArabic": "و حَدَّثَنَا يَحْيَى بْنُ حَبِيبٍ الْحَارِثِيُّ حَدَّثَنَا خَالِدٌ يَعْنِي ابْنَ الْحَارِثِ حَدَّثَنَا قُرَّةُ حَدَّثَنَا أَبُو الزُّبَيْرِ حَدَّثَنَا سَعِيدُ بْنُ جُبَيْرٍ حَدَّثَنَا ابْنُ عَبَّاسٍ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ جَمَعَ بَيْنَ الصَّلَاةِ فِي سَفْرَةٍ سَافَرَهَا فِي غَزْوَةِ تَبُوكَ فَجَمَعَ بَيْنَ الظُّهْرِ وَالْعَصْرِ وَالْمَغْرِبِ وَالْعِشَاءِ قَالَ سَعِيدٌ فَقُلْتُ لِابْنِ عَبَّاسٍ مَا حَمَلَهُ عَلَى ذَلِكَ قَالَ أَرَادَ أَنْ لَا يُحْرِجَ أُمَّتَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9195,
+                "hadithNumber": "1631",
+                "englishNarrator": "Mu'adh رضی اللہ عنہ reported:",
+                "hadithEnglish": "We set out with the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) on the Tabuk expedition, and he observed the noon and afternoon prayers together and the sunset and 'Isha' prayers together.",
+                "hadithUrdu": "ہم غزوہ تبوک میں رسول اللہ صلی اللہ علیہ وسلم کے ساتھ نکلے تو ( اس دوران میں ) آپ ظہر اور عصر اکھٹی پڑھتے رہے اور مغرب اور عشاء کو جمع کرتے رہے ۔",
+                "urduNarrator": "ہم سے احمد بن عبداللہ بن یونس نے بیان کیا, زہیر نے کہا : ہمیں ابو زبیر نے ابو طفیل عامر سے حدیث سنائی اور انھوں نے حضرت معاذ رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ بْنِ يُونُسَ حَدَّثَنَا زُهَيْرٌ حَدَّثَنَا أَبُو الزُّبَيْرِ عَنْ أَبِي الطُّفَيْلِ عَامِرٍ عَنْ مُعَاذٍ قَالَ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي غَزْوَةِ تَبُوكَ فَكَانَ يُصَلِّي الظُّهْرَ وَالْعَصْرَ جَمِيعًا وَالْمَغْرِبَ وَالْعِشَاءَ جَمِيعًا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9196,
+                "hadithNumber": "1632",
+                "englishNarrator": "Mu'adh bin Jabal رضی اللہ عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) combined in the expedition to Tabuk the noon prayer with the afternoon prayer and the sunset prayer with the 'Isha' prayer. He (one of the narrators) said: What prompted him to do that? He (Mu'adh رضی اللہ عنہ ) replied that he (the Holy Prophet) wanted that his Ummah should not be put to (unnecessary) hardship.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے غزوہ تبوک میں ظہر ، عصر کو اور مغرب ، عشاء کو جمع کیا ۔ ( عامر بن واثلہ نے ) کہا : میں نے ( حضرت معاذ رضی اللہ عنہ سے ) پوچھا : آپ نے ایسا کیوں کیا؟تو انھوں نے کہا : آپ نے چاہا کہ اپنی امت کو دشواری میں نہ ڈالیں ۔",
+                "urduNarrator": "ہم سے یحییٰ بن حبیب نے بیان کیا، کہا ہم سے خالد، یعنی ابن حارث نے بیان کیا, قرہ بن خالد نے کہا : ہمیں ابو زبیر نے حدیث بیا ن کی ، کہا : ہمیں عامر بن واثلہ ابو طفیل نے حدیث بیا ن کی ، کہا : ہمیں حضرت معاذ بن جبل رضی اللہ عنہ نے حدیث بیان کی ، انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ حَبِيبٍ حَدَّثَنَا خَالِدٌ يَعْنِي ابْنَ الْحَارِثِ حَدَّثَنَا قُرَّةُ بْنُ خَالِدٍ حَدَّثَنَا أَبُو الزُّبَيْرِ حَدَّثَنَا عَامِرُ بْنُ وَاثِلَةَ أَبُو الطُّفَيْلِ حَدَّثَنَا مُعَاذُ بْنُ جَبَلٍ قَالَ جَمَعَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي غَزْوَةِ تَبُوكَ بَيْنَ الظُّهْرِ وَالْعَصْرِ وَبَيْنَ الْمَغْرِبِ وَالْعِشَاءِ قَالَ فَقُلْتُ مَا حَمَلَهُ عَلَى ذَلِكَ قَالَ فَقَالَ أَرَادَ أَنْ لَا يُحْرِجَ أُمَّتَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9197,
+                "hadithNumber": "1633",
+                "englishNarrator": "Ibn 'Abbas رضی اللہ عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) combined the noon prayer with the afternoon prayer and the sunset prayer with the 'Isha' prayer in Medina without being in a state of danger or rainfall. And in the hadith transmitted by Waki' (the words are): I said to Ibn 'Abbas: What prompted him to do that? He said: So that his (Prophet's) Ummah should not be put to (unnecessary) hardship. And in the hadith transmitted by Mu'awiya (the words are): It was said to Ibn 'Abbas رضی اللہ عنہ : What did he intend thereby? He said he wanted that his Ummah should not be put to unnecessary hardship.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ظہر ، عصر اور مغرب ، عشاء کو مدینہ میں کسی خوف اور بارش کے بغیر جمع کیا ۔ وکیع کی روایت میں ہے ( سعید نے ) کہا : میں نے ابن عباس رضی اللہ عنہ سے پوچھا : آپ صلی اللہ علیہ وسلم نے ایسا کیوں کیا؟ انھوں نے کہا : تاکہ اپنی امت کو دشواری میں مبتلا نہ کریں اور ابو معاویہ کی حدیث میں ہے ابن عباس رضی اللہ عنہ سے پوچھا گیا : آپ صلی اللہ علیہ وسلم نے کہا چاہتے ہوئے ایسا کیا؟انھوں نے کہا : آپ نے چاہا اپنی امت کو دشواری میں نہ ڈالیں ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ اور ابو کریب نے بیان کیا، کہا ہم سے انہوں نے بیان کیا, ابو معاویہ اور وکیع دونوں نے اعمش سے روایت کی ، انھوں نے حبیب بن ثابت سے انھوں نے سعید بن جبیر سے اور انھوں نے حضرت ابن عباس رضی اللہ عنہ سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَأَبُو كُرَيْبٍ قَالَا حَدَّثَنَا أَبُو مُعَاوِيَةَ ح و حَدَّثَنَا أَبُو كُرَيْبٍ وَأَبُو سَعِيدٍ الْأَشَجُّ وَاللَّفْظُ لِأَبِي كُرَيْبٍ قَالَا حَدَّثَنَا وَكِيعٌ كِلَاهُمَا عَنْ الْأَعْمَشِ عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ عَنْ سَعِيدِ بْنِ جُبَيْرٍ عَنْ ابْنِ عَبَّاسٍ قَالَ جَمَعَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَيْنَ الظُّهْرِ وَالْعَصْرِ وَالْمَغْرِبِ وَالْعِشَاءِ بِالْمَدِينَةِ فِي غَيْرِ خَوْفٍ وَلَا مَطَرٍ فِي حَدِيثِ وَكِيعٍ قَالَ قُلْتُ لِابْنِ عَبَّاسٍ لِمَ فَعَلَ ذَلِكَ قَالَ كَيْ لَا يُحْرِجَ أُمَّتَهُ وَفِي حَدِيثِ أَبِي مُعَاوِيَةَ قِيلَ لِابْنِ عَبَّاسٍ مَا أَرَادَ إِلَى ذَلِكَ قَالَ أَرَادَ أَنْ لَا يُحْرِجَ أُمَّتَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9198,
+                "hadithNumber": "1634",
+                "englishNarrator": "Ibn 'Abbas رضی اللہ عنہ reported:",
+                "hadithEnglish": "I observed with the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) eight (rak'ahs) in combination, and seven rak'ahs in combination. I (one of the narrators) said: O Abd Sha'tha', I think that he (the Holy Prophet) had delayed the noon prayer and hastened the afternoon prayer, and he delayed the sunset prayer and hastened the 'Isha' prayer. He said: I also think so.",
+                "hadithUrdu": "میں نے نبی اکرم صلی اللہ علیہ وسلم کے ساتھ آٹھ رکعات ( ظہر اورعصر ) اکھٹی اور سات رکعات ( مغرب اور عشاء ) اکھٹی پڑھیں ۔ ( عمرو نے کہا ) میں نے ابو شعشاء ( جابر بن زید ) سے کہا کہ میرا خیال ہے آپ نے ظہر کو موخر کیا اور عصر جلدی پڑھی اور مغرب کو موخر کیا اور عشاء میں جلدی کی ۔ انھوں نے کہا : میرا بھی یہی خیال ہے ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا, سفیان بن عینیہ نے عمرو بن دینار سے انھوں نے ( ابوشعشاء ) جابر بن زید سے اور انھوں نے حضرت ابن عباس رضی اللہ عنہ سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "و حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ عَنْ عَمْرٍو عَنْ جَابِرِ بْنِ زَيْدٍ عَنْ ابْنِ عَبَّاسٍ قَالَ صَلَّيْتُ مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثَمَانِيًا جَمِيعًا وَسَبْعًا جَمِيعًا قُلْتُ يَا أَبَا الشَّعْثَاءِ أَظُنُّهُ أَخَّرَ الظُّهْرَ وَعَجَّلَ الْعَصْرَ وَأَخَّرَ الْمَغْرِبَ وَعَجَّلَ الْعِشَاءَ قَالَ وَأَنَا أَظُنُّ ذَاكَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9199,
+                "hadithNumber": "1635",
+                "englishNarrator": "Ibn 'Abbas رضی اللہ عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) observed in Medina seven (rak'ahs) and eight (rak'ahs), i. e. (be combined) the noon and afternoon prayers (eight rak'ahs) and the sunset and 'Isha' prayers (seven rak'ahs).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے مدینہ میں سات رکعات اور آٹھ رکعات نماز پڑھی ۔ یعنی ظہر ، عصر ، مغرب اور عشاء ( ملا کرپڑھیں ) ۔",
+                "urduNarrator": "ہم سے ابو الربیع الزہرانی نے بیان کیا، انہوں نے کہا, حماد بن زید نے عمرو بن دینار سے انھوں نے جابر بن زید سے اور انھوں نے حضرت ا بن عباس رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "و حَدَّثَنَا أَبُو الرَّبِيعِ الزَّهْرَانِيُّ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ عَنْ عَمْرِو بْنِ دِينَارٍ عَنْ جَابِرِ بْنِ زَيْدٍ عَنْ ابْنِ عَبَّاسٍ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ صَلَّى بِالْمَدِينَةِ سَبْعًا وَثَمَانِيًا الظُّهْرَ وَالْعَصْرَ وَالْمَغْرِبَ وَالْعِشَاءَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9200,
+                "hadithNumber": "1636",
+                "englishNarrator": "Abdullah bin Shaqiq reported:",
+                "hadithEnglish": "Ibn 'Abbas رضی اللہ عنہ one day addressed us in the afternoon (after the afternoon prayer) till the sun disappeared and the stars appeared, and the people began to say: Prayer, prayer. A person from Banu Tamim came there. He neither slackened nor turned away, but (continued crying): Prayer, prayer. Ibn 'Abbas رضی اللہ عنہ said: May you be deprived of your mother, do you teach me Sunnah? And then he said: I saw the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) combining the noon and afternoon prayers and the sunset and 'Isha' prayers. 'Abdullah bin Shaqiq said: Some doubt was created in my mind about it. So I came to Abu Huraira رضی اللہ عنہ and asked him (about it) and he testified his assertion.",
+                "hadithUrdu": "ایک دن حضرت ابن عباس رضی اللہ عنہ عصر کے بعد ہمیں خطاب کرنے لگے حتیٰ کہ سورج غروب ہوگیا اور ستارے نمودار ہوگئے اور لوگ کہنے لگے : نماز ، نماز! پھر ان کے پاس بنو تمیم کا ایک آدمی آیا جو نہ تھکتا تھا اور نہ باز آرہاتھا نماز ، نماز کہے جارہاتھا ، حضرت ابن عباس رضی اللہ عنہ نے کہا تیری ماں نہ ہو!تو مجھے سنت سکھا رہا ہے؟پھر کہا : میں نے رسول اللہ صلی اللہ علیہ وسلم کو دیکھا آپ نے ظہر وعصر کو اور مغرب وعشاء کو جمع کیا ۔ عبداللہ بن شفیق نے کہا : تو اس سے میرے دل میں کچھ کھٹکنے لگا ، چنانچہ میں حضر ت ابو ہریر ہ رضی اللہ عنہ کی خدمت میں حاضر ہوا اور ان سے پوچھا تو ا نھوں نے ان ( ابن عباس رضی اللہ عنہ ) کے قول کی تصدیق کی ۔",
+                "urduNarrator": "مجھ سے ابو الربیع الزہرانی نے بیان کیا، ہم سے حماد نے بیان کیا, زبیر بن خریت نے عبداللہ بن شفیق سے روایت کی انھوں نے کہا",
+                "hadithArabic": "و حَدَّثَنِي أَبُو الرَّبِيعِ الزَّهْرَانِيُّ حَدَّثَنَا حَمَّادٌ عَنْ الزُّبَيْرِ بْنِ الْخِرِّيتِ عَنْ عَبْدِ اللَّهِ بْنِ شَقِيقٍ قَالَ خَطَبَنَا ابْنُ عَبَّاسٍ يَوْمًا بَعْدَ الْعَصْرِ حَتَّى غَرَبَتْ الشَّمْسُ وَبَدَتْ النُّجُومُ وَجَعَلَ النَّاسُ يَقُولُونَ الصَّلَاةَ الصَّلَاةَ قَالَ فَجَاءَهُ رَجُلٌ مِنْ بَنِي تَمِيمٍ لَا يَفْتُرُ وَلَا يَنْثَنِي الصَّلَاةَ الصَّلَاةَ فَقَالَ ابْنُ عَبَّاسٍ أَتُعَلِّمُنِي بِالسُّنَّةِ لَا أُمَّ لَكَ ثُمَّ قَالَ رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ جَمَعَ بَيْنَ الظُّهْرِ وَالْعَصْرِ وَالْمَغْرِبِ وَالْعِشَاءِ قَالَ عَبْدُ اللَّهِ بْنُ شَقِيقٍ فَحَاكَ فِي صَدْرِي مِنْ ذَلِكَ شَيْءٌ فَأَتَيْتُ أَبَا هُرَيْرَةَ فَسَأَلْتُهُ فَصَدَّقَ مَقَالَتَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9201,
+                "hadithNumber": "1637",
+                "englishNarrator": "Abdullah bin Shaqiq al-'Uqaili reported:",
+                "hadithEnglish": "A person said to Ibn 'Abbas رضی اللہ عنہ (as he delayed the prayer): Prayer. He kept silence. He again said: Prayer. He again kept silence, and he again cried: Prayer. He again kept silence and said: May you be deprived of your mother, do you teach us about prayer? We used to combine two prayers during the life of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌).",
+                "hadithUrdu": "ایک شخص نے حضرت ابن عباس رضی اللہ عنہ سے کہا : نماز! آپ خاموش رہے اس نے پھر کہا : نماز! آپ پھر چپ رہے ، اس نے پھر کہا : نماز! تو آپ ( کچھ دیر ) چپ رہے ، پھر فرمایا : تیری ماں نہ ہو! کیاتو ہمیں نماز کی تعلیم دیتا ہے؟ہم رسول اللہ صلی اللہ علیہ وسلم کے دور میں دو نمازیں جمع کرلیاکرتے تھے ۔",
+                "urduNarrator": "ہم سے ابن ابی عمر نے بیان کیا، ہم سے وکیع نے بیان کیا, عمران بن خدیرنے عبداللہ بن شقیق عقیلی سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "و حَدَّثَنَا ابْنُ أَبِي عُمَرَ حَدَّثَنَا وَكِيعٌ حَدَّثَنَا عِمْرَانُ بْنُ حُدَيْرٍ عَنْ عَبْدِ اللَّهِ بْنِ شَقِيقٍ الْعُقَيْلِيِّ قَالَ قَالَ رَجُلٌ لِابْنِ عَبَّاسٍ الصَّلَاةَ فَسَكَتَ ثُمَّ قَالَ الصَّلَاةَ فَسَكَتَ ثُمَّ قَالَ الصَّلَاةَ فَسَكَتَ ثُمَّ قَالَ لَا أُمَّ لَكَ أَتُعَلِّمُنَا بِالصَّلَاةِ وَكُنَّا نَجْمَعُ بَيْنَ الصَّلَاتَيْنِ عَلَى عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9202,
+                "hadithNumber": "1638",
+                "englishNarrator": "Abdullah رضی اللہ عنہ reported:",
+                "hadithEnglish": "None of you should give a share to Satan out of your self. He should not deem that it is necessary for him to turn but to the right only (after prayer). I saw the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) turning to the left.",
+                "hadithUrdu": "تم میں سے کوئی شخص اپنی ذات میں سے شیطان کاحصہ نہ رکھے ( وہم اور وسوسے کا شکار نہ ہو ) یہ خیال نہ کرے کہ اس پر لازم ہے کہ وہ نماز سےدائیں کے علاوہ کسی اور جانب سے رخ نہ موڑے ، میں نے رسول اللہ صلی اللہ علیہ وسلم کو اکثر دیکھا تھا ، آپ بائیں جانب سے رخ مبارک موڑتے تھے ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا, ابو معاویہ اور وکیع نے اعمش سے ، انھوں نے عمارہ سے ، انھوں نے اسود سے اور انھوں نے حضرت عبداللہ رضی اللہ عنہ ( بن مسعود ) سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ حَدَّثَنَا أَبُو مُعَاوِيَةَ وَوَكِيعٌ عَنْ الْأَعْمَشِ عَنْ عُمَارَةَ عَنْ الْأَسْوَدِ عَنْ عَبْدِ اللَّهِ قَالَ لَا يَجْعَلَنَّ أَحَدُكُمْ لِلشَّيْطَانِ مِنْ نَفْسِهِ جُزْءًا لَا يَرَى إِلَّا أَنَّ حَقًّا عَلَيْهِ أَنْ لَا يَنْصَرِفَ إِلَّا عَنْ يَمِينِهِ أَكْثَرُ مَا رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَنْصَرِفُ عَنْ شِمَالِهِ.",
+                "headingArabic": "جَوَاز الاِنْصِرَافِ مِنَ الصَّلاَةِ عَنِ الْيَمِينِ، وَالشِّمَالِ‏",
+                "headingUrdu": "نماز سے فارغ ہو کر دائیں بائیں نکلنا جائز ہے۔",
+                "headingEnglish": "It is permissible to leave to the right or left after finishing the prayer",
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9203,
+                "hadithNumber": "1639",
+                "englishNarrator": null,
+                "hadithEnglish": "A hadith like this has been narrated by A'mash, with the same chain of transmitters.",
+                "hadithUrdu": "ہم سے اسحاق بن ابراہیم نے بیان کیا، کہا ہم سے جریر اور عیسیٰ بن یونس نے بیان کیا اور ہم سے علی بن خشرم نے بیان کیا، کہا کہ ہم سے عیسیٰ نے اس سلسلہ کے ایک تہائی کے ساتھ الاعمش کی سند سے بیان کیا۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا إِسْحَقُ بْنُ إِبْرَاهِيمَ أَخْبَرَنَا جَرِيرٌ وَعِيسَى بْنُ يُونُسَ ح و حَدَّثَنَاه عَلِيُّ بْنُ خَشْرَمٍ أَخْبَرَنَا عِيسَى جَمِيعًا عَنْ الْأَعْمَشِ بِهَذَا الْإِسْنَادِ مِثْلَهُ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9204,
+                "hadithNumber": "1640",
+                "englishNarrator": "Suddi reported:",
+                "hadithEnglish": "I asked Anas رضی اللہ  عنہ how I should turn-to the right or to the left-when I say my prayers. He said: I have very often seen the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) turning to the right.",
+                "hadithUrdu": "میں نے حضرت انس رضی اللہ  عنہ سے پوچھا , جب میں نماز پڑھ لوں تو اپنارخ کیسے موڑوں ، اپنی دائیں طرف یا اپنی بائیں طرف سے؟انھوں نے کہا : میں نے تو رسول اللہ صلی اللہ علیہ وسلم کو زیادہ تردائیں طرف سے رخ پھیرتے دیکھا ہے ۔",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا, ابو عوانہ نے ( اسماعیل بن عبدالرحمان ) سدی سے روایت کہ ، انھوں نے کہا",
+                "hadithArabic": "و حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ حَدَّثَنَا أَبُو عَوَانَةَ عَنْ السُّدِّيِّ قَالَ سَأَلْتُ أَنَسًا كَيْفَ أَنْصَرِفُ إِذَا صَلَّيْتُ عَنْ يَمِينِي أَوْ عَنْ يَسَارِي قَالَ أَمَّا أَنَا فَأَكْثَرُ مَا رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَنْصَرِفُ عَنْ يَمِينِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9205,
+                "hadithNumber": "1641",
+                "englishNarrator": "Anas رضی اللہ عنہ reported:",
+                "hadithEnglish": "The Apostle of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) used to turn to the right (at the end of the prayer).",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم اپنی دائیں طرف سے رخ پھیراکرتے تھے ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ اور زہیر بن حرب نے بیان کیا، کہا: ہم سے وکیع نے بیان کیا, سفیان بن عینیہ نے سدی سے اور انھوں نے حضرت انس رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَزُهَيْرُ بْنُ حَرْبٍ قَالَا حَدَّثَنَا وَكِيعٌ عَنْ سُفْيَانَ عَنْ السُّدِّيِّ عَنْ أَنَسٍ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَنْصَرِفُ عَنْ يَمِينِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9206,
+                "hadithNumber": "1642",
+                "englishNarrator": "Bara' رضی اللہ عنہ reported:",
+                "hadithEnglish": "When we prayed behind the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) we cherished to be on his right side so that his face would turn towards us (at the end of the prayer), and he (the narrator) said: I heard him say: O my Lord! save me from Thy torment on the Day when Thoil, wouldst raise or gather Thy servants.",
+                "hadithUrdu": "جب ہم رسول اللہ صلی اللہ علیہ وسلم کے پیچھے نماز پڑھتے تو پسند کرتے تھے کہ ہم آپ کی دائیں طرف ہوں ، آپ ہماری طرف رخ فرمائیں ۔ ( براء رضی اللہ تعالیٰ عنہ نے ) کہا : میں نے ( ایسے ہی ایک موقع پر ) آپ کو یہ فرماتے ہوئےسنا : \" اے میرےرب ! تو جب اپنے بندوں کو اٹھائے گا یا جمع کرے گا اس دن مجھے اپنے عذاب سے بچانا ۔ \"",
+                "urduNarrator": "ہم سے ابو کریب نے بیان کیا, ا بن ابی زائدہ نے مسعر سے ، انھوں نے ثابت بن عبید سے انھوں نے حضرت براء رضی اللہ عنہ کے بیٹے ( عبید ) سے اور انھوں نے حضرت براء رضی اللہ عنہ سے روایت کی ، کہا کہ",
+                "hadithArabic": "و حَدَّثَنَا أَبُو كُرَيْبٍ أَخْبَرَنَا ابْنُ أَبِي زَائِدَةَ عَنْ مِسْعَرٍ عَنْ ثَابِتِ بْنِ عُبَيْدٍ عَنْ ابْنِ الْبَرَاءِ عَنْ الْبَرَاءِ قَالَ كُنَّا إِذَا صَلَّيْنَا خَلْفَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَحْبَبْنَا أَنْ نَكُونَ عَنْ يَمِينِهِ يُقْبِلُ عَلَيْنَا بِوَجْهِهِ قَالَ فَسَمِعْتُهُ يَقُولُ رَبِّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ أَوْ تَجْمَعُ عِبَادَكَِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9207,
+                "hadithNumber": "1643",
+                "englishNarrator": "This hadith has been reported by Mis'ar with the same chain of transmitters:",
+                "hadithEnglish": "But he made no mention the words: \"So his face would turn towards us.\"",
+                "hadithUrdu": "وکیع نے مسعر سے اسی سند کے ساتھ یہ حدیث بیان کی اور ا نھوں نےيُقْبِلُ عَلَيْنَا بِوَجْهِهِ ( آپ ہماری طرف رخ فرمائیں ) کے لیکن اس نے ہم سے اپنے چہرے کا ذکر نہیں کیا۔",
+                "urduNarrator": "ہم سے ابو کریب اور زہیر بن حرب نے بیان کیا، کہا: ہم سے وکیع نے مسعر کی سند سے اس سند سے بیان کیا",
+                "hadithArabic": "و حَدَّثَنَاه أَبُو كُرَيْبٍ وَزُهَيْرُ بْنُ حَرْبٍ قَالَا حَدَّثَنَا وَكِيعٌ عَنْ مِسْعَرٍ بِهَذَا الْإِسْنَادِ وَلَمْ يَذْكُرْ يُقْبِلُ عَلَيْنَا بِوَجْهِه.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9208,
+                "hadithNumber": "1644",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: When the prayer commences then there is no prayer (valid), but the obligatory prayer.",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا ، \" جب نماز کے لئے اقامت ہوجائے تو فرض نماز کے سوا کوئی نماز نہیں ۔ \"",
+                "urduNarrator": "ہم سے احمد بن حنبل نے بیان کیا، ہم سے محمد بن جعفر نے بیان کیا, شعبہ نے ورقاء سے انھوں نے عمرو بن دینار سے ، انھوں نے عطاء بن یسار سے ، انہوں نے حضرت ابو ہریرۃ رضی اللہ عنہ سے اور انھوں نے نبی اکرم صلی اللہ علیہ وسلم سے روایت کی",
+                "hadithArabic": "و حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ وَرْقَاءَ عَنْ عَمْرِو بْنِ دِينَارٍ عَنْ عَطَاءِ بْنِ يَسَارٍ عَنْ أَبِي هُرَيْرَةَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِذَا أُقِيمَتْ الصَّلَاةُ فَلَا صَلَاةَ إِلَّا الْمَكْتُوبَةُِ.",
+                "headingArabic": "كَرَاهَةِ الشُّرُوعِ فِي نَافِلَةٍ بَعْدَ شُرُوعِ الْمُؤَذِّنِ",
+                "headingUrdu": "مؤذن کے نماز کے لیے اقامت کہنے کے بعد نفلی نماز شروع کرنا ناپسندیدہ ہے، خواہ وہ معمول کی سنت ہو، جیسے کہ صبح یا ظہر کی سنت، یا کوئی اور، اور خواہ وہ جانتا ہو کہ وہ نماز پڑھے گا۔ امام کے ساتھ رکعت پکڑے یا نہیں؟",
+                "headingEnglish": "It is disliked to start a voluntary prayer after the Mu’adhdhin has started to say Iqamah for prayer, whether that is a regular sunnah, such as the sunnah of Subh or Zuhr, or anything else, and regardless of whether he knows that he will catch up with the rak`ah with the Imam or not",
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9209,
+                "hadithNumber": "1645",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated by Warqa' with the same chain of transmitters.",
+                "hadithUrdu": "مجھ سے محمد بن حاتم اور ابن رافع نے بیان کیا، کہا: ہم سے ایک جوان عورت نے بیان کیا، اور مجھ سے ورقہ نے اس سند کے ساتھ بیان کیا۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنِيهِ مُحَمَّدُ بْنُ حَاتِمٍ وَابْنُ رَافِعٍ قَالَا حَدَّثَنَا شَبَابَةُ حَدَّثَنِي وَرْقَاءُ بِهَذَا الْإِسْنَاد.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9210,
+                "hadithNumber": "1646",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: When the prayer commences, there is no prayer but the obligatory one.",
+                "hadithUrdu": "آپ نے فرمایا : \" جب نماز کے لئے اقامت کہی جائے تو فرض نماز کے سوا کوئی نماز نہیں ہوتی ۔ \"",
+                "urduNarrator": "ہم سے یحییٰ بن حبیب حارثی نے بیان کیا, روح نے کہا : ہمیں زکریا بن اسحاق نے حدیث سنائی ، انھوں نے کہا ، ہمیں عمرو بن دینار نے حدیث سنائی ، انہوں نے کہا : میں نے عطاء بن یسار سے سنا وہ کہہ رہے تھے : حضرت ابو ہریرہ رضی اللہ عنہ سے روایت ہے اور انھوں نے نبی اکرم صلی اللہ علیہ وسلم سے روایت کی کہ",
+                "hadithArabic": "و حَدَّثَنِي يَحْيَى بْنُ حَبِيبٍ الْحَارِثِيُّ حَدَّثَنَا رَوْحٌ حَدَّثَنَا زَكَرِيَّاءُ بْنُ إِسْحَقَ حَدَّثَنَا عَمْرُو بْنُ دِينَارٍ قَالَ سَمِعْتُ عَطَاءَ بْنَ يَسَارٍ يَقُولُ عَنْ أَبِي هُرَيْرَةَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ إِذَا أُقِيمَتْ الصَّلَاةُ فَلَا صَلَاةَ إِلَّا الْمَكْتُوبَةُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9211,
+                "hadithNumber": "1647",
+                "englishNarrator": null,
+                "hadithEnglish": "A hadith like this has been reported by Ishaq with the same chain of transmitters.",
+                "hadithUrdu": "ہم سے عبد بن حمید نے بیان کیا، ہم سے عبدالرزاق نے بیان کیا، ہم سے زکریا بن اسحاق نے اس سند کے ساتھ اسی طرح بیان کیا۔",
+                "urduNarrator": null,
+                "hadithArabic": "و حَدَّثَنَاه عَبْدُ بْنُ حُمَيْدٍ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ أَخْبَرَنَا زَكَرِيَّاءُ بْنُ إِسْحَقَ بِهَذَا الْإِسْنَادِ مِثْلَهُ ُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9212,
+                "hadithNumber": "1648",
+                "englishNarrator": "This hadith has been narrated by Abu Huraira رضی اللہ عنہ with another chain of transmitters. Hammad (one of the narrators) said:",
+                "hadithEnglish": "I then met 'Amr (the other narrator) and he narrated it to me, but it was not transmitted directly from the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ).",
+                "hadithUrdu": "پھر میں ( براہ راست ) عمرو ( بن دینار ) سے ملا تو انھوں نے مجھے یہ حدیث سنائی لیکن انہوں نے اس حدیث کو رسول اللہ صلی اللہ علیہ وسلم کی طرف منسوب نہیں کیا ۔ ( ابو ہریرہ رضی اللہ تعالیٰ عنہ کا قول روایت کیا )",
+                "urduNarrator": "ہم سے حسن الحلوانی نے بیان کیا، کہا ہم سے یزید بن ہارون نے بیان کیا، انہوں نے بیان کیا,حماد بن زید نے ایوب سے روایت کی ، انھوں نے عمرو بن دینار سے انھوں نے عطاء بن یسار سے انہوں نے حضرت ابو ہریرۃ رضی اللہ تعالیٰ عنہ سے اور انھوں نے نبی اکرم صلی اللہ علیہ وسلم سے سابقہ حدیث کی مانند روایت کی ۔ حماد نے کہا",
+                "hadithArabic": "و حَدَّثَنَا حَسَنٌ الْحُلْوَانِيُّ حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ أَخْبَرَنَا حَمَّادُ بْنُ زَيْدٍ عَنْ أَيُّوبَ عَنْ عَمْرِو بْنِ دِينَارٍ عَنْ عَطَاءِ بْنِ يَسَارٍ عَنْ أَبِي هُرَيْرَةَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ قَالَ حَمَّادٌ ثُمَّ لَقِيتُ عَمْرًا فَحَدَّثَنِي بِهِ وَلَمْ يَرْفَعْه.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 9213,
+                "hadithNumber": "1649",
+                "englishNarrator": "Abdullah bin Malik bin Buhaina رضی اللہ عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) happened to pass by a person who was busy in praying while the (Fard of the) dawn prayer had commenced. He said something to him, which we do not know what it was. When we turned back we surrounded him and said: What is it that the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said to you? He replied: He (the Holy Prophet) had said to me that he perceived as if one of them was about to observe four (rak'ahs) of the dawn prayer. Qa'nabi reported that 'Abdullah bin Malik bin Buhaina رضی اللہ  عنہ narrated it on the authority of his father. (Abu'l-Husain Muslim said): His assertion that he has narrated this hadith on the authority of his father is not correct.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم ایک شخص کے پاس سے گزرے جو نماز پڑھ رہاتھا جب صبح کی نماز کے لئے اقامت کہی جاچکی تھی آپ نے کسی چیز کے بارے میں اس سے گفتگو فرمائی ہم نہ جان سکے کہ وہ کیا تھی جب ہم نماز سے فارغ ہوئے تو ہم نے اسے گھیرلیا ہم پوچھ رہے تھے کہ رسول اللہ صلی اللہ علیہ وسلم نے تم سے کیا کہا؟اس نے بتایا : آپ صلی اللہ علیہ وسلم نے مجھ سے فرمایا : \"\" لگتا ہے کہ تم میں سے کوئی صبح کی چار رکعات پڑھنے لگے گا ۔ \"\" قعنبی نے کہا : عبداللہ بن مالک ابن بحینہ نے رضی اللہ  عنہ نے اپنے والد سے روایت کی ۔ ابو الحسین مسلم ؒ ( مولف کتاب ) نے کہا : قعنبی کا اس حدیث میں \"\" عَنْ أَبِيهِ \"\" ( والد سے روایت کی ) کہنا درست نہیں ۔ ( عبداللہ کے والد صحابی مالک صحابی تو ہیں لیکن ان سے کوئی حدیث مروی نہیں ) -",
+                "urduNarrator": "عبداللہ بن مسلمہ قعنبی نے ہمیں حدیث بیان کی ، کہا ہمیں ابراہیم بن سعد نے اپنے والد سے حدیث سنائی ۔ انھوں نے حفص بن عاصم سے اور ا نھوں نے عبداللہ بن مالک ابن بحینہ رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ عَنْ أَبِيهِ عَنْ حَفْصِ بْنِ عَاصِمٍ عَنْ عَبْدِ اللَّهِ بْنِ مَالِكٍ ابْنِ بُحَيْنَةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَرَّ بِرَجُلٍ يُصَلِّي وَقَدْ أُقِيمَتْ صَلَاةُ الصُّبْحِ فَكَلَّمَهُ بِشَيْءٍ لَا نَدْرِي مَا هُوَ فَلَمَّا انْصَرَفْنَا أَحَطْنَا نَقُولُ مَاذَا قَالَ لَكَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ قَالَ لِي يُوشِكُ أَنْ يُصَلِّيَ أَحَدُكُمْ الصُّبْحَ أَرْبَعًا قَالَ الْقَعْنَبِيُّ عَبْدُ اللَّهِ بْنُ مَالِكٍ ابْنُ بُحَيْنَةَ عَنْ أَبِيهِ قَالَ أَبُو الْحُسَيْنِ مُسْلِمٌ وَقَوْلُهُ عَنْ أَبِيهِ فِي هَذَا الْحَدِيثِ خَطَأٌ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "6",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 106,
+                    "chapterNumber": "6",
+                    "chapterEnglish": "The Book of Prayer - Travellers",
+                    "chapterUrdu": "مسافرو ں کی نماز قصر کا بیان",
+                    "chapterArabic": "كتاب صَلَاةِ الْمُسَافِرِينَ وَقَصْرِهَا",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 8901,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=356",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=354",
+                "label": "354",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=355",
+                "label": "355",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=356",
+                "label": "356",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=357",
+                "label": "357",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=358",
+                "label": "358",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=359",
+                "label": "359",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=360",
+                "label": "360",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=358",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=358",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=356",
+        "to": 8925,
+        "total": 40465
+    }
+}

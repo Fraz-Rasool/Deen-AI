@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 133,
+        "data": [
+            {
+                "id": 3303,
+                "hadithNumber": "3460",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "I heard `Umar رضی اللہ عنہ saying, \"May Allah Curse so-and-so! Doesn't he know that the Prophet (ﷺ) said, 'May Allah curse the Jews for, though they were forbidden (to eat) fat, they liquefied it and sold it. \" Hadrat Jabir     رضی اللہ عنہ also reported it from Hadrat Abu Hurairah رضی اللہ عنہ and he has reported it from the prophet (ﷺ)",
+                "hadithUrdu": "میں نے حضرت عمر رضی اللہ عنہ سے سنا انھوں نے کہا اللہ تعالیٰ فلاں کو تباہ کرے ۔ انہیں کیا معلوم نہیں کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا تھا ، یہود پر اللہ کی لعنت ہو ، ان کے لیے چربی حرام ہوئی تو انہوں نے اسے پگھلا کر بیچنا شروع کر دیا ۔ اس روایت کو ابن عباس رضی اللہ عنہما کے ساتھ جابر اور ابوہریرہ رضی اللہ عنہ نے نبی کریم صلی اللہ علیہ وسلم سے روایت کیا ہے ۔",
+                "urduNarrator": "ہم سے علی بن عبداللہ نے بیان کیا ، کہا ہم سے سفیان بن عیینہ نے بیان کیا ، ان سے عمرو نے ، ان سے طاوس نے ، ان سے حضرت ابن عباس رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ سَمِعْتُ عُمَرَ ـ رضى الله عنه ـ يَقُولُ قَاتَلَ اللَّهُ فُلاَنًا، أَلَمْ يَعْلَمْ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ لَعَنَ اللَّهُ الْيَهُودَ، حُرِّمَتْ عَلَيْهِمُ الشُّحُومُ، فَجَمَّلُوهَا فَبَاعُوهَا ‏\"‏‏.‏ تَابَعَهُ جَابِرٌ وَأَبُو هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3304,
+                "hadithNumber": "3461",
+                "englishNarrator": "Narrated `Abdullah bin `Amr رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Convey (my teachings) to the people even if it were a single sentence, and tell others the stories of Bani Israel (which have been taught to you), for it is not sinful to do so. And whoever tells a lie on me intentionally, will surely take his place in the (Hell) Fire.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا ، میرا پیغام لوگوں کو پہنچاؤ ! اگرچہ ایک ہی آیت ہو اور بنی اسرائیل کے واقعات تم بیان کر سکتے ہو ، ان میں کوئی حرج نہیں اور جس نے مجھ پر قصداً جھوٹ باندھا تو اسے اپنے جہنم کے ٹھکانے کے لیے تیار رہنا چاہئے ۔",
+                "urduNarrator": "ہم سے ابوعاصم ضحاک بن مخلد نے بیان کیا ، کہا ہم کو اوزاعی نے خبر دی ، کہا ہم سے حسان بن عطیہ نے بیان کیا ، ان سے ابوکبشہ نے اور ان سے حضرت عبداللہ بن عمر رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو عَاصِمٍ الضَّحَّاكُ بْنُ مَخْلَدٍ، أَخْبَرَنَا الأَوْزَاعِيُّ، حَدَّثَنَا حَسَّانُ بْنُ عَطِيَّةَ، عَنْ أَبِي كَبْشَةَ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ بَلِّغُوا عَنِّي وَلَوْ آيَةً، وَحَدِّثُوا عَنْ بَنِي إِسْرَائِيلَ وَلاَ حَرَجَ، وَمَنْ كَذَبَ عَلَىَّ مُتَعَمِّدًا فَلْيَتَبَوَّأْ مَقْعَدَهُ مِنَ النَّارِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3305,
+                "hadithNumber": "3462",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"The Jews and the Christians do not dye (their grey hair), so you shall do the opposite of what they do (i.e. dye your grey hair and beards).",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم نے فرمایا ، یہود و نصاریٰ ) ڈاڑھی وغیرہ ) میں خضاب نہیں لگاتے ، تم لوگ اس کے خلاف طریقہ اختیار کرو ( یعنی خضاب لگایا کرو ) ۔",
+                "urduNarrator": "ہم سے عبدالعزیز بن عبداللہ نے بیان کیا ، کہا کہ مجھ سے ابراہیم بن سعد نے بیان کیا ، ان سے صالح نے ، ان سے ابن شہاب نے بیان کیا ، ان سے ابوسلمہ نے بیان کیا اور ان سے حضرت ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، قَالَ قَالَ أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ إِنَّ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ الْيَهُودَ وَالنَّصَارَى لاَ يَصْبُغُونَ، فَخَالِفُوهُمْ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3306,
+                "hadithNumber": "3463",
+                "englishNarrator": "Narrated Jundub:",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"Amongst the nations before you there was a man who got a wound, and growing impatient (with its pain), he took a knife and cut his hand with it and the blood did not stop till he died. Allah said, 'My Slave hurried to bring death upon himself so I have forbidden him (to enter) Paradise.' \"",
+                "hadithUrdu": "انہوں نے رسول اللہ صلی اللہ علیہ وسلم کی طرف اس حدیث کی نسبت غلط کی ہو گی ، انہوں نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ، پچھلے زمانے میں ایک شخص ( کے ہاتھ میں ) زخم ہو گیا تھا اور اسے اس سے بڑی تکلیف تھی ، آخر اس نے چھری سے اپنا ہاتھ کاٹ لیا اس کا نتیجہ یہ ہوا کہ خون بہنے لگا اور اسی سے وہ مر گیا پھر اللہ تعالیٰ نے فرمایا کہ میرے بندے نے خود میرے پاس آنے میں جلدی کی اس لیے میں نے بھی جنت کو اس پر حرام کر دیا ۔",
+                "urduNarrator": "مجھ سے محمد نے بیان کیا ، کہا مجھ سے حجاج نے بیان کیا ، کہا ہم سے جریر نے بیان کیا ، ان سے حسن نے ، کہا ہم سے حضرت جندب بن عبداللہ نے اسی مسجد میں بیان کیا ( حسن نے کہا کہ ) انہوں نے جب ہم سے بیان کیا ہم اسے بھولے نہیں اور نہ ہمیں اس کا اندیشہ ہے کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدٌ، قَالَ حَدَّثَنِي حَجَّاجٌ، حَدَّثَنَا جَرِيرٌ، عَنِ الْحَسَنِ، حَدَّثَنَا جُنْدُبُ بْنُ عَبْدِ اللَّهِ، فِي هَذَا الْمَسْجِدِ، وَمَا نَسِينَا مُنْذُ حَدَّثَنَا، وَمَا نَخْشَى أَنْ يَكُونَ جُنْدُبٌ كَذَبَ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ كَانَ فِيمَنْ كَانَ قَبْلَكُمْ رَجُلٌ بِهِ جُرْحٌ، فَجَزِعَ فَأَخَذَ سِكِّينًا فَحَزَّ بِهَا يَدَهُ، فَمَا رَقَأَ الدَّمُ حَتَّى مَاتَ، قَالَ اللَّهُ تَعَالَى بَادَرَنِي عَبْدِي بِنَفْسِهِ، حَرَّمْتُ عَلَيْهِ الْجَنَّةَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3307,
+                "hadithNumber": "3464",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "He heard Allah's Messenger (ﷺ) saying, \"Allah willed to test three Israelis who were a Leper, a blind man and a bald-headed man. So, he sent them an angel who came to the leper and said, 'What thing do you like most?' He replied, 'Good color and good skin, for the people have a strong aversion to me.' The angel touched him and his illness was cured, and he was given a good color and beautiful skin. The angel asked him, 'What kind of property do you like best?' He replied, 'Camels (or cows).' (The narrator is in doubt, for either the leper or the bald-headed man demanded camels and the other demanded cows). So he (i.e. the leper) was given a pregnant she-camel, and the angel said (to him), 'May Allah bless you in it.' The angel then went to the bald-headed man and said, 'What thing do you like most?' He said, 'I like good hair and wish to be cured of this disease, for the people feel repulsion for me.' The angel touched him and his illness was cured, and he was given good hair. The angel asked (him), 'What kind of property do you like best?' He replied, 'Cows,' The angel gave him a pregnant cow and said, 'May Allah bless you in it.' The angel went to the blind man and asked, 'What thing do you like best?' He said, '(I like) that Allah may restore my eye-sight to me so that I may see the people.' The angel touched his eyes and Allah gave him back his eye-sight. The angel asked him, 'What kind of property do you like best?' He replied, 'Sheep.' The angel gave him a pregnant sheep. Afterwards, all the three pregnant animals gave birth to young ones, and multiplied and brought forth so much that one of the (three) men had a herd of camels filling a valley, and one had a herd of cows filling a valley, and one had a flock of sheep filling a valley. Then the angel, disguised in the shape and appearance of a leper, went to the leper and said, I am a poor man, who has lost all means of livelihood while on a journey. So none will satisfy my need except Allah and then you. In the Name of Him Who has given you such nice color and beautiful skin, and so much property, I ask you to give me a camel so that I may reach my destination. The man replied, 'I have many obligations (so I cannot give you).' The angel said, 'I think I know you; were you not a leper to whom the people had a strong aversion? Weren't you a poor man, and then Allah gave you (all this property).' He replied, '(This is all wrong), I got this property through inheritance from my fore-fathers.' The angel said, 'If you are telling a lie, then let Allah make you as you were before. ' Then the angel, disguised in the shape and appearance of a bald man, went to the bald man and said to him the same as he told the first one, and he too answered the same as the first one did. The angel said, 'If you are telling a lie, then let Allah make you as you were before.' The angel, disguised in the shape of a blind man, went to the blind man and said, 'I am a poor man and a traveler, whose means of livelihood have been exhausted while on a journey. I have nobody to help me except Allah, and after Him, you yourself. I ask you in the Name of Him Who has given you back your eye-sight to give me a sheep, so that with its help, I may complete my journey.' The man said, 'No doubt, I was blind and Allah gave me back my eye-sight; I was poor and Allah made me rich; so take anything you wish from my property. By Allah, I will not stop you for taking anything (you need) of my property which you may take for Allah's sake.' The angel replied, 'Keep your property with you. You (i.e the three men) have been tested, and Allah is pleased with you and is angry with your two companions.\"",
+                "hadithUrdu": "آپ نے فرمایا کہ بنی اسرائیل میں تین شخص تھے ، ایک کوڑھی ، دوسرا اندھا اور تیسرا گنجا ، اللہ تعالیٰ نے چاہا کہ ان کا امتحان لے ۔ چنانچہ اللہ تعالیٰ نے ان کے پاس ایک فرشتہ بھیجا ۔ فرشتہ پہلے کوڑھی کے پاس آیا اور اس سے پوچھا کہ تمہیں سب سے زیادہ کیا چیز پسند ہے ؟ اس نے جواب دیا کہ اچھا رنگ اور اچھی چمڑی کیونکہ مجھ سے لوگ پرہیز کرتے ہیں ۔ بیان کیا کہ فرشتے نے اس پر اپنا ہاتھ پھیرا تو اس کی بیماری دور ہو گئی اور اس کا رنگ بھی خوبصورت ہو گیا اور چمڑی بھی اچھی ہو گئی ۔ فرشتے نے پوچھا کس طرح کا مال تم زیادہ پسند کرو گے ؟ اس نے کہا کہ اونٹ ! یا اس نے گائے کہی ، اسحاق بن عبداللہ کو اس سلسلے میں شک تھا کہ کوڑھی اور گنجے دونوں میں سے ایک نے اونٹ کی خواہش کی تھی اور دوسرے نے گائے کی ۔ چنانچہ اسے حاملہ اونٹنی دی گئی اور کہا گیا کہ اللہ تعالیٰ تمہیں اس میں برکت دے گا ، پھر فرشتہ گنجے کے پاس آیا اور اس سے پوچھا کہ تمہیں کیا چیز پسند ہے ؟ اس نے کہا کہ عمدہ بال اور موجودہ عیب میرا ختم ہو جائے کیونکہ لوگ اس کی وجہ سے مجھ سے پرہیز کرتے ہیں ۔ بیان کیا کہ فرشتے نے اس کے سر پر ہاتھ پھیرا اور اس کا عیب جاتا رہا اور اس کے بجائے عمدہ بال آ گئے ۔ فرشتے نے پوچھا ، کس طرح کا مال پسند کرو گے ؟ اس نے کہا کہ گائے ! بیان کیا کہ فرشتے نے اسے حاملہ گائے دے دی اور کہا کہ اللہ تعالیٰ اس میں برکت دے گا ۔ پھر اندھے کے پاس فرشتہ آیا اور کہا کہ تمہیں کیا چیز پسند ہے ؟ اس نے کہا کہ اللہ تعالیٰ مجھے آنکھوں کی روشنی دیدے تاکہ میں لوگوں کو دیکھ سکوں ۔ بیان کیا کہ فرشتے نے ہاتھ پھیرا اور اللہ تعالیٰ نے اس کی بینائی اسے واپس دے دی ۔ پھر پوچھا کہ کس طرح کا مال تم پسند کرو گے ؟ اس نے کہا کہ بکریاں ! فرشتے نے اسے حاملہ بکری دے دی ۔ پھر تینوں جانوروں کے بچے پیدا ہوئے ، یہاں تک کہ کوڑھی کے اونٹوں سے اس کی وادی بھر گئی ، گنجے کی گائے بیل سے اس کی وادی بھر گئی اور اندھے کی بکریوں سے اس کی وادی بھر گئی ۔ پھر دوبارہ فرشتہ اپنی اسی پہلی شکل میں کوڑھی کے پاس آیا اور کہا کہ میں ایک نہایت مسکین و فقیر آدمی ہوں ، سفر کا تمام سامان و اسباب ختم ہو چکا ہے اور اللہ تعالیٰ کے سوا اور کسی سے حاجت پوری ہونے کی امید نہیں ، لیکن میں تم سے اسی ذات کا واسطہ دے کر جس نے تمہیں اچھا رنگ اور اچھا چمڑا اور مال عطا کیا ، ایک اونٹ کا سوال کرتا ہوں جس سے سفر کو پورا کر سکوں ۔ اس نے فرشتے سے کہا کہ میرے ذمہ حقوق اور بہت سے ہیں ۔ فرشتہ نے کہا ، غالباً میں تمہیں پہچانتا ہوں ، کیا تمہیں کوڑھ کی بیماری نہیں تھی جس کی وجہ سے لوگ تم سے گھن کھاتے تھے ۔ تم ایک فقیر اور قلاش تھے ۔ پھر تمہیں اللہ تعالیٰ نے یہ چیزیں عطا کیں ؟ اس نے کہا کہ یہ ساری دولت تو میرے باپ دادا سے چلی آ رہی ہے ۔ فرشتے نے کہا کہ اگر تم جھوٹے ہو تو اللہ تمہیں اپنی پہلی حالت پر لوٹا دے ۔ پھر فرشتہ گنجے کے پاس اپنی اسی پہلی صورت میں آیا اور اس سے بھی وہی درخواست کی اور اس نے بھی وہی کوڑھی والا جواب دیا ۔ فرشتے نے کہا کہ اگر تم جھوٹے ہو تو اللہ تعالیٰ تمہیں اپنی پہلی حالت پر لوٹا دے ، اس کے بعد فرشتہ اندھے کے پاس آیا ، اپنی اسی پہلی صورت میں اور کہا کہ میں ایک مسکین آدمی ہوں ، سفر کے تمام سامان ختم ہو چکے ہیں اور سوا اللہ تعالیٰ کے کسی سے حاجت پوری ہونے کی توقع نہیں ۔ میں تم سے اس ذات کا واسطہ دے کر جس نے تمہیں تمہاری بینائی واپس دی ہے ، ایک بکری مانگتا ہوں جس سے اپنے سفر کی ضروریات پوری کر سکوں ۔ اندھے نے جواب دیا کہ واقعی میں اندھا تھا اور اللہ تعالیٰ نے مجھے اپنے فضل سے بینائی عطا فرمائی اور واقعی میں فقیر و محتاج تھا اور اللہ تعالیٰ نے مجھے مالدار بنایا ۔ تم جتنی بکریاں چاہو لے سکتے ہو ، اللہ کی قسم جب تم نے خدا کا واسطہ دیا ہے تو جتنا بھی تمہارا جی چاہے لے جاؤ ، میں تمہیں ہرگز نہیں روک سکتا ۔ فرشتے نے کہا کہ تم اپنا مال اپنے پاس رکھو ، یہ تو صرف امتحان تھا اور اللہ تعالیٰ تم سے راضی اور خوش ہے اور تمہارے دونوں ساتھیوں سے ناراض ہے ۔",
+                "urduNarrator": "مجھ سے احمد بن اسحاق نے بیان کیا ، کہا ہم سے عمرو بن عاصم نے بیان کیا ، ان سے ہمام نے بیان کیا ، ان سے اسحاق بن عبداللہ نے بیان کیا ، کہا مجھ سے عبدالرحمٰن بن ابی حمزہ نے بیان کیا اور ان سے حضرت ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ انہوں نے نبی کریم صلی اللہ علیہ وسلم سے سنا ( دوسری سند ) اور مجھ سے محمد نے بیان کیا ، کہا ہم سے عبداللہ بن رجاء نے بیان کیا ، انہیں ہمام نے خبر دی ، ان سے اسحاق بن عبداللہ نے بیان کیا ، انہیں عبدالرحمٰن بن ابی عمرہ نے خبر دی اور ان سے حضرت ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ انہوں نے نبی کریم صلی اللہ علیہ وسلم سے سنا ،",
+                "hadithArabic": "حَدَّثَنِي أَحْمَدُ بْنُ إِسْحَاقَ، حَدَّثَنَا عَمْرُو بْنُ عَاصِمٍ، حَدَّثَنَا هَمَّامٌ، حَدَّثَنَا إِسْحَاقُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ أَبِي عَمْرَةَ، أَنَّ أَبَا هُرَيْرَةَ، حَدَّثَهُ أَنَّهُ، سَمِعَ النَّبِيَّ صلى الله عليه وسلم ح وَحَدَّثَنِي مُحَمَّدٌ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ رَجَاءٍ، أَخْبَرَنَا هَمَّامٌ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ، قَالَ أَخْبَرَنِي عَبْدُ الرَّحْمَنِ بْنُ أَبِي عَمْرَةَ، أَنَّ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ حَدَّثَهُ أَنَّهُ، سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ إِنَّ ثَلاَثَةً فِي بَنِي إِسْرَائِيلَ أَبْرَصَ وَأَقْرَعَ وَأَعْمَى بَدَا لِلَّهِ أَنْ يَبْتَلِيَهُمْ، فَبَعَثَ إِلَيْهِمْ مَلَكًا، فَأَتَى الأَبْرَصَ‏.‏ فَقَالَ أَىُّ شَىْءٍ أَحَبُّ إِلَيْكَ قَالَ لَوْنٌ حَسَنٌ وَجِلْدٌ حَسَنٌ، قَدْ قَذِرَنِي النَّاسُ‏.‏ قَالَ فَمَسَحَهُ، فَذَهَبَ عَنْهُ، فَأُعْطِيَ لَوْنًا حَسَنًا وَجِلْدًا حَسَنًا‏.‏ فَقَالَ أَىُّ الْمَالِ أَحَبُّ إِلَيْكَ قَالَ الإِبِلُ ـ أَوْ قَالَ الْبَقَرُ هُوَ شَكَّ فِي ذَلِكَ، إِنَّ الأَبْرَصَ وَالأَقْرَعَ، قَالَ أَحَدُهُمَا الإِبِلُ، وَقَالَ الآخَرُ الْبَقَرُ ـ فَأُعْطِيَ نَاقَةً عُشَرَاءَ‏.‏ فَقَالَ يُبَارَكُ لَكَ فِيهَا‏.‏ وَأَتَى الأَقْرَعَ فَقَالَ أَىُّ شَىْءٍ أَحَبُّ إِلَيْكَ قَالَ شَعَرٌ حَسَنٌ، وَيَذْهَبُ عَنِّي هَذَا، قَدْ قَذِرَنِي النَّاسُ‏.‏ قَالَ فَمَسَحَهُ فَذَهَبَ، وَأُعْطِيَ شَعَرًا حَسَنًا‏.‏ قَالَ فَأَىُّ الْمَالِ أَحَبُّ إِلَيْكَ قَالَ الْبَقَرُ‏.‏ قَالَ فَأَعْطَاهُ بَقَرَةً حَامِلاً، وَقَالَ يُبَارَكُ لَكَ فِيهَا‏.‏ وَأَتَى الأَعْمَى فَقَالَ أَىُّ شَىْءٍ أَحَبُّ إِلَيْكَ قَالَ يَرُدُّ اللَّهُ إِلَىَّ بَصَرِي، فَأُبْصِرُ بِهِ النَّاسَ‏.‏ قَالَ فَمَسَحَهُ، فَرَدَّ اللَّهُ إِلَيْهِ بَصَرَهُ‏.‏ قَالَ فَأَىُّ الْمَالِ أَحَبُّ إِلَيْكَ قَالَ الْغَنَمُ‏.‏ فَأَعْطَاهُ شَاةً وَالِدًا، فَأُنْتِجَ هَذَانِ، وَوَلَّدَ هَذَا، فَكَانَ لِهَذَا وَادٍ مِنْ إِبِلٍ، وَلِهَذَا وَادٍ مِنْ بَقَرٍ، وَلِهَذَا وَادٍ مِنَ الْغَنَمِ‏.‏ ثُمَّ إِنَّهُ أَتَى الأَبْرَصَ فِي صُورَتِهِ وَهَيْئَتِهِ فَقَالَ رَجُلٌ مِسْكِينٌ، تَقَطَّعَتْ بِيَ الْحِبَالُ فِي سَفَرِي، فَلاَ بَلاَغَ الْيَوْمَ إِلاَّ بِاللَّهِ ثُمَّ بِكَ، أَسْأَلُكَ بِالَّذِي أَعْطَاكَ اللَّوْنَ الْحَسَنَ وَالْجِلْدَ الْحَسَنَ وَالْمَالَ بَعِيرًا أَتَبَلَّغُ عَلَيْهِ فِي سَفَرِي‏.‏ فَقَالَ لَهُ إِنَّ الْحُقُوقَ كَثِيرَةٌ‏.‏ فَقَالَ لَهُ كَأَنِّي أَعْرِفُكَ، أَلَمْ تَكُنْ أَبْرَصَ يَقْذَرُكَ النَّاسُ فَقِيرًا فَأَعْطَاكَ اللَّهُ فَقَالَ لَقَدْ وَرِثْتُ لِكَابِرٍ عَنْ كَابِرٍ‏.‏ فَقَالَ إِنْ كُنْتَ كَاذِبًا فَصَيَّرَكَ اللَّهُ إِلَى مَا كُنْتَ، وَأَتَى الأَقْرَعَ فِي صُورَتِهِ وَهَيْئَتِهِ، فَقَالَ لَهُ مِثْلَ مَا قَالَ لِهَذَا، فَرَدَّ عَلَيْهِ مِثْلَ مَا رَدَّ عَلَيْهِ هَذَا فَقَالَ إِنْ كُنْتَ كَاذِبًا فَصَيَّرَكَ اللَّهُ إِلَى مَا كُنْتَ‏.‏ وَأَتَى الأَعْمَى فِي صُورَتِهِ فَقَالَ رَجُلٌ مِسْكِينٌ وَابْنُ سَبِيلٍ وَتَقَطَّعَتْ بِيَ الْحِبَالُ فِي سَفَرِي، فَلاَ بَلاَغَ الْيَوْمَ إِلاَّ بِاللَّهِ، ثُمَّ بِكَ أَسْأَلُكَ بِالَّذِي رَدَّ عَلَيْكَ بَصَرَكَ شَاةً أَتَبَلَّغُ بِهَا فِي سَفَرِي‏.‏ فَقَالَ قَدْ كُنْتُ أَعْمَى فَرَدَّ اللَّهُ بَصَرِي، وَفَقِيرًا فَقَدْ أَغْنَانِي، فَخُذْ مَا شِئْتَ، فَوَاللَّهِ لاَ أَجْهَدُكَ الْيَوْمَ بِشَىْءٍ أَخَذْتَهُ لِلَّهِ‏.‏ فَقَالَ أَمْسِكْ مَالَكَ، فَإِنَّمَا ابْتُلِيتُمْ، فَقَدْ رَضِيَ اللَّهُ عَنْكَ وَسَخِطَ عَلَى صَاحِبَيْكَ ‏\"‏‏.‏",
+                "headingArabic": "حَدِيثُ أَبْرَصَ وَأَعْمَى وَأَقْرَعَ فِي بَنِي إِسْرَائِيلَ",
+                "headingUrdu": "تین اسرائیلیوں کی کہانی، ایک کوڑھی، ایک گنجا اور ایک نابینا آدمی",
+                "headingEnglish": "The tale of three Israelites, a leper, a bald man and a blind man",
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3308,
+                "hadithNumber": "3465",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"Once three persons (from the previous nations) were traveling, and suddenly it started raining and they took shelter in a cave. The entrance of the cave got closed while they were inside. They said to each other, 'O you! Nothing can save you except the truth, so each of you should ask Allah's Help by referring to such a deed as he thinks he did sincerely (i.e. just for gaining Allah's Pleasure).' So one of them said, 'O Allah! You know that I had a laborer who worked for me for one Faraq (i.e. three Sas) of rice, but he departed, leaving it (i.e. his wages). I sowed that Faraq of rice and with its yield I bought cows (for him). Later on when he came to me asking for his wages, I said (to him), 'Go to those cows and drive them away.' He said to me, 'But you have to pay me only a Faraq of rice,' I said to him, 'Go to those cows and take them, for they are the product of that Faraq (of rice).' So he drove them. O Allah! If you consider that I did that for fear of You, then please remove the rock.' The rock shifted a bit from the mouth of the cave. The second one said, 'O Allah, You know that I had old parents whom I used to provide with the milk of my sheep every night. One night I was delayed and when I came, they had slept, while my wife and children were crying with hunger. I used not to let them (i.e. my family) drink unless my parents had drunk first. So I disliked to wake them up and also disliked that they should sleep without drinking it, I kept on waiting (for them to wake) till it dawned. O Allah! If You consider that I did that for fear of you, then please remove the rock.' So the rock shifted and they could see the sky through it. The (third) one said, 'O Allah! You know that I had a cousin (i.e. my paternal uncle's daughter) who was most beloved to me and I sought to seduce her, but she refused, unless I paid her one-hundred Dinars (i.e. gold pieces). So I collected the amount and brought it to her, and she allowed me to sleep with her. But when I sat between her legs, she said, 'Be afraid of Allah, and do not deflower me but legally. 'I got up and left the hundred Dinars (for her). O Allah! If You consider that I did that for fear of you than please remove the rock. So Allah saved them and they came out (of the cave).\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا پچھلے زمانے میں ( بنی اسرائیل میں سے ) تین آدمی کہیں راستے میں جا رہے تھے کہ اچانک بارش نے انہیں آ لیا ۔ وہ تینوں پہاڑ کے ایک کھوہ ( غار ) میں گھس گئے ( جب وہ اندر چلے گئے ) تو غار کا منہ بند ہو گیا ۔ اب تینوں آپس میں یوں کہنے لگے کہ اللہ کی قسم ہمیں اس مصیبت سے اب تو صرف سچائی ہی نجات دلائے گی ۔ بہتر یہ ہے کہ اب ہر شخص اپنے کسی ایسے عمل کو بیان کر کے دعا کرے جس کے بارے میں اسے یقین ہو کہ وہ خالص اللہ تعالیٰ کی رضامندی کے لئے کیا تھا ۔ چنانچہ ایک نے اس طرح دعا کی ، اے اللہ ! تجھ کو خوب معلوم ہے کہ میں نے ایک مزدور رکھا تھا جس نے ایک فرق ( تین صاع ) چاول کی مزدوری پر میرا کام کیا تھا لیکن وہ شخص ( غصہ میں آ کر ) چلا گیا اور اپنے چاول چھوڑ گیا ۔ پھر میں نے اس ایک فرق چاول کو لیا اور اس کی کاشت کی ۔ اس سے اتنا کچھ ہو گیا کہ میں نے پیداوار میں سے گائے بیل خرید لئے ۔ اس کے بہت دن بعد وہی شخص مجھ سے اپنی مزدوری مانگنے آیا ۔ میں نے کہا کہ یہ گائے بیل کھڑے ہیں ان کو لے جا ۔ اس نے کہا کہ میرا تو صرف ایک فرق چاول تم پر ہونا چاہیے تھا ۔ میں نے اس سے کہا یہ سب گائے بیل لے جا کیونکہ اسی ایک فرق کی آمدنی ہے ۔ آخر وہ گائے بیل لے کر چلا گیا ۔ پس اے اللہ ! اگر تو جانتا ہے کہ یہ ایمانداری میں نے صرف تیرے ڈر سے کی تھی تو تو غار کا منہ کھول دے ۔ چنانچہ اسی وقت وہ پتھر کچھ ہٹ گیا ۔ پھر دوسرے نے اس طرح دعا کی ۔ اے اللہ ! تجھے خوب معلوم ہے کہ میرے ماں باپ جب بوڑھے ہو گئے تو میں ان کی خدمت میں روزانہ رات میں اپنی بکریوں کا دودھ لا کر پلایا کرتا تھا ۔ ایک دن اتفاق سے میں دیر سے آیا تو وہ سو چکے تھے ۔ ادھر میرے بیوی اور بچے بھوک سے بلبلا رہے تھے لیکن میری عادت تھی کہ جب تک والدین کو دودھ نہ پلا لوں ، بیوی بچوں کو نہیں دیتا تھا مجھے انہیں بیدار کرنا بھی پسند نہیں تھا اور چھوڑنا بھی پسند نہ تھا ( کیونکہ یہی ان کا شام کا کھانا تھا اور اس کے نہ پینے کی وجہ سے وہ کمزور ہو جاتے ) پس میں ان کا وہیں انتظار کرتا رہا یہاں تک کہ صبح ہو گئی ۔ پس اگر تیرے علم میں بھی میں نے یہ کام تیرے خوف کی وجہ سے کیا تھا تو تو ہماری مشکل دور کر دے ۔ اس وقت وہ پتھر کچھ اور ہٹ گیا اور اب آسمان نظر آنے لگا ۔ پھر تیسرے شخص نے یوں دعا کی ، اے اللہ ! میری ایک چچا زاد بہن تھی جو مجھے سب سے زیادہ محبوب تھی ۔ میں نے ایک بار اس سے صحبت کرنی چاہی ، اس نے انکار کیا مگر اس شرط پر تیار ہوئی کہ میں اسے سو اشرفی لا کر دے دوں ۔ میں نے یہ رقم حاصل کرنے کے لئے کوشش کی ۔ آخر وہ مجھے مل گئی تو میں اس کے پاس آیا اور وہ رقم اس کے حوالے کر دی ۔ اس نے مجھے اپنے نفس پر قدرت دے دی ۔ جب میں اس کے دونوں پاؤں کے درمیان بیٹھ چکا تو اس نے کہا کہ اللہ سے ڈر اور مہر کو بغیر حق کے نہ توڑ ۔ میں ( یہ سنتے ہی ) کھڑا ہو گیا اور سو اشرفی بھی واپس نہیں لی ۔ پس اگر تیرے علم میں بھی میں نے یہ عمل تیرے خوف کی وجہ سے کیا تھا تو تو ہماری مشکل آسان کر دے ۔ اللہ تعالیٰ نے ان کی مشکل دور کر دی اور وہ تینوں باہر نکل آئے ۔",
+                "urduNarrator": "ہم سے اسماعیل بن خلیل نے بیان کیا ، کہا ہم کو علی بن مسہر نے خبر دی ، انہیں عبیداللہ بن عمر نے ، انہیں نافع نے اور انہیں ابن عمر رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ خَلِيلٍ، أَخْبَرَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ بَيْنَمَا ثَلاَثَةُ نَفَرٍ مِمَّنْ كَانَ قَبْلَكُمْ يَمْشُونَ إِذْ أَصَابَهُمْ مَطَرٌ، فَأَوَوْا إِلَى غَارٍ، فَانْطَبَقَ عَلَيْهِمْ، فَقَالَ بَعْضُهُمْ لِبَعْضٍ إِنَّهُ وَاللَّهِ يَا هَؤُلاَءِ لاَ يُنْجِيكُمْ إِلاَّ الصِّدْقُ، فَلْيَدْعُ كُلُّ رَجُلٍ مِنْكُمْ بِمَا يَعْلَمُ أَنَّهُ قَدْ صَدَقَ فِيهِ‏.‏ فَقَالَ وَاحِدٌ مِنْهُمُ اللَّهُمَّ إِنْ كُنْتَ تَعْلَمُ أَنَّهُ كَانَ لِي أَجِيرٌ عَمِلَ لِي عَلَى فَرَقٍ مِنْ أَرُزٍّ، فَذَهَبَ وَتَرَكَهُ، وَأَنِّي عَمَدْتُ إِلَى ذَلِكَ الْفَرَقِ فَزَرَعْتُهُ، فَصَارَ مِنْ أَمْرِهِ أَنِّي اشْتَرَيْتُ مِنْهُ بَقَرًا، وَأَنَّهُ أَتَانِي يَطْلُبُ أَجْرَهُ فَقُلْتُ اعْمِدْ إِلَى تِلْكَ الْبَقَرِ‏.‏ فَسُقْهَا، فَقَالَ لِي إِنَّمَا لِي عِنْدَكَ فَرَقٌ مِنْ أَرُزٍّ‏.‏ فَقُلْتُ لَهُ اعْمِدْ إِلَى تِلْكَ الْبَقَرِ فَإِنَّهَا مِنْ ذَلِكَ الْفَرَقِ، فَسَاقَهَا، فَإِنْ كُنْتَ تَعْلَمُ أَنِّي فَعَلْتُ ذَلِكَ مِنْ خَشْيَتِكَ، فَفَرِّجْ عَنَّا‏.‏ فَانْسَاحَتْ عَنْهُمُ الصَّخْرَةُ‏.‏ فَقَالَ الآخَرُ اللَّهُمَّ إِنْ كُنْتَ تَعْلَمُ أَنَّهُ كَانَ لِي أَبَوَانِ شَيْخَانِ كَبِيرَانِ، فَكُنْتُ آتِيهِمَا كُلَّ لَيْلَةٍ بِلَبَنِ غَنَمٍ لِي، فَأَبْطَأْتُ عَلَيْهِمَا لَيْلَةً فَجِئْتُ وَقَدْ رَقَدَا وَأَهْلِي وَعِيَالِي يَتَضَاغَوْنَ مِنَ الْجُوعِ، فَكُنْتُ لاَ أَسْقِيهِمْ حَتَّى يَشْرَبَ أَبَوَاىَ، فَكَرِهْتُ أَنْ أُوقِظَهُمَا، وَكَرِهْتُ أَنْ أَدَعَهُمَا، فَيَسْتَكِنَّا لِشَرْبَتِهِمَا، فَلَمْ أَزَلْ أَنْتَظِرُ حَتَّى طَلَعَ الْفَجْرُ، فَإِنْ كُنْتَ تَعْلَمُ أَنِّي فَعَلْتُ ذَلِكَ مِنْ خَشْيَتِكَ، فَفَرِّجْ عَنَّا‏.‏ فَانْسَاحَتْ عَنْهُمُ الصَّخْرَةُ، حَتَّى نَظَرُوا إِلَى السَّمَاءِ‏.‏ فَقَالَ الآخَرُ اللَّهُمَّ إِنْ كُنْتَ تَعْلَمُ أَنَّهُ كَانَ لِي ابْنَةُ عَمٍّ مِنْ أَحَبِّ النَّاسِ إِلَىَّ، وَأَنِّي رَاوَدْتُهَا عَنْ نَفْسِهَا فَأَبَتْ إِلاَّ أَنْ آتِيَهَا بِمِائَةِ دِينَارٍ، فَطَلَبْتُهَا حَتَّى قَدَرْتُ، فَأَتَيْتُهَا بِهَا فَدَفَعْتُهَا إِلَيْهَا، فَأَمْكَنَتْنِي مِنْ نَفْسِهَا، فَلَمَّا قَعَدْتُ بَيْنَ رِجْلَيْهَا، فَقَالَتِ اتَّقِ اللَّهَ وَلاَ تَفُضَّ الْخَاتَمَ إِلاَّ بِحَقِّهِ‏.‏ فَقُمْتُ وَتَرَكْتُ الْمِائَةَ دِينَارٍ، فَإِنْ كُنْتَ تَعْلَمُ أَنِّي فَعَلْتُ ذَلِكَ مِنْ خَشْيَتِكَ فَفَرِّجْ عَنَّا‏.‏ فَفَرَّجَ اللَّهُ عَنْهُمْ فَخَرَجُوا ‏\"‏‏.‏",
+                "headingArabic": "حَدِيثُ الْغَارِ",
+                "headingUrdu": "غار کی کہانی",
+                "headingEnglish": "The tale of the Cave",
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3309,
+                "hadithNumber": "3466",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "He heard Allah's Messenger (ﷺ) saying, \"While a lady was nursing her child, a rider passed by and she said, 'O Allah! Don't let my child die till he becomes like this (rider).' The child said, 'O Allah! Don't make me like him,' and then returned to her breast (sucking it). (After a while) they passed by a lady who was being pulled and teased (by the people). The child's mother said, 'O Allah! Do not make my child like her.' The child said, 'O Allah! Make me like her.' Then he said, 'As for the rider, he is an infidel, while the lady is accused of illegal sexual intercourse (falsely) and she says: Allah is sufficient for me (He knows the truth).",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا کہ ایک عورت اپنے بچے کو دودھ پلا رہی تھی کہ ایک سوار ( نام نامعلوم ) ادھر سے گزرا ، وہ اس وقت بھی بچے کو دودھ پلا رہی تھی ( سوار کی شان دیکھ کر ) عورت نے دعا کی اے اللہ ! میرے بچے کو اس وقت تک موت نہ دینا جب تک کہ اس سوار جیسا نہ ہو جائے ۔ اسی وقت ( بقدرت الہٰی ) بچہ بول پڑا ۔ اے اللہ ! مجھے اس جیسا نہ کرنا ۔ اور پھر وہ دودھ پینے لگا ۔ اس کے بعد ایک ( نام نامعلوم ) عورت کو ادھر سے لے جایا گیا ، اسے لے جانے والے اسے گھسیٹ رہے تھے اور اس کا مذاق اڑا رہے تھے ۔ ماں نے دعا کی ، اے اللہ ! میرے بچے کو اس عورت جیسا نہ کرنا ، لیکن بچے نے کہا کہ اے اللہ ! مجھے اسی جیسا بنا دینا ( پھر تو ماں نے پوچھا ، ارے یہ کیا معاملہ ہے ؟ اس بچے نے بتایا کہ سوار تو کافر و ظالم تھا اور عورت کے متعلق لوگ کہتے تھے کہ تو زنا کراتی ہے تو وہ جواب دیتی حسبی اللہ ( اللہ میرے لئے کافی ہے ، وہ میری پاک دامنی جانتا ہے ) لوگ کہتے کہ تو چوری کرتی ہے تو وہ جواب دیتی حسبی اللہ ( اللہ میرے لئے کافی ہے اور وہ میری پاک دامنی جانتا ہے )",
+                "urduNarrator": "ہم سے ابوالیمان نے بیان کیا ، کہا ہم کو شعیب نے خبر دی ، کہا ہم سے ابوالزناد نے بیان کیا ، ان سے عبدالرحمٰن نے بیان کیا ، انہوں نے ابوہریرہ رضی اللہ عنہ سے سنا اور انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، حَدَّثَنَا أَبُو الزِّنَادِ، عَنْ عَبْدِ الرَّحْمَنِ، حَدَّثَهُ أَنَّهُ، سَمِعَ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ بَيْنَمَا امْرَأَةٌ تُرْضِعُ ابْنَهَا إِذْ مَرَّ بِهَا رَاكِبٌ وَهْىَ تُرْضِعُهُ، فَقَالَتِ اللَّهُمَّ لاَ تُمِتِ ابْنِي حَتَّى يَكُونَ مِثْلَ هَذَا‏.‏ فَقَالَ اللَّهُمَّ لاَ تَجْعَلْنِي مِثْلَهُ‏.‏ ثُمَّ رَجَعَ فِي الثَّدْىِ، وَمُرَّ بِامْرَأَةٍ تُجَرَّرُ وَيُلْعَبُ بِهَا فَقَالَتِ اللَّهُمَّ لاَ تَجْعَلِ ابْنِي مِثْلَهَا‏.‏ فَقَالَ اللَّهُمَّ اجْعَلْنِي مِثْلَهَا‏.‏ فَقَالَ أَمَّا الرَّاكِبُ فَإِنَّهُ كَافِرٌ، وَأَمَّا الْمَرْأَةُ فَإِنَّهُمْ يَقُولُونَ لَهَا تَزْنِي‏.‏ وَتَقُولُ حَسْبِي اللَّهُ‏.‏ وَيَقُولُونَ تَسْرِقُ‏.‏ وَتَقُولُ حَسْبِي اللَّهُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3310,
+                "hadithNumber": "3467",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"While a dog was going round a well and was about to die of thirst, an Israeli prostitute saw it and took off her shoe and watered it. So Allah forgave her because of that good deed.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے بیان فرمایا کہ ایک کتا ایک کنویں کے چاروں طرف چکر کاٹ رہا تھا جیسے پیاس کی شدت سے اس کی جان نکل جانے والی ہو کہ بنی اسرائیل کی ایک زانیہ عورت نے اسے دیکھ لیا ۔ اس عورت نے اپنا موزہ اتار کر کتے کو پانی پلایا اور اس کی مغفرت اسی عمل کی وجہ سے ہو گئی ۔",
+                "urduNarrator": "ہم سے سعید بن تلید نے بیان کیا ، کہا ہم سے ابن وہب نے بیان کیا ، کہا کہ مجھے جریر بن حازم نے خبر دی ، انہیں ایوب نے اور انہیں محمد بن سیرین نے اور ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا سَعِيدُ بْنُ تَلِيدٍ، حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي جَرِيرُ بْنُ حَازِمٍ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ بَيْنَمَا كَلْبٌ يُطِيفُ بِرَكِيَّةٍ كَادَ يَقْتُلُهُ الْعَطَشُ، إِذْ رَأَتْهُ بَغِيٌّ مِنْ بَغَايَا بَنِي إِسْرَائِيلَ، فَنَزَعَتْ مُوقَهَا فَسَقَتْهُ، فَغُفِرَ لَهَا بِهِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3311,
+                "hadithNumber": "3468",
+                "englishNarrator": "Narrated Humaid bin `Abdur-Rahman رضی اللہ عنہ :",
+                "hadithEnglish": "He heard Muawiya bin Abi Sufyan رضی اللہ عنہ (talking) on the pulpit in the year when he performed the Hajj. He took a tuft of hair that was in the hand of an orderly and said, \"O people of Medina! Where are your learned men? I heard the Prophet (ﷺ) forbidding such a thing as this (i.e. false hair) and he used to say, 'The Israelis were destroyed when their ladies practiced this habit (of using false hair to lengthen their locks).",
+                "hadithUrdu": "انہوں نے معاویہ بن ابی سفیان رضی اللہ عنہ سے سنا ایک سال جب وہ حج کے لئے گئے ہوئے تھے تو منبرنبوی پر کھڑے ہو کر انہوں نے پیشانی کے بالوں کا ایک کچھا لیا جو ان کے چوکیدار کے ہاتھ میں تھا اور فرمایا اے مدینہ والو ! تمہارے علماء کدھر گئے میں نے نبی کریم صلی اللہ علیہ وسلم سے سنا ہے ۔ آپ نے اس طرح ( بال جوڑنے کی ) ممانعت فرمائی تھی اور فرمایا تھا کہ بنی اسرائیل پر بربادی اس وقت آئی جب ( شریعت کے خلاف ) ان کی عورتوں نے اس طرح بال سنوارنے شروع کر دیئے تھے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ نے بیان کیا ، کہا ہم سے امام مالک نے بیان کیا ، ان سے ابن شہاب نے ، ان سے حمید بن عبدالرحمٰن نے اور",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، أَنَّهُ سَمِعَ مُعَاوِيَةَ بْنَ أَبِي سُفْيَانَ،، عَامَ حَجَّ عَلَى الْمِنْبَرِ، فَتَنَاوَلَ قُصَّةً مِنْ شَعَرٍ وَكَانَتْ فِي يَدَىْ حَرَسِيٍّ فَقَالَ يَا أَهْلَ الْمَدِينَةِ، أَيْنَ عُلَمَاؤُكُمْ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَنْهَى عَنْ مِثْلِ هَذِهِ، وَيَقُولُ ‏ \"‏ إِنَّمَا هَلَكَتْ بَنُو إِسْرَائِيلَ حِينَ اتَّخَذَهَا نِسَاؤُهُمْ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3312,
+                "hadithNumber": "3469",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Amongst the people preceding you there used to be 'Muhaddithun' (i.e. persons who can guess things that come true later on, as if those persons have been inspired by a divine power), and if there are any such persons amongst my followers, it is `Umar bin Al-Khattab.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا ، گزشتہ امتوں میں محدث لوگ ہوا کرتے تھے اور اگر میری امت میں کوئی ایسا ہے تو وہ عمر بن خطاب ہیں ۔",
+                "urduNarrator": "ہم سے عبدالعزیز بن عبداللہ نے بیان کیا ، انہوں نے کہا ہم سے ابراہیم بن سعد نے بیان کیا ، ان سے ان کے والد نے بیان کیا ، ان سے ابوسلمہ نے بیان کیا ، اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنْ أَبِيهِ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّهُ قَدْ كَانَ فِيمَا مَضَى قَبْلَكُمْ مِنَ الأُمَمِ مُحَدَّثُونَ، وَإِنَّهُ إِنْ كَانَ فِي أُمَّتِي هَذِهِ مِنْهُمْ، فَإِنَّهُ عُمَرُ بْنُ الْخَطَّابِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3313,
+                "hadithNumber": "3470",
+                "englishNarrator": "Narrated Abu Sa`id Al-Khudri رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Amongst the men of Bani Israel there was a man who had murdered ninety-nine persons. Then he set out asking (whether his repentance could be accepted or not). He came upon a monk and asked him if his repentance could be accepted. The monk replied in the negative and so the man killed him. He kept on asking till a man advised to go to such and such village. (So he left for it) but death overtook him on the way. While dying, he turned his chest towards that village (where he had hoped his repentance would be accepted), and so the angels of mercy and the angels of punishment quarrelled amongst themselves regarding him. Allah ordered the village (towards which he was going) to come closer to him, and ordered the village (whence he had come), to go far away, and then He ordered the angels to measure the distances between his body and the two villages. So he was found to be one span closer to the village (he was going to). So he was forgiven.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا بنی اسرائیل میں ایک شخص تھا ( نام نامعلوم ) جس نے ننانوے خون ناحق کئے تھے پھر وہ نادم ہو کر ) مسئلہ پوچھنے نکلا ۔ وہ ایک درویش کے پاس آیا اور اس سے پوچھا کیا اس گناہ سے توبہ قبول ہونے کی کوئی صورت ہے ؟ درویش نے جواب دیا کہ نہیں ۔ یہ سن کر اس نے اس درویش کو بھی قتل کر دیا ( اور سو خون پورے کر دئیے ) پھر وہ ( دوسروں سے ) پوچھنے لگا ۔ آخر اس کو ایک درویش نے بتایا کہ فلاں بستی میں چلا جا ) ( وہ آدھے راستے بھی نہیں پہنچا تھا کہ ) اس کی موت واقع ہو گئی ۔ مرتے مرتے اس نے اپنا سینہ اس بستی کی طرف جھکا دیا ۔ آخر رحمت کے فرشتوں اور عذاب کے فرشتوں میں باہم جھگڑا ہوا ۔ ( کہ کون اسے لے جائے ) لیکن اللہ تعالیٰ نے اس نصرہ نامی بستی کو ( جہاں وہ توبہ کے لئے جا رہا تھا ) حکم دیا کہ اس کی نعش سے قریب ہو جائے اور دوسری بستی کو ( جہاں سے وہ نکلا تھا ) حکم دیا کہ اس کی نعش سے دور ہو جا ۔ پھر اللہ تعالیٰ نے فرشتوں سے فرمایا کہ اب دونوں کا فاصلہ دیکھو اور ( جب ناپا تو ) اس بستی کو ( جہاں وہ توبہ کے لئے جا رہا تھا ) ایک بالشت نعش سے نزدیک پایا اس لئے وہ بخش دیا گیا ۔",
+                "urduNarrator": "ہم سے محمد بن بشار نے بیان کیا کہا ہم سے محمد بن ابی عدی نے بیان کیا ان سے شعبہ نے ان سے قتادہ نے ان سے ابو صدیق ناجی بکر بن قیس نے اور ان سے ابو سعید خدری رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي عَدِيٍّ، عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، عَنْ أَبِي الصِّدِّيقِ النَّاجِيِّ، عَنْ أَبِي سَعِيدٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ كَانَ فِي بَنِي إِسْرَائِيلَ رَجُلٌ قَتَلَ تِسْعَةً وَتِسْعِينَ إِنْسَانًا ثُمَّ خَرَجَ يَسْأَلُ، فَأَتَى رَاهِبًا فَسَأَلَهُ، فَقَالَ لَهُ هَلْ مِنْ تَوْبَةٍ قَالَ لاَ‏.‏ فَقَتَلَهُ، فَجَعَلَ يَسْأَلُ، فَقَالَ لَهُ رَجُلٌ ائْتِ قَرْيَةَ كَذَا وَكَذَا‏.‏ فَأَدْرَكَهُ الْمَوْتُ فَنَاءَ بِصَدْرِهِ نَحْوَهَا، فَاخْتَصَمَتْ فِيهِ مَلاَئِكَةُ الرَّحْمَةِ وَمَلاَئِكَةُ الْعَذَابِ، فَأَوْحَى اللَّهُ إِلَى هَذِهِ أَنْ تَقَرَّبِي‏.‏ وَأَوْحَى اللَّهُ إِلَى هَذِهِ أَنْ تَبَاعَدِي‏.‏ وَقَالَ قِيسُوا مَا بَيْنَهُمَا‏.‏ فَوُجِدَ إِلَى هَذِهِ أَقْرَبُ بِشِبْرٍ، فَغُفِرَ لَهُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3314,
+                "hadithNumber": "3471",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Once Allah's Messenger (ﷺ); offered the morning prayer and then faced the people and said, \"While a man was driving a cow, he suddenly rode over it and beat it. The cow said, \"We have not been created for this, but we have been created for sloughing.\" On that the people said astonishingly, \"Glorified be Allah! A cow speaks!\" The Prophet (ﷺ) said, \"I believe this, and Abu Bakr and `Umar too, believe it, although neither of them was present there. While a person was amongst his sheep, a wolf attacked and took one of the sheep. The man chased the wolf till he saved it from the wolf, where upon the wolf said, 'You have saved it from me; but who will guard it on the day of the wild beasts when there will be no shepherd to guard them except me (because of riots and afflictions)? ' \" The people said surprisingly, \"Glorified be Allah! A wolf speaks!\" The Prophet (ﷺ) said, \"But I believe this, and Abu Bakr and `Umar too, believe this, although neither of them was present there.\" (See the Foot-note of page No. 10 Vol.5) Ali, Sufyan, Misar, Sa'd bin Ibrahim, Abu Salamah and Hadrat Abu Hurairah رضی اللہ عنہ has reported  it from the prophet (ﷺ).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے صبح کی نماز پڑھی پھر لوگوں کی طرف متوجہ ہوئے اور فرمایا ایک شخص ( بنی اسرائیل کا ) اپنی گائے ہانکے لئے جا رہا تھا کہ وہ اس پر سوار ہو گیا اور پھر اسے مارا ۔ اس گائے نے ( بقدرت الہیٰ ) کہا کہ ہم جانور سواری کے لئے نہیں پیدا کئے گئے ۔ ہماری پیدائش تو کھیتی کے لئے ہوئی ہے ۔ لوگوں نے کہا سبحان اللہ ! گائے بات کرتی ہے ۔ پھر آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ میں اس بات پر ایمان لاتا ہوں اور ابوبکر اور عمر بھی ۔ حالانکہ یہ دونوں وہاں موجود بھی نہیں تھے ۔ اسی طرح ایک شخص اپنی بکریاں چرا رہا تھا کہ ایک بھیڑیا آیا اور ریوڑ میں سے ایک بکری اٹھا کر لے جانے لگا ۔ ریوڑ والا دوڑا اور اس نے بکری کو بھیڑئیے سے چھڑا لیا ۔ اس پر بھیڑیا ( بقدرت الہیٰ ) بولا ، آج تو تم نے مجھ سے اسے چھڑا لیا لیکن درندوں والے دن میں ( قرب قیامت ) اسے کون بچائے گا جس دن میرے سوا اور کوئی اس کا چرواہا نہ ہو گا ؟ لوگوں نے کہا ، سبحان اللہ ! بھیڑیا باتیں کرتا ہے ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ میں تو اس بات پر ایمان لایا اور ابوبکرو عمر بھی حالانکہ وہ دونوں اس وقت وہاں موجود نہ تھے ۔ امام بخاری رحمہ اللہ نے کہا اور ہم سے علی بن عبداللہ مدینی نے کہا ، ہم سے سفیان بن عیینہ نے بیان کیا ، انہوں نے مسعر سے ، انہوں نے سعد بن ابراہیم سے ، انہوں نے ابوسلمہ سے روایت کیا اور انہوں نے ابوہریرہ رضی اللہ عنہ سے اور انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے یہی حدیث بیان کی ۔",
+                "urduNarrator": "ہم سے علی بن عبداللہ مدینی نے بیان کیا ، کہا ہم سے سفیان بن عیینہ نے بیان کیا ، کہا ہم سے ابوالزناد نے بیان کیا ، ان سے اعرج نے ان سے ابوسلمہ نے اور ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا أَبُو الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم صَلاَةَ الصُّبْحِ، ثُمَّ أَقْبَلَ عَلَى النَّاسِ، فَقَالَ ‏\"‏ بَيْنَا رَجُلٌ يَسُوقُ بَقَرَةً إِذْ رَكِبَهَا فَضَرَبَهَا فَقَالَتْ إِنَّا لَمْ نُخْلَقْ لِهَذَا، إِنَّمَا خُلِقْنَا لِلْحَرْثِ ‏\"‏‏.‏ فَقَالَ النَّاسُ سُبْحَانَ اللَّهِ بَقَرَةٌ تَكَلَّمُ‏.‏ فَقَالَ ‏\"‏ فَإِنِّي أُومِنُ بِهَذَا أَنَا وَأَبُو بَكْرٍ وَعُمَرُ ـ وَمَا هُمَا ثَمَّ ـ وَبَيْنَمَا رَجُلٌ فِي غَنَمِهِ إِذْ عَدَا الذِّئْبُ فَذَهَبَ مِنْهَا بِشَاةٍ، فَطَلَبَ حَتَّى كَأَنَّهُ اسْتَنْقَذَهَا مِنْهُ، فَقَالَ لَهُ الذِّئْبُ هَذَا اسْتَنْقَذْتَهَا مِنِّي فَمَنْ لَهَا يَوْمَ السَّبُعِ، يَوْمَ لاَ رَاعِيَ لَهَا غَيْرِي ‏\"‏‏.‏ فَقَالَ النَّاسُ سُبْحَانَ اللَّهِ ذِئْبٌ يَتَكَلَّمُ‏.‏ قَالَ ‏\"‏ فَإِنِّي أُومِنُ بِهَذَا أَنَا وَأَبُو بَكْرٍ وَعُمَرُ ‏\"‏‏.‏ وَمَا هُمَا ثَمَّ‏.‏ وَحَدَّثَنَا عَلِيٌّ، حَدَّثَنَا سُفْيَانُ، عَنْ مِسْعَرٍ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِهِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3315,
+                "hadithNumber": "3472",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"A man bought a piece of land from another man, and the buyer found an earthenware jar filled with gold in the land. The buyer said to the seller. 'Take your gold, as I have bought only the land from you, but I have not bought the gold from you.' The (former) owner of the land said, \"I have sold you the land with everything in it.' So both of them took their case before a man who asked, 'Do you have children?' One of them said, \"I have a boy.' The other said, \"I have a girl.' The man said, 'Marry the girl to the boy and spend the money on both of them and give the rest of it in charity.'\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ایک شخص نے دوسرے شخص سے مکان خریدا اور مکان کے خریدار کو اس مکان میں ایک گھڑا ملا جس میں سونا تھا جس سے وہ مکان اس نے خریدا تھا اس سے اس نے کہا بھائی گھڑا لے جا ۔ کیونکہ میں نے تم سے گھر خریدا ہے سونا نہیں خریدا تھا لیکن پہلے مالک نے کہا کہ میں نے گھر کو ان تمام چیزوں سمیت تمہیں بیچ دیا تھا جو اس کے اندر موجود ہوں ۔ یہ دونوں ایک تیسرے شخص کے پاس اپنا مقدمہ کے گئے ۔ فیصلہ کرنے والے نے ان سے پوچھا کیا تمہارے کوئی اولاد ہے ؟ اس پر ایک نے کہا کہ میرے ایک لڑکا ہے اور دوسرے نے کہا کہ میری ایک لڑکی ہے ۔ فیصلہ کرنے والے نے ان سے کہا کہ لڑکے کا لڑکی سے نکاح کر دو اور سونا انہیں پر خرچ کر دو اور خیرات بھی کر دو ۔",
+                "urduNarrator": "ہم سے اسحاق بن نصر نے بیان کیا ، انہوں نے کہا ہم کو عبدالرزاق نے خبر دی ، انہیں معمر نے ، انہیں ہمام نے اور ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ نَصْرٍ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنْ هَمَّامٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ اشْتَرَى رَجُلٌ مِنْ رَجُلٍ عَقَارًا لَهُ، فَوَجَدَ الرَّجُلُ الَّذِي اشْتَرَى الْعَقَارَ فِي عَقَارِهِ جَرَّةً فِيهَا ذَهَبٌ، فَقَالَ لَهُ الَّذِي اشْتَرَى الْعَقَارَ خُذْ ذَهَبَكَ مِنِّي، إِنَّمَا اشْتَرَيْتُ مِنْكَ الأَرْضَ، وَلَمْ أَبْتَعْ مِنْكَ الذَّهَبَ‏.‏ وَقَالَ الَّذِي لَهُ الأَرْضُ إِنَّمَا بِعْتُكَ الأَرْضَ وَمَا فِيهَا، فَتَحَاكَمَا إِلَى رَجُلٍ، فَقَالَ الَّذِي تَحَاكَمَا إِلَيْهِ أَلَكُمَا وَلَدٌ قَالَ أَحَدُهُمَا لِي غُلاَمٌ‏.‏ وَقَالَ الآخَرُ لِي جَارِيَةٌ‏.‏ قَالَ أَنْكِحُوا الْغُلاَمَ الْجَارِيَةَ، وَأَنْفِقُوا عَلَى أَنْفُسِهِمَا مِنْهُ، وَتَصَدَّقَا ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3316,
+                "hadithNumber": "3473",
+                "englishNarrator": "Narrated Usama bin Zaid رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"Plague was a means of torture sent on a group of Israelis (or on some people before you). So if you hear of its spread in a land, don't approach it, and if a plague should appear in a land where you are present, then don't leave that land in order to run away from it (i.e. plague).",
+                "hadithUrdu": "طاعون کے بارے میں آپ نے آنحضرت صلی اللہ علیہ وسلم سے کیا سنا ہے ؟ انہوں نے کہا کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا طاعون ایک عذاب ہے جو پہلے بنی اسرائیل کے ایک گروہ پر بھیجا گیا تھا یا آپ نے یہ فرمایا کہ ایک گزشتہ امت پر بھیجا گیا تھا ۔ اس لئے جب کسی جگہ کے متعلق تم سنو ( کہ وہاں طاعون پھیلا ہوا ہے ) تو وہاں نہ جاؤ ۔ لیکن اگر کسی ایسی جگہ یہ وبا پھیل جائے جہاں تم پہلے سے موجود ہو تو وہاں سے مت نکلو ۔ ابوالنضر نے کہا یعنی بھاگنے کے سوا اور کوئی غرض نہ ہو تو مت نکلو ۔",
+                "urduNarrator": "ہم سے عبدالعزیز بن عبداللہ اویسی نے بیان کیا ، انہوں نے کہا مجھ سے امام مالک نے بیان کیا ، ان سے محمد بن منکدر اور عمر بن عبیداللہ کے مولیٰ ابو النضر نے ، ان سے عامر بن سعد بن ابی وقاص نے بیان کیا اور انہوں نے ( عامر نے ) اپنے والد ( سعد بن ابی وقاص رضی اللہ عنہ ) کو اسامہ بن زید رضی اللہ عنہ سے یہ پوچھتے سنا تھا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، وَعَنْ أَبِي النَّضْرِ، مَوْلَى عُمَرَ بْنِ عُبَيْدِ اللَّهِ عَنْ عَامِرِ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ، عَنْ أَبِيهِ، أَنَّهُ سَمِعَهُ يَسْأَلُ، أُسَامَةَ بْنَ زَيْدٍ مَاذَا سَمِعْتَ مِنْ، رَسُولِ اللَّهِ صلى الله عليه وسلم فِي الطَّاعُونِ فَقَالَ أُسَامَةُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ الطَّاعُونُ رِجْسٌ أُرْسِلَ عَلَى طَائِفَةٍ مِنْ بَنِي إِسْرَائِيلَ أَوْ عَلَى مَنْ كَانَ قَبْلَكُمْ، فَإِذَا سَمِعْتُمْ بِهِ بِأَرْضٍ فَلاَ تَقْدَمُوا عَلَيْهِ، وَإِذَا وَقَعَ بِأَرْضٍ وَأَنْتُمْ بِهَا فَلاَ تَخْرُجُوا فِرَارًا مِنْهُ ‏\"‏‏.‏ قَالَ أَبُو النَّضْرِ ‏\"‏ لاَ يُخْرِجُكُمْ إِلاَّ فِرَارًا مِنْهُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3317,
+                "hadithNumber": "3474",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا (the wife of the Prophet):",
+                "hadithEnglish": "I asked Allah's Messenger (ﷺ) about the plague. He told me that it was a Punishment sent by Allah on whom he wished, and Allah made it a source of mercy for the believers, for if one in the time of an epidemic plague stays in his country patiently hoping for Allah's Reward and believing that nothing will befall him except what Allah has written for him, he will get the reward of a martyr.\"",
+                "hadithUrdu": "میں نے آنحضرت صلی اللہ علیہ وسلم سے طاعون کے بارے میں پوچھا تو آپ صلی اللہ علیہ وسلم نے فرمایا کہ یہ ایک عذاب ہے ، اللہ تعالیٰ جس پر چاہتا ہے بھیجتا ہے لیکن اللہ تعالیٰ نے اس کو مومنوں کے لئے رحمت بنا دیا ہے ۔ اگر کسی شخص کی بستی میں طاعون پھیل جائے اور وہ صبر کے ساتھ اللہ کی رحمت سے امید لگائے ہوئے وہیں ٹھہرا رہے کہ ہو گا وہی جو اللہ تعالیٰ نے قسمت میں لکھا ہے تو اسے شہید کے برابر ثواب ملے گا ۔",
+                "urduNarrator": "ہم سے موسیٰ بن اسماعیل نے بیان کیا ، انہوں نے کہا ہم سے داؤد بن ابی فرات نے بیان کیا ، کہا ہم سے عبداللہ بن بریدہ نے بیان کیا ، ان سے یحیٰی بن یعمر نے اور ان سے ام المؤمنین حضرت عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا دَاوُدُ بْنُ أَبِي الْفُرَاتِ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ بُرَيْدَةَ، عَنْ يَحْيَى بْنِ يَعْمَرَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ زَوْجِ النَّبِيِّ صلى الله عليه وسلم قَالَتْ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الطَّاعُونِ، فَأَخْبَرَنِي ‏ \"‏ أَنَّهُ عَذَابٌ يَبْعَثُهُ اللَّهُ عَلَى مَنْ يَشَاءُ، وَأَنَّ اللَّهَ جَعَلَهُ رَحْمَةً لِلْمُؤْمِنِينَ، لَيْسَ مِنْ أَحَدٍ يَقَعُ الطَّاعُونُ فَيَمْكُثُ فِي بَلَدِهِ صَابِرًا مُحْتَسِبًا، يَعْلَمُ أَنَّهُ لاَ يُصِيبُهُ إِلاَّ مَا كَتَبَ اللَّهُ لَهُ، إِلاَّ كَانَ لَهُ مِثْلُ أَجْرِ شَهِيدٍ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3318,
+                "hadithNumber": "3475",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "The people of Quraish worried about the lady from Bani Makhzum who had committed theft. They asked, \"Who will intercede for her with Allah's Messenger (ﷺ)?\" Some said, \"No one dare to do so except Usama bin Zaid the beloved one to Allah's Messenger (ﷺ) .\" When Usama رضی اللہ عنہ spoke about that to Allah's Apostle Allah's Messenger (ﷺ) said, (to him), \"Do you try to intercede for somebody in a case connected with Allah's Prescribed Punishments?\" Then he got up and delivered a sermon saying, \"What destroyed the nations preceding you, was that if a noble amongst them stole, they would forgive him, and if a poor person amongst them stole, they would inflict Allah's Legal punishment on him. By Allah, if Fatima, the daughter of Muhammad stole, I would cut off her hand.\"",
+                "hadithUrdu": "مخزومیہ خاتون ( فاطمہ بنت اسود ) جس نے ( غزوہ فتح کے موقع پر ) چوری کر لی تھی ، اس کے معاملہ نے قریش کو فکر میں ڈال دیا ۔ انہوں نے آپس میں مشورہ کیا کہ اس معاملہ پر آنحضرت صلی اللہ علیہ وسلم سے گفتگو کون کرے ! آخر یہ طے پایا کہ اسامہ بن زید رضی اللہ عنہ آپ کو بہت عزیز ہیں ۔ ان کے سوا اور کوئی اس کی ہمت نہیں کر سکتا ۔ چنانچہ اسامہ رضی اللہ عنہ نے آنحضرت صلی اللہ علیہ وسلم سے اس بارے میں کچھ کہا تو آپ نے فرمایا ۔ اے اسامہ ! کیا تو اللہ کی حدود میں سے ایک حد کے بارے میں مجھ سے سفارش کرتا ہے ؟ پھر آپ کھڑے ہوئے اور خطبہ دیا ( جس میں ) آپ نے فرمایا ۔ پچھلی بہت سی امتیں اس لئے ہلاک ہو گئیں کہ جب ان کا کوئی شریف آدمی چوری کرتا تو اسے چھوڑ دیتے اور اگر کوئی کمزور چوری کرتا تو اس پر حد قائم کرتے اور اللہ کی قسم ! اگر فاطمہ بنت محمد صلی اللہ علیہ وسلم بھی چوری کرے تو میں اس کا بھی ہاتھ کاٹ ڈالوں ۔",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا ، کہا ہم سے لیث نے بیان کیا ، ان سے ابن شہاب نے ان سے عروہ نے اور ان سے حضرت عائشہ رضی اللہ عنہا نے کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها أَنَّ قُرَيْشًا، أَهَمَّهُمْ شَأْنُ الْمَرْأَةِ الْمَخْزُومِيَّةِ الَّتِي سَرَقَتْ، فَقَالَ وَمَنْ يُكَلِّمُ فِيهَا رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالُوا وَمَنْ يَجْتَرِئُ عَلَيْهِ إِلاَّ أُسَامَةُ بْنُ زَيْدٍ، حِبُّ رَسُولِ اللَّهِ صلى الله عليه وسلم، فَكَلَّمَهُ أُسَامَةُ، فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَتَشْفَعُ فِي حَدٍّ مِنْ حُدُودِ اللَّهِ ‏\"‏‏.‏ ثُمَّ قَامَ فَاخْتَطَبَ، ثُمَّ قَالَ ‏\"‏ إِنَّمَا أَهْلَكَ الَّذِينَ قَبْلَكُمْ أَنَّهُمْ كَانُوا إِذَا سَرَقَ فِيهِمُ الشَّرِيفُ تَرَكُوهُ، وَإِذَا سَرَقَ فِيهِمُ الضَّعِيفُ أَقَامُوا عَلَيْهِ الْحَدَّ، وَايْمُ اللَّهِ، لَوْ أَنَّ فَاطِمَةَ ابْنَةَ مُحَمَّدٍ سَرَقَتْ لَقَطَعْتُ يَدَهَا ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3319,
+                "hadithNumber": "3476",
+                "englishNarrator": "Narrated Ibn Mas`ud رضی اللہ عنہما :",
+                "hadithEnglish": "I heard a person reciting a (Qur'anic) Verse in a certain way, and I had heard the Prophet (ﷺ) reciting the same Verse in a different way. So I took him to the Prophet (ﷺ) and informed him of that but I noticed the sign of disapproval on his face, and then he said, \"Both of you are correct, so don't differ, for the nations before you differed, so they were destroyed.\"",
+                "hadithUrdu": "میں نے ایک صحابی ( عمرو بن عاص ) کو قرآن مجید کی ایک آیت پڑھتے سنا ۔ وہی آیت نبی کریم صلی اللہ علیہ وسلم سے اس کے خلاف قرآت کے ساتھ میں سن چکا تھا ، اس لئے میں انہیں ساتھ لے کر آپ کی خدمت میں حاضر ہوا اور آپ سے یہ واقعہ بیان کیا لیکن میں نے آنحضرت صلی اللہ علیہ وسلم کے چہرہ مبارک پر اس کی وجہ سے ناراضی کے آثار دیکھے ۔ آپ نے فرمایا تم دونوں اچھا پڑھتے ہو ۔ آپس میں اختلاف نہ کیا کرو ۔ تم سے پہلے لوگ اسی قسم کے جھگڑوں سے تباہ ہو گئے ۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا ، کہا ہم سے شعبہ نے بیان کیا ، کہا ہم سے عبدالملک بن میسرہ نے بیان کیا ، کہا کہ میں نے نزال بن سبرہ ہلالی سے سنا اور ان سے عبداللہ بن مسعود رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ مَيْسَرَةَ، قَالَ سَمِعْتُ النَّزَّالَ بْنَ سَبْرَةَ الْهِلاَلِيَّ، عَنِ ابْنِ مَسْعُودٍ ـ رضى الله عنه ـ قَالَ سَمِعْتُ رَجُلاً، قَرَأَ، وَسَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقْرَأُ خِلاَفَهَا فَجِئْتُ بِهِ النَّبِيَّ صلى الله عليه وسلم فَأَخْبَرْتُهُ فَعَرَفْتُ فِي وَجْهِهِ الْكَرَاهِيَةَ وَقَالَ ‏ \"‏ كِلاَكُمَا مُحْسِنٌ، وَلاَ تَخْتَلِفُوا، فَإِنَّ مَنْ كَانَ قَبْلَكُمُ اخْتَلَفُوا فَهَلَكُوا ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3320,
+                "hadithNumber": "3477",
+                "englishNarrator": "Narrated `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "As if I saw the Prophet (ﷺ) talking about one of the prophets whose nation had beaten him and caused him to bleed, while he was cleaning the blood off his face and saying, \"O Allah! Forgive my nation, for they have no knowledge.\"",
+                "hadithUrdu": "میں گویا نبی کریم صلی اللہ علیہ وسلم کو اس وقت دیکھ رہا ہوں ۔ آپ بنی اسرائیل کے ایک نبی کا واقعہ بیان کر رہے تھے کہ ان کی قوم نے انہیں مارا اور خون آلود کر دیا ۔ لیکن وہ نبی خون صاف کرتے جاتے اور یہ دعا کرتے کہ اے اللہ ! میری قوم کی مغفرت فرما ۔ یہ لوگ جانتے نہیں ہیں ۔",
+                "urduNarrator": "ہم سے عمر بن حفص نے بیان کیا ، کہا ہم سے میرے باپ حفص بن غیاث نے بیان کیا ، کہا ہم سے اعمش نے بیان کیا کہ کہ مجھ سے شقیق بن سلمہ نے بیان کیا کہ عبداللہ بن مسعود رضی اللہ عنہما نے کہا",
+                "hadithArabic": "حَدَّثَنَا عُمَرُ بْنُ حَفْصٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا الأَعْمَشُ، قَالَ حَدَّثَنِي شَقِيقٌ، قَالَ عَبْدُ اللَّهِ كَأَنِّي أَنْظُرُ إِلَى النَّبِيِّ صلى الله عليه وسلم يَحْكِي نَبِيًّا مِنَ الأَنْبِيَاءِ ضَرَبَهُ قَوْمُهُ فَأَدْمَوْهُ، وَهْوَ يَمْسَحُ الدَّمَ عَنْ وَجْهِهِ، وَيَقُولُ ‏ \"‏ اللَّهُمَّ اغْفِرْ لِقَوْمِي فَإِنَّهُمْ لاَ يَعْلَمُونَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3321,
+                "hadithNumber": "3478",
+                "englishNarrator": "Narrated Abu Sa`id رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Amongst the people preceding your age, there was a man whom Allah had given a lot of money. While he was in his death-bed, he called his sons and said, 'What type of father have I been to you? They replied, 'You have been a good father.' He said, 'I have never done a single good deed; so when I die, burn me, crush my body, and scatter the resulting ashes on a windy day.' His sons did accordingly, but Allah gathered his particles and asked (him), 'What made you do so?' He replied, \"Fear of you.' So Allah bestowed His Mercy upon him. (forgave him). Muadh reports from Qatadah. I heard Uqbah bin Abdul Ghaafir say: I heard from Hadrat Abu Saeed Khudri رضی اللہ عنہ that the prophet (ﷺ) said.",
+                "hadithUrdu": "گزشتہ امتوں میں ایک آدمی کو اللہ تعالیٰ نے خوب دولت دی تھی ۔ جب اس کی موت کا وقت آیا تو اس نے اپنے بیٹوں سے پوچھا میں تمہارے حق میں کیسا باپ ثابت ہوا ؟ بیٹوں نے کہا کہ آپ ہمارے بہترین باپ تھے ۔ اس شخص نے کہا لیکن میں نے عمر بھر کوئی نیک کام نہیں کیا ۔ اس لئے جب میں مر جاؤں تو مجھے جلا ڈالنا ، پھر میری ہڈیوں کو پیس ڈالنا اور ( راکھ کو ) کسی سخت آندھی کے دن ہوا میں اڑا دینا ۔ بیٹوں نے ایسا ہی کیا ۔ لیکن اللہ پاک نے اسے جمع کیا اور پوچھا کہ تو نے ایسا کیوں کیا ؟ اس شخص نے عرض کیا کہ پروردگار تیرے ہی خوف سے چنانچہ اللہ تعالیٰ نے اسے اپنے سایہ رحمت میں جگہ دی ۔ اس حدیث کو معاذ عنبری نے بیان کیا کہ ہم سے شعبہ نے بیان کیا ، ان سے قتادہ نے ، انہوں نے عقبہ بن عبدالغافر سے سنا ، انہوں نے ابو سعید خدری رضی اللہ عنہ سے اور انہوں نے نبی کریم صلی اللہ علیہ وسلم سے ۔",
+                "urduNarrator": "ہم سے ابوالولید نے بیان کیا ، کہا ہم سے ابو عوانہ نے بیان کیا ، ان سے قتادہ نے ان سے عقبہ بن عبدالغافر نے ان سے ابو سعید خدری رضی اللہ عنہ نے اور ان سے نبی کریم صلی اللہ علیہ وسلم نے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْوَلِيدِ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ قَتَادَةَ، عَنْ عُقْبَةَ بْنِ عَبْدِ الْغَافِرِ، عَنْ أَبِي سَعِيدٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏ \"‏ أَنَّ رَجُلاً كَانَ قَبْلَكُمْ رَغَسَهُ اللَّهُ مَالاً فَقَالَ لِبَنِيهِ لَمَّا حُضِرَ أَىَّ أَبٍ كُنْتُ لَكُمْ قَالُوا خَيْرَ أَبٍ‏.‏ قَالَ فَإِنِّي لَمْ أَعْمَلْ خَيْرًا قَطُّ، فَإِذَا مُتُّ فَأَحْرِقُونِي ثُمَّ اسْحَقُونِي ثُمَّ ذَرُّونِي فِي يَوْمٍ عَاصِفٍ‏.‏ فَفَعَلُوا، فَجَمَعَهُ اللَّهُ عَزَّ وَجَلَّ، فَقَالَ مَا حَمَلَكَ قَالَ مَخَافَتُكَ‏.‏ فَتَلَقَّاهُ بِرَحْمَتِهِ ‏\"‏‏.‏ وَقَالَ مُعَاذٌ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، سَمِعْتُ عُقْبَةَ بْنَ عَبْدِ الْغَافِرِ، سَمِعْتُ أَبَا سَعِيدٍ الْخُدْرِيَّ، عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3322,
+                "hadithNumber": "3479",
+                "englishNarrator": "Narrated `Uqba said to Hudhaifa رضی اللہ عنہ :",
+                "hadithEnglish": "\"Won't you narrate to us what you heard from Allah's Messenger (ﷺ) ?\" Hudhaifa said, \"I heard him saying, 'Death approached a man and when he had no hope of surviving, he said to his family, 'When I die, gather for me much wood and build a fire (to burn me),. When the fire has eaten my flesh and reached my bones, take the bones and grind them and scatter the resulting powder in the sea on a hot (or windy) day.' (That was done.) But Allah collected his particles and asked (him), 'Why did you do so?' He replied, 'For fear of You.' So Allah forgave him.\" Narrated `Abdul Malik: As above, saying, \"On a windy day.\"",
+                "hadithUrdu": "آپ نے نبی کریم صلی اللہ علیہ وسلم سے جو حدیثیں سنی ہیں وہ آپ ہم سے کیوں بیان نہیں کرتے ؟ حذیفہ رضی اللہ عنہ نے بیان کیا کہ میں نے آنحضرت صلی اللہ علیہ وسلم کو یہ کہتے سنا تھا کہ ایک شخص کی موت کا وقت جب قریب ہوا اور وہ زندگی سے بالکل ناامید ہو گیا تو اپنے گھر والوں کو وصیت کی کہ جب میری موت ہو جائے تو پہلے میرے لئے بہت سی لکڑیاں جمع کرنا اور اس سے آگ جلانا ۔ جب آگ میرے جسم کو خاکستر بنا چکے اور صرف ہڈیاں باقی رہ جائیں تو ہڈیوں کو پیس لینا اور کسی سخت گرمی کے دن میں یا ( یوں فرمایا کہ ) سخت ہوا کے دن مجھ کو ہوا میں اڑا دینا لیکن اللہ تعالیٰ نے اسے جمع کیا اور پوچھا کہ تو نے ایسا کیوں کیا تھا ؟ اس نے کہا کہ تیرے ہی ڈر سے ۔ آخر اللہ تعالیٰ نے اس کو بخش دیا ۔ عقبہ رضی اللہ عنہ نے کہا کہ میں نے بھی آنحضرت صلی اللہ علیہ وسلم کو فرماتے ہوئے یہ حدیث سنی ہے ۔ ہم سے موسیٰ نے بیان کیا کہا ہم سے ابوعوانہ نے بیان کیا کہا ہم سے عبدالملک نے بیان کیا اور کہا کہ اس روایت میں فی یوم راح ہے ( سوا شک کے ) اس کے معنی بھی کسی تیز ہوا کے دن کے ہیں ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیا کہا ، ہم سے ابوعوانہ نے ان سے عبدالملک بن عمیر نے ، ان سے ربعی بن حراش نے بیان کیا کہ عقبہ بن عمرو ابومسعود انصاری نے حذیفہ رضی اللہ عنہ سے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنْ رِبْعِيِّ بْنِ حِرَاشٍ، قَالَ قَالَ عُقْبَةُ لِحُذَيْفَةَ أَلاَ تُحَدِّثُنَا مَا سَمِعْتَ مِنَ النَّبِيِّ صلى الله عليه وسلم‏.‏ قَالَ سَمِعْتُهُ يَقُولُ ‏\"‏ إِنَّ رَجُلاً حَضَرَهُ الْمَوْتُ، لَمَّا أَيِسَ مِنَ الْحَيَاةِ، أَوْصَى أَهْلَهُ إِذَا مُتُّ فَاجْمَعُوا لِي حَطَبًا كَثِيرًا، ثُمَّ أَوْرُوا نَارًا حَتَّى إِذَا أَكَلَتْ لَحْمِي، وَخَلَصَتْ إِلَى عَظْمِي، فَخُذُوهَا فَاطْحَنُوهَا، فَذَرُّونِي فِي الْيَمِّ فِي يَوْمٍ حَارٍّ أَوْ رَاحٍ‏.‏ فَجَمَعَهُ اللَّهُ، فَقَالَ لِمَ فَعَلْتَ قَالَ خَشْيَتَكَ‏.‏ فَغَفَرَ لَهُ ‏\"‏‏.‏ قَالَ عُقْبَةُ وَأَنَا سَمِعْتُهُ يَقُولُ‏.‏ حَدَّثَنَا مُوسَى حَدَّثَنَا أَبُو عَوَانَةَ حَدَّثَنَا عَبْدُ الْمَلِكِ وَقَالَ ‏\"‏ فِي يَوْمٍ رَاحٍ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3323,
+                "hadithNumber": "3480",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"A man used to give loans to the people and used to say to his servant, 'If the debtor is poor, forgive him, so that Allah may forgive us.' So when he met Allah (after his death), Allah forgave him.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا ایک شخص لوگوں کو قرض دیا کرتا تھا اور اپنے نوکروں کو اس نے یہ کہہ رکھا تھا کہ جب تم کسی کو مفلس پاؤ ( جو میرا قرض دار ہو ) تو اسے معاف کر دیا کرو ۔ ممکن ہے اللہ تعالیٰ بھی ہمیں معاف فرما دے ۔ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا جب وہ اللہ تعالیٰ سے ملا تو اللہ نے اسے بخش دیا ۔",
+                "urduNarrator": "ہم سے عبدالعزیز بن عبداللہ نے بیان کیا ، کہا ہم سے ابراہیم بن سعد نے بیان کیا ان سے ابن شہاب نے ان سے عبیداللہ بن عباللہ بن عتبہ نے اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ كَانَ الرَّجُلُ يُدَايِنُ النَّاسَ، فَكَانَ يَقُولُ لِفَتَاهُ إِذَا أَتَيْتَ مُعْسِرًا فَتَجَاوَزْ عَنْهُ، لَعَلَّ اللَّهُ أَنْ يَتَجَاوَزَ عَنَّا‏.‏ قَالَ فَلَقِيَ اللَّهَ فَتَجَاوَزَ عَنْهُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3324,
+                "hadithNumber": "3481",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"A man used to do sinful deeds, and when death came to him, he said to his sons, 'After my death, burn me and then crush me, and scatter the powder in the air, for by Allah, if Allah has control over me, He will give me such a punishment as He has never given to anyone else.' When he died, his sons did accordingly. Allah ordered the earth saying, 'Collect what you hold of his particles.' It did so, and behold! There he was (the man) standing. Allah asked (him), 'What made you do what you did?' He replied, 'O my Lord! I was afraid of You.' So Allah forgave him. \" Another narrator said \"The man said, Fear of You, O Lord!\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا ایک شخص بہت گناہ کیا کرتا تھا جب اس کی موت کا وقت قریب آیا تو اپنے بیٹوں سے اس نے کہا کہ جب میں مر جاؤں تو مجھے جلا ڈالنا پھر میری ہڈیوں کو پیس کر ہوا میں اڑا دینا اللہ کی قسم ! اگر میرے رب نے مجھے پکڑ لیا تو مجھے اتنا سخت عذاب کرے گا جو پہلے کسی کو بھی اس نے نہیں کیا ہو گا ۔ جب وہ مر گیا تو ( اس کی وصیت کے مطابق ) اس کے ساتھ ایسا ہی کیا گیا ۔ اللہ تعالیٰ نے زمین کو حکم فرمایا کہ اگر ایک ذرہ بھی کہیں اس کے جسم کا تیرے پاس ہے تو اسے جمع کر کے لا ۔ زمین حکم بجا لائی اور وہ بندہ اب ( اپنے رب کے سامنے ) کھڑا ہوا تھا ۔ اللہ تعالیٰ نے دریافت فرمایا تو نے ایسا کیوں کیا ؟ اس نے عرض کیا اے رب ! تیرے ڈر کی وجہ سے ۔ آخر اللہ تعالیٰ نے اس کی مغفرت کر دی ۔ ابوہریرہ رضی اللہ عنہ کے سوا دوسرے صحابہ نے اس حدیث میں لفظخشیتک کے بدل مخافتک کہا ہے ( دونوں لفظوں کا مطلب ایک ہی ہے ) ۔",
+                "urduNarrator": "ہم سے عبداللہ بن محمد مسندی نے بیان کیا کہا ہم سے ہشام نے بیان کیا کہا ہم کو معمر نے خبر دی ، انہیں زہری نے انہیں حمید بن عبدالرحمان نے اور انہیں ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا هِشَامٌ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ كَانَ رَجُلٌ يُسْرِفُ عَلَى نَفْسِهِ، فَلَمَّا حَضَرَهُ الْمَوْتُ قَالَ لِبَنِيهِ إِذَا أَنَا مُتُّ فَأَحْرِقُونِي ثُمَّ اطْحَنُونِي ثُمَّ ذَرُّونِي فِي الرِّيحِ، فَوَاللَّهِ لَئِنْ قَدَرَ عَلَىَّ رَبِّي لَيُعَذِّبَنِّي عَذَابًا مَا عَذَّبَهُ أَحَدًا‏.‏ فَلَمَّا مَاتَ فُعِلَ بِهِ ذَلِكَ، فَأَمَرَ اللَّهُ الأَرْضَ، فَقَالَ اجْمَعِي مَا فِيكِ مِنْهُ‏.‏ فَفَعَلَتْ فَإِذَا هُوَ قَائِمٌ، فَقَالَ مَا حَمَلَكَ عَلَى مَا صَنَعْتَ قَالَ يَا رَبِّ، خَشْيَتُكَ‏.‏ فَغَفَرَ لَهُ ‏\"‏‏.‏ وَقَالَ غَيْرُهُ ‏\"‏ مَخَافَتُكَ يَا رَبِّ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3325,
+                "hadithNumber": "3482",
+                "englishNarrator": "Narrated `Abdullah bin `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"A lady was punished because of a cat which she had imprisoned till it died. She entered the (Hell) Fire because of it, for she neither gave it food nor water as she had imprisoned it, nor set it free to eat from the vermin of the earth.\"",
+                "hadithUrdu": "( بنی اسرائیل کی ) ایک عورت کو ایک بلی کی وجہ سے عذاب دیا گیا تھا جسے اس نے قید کر رکھا تھا جس سے وہ بلی مر گئی تھی اور اس کی سزا میں وہ عورت دوزخ میں گئی ۔ جب وہ عورت بلی کو باندھے ہوئے تھی تو اس نے اسے کھانے کے لئے کوئی چیز نہ دی ، نہ پینے کے لئے اور نہ اس نے بلی کو چھوڑا ہی کہ وہ زمین کے کیڑے مکوڑے ہی کھا لیتی ۔",
+                "urduNarrator": "مجھ سے عبداللہ بن محمد بن اسماء نے بیان کیا کہا ہم سے جویریہ بن اسماء نے بیان کیا ، ان سے نافع نے ان سے عبداللہ بن عمر رضی اللہ عنہما نے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ",
+                "hadithArabic": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ أَسْمَاءَ، حَدَّثَنَا جُوَيْرِيَةُ بْنُ أَسْمَاءَ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ عُذِّبَتِ امْرَأَةٌ فِي هِرَّةٍ سَجَنَتْهَا حَتَّى مَاتَتْ، فَدَخَلَتْ فِيهَا النَّارَ، لاَ هِيَ أَطْعَمَتْهَا وَلاَ سَقَتْهَا إِذْ حَبَسَتْهَا، وَلاَ هِيَ تَرَكَتْهَا تَأْكُلُ مِنْ خَشَاشِ الأَرْضِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3326,
+                "hadithNumber": "3483",
+                "englishNarrator": "Narrated Abu Masud `Uqba رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"One of the sayings of the prophets which the people have got, is. 'If you do not feel ashamed, then do whatever you like.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا لوگوں نے اگلے پیغمبروں کے کلام جو پائے ان میں یہ بھی ہے کہ جب تجھ میں حیاء نہ ہو تو پھر جو جی چاہے کر ۔",
+                "urduNarrator": "ہم سے احمد بن یونس نے بیان کیا ، ان سے زہیر نے کہا ہم سے منصور نے بیان کیا ان سے ربعی بن حراش نے کہا ہم سے ابومسعود عقبہ بن عمرو رضی اللہ عنہ نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، عَنْ زُهَيْرٍ، حَدَّثَنَا مَنْصُورٌ، عَنْ رِبْعِيِّ بْنِ حِرَاشٍ، حَدَّثَنَا أَبُو مَسْعُودٍ، عُقْبَةُ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ إِنَّ مِمَّا أَدْرَكَ النَّاسُ مِنْ كَلاَمِ النُّبُوَّةِ، إِذَا لَمْ تَسْتَحِي فَافْعَلْ مَا شِئْتَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3327,
+                "hadithNumber": "3484",
+                "englishNarrator": "Narrated Abu Mus'ud رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"One of the sayings of the prophets which the people have got is, 'If you do not feel ashamed, then do whatever you like.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا اگلے پیغمبروں کے کلام میں سے لوگوں نے جو پایا یہ بھی ہے کہ جب تجھ میں حیاء نہ ہو پھر جو جی چاہے کر ۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا ، کہا ہم سے شعبہ نے بیان کیا ان سے منصور نے باین کیا انہوں نے کہا میں نے ربعی بن حراش سے سنا وہ ابومسعود انصاری رضی اللہ عنہ سے روایت کرتے تھے کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، عَنْ مَنْصُورٍ، قَالَ سَمِعْتُ رِبْعِيَّ بْنَ حِرَاشٍ، يُحَدِّثُ عَنْ أَبِي مَسْعُودٍ، قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ إِنَّ مِمَّا أَدْرَكَ النَّاسُ مِنْ كَلاَمِ النُّبُوَّةِ إِذَا لَمْ تَسْتَحِي فَاصْنَعْ مَا شِئْتَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "61",
+                "bookSlug": "sahih-bukhari",
+                "volume": "4",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 61,
+                    "chapterNumber": "61",
+                    "chapterEnglish": "Prophets",
+                    "chapterUrdu": "انبیاء علیہم السلام کے بیان میں",
+                    "chapterArabic": "كتاب أحاديث الأنبياء",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 3301,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=132",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=130",
+                "label": "130",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=131",
+                "label": "131",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=132",
+                "label": "132",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=133",
+                "label": "133",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=134",
+                "label": "134",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=135",
+                "label": "135",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=136",
+                "label": "136",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=134",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=134",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=132",
+        "to": 3325,
+        "total": 40465
+    }
+}

@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 1,
+        "data": [
+            {
+                "id": 1,
+                "hadithNumber": "1",
+                "englishNarrator": "Narrated 'Umar bin Al-Khattab (May Allah be pleased with him):",
+                "hadithEnglish": "I heard Allah's Messenger (ﷺ) saying, \"The reward of deeds depends upon the intentions and every person will get the reward according to what he has intended. So whoever emigrated for worldly benefits or for a woman to marry, his emigration was for what he emigrated for.\"",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم فرما رہے تھے کہ تمام اعمال کا دارومدار نیت پر ہے اور ہر عمل کا نتیجہ ہر انسان کو اس کی نیت کے مطابق ہی ملے گا ۔ پس جس کی ہجرت ( ترک وطن ) دولت دنیا حاصل کرنے کے لیے ہو یا کسی عورت سے شادی کی غرض ہو ۔ پس اس کی ہجرت ان ہی چیزوں کے لیے ہو گی جن کے حاصل کرنے کی نیت سے اس نے ہجرت کی ہے ۔",
+                "urduNarrator": "ہم کو حمیدی نے یہ حدیث بیان کی ، انھوں نے کہا کہ ہم کو سفیان نے یہ حدیث بیان کی ، وہ کہتے ہیں ہم کو یحییٰ بن سعید انصاری نے یہ حدیث بیان کی ، انھوں نے کہا کہ مجھے یہ حدیث محمد بن ابراہیم تیمی سے حاصل ہوئی ۔ انھوں نے اس حدیث کو علقمہ بن وقاص لیثی سے سنا ، ان کا بیان ہے کہ میں نے مسجدنبوی میں منبر رسول صلی اللہ علیہ وسلم پر حضرت عمر بن خطاب رضی اللہ عنہ کی زبان سے سنا ، وہ فرما رہے تھے کہ میں نے جناب رسول اللہ صلی اللہ علیہ وسلم سے سنا",
+                "hadithArabic": "حَدَّثَنَا الْحُمَيْدِيُّ عَبْدُ اللَّهِ بْنُ الزُّبَيْرِ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ الأَنْصَارِيُّ، قَالَ أَخْبَرَنِي مُحَمَّدُ بْنُ إِبْرَاهِيمَ التَّيْمِيُّ، أَنَّهُ سَمِعَ عَلْقَمَةَ بْنَ وَقَّاصٍ اللَّيْثِيَّ، يَقُولُ سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ ـ رضى الله عنه ـ عَلَى الْمِنْبَرِ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى دُنْيَا يُصِيبُهَا أَوْ إِلَى امْرَأَةٍ يَنْكِحُهَا فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ ‏\"‏‏.‏",
+                "headingArabic": "كَيْفَ كَانَ بَدْءُ الْوَحْىِ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم",
+                "headingUrdu": "رسول اللہ ﷺ پر وحی کا آغاز کیونکر ہوا؟ نیز اللہ عزوجل کے فرمان (کی وضاحت): ہم نے آپ کی طرف اسی طرح وحی نازل فرمائی ہے جیسے حضرت نوح علیہ السلام ان کے بعد آنے والے تمام انبیاء (علیہ السلام) کی طرف نازل کی تھی۔",
+                "headingEnglish": "How the Divine Revelation started being revealed to Allah's Messenger (peace be upon him)",
+                "chapterId": "1",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 1,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "Revelation",
+                    "chapterUrdu": "وحی کے بیان میں",
+                    "chapterArabic": "كتاب بدء الوحى",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2,
+                "hadithNumber": "2",
+                "englishNarrator": "Narrated 'Aisha (the mother of the faithful believers):",
+                "hadithEnglish": "Al-Harith bin Hisham asked Allah's Messenger (ﷺ) \"O Allah's Messenger (ﷺ)! How is the Divine Inspiration revealed to you?\" Allah's Messenger (ﷺ) replied, \"Sometimes it is (revealed) like the ringing of a bell, this form of Inspiration is the hardest of all and then this state passes off after I have grasped what is inspired. Sometimes the Angel comes in the form of a man and talks to me and I grasp whatever he says.\" 'Aisha added: Verily I saw the Prophet (ﷺ) being inspired divinely on a very cold day and noticed the sweat dropping from his forehead (as the Inspiration was over).",
+                "hadithUrdu": "ایک شخص حارث بن ہشام نامی نے آنحضرت صلی اللہ علیہ وسلم سے سوال کیا تھا کہ یا رسول اللہ ! آپ پر وحی کیسے نازل ہوتی ہے ؟ آپ صلی اللہ علیہ وسلم نے فرمایا کہ وحی نازل ہوتے وقت کبھی مجھ کو گھنٹی کی سی آواز محسوس ہوتی ہے اور وحی کی یہ کیفیت مجھ پر بہت شاق گذرتی ہے ۔ جب یہ کیفیت ختم ہوتی ہے تو میرے دل و دماغ پر اس ( فرشتے ) کے ذریعہ نازل شدہ وحی محفوظ ہو جاتی ہے اور کسی وقت ایسا ہوتا ہے کہ فرشتہ بشکل انسان میرے پاس آتا ہے اور مجھ سے کلام کرتا ہے ۔ پس میں اس کا کہا ہوا یاد رکھ لیتا ہوں ۔ حضرت عائشہ رضی اللہ عنہا کا بیان ہے کہ میں نے سخت کڑاکے کی سردی میں آنحضرت صلی اللہ علیہ وسلم کو دیکھا ہے کہ آپ صلی اللہ علیہ وسلم پر وحی نازل ہوئی اور جب اس کا سلسلہ موقوف ہوا تو آپ صلی اللہ علیہ وسلم کی پیشانی پسینے سے شرابور تھی ۔",
+                "urduNarrator": "ہم کو عبداللہ بن یوسف نے حدیث بیان کی ، ان کو مالک نے ہشام بن عروہ کی روایت سے خبر دی ، انھوں نے اپنے والد سے نقل کی ، انھوں نے ام المؤمنین حضرت عائشہ صدیقہ رضی اللہ عنہا سے نقل کی آپ نے فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ أُمِّ الْمُؤْمِنِينَ ـ رضى الله عنها ـ أَنَّ الْحَارِثَ بْنَ هِشَامٍ ـ رضى الله عنه ـ سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ كَيْفَ يَأْتِيكَ الْوَحْىُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ أَحْيَانًا يَأْتِينِي مِثْلَ صَلْصَلَةِ الْجَرَسِ ـ وَهُوَ أَشَدُّهُ عَلَىَّ ـ فَيُفْصَمُ عَنِّي وَقَدْ وَعَيْتُ عَنْهُ مَا قَالَ، وَأَحْيَانًا يَتَمَثَّلُ لِيَ الْمَلَكُ رَجُلاً فَيُكَلِّمُنِي فَأَعِي مَا يَقُولُ ‏\"‏‏.‏ قَالَتْ عَائِشَةُ رضى الله عنها وَلَقَدْ رَأَيْتُهُ يَنْزِلُ عَلَيْهِ الْوَحْىُ فِي الْيَوْمِ الشَّدِيدِ الْبَرْدِ، فَيَفْصِمُ عَنْهُ وَإِنَّ جَبِينَهُ لَيَتَفَصَّدُ عَرَقًا‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 1,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "Revelation",
+                    "chapterUrdu": "وحی کے بیان میں",
+                    "chapterArabic": "كتاب بدء الوحى",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 3,
+                "hadithNumber": "3",
+                "englishNarrator": "Narrated 'Aisha:",
+                "hadithEnglish": "(the mother of the faithful believers) The commencement of the Divine Inspiration to Allah's Messenger (ﷺ) was in the form of good dreams which came true like bright daylight, and then the love of seclusion was bestowed upon him. He used to go in seclusion in the cave of Hira where he used to worship (Allah alone) continuously for many days before his desire to see his family. He used to take with him the journey food for the stay and then come back to (his wife) Khadija to take his food likewise again till suddenly the Truth descended upon him while he was in the cave of Hira. The angel came to him and asked him to read. The Prophet (ﷺ) replied, \"I do not know how to read.\" The Prophet (ﷺ) added, \"The angel caught me (forcefully) and pressed me so hard that I could not bear it any more. He then released me and again asked me to read and I replied, 'I do not know how to read.' Thereupon he caught me again and pressed me a second time till I could not bear it any more. He then released me and again asked me to read but again I replied, 'I do not know how to read (or what shall I read)?' Thereupon he caught me for the third time and pressed me, and then released me and said, 'Read in the name of your Lord, who has created (all that exists), created man from a clot. Read! And your Lord is the Most Generous.\" (96.1, 96.2, 96.3) Then Allah's Messenger (ﷺ) returned with the Inspiration and with his heart beating severely. Then he went to Khadija bint Khuwailid and said, \"Cover me! Cover me!\" They covered him till his fear was over and after that he told her everything that had happened and said, \"I fear that something may happen to me.\" Khadija replied, \"Never! By Allah, Allah will never disgrace you. You keep good relations with your kith and kin, help the poor and the destitute, serve your guests generously and assist the deserving calamity-afflicted ones.\" Khadija then accompanied him to her cousin Waraqa bin Naufal bin Asad bin 'Abdul 'Uzza, who, during the pre-Islamic Period became a Christian and used to write the writing with Hebrew letters. He would write from the Gospel in Hebrew as much as Allah wished him to write. He was an old man and had lost his eyesight. Khadija said to Waraqa, \"Listen to the story of your nephew, O my cousin!\" Waraqa asked, \"O my nephew! What have you seen?\" Allah's Messenger (ﷺ) described whatever he had seen. Waraqa said, \"This is the same one who keeps the secrets (angel Gabriel) whom Allah had sent to Moses. I wish I were young and could live up to the time when your people would turn you out.\" Allah's Messenger (ﷺ) asked, \"Will they drive me out?\" Waraqa replied in the affirmative and said, \"Anyone (man) who came with something similar to what you have brought was treated with hostility; and if I should remain alive till the day when you will be turned out then I would support you strongly.\" But after a few days Waraqa died and the Divine Inspiration was also paused for a while.",
+                "hadithUrdu": "آنحضرت صلی اللہ علیہ وسلم پر وحی کا ابتدائی دور اچھے سچے پاکیزہ خوابوں سے شروع ہوا ۔ آپ صلی اللہ علیہ وسلم خواب میں جو کچھ دیکھتے وہ صبح کی روشنی کی طرح صحیح اور سچا ثابت ہوتا ۔ پھر من جانب قدرت آپ صلی اللہ علیہ وسلم تنہائی پسند ہو گئے اور آپ صلی اللہ علیہ وسلم نے غار حرا میں خلوت نشینی اختیار فرمائی اور کئی کئی دن اور رات وہاں مسلسل عبادت اور یاد الٰہی و ذکر و فکر میں مشغول رہتے ۔ جب تک گھر آنے کو دل نہ چاہتا توشہ ہمراہ لیے ہوئے وہاں رہتے ۔ توشہ ختم ہونے پر ہی اہلیہ محترمہ حضرت خدیجہ رضی اللہ عنہا کے پاس تشریف لاتے اور کچھ توشہ ہمراہ لے کر پھر وہاں جا کر خلوت گزیں ہو جاتے ، یہی طریقہ جاری رہا یہاں تک کہ آپ صلی اللہ علیہ وسلم پر حق منکشف ہو گیا اور آپ صلی اللہ علیہ وسلم غار حرا ہی میں قیام پذیر تھے کہ اچانک حضرت جبرائیل علیہ السلام آپ صلی اللہ علیہ وسلم کے پاس حاضر ہوئے اور کہنے لگے کہ اے محمد ! پڑھو آپ صلی اللہ علیہ وسلم فرماتے ہیں کہ میں نے کہا کہ میں پڑھنا نہیں جانتا ، آپ صلی اللہ علیہ وسلم فرماتے ہیں کہ فرشتے نے مجھے پکڑ کر اتنے زور سے بھینچا کہ میری طاقت جواب دے گئی ، پھر مجھے چھوڑ کر کہا کہ پڑھو ، میں نے پھر وہی جواب دیا کہ میں پڑھا ہوا نہیں ہوں ۔ اس فرشتے نے مجھ کو نہایت ہی زور سے بھینچا کہ مجھ کو سخت تکلیف محسوس ہوئی ، پھر اس نے کہا کہ پڑھ ! میں نے کہا کہ میں پڑھا ہوا نہیں ہوں ۔ فرشتے نے تیسری بار مجھ کو پکڑا اور تیسری مرتبہ پھر مجھ کو بھینچا پھر مجھے چھوڑ دیا اور کہنے لگا کہ پڑھو اپنے رب کے نام کی مدد سے جس نے پیدا کیا اور انسان کو خون کی پھٹکی سے بنایا ، پڑھو اور آپ کا رب بہت ہی مہربانیاں کرنے والا ہے ۔ پس یہی آیتیں آپ صلی اللہ علیہ وسلم حضرت جبرائیل علیہ السلام سے سن کر اس حال میں غار حرا سے واپس ہوئے کہ آپ صلی اللہ علیہ وسلم کا دل اس انوکھے واقعہ سے کانپ رہا تھا ۔ آپ صلی اللہ علیہ وسلم حضرت خدیجہ کے ہاں تشریف لائے اور فرمایا کہ مجھے کمبل اڑھا دو ، مجھے کمبل اڑھا دو ۔ لوگوں نے آپ صلی اللہ علیہ وسلم کو کمبل اڑھا دیا ۔ جب آپ صلی اللہ علیہ وسلم کا ڈر جاتا رہا ۔ تو آپ صلی اللہ علیہ وسلم نے اپنی زوجہ محترمہ حضرت خدیجہ رضی اللہ عنہا کو تفصیل کے ساتھ یہ واقعہ سنایا اور فرمانے لگے کہ مجھ کو اب اپنی جان کا خوف ہو گیا ہے ۔ آپ صلی اللہ علیہ وسلم کی اہلیہ محترمہ حضرت خدیجہ رضی اللہ عنہا نے آپ صلی اللہ علیہ وسلم کی ڈھارس بندھائی اور کہا کہ آپ کا خیال صحیح نہیں ہے ۔ خدا کی قسم آپ کو اللہ کبھی رسوا نہیں کرے گا ، آپ تو اخلاق فاضلہ کے مالک ہیں ، آپ تو کنبہ پرور ہیں ، بے کسوں کا بوجھ اپنے سر پر رکھ لیتے ہیں ، مفلسوں کے لیے آپ کماتے ہیں ، مہمان نوازی میں آپ بےمثال ہیں اور مشکل وقت میں آپ امر حق کا ساتھ دیتے ہیں ۔ ایسے اوصاف حسنہ والا انسان یوں بے وقت ذلت و خواری کی موت نہیں پا سکتا ۔ پھر مزید تسلی کے لیے حضرت خدیجہ رضی اللہ عنہا آپ صلی اللہ علیہ وسلم کو ورقہ بن نوفل کے پاس لے گئیں ، جو ان کے چچا زاد بھائی تھے اور زمانہ جاہلیت میں نصرانی مذہب اختیار کر چکے تھے اور عبرانی زبان کے کاتب تھے ، چنانچہ انجیل کو بھی حسب منشائے خداوندی عبرانی زبان میں لکھا کرتے تھے ۔ ( انجیل سریانی زبان میں نازل ہوئی تھی پھر اس کا ترجمہ عبرانی زبان میں ہوا ۔ ورقہ اسی کو لکھتے تھے ) وہ بہت بوڑھے ہو گئے تھے یہاں تک کہ ان کی بینائی بھی رخصت ہو چکی تھی ۔ حضرت خدیجہ رضی اللہ عنہا نے ان کے سامنے آپ صلی اللہ علیہ وسلم کے حالات بیان کیے اور کہا کہ اے چچا زاد بھائی ! اپنے بھتیجے ( محمد صلی اللہ علیہ وسلم ) کی زبانی ذرا ان کی کیفیت سن لیجیئے وہ بولے کہ بھتیجے آپ نے جو کچھ دیکھا ہے ، اس کی تفصیل سناؤ ۔ چنانچہ آپ صلی اللہ علیہ وسلم نے از اول تا آخر پورا واقعہ سنایا ، جسے سن کر ورقہ بے اختیار ہو کر بول اٹھے کہ یہ تو وہی ناموس ( معزز راز دان فرشتہ ) ہے جسے اللہ نے حضرت موسیٰ علیہ السلام پر وحی دے کر بھیجا تھا ۔ کاش ، میں آپ کے اس عہد نبوت کے شروع ہونے پر جوان عمر ہوتا ۔ کاش میں اس وقت تک زندہ رہتا جب کہ آپ کی قوم آپ کو اس شہر سے نکال دے گی ۔ رسول کریم صلی اللہ علیہ وسلم نے یہ سن کر تعجب سے پوچھا کہ کیا وہ لوگ مجھ کو نکال دیں گے ؟ ( حالانکہ میں تو ان میں صادق و امین و مقبول ہوں ) ورقہ بولا ہاں یہ سب کچھ سچ ہے ۔ مگر جو شخص بھی آپ کی طرح امر حق لے کر آیا لوگ اس کے دشمن ہی ہو گئے ہیں ۔ اگر مجھے آپ کی نبوت کا وہ زمانہ مل جائے تو میں آپ کی پوری پوری مدد کروں گا ۔ مگر ورقہ کچھ دنوں کے بعد انتقال کر گئے ۔ پھر کچھ عرصہ تک وحی کی آمد موقوف رہی ۔",
+                "urduNarrator": "ہم کو یحییٰ بن بکیر نے یہ حدیث بیان کی ، وہ کہتے ہیں کہ اس حدیث کی ہم کو لیث نے خبر دی ، لیث عقیل سے روایت کرتے ہیں ۔ عقیل ابن شہاب سے ، وہ عروہ بن زبیر سے ، وہ ام المؤمنین حضرت عائشہ رضی اللہ عنہا سے نقل کرتے ہیں کہ انھوں نے بتلایا کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ أُمِّ الْمُؤْمِنِينَ، أَنَّهَا قَالَتْ أَوَّلُ مَا بُدِئَ بِهِ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنَ الْوَحْىِ الرُّؤْيَا الصَّالِحَةُ فِي النَّوْمِ، فَكَانَ لاَ يَرَى رُؤْيَا إِلاَّ جَاءَتْ مِثْلَ فَلَقِ الصُّبْحِ، ثُمَّ حُبِّبَ إِلَيْهِ الْخَلاَءُ، وَكَانَ يَخْلُو بِغَارِ حِرَاءٍ فَيَتَحَنَّثُ فِيهِ ـ وَهُوَ التَّعَبُّدُ ـ اللَّيَالِيَ ذَوَاتِ الْعَدَدِ قَبْلَ أَنْ يَنْزِعَ إِلَى أَهْلِهِ، وَيَتَزَوَّدُ لِذَلِكَ، ثُمَّ يَرْجِعُ إِلَى خَدِيجَةَ، فَيَتَزَوَّدُ لِمِثْلِهَا، حَتَّى جَاءَهُ الْحَقُّ وَهُوَ فِي غَارِ حِرَاءٍ، فَجَاءَهُ الْمَلَكُ فَقَالَ اقْرَأْ‏.‏ قَالَ ‏\"‏ مَا أَنَا بِقَارِئٍ ‏\"‏‏.‏ قَالَ ‏\"‏ فَأَخَذَنِي فَغَطَّنِي حَتَّى بَلَغَ مِنِّي الْجَهْدَ، ثُمَّ أَرْسَلَنِي فَقَالَ اقْرَأْ‏.‏ قُلْتُ مَا أَنَا بِقَارِئٍ‏.‏ فَأَخَذَنِي فَغَطَّنِي الثَّانِيَةَ حَتَّى بَلَغَ مِنِّي الْجَهْدَ، ثُمَّ أَرْسَلَنِي فَقَالَ اقْرَأْ‏.‏ فَقُلْتُ مَا أَنَا بِقَارِئٍ‏.‏ فَأَخَذَنِي فَغَطَّنِي الثَّالِثَةَ، ثُمَّ أَرْسَلَنِي فَقَالَ ‏{‏اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ * خَلَقَ الإِنْسَانَ مِنْ عَلَقٍ * اقْرَأْ وَرَبُّكَ الأَكْرَمُ‏}‏ ‏\"‏‏.‏ فَرَجَعَ بِهَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَرْجُفُ فُؤَادُهُ، فَدَخَلَ عَلَى خَدِيجَةَ بِنْتِ خُوَيْلِدٍ رضى الله عنها فَقَالَ ‏\"‏ زَمِّلُونِي زَمِّلُونِي ‏\"‏‏.‏ فَزَمَّلُوهُ حَتَّى ذَهَبَ عَنْهُ الرَّوْعُ، فَقَالَ لِخَدِيجَةَ وَأَخْبَرَهَا الْخَبَرَ ‏\"‏ لَقَدْ خَشِيتُ عَلَى نَفْسِي ‏\"‏‏.‏ فَقَالَتْ خَدِيجَةُ كَلاَّ وَاللَّهِ مَا يُخْزِيكَ اللَّهُ أَبَدًا، إِنَّكَ لَتَصِلُ الرَّحِمَ، وَتَحْمِلُ الْكَلَّ، وَتَكْسِبُ الْمَعْدُومَ، وَتَقْرِي الضَّيْفَ، وَتُعِينُ عَلَى نَوَائِبِ الْحَقِّ‏.‏ فَانْطَلَقَتْ بِهِ خَدِيجَةُ حَتَّى أَتَتْ بِهِ وَرَقَةَ بْنَ نَوْفَلِ بْنِ أَسَدِ بْنِ عَبْدِ الْعُزَّى ابْنَ عَمِّ خَدِيجَةَ ـ وَكَانَ امْرَأً تَنَصَّرَ فِي الْجَاهِلِيَّةِ، وَكَانَ يَكْتُبُ الْكِتَابَ الْعِبْرَانِيَّ، فَيَكْتُبُ مِنَ الإِنْجِيلِ بِالْعِبْرَانِيَّةِ مَا شَاءَ اللَّهُ أَنْ يَكْتُبَ، وَكَانَ شَيْخًا كَبِيرًا قَدْ عَمِيَ ـ فَقَالَتْ لَهُ خَدِيجَةُ يَا ابْنَ عَمِّ اسْمَعْ مِنَ ابْنِ أَخِيكَ‏.‏ فَقَالَ لَهُ وَرَقَةُ يَا ابْنَ أَخِي مَاذَا تَرَى فَأَخْبَرَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم خَبَرَ مَا رَأَى‏.‏ فَقَالَ لَهُ وَرَقَةُ هَذَا النَّامُوسُ الَّذِي نَزَّلَ اللَّهُ عَلَى مُوسَى صلى الله عليه وسلم يَا لَيْتَنِي فِيهَا جَذَعًا، لَيْتَنِي أَكُونُ حَيًّا إِذْ يُخْرِجُكَ قَوْمُكَ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ أَوَمُخْرِجِيَّ هُمْ ‏\"‏‏.‏ قَالَ نَعَمْ، لَمْ يَأْتِ رَجُلٌ قَطُّ بِمِثْلِ مَا جِئْتَ بِهِ إِلاَّ عُودِيَ، وَإِنْ يُدْرِكْنِي يَوْمُكَ أَنْصُرْكَ نَصْرًا مُؤَزَّرًا‏.‏ ثُمَّ لَمْ يَنْشَبْ وَرَقَةُ أَنْ تُوُفِّيَ وَفَتَرَ الْوَحْىُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 1,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "Revelation",
+                    "chapterUrdu": "وحی کے بیان میں",
+                    "chapterArabic": "كتاب بدء الوحى",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 4,
+                "hadithNumber": "4",
+                "englishNarrator": "Narrated Jabir bin 'Abdullah Al-Ansari (while talking about the period of pause in revelation) reporting the speech of the Prophet:",
+                "hadithEnglish": "\"While I was walking, all of a sudden I heard a voice from the sky. I looked up and saw the same angel who had visited me at the cave of Hira' sitting on a chair between the sky and the earth. I got afraid of him and came back home and said, 'Wrap me (in blankets).' And then Allah revealed the following Holy Verses (of Quran): 'O you (i.e. Muhammad)! wrapped up in garments!' Arise and warn (the people against Allah's Punishment),... up to 'and desert the idols.' (74.1-5) After this the revelation started coming strongly, frequently and regularly.\"",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے وحی کے رک جانے کے زمانے کے حالات بیان فرماتے ہوئے کہا کہ ایک روز میں چلا جا رہا تھا کہ اچانک میں نے آسمان کی طرف ایک آواز سنی اور میں نے اپنا سر آسمان کی طرف اٹھایا کیا دیکھتا ہوں کہ وہی فرشتہ جو میرے پاس غار حرا میں آیا تھا وہ آسمان و زمین کے بیچ میں ایک کرسی پر بیٹھا ہوا ہے ۔ میں اس سے ڈر گیا اور گھر آنے پر میں نے پھر کمبل اوڑھنے کی خواہش ظاہر کی ۔ اس وقت اللہ پاک کی طرف سے یہ آیات نازل ہوئیں ۔ اے لحاف اوڑھ کر لیٹنے والے ! اٹھ کھڑا ہو اور لوگوں کو عذاب الٰہی سے ڈرا اور اپنے رب کی بڑائی بیان کر اور اپنے کپڑوں کو پاک صاف رکھ اور گندگی سے دور رہ ۔ اس کے بعد وحی تیزی کے ساتھ پے در پے آنے لگی ۔ اس حدیث کو یحییٰ بن بکیر کے علاوہ لیث بن سعد سے عبداللہ بن یوسف اور ابوصالح نے بھی روایت کیا ہے ۔ اور عقیل کے علاوہ زہری سے ہلال بن رواد نے بھی روایت کیا ہے ۔ یونس اور معمر نے اپنی روایت میں لفظ «فواده» کی جگہ «بوادره» نقل کیا ہے ۔",
+                "urduNarrator": "ابن شہاب کہتے ہیں مجھ کو ابوسلمہ بن عبدالرحمٰن نے حضرت جابر بن عبداللہ انصاری رضی اللہ عنہما سے یہ روایت نقل کی کہ",
+                "hadithArabic": "قَالَ ابْنُ شِهَابٍ وَأَخْبَرَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، أَنَّ جَابِرَ بْنَ عَبْدِ اللَّهِ الأَنْصَارِيَّ، قَالَ ـ وَهُوَ يُحَدِّثُ عَنْ فَتْرَةِ الْوَحْىِ، فَقَالَ ـ فِي حَدِيثِهِ ‏\"‏ بَيْنَا أَنَا أَمْشِي، إِذْ سَمِعْتُ صَوْتًا، مِنَ السَّمَاءِ، فَرَفَعْتُ بَصَرِي فَإِذَا الْمَلَكُ الَّذِي جَاءَنِي بِحِرَاءٍ جَالِسٌ عَلَى كُرْسِيٍّ بَيْنَ السَّمَاءِ وَالأَرْضِ، فَرُعِبْتُ مِنْهُ، فَرَجَعْتُ فَقُلْتُ زَمِّلُونِي‏.‏ فَأَنْزَلَ اللَّهُ تَعَالَى ‏{‏يَا أَيُّهَا الْمُدَّثِّرُ * قُمْ فَأَنْذِرْ‏}‏ إِلَى قَوْلِهِ ‏{‏وَالرُّجْزَ فَاهْجُرْ‏}‏ فَحَمِيَ الْوَحْىُ وَتَتَابَعَ ‏\"‏‏.‏ تَابَعَهُ عَبْدُ اللَّهِ بْنُ يُوسُفَ وَأَبُو صَالِحٍ‏.‏ وَتَابَعَهُ هِلاَلُ بْنُ رَدَّادٍ عَنِ الزُّهْرِيِّ‏.‏ وَقَالَ يُونُسُ وَمَعْمَرٌ ‏\"‏ بَوَادِرُهُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 1,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "Revelation",
+                    "chapterUrdu": "وحی کے بیان میں",
+                    "chapterArabic": "كتاب بدء الوحى",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 5,
+                "hadithNumber": "5",
+                "englishNarrator": "Narrated Said bin Jubair:",
+                "hadithEnglish": "Ibn 'Abbas in the explanation of the statement of Allah \"Move not your tongue concerning (the Quran) to make haste therewith.\" (75.16) said \"Allah's Messenger (ﷺ) used to bear the revelation with great trouble and used to move his lips (quickly) with the Inspiration.\" Ibn 'Abbas moved his lips saying, \"I am moving my lips in front of you as Allah's Messenger (ﷺ) used to move his.\" Said moved his lips saying: \"I am moving my lips, as I saw Ibn 'Abbas moving his.\" Ibn 'Abbas added, \"So Allah revealed 'Move not your tongue concerning (the Qur'an) to make haste therewith. It is for Us to collect it and to give you (O Muhammad) the ability to recite it (the Quran)' (75.16-17) which means that Allah will make him (the Prophet) remember the portion of the Qur'an which was revealed at that time by heart and recite it. The statement of Allah: 'And when we have recited it to you (O Muhammad through Gabriel) then you follow its (Quran) recital' (75.18) means 'listen to it and be silent.' Then it is for Us (Allah) to make it clear to you' (75.19) means 'Then it is (for Allah) to make you recite it (and its meaning will be clear by itself through your tongue). Afterwards, Allah's Messenger (ﷺ) used to listen to Gabriel whenever he came and after his departure he used to recite it as Gabriel had recited it.\"",
+                "hadithUrdu": "انھوں نے ابن عباس رضی اللہ عنہما سے کلام الٰہی «لا تحرك به لسانك لتعجل به‏» الخ کی تفسیر کے سلسلہ میں سنا کہ رسول اللہ صلی اللہ علیہ وسلم نزول قرآن کے وقت بہت سختی محسوس فرمایا کرتے تھے اور اس کی ( علامتوں ) میں سے ایک یہ تھی کہ یاد کرنے کے لیے آپ اپنے ہونٹوں کو ہلاتے تھے ۔ ابن عباس رضی اللہ عنہما نے کہا میں اپنے ہونٹ ہلاتا ہوں جس طرح آپ ہلاتے تھے ۔ سعید کہتے ہیں میں بھی اپنے ہونٹ ہلاتا ہوں جس طرح ابن عباس رضی اللہ عنہما کو میں نے ہلاتے دیکھا ۔ پھر انھوں نے اپنے ہونٹ ہلائے ۔ ( ابن عباس رضی اللہ عنہما نے کہا ) پھر یہ آیت اتری کہ اے محمد ! قرآن کو جلد جلد یاد کرنے کے لیے اپنی زبان نہ ہلاؤ ۔ اس کا جمع کر دینا اور پڑھا دینا ہمارا ذمہ ہے ۔ حضرت ابن عباس رضی اللہ عنہما کہتے ہیں یعنی قرآن آپ صلی اللہ علیہ وسلم کے دل میں جما دینا اور پڑھا دینا ہمارے ذمہ ہے ۔ پھر جب ہم پڑھ چکیں تو اس پڑھے ہوئے کی اتباع کرو ۔ ابن عباس رضی اللہ عنہما فرماتے ہیں ( اس کا مطلب یہ ہے ) کہ آپ اس کو خاموشی کے ساتھ سنتے رہو ۔ اس کے بعد مطلب سمجھا دینا ہمارے ذمہ ہے ۔ پھر یقیناً یہ ہماری ذمہ داری ہے کہ آپ اس کو پڑھو ( یعنی اس کو محفوظ کر سکو ) چنانچہ اس کے بعد جب آپ کے پاس حضرت جبرائیل علیہ السلام ( وحی لے کر ) آتے تو آپ ( توجہ سے ) سنتے ۔ جب وہ چلے جاتے تو رسول اللہ صلی اللہ علیہ وسلم اس ( وحی ) کو اسی طرح پڑھتے جس طرح حضرت جبرائیل علیہ السلام نے اسے پڑھا تھا ۔",
+                "urduNarrator": "موسیٰ بن اسماعیل نے ہم سے حدیث بیان کی ، ان کو ابوعوانہ نے خبر دی ، ان سے موسیٰ ابن ابی عائشہ نے بیان کی ، ان سے سعید بن جبیر نے",
+                "hadithArabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، قَالَ حَدَّثَنَا أَبُو عَوَانَةَ، قَالَ حَدَّثَنَا مُوسَى بْنُ أَبِي عَائِشَةَ، قَالَ حَدَّثَنَا سَعِيدُ بْنُ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، فِي قَوْلِهِ تَعَالَى ‏{‏لاَ تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ‏}‏ قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُعَالِجُ مِنَ التَّنْزِيلِ شِدَّةً، وَكَانَ مِمَّا يُحَرِّكُ شَفَتَيْهِ ـ فَقَالَ ابْنُ عَبَّاسٍ فَأَنَا أُحَرِّكُهُمَا لَكُمْ كَمَا كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُحَرِّكُهُمَا‏.‏ وَقَالَ سَعِيدٌ أَنَا أُحَرِّكُهُمَا كَمَا رَأَيْتُ ابْنَ عَبَّاسٍ يُحَرِّكُهُمَا‏.‏ فَحَرَّكَ شَفَتَيْهِ ـ فَأَنْزَلَ اللَّهُ تَعَالَى ‏{‏لاَ تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ* إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ‏}‏ قَالَ جَمْعُهُ لَهُ فِي صَدْرِكَ، وَتَقْرَأَهُ ‏{‏فَإِذَا قَرَأْنَاهُ فَاتَّبِعْ قُرْآنَهُ‏}‏ قَالَ فَاسْتَمِعْ لَهُ وَأَنْصِتْ ‏{‏ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ‏}‏ ثُمَّ إِنَّ عَلَيْنَا أَنْ تَقْرَأَهُ‏.‏ فَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم بَعْدَ ذَلِكَ إِذَا أَتَاهُ جِبْرِيلُ اسْتَمَعَ، فَإِذَا انْطَلَقَ جِبْرِيلُ قَرَأَهُ النَّبِيُّ صلى الله عليه وسلم كَمَا قَرَأَهُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 1,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "Revelation",
+                    "chapterUrdu": "وحی کے بیان میں",
+                    "chapterArabic": "كتاب بدء الوحى",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6,
+                "hadithNumber": "6",
+                "englishNarrator": "Narrated Ibn 'Abbas:",
+                "hadithEnglish": "Allah's Messenger (ﷺ) was the most generous of all the people, and he used to reach the peak in generosity in the month of Ramadan when Gabriel met him. Gabriel used to meet him every night of Ramadan to teach him the Qur'an. Allah's Messenger (ﷺ) was the most generous person, even more generous than the strong uncontrollable wind (in readiness and haste to do charitable deeds).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم سب لوگوں سے زیادہ جواد ( سخی ) تھے اور رمضان میں ( دوسرے اوقات کے مقابلہ میں جب ) جبرائیل علیہ السلام آپ صلی اللہ علیہ وسلم سے ملتے بہت ہی زیادہ جود و کرم فرماتے ۔ جبرائیل علیہ السلام رمضان کی ہر رات میں آپ صلی اللہ علیہ وسلم سے ملاقات کرتے اور آپ صلی اللہ علیہ وسلم کے ساتھ قرآن کا دورہ کرتے ، غرض آنحضرت صلی اللہ علیہ وسلم لوگوں کو بھلائی پہنچانے میں بارش لانے والی ہوا سے بھی زیادہ جود و کرم فرمایا کرتے تھے ۔",
+                "urduNarrator": "ہم کو عبدان نے حدیث بیان کی ، انہیں عبداللہ بن مبارک نے خبر دی ، ان کو یونس نے ، انھوں نے زہری سے یہ حدیث سنی ۔ ( دوسری سند یہ ہے کہ ) ہم سے بشر بن محمد نے یہ حدیث بیان کی ۔ ان سے عبداللہ بن مبارک نے ، ان سے یونس اور معمر دونوں نے ، ان دونوں نے زہری سے روایت کی پہلی سند کے مطابق زہری سے عبیداللہ بن عبداللہ نے ، انھوں نے حضرت ابن عباس رضی اللہ عنہما سے یہ روایت نقل کی کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدَانُ، قَالَ أَخْبَرَنَا عَبْدُ اللَّهِ، قَالَ أَخْبَرَنَا يُونُسُ، عَنِ الزُّهْرِيِّ، ح وَحَدَّثَنَا بِشْرُ بْنُ مُحَمَّدٍ، قَالَ أَخْبَرَنَا عَبْدُ اللَّهِ، قَالَ أَخْبَرَنَا يُونُسُ، وَمَعْمَرٌ، عَنِ الزُّهْرِيِّ، نَحْوَهُ قَالَ أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَجْوَدَ النَّاسِ، وَكَانَ أَجْوَدُ مَا يَكُونُ فِي رَمَضَانَ حِينَ يَلْقَاهُ جِبْرِيلُ، وَكَانَ يَلْقَاهُ فِي كُلِّ لَيْلَةٍ مِنْ رَمَضَانَ فَيُدَارِسُهُ الْقُرْآنَ، فَلَرَسُولُ اللَّهِ صلى الله عليه وسلم أَجْوَدُ بِالْخَيْرِ مِنَ الرِّيحِ الْمُرْسَلَةِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 1,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "Revelation",
+                    "chapterUrdu": "وحی کے بیان میں",
+                    "chapterArabic": "كتاب بدء الوحى",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 7,
+                "hadithNumber": "7",
+                "englishNarrator": "Narrated 'Abdullah bin 'Abbas:",
+                "hadithEnglish": "Abu Sufyan bin Harb informed me that Heraclius had sent a messenger to him while he had been accompanying a caravan from Quraish. They were merchants doing business in Sham (Syria, Palestine, Lebanon and Jordan), at the time when Allah's Messenger (ﷺ) had truce with Abu Sufyan and Quraish infidels. So Abu Sufyan and his companions went to Heraclius at Ilya (Jerusalem). Heraclius called them in the court and he had all the senior Roman dignitaries around him. He called for his translator who, translating Heraclius's question said to them, \"Who amongst you is closely related to that man who claims to be a Prophet?\" Abu Sufyan replied, \"I am the nearest relative to him (amongst the group).\" Heraclius said, \"Bring him (Abu Sufyan) close to me and make his companions stand behind him.\" Abu Sufyan added, Heraclius told his translator to tell my companions that he wanted to put some questions to me regarding that man (The Prophet) and that if I told a lie they (my companions) should contradict me.\" Abu Sufyan added, \"By Allah! Had I not been afraid of my companions labeling me a liar, I would not have spoken the truth about the Prophet. The first question he asked me about him was: 'What is his family status amongst you?' I replied, 'He belongs to a good (noble) family amongst us.' Heraclius further asked, 'Has anybody amongst you ever claimed the same (i.e. to be a Prophet) before him?' I replied, 'No.' He said, 'Was anybody amongst his ancestors a king?' I replied, 'No.' Heraclius asked, 'Do the nobles or the poor follow him?' I replied, 'It is the poor who follow him.' He said, 'Are his followers increasing decreasing (day by day)?' I replied, 'They are increasing.' He then asked, 'Does anybody amongst those who embrace his religion become displeased and renounce the religion afterwards?' I replied, 'No.' Heraclius said, 'Have you ever accused him of telling lies before his claim (to be a Prophet)?' I replied, 'No. ' Heraclius said, 'Does he break his promises?' I replied, 'No. We are at truce with him but we do not know what he will do in it.' I could not find opportunity to say anything against him except that. Heraclius asked, 'Have you ever had a war with him?' I replied, 'Yes.' Then he said, 'What was the outcome of the battles?' I replied, 'Sometimes he was victorious and sometimes we.' Heraclius said, 'What does he order you to do?' I said, 'He tells us to worship Allah and Allah alone and not to worship anything along with Him, and to renounce all that our ancestors had said. He orders us to pray, to speak the truth, to be chaste and to keep good relations with our Kith and kin.' Heraclius asked the translator to convey to me the following, I asked you about his family and your reply was that he belonged to a very noble family. In fact all the Apostles come from noble families amongst their respective peoples. I questioned you whether anybody else amongst you claimed such a thing, your reply was in the negative. If the answer had been in the affirmative, I would have thought that this man was following the previous man's statement. Then I asked you whether anyone of his ancestors was a king. Your reply was in the negative, and if it had been in the affirmative, I would have thought that this man wanted to take back his ancestral kingdom. I further asked whether he was ever accused of telling lies before he said what he said, and your reply was in the negative. So I wondered how a person who does not tell a lie about others could ever tell a lie about Allah. I, then asked you whether the rich people followed him or the poor. You replied that it was the poor who followed him. And in fact all the Apostle have been followed by this very class of people. Then I asked you whether his followers were increasing or decreasing. You replied that they were increasing, and in fact this is the way of true faith, till it is complete in all respects. I further asked you whether there was anybody, who, after embracing his religion, became displeased and discarded his religion. Your reply was in the negative, and in fact this is (the sign of) true faith, when its delight enters the hearts and mixes with them completely. I asked you whether he had ever betrayed. You replied in the negative and likewise the Apostles never betray. Then I asked you what he ordered you to do. You replied that he ordered you to worship Allah and Allah alone and not to worship any thing along with Him and forbade you to worship idols and ordered you to pray, to speak the truth and to be chaste. If what you have said is true, he will very soon occupy this place underneath my feet and I knew it (from the scriptures) that he was going to appear but I did not know that he would be from you, and if I could reach him definitely, I would go immediately to meet him and if I were with him, I would certainly wash his feet.' Heraclius then asked for the letter addressed by Allah's Apostle which was delivered by Dihya to the Governor of Busra, who forwarded it to Heraclius to read. The contents of the letter were as follows: \"In the name of Allah the Beneficent, the Merciful (This letter is) from Muhammad the slave of Allah and His Apostle to Heraclius the ruler of Byzantine. Peace be upon him, who follows the right path. Furthermore I invite you to Islam, and if you become a Muslim you will be safe, and Allah will double your reward, and if you reject this invitation of Islam you will be committing a sin by misguiding your Arisiyin (peasants). (And I recite to you Allah's Statement:) 'O people of the scripture! Come to a word common to you and us that we worship none but Allah and that we associate nothing in worship with Him, and that none of us shall take others as Lords beside Allah. Then, if they turn away, say: Bear witness that we are Muslims (those who have surrendered to Allah).' (3:64). Abu Sufyan then added, \"When Heraclius had finished his speech and had read the letter, there was a great hue and cry in the Royal Court. So we were turned out of the court. I told my companions that the question of Ibn-Abi-Kabsha) (the Prophet (ﷺ) Muhammad) has become so prominent that even the King of Bani Al-Asfar (Byzantine) is afraid of him. Then I started to become sure that he (the Prophet) would be the conqueror in the near future till I embraced Islam (i.e. Allah guided me to it).\" The sub narrator adds, \"Ibn An-Natur was the Governor of llya' (Jerusalem) and Heraclius was the head of the Christians of Sham. Ibn An-Natur narrates that once while Heraclius was visiting ilya' (Jerusalem), he got up in the morning with a sad mood. Some of his priests asked him why he was in that mood? Heraclius was a foreteller and an astrologer. He replied, 'At night when I looked at the stars, I saw that the leader of those who practice circumcision had appeared (become the conqueror). Who are they who practice circumcision?' The people replied, 'Except the Jews nobody practices circumcision, so you should not be afraid of them (Jews). 'Just Issue orders to kill every Jew present in the country.' While they were discussing it, a messenger sent by the king of Ghassan to convey the news of Allah's Messenger (ﷺ) to Heraclius was brought in. Having heard the news, he (Heraclius) ordered the people to go and see whether the messenger of Ghassan was circumcised. The people, after seeing him, told Heraclius that he was circumcised. Heraclius then asked him about the Arabs. The messenger replied, 'Arabs also practice circumcision.' (After hearing that) Heraclius remarked that sovereignty of the 'Arabs had appeared. Heraclius then wrote a letter to his friend in Rome who was as good as Heraclius in knowledge. Heraclius then left for Homs. (a town in Syrian and stayed there till he received the reply of his letter from his friend who agreed with him in his opinion about the emergence of the Prophet (ﷺ) and the fact that he was a Prophet. On that Heraclius invited all the heads of the Byzantines to assemble in his palace at Homs. When they assembled, he ordered that all the doors of his palace be closed. Then he came out and said, 'O Byzantines! If success is your desire and if you seek right guidance and want your empire to remain then give a pledge of allegiance to this Prophet (i.e. embrace Islam).' (On hearing the views of Heraclius) the people ran towards the gates of the palace like onagers but found the doors closed. Heraclius realized their hatred towards Islam and when he lost the hope of their embracing Islam, he ordered that they should be brought back in audience. (When they returned) he said, 'What already said was just to test the strength of your conviction and I have seen it.' The people prostrated before him and became pleased with him, and this was the end of Heraclius's story (in connection with his faith).",
+                "hadithUrdu": "ہرقل ( شاہ روم ) نے ان کے پاس قریش کے قافلے میں ایک آدمی بلانے کو بھیجا اور اس وقت یہ لوگ تجارت کے لیے ملک شام گئے ہوئے تھے اور یہ وہ زمانہ تھا جب رسول اللہ صلی اللہ علیہ وسلم نے قریش اور ابوسفیان سے ایک وقتی عہد کیا ہوا تھا ۔ جب ابوسفیان اور دوسرے لوگ ہرقل کے پاس ایلیاء پہنچے جہاں ہرقل نے دربار طلب کیا تھا ۔ اس کے گرد روم کے بڑے بڑے لوگ ( علماء وزراء امراء ) بیٹھے ہوئے تھے ۔ ہرقل نے ان کو اور اپنے ترجمان کو بلوایا ۔ پھر ان سے پوچھا کہ تم میں سے کون شخص مدعی رسالت کا زیادہ قریبی عزیز ہے ؟ ابوسفیان کہتے ہیں کہ میں بول اٹھا کہ میں اس کا سب سے زیادہ قریبی رشتہ دار ہوں ۔ ( یہ سن کر ) ہرقل نے حکم دیا کہ اس کو ( ابوسفیان کو ) میرے قریب لا کر بٹھاؤ اور اس کے ساتھیوں کو اس کی پیٹھ کے پیچھے بٹھا دو ۔ پھر اپنے ترجمان سے کہا کہ ان لوگوں سے کہہ دو کہ میں ابوسفیان سے اس شخص کے ( یعنی محمد صلی اللہ علیہ وسلم کے ) حالات پوچھتا ہوں ۔ اگر یہ مجھ سے کسی بات میں جھوٹ بول دے تو تم اس کا جھوٹ ظاہر کر دینا ، ( ابوسفیان کا قول ہے کہ ) خدا کی قسم ! اگر مجھے یہ غیرت نہ آتی کہ یہ لوگ مجھ کو جھٹلائیں گے تو میں آپ صلی اللہ علیہ وسلم کی نسبت ضرور غلط گوئی سے کام لیتا ۔ خیر پہلی بات جو ہرقل نے مجھ سے پوچھی وہ یہ کہ اس شخص کا خاندان تم لوگوں میں کیسا ہے ؟ میں نے کہا وہ تو بڑے اونچے عالی نسب والے ہیں ۔ کہنے لگا اس سے پہلے بھی کسی نے تم لوگوں میں ایسی بات کہی تھی ؟ میں نے کہا نہیں کہنے لگا ، اچھا اس کے بڑوں میں کوئی بادشاہ ہوا ہے ؟ میں نے کہا نہیں ۔ پھر اس نے کہا ، بڑے لوگوں نے اس کی پیروی اختیار کی ہے یا کمزوروں نے ؟ میں نے کہا نہیں کمزوروں نے ۔ پھر کہنے لگا ، اس کے تابعدار روز بڑھتے جاتے ہیں یا کوئی ساتھی پھر بھی جاتا ہے ؟ میں نے کہا نہیں ۔ کہنے لگا کہ کیا اپنے اس دعوائے ( نبوت ) سے پہلے کبھی ( کسی بھی موقع پر ) اس نے جھوٹ بولا ہے ؟ میں نے کہا نہیں ۔ اور اب ہماری اس سے ( صلح کی ) ایک مقررہ مدت ٹھہری ہوئی ہے ۔ معلوم نہیں وہ اس میں کیا کرنے والا ہے ۔ ( ابوسفیان کہتے ہیں ) میں اس بات کے سوا اور کوئی ( جھوٹ ) اس گفتگو میں شامل نہ کر سکا ۔ ہرقل نے کہا کیا تمہاری اس سے کبھی لڑائی بھی ہوتی ہے ؟ ہم نے کہا کہ ہاں ۔ بولا پھر تمہاری اور اس کی جنگ کا کیا حال ہوتا ہے ؟ میں نے کہا ، لڑائی ڈول کی طرح ہے ، کبھی وہ ہم سے ( میدان جنگ ) جیت لیتے ہیں اور کبھی ہم ان سے جیت لیتے ہیں ۔ ہرقل نے پوچھا ۔ وہ تمہیں کس بات کا حکم دیتا ہے ؟ میں نے کہا وہ کہتا ہے کہ صرف ایک اللہ ہی کی عبادت کرو ، اس کا کسی کو شریک نہ بناؤ اور اپنے باپ دادا کی ( شرک کی ) باتیں چھوڑ دو اور ہمیں نماز پڑھنے ، سچ بولنے ، پرہیزگاری اور صلہ رحمی کا حکم دیتا ہے ۔ ( یہ سب سن کر ) پھر ہرقل نے اپنے ترجمان سے کہا کہ ابوسفیان سے کہہ دے کہ میں نے تم سے اس کا نسب پوچھا تو تم نے کہا کہ وہ ہم میں عالی نسب ہے اور پیغمبر اپنی قوم میں عالی نسب ہی بھیجے جایا کرتے ہیں ۔ میں نے تم سے پوچھا کہ ( دعویٰ نبوت کی ) یہ بات تمہارے اندر اس سے پہلے کسی اور نے بھی کہی تھی ، تو تم نے جواب دیا کہ نہیں ، تب میں نے ( اپنے دل میں ) کہا کہ اگر یہ بات اس سے پہلے کسی نے کہی ہوتی تو میں سمجھتا کہ اس شخص نے بھی اسی بات کی تقلید کی ہے جو پہلے کہی جا چکی ہے ۔ میں نے تم سے پوچھا کہ اس کے بڑوں میں کوئی بادشاہ بھی گزرا ہے ، تم نے کہا کہ نہیں ۔ تو میں نے ( دل میں ) کہا کہ ان کے بزرگوں میں سے کوئی بادشاہ ہوا ہو گا تو کہہ دوں گا کہ وہ شخص ( اس بہانہ ) اپنے آباء و اجداد کی بادشاہت اور ان کا ملک ( دوبارہ ) حاصل کرنا چاہتا ہے ۔ اور میں نے تم سے پوچھا کہ اس بات کے کہنے ( یعنی پیغمبری کا دعویٰ کرنے ) سے پہلے تم نے کبھی اس کو دروغ گوئی کا الزام لگایا ہے ؟ تم نے کہا کہ نہیں ۔ تو میں نے سمجھ لیا کہ جو شخص آدمیوں کے ساتھ دروغ گوئی سے بچے وہ اللہ کے بارے میں کیسے جھوٹی بات کہہ سکتا ہے ۔ اور میں نے تم سے پوچھا کہ بڑے لوگ اس کے پیرو ہوتے ہیں یا کمزور آدمی ۔ تم نے کہا کمزوروں نے اس کی اتباع کی ہے ، تو ( دراصل ) یہی لوگ پیغمبروں کے متبعین ہوتے ہیں ۔ اور میں نے تم سے پوچھا کہ اس کے ساتھی بڑھ رہے ہیں یا کم ہو رہے ہیں ۔ تم نے کہا کہ وہ بڑھ رہے ہیں اور ایمان کی کیفیت یہی ہوتی ہے ۔ حتیٰ کہ وہ کامل ہو جاتا ہے اور میں نے تم سے پوچھا کہ آیا کوئی شخص اس کے دین سے ناخوش ہو کر مرتد بھی ہو جاتا ہے تم نے کہا نہیں ، تو ایمان کی خاصیت بھی یہی ہے جن کے دلوں میں اس کی مسرت رچ بس جائے وہ اس سے لوٹا نہیں کرتے ۔ اور میں نے تم سے پوچھا کہ آیا وہ کبھی عہد شکنی کرتے ہیں ۔ تم نے کہا نہیں ، پیغمبروں کا یہی حال ہوتا ہے ، وہ عہد کی خلاف ورزی نہیں کرتے ۔ اور میں نے تم سے کہا کہ وہ تم سے کس چیز کے لیے کہتے ہیں ۔ تم نے کہا کہ وہ ہمیں حکم دیتے ہیں کہ اللہ کی عبادت کرو ، اس کے ساتھ کسی کو شریک نہ ٹھہراؤ اور تمہیں بتوں کی پرستش سے روکتے ہیں ۔ سچ بولنے اور پرہیزگاری کا حکم دیتے ہیں ۔ لہٰذا اگر یہ باتیں جو تم کہہ رہے ہو سچ ہیں تو عنقریب وہ اس جگہ کا مالک ہو جائے گا کہ جہاں میرے یہ دونوں پاؤں ہیں ۔ مجھے معلوم تھا کہ وہ ( پیغمبر ) آنے والا ہے ۔ مگر مجھے یہ معلوم نہیں تھا کہ وہ تمہارے اندر ہو گا ۔ اگر میں جانتا کہ اس تک پہنچ سکوں گا تو اس سے ملنے کے لیے ہر تکلیف گوارا کرتا ۔ اگر میں اس کے پاس ہوتا تو اس کے پاؤں دھوتا ۔ ہرقل نے رسول اللہ صلی اللہ علیہ وسلم وہ خط منگایا جو آپ نے دحیہ کلبی رضی اللہ عنہ کے ذریعہ حاکم بصریٰ کے پاس بھیجا تھا اور اس نے وہ ہرقل کے پاس بھیج دیا تھا ۔ پھر اس کو پڑھا تو اس میں ( لکھا تھا ) : ¤¤ اللہ کے نام کے ساتھ جو نہایت مہربان اور رحم والا ہے ۔ ¤ اللہ کے بندے اور اس کے پیغمبر محمد صلی اللہ علیہ وسلم کی طرف سے یہ خط ہے شاہ روم کے لیے ۔ اس شخص پر سلام ہو جو ہدایت کی پیروی کرے اس کے بعد میں آپ کے سامنے دعوت اسلام پیش کرتا ہوں ۔ اگر آپ اسلام لے آئیں گے تو ( دین و دنیا میں ) سلامتی نصیب ہو گی ۔ اللہ آپ کو دوہرا ثواب دے گا اور اگر آپ ( میری دعوت سے ) روگردانی کریں گے تو آپ کی رعایا کا گناہ بھی آپ ہی پر ہو گا ۔ اور اے اہل کتاب ! ایک ایسی بات پر آ جاؤ جو ہمارے اور تمہارے درمیان یکساں ہے ۔ وہ یہ کہ ہم اللہ کے سوا کسی کی عبادت نہ کریں اور کسی کو اس کا شریک نہ ٹھہرائیں اور نہ ہم میں سے کوئی کسی کو خدا کے سوا اپنا رب بنائے ۔ پھر اگر وہ اہل کتاب ( اس بات سے ) منہ پھیر لیں تو ( مسلمانو ! ) تم ان سے کہہ دو کہ ( تم مانو یا نہ مانو ) ہم تو ایک خدا کے اطاعت گزار ہیں ۔ ابوسفیان کہتے ہیں : جب ہرقل نے جو کچھ کہنا تھا کہہ دیا اور خط پڑھ کر فارغ ہوا تو اس کے اردگرد بہت شور و غوغہ ہوا ، بہت سی آوازیں اٹھیں اور ہمیں باہر نکال دیا گیا ۔ تب میں نے اپنے ساتھیوں سے کہا کہ ابوکبشہ کے بیٹے ( آنحضرت صلی اللہ علیہ وسلم ) کا معاملہ تو بہت بڑھ گیا ( دیکھو تو ) اس سے بنی اصفر ( روم ) کا بادشاہ بھی ڈرتا ہے ۔ مجھے اس وقت سے اس بات کا یقین ہو گیا کہ حضور صلی اللہ علیہ وسلم عنقریب غالب ہو کر رہیں گے ۔ حتیٰ کہ اللہ نے مجھے مسلمان کر دیا ۔ ( راوی کا بیان ہے کہ ) ابن ناطور ایلیاء کا حاکم ہرقل کا مصاحب اور شام کے نصاریٰ کا لاٹ پادری بیان کرتا تھا کہ ہرقل جب ایلیاء آیا ، ایک دن صبح کو پریشان اٹھا تو اس کے درباریوں نے دریافت کیا کہ آج ہم آپ کی حالت بدلی ہوئی پاتے ہیں ۔ ( کیا وجہ ہے ؟ ) ابن ناطور کا بیان ہے کہ ہرقل نجومی تھا ، علم نجوم میں وہ پوری مہارت رکھتا تھا ۔ اس نے اپنے ہم نشینوں کو بتایا کہ میں نے آج رات ستاروں پر نظر ڈالی تو دیکھا کہ ختنہ کرنے والوں کا بادشاہ ہمارے ملک پر غالب آ گیا ہے ۔ ( بھلا ) اس زمانے میں کون لوگ ختنہ کرتے ہیں ؟ انھوں نے کہا کہ یہود کے سوا کوئی ختنہ نہیں کرتا ۔ سو ان کی وجہ سے پریشان نہ ہوں ۔ سلطنت کے تمام شہروں میں یہ حکم لکھ بھیجئے کہ وہاں جتنے یہودی ہوں سب قتل کر دئیے جائیں ۔ وہ لوگ انہی باتوں میں مشغول تھے کہ ہرقل کے پاس ایک آدمی لایا گیا ۔ جسے شاہ غسان نے بھیجا تھا ۔ اس نے رسول اللہ صلی اللہ علیہ وسلم کے حالات بیان کئے ۔ جب ہرقل نے ( سارے حالات ) سن لیے تو کہا کہ جا کر دیکھو وہ ختنہ کئے ہوئے ہے یا نہیں ؟ انھوں نے اسے دیکھا تو بتلایا کہ وہ ختنہ کیا ہوا ہے ۔ ہرقل نے جب اس شخص سے عرب کے بارے میں پوچھا تو اس نے بتلایا کہ وہ ختنہ کرتے ہیں ۔ تب ہرقل نے کہا کہ یہ ہی ( محمد صلی اللہ علیہ وسلم ) اس امت کے بادشاہ ہیں جو پیدا ہو چکے ہیں ۔ پھر اس نے اپنے ایک دوست کو رومیہ خط لکھا اور وہ بھی علم نجوم میں ہرقل کی طرح ماہر تھا ۔ پھر وہاں سے ہرقل حمص چلا گیا ۔ ابھی حمص سے نکلا نہیں تھا کہ اس کے دوست کا خط ( اس کے جواب میں ) آ گیا ۔ اس کی رائے بھی حضور صلی اللہ علیہ وسلم کے ظہور کے بارے میں ہرقل کے موافق تھی کہ محمد صلی اللہ علیہ وسلم ( واقعی ) پیغمبر ہیں ۔ اس کے بعد ہرقل نے روم کے بڑے آدمیوں کو اپنے حمص کے محل میں طلب کیا اور اس کے حکم سے محل کے دروازے بند کر لیے گئے ۔ پھر وہ ( اپنے خاص محل سے ) باہر آیا اور کہا ” اے روم والو ! کیا ہدایت اور کامیابی میں کچھ حصہ تمہارے لیے بھی ہے ؟ اگر تم اپنی سلطنت کی بقا چاہتے ہو تو پھر اس نبی کی بیعت کر لو اور مسلمان ہو جاؤ “ ( یہ سننا تھا کہ ) پھر وہ لوگ وحشی گدھوں کی طرح دروازوں کی طرف دوڑے ( مگر ) انہیں بند پایا ۔ آخر جب ہرقل نے ( اس بات سے ) ان کی یہ نفرت دیکھی اور ان کے ایمان لانے سے مایوس ہو گیا تو کہنے لگا کہ ان لوگوں کو میرے پاس لاؤ ۔ ( جب وہ دوبارہ آئے ) تو اس نے کہا میں نے جو بات کہی تھی اس سے تمہاری دینی پختگی کی آزمائش مقصود تھی سو وہ میں نے دیکھ لی ۔ تب ( یہ بات سن کر ) وہ سب کے سب اس کے سامنے سجدے میں گر پڑے اور اس سے خوش ہو گئے ۔ بالآخر ہرقل کی آخری حالت یہ ہی رہی ۔ ابوعبداللہ کہتے ہیں کہ اس حدیث کو صالح بن کیسان ، یونس اور معمر نے بھی زہری سے روایت کیا ہے ۔",
+                "urduNarrator": "ہم کو ابوالیمان حکم بن نافع نے حدیث بیان کی ، انہیں اس حدیث کی شعیب نے خبر دی ۔ انھوں نے زہری سے یہ حدیث سنی ۔ انہیں عبیداللہ ابن عبداللہ ابن عتبہ بن مسعود نے خبر دی کہ عبداللہ بن عباس سے ابوسفیان بن حرب نے یہ واقعہ بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ الْحَكَمُ بْنُ نَافِعٍ، قَالَ أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ بْنِ عُتْبَةَ بْنِ مَسْعُودٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عَبَّاسٍ، أَخْبَرَهُ أَنَّ أَبَا سُفْيَانَ بْنَ حَرْبٍ أَخْبَرَهُ أَنَّ هِرَقْلَ أَرْسَلَ إِلَيْهِ فِي رَكْبٍ مِنْ قُرَيْشٍ ـ وَكَانُوا تُجَّارًا بِالشَّأْمِ ـ فِي الْمُدَّةِ الَّتِي كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَادَّ فِيهَا أَبَا سُفْيَانَ وَكُفَّارَ قُرَيْشٍ، فَأَتَوْهُ وَهُمْ بِإِيلِيَاءَ فَدَعَاهُمْ فِي مَجْلِسِهِ، وَحَوْلَهُ عُظَمَاءُ الرُّومِ ثُمَّ دَعَاهُمْ وَدَعَا بِتَرْجُمَانِهِ فَقَالَ أَيُّكُمْ أَقْرَبُ نَسَبًا بِهَذَا الرَّجُلِ الَّذِي يَزْعُمُ أَنَّهُ نَبِيٌّ فَقَالَ أَبُو سُفْيَانَ فَقُلْتُ أَنَا أَقْرَبُهُمْ نَسَبًا‏.‏ فَقَالَ أَدْنُوهُ مِنِّي، وَقَرِّبُوا أَصْحَابَهُ، فَاجْعَلُوهُمْ عِنْدَ ظَهْرِهِ‏.‏ ثُمَّ قَالَ لِتَرْجُمَانِهِ قُلْ لَهُمْ إِنِّي سَائِلٌ هَذَا عَنْ هَذَا الرَّجُلِ، فَإِنْ كَذَبَنِي فَكَذِّبُوهُ‏.‏ فَوَاللَّهِ لَوْلاَ الْحَيَاءُ مِنْ أَنْ يَأْثِرُوا عَلَىَّ كَذِبًا لَكَذَبْتُ عَنْهُ، ثُمَّ كَانَ أَوَّلَ مَا سَأَلَنِي عَنْهُ أَنْ قَالَ كَيْفَ نَسَبُهُ فِيكُمْ قُلْتُ هُوَ فِينَا ذُو نَسَبٍ‏.‏ قَالَ فَهَلْ قَالَ هَذَا الْقَوْلَ مِنْكُمْ أَحَدٌ قَطُّ قَبْلَهُ قُلْتُ لاَ‏.‏ قَالَ فَهَلْ كَانَ مِنْ آبَائِهِ مِنْ مَلِكٍ قُلْتُ لاَ‏.‏ قَالَ فَأَشْرَافُ النَّاسِ يَتَّبِعُونَهُ أَمْ ضُعَفَاؤُهُمْ فَقُلْتُ بَلْ ضُعَفَاؤُهُمْ‏.‏ قَالَ أَيَزِيدُونَ أَمْ يَنْقُصُونَ قُلْتُ بَلْ يَزِيدُونَ‏.‏ قَالَ فَهَلْ يَرْتَدُّ أَحَدٌ مِنْهُمْ سَخْطَةً لِدِينِهِ بَعْدَ أَنْ يَدْخُلَ فِيهِ قُلْتُ لاَ‏.‏ قَالَ فَهَلْ كُنْتُمْ تَتَّهِمُونَهُ بِالْكَذِبِ قَبْلَ أَنْ يَقُولَ مَا قَالَ قُلْتُ لاَ‏.‏ قَالَ فَهَلْ يَغْدِرُ قُلْتُ لاَ، وَنَحْنُ مِنْهُ فِي مُدَّةٍ لاَ نَدْرِي مَا هُوَ فَاعِلٌ فِيهَا‏.‏ قَالَ وَلَمْ تُمْكِنِّي كَلِمَةٌ أُدْخِلُ فِيهَا شَيْئًا غَيْرُ هَذِهِ الْكَلِمَةِ‏.‏ قَالَ فَهَلْ قَاتَلْتُمُوهُ قُلْتُ نَعَمْ‏.‏ قَالَ فَكَيْفَ كَانَ قِتَالُكُمْ إِيَّاهُ قُلْتُ الْحَرْبُ بَيْنَنَا وَبَيْنَهُ سِجَالٌ، يَنَالُ مِنَّا وَنَنَالُ مِنْهُ‏.‏ قَالَ مَاذَا يَأْمُرُكُمْ قُلْتُ يَقُولُ اعْبُدُوا اللَّهَ وَحْدَهُ، وَلاَ تُشْرِكُوا بِهِ شَيْئًا، وَاتْرُكُوا مَا يَقُولُ آبَاؤُكُمْ، وَيَأْمُرُنَا بِالصَّلاَةِ وَالصِّدْقِ وَالْعَفَافِ وَالصِّلَةِ‏.‏ فَقَالَ لِلتَّرْجُمَانِ قُلْ لَهُ سَأَلْتُكَ عَنْ نَسَبِهِ، فَذَكَرْتَ أَنَّهُ فِيكُمْ ذُو نَسَبٍ، فَكَذَلِكَ الرُّسُلُ تُبْعَثُ فِي نَسَبِ قَوْمِهَا، وَسَأَلْتُكَ هَلْ قَالَ أَحَدٌ مِنْكُمْ هَذَا الْقَوْلَ فَذَكَرْتَ أَنْ لاَ، فَقُلْتُ لَوْ كَانَ أَحَدٌ قَالَ هَذَا الْقَوْلَ قَبْلَهُ لَقُلْتُ رَجُلٌ يَأْتَسِي بِقَوْلٍ قِيلَ قَبْلَهُ، وَسَأَلْتُكَ هَلْ كَانَ مِنْ آبَائِهِ مِنْ مَلِكٍ فَذَكَرْتَ أَنْ لاَ، قُلْتُ فَلَوْ كَانَ مِنْ آبَائِهِ مِنْ مَلِكٍ قُلْتُ رَجُلٌ يَطْلُبُ مُلْكَ أَبِيهِ، وَسَأَلْتُكَ هَلْ كُنْتُمْ تَتَّهِمُونَهُ بِالْكَذِبِ قَبْلَ أَنْ يَقُولَ مَا قَالَ فَذَكَرْتَ أَنْ لاَ، فَقَدْ أَعْرِفُ أَنَّهُ لَمْ يَكُنْ لِيَذَرَ الْكَذِبَ عَلَى النَّاسِ وَيَكْذِبَ عَلَى اللَّهِ، وَسَأَلْتُكَ أَشْرَافُ النَّاسِ اتَّبَعُوهُ أَمْ ضُعَفَاؤُهُمْ فَذَكَرْتَ أَنَّ ضُعَفَاءَهُمُ اتَّبَعُوهُ، وَهُمْ أَتْبَاعُ الرُّسُلِ، وَسَأَلْتُكَ أَيَزِيدُونَ أَمْ يَنْقُصُونَ فَذَكَرْتَ أَنَّهُمْ يَزِيدُونَ، وَكَذَلِكَ أَمْرُ الإِيمَانِ حَتَّى يَتِمَّ، وَسَأَلْتُكَ أَيَرْتَدُّ أَحَدٌ سَخْطَةً لِدِينِهِ بَعْدَ أَنْ يَدْخُلَ فِيهِ فَذَكَرْتَ أَنْ لاَ، وَكَذَلِكَ الإِيمَانُ حِينَ تُخَالِطُ بَشَاشَتُهُ الْقُلُوبَ، وَسَأَلْتُكَ هَلْ يَغْدِرُ فَذَكَرْتَ أَنْ لاَ، وَكَذَلِكَ الرُّسُلُ لاَ تَغْدِرُ، وَسَأَلْتُكَ بِمَا يَأْمُرُكُمْ، فَذَكَرْتَ أَنَّهُ يَأْمُرُكُمْ أَنْ تَعْبُدُوا اللَّهَ، وَلاَ تُشْرِكُوا بِهِ شَيْئًا، وَيَنْهَاكُمْ عَنْ عِبَادَةِ الأَوْثَانِ، وَيَأْمُرُكُمْ بِالصَّلاَةِ وَالصِّدْقِ وَالْعَفَافِ‏.‏ فَإِنْ كَانَ مَا تَقُولُ حَقًّا فَسَيَمْلِكُ مَوْضِعَ قَدَمَىَّ هَاتَيْنِ، وَقَدْ كُنْتُ أَعْلَمُ أَنَّهُ خَارِجٌ، لَمْ أَكُنْ أَظُنُّ أَنَّهُ مِنْكُمْ، فَلَوْ أَنِّي أَعْلَمُ أَنِّي أَخْلُصُ إِلَيْهِ لَتَجَشَّمْتُ لِقَاءَهُ، وَلَوْ كُنْتُ عِنْدَهُ لَغَسَلْتُ عَنْ قَدَمِهِ‏.‏ ثُمَّ دَعَا بِكِتَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم الَّذِي بَعَثَ بِهِ دِحْيَةُ إِلَى عَظِيمِ بُصْرَى، فَدَفَعَهُ إِلَى هِرَقْلَ فَقَرَأَهُ فَإِذَا فِيهِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ‏.‏ مِنْ مُحَمَّدٍ عَبْدِ اللَّهِ وَرَسُولِهِ إِلَى هِرَقْلَ عَظِيمِ الرُّومِ‏.‏ سَلاَمٌ عَلَى مَنِ اتَّبَعَ الْهُدَى، أَمَّا بَعْدُ فَإِنِّي أَدْعُوكَ بِدِعَايَةِ الإِسْلاَمِ، أَسْلِمْ تَسْلَمْ، يُؤْتِكَ اللَّهُ أَجْرَكَ مَرَّتَيْنِ، فَإِنْ تَوَلَّيْتَ فَإِنَّ عَلَيْكَ إِثْمَ الأَرِيسِيِّينَ وَ‏{‏يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَى كَلِمَةٍ سَوَاءٍ بَيْنَنَا وَبَيْنَكُمْ أَنْ لاَ نَعْبُدَ إِلاَّ اللَّهَ وَلاَ نُشْرِكَ بِهِ شَيْئًا وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا مِنْ دُونِ اللَّهِ فَإِنْ تَوَلَّوْا فَقُولُوا اشْهَدُوا بِأَنَّا مُسْلِمُونَ‏}‏ قَالَ أَبُو سُفْيَانَ فَلَمَّا قَالَ مَا قَالَ، وَفَرَغَ مِنْ قِرَاءَةِ الْكِتَابِ كَثُرَ عِنْدَهُ الصَّخَبُ، وَارْتَفَعَتِ الأَصْوَاتُ وَأُخْرِجْنَا، فَقُلْتُ لأَصْحَابِي حِينَ أُخْرِجْنَا لَقَدْ أَمِرَ أَمْرُ ابْنِ أَبِي كَبْشَةَ، إِنَّهُ يَخَافُهُ مَلِكُ بَنِي الأَصْفَرِ‏.‏ فَمَا زِلْتُ مُوقِنًا أَنَّهُ سَيَظْهَرُ حَتَّى أَدْخَلَ اللَّهُ عَلَىَّ الإِسْلاَمَ‏.‏ وَكَانَ ابْنُ النَّاظُورِ صَاحِبُ إِيلِيَاءَ وَهِرَقْلَ سُقُفًّا عَلَى نَصَارَى الشَّأْمِ، يُحَدِّثُ أَنَّ هِرَقْلَ حِينَ قَدِمَ إِيلِيَاءَ أَصْبَحَ يَوْمًا خَبِيثَ النَّفْسِ، فَقَالَ بَعْضُ بَطَارِقَتِهِ قَدِ اسْتَنْكَرْنَا هَيْئَتَكَ‏.‏ قَالَ ابْنُ النَّاظُورِ وَكَانَ هِرَقْلُ حَزَّاءً يَنْظُرُ فِي النُّجُومِ، فَقَالَ لَهُمْ حِينَ سَأَلُوهُ إِنِّي رَأَيْتُ اللَّيْلَةَ حِينَ نَظَرْتُ فِي النُّجُومِ مَلِكَ الْخِتَانِ قَدْ ظَهَرَ، فَمَنْ يَخْتَتِنُ مِنْ هَذِهِ الأُمَّةِ قَالُوا لَيْسَ يَخْتَتِنُ إِلاَّ الْيَهُودُ فَلاَ يُهِمَّنَّكَ شَأْنُهُمْ وَاكْتُبْ إِلَى مَدَايِنِ مُلْكِكَ، فَيَقْتُلُوا مَنْ فِيهِمْ مِنَ الْيَهُودِ‏.‏ فَبَيْنَمَا هُمْ عَلَى أَمْرِهِمْ أُتِيَ هِرَقْلُ بِرَجُلٍ أَرْسَلَ بِهِ مَلِكُ غَسَّانَ، يُخْبِرُ عَنْ خَبَرِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَلَمَّا اسْتَخْبَرَهُ هِرَقْلُ قَالَ اذْهَبُوا فَانْظُرُوا أَمُخْتَتِنٌ هُوَ أَمْ لاَ‏.‏ فَنَظَرُوا إِلَيْهِ، فَحَدَّثُوهُ أَنَّهُ مُخْتَتِنٌ، وَسَأَلَهُ عَنِ الْعَرَبِ فَقَالَ هُمْ يَخْتَتِنُونَ‏.‏ فَقَالَ هِرَقْلُ هَذَا مَلِكُ هَذِهِ الأُمَّةِ قَدْ ظَهَرَ‏.‏ ثُمَّ كَتَبَ هِرَقْلُ إِلَى صَاحِبٍ لَهُ بِرُومِيَةَ، وَكَانَ نَظِيرَهُ فِي الْعِلْمِ، وَسَارَ هِرَقْلُ إِلَى حِمْصَ، فَلَمْ يَرِمْ حِمْصَ حَتَّى أَتَاهُ كِتَابٌ مِنْ صَاحِبِهِ يُوَافِقُ رَأْىَ هِرَقْلَ عَلَى خُرُوجِ النَّبِيِّ صلى الله عليه وسلم وَأَنَّهُ نَبِيٌّ، فَأَذِنَ هِرَقْلُ لِعُظَمَاءِ الرُّومِ فِي دَسْكَرَةٍ لَهُ بِحِمْصَ ثُمَّ أَمَرَ بِأَبْوَابِهَا فَغُلِّقَتْ، ثُمَّ اطَّلَعَ فَقَالَ يَا مَعْشَرَ الرُّومِ، هَلْ لَكُمْ فِي الْفَلاَحِ وَالرُّشْدِ وَأَنْ يَثْبُتَ مُلْكُكُمْ فَتُبَايِعُوا هَذَا النَّبِيَّ، فَحَاصُوا حَيْصَةَ حُمُرِ الْوَحْشِ إِلَى الأَبْوَابِ، فَوَجَدُوهَا قَدْ غُلِّقَتْ، فَلَمَّا رَأَى هِرَقْلُ نَفْرَتَهُمْ، وَأَيِسَ مِنَ الإِيمَانِ قَالَ رُدُّوهُمْ عَلَىَّ‏.‏ وَقَالَ إِنِّي قُلْتُ مَقَالَتِي آنِفًا أَخْتَبِرُ بِهَا شِدَّتَكُمْ عَلَى دِينِكُمْ، فَقَدْ رَأَيْتُ‏.‏ فَسَجَدُوا لَهُ وَرَضُوا عَنْهُ، فَكَانَ ذَلِكَ آخِرَ شَأْنِ هِرَقْلَ‏.‏ رَوَاهُ صَالِحُ بْنُ كَيْسَانَ وَيُونُسُ وَمَعْمَرٌ عَنِ الزُّهْرِيِّ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 1,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "Revelation",
+                    "chapterUrdu": "وحی کے بیان میں",
+                    "chapterArabic": "كتاب بدء الوحى",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 8,
+                "hadithNumber": "8",
+                "englishNarrator": "Narrated Ibn 'Umar:",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said: Islam is based on (the following) five (principles):\r\n1. To testify that none has the right to be worshipped but Allah and Muhammad is Allah's Messenger (ﷺ).\r\n2. To offer the (compulsory congregational) prayers dutifully and perfectly.\r\n3. To pay Zakat (i.e. obligatory charity) . \r\n4. To perform Hajj. (i.e. Pilgrimage to Mecca)\r\n5. To observe fast during the month of Ramadan.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا اسلام کی بنیاد پانچ چیزوں پر قائم کی گئی ہے۔ اول گواہی دینا کہ اللہ کے سوا کوئی معبود نہیں اور بیشک حضرت محمد صلی اللہ علیہ وسلم اللہ کے سچے رسول ہیں اور نماز قائم کرنا اور زکوٰۃ ادا کرنا اور حج کرنا اور رمضان کے روزے رکھنا ۔",
+                "urduNarrator": "ہم سے عبیداللہ بن موسیٰ نے یہ حدیث بیان کی۔ انھوں نے کہا کہ ہمیں اس کی بابت حنظلہ بن ابی سفیان نے خبر دی۔ انھوں نے عکرمہ بن خالد سے روایت کی انھوں نے حضرت عبداللہ بن عمر رضی اللہ عنہما سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، قَالَ أَخْبَرَنَا حَنْظَلَةُ بْنُ أَبِي سُفْيَانَ، عَنْ عِكْرِمَةَ بْنِ خَالِدٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ بُنِيَ الإِسْلاَمُ عَلَى خَمْسٍ شَهَادَةِ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَإِقَامِ الصَّلاَةِ، وَإِيتَاءِ الزَّكَاةِ، وَالْحَجِّ، وَصَوْمِ رَمَضَانَ ‏\"‏‏.‏",
+                "headingArabic": "دُعَاؤُكُمْ إِيمَانُكُمْ",
+                "headingUrdu": "تمہاری دعا سے مراد  تمہارا  ایمان ہے \r\nارشاد باری تعالٰی ہے: ’’(اے پیغمبر!)کہ دیجیے: اگر تمہاری دعا نہ ہوتی تو میرا رب تمہاری مطلق پروانہ کرتا۔‘‘ اورعربی لغت میں دعاکے معنی ایمان بھی ھے",
+                "headingEnglish": "Your invocation means your faith",
+                "chapterId": "2",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 2,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "Belief",
+                    "chapterUrdu": "ایمان کے بیان میں",
+                    "chapterArabic": "كتاب الإيمان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 9,
+                "hadithNumber": "9",
+                "englishNarrator": "Narrated Abu Huraira:",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Faith (Belief) consists of more than sixty branches (i.e. parts). And Haya (This term \"Haya\" covers a large number of concepts which are to be taken together; amongst them are self respect, modesty, bashfulness, and scruple, etc.) is a part of faith.\"",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا کہ ایمان کی ساٹھ سے کچھ اوپر شاخیں ہیں ۔ اور حیاء ( شرم ) بھی ایمان کی ایک شاخ ہے ۔",
+                "urduNarrator": "ہم سے بیان کیا عبداللہ بن محمد جعفی نے ، انھوں نے کہا ہم سے بیان کیا ابوعامر عقدی نے ، انھوں نے کہا ہم سے بیان کیا سلیمان بن بلال نے ، انھوں نے عبداللہ بن دینار سے ، انہوں نے روایت کیا ابوصالح سے ، انہوں نے نقل کیا حضرت ابوہریرہ رضی اللہ عنہ سے ، انہوں نے نقل فرمایا جناب نبی کریم صلی اللہ علیہ وسلم سے",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنَا أَبُو عَامِرٍ الْعَقَدِيُّ، قَالَ حَدَّثَنَا سُلَيْمَانُ بْنُ بِلاَلٍ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ الإِيمَانُ بِضْعٌ وَسِتُّونَ شُعْبَةً، وَالْحَيَاءُ شُعْبَةٌ مِنَ الإِيمَانِ ‏\"‏‏.‏",
+                "headingArabic": "أُمُورِ الإِيمَانِ",
+                "headingUrdu": "امور ایمان کا بیان",
+                "headingEnglish": "(What is said) regarding the deeds of faith",
+                "chapterId": "2",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 2,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "Belief",
+                    "chapterUrdu": "ایمان کے بیان میں",
+                    "chapterArabic": "كتاب الإيمان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 10,
+                "hadithNumber": "10",
+                "englishNarrator": "Narrated 'Abdullah bin 'Amr:",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"A Muslim is the one who avoids harming Muslims with his tongue and hands. And a Muhajir (emigrant) is the one who gives up (abandons) all what Allah has forbidden.\"",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا مسلمان وہ ہے جس کی زبان اور ہاتھ سے مسلمان بچے رہیں اور مہاجر وہ ہے جو ان کاموں کو چھوڑ دے جن سے اللہ نے منع فرمایا ۔ ابوعبداللہ امام بخاری نے فرمایا اور ابومعاویہ نے کہ ہم کو حدیث بیان کی داؤد بن ابی ہند نے ، انھوں نے روایت کی عامر شعبی سے ، انھوں نے کہا کہ میں نے سنا عبداللہ بن عمرو بن عاص سے ، وہ حدیث بیان کرتے ہیں جناب نبی کریم صلی اللہ علیہ وسلم سے ( وہی مذکورہ حدیث ) اور کہا کہ عبدالاعلیٰ نے روایت کیا داؤد سے ، انھوں نے عامر سے ، انھوں نے عبداللہ بن عمرو بن عاص سے ، انھوں نے نبی کریم صلی اللہ علیہ وسلم سے ۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے یہ حدیث بیان کی ، ان کو شعبہ نے وہ عبداللہ بن ابی السفر اور اسماعیل سے روایت کرتے ہیں ، وہ دونوں شعبی سے نقل کرتے ہیں ، انھوں نے عبداللہ بن عمرو بن عاص رضی اللہ عنہما سے ، وہ نبی کریم صلی اللہ علیہ وسلم سے روایت کرتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ بْنُ أَبِي إِيَاسٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي السَّفَرِ، وَإِسْمَاعِيلَ، عَنِ الشَّعْبِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ، وَالْمُهَاجِرُ مَنْ هَجَرَ مَا نَهَى اللَّهُ عَنْهُ ‏\"‏‏.‏ قَالَ أَبُو عَبْدِ اللَّهِ وَقَالَ أَبُو مُعَاوِيَةَ حَدَّثَنَا دَاوُدُ عَنْ عَامِرٍ قَالَ سَمِعْتُ عَبْدَ اللَّهِ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏ وَقَالَ عَبْدُ الأَعْلَى عَنْ دَاوُدَ عَنْ عَامِرٍ عَنْ عَبْدِ اللَّهِ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+                "headingArabic": "الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ",
+                "headingUrdu": "مسلمان وہ ہےجس کی زبان اور ہاتھ سے دوسرا مسلمان محفوظ رہے",
+                "headingEnglish": "A Muslim is the one who avoids harming Muslims with his tongue and hands",
+                "chapterId": "2",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 2,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "Belief",
+                    "chapterUrdu": "ایمان کے بیان میں",
+                    "chapterArabic": "كتاب الإيمان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 11,
+                "hadithNumber": "11",
+                "englishNarrator": "Narrated Abu Musa:",
+                "hadithEnglish": "Some people asked Allah's Messenger (ﷺ), \"Whose Islam is the best? i.e. (Who is a very good Muslim)?\" He replied, \"One who avoids harming the Muslims with his tongue and hands.\"",
+                "hadithUrdu": "لوگوں نے پوچھا یا رسول اللہ ! کون سا اسلام افضل ہے ؟ تو نبی کریم صلی اللہ علیہ وسلم نے فرمایا وہ جس کے ماننے والے مسلمانوں کی زبان اور ہاتھ سے سارے مسلمان سلامتی میں رہیں ۔",
+                "urduNarrator": "ہم کو سعید بن یحییٰ بن سعید اموی قریشی نے یہ حدیث سنائی ، انھوں نے اس حدیث کو اپنے والد سے نقل کیا ، انھوں نے ابوبردہ بن عبداللہ بن ابی بردہ سے ، انھوں نے ابی بردہ سے ، انھوں نے ابوموسیٰ رضی اللہ عنہ سے ، وہ کہتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا سَعِيدُ بْنُ يَحْيَى بْنِ سَعِيدٍ الْقُرَشِيِّ، قَالَ حَدَّثَنَا أَبِي قَالَ، حَدَّثَنَا أَبُو بُرْدَةَ بْنُ عَبْدِ اللَّهِ بْنِ أَبِي بُرْدَةَ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى ـ رضى الله عنه ـ قَالَ قَالُوا يَا رَسُولَ اللَّهِ أَىُّ الإِسْلاَمِ أَفْضَلُ قَالَ ‏ \"‏ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ ‏\"‏‏.‏",
+                "headingArabic": "أَىُّ الإِسْلاَمِ أَفْضَلُ",
+                "headingUrdu": "کس کا اسلام سب سے بہتر ہے (بہترین مسلمان کون ہے)؟",
+                "headingEnglish": "Whose Islam is the best (Who is the best Muslim)?",
+                "chapterId": "2",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 2,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "Belief",
+                    "chapterUrdu": "ایمان کے بیان میں",
+                    "chapterArabic": "كتاب الإيمان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 12,
+                "hadithNumber": "12",
+                "englishNarrator": "Narrated 'Abdullah bin 'Amr:",
+                "hadithEnglish": "A man asked the Prophet (ﷺ) , \"What sort of deeds or (what qualities of) Islam are good?\" The Prophet (ﷺ) replied, 'To feed (the poor) and greet those whom you know and those whom you do not Know (See Hadith No. 27).",
+                "hadithUrdu": "ایک دن ایک آدمی نے آنحضرت صلی اللہ علیہ وسلم سے پوچھا کہ کون سا اسلام بہتر ہے ؟ فرمایا کہ تم کھانا کھلاؤ ، اور جس کو پہچانو اس کو بھی اور جس کو نہ پہچانو اس کو بھی ، الغرض سب کو سلام کرو ۔",
+                "urduNarrator": "ہم سے حدیث بیان کی عمرو بن خالد نے ، ان کو لیث نے ، وہ روایت کرتے ہیں یزید سے ، وہ ابوالخیر سے ، وہ حضرت عبداللہ بن عمرو بن عاص رضی اللہ عنہما سے کہ",
+                "hadithArabic": "حَدَّثَنَا عَمْرُو بْنُ خَالِدٍ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ، عَنْ أَبِي الْخَيْرِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو ـ رضى الله عنهما ـ أَنَّ رَجُلاً، سَأَلَ النَّبِيَّ صلى الله عليه وسلم أَىُّ الإِسْلاَمِ خَيْرٌ قَالَ ‏ \"‏ تُطْعِمُ الطَّعَامَ، وَتَقْرَأُ السَّلاَمَ عَلَى مَنْ عَرَفْتَ وَمَنْ لَمْ تَعْرِفْ ‏\"‏‏.‏",
+                "headingArabic": "إِطْعَامُ الطَّعَامِ مِنَ الإِسْلاَمِ",
+                "headingUrdu": "(دوسروں کو) کھانا کھلانا اسلام کا حصہ ہے۔",
+                "headingEnglish": "To feed (others) is a part of Islam",
+                "chapterId": "2",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 2,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "Belief",
+                    "chapterUrdu": "ایمان کے بیان میں",
+                    "chapterArabic": "كتاب الإيمان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 13,
+                "hadithNumber": "13",
+                "englishNarrator": "Narrated Anas:",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"None of you will have faith till he wishes for his (Muslim) brother what he likes for himself.\"",
+                "hadithUrdu": "آنحضرت صلی اللہ علیہ وسلم نے فرمایا تم میں سے کوئی شخص ایماندار نہ ہو گا جب تک اپنے بھائی کے لیے وہ نہ چاہے جو اپنے نفس کے لیے چاہتا ہے ۔",
+                "urduNarrator": "ہم سے حدیث بیان کی مسدد نے ، ان کو یحییٰ نے ، انھوں نے شعبہ سے نقل کیا ، انھوں نے قتادہ سے ، انھوں نے حضرت انس رضی اللہ عنہ خادم رسول کریم صلی اللہ علیہ وسلم سے ، انھوں نے نبی کریم صلی اللہ علیہ وسلم سے روایت کیا ۔ اور شعبہ نے حسین معلم سے بھی روایت کیا ، انھوں نے قتادہ سے ، انھوں نے حضرت انس رضی اللہ عنہ سے ، انھوں نے آنحضرت صلی اللہ علیہ وسلم سے نقل فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏ وَعَنْ حُسَيْنٍ الْمُعَلِّمِ، قَالَ حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ ‏\"‏‏.‏",
+                "headingArabic": "مِنَ الإِيمَانِ أَنْ يُحِبَّ لأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ",
+                "headingUrdu": "اپنے (مسلمان) بھائی کے لیے وہی پسند کرنا جو اپنے لیے پسند کرتا ہے ایمان کا حصہ ہے۔",
+                "headingEnglish": "To like for one's (Muslim's) brother what one likes for himself is a part of faith",
+                "chapterId": "2",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 2,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "Belief",
+                    "chapterUrdu": "ایمان کے بیان میں",
+                    "chapterArabic": "كتاب الإيمان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 14,
+                "hadithNumber": "14",
+                "englishNarrator": "Narrated Abu Huraira:",
+                "hadithEnglish": "\"Allah's Messenger (ﷺ) said, \"By Him in Whose Hands my life is, none of you will have faith till he loves me more than his father and his children.\"",
+                "hadithUrdu": "بیشک رسول کریم صلی اللہ علیہ وسلم نے فرمایا ، قسم ہے اس ذات کی جس کے ہاتھ میں میری جان ہے ۔ تم میں سے کوئی بھی ایماندار نہ ہو گا جب تک میں اس کے والد اور اولاد سے بھی زیادہ اس کا محبوب نہ بن جاؤں ۔",
+                "urduNarrator": "ہم سے ابوالیمان نے حدیث بیان کی ، ان کو شعیب نے ، ان کو ابولزناد نے اعرج سے ، انھوں نے حضرت ابوہریرہ رضی اللہ عنہ سے نقل کی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، قَالَ أَخْبَرَنَا شُعَيْبٌ، قَالَ حَدَّثَنَا أَبُو الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ فَوَالَّذِي نَفْسِي بِيَدِهِ لاَ يُؤْمِنُ أَحَدُكُمْ حَتَّى أَكُونَ أَحَبَّ إِلَيْهِ مِنْ وَالِدِهِ وَوَلَدِهِ ‏\"‏‏.‏",
+                "headingArabic": "حُبُّ الرَّسُولِ صلى الله عليه وسلم مِنَ الإِيمَانِ",
+                "headingUrdu": "رسول اللہ صلی اللہ علیہ وسلم سے محبت ایمان کا حصہ ہے۔",
+                "headingEnglish": "To love the Messenger (Muhammad saws) is a part of faith",
+                "chapterId": "2",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 2,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "Belief",
+                    "chapterUrdu": "ایمان کے بیان میں",
+                    "chapterArabic": "كتاب الإيمان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 15,
+                "hadithNumber": "15",
+                "englishNarrator": "Narrated Anas:",
+                "hadithEnglish": "The Prophet (ﷺ) said \"None of you will have faith till he loves me more than his father, his children and all mankind.\"",
+                "hadithUrdu": "آنحضرت صلی اللہ علیہ وسلم نے فرمایا تم میں سے کوئی شخص ایماندار نہ ہو گا جب تک اس کے والد اور اس کی اولاد اور تمام لوگوں سے زیادہ اس کے دل میں میری محبت نہ ہو جائے ۔",
+                "urduNarrator": "ہمیں حدیث بیان کی یعقوب بن ابراہیم نے ، ان کو ابن علیہ نے ، وہ عبدالعزیز بن صہیب سے روایت کرتے ہیں ، وہ حضرت انس رضی اللہ عنہ سے وہ نبی کریم صلی اللہ علیہ وسلم سے نقل کرتے ہیں اور ہم کو آدم بن ابی ایاس نے حدیث بیان کی ، ان کو شعبہ نے ، وہ قتادہ سے نقل کرتے ہیں ، وہ حضرت انس رضی اللہ عنہ سے کہ",
+                "hadithArabic": "حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا ابْنُ عُلَيَّةَ، عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم ح وَحَدَّثَنَا آدَمُ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ لاَ يُؤْمِنُ أَحَدُكُمْ حَتَّى أَكُونَ أَحَبَّ إِلَيْهِ مِنْ وَالِدِهِ وَوَلَدِهِ وَالنَّاسِ أَجْمَعِينَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "2",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 2,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "Belief",
+                    "chapterUrdu": "ایمان کے بیان میں",
+                    "chapterArabic": "كتاب الإيمان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 16,
+                "hadithNumber": "16",
+                "englishNarrator": "Narrated Anas:",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Whoever possesses the following three qualities will have the sweetness (delight) of faith: 1. The one to whom Allah and His Apostle becomes dearer than anything else. \r\n2. Who loves a person and he loves him only for Allah's sake. \r\n3. Who hates to revert to Atheism (disbelief) as he hates to be thrown into the fire.\"",
+                "hadithUrdu": "وہ نبی کریم صلی اللہ علیہ وسلم سے آپ صلی اللہ علیہ وسلم نے فرمایا تین خصلتیں ایسی ہیں کہ جس میں یہ پیدا ہو جائیں اس نے ایمان کی مٹھاس کو پا لیا ۔ اول یہ کہ اللہ اور اس کا رسول اس کے نزدیک سب سے زیادہ محبوب بن جائیں ، دوسرے یہ کہ وہ کسی انسان سے محض اللہ کی رضا کے لیے محبت رکھے ۔ تیسرے یہ کہ وہ کفر میں واپس لوٹنے کو ایسا برا جانے جیسا کہ آگ میں ڈالے جانے کو برا جانتا ہے ۔",
+                "urduNarrator": "ہمیں محمد بن مثنیٰ نے یہ حدیث بیان کی ، ان کو عبدالوہاب ثقفی نے ، ان کو ایوب نے ، وہ ابوقلابہ سے روایت کرتے ہیں ، وہ حضرت انس رضی اللہ عنہ سے ناقل ہیں",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا عَبْدُ الْوَهَّابِ الثَّقَفِيُّ، قَالَ حَدَّثَنَا أَيُّوبُ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ ثَلاَثٌ مَنْ كُنَّ فِيهِ وَجَدَ حَلاَوَةَ الإِيمَانِ أَنْ يَكُونَ اللَّهُ وَرَسُولُهُ أَحَبَّ إِلَيْهِ مِمَّا سِوَاهُمَا، وَأَنْ يُحِبَّ الْمَرْءَ لاَ يُحِبُّهُ إِلاَّ لِلَّهِ، وَأَنْ يَكْرَهَ أَنْ يَعُودَ فِي الْكُفْرِ كَمَا يَكْرَهُ أَنْ يُقْذَفَ فِي النَّارِ ‏\"‏‏.‏",
+                "headingArabic": "حَلاَوَةِ الإِيمَانِ",
+                "headingUrdu": "ایمان کی مٹھاس (لذت)",
+                "headingEnglish": "Sweetness (delight) of faith",
+                "chapterId": "2",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 2,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "Belief",
+                    "chapterUrdu": "ایمان کے بیان میں",
+                    "chapterArabic": "كتاب الإيمان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 17,
+                "hadithNumber": "17",
+                "englishNarrator": "Narrated Anas:",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Love for the Ansar is a sign of faith and hatred for the Ansar is a sign of hypocrisy.\"",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا انصار سے محبت رکھنا ایمان کی نشانی ہے اور انصار سے کینہ رکھنا نفاق کی نشانی ہے ۔",
+                "urduNarrator": "ہم سے اس حدیث کو ابوالولید نے بیان کیا ، ان سے شعبہ نے ، انہیں عبداللہ بن جبیر نے خبر دی ، وہ کہتے ہیں کہ ہم نے انس بن مالک رضی اللہ عنہ سے اس کو سنا ، وہ رسول اللہ صلی اللہ علیہ وسلم سے روایت کرتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْوَلِيدِ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي عَبْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ بْنِ جَبْرٍ، قَالَ سَمِعْتُ أَنَسًا، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ آيَةُ الإِيمَانِ حُبُّ الأَنْصَارِ، وَآيَةُ النِّفَاقِ بُغْضُ الأَنْصَارِ ‏\"‏‏.‏",
+                "headingArabic": "عَلاَمَةُ الإِيمَانِ حُبُّ الأَنْصَارِ",
+                "headingUrdu": "انصار سے محبت ایمان کی علامت ہے۔",
+                "headingEnglish": "To love the Ansar is a sign of faith",
+                "chapterId": "2",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 2,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "Belief",
+                    "chapterUrdu": "ایمان کے بیان میں",
+                    "chapterArabic": "كتاب الإيمان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 18,
+                "hadithNumber": "18",
+                "englishNarrator": "Narrated 'Ubada bin As-Samit:",
+                "hadithEnglish": "who took part in the battle of Badr and was a Naqib (a person heading a group of six persons), on the night of Al-'Aqaba pledge: Allah's Apostle said while a group of his companions were around him, \"Swear allegiance to me for: \r\n1. Not to join anything in worship along with Allah. \r\n2. Not to steal. \r\n3. Not to commit illegal sexual intercourse. \r\n4. Not to kill your children. \r\n5. Not to accuse an innocent person (to spread such an accusation among people). \r\n6. Not to be disobedient (when ordered) to do good deed.\" \r\nThe Prophet (ﷺ) added: \"Whoever among you fulfills his pledge will be rewarded by Allah. And whoever indulges in any one of them (except the ascription of partners to Allah) and gets the punishment in this world, that punishment will be an expiation for that sin. And if one indulges in any of them, and Allah conceals his sin, it is up to Him to forgive or punish him (in the Hereafter).\" 'Ubada bin As-Samit added: \"So we swore allegiance for these.\" (points to Allah's Apostle)",
+                "hadithUrdu": "عبادہ بن صامت رضی اللہ عنہ جو بدر کی لڑائی میں شریک تھے اور لیلۃالعقبہ کے ( بارہ ) نقیبوں میں سے تھے ۔ فرماتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے اس وقت جب آپ کے گرد صحابہ کی ایک جماعت بیٹھی ہوئی تھی فرمایا کہ مجھ سے بیعت کرو اس بات پر کہ اللہ کے ساتھ کسی کو شریک نہ کرو گے ، چوری نہ کرو گے ، زنا نہ کرو گے ، اپنی اولاد کو قتل نہ کرو گے اور نہ عمداً کسی پر کوئی ناحق بہتان باندھو گے اور کسی بھی اچھی بات میں ( خدا کی ) نافرمانی نہ کرو گے ۔ جو کوئی تم میں ( اس عہد کو ) پورا کرے گا تو اس کا ثواب اللہ کے ذمے ہے اور جو کوئی ان ( بری باتوں ) میں سے کسی کا ارتکاب کرے اور اسے دنیا میں ( اسلامی قانون کے تحت ) سزا دے دی گئی تو یہ سزا اس کے ( گناہوں کے ) لیے بدلا ہو جائے گی اور جو کوئی ان میں سے کسی بات میں مبتلا ہو گیا اور اللہ نے اس کے ( گناہ ) کو چھپا لیا تو پھر اس کا ( معاملہ ) اللہ کے حوالہ ہے ، اگر چاہے معاف کرے اور اگر چاہے سزا دیدے ۔ ( عبادہ کہتے ہیں کہ ) پھر ہم سب نے ان ( سب باتوں ) پر آپ صلی اللہ علیہ وسلم سے بیعت کر لی ۔",
+                "urduNarrator": "ہم سے اس حدیث کو ابوالیمان نے بیان کیا ، ان کو شعیب نے خبر دی ، وہ زہری سے نقل کرتے ہیں ، انہیں ابوادریس عائذ اللہ بن عبداللہ نے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، قَالَ أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي أَبُو إِدْرِيسَ، عَائِذُ اللَّهِ بْنُ عَبْدِ اللَّهِ أَنَّ عُبَادَةَ بْنَ الصَّامِتِ ـ رضى الله عنه ـ وَكَانَ شَهِدَ بَدْرًا، وَهُوَ أَحَدُ النُّقَبَاءِ لَيْلَةَ الْعَقَبَةِ ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ وَحَوْلَهُ عِصَابَةٌ مِنْ أَصْحَابِهِ ‏ \"‏ بَايِعُونِي عَلَى أَنْ لاَ تُشْرِكُوا بِاللَّهِ شَيْئًا، وَلاَ تَسْرِقُوا، وَلاَ تَزْنُوا، وَلاَ تَقْتُلُوا أَوْلاَدَكُمْ، وَلاَ تَأْتُوا بِبُهْتَانٍ تَفْتَرُونَهُ بَيْنَ أَيْدِيكُمْ وَأَرْجُلِكُمْ، وَلاَ تَعْصُوا فِي مَعْرُوفٍ، فَمَنْ وَفَى مِنْكُمْ فَأَجْرُهُ عَلَى اللَّهِ، وَمَنْ أَصَابَ مِنْ ذَلِكَ شَيْئًا فَعُوقِبَ فِي الدُّنْيَا فَهُوَ كَفَّارَةٌ لَهُ، وَمَنْ أَصَابَ مِنْ ذَلِكَ شَيْئًا ثُمَّ سَتَرَهُ اللَّهُ، فَهُوَ إِلَى اللَّهِ إِنْ شَاءَ عَفَا عَنْهُ، وَإِنْ شَاءَ عَاقَبَهُ ‏\"‏‏.‏ فَبَايَعْنَاهُ عَلَى ذَلِكَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "2",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 2,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "Belief",
+                    "chapterUrdu": "ایمان کے بیان میں",
+                    "chapterArabic": "كتاب الإيمان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 19,
+                "hadithNumber": "19",
+                "englishNarrator": "Narrated Abu Said Al-Khudri:",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"A time will soon come when the best property of a Muslim will be sheep which he will take on the top of mountains and the places of rainfall (valleys) so as to flee with his religion from afflictions.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا وہ وقت قریب ہے جب مسلمان کا ( سب سے ) عمدہ مال ( اس کی بکریاں ہوں گی ) ۔ جن کے پیچھے وہ پہاڑوں کی چوٹیوں اور برساتی وادیوں میں اپنے دین کو بچانے کے لیے بھاگ جائے گا ۔",
+                "urduNarrator": "ہم سے ( اس حدیث کو ) عبداللہ بن مسلمہ نے بیان کیا ، انھوں نے اسے مالک رحمہ اللہ سے نقل کیا ، انھوں نے عبدالرحمٰن بن عبداللہ بن ابی صعصعہ سے ، انھوں نے اپنے باپ ( عبداللہ رحمہ اللہ ) سے ، وہ ابو سعید خدری سے نقل کرتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي صَعْصَعَةَ، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّهُ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ يُوشِكُ أَنْ يَكُونَ خَيْرَ مَالِ الْمُسْلِمِ غَنَمٌ يَتْبَعُ بِهَا شَعَفَ الْجِبَالِ وَمَوَاقِعَ الْقَطْرِ، يَفِرُّ بِدِينِهِ مِنَ الْفِتَنِ ‏\"‏‏.‏",
+                "headingArabic": "مِنَ الدِّينِ الْفِرَارُ مِنَ الْفِتَنِ",
+                "headingUrdu": "الفتن (مصیبتوں اور آزمائشوں) سے بھاگنا دین کا حصہ ہے۔",
+                "headingEnglish": "To flee (run away) from Al-Fitn (afflictions and trials), is a part of religion",
+                "chapterId": "2",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 2,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "Belief",
+                    "chapterUrdu": "ایمان کے بیان میں",
+                    "chapterArabic": "كتاب الإيمان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 20,
+                "hadithNumber": "20",
+                "englishNarrator": "Narrated 'Aisha:",
+                "hadithEnglish": "Whenever Allah's Messenger (ﷺ) ordered the Muslims to do something, he used to order them deeds which were easy for them to do, (according to their strength and endurance). They said, \"O Allah's Messenger (ﷺ)! We are not like you. Allah has forgiven your past and future sins.\" So Allah's Apostle became angry and it was apparent on his face. He said, \"I am the most Allah fearing, and know Allah better than all of you do.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم لوگوں کو کسی کام کا حکم دیتے تو وہ ایسا ہی کام ہوتا جس کے کرنے کی لوگوں میں طاقت ہوتی ( اس پر ) صحابہ رضی اللہ عنہم نے عرض کیا کہ یا رسول اللہ ! ہم لوگ تو آپ جیسے نہیں ہیں ( آپ تو معصوم ہیں ) اور آپ کی اللہ پاک نے اگلی پچھلی سب لغزشیں معاف فرما دی ہیں ۔ ( اس لیے ہمیں اپنے سے کچھ زیادہ عبادت کرنے کا حکم فرمائیے ) ( یہ سن کر ) آپ صلی اللہ علیہ وسلم ناراض ہوئے حتیٰ کہ خفگی آپ صلی اللہ علیہ وسلم کے چہرہ مبارک سے ظاہر ہونے لگی ۔ پھر فرمایا کہ بیشک میں تم سب سے زیادہ اللہ سے ڈرتا ہوں اور تم سب سے زیادہ اسے جانتا ہوں ۔ ( پس تم مجھ سے بڑھ کر عبادت نہیں کر سکتے ) ۔",
+                "urduNarrator": "یہ حدیث ہم سے محمد بن سلام نے بیان کی ، وہ کہتے ہیں کہ انہیں اس کی عبدہ نے خبر دی ، وہ ہشام سے نقل کرتے ہیں ، ہشام حضرت عائشہ رضی اللہ عنہا سے وہ فرماتی ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سَلاَمٍ، قَالَ أَخْبَرَنَا عَبْدَةُ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا أَمَرَهُمْ أَمَرَهُمْ مِنَ الأَعْمَالِ بِمَا يُطِيقُونَ قَالُوا إِنَّا لَسْنَا كَهَيْئَتِكَ يَا رَسُولَ اللَّهِ، إِنَّ اللَّهَ قَدْ غَفَرَ لَكَ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ‏.‏ فَيَغْضَبُ حَتَّى يُعْرَفَ الْغَضَبُ فِي وَجْهِهِ ثُمَّ يَقُولُ ‏ \"‏ إِنَّ أَتْقَاكُمْ وَأَعْلَمَكُمْ بِاللَّهِ أَنَا ‏\"‏‏.‏",
+                "headingArabic": "قَوْلِ النَّبِيِّ صلى الله عليه وسلم ‏«أَنَا أَعْلَمُكُمْ بِاللَّهِ»",
+                "headingUrdu": "رسول اللہ صلی اللہ علیہ وسلم کا فرمان ہے کہ میں اللہ تعالیٰ کو تم سب سے زیادہ جانتا ہوں۔",
+                "headingEnglish": "The statement of the Prophet (saws): \"I know Allah Ta'ala better, than all of you do.\"",
+                "chapterId": "2",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 2,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "Belief",
+                    "chapterUrdu": "ایمان کے بیان میں",
+                    "chapterArabic": "كتاب الإيمان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 21,
+                "hadithNumber": "21",
+                "englishNarrator": "Narrated Anas:",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Whoever possesses the following three qualities will taste the sweetness of faith: \r\n1. The one to whom Allah and His Apostle become dearer than anything else. \r\n2. Who loves a person and he loves him only for Allah's sake. \r\n3. Who hates to revert to disbelief (Atheism) after Allah has brought (saved) him out from it, as he hates to be thrown in fire.\"",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا ، جس شخص میں یہ تین باتیں ہوں گی وہ ایمان کا مزہ پالے گا ، ایک یہ کہ وہ شخص جسے اللہ اور اس کا رسول ان کے ماسوا سے زیادہ عزیز ہوں اور دوسرے یہ کہ جو کسی بندے سے محض اللہ ہی کے لیے محبت کرے اور تیسری بات یہ کہ جسے اللہ نے کفر سے نجات دی ہو ، پھر دوبارہ کفر اختیار کرنے کو وہ ایسا برا سمجھے جیسا آگ میں گر جانے کو برا جانتا ہے ۔",
+                "urduNarrator": "اس حدیث کو ہم سے سلیمان بن حرب نے بیان کیا ، ان سے شعبہ نے ، وہ قتادہ سے روایت کرتے ہیں ، وہ حضرت انس رضی اللہ عنہ سے ، اور وہ نبی کریم صلی اللہ علیہ وسلم سے نقل کرتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ ثَلاَثٌ مَنْ كُنَّ فِيهِ وَجَدَ حَلاَوَةَ الإِيمَانِ مَنْ كَانَ اللَّهُ وَرَسُولُهُ أَحَبَّ إِلَيْهِ مِمَّا سِوَاهُمَا، وَمَنْ أَحَبَّ عَبْدًا لاَ يُحِبُّهُ إِلاَّ لِلَّهِ، وَمَنْ يَكْرَهُ أَنْ يَعُودَ فِي الْكُفْرِ بَعْدَ إِذْ أَنْقَذَهُ اللَّهُ، كَمَا يَكْرَهُ أَنْ يُلْقَى فِي النَّارِ ‏\"‏‏.‏",
+                "headingArabic": "مَنْ كَرِهَ أَنْ يَعُودَ فِي الْكُفْرِ كَمَا يَكْرَهُ أَنْ يُلْقَى فِي النَّارِ مِنَ الإِيمَانِ",
+                "headingUrdu": "جو شخص کفر کی طرف پلٹنا ناپسند کرتا ہے۔",
+                "headingEnglish": "Whoever hates to revert to Kufr",
+                "chapterId": "2",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 2,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "Belief",
+                    "chapterUrdu": "ایمان کے بیان میں",
+                    "chapterArabic": "كتاب الإيمان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 22,
+                "hadithNumber": "22",
+                "englishNarrator": "Narrated Abu Said Al-Khudri:",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"When the people of Paradise will enter Paradise and the people of Hell will go to Hell, Allah will order those who have had faith equal to the weight of a grain of mustard seed to be taken out from Hell. So they will be taken out but (by then) they will be blackened (charred). Then they will be put in the river of Haya' (rain) or Hayat (life) (the Narrator is in doubt as to which is the right term), and they will revive like a grain that grows near the bank of a flood channel. Don't you see that it comes out yellow and twisted\"",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا جب جنتی جنت میں اور دوزخی دوزخ میں داخل ہو جائیں گے ۔ اللہ پاک فرمائے گا ، جس کے دل میں رائی کے دانے کے برابر ( بھی ) ایمان ہو ، اس کو بھی دوزخ سے نکال لو ۔ تب ( ایسے لوگ ) دوزخ سے نکال لیے جائیں گے اور وہ جل کر کوئلے کی طرح سیاہ ہو چکے ہوں گے ۔ پھر زندگی کی نہر میں یا بارش کے پانی میں ڈالے جائیں گے ۔ ( یہاں راوی کو شک ہو گیا ہے کہ اوپر کے راوی نے کون سا لفظ استعمال کیا ) اس وقت وہ دانے کی طرح اگ آئیں گے جس طرح ندی کے کنارے دانے اگ آتے ہیں ۔ کیا تم نے نہیں دیکھا کہ دانہ زردی مائل پیچ در پیچ نکلتا ہے ۔ وہیب نے کہا کہ ہم سے عمرو نے ( «حياء» کی بجائے ) «حياة» ، اور («خردل من ايمان» ) کی بجائے ( «خردل من خير» ) کا لفظ بیان کیا ۔",
+                "urduNarrator": "ہم سے اسماعیل نے یہ حدیث بیان کی ، وہ کہتے ہیں ان سے مالک نے ، وہ عمرو بن یحییٰ المازنی سے نقل کرتے ہیں ، وہ اپنے باپ سے روایت کرتے ہیں اور وہ حضرت ابو سعید خدری رضی اللہ عنہ اور وہ نبی اکرم صلی اللہ علیہ وسلم سے نقل کرتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ عَمْرِو بْنِ يَحْيَى الْمَازِنِيِّ، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ يَدْخُلُ أَهْلُ الْجَنَّةِ الْجَنَّةَ، وَأَهْلُ النَّارِ النَّارَ، ثُمَّ يَقُولُ اللَّهُ تَعَالَى أَخْرِجُوا مَنْ كَانَ فِي قَلْبِهِ مِثْقَالُ حَبَّةٍ مِنْ خَرْدَلٍ مِنْ إِيمَانٍ‏.‏ فَيُخْرَجُونَ مِنْهَا قَدِ اسْوَدُّوا فَيُلْقَوْنَ فِي نَهَرِ الْحَيَا ـ أَوِ الْحَيَاةِ، شَكَّ مَالِكٌ ـ فَيَنْبُتُونَ كَمَا تَنْبُتُ الْحِبَّةُ فِي جَانِبِ السَّيْلِ، أَلَمْ تَرَ أَنَّهَا تَخْرُجُ صَفْرَاءَ مُلْتَوِيَةً ‏\"‏‏.‏ قَالَ وُهَيْبٌ حَدَّثَنَا عَمْرٌو ‏\"‏ الْحَيَاةِ ‏\"‏‏.‏ وَقَالَ ‏\"‏ خَرْدَلٍ مِنْ خَيْرٍ ‏\"‏‏.‏",
+                "headingArabic": "تَفَاضُلِ أَهْلِ الإِيمَانِ فِي الأَعْمَالِ",
+                "headingUrdu": "مومنین کے درجات ان کے اعمال صالحہ کے مطابق ہوں گے۔",
+                "headingEnglish": "The grades in superiority of the believers will be according to their good deeds",
+                "chapterId": "2",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 2,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "Belief",
+                    "chapterUrdu": "ایمان کے بیان میں",
+                    "chapterArabic": "كتاب الإيمان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 23,
+                "hadithNumber": "23",
+                "englishNarrator": "Narrated Abu Said Al-Khudri:",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"While I was sleeping I saw (in a dream) some people wearing shirts of which some were reaching up to the breasts only while others were even shorter than that. Umar bin Al-Khattab was shown wearing a shirt that he was dragging.\" The people asked, \"How did you interpret it? (What is its interpretation) O Allah's Messenger (ﷺ)?\" He (the Prophet (ﷺ) ) replied, \"It is the Religion.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ میں ایک وقت سو رہا تھا ، میں نے خواب میں دیکھا کہ لوگ میرے سامنے پیش کیے جا رہے ہیں اور وہ کرتے پہنے ہوئے ہیں ۔ کسی کا کرتہ سینے تک ہے اور کسی کا اس سے نیچا ہے ۔ ( پھر ) میرے سامنے عمر بن الخطاب لائے گئے ۔ ان ( کے بدن ) پر ( جو ) کرتا تھا ۔ اسے وہ گھسیٹ رہے تھے ۔ ( یعنی ان کا کرتہ زمین تک نیچا تھا ) صحابہ نے پوچھا کہ یا رسول اللہ ! اس کی کیا تعبیر ہے ؟ آپ صلی اللہ علیہ وسلم نے فرمایا کہ ( اس سے ) دین مراد ہے ۔",
+                "urduNarrator": "ہم سے محمد بن عبیداللہ نے یہ حدیث بیان کی ، ان سے ابراہیم بن سعد نے ، وہ صالح سے روایت کرتے ہیں ، وہ ابن شہاب سے ، وہ ابوامامہ بن سہل بن حنیف سے راوی ہیں ، وہ حضرت ابو سعید خدری رضی اللہ عنہ سے ، وہ کہتے تھے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدِ اللَّهِ، قَالَ حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي أُمَامَةَ بْنِ سَهْلٍ، أَنَّهُ سَمِعَ أَبَا سَعِيدٍ الْخُدْرِيَّ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ بَيْنَا أَنَا نَائِمٌ رَأَيْتُ النَّاسَ يُعْرَضُونَ عَلَىَّ، وَعَلَيْهِمْ قُمُصٌ مِنْهَا مَا يَبْلُغُ الثُّدِيَّ، وَمِنْهَا مَا دُونَ ذَلِكَ، وَعُرِضَ عَلَىَّ عُمَرُ بْنُ الْخَطَّابِ وَعَلَيْهِ قَمِيصٌ يَجُرُّهُ ‏\"‏‏.‏ قَالُوا فَمَا أَوَّلْتَ ذَلِكَ يَا رَسُولَ اللَّهِ قَالَ ‏\"‏ الدِّينَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "2",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 2,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "Belief",
+                    "chapterUrdu": "ایمان کے بیان میں",
+                    "chapterArabic": "كتاب الإيمان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 24,
+                "hadithNumber": "24",
+                "englishNarrator": "Narrated 'Abdullah (bin 'Umar):",
+                "hadithEnglish": "Once Allah's Messenger (ﷺ) passed by an Ansari (man) who was admonishing his brother regarding Haya'. On that Allah's Messenger (ﷺ) said, \"Leave him as Haya' is a part of faith.\" (See Hadith 9)",
+                "hadithUrdu": "ایک دفعہ رسول کریم صلی اللہ علیہ وسلم ایک انصاری شخص کے پاس سے گزرے اس حال میں کہ وہ اپنے ایک بھائی سے کہہ رہے تھے کہ تم اتنی شرم کیوں کرتے ہو ۔ آپ صلی اللہ علیہ وسلم نے اس انصاری سے فرمایا کہ اس کو اس کے حال پر رہنے دو کیونکہ حیاء بھی ایمان ہی کا ایک حصہ ہے ۔",
+                "urduNarrator": "عبداللہ ابن یوسف نے ہم سے بیان کیا ، وہ کہتے ہیں کہ ہمیں مالک ابن انس نے ابن شہاب سے خبر دی ، وہ سالم بن عبداللہ سے نقل کرتے ہیں ، وہ اپنے باپ ( عبداللہ بن عمر رضی اللہ عنہما ) سے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكُ بْنُ أَنَسٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم مَرَّ عَلَى رَجُلٍ مِنَ الأَنْصَارِ وَهُوَ يَعِظُ أَخَاهُ فِي الْحَيَاءِ، فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ دَعْهُ فَإِنَّ الْحَيَاءَ مِنَ الإِيمَانِ ‏\"‏‏.‏",
+                "headingArabic": "الْحَيَاءُ مِنَ الإِيمَانِ",
+                "headingUrdu": "الحیا (عزت نفس، شرم و حیا، غیرت وغیرہ) ایمان کا حصہ ہے۔",
+                "headingEnglish": "Al-Haya (self-respect, modesty bashfulness, honour etc.) is a part of faith",
+                "chapterId": "2",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 2,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "Belief",
+                    "chapterUrdu": "ایمان کے بیان میں",
+                    "chapterArabic": "كتاب الإيمان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 25,
+                "hadithNumber": "25",
+                "englishNarrator": "Narrated Ibn 'Umar:",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said: \"I have been ordered (by Allah) to fight against the people until they testify that none has the right to be worshipped but Allah and that Muhammad is Allah's Messenger (ﷺ), and offer the prayers perfectly and give the obligatory charity, so if they perform that, then they save their lives and property from me except for Islamic laws and then their reckoning (accounts) will be done by Allah.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ۔ مجھے ( اللہ کی طرف سے ) حکم دیا گیا ہے کہ لوگوں سے جنگ کروں اس وقت تک کہ وہ اس بات کا اقرار کر لیں کہ اللہ کے سوا کوئی معبود نہیں ہے اور یہ کہ محمد صلی اللہ علیہ وسلم اللہ کے سچے رسول ہیں اور نماز ادا کرنے لگیں اور زکوٰۃ دیں ، جس وقت وہ یہ کرنے لگیں گے تو مجھ سے اپنے جان و مال کو محفوظ کر لیں گے ، سوائے اسلام کے حق کے ۔ ( رہا ان کے دل کا حال تو ) ان کا حساب اللہ کے ذمے ہے ۔",
+                "urduNarrator": "اس حدیث کو ہم سے عبداللہ بن محمد مسندی نے بیان کیا ، ان سے ابوروح حرمی بن عمارہ نے ، ان سے شعبہ نے ، وہ واقد بن محمد سے روایت کرتے ہیں ، وہ کہتے ہیں میں نے یہ حدیث اپنے باپ سے سنی ، وہ ابن عمر رضی اللہ عنہما سے روایت کرتے ہیں کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ الْمُسْنَدِيُّ، قَالَ حَدَّثَنَا أَبُو رَوْحٍ الْحَرَمِيُّ بْنُ عُمَارَةَ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ وَاقِدِ بْنِ مُحَمَّدٍ، قَالَ سَمِعْتُ أَبِي يُحَدِّثُ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ أُمِرْتُ أَنْ أُقَاتِلَ النَّاسَ حَتَّى يَشْهَدُوا أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَيُقِيمُوا الصَّلاَةَ، وَيُؤْتُوا الزَّكَاةَ، فَإِذَا فَعَلُوا ذَلِكَ عَصَمُوا مِنِّي دِمَاءَهُمْ وَأَمْوَالَهُمْ إِلاَّ بِحَقِّ الإِسْلاَمِ، وَحِسَابُهُمْ عَلَى اللَّهِ ‏\"‏‏.‏",
+                "headingArabic": "{فَإِنْ تَابُوا وَأَقَامُوا الصَّلاَةَ وَآتَوُا الزَّكَاةَ فَخَلُّوا سَبِيلَهُمْ}",
+                "headingUrdu": "(اللہ جل جلالہ کا فرمان) \"لیکن اگر وہ توبہ کر لیں اور اقامتِ صلوٰۃ ادا کریں اور زکوٰۃ دیں تو ان کا راستہ چھوڑ دو۔\"",
+                "headingEnglish": "(The Statement of Allah Jalla Jalalahu) \"But if they repent [by rejecting Shirk (polytheism) and accept Islamic Monotheism] and perform As-Salat (Iqamat-as-Salat) and give Zakat then leave their way free.\"",
+                "chapterId": "2",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 2,
+                    "chapterNumber": "2",
+                    "chapterEnglish": "Belief",
+                    "chapterUrdu": "ایمان کے بیان میں",
+                    "chapterArabic": "كتاب الإيمان",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 1,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": null,
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=3",
+                "label": "3",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=4",
+                "label": "4",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=5",
+                "label": "5",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=6",
+                "label": "6",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=7",
+                "label": "7",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=8",
+                "label": "8",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=9",
+                "label": "9",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=10",
+                "label": "10",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=2",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": null,
+        "to": 25,
+        "total": 40465
+    }
+}

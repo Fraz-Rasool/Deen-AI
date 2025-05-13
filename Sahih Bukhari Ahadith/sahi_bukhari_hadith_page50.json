@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 50,
+        "data": [
+            {
+                "id": 1226,
+                "hadithNumber": "1271",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "The Prophet (ﷺ) was shrouded in three pieces of cloth which were made of Suhul (a type of cotton), and neither a shirt nor a turban were used.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم کو تین سوتی دھلے ہوئے کپڑوں کا کفن دیا گیا تھا آپ صلی اللہ علیہ وسلم کے کفن میں نہ قمیص تھی اور نہ عمامہ ۔",
+                "urduNarrator": "ہم سے ابونعیم نے بیان کیا ، کہا کہ ہم سے سفیان ثوری نے بیان کیا ‘ ان سے ہشام بن عروہ نے ‘ ان سے عروہ بن زبیر نے ‘ ان سے حضرت عائشہ رضی اللہ عنہا نے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا سُفْيَانُ، عَنْ هِشَامٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ كُفِّنَ النَّبِيُّ صلى الله عليه وسلم فِي ثَلاَثَةِ أَثْوَابِ سَحُولَ كُرْسُفٍ، لَيْسَ فِيهَا قَمِيصٌ وَلاَ عِمَامَةٌ‏.‏",
+                "headingArabic": "الْكَفَنِ بِغَيْرِ قَمِيصٍ",
+                "headingUrdu": "بغیر قمیص کے میت کو کفن دینا",
+                "headingEnglish": "To shroud (a dead) body without using a shirt",
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1227,
+                "hadithNumber": "1272",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) was shrouded in three pieces of cloth and neither a shirt nor a turban were used.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کو تین کپڑوں میں کفن دیا گیا تھا جن میں نہ قمیص تھی اور نہ عمامہ تھا ۔ حضرت امام ابوعبداللہ بخاری رحمہ اللہ فرماتے ہیں کہ ابونعیم نے لفظ «ثلاثة» نہیں کہا اور عبداللہ بن ولید نے سفیان سے لفظ «ثلاثة» نقل کیا ہے ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیا ، ان سے یحییٰ نے ان سے ہشام نے ان سے ان کے باپ عروہ بن زبیر نے ان سے ام المؤمنین حضرت عائشہ رضی اللہ عنہا نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ هِشَامٍ، حَدَّثَنِي أَبِي، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كُفِّنَ فِي ثَلاَثَةِ أَثْوَابٍ، لَيْسَ فِيهَا قَمِيصٌ وَلاَ عِمَامَةٌ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1228,
+                "hadithNumber": "1273",
+                "englishNarrator": "Narrated Aisha:",
+                "hadithEnglish": "Allah's Messenger (ﷺ) was shrouded in three pieces of cloth which were made of white Suhul and neither a shirt nor a turban were used.",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم کو سحول کے تین سفید کپڑوں کا کفن دیا گیا تھا نہ ان میں قمیص تھی اور نہ عمامہ تھا ۔",
+                "urduNarrator": "ہم سے اسماعیل نے بیان کیا کہا کہ مجھ سے مالک نے بیان کیا ‘ ان سے ہشام بن عروہ نے ‘ ان سے ان کے باپ عروہ بن زبیر نے ‘ ان سے عائشہ رضی اللہ عنہا نے کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كُفِّنَ فِي ثَلاَثَةِ أَثْوَابٍ بِيضٍ سَحُولِيَّةٍ، لَيْسَ فِيهَا قَمِيصٌ وَلاَ عِمَامَةٌ‏.‏",
+                "headingArabic": "الْكَفَنِ وَلاَ عِمَامَةٌ",
+                "headingUrdu": "کفن پہننے میں عمامہ کا استعمال نہ کرنا",
+                "headingEnglish": "Using no turban in shrouding",
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1229,
+                "hadithNumber": "1274",
+                "englishNarrator": "Narrated Sa`d from his father:",
+                "hadithEnglish": "Once the meal of `Abdur-Rahman bin `Auf رضی اللہ عنہ was brought in front of him, and he said, \"Mus`ab bin `Umair رضی اللہ عنہ was martyred and he was better than I, and he had nothing except his Burd (a black square narrow dress) to be shrouded in. Hamza رضی اللہ عنہ or another person was martyred and he was also better than I and he had nothing to be shrouded in except his Burd. No doubt, I fear that the rewards of my deeds might have been given early in this world.\" Then he started weeping.",
+                "hadithUrdu": "عبدالرحمن بن عوف رضی اللہ عنہ کے سامنے ایک دن کھانا رکھا گیا تو انہوں نے فرمایا کہ مصعب بن عمیر رضی اللہ عنہ ( غزوہ احد میں ) شہید ہوئے ‘ وہ مجھ سے افضل تھے ۔ لیکن ان کے کفن کے لیے ایک چادر کے سوا اور کوئی چیز مہیا نہ ہو سکی ۔ اسی طرح جب حمزہ رضی اللہ عنہ شہید ہوئے یا کسی دوسرے صحابی کا نام لیا ‘ وہ بھی مجھ سے افضل تھے ۔ لیکن ان کے کفن کے لیے بھی صرف ایک ہی چادر مل سکی ۔ مجھے تو ڈر لگتا ہے کہ کہیں ایسا نہ ہو کہ ہمارے چین اور آرام کے سامان ہم کو جلدی سے دنیا ہی میں دے دئیے گئے ہوں پھر وہ رونے لگے ۔",
+                "urduNarrator": "ہم سے احمد بن محمد مکی نے بیان کیا ‘ کہا کہ ہم سے ابراہیم بن سعد نے ‘ ان سے ان کے باپ سعد نے اور ان سے ان کے والد ابراہیم بن عبدالرحمٰن نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدٍ الْمَكِّيُّ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنْ سَعْدٍ، عَنْ أَبِيهِ، قَالَ أُتِيَ عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ ـ رضى الله عنه ـ يَوْمًا بِطَعَامِهِ فَقَالَ قُتِلَ مُصْعَبُ بْنُ عُمَيْرٍ ـ وَكَانَ خَيْرًا مِنِّي ـ فَلَمْ يُوجَدْ لَهُ مَا يُكَفَّنُ فِيهِ إِلاَّ بُرْدَةٌ، وَقُتِلَ حَمْزَةُ أَوْ رَجُلٌ آخَرُ خَيْرٌ مِنِّي فَلَمْ يُوجَدْ لَهُ مَا يُكَفَّنُ فِيهِ إِلاَّ بُرْدَةٌ، لَقَدْ خَشِيتُ أَنْ يَكُونَ قَدْ عُجِّلَتْ لَنَا طَيِّبَاتُنَا فِي حَيَاتِنَا الدُّنْيَا، ثُمَّ جَعَلَ يَبْكِي‏.‏",
+                "headingArabic": "الْكَفَنِ مِنْ جَمِيعِ الْمَالِ",
+                "headingUrdu": "کسی کو اپنی تمام جائیداد کے ساتھ کفن دینا",
+                "headingEnglish": "To shroud one with all of one's property",
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1230,
+                "hadithNumber": "1275",
+                "englishNarrator": "Narrated Ibrahim:",
+                "hadithEnglish": "Once a meal was brought to `Abdur-Rahman bin `Auf and he was fasting. He said, \"Mustab bin `Umar was martyred and he was better than I and was shrouded in his Burd and when his head was covered with it, his legs became bare, and when his legs were covered his head got uncovered. Hamza was martyred and was better than I. Now the worldly wealth have been bestowed upon us (or said a similar thing). No doubt, I fear that the rewards of my deeds might have been given earlier in this world.\" Then he started weeping and left his food.",
+                "hadithUrdu": "عبدالرحمن بن عوف رضی اللہ عنہ کے سامنے کھانا حاضر کیا گیا ۔ وہ روزہ سے تھے اس وقت انہوں نے فرمایا کہ ہائے ! مصعب بن عمیر رضی اللہ عنہ شہید کئے گئے ‘ وہ مجھ سے بہتر تھے ۔ لیکن ان کے کفن کے لیے صرف ایک چادر میسر آ سکی کہ اگر اس سے ان کا سر ڈھانکا جاتا تو پاؤں کھل جاتے اور پاؤں ڈھانکے جاتے تو سر کھل جاتا اور میں سمجھتا ہوں کہ انہوں نے یہ بھی فرمایا اور حمزہ رضی اللہ عنہ بھی ( اسی طرح ) شہید ہوئے وہ بھی مجھ سے اچھے تھے ۔ پھر ان کے بعد دنیا کی کشادگی ہمارے لیے خوب ہوئی یا یہ فرمایا کہ دنیا ہمیں بہت دی گئی اور ہمیں تو اس کا ڈر لگتا ہے کہ کہیں ایسا نہ ہو کہ ہماری نیکیوں کا بدلہ اسی دنیا میں ہم کو مل گیا ہو پھر آپ اس طرح رونے لگے کہ کھانا بھی چھوڑ دیا ۔",
+                "urduNarrator": "ہم سے محمد بن مقاتل نے بیان کیا ‘ کہا کہ ہم کو عبداللہ بن مبارک نے خبر دی ‘ کہا کہ ہم کو شعبہ نے خبر دی ‘ انہیں سعد بن ابراہیم نے ‘ انہیں ان کے باپ ابراہیم بن عبدالرحمٰن نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مُقَاتِلٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا شُعْبَةُ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، عَنْ أَبِيهِ، إِبْرَاهِيمَ أَنَّ عَبْدَ الرَّحْمَنِ بْنَ عَوْفٍ ـ رضى الله عنه ـ أُتِيَ بِطَعَامٍ وَكَانَ صَائِمًا فَقَالَ قُتِلَ مُصْعَبُ بْنُ عُمَيْرٍ وَهُوَ خَيْرٌ مِنِّي، كُفِّنَ فِي بُرْدَةٍ، إِنْ غُطِّيَ رَأْسُهُ بَدَتْ رِجْلاَهُ، وَإِنْ غُطِّيَ رِجْلاَهُ بَدَا رَأْسُهُ ـ وَأُرَاهُ قَالَ ـ وَقُتِلَ حَمْزَةُ وَهُوَ خَيْرٌ مِنِّي، ثُمَّ بُسِطَ لَنَا مِنَ الدُّنْيَا مَا بُسِطَ ـ أَوْ قَالَ أُعْطِينَا مِنَ الدُّنْيَا مَا أُعْطِينَا ـ وَقَدْ خَشِينَا أَنْ تَكُونَ حَسَنَاتُنَا عُجِّلَتْ لَنَا، ثُمَّ جَعَلَ يَبْكِي حَتَّى تَرَكَ الطَّعَامَ‏.‏",
+                "headingArabic": "إِذَا لَمْ يُوجَدْ إِلاَّ ثَوْبٌ وَاحِدٌ",
+                "headingUrdu": "اگر کپڑے کے ایک ٹکڑے کے علاوہ کچھ نہ ہو (کفن کے لیے)",
+                "headingEnglish": "If there is nothing except one piece of cloth (for shrouding)",
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1231,
+                "hadithNumber": "1276",
+                "englishNarrator": "Narrated Khabbab رضی اللہ عنہ :",
+                "hadithEnglish": "We emigrated with the Prophet (ﷺ) in Allah's cause, and so our reward was then surely incumbent on Allah. Some of us died and they did not take anything from their rewards in this world, and amongst them was Mustab bin `Umar رضی اللہ عنہ ; and the others were those who got their rewards. Mustab bin `Umar رضی اللہ عنہ was martyred on the day of the Battle of Uhud and we could get nothing except his Burd to shroud him in. And when we covered his head his feet became bare and vice versa. So the Prophet (ﷺ) ordered us to cover his head only and to put idhkhir (a kind of shrub) over his feet.",
+                "hadithUrdu": "ہم نے نبی کریم صلی اللہ علیہ وسلم کے ساتھ صرف اللہ کے لیے ہجرت کی ۔ اب ہمیں اللہ تعالیٰ سے اجر ملنا ہی تھا ۔ ہمارے بعض ساتھی تو انتقال کر گئے اور ( اس دنیا میں ) انہوں نے اپنے کئے کا کوئی پھل نہیں دیکھا ۔ مصعب بن عمیر رضی اللہ عنہ بھی انہیں لوگوں میں سے تھے اور ہمارے بعض ساتھیوں کا میوہ پک گیا اور وہ چن چن کر کھاتا ہے ۔ ( مصعب بن عمیر رضی اللہ عنہ ) احد کی لڑائی میں شہید ہوئے ہم کو ان کے کفن میں ایک چادر کے سوا اور کوئی چیز نہ ملی اور وہ بھی ایسی کہ اگر اس سے سر چھپاتے ہیں تو پاؤں کھل جاتا ہے اور اگر پاؤں ڈھکتے تو سر کھل جاتا ۔ آخر یہ دیکھ کر نبی کریم صلی اللہ علیہ وسلم نے ارشاد فرمایا کہ سر کو چھپا دیں اور پاؤں پر سبز گھاس اذخر نامی ڈال دیں ۔",
+                "urduNarrator": "ہم سے عمر بن حفص بن غیاث نے بیان کیا ‘ کہا کہ ہم سے میرے والد نے بیان کیا ‘ کہا کہ ہم سے اعمش نے بیان کیا ‘ کہا کہ ہم سے شقیق نے بیان کیا ‘ کہا ہم سے خباب بن ارت رضی اللہ عنہ نے بیان کیا ‘ کہ",
+                "hadithArabic": "حَدَّثَنَا عُمَرُ بْنُ حَفْصِ بْنِ غِيَاثٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا الأَعْمَشُ، حَدَّثَنَا شَقِيقٌ، حَدَّثَنَا خَبَّابٌ ـ رضى الله عنه ـ قَالَ هَاجَرْنَا مَعَ النَّبِيِّ صلى الله عليه وسلم نَلْتَمِسُ وَجْهَ اللَّهِ، فَوَقَعَ أَجْرُنَا عَلَى اللَّهِ، فَمِنَّا مَنْ مَاتَ لَمْ يَأْكُلْ مِنْ أَجْرِهِ شَيْئًا مِنْهُمْ مُصْعَبُ بْنُ عُمَيْرٍ، وَمِنَّا مَنْ أَيْنَعَتْ لَهُ ثَمَرَتُهُ فَهُوَ يَهْدِبُهَا‏.‏ قُتِلَ يَوْمَ أُحُدٍ، فَلَمْ نَجِدْ مَا نُكَفِّنُهُ إِلاَّ بُرْدَةً إِذَا غَطَّيْنَا بِهَا رَأْسَهُ خَرَجَتْ رِجْلاَهُ، وَإِذَا غَطَّيْنَا رِجْلَيْهِ خَرَجَ رَأْسُهُ، فَأَمَرَنَا النَّبِيُّ صلى الله عليه وسلم أَنْ نُغَطِّيَ رَأْسَهُ، وَأَنْ نَجْعَلَ عَلَى رِجْلَيْهِ مِنَ الإِذْخِرِ‏.‏",
+                "headingArabic": "إِذَا لَمْ يَجِدْ كَفَنًا إِلاَّ مَا يُوَارِي رَأْسَهُ أَوْ قَدَمَيْهِ غَطَّى رَأْسَهُ",
+                "headingUrdu": "اگر کفن کے لیے کافی کپڑا دستیاب نہ ہو۔",
+                "headingEnglish": "If sufficient cloth for the shroud is not available",
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1232,
+                "hadithNumber": "1277",
+                "englishNarrator": "Narrated Sahl رضی اللہ عنہ :",
+                "hadithEnglish": "A woman brought a woven Burda (sheet) having edging (border) to the Prophet (ﷺ), Then Sahl asked them whether they knew what is Burda, they said that Burda is a cloak and Sahl رضی اللہ عنہ confirmed their reply. Then the woman said, \"I have woven it with my own hands and I have brought it so that you may wear it.\" The Prophet (ﷺ) accepted it, and at that time he was in need of it. So he came out wearing it as his waist-sheet. A man praised it and said, \"Will you give it to me? How nice it is!\" The other people said, \"You have not done the right thing as the Prophet (ﷺ) is in need of it and you have asked for it when you know that he never turns down anybody's request.\" The man replied, \"By Allah, I have not asked for it to wear it but to make it my shroud.\" Later it was his shroud.",
+                "hadithUrdu": "ایک عورت نبی کریم صلی اللہ علیہ وسلم کی خدمت میں ایک بنی ہوئی حاشیہ دار چادر آپ صلی اللہ علیہ وسلم کے لیے تحفہ لائی ۔ سہل بن سعد رضی اللہ عنہ نے ( حاضرین سے ) پوچھا کہ تم جانتے ہو چادر کیا ؟ لوگوں نے کہا کہ جی ہاں ! شملہ ۔ سہل رضی اللہ عنہ نے کہا ہاں شملہ ( تم نے ٹھیک بتایا ) خیر اس عورت نے کہا کہ میں نے اپنے ہاتھ سے اسے بنا ہے اور آپ صلی اللہ علیہ وسلم کو پہنانے کے لیے لائی ہوں ۔ نبی کریم صلی اللہ علیہ وسلم نے وہ کپڑا قبول کیا ۔ آپ صلی اللہ علیہ وسلم کو اس کی اس وقت ضرورت بھی تھی پھر اسے ازار کے طور پر باندھ کر آپ صلی اللہ علیہ وسلم باہر تشریف لائے تو ایک صاحب ( عبدالرحمٰن بن عوف رضی اللہ عنہ ) نے کہا کہ یہ تو بڑی اچھی چادر ہے ‘ یہ آپ صلی اللہ علیہ وسلم مجھے پہنا دیجئیے ۔ لوگوں نے کہا کہ آپ نے ( مانگ کر ) کچھ اچھا نہیں کیا ۔ رسول اللہ صلی اللہ علیہ وسلم نے اسے اپنی ضرورت کی وجہ سے پہنا تھا اور تم نے یہ مانگ لیا حالانکہ تم کو معلوم ہے کہ آنحضور صلی اللہ علیہ وسلم کسی کا سوال رد نہیں کرتے ۔ عبدالرحمٰن بن عوف رضی اللہ عنہ نے جواب دیا کہ خدا کی قسم ! میں نے اپنے پہننے کے لیے آپ صلی اللہ علیہ وسلم سے یہ چادر نہیں مانگی تھی ۔ بلکہ میں اسے اپنا کفن بناؤں گا ۔ سہل رضی اللہ عنہ نے بیان کیا کہ وہی چادر ان کا کفن بنی ۔",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ قعنبی نے بیان کیا ‘ کہا کہ ہم سے عبدالعزیز بن ابی حازم نے بیان کیا ‘ ان سے ان کے باپ نے اور ان سے سہل رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا ابْنُ أَبِي حَازِمٍ، عَنْ أَبِيهِ، عَنْ سَهْلٍ ـ رضى الله عنه ـ أَنَّ امْرَأَةً، جَاءَتِ النَّبِيَّ صلى الله عليه وسلم بِبُرْدَةٍ مَنْسُوجَةٍ فِيهَا حَاشِيَتُهَا ـ أَتَدْرُونَ مَا الْبُرْدَةُ قَالُوا الشَّمْلَةُ‏.‏ قَالَ نَعَمْ‏.‏ قَالَتْ نَسَجْتُهَا بِيَدِي، فَجِئْتُ لأَكْسُوَكَهَا‏.‏ فَأَخَذَهَا النَّبِيُّ صلى الله عليه وسلم مُحْتَاجًا إِلَيْهَا، فَخَرَجَ إِلَيْنَا وَإِنَّهَا إِزَارُهُ، فَحَسَّنَهَا فُلاَنٌ فَقَالَ اكْسُنِيهَا، مَا أَحْسَنَهَا‏.‏ قَالَ الْقَوْمُ مَا أَحْسَنْتَ، لَبِسَهَا النَّبِيُّ صلى الله عليه وسلم مُحْتَاجًا إِلَيْهَا، ثُمَّ سَأَلْتَهُ وَعَلِمْتَ أَنَّهُ لاَ يَرُدُّ‏.‏ قَالَ إِنِّي وَاللَّهِ مَا سَأَلْتُهُ لأَلْبَسَهَا إِنَّمَا سَأَلْتُهُ لِتَكُونَ كَفَنِي‏.‏ قَالَ سَهْلٌ فَكَانَتْ كَفَنَهُ‏.‏",
+                "headingArabic": "مَنِ اسْتَعَدَّ الْكَفَنَ فِي زَمَنِ النَّبِيِّ صلى الله عليه وسلم فَلَمْ يُنْكَرْ عَلَيْهِ",
+                "headingUrdu": "(اگر) کسی نے اس کا کفن تیار کیا (مرنے سے پہلے)",
+                "headingEnglish": "(if) somebody prepared his shroud (before his death)",
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1233,
+                "hadithNumber": "1278",
+                "englishNarrator": "Narrated Um 'Atiyya رضی اللہ عنہا :",
+                "hadithEnglish": "We were forbidden to accompany funeral processions but not strictly.",
+                "hadithUrdu": "ہمیں ( عورتوں کو ) جنازے کے ساتھ چلنے سے منع کیا گیا مگر تاکید سے منع نہیں ہوا ۔",
+                "urduNarrator": "ہم سے قبیصہ بن عقبہ نے بیان کیا ‘ انہوں نے کہا کہ ہم سے سفیان ثوری نے بیان کیا ‘ ان سے خالد حذاء نے ‘ ان سے ام ہذیل حفصہ بنت سیرین نے ‘ ان سے ام عطیہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا قَبِيصَةُ بْنُ عُقْبَةَ، حَدَّثَنَا سُفْيَانُ، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ أُمِّ الْهُذَيْلِ، عَنْ أُمِّ عَطِيَّةَ ـ رضى الله عنها ـ قَالَتْ نُهِينَا عَنِ اتِّبَاعِ الْجَنَائِزِ، وَلَمْ يُعْزَمْ عَلَيْنَا‏.‏",
+                "headingArabic": "اتِّبَاعِ النِّسَاءِ الْجَنَائِزَ",
+                "headingUrdu": "(کیا) عورت کا جنازہ کے ساتھ جانا جائز ہے؟",
+                "headingEnglish": "(Is it permissible for) woman to accompany the funeral procession",
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1234,
+                "hadithNumber": "1279",
+                "englishNarrator": "Narrated Muhammad bin Seereen:",
+                "hadithEnglish": "One of the sons of Um 'Atiyya رضی اللہ عنہا died, and when it was the third day she asked for a yellow perfume and put it over her body, and said, \"We were forbidden to mourn for more than three days except for our husbands.\"",
+                "hadithUrdu": "ام عطیہ رضی اللہ عنہا کے ایک بیٹے کا انتقال ہو گیا ۔ انتقال کے تیسرے دن انہوں نے ” صفرہ خلوق “ ( ایک قسم کی زرد خوشبو ) منگوائی اور اسے اپنے بدن پر لگایا اور فرمایا کہ خاوند کے سوا کسی دوسرے پر تین دن سے زیادہ سوگ کرنے سے ہمیں منع کیا گیا ہے ۔",
+                "urduNarrator": "ہم سے مسددبن مسرہد نے بیان کیا ‘ انہوں نے کہا کہ ہم سے بشربن مفضل نے بیان کیا ‘ انہوں نے کہا کہ ہم سے سلمہ بن علقمہ نے اور ان سے محمد بن سیرین نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، حَدَّثَنَا سَلَمَةُ بْنُ عَلْقَمَةَ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، قَالَ تُوُفِّيَ ابْنٌ لأُمِّ عَطِيَّةَ ـ رضى الله عنها ـ فَلَمَّا كَانَ الْيَوْمُ الثَّالِثُ دَعَتْ بِصُفْرَةٍ، فَتَمَسَّحَتْ بِهِ وَقَالَتْ نُهِينَا أَنْ نُحِدَّ أَكْثَرَ مِنْ ثَلاَثٍ إِلاَّ بِزَوْجٍ‏.‏",
+                "headingArabic": "إِحْدَادِ الْمَرْأَةِ عَلَى غَيْرِ زَوْجِهَا",
+                "headingUrdu": "شوہر کے علاوہ کسی مردہ شخص کے لیے عورت کا مورچہ",
+                "headingEnglish": "The mooring of a woman for a dead person other than her husband",
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1235,
+                "hadithNumber": "1280",
+                "englishNarrator": "Narrated Zainab bint Abi Salama:",
+                "hadithEnglish": "When the news of the death of Abu Sufyan رضی اللہ عنہ reached from Sham, Um Habiba رضی اللہ عنہا on the third day, asked for a yellow perfume and scented her cheeks and forearms and said, \"No doubt, I would not have been in need of this, had I not heard the Prophet (ﷺ) saying: \"It is not legal for a woman who believes in Allah and the Last Day to mourn for more than three days for any dead person except her husband, for whom she should mourn for four months and ten days.\"",
+                "hadithUrdu": "ابوسفیان رضی اللہ عنہ کی وفات کی خبر جب شام سے آئی تو ام حبیبہ رضی اللہ عنہا ( ابوسفیان رضی اللہ عنہ کی صاحبزادی اور ام المؤمنین ) نے تیسرے دن ” صفرہ “ ( خوشبو ) منگوا کر اپنے دونوں رخساروں اور بازوؤں پر ملا اور فرمایا کہ اگر میں نے نبی کریم صلی اللہ علیہ وسلم سے یہ نہ سنا ہوتا کہ کوئی بھی عورت جو اللہ اور آخرت کے دن پر ایمان رکھتی ہو اس کے لیے جائز نہیں ہے کہ وہ شوہر کے سوا کسی کا سوگ تین دن سے زیادہ منائے اور شوہر کا سوگ چار مہینے دس دن کرے ۔ تو مجھے اس وقت اس خوشبو کے استعمال کی ضرورت نہیں تھی ۔",
+                "urduNarrator": "ہم سے عبداللہ بن زبیر حمیدی نے بیان کیا ‘ انہوں نے کہا کہ ہم سے سفیان ثوری نے بیان کیا ‘ انہوں نے کہا کہ ہم سے ایوب بن موسیٰ نے بیان کیا ‘ انہوں نے کہا کہ مجھے حمید بن نافع نے زینب بنت ابی سلمہ سے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا الْحُمَيْدِيُّ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا أَيُّوبُ بْنُ مُوسَى، قَالَ أَخْبَرَنِي حُمَيْدُ بْنُ نَافِعٍ، عَنْ زَيْنَبَ ابْنَةِ أَبِي سَلَمَةَ، قَالَتْ لَمَّا جَاءَ نَعْىُ أَبِي سُفْيَانَ مِنَ الشَّأْمِ دَعَتْ أُمُّ حَبِيبَةَ ـ رضى الله عنها ـ بِصُفْرَةٍ فِي الْيَوْمِ الثَّالِثِ، فَمَسَحَتْ عَارِضَيْهَا وَذِرَاعَيْهَا وَقَالَتْ إِنِّي كُنْتُ عَنْ هَذَا لَغَنِيَّةً، لَوْلاَ أَنِّي سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ لاَ يَحِلُّ لاِمْرَأَةٍ تُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ أَنْ تُحِدَّ عَلَى مَيِّتٍ فَوْقَ ثَلاَثٍ، إِلاَّ عَلَى زَوْجٍ، فَإِنَّهَا تُحِدُّ عَلَيْهِ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1236,
+                "hadithNumber": "1281, 1282",
+                "englishNarrator": "Narrated Zainab bint Abi Salama رضی اللہ عنہا :",
+                "hadithEnglish": "I went to Um Habiba رضی اللہ عنہا , the wife of Prophet, who said, \"I heard the Prophet (ﷺ) saying, 'It is not legal for a woman who believes in Allah and the Last Day to mourn for any dead person for more than three days except for her husband, (for whom she should mourn) for four months and ten days'.\" Later I went to Zainab bint Jahsh رضی اللہ عنہا when her brother died; she asked for some scent, and after using it she said, \"I am not in need of scent but I heard Allah's Messenger (ﷺ) saying, 'It is not legal for a woman who believes in Allah and the Last Day to mourn for more than three days for any dead person except her husband, (for whom she should mourn) for four months and ten days.' \"",
+                "hadithUrdu": "وہ نبی کریم صلی اللہ علیہ وسلم کی زوجہ مطہرہ حضرت ام حبیبہ رضی اللہ عنہا کے پاس گئی تو انہوں نے فرمایا کہ میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ہے کہ کوئی بھی عورت جو اللہ اور یوم آخرت پر ایمان رکھتی ہو اس کے لیے شوہر کے سوا کسی مردے پر بھی تین دن سے زیادہ سوگ منانا جائز نہیں ہے ۔ ہاں شوہر پر چار مہینے دس دن تک سوگ منائے ۔ پھر میں حضرت زینب بنت حجش رضی اللہ عنہا کے یہاں گئی جب کہ ان کے بھائی کا انتقال ہوا ‘ انہوں نے خوشبو منگوائی اور اسے لگایا ‘ پھر فرمایا کہ مجھے خوشبو کی کوئی ضرورت نہ تھی لیکن میں نے نبی کریم صلی اللہ علیہ وسلم کو منبر پر یہ کہتے ہوئے سنا ہے کہ کسی بھی عورت کو جو اللہ اور یوم آخرت پر ایمان رکھتی ہو ‘ جائز نہیں ہے کہ کسی میت پر تین دن سے زیادہ سوگ کرے ۔ لیکن شوہر کا سوگ ( عدت ) چار مہینے دس دن تک کرے ۔",
+                "urduNarrator": "ہم سے اسماعیل بن ابی اویس نے بیان کیا ‘ انہوں نے کہا کہ مجھ سے امام مالک نے بیان کیا ‘ ان سے عبداللہ بن ابی بکر نے بیان کیا ‘ ان سے محمد بن عمرو بن حزم نے ‘ ان سے حمید بن نافع نے ‘ ان کو زینب بنت ابی سلمہ رضی اللہ عنہا نے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنِي مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرِ بْنِ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ، عَنْ حُمَيْدِ بْنِ نَافِعٍ، عَنْ زَيْنَبَ بِنْتِ أَبِي سَلَمَةَ، أَخْبَرَتْهُ قَالَتْ، دَخَلْتُ عَلَى أُمِّ حَبِيبَةَ زَوْجِ النَّبِيِّ صلى الله عليه وسلم فَقَالَتْ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏\"‏ لاَ يَحِلُّ لاِمْرَأَةٍ تُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ تُحِدُّ عَلَى مَيِّتٍ فَوْقَ ثَلاَثٍ، إِلاَّ عَلَى زَوْجٍ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا ‏\"‏‏.‏ثُمَّ دَخَلْتُ عَلَى زَيْنَبَ بِنْتِ جَحْشٍ حِينَ تُوُفِّيَ أَخُوهَا، فَدَعَتْ بِطِيبٍ فَمَسَّتْ ثُمَّ قَالَتْ مَا لِي بِالطِّيبِ مِنْ حَاجَةٍ، غَيْرَ أَنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَلَى الْمِنْبَرِ يَقُولُ ‏\"‏ لاَ يَحِلُّ لاِمْرَأَةٍ تُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ تُحِدُّ عَلَى مَيِّتٍ فَوْقَ ثَلاَثٍ، إِلاَّ عَلَى زَوْجٍ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1237,
+                "hadithNumber": "1283",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) passed by a woman who was weeping beside a grave. He told her to fear Allah and be patient. She said to him, \"Go away, for you have not been afflicted with a calamity like mine.\" And she did not recognize him. Then she was informed that he was the Prophet (ﷺ) . so she went to the house of the Prophet (ﷺ) and there she did not find any guard. Then she said to him, \"I did not recognize you.\" He said, \"Verily, the patience is at the first stroke of a calamity.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم کا گزر ایک عورت پر ہوا جو قبر پر بیٹھی رو رہی تھی ۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ اللہ سے ڈر اور صبر کر ۔ وہ بولی جاؤ جی پرے ہٹو ۔ یہ مصیبت تم پر پڑی ہوتی تو پتہ چلتا ۔ وہ آپ صلی اللہ علیہ وسلم کو پہچان نہ سکی تھی ۔ پھر جب لوگوں نے اسے بتایا کہ یہ نبی کریم صلی اللہ علیہ وسلم تھے ، تو اب وہ ( گھبرا کر ) آنحضور صلی اللہ علیہ وسلم کے دروازہ پر پہنچی ۔ وہاں اسے کوئی دربان نہ ملا ۔ پھر اس نے کہا کہ میں آپ کو پہچان نہ سکی تھی ۔ ( معاف فرمائیے ) تو آپ صلی اللہ علیہ وسلم نے فرمایا کہ صبر تو جب صدمہ شروع ہو اس وقت کرنا چاہیے ( اب کیا ہوتا ہے ) ۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا ‘ کہا کہ ہم سے شعبہ نے بیان کیا ‘ ان سے ثابت نے بیان کیا اور ان سے حضرت انس بن مالک رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا ثَابِتٌ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ مَرَّ النَّبِيُّ صلى الله عليه وسلم بِامْرَأَةٍ تَبْكِي عِنْدَ قَبْرٍ فَقَالَ ‏\"‏ اتَّقِي اللَّهَ وَاصْبِرِي ‏\"‏‏.‏ قَالَتْ إِلَيْكَ عَنِّي، فَإِنَّكَ لَمْ تُصَبْ بِمُصِيبَتِي، وَلَمْ تَعْرِفْهُ‏.‏ فَقِيلَ لَهَا إِنَّهُ النَّبِيُّ صلى الله عليه وسلم‏.‏ فَأَتَتْ باب النَّبِيِّ صلى الله عليه وسلم فَلَمْ تَجِدْ عِنْدَهُ بَوَّابِينَ فَقَالَتْ لَمْ أَعْرِفْكَ‏.‏ فَقَالَ ‏\"‏ إِنَّمَا الصَّبْرُ عِنْدَ الصَّدْمَةِ الأُولَى ‏\"‏‏.‏",
+                "headingArabic": "زِيَارَةِ الْقُبُورِ",
+                "headingUrdu": "قبروں کی زیارت کرنا",
+                "headingEnglish": "Visiting the graves",
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1238,
+                "hadithNumber": "1284",
+                "englishNarrator": "Narrated Usama bin Zaid رضی اللہ عنہما :",
+                "hadithEnglish": "The daughter of the Prophet (ﷺ) sent (a messenger) to the Prophet (ﷺ) requesting him to come as her child was dying (or was gasping), but the Prophet (ﷺ) returned the messenger and told him to convey his greeting to her and say: \"Whatever Allah takes is for Him and whatever He gives, is for Him, and everything with Him has a limited fixed term (in this world) and so she should be patient and hope for Allah's reward.\" She again sent for him, swearing that he should come. The Prophet (ﷺ) got up, and so did Sa`d bin 'Ubada, Mu`adh bin Jabal, Ubai bin Ka`b, Zaid bin Thabit and some other men. The child was brought to Allah's Messenger (ﷺ) while his breath was disturbed in his chest (the sub-narrator thinks that Usama added: ) as if it was a leather water-skin. On that the eyes of the Prophet (ﷺ) started shedding tears. Sa`d said, \"O Allah's Messenger (ﷺ)! What is this?\" He replied, \"It is mercy which Allah has lodged in the hearts of His slaves, and Allah is merciful only to those of His slaves who are merciful (to others).",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم کی ایک صاحبزادی ( حضرت زینب رضی اللہ عنہا ) نے آپ صلی اللہ علیہ وسلم کو اطلاع کرائی کہ میرا ایک لڑکا مرنے کے قریب ہے ‘ اس لیے آپ صلی اللہ علیہ وسلم تشریف لائیں ۔ آپ صلی اللہ علیہ وسلم نے انہیں سلام کہلوایا اور کہلوایا کہ اللہ تعالیٰ ہی کا سارا مال ہے ‘ جو لے لیا وہ اسی کا تھا اور جو اس نے دیا وہ بھی اسی کا تھا اور ہر چیز اس کی بارگاہ سے وقت مقررہ پر ہی واقع ہوتی ہے ۔ اس لیے صبر کرو اور اللہ تعالیٰ سے ثواب کی امید رکھو ۔ پھر حضرت زینب رضی اللہ عنہا نے قسم دے کر اپنے یہاں بلوا بھیجا ۔ اب رسول اللہ صلی اللہ علیہ وسلم جانے کے لیے اٹھے ۔ آپ صلی اللہ علیہ وسلم کے ساتھ سعد بن عبادہ ‘ معاذ بن جبل ‘ ابی بن کعب ‘ زید بن ثابت اور بہت سے دوسرے صحابہ رضی اللہ عنہم بھی تھے ۔ بچے کو رسول اللہ صلی اللہ علیہ وسلم کے سامنے کیا گیا ۔ جس کی جانکنی کا عالم تھا ۔ ابوعثمان نے کہا کہ میرا خیال ہے کہ اسامہ رضی اللہ عنہ نے فرمایا کہ جیسے پرانا مشکیزہ ہوتا ہے ( اور پانی کے ٹکرانے کی اندر سے آواز ہوتی ہے ۔ اسی طرح جانکنی کے وقت بچہ کے حلق سے آواز آ رہی تھی ) یہ دیکھ کر رسول اللہ صلی اللہ علیہ وسلم کی آنکھوں سے آنسو بہ نکلے ۔ سعد رضی اللہ عنہ بول اٹھے کہ یا رسول اللہ ! یہ رونا کیسا ہے ؟ آپ صلی اللہ علیہ وسلم نے فرمایا کہ یہ تو اللہ کی رحمت ہے کہ جسے اللہ تعالیٰ نے اپنے ( نیک ) بندوں کے دلوں میں رکھا ہے اور اللہ تعالیٰ بھی اپنے ان رحم دل بندوں پر رحم فرماتا ہے جو دوسروں پر رحم کرتے ہیں ۔",
+                "urduNarrator": "ہم سے عبد ان اور محمد بن مقاتل نے بیان کیا ‘ انہوں نے کہا کہ ہمیں امام عبداللہ بن مبارک نے خبر دی ‘ کہا کہ ہم کو عاصم بن سلیمان نے خبر دی ‘ انہیں ابوعثمان عبدالرحمٰن نہدی نے ‘ کہا کہ مجھ سے اسامہ بن زید رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدَانُ، وَمُحَمَّدٌ، قَالاَ أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا عَاصِمُ بْنُ سُلَيْمَانَ، عَنْ أَبِي عُثْمَانَ، قَالَ حَدَّثَنِي أُسَامَةُ بْنُ زَيْدٍ ـ رضى الله عنهما ـ قَالَ أَرْسَلَتِ ابْنَةُ النَّبِيِّ صلى الله عليه وسلم إِلَيْهِ إِنَّ ابْنًا لِي قُبِضَ فَائْتِنَا‏.‏ فَأَرْسَلَ يُقْرِئُ السَّلاَمَ وَيَقُولُ ‏\"‏ إِنَّ لِلَّهِ مَا أَخَذَ وَلَهُ مَا أَعْطَى وَكُلٌّ عِنْدَهُ بِأَجَلٍ مُسَمًّى، فَلْتَصْبِرْ وَلْتَحْتَسِبْ ‏\"‏‏.‏ فَأَرْسَلَتْ إِلَيْهِ تُقْسِمُ عَلَيْهِ لَيَأْتِيَنَّهَا، فَقَامَ وَمَعَهُ سَعْدُ بْنُ عُبَادَةَ وَمُعَاذُ بْنُ جَبَلٍ وَأُبَىُّ بْنُ كَعْبٍ وَزَيْدُ بْنُ ثَابِتٍ وَرِجَالٌ، فَرُفِعَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم الصَّبِيُّ وَنَفْسُهُ تَتَقَعْقَعُ ـ قَالَ حَسِبْتُهُ أَنَّهُ قَالَ ـ كَأَنَّهَا شَنٌّ‏.‏ فَفَاضَتْ عَيْنَاهُ‏.‏ فَقَالَ سَعْدٌ يَا رَسُولَ اللَّهِ مَا هَذَا فَقَالَ ‏\"‏ هَذِهِ رَحْمَةٌ جَعَلَهَا اللَّهُ فِي قُلُوبِ عِبَادِهِ، وَإِنَّمَا يَرْحَمُ اللَّهُ مِنْ عِبَادِهِ الرُّحَمَاءَ ‏\"‏‏.‏",
+                "headingArabic": "قَوْلِ النَّبِيِّ صلى الله عليه وسلم: «يُعَذَّبُ الْمَيِّتُ بِبَعْضِ بُكَاءِ أَهْلِهِ عَلَيْهِ» إِذَا كَانَ النَّوْحُ مِنْ سُنَّتِهِ",
+                "headingUrdu": "رسول اللہ صلی اللہ علیہ وسلم کا فرمان ہے: \"میت کو اس کے بعض رشتہ داروں کے رونے کی وجہ سے عذاب دیا جاتا ہے، اگر اس مردہ کا رونا رونا تھا۔\"",
+                "headingEnglish": "The statement of the Prophet ﷺ : \"The deceased is punished because of the weeping (with wailing) of some of his relatives, if wailing was the custom of that dead person.\"",
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1239,
+                "hadithNumber": "1285",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "We were (in the funeral procession) of one of the daughters of the Prophet (ﷺ) and he was sitting by the side of the grave. I saw his eyes shedding tears. He said, \"Is there anyone among you who did not have sexual relations with his wife last night?\" Abu Talha رضی اللہ عنہ replied in the affirmative. And so the Prophet told him to get down in the grave. And so he got down in her grave.",
+                "hadithUrdu": "ہم نبی کریم صلی اللہ علیہ وسلم کی ایک بیٹی ( حضرت ام کلثوم رضی اللہ عنہا ) کے جنازہ میں حاضر تھے ۔ ( وہ حضرت عثمان غنی رضی اللہ عنہ کی بیوی تھیں ۔ جن کا 5 ھ میں انتقال ہوا ) حضور اکرم صلی اللہ علیہ وسلم قبر پر بیٹھے ہوئے تھے ۔ انہوں نے کہا کہ میں نے دیکھا کہ آپ صلی اللہ علیہ وسلم کی آنکھیں آنسوؤں سے بھر آئی تھیں ۔ آنحضور صلی اللہ علیہ وسلم نے پوچھا ۔ کیا تم میں کوئی ایسا شخص بھی ہے کہ جو آج کی رات عورت کے پاس نہ گیا ہو ۔ اس پر ابوطلحہ رضی اللہ عنہ نے کہا کہ میں ہوں ۔ رسول کریم صلی اللہ علیہ وسلم نے فرمایا کہ پھر قبر میں تم اترو ۔ چنانچہ وہ ان کی قبر میں اترے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن محمد مسندی نے بیان کیا ‘ کہا ہم سے ابوعامر عقدی نے بیان کیا ‘ کہا ہم سے فلیح بن سلیمان نے بیان کیا ‘ ان سے ہلال بن علی نے اور ان سے انس بن مالک رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا أَبُو عَامِرٍ، حَدَّثَنَا فُلَيْحُ بْنُ سُلَيْمَانَ، عَنْ هِلاَلِ بْنِ عَلِيٍّ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ شَهِدْنَا بِنْتًا لِرَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ وَرَسُولُ اللَّهِ صلى الله عليه وسلم جَالِسٌ عَلَى الْقَبْرِ ـ قَالَ فَرَأَيْتُ عَيْنَيْهِ تَدْمَعَانِ قَالَ ـ فَقَالَ ‏\"‏ هَلْ مِنْكُمْ رَجُلٌ لَمْ يُقَارِفِ اللَّيْلَةَ ‏\"‏‏.‏ فَقَالَ أَبُو طَلْحَةَ أَنَا‏.‏ قَالَ ‏\"‏ فَانْزِلْ ‏\"‏‏.‏ قَالَ فَنَزَلَ فِي قَبْرِهَا‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1240,
+                "hadithNumber": "1286, 1287, 1288",
+                "englishNarrator": "Narrated `Abdullah bin 'Ubaidullah bin Abi Mulaika:",
+                "hadithEnglish": "One of the daughters of `Uthman رضی اللہ عنہ died at Mecca. We went to attend her funeral procession. Ibn `Umar رضی اللہ عنہما and Ibn `Abbas رضی اللہ عنہما were also present. I sat in between them (or said, I sat beside one of them. Then a man came and sat beside me.) `Abdullah bin `Umar رضی اللہ عنہما said to `Amr bin `Uthman, \"Will you not prohibit crying as Allah's Messenger (ﷺ) has said, 'The dead person is tortured by the crying of his relatives.?\"\r\nIbn `Abbas رضی اللہ عنہما said, \"`Umar رضی اللہ عنہ used to say so.\" Then he added narrating, \"I accompanied `Umar رضی اللہ عنہ on a journey from Mecca till we reached Al-Baida. There he saw some travelers in the shade of a Samura (A kind of forest tree). He said (to me), \"Go and see who those travelers are.\" So I went and saw that one of them was Suhaib. I told this to `Umar رضی اللہ عنہ who then asked me to call him. So I went back to Suhaib and said to him, \"Depart and follow the chief of the faithful believers.\" Later, when `Umar رضی اللہ عنہ was stabbed, Suhaib came in weeping and saying, \"O my brother, O my friend!\" (on this `Umar said to him, \"O Suhaib! Are you weeping for me while the Prophet (ﷺ) said, \"The dead person is punished by some of the weeping of his relatives?\"\r\nIbn `Abbas رضی اللہ عنہما added, \"When `Umar رضی اللہ عنہ died I told all this to Aisha رضی اللہ عنہا and she said, 'May Allah be merciful to `Umar. By Allah, Allah's Messenger (ﷺ) did not say that a believer is punished by the weeping of his relatives. But he said, Allah increases the punishment of a non-believer because of the weeping of his relatives.\" Aisha رضی اللہ عنہا further added, \"The Qur'an is sufficient for you (to clear up this point) as Allah has stated: 'No burdened soul will bear another's burden.' \" (35.18). Ibn `Abbas رضی اللہ عنہما then said, \"Only Allah makes one laugh or cry.\" Ibn `Umar رضی اللہ عنہما did not say anything after that.",
+                "hadithUrdu": "عثمان رضی اللہ عنہ کی ایک صاحبزادی ( ام ابان ) کا مکہ میں انتقال ہو گیا تھا ۔ ہم بھی ان کے جنازے میں حاضر ہوئے ۔ عبداللہ بن عمر رضی اللہ عنہما اور عبداللہ بن عباس رضی اللہ عنہما بھی تشریف لائے ۔ میں ان دونوں حضرات کے درمیان میں بیٹھا ہوا تھا یا یہ کہا کہ میں ایک بزرگ کے قریب بیٹھ گیا اور دوسرے بزرگ بعد میں آئے اور میرے بازو میں بیٹھ گئے ۔ عبداللہ بن عمر رضی اللہ عنہما نے عمرو بن عثمان سے کہا ( جو ام ابان کے بھائی تھے ) رونے سے کیوں نہیں روکتے ۔ نبی کریم صلی اللہ علیہ وسلم نے تو فرمایا ہے کہ میت پر گھر والوں کے رونے سے عذاب ہوتا ہے ۔اس پر عبداللہ بن عباس رضی اللہ عنہما نے بھی تائید کی کہ عمر رضی اللہ عنہ نے بھی ایسا ہی فرمایا تھا ۔ پھر آپ بیان کرنے لگے کہ میں عمر رضی اللہ عنہ کے ساتھ مکہ سے چلا جب ہم بیداء تک پہنچے تو سامنے ایک ببول کے درخت کے نیچے چند سوار نظر پڑے ۔ حضرت عمر رضی اللہ عنہ نے کہا کہ جا کر دیکھو تو سہی یہ کون لوگ ہیں ۔ ان کا بیان ہے کہ میں نے دیکھا تو صہیب رضی اللہ عنہ تھے ۔ پھر جب اس کی اطلاع دی تو آپ نے فرمایا کہ انہیں بلا لاؤ ۔ میں صہیب رضی اللہ عنہ کے پاس دوبارہ آیا اور کہا کہ چلئے امیرالمؤمنین بلاتے ہیں ۔ چنانچہ وہ خدمت میں حاضر ہوئے ۔ ( خیر یہ قصہ تو ہو چکا ) پھر جب حضرت عمر رضی اللہ عنہ زخمی کئے گئے تو صہیب رضی اللہ عنہ روتے ہوئے اندر داخل ہوئے ۔ وہ کہہ رہے تھے ہائے میرے بھائی ! ہائے میرے صاحب ! اس پر عمر رضی اللہ عنہ نے فرمایا کہ صہیب رضی اللہ عنہ ! تم مجھ پر روتے ہو ‘ تم نہیں جانتے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا تھا کہ میت پر اس کے گھر والوں کے رونے سے عذاب ہوتا ہے ۔ ابن عباس رضی اللہ عنہما نے فرمایا کہ جب عمر رضی اللہ عنہ کا انتقال ہو گیا تو میں نے اس حدیث کا ذکر عائشہ رضی اللہ عنہا سے کیا ۔ انہوں نے فرمایا کہ رحمت عمر رضی اللہ عنہ پر ہو ۔ بخدا رسول اللہ صلی اللہ علیہ وسلم نے یہ نہیں فرمایا ہے کہ اللہ مومن پر اس کے گھر والوں کے رونے کی وجہ سے عذاب کرے گا بلکہ آنحضرت صلی اللہ علیہ وسلم نے یوں فرمایا کہ اللہ تعالیٰ کافر کا عذاب اس کے گھر والوں کے رونے کی وجہ سے اور زیادہ کر دیتا ہے ۔ اس کے بعد کہنے لگیں کہ قرآن کی یہ آیت تم کو بس کرتی ہے کہ ” کوئی کسی کے گناہ کا ذمہ دار اور اس کا بوجھ اٹھانے والا نہیں ۔ “ اس پر ابن عباس رضی اللہ عنہما نے اس وقت ( یعنی ام ابان کے جنازے میں ) سورۃ النجم کی یہ آیت پڑھی ” اور اللہ ہی ہنساتا ہے اور وہی رلاتا ہے ۔ “ ابن ابی ملیکہ نے کہا کہ خدا کی قسم ! ابن عباس رضی اللہ عنہما کی یہ تقریر سن کر ابن عمر رضی اللہ عنہما نے کچھ جواب نہیں دیا ۔",
+                "urduNarrator": "ہم سے عبد ان نے بیان کیا ‘ انہوں نے کہا کہ ہم سے عبداللہ بن مبارک نے بیان کیا ‘ انہوں نے کہا کہ ہم کو ابن جریج نے خبر دی ‘ انہوں نے کہا کہ مجھے عبداللہ بن عبیداللہ بن ابی ملیکہ نے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدَانُ، حَدَّثَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، قَالَ أَخْبَرَنِي عَبْدُ اللَّهِ بْنُ عُبَيْدِ اللَّهِ بْنِ أَبِي مُلَيْكَةَ، قَالَ تُوُفِّيَتِ ابْنَةٌ لِعُثْمَانَ ـ رضى الله عنه ـ بِمَكَّةَ وَجِئْنَا لِنَشْهَدَهَا، وَحَضَرَهَا ابْنُ عُمَرَ وَابْنُ عَبَّاسٍ ـ رضى الله عنهم ـ وَإِنِّي لَجَالِسٌ بَيْنَهُمَا ـ أَوْ قَالَ جَلَسْتُ إِلَى أَحَدِهِمَا‏.‏ ثُمَّ جَاءَ الآخَرُ، فَجَلَسَ إِلَى جَنْبِي فَقَالَ عَبْدُ اللَّهِ بْنُ عَمَرَ ـ رضى الله عنهما ـ لِعَمْرِو بْنِ عُثْمَانَ أَلاَ تَنْهَى عَنِ الْبُكَاءِ، فَإِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ إِنَّ الْمَيِّتَ لَيُعَذَّبُ بِبُكَاءِ أَهْلِهِ عَلَيْهِ ‏\"‏‏. فَقَالَ ابْنُ عَبَّاسٍ ـ رضى الله عنهما ـ قَدْ كَانَ عُمَرُ ـ رضى الله عنه ـ يَقُولُ بَعْضَ ذَلِكَ، ثُمَّ حَدَّثَ قَالَ صَدَرْتُ مَعَ عُمَرَ ـ رضى الله عنه ـ مِنْ مَكَّةَ حَتَّى إِذَا كُنَّا بِالْبَيْدَاءِ، إِذَا هُوَ بِرَكْبٍ تَحْتَ ظِلِّ سَمُرَةٍ فَقَالَ اذْهَبْ، فَانْظُرْ مَنْ هَؤُلاَءِ الرَّكْبُ قَالَ فَنَظَرْتُ فَإِذَا صُهَيْبٌ، فَأَخْبَرْتُهُ فَقَالَ ادْعُهُ لِي‏.‏ فَرَجَعْتُ إِلَى صُهَيْبٍ فَقُلْتُ ارْتَحِلْ فَالْحَقْ أَمِيرَ الْمُؤْمِنِينَ‏.‏ فَلَمَّا أُصِيبَ عُمَرُ دَخَلَ صُهَيْبٌ يَبْكِي يَقُولُ وَاأَخَاهُ، وَاصَاحِبَاهُ‏.‏ فَقَالَ عُمَرُ ـ رضى الله عنه ـ يَا صُهَيْبُ أَتَبْكِي عَلَىَّ وَقَدْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِنَّ الْمَيِّتَ يُعَذَّبُ بِبَعْضِ بُكَاءِ أَهْلِهِ عَلَيْهِ ‏\"‏‏.‏ قَالَ ابْنُ عَبَّاسٍ ـ رضى الله عنهما فَلَمَّا مَاتَ عُمَرُ ـ رضى الله عنه ـ ذَكَرْتُ ذَلِكَ لِعَائِشَةَ ـ رضى الله عنها ـ فَقَالَتْ رَحِمَ اللَّهُ عُمَرَ، وَاللَّهِ مَا حَدَّثَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِنَّ اللَّهَ لَيُعَذِّبُ الْمُؤْمِنَ بِبُكَاءِ أَهْلِهِ عَلَيْهِ‏.‏ وَلَكِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏\"‏ إِنَّ اللَّهَ لَيَزِيدُ الْكَافِرَ عَذَابًا بِبُكَاءِ أَهْلِهِ عَلَيْهِ ‏\"‏‏.‏ وَقَالَتْ حَسْبُكُمُ الْقُرْآنُ ‏{‏وَلاَ تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى‏}‏‏.‏ قَالَ ابْنُ عَبَّاسٍ ـ رضى الله عنهما ـ عِنْدَ ذَلِكَ وَاللَّهُ هُوَ أَضْحَكَ وَأَبْكَى‏.‏ قَالَ ابْنُ أَبِي مُلَيْكَةَ وَاللَّهِ مَا قَالَ ابْنُ عُمَرَ ـ رضى الله عنهما ـ شَيْئًا‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1241,
+                "hadithNumber": "1289",
+                "englishNarrator": "Narrated `Aisha (the wife of the Prophet) رضی اللہ عنہا :",
+                "hadithEnglish": "Once Allah's Messenger (ﷺ) passed by (the grave of) a Jewess whose relatives were weeping over her. He said, \"They are weeping over her and she is being tortured in her grave.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم کا گزر ایک یہودی عورت پر ہوا جس کے مرنے پر اس کے گھر والے رو رہے تھے ۔ اس وقت آپ صلی اللہ علیہ وسلم نے فرمایا کہ یہ لوگ رو رہے ہیں حالانکہ اس کو قبر میں عذاب کیا جا رہا ہے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف تنیسی نے بیان کیا ‘ انہیں امام مالک نے خبر دی ‘ انہیں عبداللہ بن ابی بکر نے ‘ انہیں ان کے باپ نے اور انہیں عمرہ بنت عبدالرحمٰن نے ‘ انہوں نے نبی کریم صلی اللہ علیہ وسلم کی بیوی حضرت عائشہ رضی اللہ عنہا سے سنا ۔ آپ نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ، عَنْ أَبِيهِ، عَنْ عَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ، أَنَّهَا أَخْبَرَتْهُ أَنَّهَا، سَمِعَتْ عَائِشَةَ ـ رضى الله عنها ـ زَوْجَ النَّبِيِّ صلى الله عليه وسلم قَالَتْ إِنَّمَا مَرَّ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى يَهُودِيَّةٍ يَبْكِي عَلَيْهَا أَهْلُهَا فَقَالَ ‏ \"‏ إِنَّهُمْ لَيَبْكُونَ عَلَيْهَا، وَإِنَّهَا لَتُعَذَّبُ فِي قَبْرِهَا ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1242,
+                "hadithNumber": "1290",
+                "englishNarrator": "Narrated Abu Burda report that his father :",
+                "hadithEnglish": "\"When `Umar رضى الله عنه was stabbed, Suhaib started crying: O my brother! `Umar رضی اللہ عنہ said, 'Don't you know that the Prophet (ﷺ) said: The deceased is tortured for the weeping of the living'?\"",
+                "hadithUrdu": "جب حضرت عمر رضی اللہ عنہ کو زخمی کیا گیا تو صہیب رضی اللہ عنہ یہ کہتے ہوئے آئے ‘ ہائے میرے بھائی ! اس پر حضرت عمر رضی اللہ عنہ نے فرمایا کہ کیا تجھ کو معلوم نہیں کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ہے کہ مردے کو اس کے گھر والوں کے رونے سے عذاب کیا جاتا ہے ۔",
+                "urduNarrator": "ہم سے اسماعیل بن خلیل نے بیان کیا ‘ ان سے علی بن مسہر نے بیان کیا ‘ ان سے ابواسحاق شیبانی نے ‘ ان سے ابوبردہ نے اور ان سے ان کے والد ابوموسیٰ اشعری نے کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ خَلِيلٍ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، حَدَّثَنَا أَبُو إِسْحَاقَ ـ وَهْوَ الشَّيْبَانِيُّ ـ عَنْ أَبِي بُرْدَةَ، عَنْ أَبِيهِ، قَالَ لَمَّا أُصِيبَ عُمَرُ ـ رضى الله عنه ـ جَعَلَ صُهَيْبٌ يَقُولُ وَاأَخَاهُ‏.‏ فَقَالَ عُمَرُ أَمَا عَلِمْتَ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّ الْمَيِّتَ لَيُعَذَّبُ بِبُكَاءِ الْحَىِّ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1243,
+                "hadithNumber": "1291",
+                "englishNarrator": "Narrated Al-Mughira رضی اللہ عنہ :",
+                "hadithEnglish": "I heard the Prophet (ﷺ) saying, \"Ascribing false things to me is not like ascribing false things to anyone else. Whosoever tells a lie against me intentionally then surely let him occupy his seat in Hell-Fire.\" I heard the Prophet (ﷺ) saying, \"The deceased who is wailed over is tortured for that wailing.\"",
+                "hadithUrdu": "میں نے نبی کریم صلی اللہ علیہ وسلم سے سنا آپ صلی اللہ علیہ وسلم فرماتے تھے کہ میرے متعلق کوئی جھوٹی بات کہنا عام لوگوں سے متعلق جھوٹ بولنے کی طرح نہیں ہے جو شخص بھی جان بوجھ کر میرے اوپر جھوٹ بولے وہ اپنا ٹھکانا جہنم میں بنا لے ۔ اور میں نے نبی کریم صلی اللہ علیہ وسلم سے یہ بھی سنا کہ کسی میت پر اگر نوحہ و ماتم کیا جائے تو اس نوحہ کی وجہ سے بھی اس پر عذاب ہوتا ہے ۔",
+                "urduNarrator": "ہم سے ابونعیم نے بیان کیا ‘ کہا کہ ہم سے سعید بن عبیدنے ‘ ان سے علی بن ربیعہ نے اور ان سے مغیرہ بن شعبہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا سَعِيدُ بْنُ عُبَيْدٍ، عَنْ عَلِيِّ بْنِ رَبِيعَةَ، عَنِ الْمُغِيرَةِ ـ رضى الله عنه ـ قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏\"‏ إِنَّ كَذِبًا عَلَىَّ لَيْسَ كَكَذِبٍ عَلَى أَحَدٍ، مَنْ كَذَبَ عَلَىَّ مُتَعَمِّدًا فَلْيَتَبَوَّأْ مَقْعَدَهُ مِنَ النَّارِ ‏\"‏‏.‏ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏\"‏ مَنْ نِيحَ عَلَيْهِ يُعَذَّبُ بِمَا نِيحَ عَلَيْهِ ‏\"‏‏.‏",
+                "headingArabic": "مَا يُكْرَهُ مِنَ النِّيَاحَةِ عَلَى الْمَيِّتِ",
+                "headingUrdu": "میت پر نوحہ کرنا ناپسندیدہ ہے۔",
+                "headingEnglish": "What (sort of) wailing over a deceased is disliked",
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1244,
+                "hadithNumber": "1292",
+                "englishNarrator": "Narrated Ibn 'Umar from his father رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"The deceased is tortured in his grave for the wailing done over him.\" Narrated Shu'ba: The deceased is tortured for the wailing of the living ones over him .",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ میت کو اس پر نوحہ کئے جانے کی وجہ سے بھی قبر میں عذاب ہوتا ہے ۔ عبدان کے ساتھ اس حدیث کو عبدالاعلیٰ نے بھی یزید بن زریع سے روایت کیا ۔ انہوں نے کہا ہم سے سعید بن ابی عروبہ نے بیان کیا ‘ کہا ہم سے قتادہ نے ۔ اور آدم بن ابی ایاس نے شعبہ سے یوں روایت کیا کہ میت پر زندے کے رونے سے عذاب ہوتا ہے ۔",
+                "urduNarrator": "ہم سے عبد ان عبداللہ بن عثمان نے بیان کیا ‘ کہا کہ مجھے میرے باپ نے خبر دی ‘ انہیں شعبہ نے ‘ انہیں قتادہ نے ‘ انہیں سعید بن مسیب نے ‘ انہیں عبداللہ بن عمر رضی اللہ عنہما نے اپنے باپ حضرت عمر رضی اللہ عنہ سے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدَانُ، قَالَ أَخْبَرَنِي أَبِي، عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنِ ابْنِ عُمَرَ، عَنْ أَبِيهِ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ الْمَيِّتُ يُعَذَّبُ فِي قَبْرِهِ بِمَا نِيحَ عَلَيْهِ ‏\"‏‏.‏ تَابَعَهُ عَبْدُ الأَعْلَى حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ حَدَّثَنَا سَعِيدٌ حَدَّثَنَا قَتَادَةُ‏.‏ وَقَالَ آدَمُ عَنْ شُعْبَةَ ‏\"‏ الْمَيِّتُ يُعَذَّبُ بِبُكَاءِ الْحَىِّ عَلَيْهِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1245,
+                "hadithNumber": "1293",
+                "englishNarrator": "Narrated Jabir bin `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "On the day of the Battle of Uhud, my father was brought and he had been mutilated (in battle) and was placed in front of Allah's Messenger (ﷺ) and a sheet was over him. I went intending to uncover my father but my people forbade me; again I wanted to uncover him but my people forbade me. Allah's Messenger (ﷺ) gave his order and he was shifted away. At that time he heard the voice of a crying woman and asked, \"Who is this?\" They said, \"It is the daughter or the sister of `Amr.\" He said, \"Why does she weep? (or let her stop weeping), for the angels had been shading him with their wings till he (i.e. the body of the martyr) was shifted away.\"",
+                "hadithUrdu": "میرے والد کی لاش احد کے میدان سے لائی گئی ۔ ( مشرکوں نے ) آپ کی صورت تک بگاڑ دی تھی ۔ نعش رسول اللہ صلی اللہ علیہ وسلم کے سامنے رکھی گئی ۔ اوپر سے ایک کپڑا ڈھکا ہوا تھا ‘ میں نے چاہا کہ کپڑے کو ہٹاؤں ۔ لیکن میری قوم نے مجھے روکا ۔ پھر دوبارہ کپڑا ہٹانے کی کوشش کی ۔ اس مرتبہ بھی میری قوم نے مجھ کو روک دیا ۔ اس کے بعد رسول اللہ صلی اللہ علیہ وسلم کے حکم سے جنازہ اٹھایا گیا ۔ اس وقت کسی زور زور سے رونے والے کی آواز سنائی دی تو رسول اللہ صلی اللہ علیہ وسلم نے پوچھا کہ یہ کون ہے ؟ لوگوں نے کہا کہ یہ عمرو کی بیٹی یا ( یہ کہا کہ ) عمرو کی بہن ہیں ۔ ( نام میں سفیان کو شک ہوا تھا ) آپ صلی اللہ علیہ وسلم نے فرمایا کہ روتی کیوں ہیں ؟ یا یہ فرمایا کہ روؤ نہیں کہ ملائکہ برابر اپنے پروں کا سایہ کئے رہے ہیں جب تک اس کا جنازہ اٹھایا گیا ۔",
+                "urduNarrator": "ہم سے علی بن عبداللہ بن مدینی نے بیان کیا ‘ ان سے سفیان بن عیینہ نے بیان کیا ‘ کہا کہ ہم سے محمد بن منکدر نے بیان کیا ‘ کہا کہ میں نے جابر بن عبداللہ انصاری رضی اللہ عنہما سے سنا ‘ انہوں نے فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا ابْنُ الْمُنْكَدِرِ، قَالَ سَمِعْتُ جَابِرَ بْنَ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ قَالَ جِيءَ بِأَبِي يَوْمَ أُحُدٍ، قَدْ مُثِّلَ بِهِ حَتَّى وُضِعَ بَيْنَ يَدَىْ رَسُولِ اللَّهِ صلى الله عليه وسلم وَقَدْ سُجِّيَ ثَوْبًا فَذَهَبْتُ أُرِيدُ أَنْ أَكْشِفَ عَنْهُ فَنَهَانِي قَوْمِي، ثُمَّ ذَهَبْتُ أَكْشِفُ عَنْهُ فَنَهَانِي قَوْمِي، فَأَمَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَرُفِعَ فَسَمِعَ صَوْتَ صَائِحَةٍ فَقَالَ ‏\"‏ مَنْ هَذِهِ ‏\"‏‏.‏ فَقَالُوا ابْنَةُ عَمْرٍو أَوْ أُخْتُ عَمْرٍو‏.‏ قَالَ ‏\"‏ فَلِمَ تَبْكِي أَوْ لاَ تَبْكِي فَمَا زَالَتِ الْمَلاَئِكَةُ تُظِلُّهُ بِأَجْنِحَتِهَا حَتَّى رُفِعَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1246,
+                "hadithNumber": "1294",
+                "englishNarrator": "Narrated `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"He who slaps his cheeks, tears his clothes and follows the ways and traditions of the Days of Ignorance is not one of us.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ جو عورتیں ( کسی کی موت پر ) اپنے چہروں کو پیٹتی اور گریبان چاک کر لیتی ہیں اور جاہلیت کی باتیں بکتی ہیں وہ ہم میں سے نہیں ہیں ۔",
+                "urduNarrator": "ہم سے ابونعیم نے بیان کیا ‘ کہ ہم سے سفیان ثوری نے ‘ ان سے زبید یامی نے بیان کیا ‘ ان سے ابراہیم نخعی نے ‘ ان سے مسروق نے اور ان سے عبداللہ بن مسعود رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا زُبَيْدٌ الْيَامِيُّ، عَنْ إِبْرَاهِيمَ، عَنْ مَسْرُوقٍ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ لَيْسَ مِنَّا مَنْ لَطَمَ الْخُدُودَ، وَشَقَّ الْجُيُوبَ، وَدَعَا بِدَعْوَى الْجَاهِلِيَّةِ ‏\"‏‏.‏",
+                "headingArabic": "لَيْسَ مِنَّا مَنْ شَقَّ الْجُيُوبَ",
+                "headingUrdu": "جس نے (مصیبت میں مبتلا ہو کر) اپنے کپڑے پھاڑ دیے وہ ہم میں سے نہیں ہے۔",
+                "headingEnglish": "He who tears off his clothes (when afflicted with a calamity) is not from us",
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1247,
+                "hadithNumber": "1295",
+                "englishNarrator": "Narrated 'Amir bin Sa`d bin Abi Waqqas:",
+                "hadithEnglish": "\"In the year of the last Hajj of the Prophet (ﷺ) I became seriously ill and the Prophet (ﷺ) used to visit me inquiring about my health. I told him, 'I am reduced to this state because of illness and I am wealthy and have no inheritors except a daughter, (In this narration the name of 'Amir bin Sa`d is mentioned and in fact it is a mistake; the narrator is `Aisha bint Sa`d bin Abi Waqqas). Should I give two-thirds of my property in charity?' He said, 'No.' I asked, 'Half?' He said, 'No.' then he added, 'Onethird, and even one-third is much. You'd better leave your inheritors wealthy rather than leaving them poor, begging others. You will get a reward for whatever you spend for Allah's sake, even for what you put in your wife's mouth.' I said, 'O Allah's Messenger (ﷺ)! Will I be left alone after my companions have gone?' He said, 'If you are left behind, whatever good deeds you will do will upgrade you and raise you high. And perhaps you will have a long life so that some people will be benefited by you while others will be harmed by you. O Allah! Complete the emigration of my companions and do not turn them renegades.' But Allah's Messenger (ﷺ) felt sorry for poor Sa`d bin Khaula as he died in Mecca.\" (but Sa`d bin Abi Waqqas lived long after the Prophet (ﷺ).)",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم حجتہ الوداع کے سال ( 10 ھ میں ) میری عیادت کے لیے تشریف لائے ۔ میں سخت بیمار تھا ۔ میں نے کہا کہ میرا مرض شدت اختیار کر چکا ہے میرے پاس مال و اسباب بہت ہے اور میری صرف ایک لڑکی ہے جو وارث ہو گی تو کیا میں اپنے دو تہائی مال کو خیرات کر دوں ؟ آپ صلی اللہ علیہ وسلم نے فرمایا کہ نہیں ۔ میں نے کہا آدھا ۔ آپ صلی اللہ علیہ وسلم نے فرمایا نہیں ۔ پھر آپ صلی اللہ علیہ وسلم نے فرمایا کہ ایک تہائی کر دو اور یہ بھی بڑی خیرات ہے یا بہت خیرات ہے اگر تو اپنے وارثوں کو اپنے پیچھے مالدار چھوڑ جائے تو یہ اس سے بہتر ہو گا کہ محتاجی میں انہیں اس طرح چھوڑ کر جائے کہ وہ لوگوں کے سامنے ہاتھ پھیلاتے پھریں ۔ یہ یاد رکھو کہ جو خرچ بھی تم اللہ کی رضا کی نیت سے کرو گے تو اس پر بھی تمہیں ثواب ملے گا ۔ حتیٰ کہ اس لقمہ پر بھی جو تم اپنی بیوی کے منہ میں رکھو ۔ پھر میں نے پوچھا کہ یا رسول اللہ ! میرے ساتھی تو مجھے چھوڑ کر ( حجتہ الوداع کر کے ) مکہ سے جا رہے ہیں اور میں ان سے پیچھے رہ رہا ہوں ۔ اس پر آنحضور صلی اللہ علیہ وسلم نے فرمایا کہ یہاں رہ کر بھی اگر تم کوئی نیک عمل کرو گے تو اس سے تمہارے درجے بلند ہوں گے اور شاید ابھی تم زندہ رہو گے اور بہت سے لوگوں کو ( مسلمانوں کو ) تم سے فائدہ پہنچے گا اور بہتوں کو ( کفار و مرتدین کو ) نقصان ۔ ( پھر آپ صلی اللہ علیہ وسلم نے دعا فرمائی ) اے اللہ ! میرے ساتھیوں کو ہجرت پر استقلال عطا فرما اور ان کے قدم پیچھے کی طرف نہ لوٹا ۔ لیکن مصیبت زدہ سعد بن خولہ تھے اور رسول اللہ صلی اللہ علیہ وسلم نے ان کے مکہ میں وفات پا جانے کی وجہ سے اظہار غم کیا تھا ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف تنیسی نے بیان کیا ‘ انہیں امام مالک نے خبر دی ۔ انہیں ابن شہاب نے ‘ انہیں عامر بن سعد بن ابی وقاص نے اور انہیں ان کے والد سعد بن ابی وقاص رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عَامِرِ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ، عَنْ أَبِيهِ ـ رضى الله عنه ـ قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَعُودُنِي عَامَ حَجَّةِ الْوَدَاعِ مِنْ وَجَعٍ اشْتَدَّ بِي فَقُلْتُ إِنِّي قَدْ بَلَغَ بِي مِنَ الْوَجَعِ وَأَنَا ذُو مَالٍ، وَلاَ يَرِثُنِي إِلاَّ ابْنَةٌ، أَفَأَتَصَدَّقُ بِثُلُثَىْ مَالِي قَالَ ‏\"‏ لاَ ‏\"‏‏.‏ فَقُلْتُ بِالشَّطْرِ فَقَالَ ‏\"‏ لاَ ‏\"‏ ثُمَّ قَالَ ‏\"‏ الثُّلُثُ وَالثُّلْثُ كَبِيرٌ ـ أَوْ كَثِيرٌ ـ إِنَّكَ أَنْ تَذَرَ وَرَثَتَكَ أَغْنِيَاءَ خَيْرٌ مِنْ أَنْ تَذَرَهُمْ عَالَةً يَتَكَفَّفُونَ النَّاسَ، وَإِنَّكَ لَنْ تُنْفِقَ نَفَقَةً تَبْتَغِي بِهَا وَجْهَ اللَّهِ إِلاَّ أُجِرْتَ بِهَا، حَتَّى مَا تَجْعَلُ فِي فِي امْرَأَتِكَ ‏\"‏‏.‏ فَقُلْتُ يَا رَسُولَ اللَّهِ، أُخَلَّفُ بَعْدَ أَصْحَابِي قَالَ ‏\"‏ إِنَّكَ لَنْ تُخَلَّفَ فَتَعْمَلَ عَمَلاً صَالِحًا إِلاَّ ازْدَدْتَ بِهِ دَرَجَةً وَرِفْعَةً، ثُمَّ لَعَلَّكَ أَنْ تُخَلَّفَ حَتَّى يَنْتَفِعَ بِكَ أَقْوَامٌ وَيُضَرَّ بِكَ آخَرُونَ، اللَّهُمَّ أَمْضِ لأَصْحَابِي هِجْرَتَهُمْ، وَلاَ تَرُدَّهُمْ عَلَى أَعْقَابِهِمْ، لَكِنِ الْبَائِسُ سَعْدُ ابْنُ خَوْلَةَ، يَرْثِي لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ مَاتَ بِمَكَّةَ ‏\"‏‏.‏",
+                "headingArabic": "رِثَاءِ النَّبِيِّ صلى الله عليه وسلم سَعْدَ ابْنَ خَوْلَةَ",
+                "headingUrdu": "سعد بن خولہ کے لیے رسول اللہ صلی اللہ علیہ وسلم کا غم",
+                "headingEnglish": "The sorrow of the Prophet (ﷺ) for Sa'ad bin Khaula",
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1248,
+                "hadithNumber": "1296",
+                "englishNarrator": "Narrated Abu Burda bin Abi Musa:",
+                "hadithEnglish": "Abu Musa رضی اللہ عنہ got seriously ill, fainted and could not reply to his wife while he was lying with his head in her lap. When he came to his senses, he said, \"I am innocent of those, of whom Allah's Messenger (ﷺ) was innocent. Allah's Messenger (ﷺ) is innocent of a woman who cries aloud (or slaps her face) who shaves her head and who tear off her clothes (on the falling of a calamity)",
+                "hadithUrdu": "ابوموسیٰ اشعری رضی اللہ عنہ بیمار پڑے ‘ ایسے کہ ان پر غشی طاری تھی اور ان کا سر ان کی ایک بیوی ام عبداللہ بنت ابی رومہ کی گود میں تھا ( وہ ایک زور کی چیخ مار کر رونے لگی ) ابوموسیٰ رضی اللہ عنہ اس وقت کچھ بول نہ سکے لیکن جب ان کو ہوش ہوا تو انہوں نے فرمایا کہ میں بھی اس کام سے بیزار ہوں جس سے رسول اللہ صلی اللہ علیہ وسلم نے بیزاری کا اظہار فرمایا ۔ رسول اللہ صلی اللہ علیہ وسلم نے ( کسی غم کے وقت ) چلا کر رونے والی ‘ سر منڈوانے والی اور گریبان چاک کرنے والی عورتوں سے اپنی بیزاری کا اظہار فرمایا تھا ۔",
+                "urduNarrator": "او رحکم بن موسیٰ نے بیان کیا کہ ہم سے یحیٰی بن حمزہ نے بیان کیا ، ان سے عبدالرحمٰن بن جابر نے کہ قاسم بن مخیمرہ نے ان سے بیان کیا ، انہوں نے کہا کہ مجھ سے ابوبردہ بن ابوموسیٰ نے بیان کیا کہ",
+                "hadithArabic": "وَقَالَ الْحَكَمُ بْنُ مُوسَى حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ جَابِرٍ، أَنَّ الْقَاسِمَ بْنَ مُخَيْمِرَةَ، حَدَّثَهُ قَالَ حَدَّثَنِي أَبُو بُرْدَةَ بْنُ أَبِي مُوسَى ـ رضى الله عنه ـ قَالَ وَجِعَ أَبُو مُوسَى وَجَعًا فَغُشِيَ عَلَيْهِ، وَرَأْسُهُ فِي حَجْرِ امْرَأَةٍ مِنْ أَهْلِهِ، فَلَمْ يَسْتَطِعْ أَنْ يَرُدَّ عَلَيْهَا شَيْئًا، فَلَمَّا أَفَاقَ قَالَ أَنَا بَرِيءٌ مِمَّنْ بَرِئَ مِنْهُ رَسُولُ اللَّهِ صلى الله عليه وسلم، إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم بَرِئَ مِنَ الصَّالِقَةِ وَالْحَالِقَةِ وَالشَّاقَّةِ‏.‏",
+                "headingArabic": "مَا يُنْهَى مِنَ الْحَلْقِ عِنْدَ الْمُصِيبَةِ",
+                "headingUrdu": "آفت پر سر منڈوانا حرام ہے۔",
+                "headingEnglish": "Shaving the head on a calamity is forbidden",
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1249,
+                "hadithNumber": "1297",
+                "englishNarrator": "Narrated `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"He who slaps the cheeks, tears the clothes and follows the tradition of the Days of Ignorance is not from us.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا جو شخص ( کسی میت پر ) اپنے رخسار پیٹے ‘ گریبان پھاڑے اور عہد جاہلیت کی سی باتیں کرے وہ ہم میں سے نہیں ہے ۔",
+                "urduNarrator": "ہم سے محمد بن بشار نے بیان کیا ‘ انہوں نے کہا کہ ہم سے عبدالرحمٰن بن مہدی نے بیان کیا ‘ انہوں نے کہا کہ ہم سے سفیان ثوری نے بیان کیا ‘ ان سے اعمش نے ‘ ان سے عبداللہ بن مرہ نے ‘ ان سے مسروق نے اور ان سے عبداللہ بن مسعود رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ، حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ عَبْدِ اللَّهِ بْنِ مُرَّةَ، عَنْ مَسْرُوقٍ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لَيْسَ مِنَّا مَنْ ضَرَبَ الْخُدُودَ، وَشَقَّ الْجُيُوبَ، وَدَعَا بِدَعْوَى الْجَاهِلِيَّةِ ‏\"‏‏.‏",
+                "headingArabic": "لَيْسَ مِنَّا مَنْ ضَرَبَ الْخُدُودَ",
+                "headingUrdu": "گال تھپتھپانے والا ہم میں سے نہیں۔",
+                "headingEnglish": "He who slaps his cheeks is not from us",
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1250,
+                "hadithNumber": "1298",
+                "englishNarrator": "Narrated `Abdullah رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"He who slaps the cheeks, tears the clothes and follows the traditions of the Days of Ignorance is not from us.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ جو ( کسی کی موت پر ) اپنے رخسار پیٹے ‘ گریبان چاک کرے اور جاہلیت کی باتیں کرے وہ ہم میں سے نہیں ہے ۔",
+                "urduNarrator": "ہم سے عمر بن حفص نے بیان کیا ‘ ان سے ان کے باپ حفص نے اور ان سے اعمش نے اور ان سے عبداللہ بن مرہ نے ‘ ان سے مسروق نے اور ان سے عبداللہ رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عُمَرُ بْنُ حَفْصٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا الأَعْمَشُ، عَنْ عَبْدِ اللَّهِ بْنِ مُرَّةَ، عَنْ مَسْرُوقٍ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ لَيْسَ مِنَّا مَنْ ضَرَبَ الْخُدُودَ، وَشَقَّ الْجُيُوبَ، وَدَعَا بِدَعْوَى الْجَاهِلِيَّةِ ‏\"‏‏.‏",
+                "headingArabic": "مَا يُنْهَى مِنَ الْوَيْلِ وَدَعْوَى الْجَاهِلِيَّةِ عِنْدَ الْمُصِيبَةِ",
+                "headingUrdu": "مصیبت میں گرنے پر نوحہ کرنے اور ایام جاہلیت کی روایات پر عمل کرنے کی ممانعت",
+                "headingEnglish": "Prohibition of wailing and following the traditions of the Days of Ignorance when afflicted with a calamity",
+                "chapterId": "24",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 24,
+                    "chapterNumber": "24",
+                    "chapterEnglish": "Funerals (Al-Janaa'iz)",
+                    "chapterUrdu": "جنازے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الجنائز",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 1226,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=49",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=47",
+                "label": "47",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=48",
+                "label": "48",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=49",
+                "label": "49",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=50",
+                "label": "50",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=51",
+                "label": "51",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=52",
+                "label": "52",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=53",
+                "label": "53",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=51",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=51",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=49",
+        "to": 1250,
+        "total": 40465
+    }
+}

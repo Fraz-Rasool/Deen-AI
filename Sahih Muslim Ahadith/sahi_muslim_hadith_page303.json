@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 303,
+        "data": [
+            {
+                "id": 7839,
+                "hadithNumber": "275",
+                "englishNarrator": "The same hadith has been transmitted by the same chain of narrators:",
+                "hadithEnglish": "The hadith transmitted by Auza'i and Ibn Juraij contains these words: I embraced Islam for Allah's sake. and in the hadith narrated by Ma'mar the words are: I knelt down to kill him, that he said; There is no god but Allah.",
+                "hadithUrdu": "اوزاعی اور ابن جریج کی روایت میں ( لیث کی ) سابقہ حدیث کی طرح أسلمت لله ’’میں اللہ کے لیے اسلام لے آیا ‘ ‘ کے الفاظ ہیں جبکہ معمر کی روایت میں یہ الفاظ ہیں : ’’جب میں نے چاہا کہ اسے قتل کر دوں تو اس نے لا إله إلا الله کہہ دیا ۔ ‘ ‘ ( دونوں کا حاصل ایک ہے ۔ )",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم اور عبد بن حمید نے بیان کیا، کہا کہ ہم سے عبدالرزاق نے بیان کیا، انہوں نے کہا,امام مسلم ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے معمر ، اوزاعی اور ابن جریج کی الگ الگ سندوں کےساتھ زہری سے سابقہ سند کے ساتھ روایت کی ،",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَبْدُ بْنُ حُمَيْدٍ قَالَا: أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، قَالَ، أَخْبَرَنَا مَعْمَرٌ ح، وَحَدَّثَنَا إِسْحَاقُ بْنُ مُوسَى الْأَنْصَارِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، عَنِ الْأَوْزَاعِيِّ ح، وَحَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ جَمِيعًا عَنِ الزُّهْرِيِّ بِهَذَا الْإِسْنَادِ. أَمَّا الْأَوْزَاعِيُّ، وَابْنُ جُرَيْجٍ فَفِي حَدِيثِهِمَا قَالَ: أَسْلَمْتُ لِلَّهِ كَمَا قَالَ اللَّيْثُ. وَأَمَّا مَعْمَرٌ فَفِي حَدِيثِهِ: فَلَمَّا أَهْوَيْتُ لِأَقْتُلَهُ قَالَ: لَا إِلَهَ إِلَّا اللهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7840,
+                "hadithNumber": "276",
+                "englishNarrator": "It is narrated by Miqdad, and he was an ally of Bin Zuhra and was of those who participated in the Battle of Badr along with the Messenger of Allah, that he said:",
+                "hadithEnglish": "Messenger of Allah, here is a point: If I happened to encounter a person amongst the infidels (in the battle). Then he narrated a hadith similar to the one transmitted by Laith.",
+                "hadithUrdu": "اے اللہ کے رسول! بتائیے اگر کافروں میں سے ایک آدمی سے میرا سامنا ہو جائے ..... آگے ایسے ہی ہے جیسے لیث کی ( روایت کردہ ) سابقہ حدیث ہے ۔",
+                "urduNarrator": "مجھ سے حرملہ بن یحییٰ نے بیان کیا، کہا ہم سے ابن وہب نے بیان کیا، انہوں نے کہا,یونس نے ابن شہاب نے خبر دی ، انہوں نےکہا : مجھے عطاء بن یزید لیثی جندعی نے بیان کیا کہ عبید اللہ بن عدی بن خیار نے اسے خبر دی کہ حضرت مقداد بن عمرو ( ابن اسود ) کندی ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے ، جو بنو زہریہ کے حلیف تھے اور ان لوگوں میں شامل تھے جنہوں نے رسول اللہ ﷺ کے ساتھ ( غزوہ ) بدر میں شرکت کی تھی ، عرض کی",
+                "hadithArabic": "وَحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، قَالَ: أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ: حَدَّثَنِي عَطَاءُ بْنُ يَزِيدَ اللَّيْثِيُّ ثُمَّ الْجُنْدَعِيُّ، أَنَّ عُبَيْدَ اللهِ بْنَ عَدِيِّ بْنِ الْخِيَارِ أَخْبَرَهُ أَنَّ الْمِقْدَادَ بْنَ عَمْرِو بْنِ الْأَسْوَدِ الْكِنْدِيَّ، وَكَانَ حَلِيفًا لِبَنِي زُهْرَةَ، وَكَانَ مِمَّنْ شَهِدَ بَدْرًا مَعَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، أَنَّهُ قَالَ: يَا رَسُولَ اللهِ، أَرَأَيْتَ إِنْ لَقِيتُ رَجُلًا مِنَ الْكُفَّارِ ثُمَّ ذَكَرَ بِمِثْلِ حَدِيثِ اللَّيْثِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7841,
+                "hadithNumber": "277",
+                "englishNarrator": "It is narrated on the authority of Usama bin Zaid ‌رضی ‌اللہ ‌عنہ ‌:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) sent us in a raiding party. We raided Huraqat of Juhaina in the morning. I caught hold of a man and he said: There is no god but Allah, I attacked him with a spear. It once occurred to me and I talked about it to the Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ). The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: Did he profess There is no god but Allah, and even then you killed him? I said: Messenger of Allah, he made a profession of it out of the fear of the weapon. He (the Holy Prophet) observed: Did you tear his heart in order to find out whether it had professed or not? And he went on repeating it to me till I wished I had embraced Islam that day. Sa'd said: By Allah, I would never kill any Muslim so long as a person with a heavy belly, i. e., Usama, would not kill. Upon this a person remarked: Did Allah not say this: And fight them until there is no more mischief and religion is wholly for Allah? Sa'd said: We fought so that there should be no mischief, but you and your companions wish to fight so that there should be mischief.",
+                "hadithUrdu": "رسول اللہ ﷺ نے ہمیں ایک چھوٹے لشکر میں ( جنگ کے لیے ) بھیجا ، ہم نے صبح صبح قبیلہ جہینہ کی شاخ حرقات پر حملہ کیا ، میں ایک آدمی پر قابو پا لیا تو اس نے لا إله إلا الله کہہ دیا لیکن میں نے اسے نیزہ مار دیا ، اس بات سے میرے دل میں کھٹکا پیدا ہوا تو میں نے اس کا تذکرہ نبی ﷺ سے کیا ، اس پر رسول اللہ ﷺ نے فرمایا : ’’ کیا اس نے لا إله إلا الله کہا اور تم نے اسے قتل کر دیا ؟ ‘ ‘ میں نے عرض کی : اے اللہ کے رسول ! اس نے اسلحے کے ڈر سے کلمہ پڑھا ، آپ نے فرمایا : ’’ تو نے اس کا دل چیر کر کیوں نہ دیکھ لیا تاکہ تمہیں معلوم ہو جاتا کہ اس نے ( دل سے ) کہا ہے یا نہیں ۔ ‘ ‘ پھر آپ میرے سامنے مسلسل یہ بات دہراتے رہے یہاں تک کہ میں نےتمنا کی کہ ( کاش ) میں آج ہی اسلام لایا ہوتا ( اور اسلام لانے کی وجہ سے اس کلمہ گو کے قتل کے عظیم گناہ سے بری ہو جاتا ۔ ) ابو ظبیان نے کہا : ( اس پر ) حضرت سعد ‌رضی ‌اللہ ‌عنہ ‌ ‌ کہنے لگے : اور میں اللہ کی قسم ! کسی اسلام لانے والے کو قتل نہیں کروں گا جب تک ذوالبطین ، یعنی اسامہ اسے قتل کرنے پر تیار نہ ہوں ۔ ابو ظبیان نے کہا : اس پر ایک آدمی کہنے لگا : کیااللہ کا یہ فرمان نہیں : ’’ اور ان سے جنگ لڑو حتی کہ فتنہ باقی نہ رہے اور دین سارا اللہ کا ہو جائے ۔ ‘ ‘ تو حضرت سعد ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے جواب دیا : ہم فتنہ ختم کرنے کی خاطر جنگ لڑتے تھے جبکہ تم اور تمہارے ساتھی فتنہ برپا کرنے کی خاطر لڑنا چاہتے ہو ۔",
+                "urduNarrator": "ابوبکر بن ابی شیبہ نے کہا : ہمیں ابو خالد احمر نے حدیث سنائی اور ابو کریب اور اسحاق بن ابراہیم نے ابو معاویہ سے اور ان دونوں ( ابو معاویہ اور ابو خالد ) نے اعمش سے ، انہوں نے ابو ظبیان سے اور انہوں نے حضرت اسامہ بن زید ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ( حدیث کے الفاظ ابن ابی شیبہ کے ہیں ) کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو خَالِدٍ الْأَحْمَرُ ح، وَحَدَّثَنَا أَبُو كُرَيْبٍ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، عَنْ أَبِي مُعَاوِيَةَ كِلَاهُمَا، عَنِ الْأَعْمَشِ، عَنْ أَبِي ظِبْيَانَ، عَنْ أُسَامَةَ بْنِ زَيْدٍ - وَهَذَا حَدِيثُ ابْنِ أَبِي شَيْبَةَ - قَالَ: بَعَثَنَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي سَرِيَّةٍ، فَصَبَّحْنَا الْحُرَقَاتِ مِنْ جُهَيْنَةَ، فَأَدْرَكْتُ رَجُلًا فَقَالَ: لَا إِلَهَ إِلَّا اللهُ، فَطَعَنْتُهُ فَوَقَعَ فِي نَفْسِي مِنْ ذَلِكَ، فَذَكَرْتُهُ لِلنَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «أَقَالَ لَا إِلَهَ إِلَّا اللهُ وَقَتَلْتَهُ؟» قَالَ: قُلْتُ: يَا رَسُولَ اللهِ، إِنَّمَا قَالَهَا خَوْفًا مِنَ السِّلَاحِ، قَالَ: «أَفَلَا شَقَقْتَ عَنْ قَلْبِهِ حَتَّى تَعْلَمَ أَقَالَهَا أَمْ لَا؟» فَمَا زَالَ يُكَرِّرُهَا عَلَيَّ حَتَّى تَمَنَّيْتُ أَنِّي أَسْلَمْتُ يَوْمَئِذٍ، قَالَ: فَقَالَ سَعْدٌ: وَأَنَا وَاللهِ لَا أَقْتُلُ مُسْلِمًا حَتَّى يَقْتُلَهُ ذُو الْبُطَيْنِ يَعْنِي أُسَامَةَ، قَالَ: قَالَ رَجُلٌ: أَلَمْ يَقُلِ اللهُ: {وَقَاتِلُوهُمْ حَتَّى لَا تَكُونَ فِتْنَةٌ وَيَكُونَ الدِّينُ كُلُّهُ لِلَّهِ} [الأنفال: 39]؟ فَقَالَ سَعْدٌ: قَدْ قَاتَلْنَا حَتَّى لَا تَكُونَ فِتْنَةٌ، وَأَنْتَ وَأَصْحَابُكَ تُرِيدُونَ أَنْ تُقَاتِلُوا حَتَّى تَكُونَ فِتْنَةٌ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7842,
+                "hadithNumber": "278",
+                "englishNarrator": "It is narrated on the authority of Usama bin Zaid رضی ‌اللہ ‌عنہ :",
+                "hadithEnglish": "The Messenger of Allah ﷺ sent us to Huraqat, a tribe of Juhaina. We attacked that tribe early in the morning and defeated them and I and a man from the Ansar caught hold of a person (of the defeated tribe). When we overcame him, he said: There is no god but Allah. At that moment the Ansari spared him, but I attacked him with my spear and killed him. The news had already reached the Apostle (peace be upon him), so when we came back he (the Apostle) said to me: Usama ‌رضی ‌اللہ ‌عنہ, did you kill him after he had made the profession: There is no god but Allah? I said. Messenger of Allah, he did it only as a shelter. The Prophet observed: Did you kill him after he had made the profession that there is no god but Allah? He (the Holy Prophet ﷺ) went on repeating this to me till I wished I had not embraced Islam before that day.",
+                "hadithUrdu": "رسول اللہ ﷺ نے ہمیں جہینہ کی شاخ ( یا آبادی ) حرقہ کی طرف بھیجا ، ہم نے ان لوگوں پر صبح کے وقت حملہ کیا اور انہیں شکست دے دی ، جنگ دوران میں ایک انصاری اور میں ان میں سے ایک آدمی تک پہنچ گئے جب ہم نے اسے گھیر لیا ( اور وہ حملے کی زد میں آ گیا ) تو اس نے لا إله إلا الله کہہ دیا ۔ انہوں نے کہا : انصاری اس پر حملہ کرنے سے رک گیا اور میں نے اپنا نیزہ مار کر اسے قتل کر دیا ۔ اسامہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ کابیان ہے کہ جب ہم واپس آئے تویہ بات رسول اللہ ﷺ تک پہنچ گئی ، اس پر آپ نے مجھ سے فرمایا : ’’ اے اسامہ ! کیا تو نے اس کے لا إله إلاالله کہنے کے بعد اسے قتل کر دیا؟ ‘ ‘ کہا : میں نے عرض کی : اے اللہ کے رسول ! وہ تو ( اس کلمے کے ذریعے سے ) محض پناہ حاصل کرنا چاہتا تھا ۔ کہا : تو آپ نے فرمایا : ’’ کیا تو نے اسے لا إله إلا الله کہنے کے بعد قتل کر دیا ؟ ‘ ‘ حضرت اسامہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا : آپ بار بار یہ بات دہراتے رہے یہاں تک کہ میں نے آرزو کی ( کاش ) میں آج کے دن سے پہلے مسلمان نہ ہوا ہوتا ۔",
+                "urduNarrator": "ہم سے یعقوب الدورقی نے بیان کیا، ہم سے ہشیم نے بیان کیا،حصین نے کہا : ہمیں ابو ظبیان نے حدیث سنائی ، انہوں نےکہا : میں نے اسامہ بن زید بن حارثہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ کو حدیث بیان کرتے ہوئے سنا کہ",
+                "hadithArabic": "حَدَّثَنَا يَعْقُوبُ الدَّوْرَقِيُّ، حَدَّثَنَا هُشَيْمٌ، أَخْبَرَنَا حُصَيْنٌ، حَدَّثَنَا أَبُو ظَبْيَانَ، قَالَ: سَمِعْتُ أُسَامَةَ بْنَ زَيْدِ بْنِ حَارِثَةَ، يُحَدِّثُ قَالَ: بَعَثَنَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِلَى الْحُرَقَةِ مِنْ جُهَيْنَةَ، فَصَبَّحْنَا الْقَوْمَ فَهَزَمْنَاهُمْ وَلَحِقْتُ أَنَا وَرَجُلٌ مِنَ الْأَنْصَارِ رَجُلًا مِنْهُمْ، فَلَمَّا غَشِينَاهُ قَالَ: لَا إِلَهَ إِلَّا اللهُ، فَكَفَّ عَنْهُ الْأَنْصَارِيُّ، وَطَعَنْتُهُ بِرُمْحِي حَتَّى قَتَلْتُهُ، قَالَ: فَلَمَّا قَدِمْنَا بَلَغَ ذَلِكَ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ لِي: يَا أُسَامَةُ، أَقَتَلْتَهُ بَعْدَ مَا قَالَ: لَا إِلَهَ إِلَّا اللهُ؟ قَالَ: قُلْتُ: يَا رَسُولَ اللهِ، إِنَّمَا كَانَ مُتَعَوِّذًا، قَالَ: فَقَالَ: «أَقَتَلْتَهُ بَعْدَ مَا قَالَ لَا إِلَهَ إِلَّا اللهُ؟» قَالَ: فَمَا زَالَ يُكَرِّرُهَا عَلَيَّ حَتَّى تَمَنَّيْتُ أَنِّي لَمْ أَكُنْ أَسْلَمْتُ قَبْلَ ذَلِكَ الْيَوْمِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7843,
+                "hadithNumber": "279",
+                "englishNarrator": "It is narrated by Safwan bin Muhriz that Jundab bin 'Abdullah al-Bajali رضی ‌اللہ ‌عنہ ‌during the stormy days of Ibn Zubair sent a message to 'As'as bin Salama:",
+                "hadithEnglish": "Gather some men of your family so that I should talk to them. He ('As'as) sent a messenger to them (to the members of his family). When they had assembled, Jundab came there with a yellow hooded cloak on him, He said: Talk what you were busy in talking. The talk went on by turns, till there came his (Jundab's) turn. He took off the hooded cloak from his head and said: I have come to you with no other intention but to narrate to you a hadith of your Apostle: Verily the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) sent a squad of the Muslims to a tribe of the polytheists. Both the armies confronted one another. There was a man among the army of polytheists who (was so dashing that), whenever he intended to kill a man from among the Muslims, he killed him. Amongst the Muslims too was a man looking forward to (an opportunity of) his (the polytheist's) unmindfulness. He (the narrator) said: We talked that he was Usama b, Zaid. When he raised his sword, he (the soldier of the polytheists) uttered: There is no god but Allah, but he (Usama b. Zaid) killed him. When the messenger of the glad tidings came to the Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) he asked him (about the events of the battle) and he informed him about the man (Usama) and what he had done He (the Prophet of Allah) called for him and asked him why he had killed him. He (Usama) said: Messenger of Allah, he struck the Muslims and killed such and such of them. And he even named some of them. (He continued): I attacked him and when he saw the sword he said: There is no god but Allah. The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: Did you kill him? He (Usama) replied in the affirmative. He (the Holy Prophet) remarked: What would you do with: There is no god but Allah, when he would come (before you) on the Day of Judgment? He (Usama) said: Messenger of Allah, beg pardon for me (from your Lord). He (the Holy Prophet) said: What would you do with: There is no god but Allah when he would come (before you) on the Day of Judgment? He (the Holy Prophet) added nothing to it but kept saying: What would you do with: There is no god but Allah, when he would come (before you) on the Day of Judgment?",
+                "hadithUrdu": "میرے لیے اپنے ساتھیوں میں ایک نفری ( نفرتیں سے دس تک کی جماعت ) جمع کرو تاکہ میں ان سے بات کروں : چنانچہ عسعس نے اپنے ان ساتھیوں کی جانب ایک قاصد بھیجا جب و ہ جمع ہو گئے تو جندب ایک زرد رنگ کی لمبی ٹوپی پہنے ہوئےآئے اور کہا : جو باتیں تم کر رہے تھے ، وہ کرتے رہو ۔ یہاں تک کہ بات چیت کا دور چل پڑا ۔ جب بات ان تک پہنچی ( ان کے بولنے کی باری آئی ) تو انہوں نے اپنے سر سےلمبی ٹو‎پی اتار دی اور کہا : میں تمہارے پاس آیاتھا اور میرا ارادہ یہ نہ تھا کہ تمہیں تمہارے نبی سے کوئی حدیث سناؤں ( لیکن اب یہ ضروری ہو گیا ہے ) رسول اللہ ﷺ نے مسلمانوں کا ایک لشکر مشرکین کی ایک قوم کی طرف بھیجا اور ان کے آمنا سامنا ہوا ۔ مشرکوں کا ایک آدمی تھا ، وہ جب مسلمانوں کے کسی آدمی پر حملہ کرنا چاہتا تو اس پر حملہ کرتا اور اسے قتل کر دیتا ۔ اور مسلمانوں کا ایک آدمی تھا جو اس ( مشرک ) کی بے دھیانی کا متلاشی تھا ، ( جندب بن عبد اللہ نے ) کہا : ہم ایک دوسرےسے کہتے تھے کہ وہ اسامہ بن زید ‌رضی ‌اللہ ‌عنہ ‌ ‌ ہیں ۔ جب ان کی تلوار مارنے کی باری آئی تو اس نے لا إله إلا الله کہہ دیا ۔ لیکن انہوں نے اسے قتل کر دیا ۔ فتح کی خوش خبری دینے والا نبی ﷺ کے پاس پہنچا تو آپ نے اس سے ( حالات کے متعلق ) پوچھا ، اس نے آپ کو حالات بتائے حتی کہ اس آدمی ( حضرت اسامہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ ) کی خبر بھی دے دی کہ انہوں کیا کیا ۔ آپ نے انہیں بلا کر پوچھا اور فرمایا : ’’ تم نے اسے کیوں قتل کیا ؟ ‘ ‘ ا نہوں نے کہا : اے اللہ کے رسول ! اس نے مسلمانوں کو بہت ایذا پہنچائی تھی اور فلاں فلاں کو قتل کیا تھا ، انہوں نے کچھ لوگوں کے نام گنوائے ، ( پھر کہا : ) میں اس پر حملہ کیا ، اس نے جب تلوار دیکھی تو لا إله إلا الله کہہ دیا ۔ رسو ل اللہ ﷺ نے فرمایا : ’’ کیا تم نے اسے قتل کر دیا؟ ‘ ‘ ( اسامہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ ) کہا ، جی ہاں ! فرمایا : ’’قیامت کے دن جب لا إله إلا الله ( تمہارے سامنے ) آئے گا تو اس کا کیا کرو گے ؟ ‘ ‘ ( اسامہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے ) عرض کی : اے اللہ کے رسول ! میرے لیے بخشش طلب کیجیے ۔ آپ نے فرمایا : ’’قیامت کےدن ( تمہارے سامنے کلمہ ) لا إله إلاالله آئے گا تو اس کا کیا کرو گے ؟ ‘ ‘ ( جندب بن عبد اللہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے ) کہا : رسول اللہ ﷺ ان سے مزید کوئی بات نہیں کر رہے تھے ، یہی کہہ رہے تھے : ’’قیامت کے دن لا إله إلا الله ( تمہارے سامنے ) آئے گا تو اس کیا کرو گے ؟ ‘ ‘",
+                "urduNarrator": "ہم سے احمد بن الحسن بن خراش نے بیان کیا، کہا ہم سے عمرو بن عاصم نے بیان کیا، کہا ہم سے معتمر نے بیان کیا، انہوں نے کہا: میں نے اپنے والد کو یہ فرماتے ہوئے سنا کہ خالد عتباج میرے بھتیجے ہیں,صفوان بن محرز نے حدیث بیان کی کہ حضرت ابن زبیر ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے فتنے کے زمانے میں جندب بن عبد اللہ بجلی ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے عسعس بن سلامہ کو پیغام بھیجا اور کہا",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ الْحَسَنِ بْنِ خِرَاشٍ، حَدَّثَنَا عَمْرُو بْنُ عَاصِمٍ، حَدَّثَنَا مُعْتَمِرٌ، قَالَ: سَمِعْتُ أَبِي يُحَدِّثُ أَنَّ خَالِدًا الْأَثْبَجَ ابْنَ أَخِي صَفْوَانَ بْنِ مُحْرِزٍ، حَدَّثَ عَنْ صَفْوَانَ بْنِ مُحْرِزٍ، أَنَّهُ حَدَّثَ أَنَّ جُنْدَبَ بْنَ عَبْدِ اللهِ الْبَجَلِيَّ بَعَثَ إِلَى عَسْعَسِ بْنِ سَلَامَةَ زَمَنَ فِتْنَةِ ابْنِ الزُّبَيْرِ، فَقَالَ: اجْمَعْ لِي نَفَرًا مِنْ إِخْوَانِكَ حَتَّى أُحَدِّثَهُمْ، فَبَعَثَ رَسُولًا إِلَيْهِمْ، فَلَمَّا اجْتَمَعُوا جَاءَ جُنْدَبٌ وَعَلَيْهِ بُرْنُسٌ أَصْفَرُ، فَقَالَ: تَحَدَّثُوا بِمَا كُنْتُمْ تَحَدَّثُونَ بِهِ حَتَّى دَارَ الْحَدِيثُ، فَلَمَّا دَارَ الْحَدِيثُ إِلَيْهِ حَسَرَ الْبُرْنُسَ عَنْ رَأْسِهِ، فَقَالَ: إِنِّي أَتَيْتُكُمْ وَلَا أُرِيدُ أَنْ أُخْبِرَكُمْ عَنْ نَبِيِّكُمْ، إِنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بَعَثَ بَعْثًا مِنَ الْمُسْلِمِينَ إِلَى قَوْمٍ مِنَ الْمُشْرِكِينَ، وَإِنَّهُمُ الْتَقَوْا فَكَانَ رَجُلٌ مِنَ الْمُشْرِكِينَ إِذَا شَاءَ أَنْ يَقْصِدَ إِلَى رَجُلٍ مِنَ الْمُسْلِمِينَ قَصَدَ لَهُ فَقَتَلَهُ، وَإِنَّ رَجُلًا مِنَ الْمُسْلِمِينَ قَصَدَ غَفْلَتَهُ، قَالَ: وَكُنَّا نُحَدَّثُ أَنَّهُ أُسَامَةُ بْنُ زَيْدٍ، فَلَمَّا رَفَعَ عَلَيْهِ السَّيْفَ قَالَ: لَا إِلَهَ إِلَّا اللهُ فَقَتَلَهُ، فَجَاءَ الْبَشِيرُ إِلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَسَأَلَهُ فَأَخْبَرَهُ، حَتَّى أَخْبَرَهُ خَبَرَ الرَّجُلِ كَيْفَ صَنَعَ، فَدَعَاهُ فَسَأَلَهُ فَقَالَ: «لِمَ قَتَلْتَهُ؟» قَالَ: يَا رَسُولَ اللهِ، أَوْجَعَ فِي الْمُسْلِمِينَ، وَقَتَلَ فُلَانًا وَفُلَانًا، وَسَمَّى لَهُ نَفَرًا، وَإِنِّي حَمَلْتُ عَلَيْهِ، فَلَمَّا رَأَى السَّيْفَ قَالَ: لَا إِلَهَ إِلَّا اللهُ، قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «أَقَتَلْتَهُ؟» قَالَ: نَعَمْ، قَالَ: «فَكَيْفَ تَصْنَعُ بِلَا إِلَهَ إِلَّا اللهُ إِذَا جَاءَتْ يَوْمَ الْقِيَامَةِ؟» قَالَ: يَا رَسُولَ اللهِ، اسْتَغْفِرْ لِي، قَالَ: «وَكَيْفَ تَصْنَعُ بِلَا إِلَهَ إِلَّا اللهُ إِذَا جَاءَتْ يَوْمَ الْقِيَامَةِ؟» قَالَ: فَجَعَلَ لَا يَزِيدُهُ عَلَى أَنْ يَقُولَ: «كَيْفَ تَصْنَعُ بِلَا إِلَهَ إِلَّا اللهُ إِذَا جَاءَتْ يَوْمَ الْقِيَامَةِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7844,
+                "hadithNumber": "280",
+                "englishNarrator": "It is narrated on the authority of Abdullah bin Umar رضی ‌اللہ ‌عنہ ‌:",
+                "hadithEnglish": "The Prophet of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) who said: He who took up arms against us is not of us.",
+                "hadithUrdu": "نبی کریم ﷺ نے فرمایا : ’’ جس نے ہمارے خلاف اسلحہ اٹھایا ، وہ ہم میں سے نہیں ہے ۔ ‘ ‘",
+                "urduNarrator": "مجھ سے زہیر بن حرب نے بیان کیا، اور کہا کہ ہم سے محمد بن المثنیٰ نے بیان کیا، کہا کہ ہم سے یحییٰ نے جو القطان ہیں، بیان کیا، اور ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا کہ ہم سے ابو ع نے سمع، ابن نمیر نے بیان کیا،عبید ا للہ اور امام مالک نےنافع سے اور انہو ں نے ابن عمر ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، وَمُحَمَّدُ بْنُ الْمُثَنَّى قَالَا: حَدَّثَنَا يَحْيَى وَهُوَ الْقَطَّانُ ح، وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، وَابْنُ نُمَيْرٍ، كُلُّهُمْ عَنْ عُبَيْدِ اللهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، ح وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى - وَاللَّفْظُ لَهُ - قَالَ: قَرَأْتُ عَلَى مَالِكٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنْ حَمَلَ عَلَيْنَا السِّلَاحَ فَلَيْسَ مِنَّا».",
+                "headingArabic": "قَوْلِ النَّبِيِّ - صلى الله تعالى عليه وسلم - ‏\"‏ مَنْ حَمَل عَلَيْنَا السِّلاَحَ فَلَيْسَ مِنَّا ‏\"‏ ‏",
+                "headingUrdu": "رسول اللہ صلی اللہ علیہ وسلم کا فرمان ہے: جس نے ہم پر ہتھیار اٹھائے وہ ہم میں سے نہیں ہے۔",
+                "headingEnglish": "The Saying of the prophet (saws): \"Whoever bears weapons against us is not one of us.\"",
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7845,
+                "hadithNumber": "281",
+                "englishNarrator": "Iyas bin Salama narrated from his father:",
+                "hadithEnglish": "The Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) observed: He who draws the sword against us is not of us.",
+                "hadithUrdu": "آپ ﷺ نے فرمایا : ’’ جس نےہم پر تلوار سونتی ، وہ ہم میں سے نہیں ۔ ‘ ‘",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ اور ابن نمیر نے بیان کیا، کہا کہ ہم سے مصعب نے جو ابن مقدام ہیں، انہوں نے ہم سے عکرمہ بن عمار نے بیان کیا,ایاس بن سلمہ نے اپنے والد سے ، انہوں نے نبی ﷺ سے روایت کی ،",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَابْنُ نُمَيْرٍ، قَالَا: حَدَّثَنَا مُصْعَبٌ وَهُوَ ابْنُ الْمِقْدَامِ، حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ، عَنْ إِيَاسِ بْنِ سَلَمَةَ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنْ سَلَّ عَلَيْنَا السَّيْفَ فَلَيْسَ مِنَّا».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7846,
+                "hadithNumber": "282",
+                "englishNarrator": "It is narrated on the authority of Abu Musa Ash'ari رضی ‌اللہ ‌عنہ :",
+                "hadithEnglish": "The prophet ﷺ said: He who took up arms against us is not of us.",
+                "hadithUrdu": "آپ نے فرمایا : ’’ جس نے ہمارے خلاف اسلحہ اٹھایا ، وہ ہم میں سے نہیں ۔ ‘ ‘",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ، عبداللہ بن براد اشعری اور ابو کریب نے بیان کیا، انہوں نے کہا: ہم سے ابو اسامہ نے بریدہ سے، انہوں نے ابو بردہ رضی اللہ عنہ سے بیان کیا,حضرت ابو موسیٰ ‌رضی ‌اللہ ‌عنہ ‌ نے نبی ﷺ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَبْدُ اللهِ بْنُ بَرَّادٍ الْأَشْعَرِيُّ، وَأَبُو كُرَيْبٍ، قَالُوا: حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ بُرَيْدٍ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنْ حَمَلَ عَلَيْنَا السِّلَاحَ فَلَيْسَ مِنَّا».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7847,
+                "hadithNumber": "283",
+                "englishNarrator": "It is narrated on the authority of Abu Huraira رضی ‌اللہ ‌عنہ ‌:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ) observed: He who took up arms against us is not of us and he who acted dishonestly towards us is not of us.",
+                "hadithUrdu": "رسول ا للہ ﷺ نے فرمایا : ’’ جس نے ہمارے خلاف ہتھیار اٹھایا ، وہ ہم میں سے نہیں اور جس نے ہمیں دھوکا دیا ، وہ ہم میں سے نہیں ۔ ‘ ‘",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا، ہم سے یعقوب نے جو ابن عبدالرحمٰن القاری ہیں، بیان کیا، اور ہم سے ابو الاحواس محمد بن حیان نے بیان کیا، ہم سے ابن ع نے بیان کیا، ہم سے حازم نے بیان کیا، دونوں کی سند سے, سہیل بن ابی صالح نے اپنے والد ابو صالح سے اور انہوں نے حضرت ابوہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا يَعْقُوبُ وَهُوَ ابْنُ عَبْدِ الرَّحْمَنِ الْقَارِيُّ ح، وَحَدَّثَنَا أَبُو الْأَحْوَصِ مُحَمَّدُ بْنُ حَيَّانَ، حَدَّثَنَا ابْنُ أَبِي حَازِمٍ، كِلَاهُمَا عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ: أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنْ حَمَلَ عَلَيْنَا السِّلَاحَ فَلَيْسَ مِنَّا، وَمَنْ غَشَّنَا فَلَيْسَ مِنَّا».",
+                "headingArabic": "قَوْلِ النَّبِيِّ - صلى الله تعالى عليه وسلم - ‏\"‏ مَنْ غَشَّنَا فَلَيْسَ مِنَّا ‏\"‏",
+                "headingUrdu": "رسول اللہ صلی اللہ علیہ وسلم کا فرمان ہے: \"جس نے ہمیں دھوکہ دیا وہ ہم میں سے نہیں ہے۔\"",
+                "headingEnglish": "The Saying of the prophet (saws): \"Whoever deceives us is not one of us.\"",
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7848,
+                "hadithNumber": "284",
+                "englishNarrator": "It is narrated on the authority of Abu Huraira ‌رضی ‌اللہ ‌عنہ ‌:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) happened to pass by a heap of eatables (corn). He thrust his hand in that (heap) and his fingers were moistened. He said to the owner of that heap of eatables (corn): What is this? He replied: Messenger of Allah, these have been drenched by rainfall. He (the Holy Prophet) remarked: Why did you not place this (the drenched part of the heap) over other eatables so that the people could see it? He who deceives is not of me (is not my follower).",
+                "hadithUrdu": "رسول اللہ ﷺ غلے کی ایک ڈھیری کے پاس سے گزرے توآپ نے اپنا ہاتھ اس میں داخل کیا ، آپ کی انگلیوں نے نمی محسوس کی تو آپ نے فرمایا : ’’ غلے کے مالک! یہ کیا ہے ؟ ‘ ‘ اس نے عرض کی : اے اللہ کے رسول ! اس پر بارش پڑ گئی تھی ۔ آپ نے فرمایا : ’’ توتم نے اسے ( بھیگے ہوئے غلے ) کو اوپر کیوں نہ رکھا تاکہ لو گ اسے دیکھ لیتے ؟ جس نے دھوکا کیا ، وہ مجھ سے نہیں ۔ ‘ ‘ ( ان لوگوں میں سے نہیں جنہیں میرے ساتھ وابستہ ہونے کا شرف حاصل ہے ۔ )",
+                "urduNarrator": "مجھ سے یحییٰ بن ایوب، قتیبہ اور ابن حجر نے اسماعیل بن جعفر کی سند سے بیان کیا، کہا, ہم سے اسماعیل نے بیان کیا، انہوں نے کہا,علاء نےاپنے والد عبدالرحمن بن یعقوب سے اور انہوں نے حضرت ابوہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+                "hadithArabic": "وَحَدَّثَنِي يَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ، وَابْنُ حُجْرٍ، جَمِيعًا عَنْ إِسْمَاعِيلَ بْنِ جَعْفَرٍ، قَالَ ابْنُ أَيُّوبَ: حَدَّثَنَا إِسْمَاعِيلُ، قَالَ: أَخْبَرَنِي الْعَلَاءُ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مَرَّ عَلَى صُبْرَةِ طَعَامٍ فَأَدْخَلَ يَدَهُ فِيهَا، فَنَالَتْ أَصَابِعُهُ بَلَلًا فَقَالَ: «مَا هَذَا يَا صَاحِبَ الطَّعَامِ؟» قَالَ أَصَابَتْهُ السَّمَاءُ يَا رَسُولَ اللهِ، قَالَ: «أَفَلَا جَعَلْتَهُ فَوْقَ الطَّعَامِ كَيْ يَرَاهُ النَّاسُ، مَنْ غَشَّ فَلَيْسَ مِنِّي».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7849,
+                "hadithNumber": "285",
+                "englishNarrator": "It is narrated on the authority of Abdullah bin Mas'ud:",
+                "hadithEnglish": "The Prophet observed: He is not one of us (one among the Ummah of Islam) who beat the cheeks or tore the front opening of the shirt or uttered the slogans of (the days of) Jahiliya (ignorance). Ibn Numair and Abu Bakr said (instead of the word au (or) it is wa [and] the words are) and tore and uttered (the slogans) of Jahiliya without alif .",
+                "hadithUrdu": "رسول ا للہ ﷺ نے فرمایا : ’’ جس نے رخسار پیٹے یا گریبان چاک کیا یا اہل جاہلیت کی طرح پکارا ، وہ ہم میں سے نہیں ۔ ‘ ‘ یہ یحییٰ کی حدیث ہے ( جو انہوں نے ابو معاویہ کے واسطے سے بیان کی ۔ ) البتہ ( محمد ) ابن نمیر اور ابو بکر بن ابی شیبہ ( جنہوں نے ابو معاویہ او روکیع دونوں سے روایت کی ) نے ’’او ‘ ‘ کے بجائے الف کے بغیر ’و ‘ ( ’’یا ‘ ‘ کےبجاےئ’’اور ‘ ‘ ) کہا ہے ۔",
+                "urduNarrator": "یحییٰ بن یحییٰ اور ابوبکر بن ابی شیبہ نے کہا : ہمیں ابو معاویہ اور وکیع نے حدیث بیان کی ، نیز ( محمد بن عبد اللہ ) ابن نمیر نے کہا : ہمیں میرے والد نے حدیث بیان کی ، ان سب ( ابو معاویہ ، وکیع اور ابن نمیر ) نے اعمش سے ، انہوں نے عبد اللہ بن مرہ سے ، انہو ں نے مسروق سے اور انہوں نے حضرت عبد اللہ ( بن مسعود ) ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا أَبُو مُعَاوِيَةَ ح، وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، وَوَكِيعٌ ح، وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي جَمِيعًا عَنِ الْأَعْمَشِ، عَنْ عَبْدِ اللهِ بْنِ مُرَّةَ، عَنْ مَسْرُوقٍ، عَنْ عَبْدِ اللهِ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لَيْسَ مِنَّا مَنْ ضَرَبَ الْخُدُودَ، أَوْ شَقَّ الْجُيُوبَ، أَوْ دَعَا بِدَعْوَى الْجَاهِلِيَّةِ» هَذَا حَدِيثُ يَحْيَى، وَأَمَّا ابْنُ نُمَيْرٍ، وَأَبُو بَكْرٍ فَقَالَا: «وَشَقَّ وَدَعَا بِغَيْرِ أَلِفٍ».",
+                "headingArabic": "تَحْرِيمِ ضَرْبِ الْخُدُودِ وَشَقِّ الْجُيُوبِ وَالدُّعَاءِ بِدَعْوَى الْجَاهِلِيَّةِ ‏‏",
+                "headingUrdu": "چیک مارنے، کپڑے پھاڑنے اور جاہلیت کی دعوت کے ساتھ بلانے کی ممانعت",
+                "headingEnglish": "The prohibition of striking one's checks, tearing one's garment and calling with the calls of Jahilliyyah",
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7850,
+                "hadithNumber": "286",
+                "englishNarrator": "This hadith has been narrated by A'mash with the same chain of narrators and the transmitters said:",
+                "hadithEnglish": "He tore and called.",
+                "hadithUrdu": "’’ اور گریبان چاک کیا اور پکارا ۔ ‘ ‘",
+                "urduNarrator": ",ہم سے عثمان بن ابی شیبہ نے بیان کیا، ہم سے جریر ایچ نے بیان کیا، ان سے اسحاق بن ابراہیم نے اور ہم سے علی بن خشرم نے بیان کیا، عیسیٰ نے اعمش سے اسی ( سابقہ ) سند کے ساتھ روایت کی اور دونوں نے کہا",
+                "hadithArabic": "وَحَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ ح، وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَلِيُّ بْنُ خَشْرَمٍ، قَالَا: حَدَّثَنَا عِيسَى بْنُ يُونُسَ، جَمِيعًا عَنِ الْأَعْمَشِ بِهَذَا الْإِسْنَادِ. وَقَالَا: «وَشَقَّ وَدَعَا».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7851,
+                "hadithNumber": "287",
+                "englishNarrator": "It is narrated on the authority of Abu Burda bin Abu Musa رضی ‌اللہ ‌عنہ ‌that",
+                "hadithEnglish": "Abu Musa رضی ‌اللہ ‌عنہ ‌was afflicted with grave pain and he became unconscious and his head was in the lap of a lady of his household. One of the women of his household walled. He (Abu Musa ‌رضی ‌اللہ ‌عنہ ‌) was unable (because of weakness) to say anything to her. But when he was a bit recovered he said: I have no concern with one with whom the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) has no concern, Verily the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) has no concern with that woman who wails loudly, shaves her hair and tears (her garment in grief).",
+                "hadithUrdu": "انہوں نے فرمایا : حضرت ابو موسیٰ ‌رضی ‌اللہ ‌عنہ ‌ ایسے شدید بیمار ہوئے کہ ان پر غشی طاری ہو گئی ، ا ن کا سر ان کے اہل خانہ میں سے ایک عورت کی گود میں تھا ، ( اس موقع پر ) ان کے اہل میں سے ایک عورت چیخنے لگی ، حضرت ابو موسیٰ ‌رضی ‌اللہ ‌عنہ ‌ ( شدید کمزوری کی وجہ سے ) اسے کوی جواب نہ دے سکے ۔ جب افاقہ ہوا تو کہنے لکے : میں اس بات سے بری ہوں جس سے رسول اللہ ﷺ نے براءت کا اظہار فرمایا ۔ رسول اللہ ﷺ نے چلا کر ماتم کرنےوالی ، سر منڈانے و الی اور گریبان چاک کرنے والی ( عورتون ) سے لا تعلقی کا اظہار فرمایا تھا ۔",
+                "urduNarrator": "ہم سے الحکم بن موسیٰ قنطاری نے بیان کیا، کہا ہم سے یحییٰ بن حمزہ نے، وہ عبدالرحمٰن بن یزید بن جبیر کی سند سے کہ ,قاسم بن مخیمرہ نے بیان کیا کہ مجھے ابو بردہ بن ابی موسیٰ ( اشعری ) نے بیان کیا ، انہوں نے فرمایا : ’’ حضرت ابو موسیٰ ( اشعری ) نے بیان کیا",
+                "hadithArabic": "حَدَّثَنَا الْحَكَمُ بْنُ مُوسَى الْقَنْطَرِيُّ، حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ بْنِ جَابِرٍ أَنَّ الْقَاسِمَ بْنَ مُخَيْمِرَةَ، حَدَّثَهُ قَالَ: حَدَّثَنِي أَبُو بُرْدَةَ بْنُ أَبِي مُوسَى، قَالَ: وَجِعَ أَبُو مُوسَى وَجَعًا فَغُشِيَ عَلَيْهِ، وَرَأْسُهُ فِي حِجْرِ امْرَأَةٍ مِنْ أَهْلِهِ فَصَاحَتِ امْرَأَةٌ مِنْ أَهْلِهِ، فَلَمْ يَسْتَطِعْ أَنْ يَرُدَّ عَلَيْهَا شَيْئًا، فَلَمَّا أَفَاقَ قَالَ: أَنَا بَرِيءٌ مِمَّا بَرِئَ مِنْهُ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، «فَإِنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بَرِئَ مِنَ الصَّالِقَةِ، وَالْحَالِقَةِ، وَالشَّاقَّةِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7852,
+                "hadithNumber": "288",
+                "englishNarrator": "It is narrated on the authority of Abu Burda :",
+                "hadithEnglish": "Abu Musa ‌رضی ‌اللہ ‌عنہ fell unconscious and his wife Umm Abdullah came there and wailed loudly. When he felt relief he said: Don't you know? -and narrated to her: Verily the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: I have no concern with one who shaved her hair, lamented loudly and tore (her clothes in grief).",
+                "hadithUrdu": "حضرت ابو موسیٰ ‌رضی ‌اللہ ‌عنہ ‌ پرغشی طاری ہو ئی اور ان کی بیوی ام عبد اللہ چیختے ہوئے رونے کی آواز نکالتی آئیں ، کہا : پھر انہیں افاقہ ہوا تو اسے حدیث سناتے ہوئے بولے : کیا تو نہیں جانتی کہ رسول اللہ ﷺ نے فرمایا : ’’بلاشبہ میں اس سے بری ہوں جو ( غم کے اظہار کے لیے ) سرمونڈتے ، چیخے چلائے اور کپڑے پھاڑے ۔ ‘ ‘",
+                "urduNarrator": "ہم سے عبد بن حمید اور اسحاق بن منصور نے بیان کیا، انہوں نے کہا کہ ہم سے جعفر بن عون نے بیان کیا، ہم سے ابو عمیس نے بیان کیا، انہوں نے کہا,ابو صخرہ نے عبد الرحمن بن یزید اور ابوبردہ بن ابی موسیٰ سے ( حضرت ابو موسیٰ ‌رضی ‌اللہ ‌عنہ ‌ ‌ کے بارے میں ) ذکر کیا ، ان دونوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، وَإِسْحَاقُ بْنُ مَنْصُورٍ، قَالَا: أَخْبَرَنَا جَعْفَرُ بْنُ عَوْنٍ، أَخْبَرَنَا أَبُو عُمَيْسٍ، قَالَ: سَمِعْتُ أَبَا صَخْرَةَ يَذْكُرُ عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ، وَأَبِي بُرْدَةَ بْنِ أَبِي مُوسَى قَالَا: أُغْمِيَ عَلَى أَبِي مُوسَى وَأَقْبَلَتِ امْرَأَتُهُ أُمُّ عَبْدِ اللهِ تَصِيحُ بِرَنَّةٍ، قَالَا: ثُمَّ أَفَاقَ، قَالَ: أَلَمْ تَعْلَمِي وَكَانَ يُحَدِّثُهَا أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «أَنَا بَرِيءٌ مِمَّنْ حَلَقَ وَسَلَقَ وَخَرَقَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7853,
+                "hadithNumber": "289",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith was also narrated from Rabi bin Hirash from Abu Musa ‌رضی ‌اللہ ‌عنہ ‌, from the prophet ﷺ, but in the Hadith of 'Iyad Al-Ashari (a narrator) it says: \"He is not one of us...\" and not, \"I disavow myself...\"",
+                "hadithUrdu": "امام مسلم ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے تین دیگر سندوں سے حضرت ابو موسیٰ اشعری ‌رضی ‌اللہ ‌عنہ ‌ ‌ کی مذکورہ بالا روایت بیان کی جن میں عیاض اشعری نے ابو موسیٰ ‌رضی ‌اللہ ‌عنہ ‌ کی زوجہ سے ، انہوں نے ابو موسیٰ ‌رضی ‌اللہ ‌عنہ ‌ ‌ کے واسطے سے رسول ا للہ ﷺ سے روایت کی او رباقی دو سندوں میں حضرت ابو موسیٰ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کرنے والے صفوان بن محرز اور ربعی بن حراش ہیں جبکہ عیاض اشعری کی حدیث میں : ’’بری ہوں ‘ ‘ کے بجائے : ’’ ہم میں سے نہیں ‘ ‘ کےالفاظ ہیں ۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ مُطِيعٍ، حَدَّثَنَا هُشَيْمٌ، عَنْ حُصَيْنٍ، عَنْ عِيَاضٍ الْأَشْعَرِيِّ، عَنِ امْرَأَةِ أَبِي مُوسَى، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، ح وَحَدَّثَنِيهِ حَجَّاجُ بْنُ الشَّاعِرِ، حَدَّثَنَا عَبْدُ الصَّمَدِ، قَالَ: حَدَّثَنِي أَبِي، حَدَّثَنَا دَاوُدُ يَعْنِي ابْنَ أَبِي هِنْدَ، حَدَّثَنَا عَاصِمٌ، عَنْ صَفْوَانَ بْنِ مُحْرِزٍ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، ح وَحَدَّثَنِي الْحَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ، حَدَّثَنَا عَبْدُ الصَّمَدِ، أَخْبَرَنَا شُعْبَةُ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنْ رِبْعِيِّ بْنِ حِرَاشٍ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِهَذَا الْحَدِيثِ غَيْرَ أَنَّ فِي حَدِيثِ عِيَاضٍ الْأَشْعَرِيِّ قَالَ: «لَيْسَ مِنَّا» وَلَمْ يَقُلْ «بَرِيءٌ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7854,
+                "hadithNumber": "290",
+                "englishNarrator": "It is reported from Hudhaifa رضی ‌اللہ ‌عنہ ‌that news reached him (the Holy Prophet ﷺ):",
+                "hadithEnglish": "A certain man carried tales. Upon this Hudhaifa رضی ‌اللہ ‌عنہ ‌remarked: I heard Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) saying: The tale-bearer shall not enter Paradise.",
+                "hadithUrdu": "ایک آدمی ( لوگوں کی باہمی ) بات چیت کی چغلی کھاتا ہے توحذیفہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا : میں نے رسول اللہ ﷺ سے سنا ہے ، آپ فرماتے تھے : ’’ چغل خور جنت میں داخل نہ ہو گا ۔",
+                "urduNarrator": "مجھ سے شیبان بن فرخ اور عبداللہ بن محمد بن اسماء الذھبی نے بیان کیا، کہا: ہم سے مہدی نے بیان کیا جو ابن میمون ہیں، انہوں نے ہم سے واصل الاحدب نے بیان کیا,ابووائل نےحضرت حذیفہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے حدیث روایت کی کہ ان کو پتہ چلا کہ",
+                "hadithArabic": "وَحَدَّثَنِي شَيْبَانُ بْنُ فَرُّوخَ، وَعَبْدُ اللهِ بْنُ مُحمَّدِ بْنِ أَسْمَاءَ الضُّبُعِيُّ، قَالَا: حَدَّثَنَا مَهْدِيٌّ وَهُوَ ابْنُ مَيْمُونٍ، حَدَّثَنَا وَاصِلٌ الْأَحْدَبُ، عَنْ أَبِي وَائِلٍ، عَنْ حُذيْفَةَ، أَنَّهُ بَلَغَهُ أَنَّ رَجُلًا يَنِمُّ الْحَدِيثَ فَقَالَ حُذَيْفَةُ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «لَا يَدْخُلُ الْجَنَّةَ نَمَّامٌ».",
+                "headingArabic": "بَيَانِ غِلَظِ تَحْرِيمِ النَّمِيمَةِ ‏‏",
+                "headingUrdu": "النعمۃ کی سخت ممانعت کی وضاحت",
+                "headingEnglish": "Clarifying the emphatic prohibition of An-Namimah (Malicious Gossip)",
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7855,
+                "hadithNumber": "291",
+                "englishNarrator": "It is reported on the authority of Hammam b, al-Harith",
+                "hadithEnglish": "A man used to carry tales to the governor. We were sitting in the mosque. the people said: He is one who carries tales to the governor. He (the narrator) said: Then he came and sat with us. Thereupon Hudhaifa رضی ‌اللہ ‌عنہ remarked: I heard the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) saying: The beater of false tales would never enter heaven.",
+                "hadithUrdu": "ایک آدمی ( لوگوں کی ) باتیں حاکم تک پہنچاتا تھا ، ہم مسجد میں بیٹھے ہوئےتھے تو لوگوں نے کہا : یہ ان میں سے ہے جو باتیں حاکم تک پہنچاتے ہیں ۔ ( ہمام نے ) نےکہا : وہ شخص آیا اور ہمارے پاس بیٹھ گیا ۔ حضرت حذیفہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا : میں نے رسو ل اللہ ﷺ کو یہ فرماتے ہوئے سنا کہ ’’ چغل خور جنت میں داخل نہ ہو گا ۔ ‘ ‘",
+                "urduNarrator": "ہم سے علی بن حجر السعدی اور اسحاق بن ابراہیم نے بیان کیا، کہا کہ ہم سے جریر نے بیان کیا,منصور نے ابراہیم سے اور انہوں نے ہمام بن حارث سے روایت کی ، انہوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ السَّعْدِيُّ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ إِسْحَاقُ: أَخْبَرَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ هَمَّامِ بْنِ الْحَارِثِ، قَالَ: كَانَ رَجُلٌ يَنْقُلُ الْحَدِيثَ إِلَى الْأَمِيرِ، فَكُنَّا جُلُوسًا فِي الْمَسْجِدِ فَقَالَ: الْقَوْمُ هَذَا مِمَّنْ يَنْقُلُ الْحَدِيثَ إِلَى الْأَمِيرِ، قَالَ: فَجَاءَ حَتَّى جَلَسَ إِلَيْنَا فَقَالَ حُذَيْفَةُ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «لَا يَدْخُلُ الْجَنَّةَ قَتَّاتٌ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7856,
+                "hadithNumber": "292",
+                "englishNarrator": "It is narrated on the authority of Hammam bin al-Harith:",
+                "hadithEnglish": "We were sitting with Hudhaifa رضی ‌اللہ ‌عنہ ‌in the mosque. A man came and sat along with us. It was said to Hudhaifa رضی ‌اللہ ‌عنہ ‌that he was the man who carried tales to the ruler. Hudhaifa رضی ‌اللہ ‌عنہ ‌ remarked with the intention of conveying to him: I have heard the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) saying: The tale-bearer will not enter Paradise.",
+                "hadithUrdu": "ہم حضرت حذیفہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ کے ساتھ مسجد میں بیٹھے ہوئے تھے تو ایک آدمی آکر ہمارے پاس بیٹھ گیا ۔ حضرت حذیفہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ کو بتایا گیاکہ یہ شخص ( لوگوں کی ) باتیں حکمران تک پہنچاتا ہے تو حذیفہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے اسے سنانے کی غرض سے کہا : میں نے رسول اللہ ﷺ سے سنا ، آپ فرماتے تھے : ’’ چغل خور جنت میں داخل نہ ہو گا ۔ ‘ ‘",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے ابو معاویہ اور وکیع نے بیان کیا,اعمش نے ابراہیم سے اور انہوں نے ہمام بن حارث سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، وَوَكِيعٌ، عَنِ الْأَعْمَشِ، ح، وَحَدَّثَنَا مِنْجَابُ بْنُ الْحَارِثِ التَّمِيمِيُّ، وَاللَّفْظُ لَهُ، أَخْبَرَنَا ابْنُ مُسْهِرٍ، عَنِ الْأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ هَمَّامِ بْنِ الْحَارِثِ، قَالَ: كُنَّا جُلُوسًا مَعَ حُذَيْفَةَ فِي الْمَسْجِدِ، فَجَاءَ رَجُلٌ حَتَّى جَلَسَ إِلَيْنَا فَقِيلَ لِحُذَيْفَةَ: إِنَّ هَذَا يَرْفَعُ إِلَى السُّلْطَانِ أَشْيَاءَ فَقَالَ حُذَيْفَةُ إِرَادَةَ أَنْ يُسْمِعَهُ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «لَا يَدْخُلُ الْجَنَّةَ قَتَّاتٌ»",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7857,
+                "hadithNumber": "293",
+                "englishNarrator": "It is narrated o the authority of Abu Dharr ‌رضی ‌اللہ ‌عنہ ‌:",
+                "hadithEnglish": "The Messenger of Allah (ﷺ) observed: Three are the (persons) with whom Allah would neither speak on the Day of Resurrection, nor would look at them nor would absolve the and there is a painful chastisement for them. The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) repeated it three times. Abu Dharr رضی ‌اللہ ‌عنہ ‌remarked: They failed and they lost; who are these persons, Messenger of Allah? Upon this he (the Holy Prophet) observed: They are: the dragger of lower garment, the recounter of obligation the seller of goods by false oath.",
+                "hadithUrdu": "آپ نے فرمایا : ’’ تین ( قسم کے لوگ ) ہیں اللہ ان سے گفتگو نہیں کرے گا ، نہ قیامت کے روز ان کی طرف سے دیکھے گا اور نہ انہیں ( گناہوں سے ) پاک کرے گا اور ان کے لیے درد ناک عذاب ہوگا ۔ ‘ ‘ ابو ذر ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا : آپ نے اسے تین دفعہ پڑھا ۔ ابو ذر ‌رضی ‌اللہ ‌عنہ ‌ ‌ نےکہا : ناکام ہو گئے اور نقصان سے دو چار ہوئے ، اے اللہ کے رسول ! یہ کون ہیں ؟ فرمایا : ’’ اپنا کپڑا ( ٹخنوں سے ) نیچے لٹکانےوالا ، احسان جتانے والا اور جھوٹی قسم سے اپنے سامان کی مانگ بڑھانے والا ۔ ‘ ‘",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ، محمد بن المثنی اور ابن بشار نے بیان کیا، انہوں نے کہا: ہم سے محمد بن جعفر نے شعبہ کی سند سے، علی بن مدر سی کے کی سند سے بیان کیا,ابو زرعہ سے خرشہ بن حر سے انہوں نے حضرت ابو ذر ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے اور انہوں نے نبی ﷺ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ بَشَّارٍ، قَالُوا: حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، عَنْ شُعْبَةَ، عَنْ عَلِيِّ بْنِ مُدْرِكٍ، عَنْ أَبِي زُرْعَةَ، عَنْ خَرَشَةَ بْنِ الْحُرِّ، عَنْ أَبِي ذَرٍّ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «ثَلَاثَةٌ لَا يُكَلِّمُهُمُ اللهُ يَوْمَ الْقِيَامَةِ، وَلَا يَنْظُرُ إِلَيْهِمْ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ» قَالَ: فَقَرَأَهَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ثَلَاثَ مِرَارًا، قَالَ أَبُو ذَرٍّ: خَابُوا وَخَسِرُوا، مَنْ هُمْ يَا رَسُولَ اللهِ؟ قَالَ: «الْمُسْبِلُ، وَالْمَنَّانُ، وَالْمُنَفِّقُ سِلْعَتَهُ بِالْحَلِفِ الْكَاذِبِ».",
+                "headingArabic": "بَيَانِ غِلَظِ تَحْرِيمِ إِسْبَالِ الإِزَارِ وَالْمَنِّ بِالْعَطِيَّةِ وَتَنْفِيقِ السِّلْعَةِ بِالْحَلِفِ وَبَيَانِ الثَّلاَثَةِ الَّذِينَ لاَ يُكَلِّمُهُمُ اللَّهُ يَوْمَ الْقِيَامَةِ وَلاَ يَنْظُرُ إِلَيْهِمْ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+                "headingUrdu": "اپنے کپڑے کو ٹخنوں سے نیچے لٹکانے کی سخت ممانعت کو واضح کرنا، دوسروں کو تحفہ کی یاد دلانا اور جھوٹی قسم کے ذریعے سامان بیچنا؛ ان تینوں کا تذکرہ کریں جن سے اللہ تعالیٰ قیامت کے دن نہ کلام کرے گا، نہ ان کی طرف دیکھے گا، نہ ان کی حرمت کرے گا، اور ان کے لیے دردناک عذاب ہے۔",
+                "headingEnglish": "Clarifying the emphatic prohibition of letting one's garment hang below the ankles (isbal), reminding others of one's gift and selling goods by means of a false oath; Mention of the three to whom Allah, Most High, will not speak on the day of resurrection, nor look at them, nor sanctify them, and theirs will be a painful torment",
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7858,
+                "hadithNumber": "294",
+                "englishNarrator": "It is narrated on the authority of Abu Dharr رضی ‌اللہ ‌عنہ ‌who narrates:",
+                "hadithEnglish": "The Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) observed: Three are the persons with whom Allah would not speak on the Day of Resurrection: the bestower of gift who does not give anything but by laying obligation on him, the seller of goods who sells them by taking false oath and one who hangs low his lower garment.",
+                "hadithUrdu": "آپ نے فرمایا : ’’تین ( قسم کے لوگ ) ہیں ، قیامت کے دن اللہ ان سےبات نہیں کرے گا : منان ، یعنی جو احسان جتلانے کے لیے کسی کو کوئی چیز دیتا ہے ۔ وہ جو جھوٹی قسم کے ذریعے سے اپنے سامان کی مانگ بڑھاتا ہے اور جو اپنا تہبند ( ٹخنوں سے نیچے ) لٹکاتا ہے ۔ ‘ ‘",
+                "urduNarrator": "مجھ سے ابوبکر بن خلاد الباہلی نے بیان کیا، ہم سے یحییٰ نے بیان کیا اور وہ القطان ہیں,سفیان نے کہا , ہمیں سلیمان اعمش نے سلیمان بن مسہر سے حدیث سنائی ، انہوں نے خرشہ بن حر سے روایت کی ، انہوں نے حضرت ابو ذر ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے اور انہوں نے نبی ﷺ سے روایت کی کہ",
+                "hadithArabic": "وَحَدَّثَنِي أَبُو بَكْرِ بْنُ خَلاَّدٍ الْبَاهِلِيُّ، حَدَّثَنَا يَحْيَى، - وَهُوَ الْقَطَّانُ - حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا سُلَيْمَانُ الأَعْمَشُ، عَنْ سُلَيْمَانَ بْنِ مُسْهِرٍ، عَنْ خَرَشَةَ بْنِ الْحُرِّ، عَنْ أَبِي ذَرٍّ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ ‏ ثَلاَثَةٌ لاَ يُكَلِّمُهُمُ اللَّهُ يَوْمَ الْقِيَامَةِ الْمَنَّانُ الَّذِي لاَ يُعْطِي شَيْئًا إِلاَّ مَنَّهُ وَالْمُنَفِّقُ سِلْعَتَهُ بِالْحَلِفِ الْفَاجِرِ وَالْمُسْبِلُ إِزَارَهُ ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7859,
+                "hadithNumber": "295",
+                "englishNarrator": "Bishr bin Khalid has narrated this hadith on the authority of Sulaiman with the same chain of transmitters with this addition:",
+                "hadithEnglish": "Allah shall neither speak nor look at nor absolve then, and there is a tormenting punishment for them.",
+                "hadithUrdu": "آپﷺ نے فرمایا : ’’ تین ( لوگوں ) سے اللہ گفتگو نہیں کرے گا ، نہ ان کی طرف دیکھے گا اور نہ انہیں پاک کرے گا اور ان کے لیے درد ناک عذاب ہو گا ۔ ‘ ‘",
+                "urduNarrator": "مجھ سے بشر بن خالد نے بیان کیا، یعنی ہم سے ابن جعفر نے بیان کیا,( سفیان کے بجائے ) شعبہ نے سلیمان بن اعمش سے یہی روایت انہی کی سند سے بیان کی کہ",
+                "hadithArabic": "وَحَدَّثَنِيهِ بِشْرُ بْنُ خَالِدٍ، حَدَّثَنَا مُحَمَّدٌ، يَعْنِي ابْنَ جَعْفَرٍ، عَنْ شُعْبَةَ، قَالَ: سَمِعْتُ سُلَيْمَانَ بِهَذَا الْإِسْنَادِ، وَقَالَ: «ثَلَاثَةٌ لَا يُكَلِّمُهُمُ اللهُ وَلَا يَنْظُرُ إِلَيْهِمْ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7860,
+                "hadithNumber": "296",
+                "englishNarrator": "It is narrated on the authority of Abu Huraira ‌رضی ‌اللہ ‌عنہ :",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) observed: Three (are the persons) with whom Allah would neither speak, nor would He absolve them on the Day of Resurrection. Abu Mu'awiya added: He would not look at them and there is grievous torment for them: the aged adulterer, the liar king and the proud destitute.",
+                "hadithUrdu": "رسول اللہ ‌ﷺ ‌ نے فرمایا : ’’تین ( قسم کے لوگ ) ہیں جن سے اللہ قیامت کے دن بات نہیں کرے گا اور نہ ان کو پاک فرمائے گا ( ابو معاویہ ) نے کہا : نہ ان کی طرف دیکھے گا ) اور ان کے لیے دردناک عذاب ہے : بوڑھا زانی ، جھوٹا حکمران اور تکبر کرنے والا عیال دار محتاج ۔ ‘ ‘",
+                "urduNarrator": "ابوبکر بن ابی شیبہ نے کہا : ہمیں ابو معاویہ اور وکیع نے اعمش سے ، انہون نے ابو حازم سے اور انہوں نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے حدیث سنائی ، انہوں نے کہا کہ",
+                "hadithArabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، وَأَبُو مُعَاوِيَةَ، عَنِ الْأَعْمَشِ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: ثَلَاثَةٌ لَا يُكَلِّمُهُمُ اللهُ يَوْمَ الْقِيَامَةِ وَلَا يُزَكِّيهِمْ - قَالَ أَبُو مُعَاوِيَةَ: وَلَا يَنْظُرُ إِلَيْهِمْ - وَلَهُمْ عَذَابٌ أَلِيمٌ: شَيْخٌ زَانٍ، وَمَلِكٌ كَذَّابٌ، وَعَائِلٌ مُسْتَكْبِرٌ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7861,
+                "hadithNumber": "297",
+                "englishNarrator": "Abu Huraira رضی ‌اللہ ‌عنہ ‌narrated on the authority of Abu Bakr ‌رضی ‌اللہ ‌عنہ ‌:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: Three are the persons with whom Allah would neither speak on the Day of Resurrection, nor would He look towards them, nor would purify them (from sins), and there would be a tormenting chastisement for them: a person who in the waterless desert has more water (than his need) and he refuses to give it to the traveller and a person who sold a commodity to another person in the afternoon and took an oath of Allah that he had bought it at such and such price and he (the buyer) accepted it to be true though it was not a fact, and a person who pledged allegiance to the Imam but for the sake of the world (material gains). And if the Imam bestowed on him (something) out of that (worldly riches) he stood by his allegiance and if he did not give him, he did not fulfil the allegiance.",
+                "hadithUrdu": "رسول اللہ ﷺ نے فرمایا : ’’ تین ( قسم کے لوگ ) ہیں جن سے قیامت کے دن اللہ تعالیٰ بات نہیں کرے گا نہ ان کی طرف دیکھے گا اور نہ انہیں پاک صاف کرے گا اور ان کے لیے درد ناک عذاب ہے ۔ ( ایک ) وہ آدمی جو بیابان میں ضرورت سے زائد پانی رکھتا ہے لیکن وہ مسافر کو اس سے روکتا ہے ، ( دوسرا ) وہ جس نے کسی آدمی کے ساتھ عصر کےبعد ( عین انسانوں کےاعمال اللہ کے حضور پیش کیے جانے کے وقت ) سامان کا سودا کیا اور اللہ کی قسم کھائی کہ میں نے یہ سامان اتنی رقم میں لیا ہے جبکہ اس نے اتنے کا نہیں لیا ۔ اور خریدار اس کی بات مان لیتا ہے ۔ اور ( تیسرا ) وہ آدمی جس نے حکمران کی بیعت کی اور صرف دنیا کے لیے کی ( دین کی سربلندی مقصود نہ تھی ۔ ) اگر اس نے اسے اس ( دنیا ) میں سے کچھ دے دیا تو ( اس نے ) وفا کی اور اگر نہیں دیا تو وفادار نہ رہا ۔ ‘ ‘",
+                "urduNarrator": "ابوبکر بن ابی شیبہ اور ابو کریب دونوں نے کہا کہ ہمیں ابو معاویہ نے اعمش سے حدیث سنائی ، انہوں نے ابو صالح سے اور انہوں نے حضرت ابوہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ( اور یہ الفاظ ابوبکر کی حدیث کے ہیں ) انہوں نے کہا",
+                "hadithArabic": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ، قَالَا: حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الْأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، وَهَذَا حَدِيثُ أَبِي بَكْرٍ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: ثَلَاثٌ لَا يُكَلِّمُهُمُ اللهُ يَوْمَ الْقِيَامَةِ، وَلَا يَنْظُرُ إِلَيْهِمْ، وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ: رَجُلٌ عَلَى فَضْلِ مَاءٍ بِالْفَلَاةِ يَمْنَعُهُ مِنَ ابْنِ السَّبِيلِ، وَرَجُلٌ بَايَعَ رَجُلًا بِسِلْعَةٍ بَعْدَ الْعَصْرِ فَحَلَفَ لَهُ بِاللهِ لَأَخَذَهَا بِكَذَا وَكَذَا فَصَدَّقَهُ وَهُوَ عَلَى غَيْرِ ذَلِكَ، وَرَجُلٌ بَايَعَ إِمَامًا لَا يُبَايِعُهُ إِلَّا لِدُنْيَا فَإِنْ أَعْطَاهُ مِنْهَا وَفَى، وَإِنْ لَمْ يُعْطِهِ مِنْهَا لَمْ يَفِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7862,
+                "hadithNumber": "298",
+                "englishNarrator": "A similar report was narrated from Al-A'mash with this chain, except that he said:",
+                "hadithEnglish": "\"He offered for sale a commodity to another person.\"",
+                "hadithUrdu": "’’ ایک آدمی جس نے دوسرے آدمی کے ساتھ سامان کا بھاؤ کیا ۔ ‘ ‘",
+                "urduNarrator": "مجھ سے زہیر بن حرب نے کہا,جریر اور عبثر دونوں نے اپنی اپنی سند سے اعمش سے مذکورہ بالا روایت بیان کی ، البتہ جریر کی روایت میں ( ’’سوداکیا ‘ ‘ کے بجائے ) یہ الفاظ ہیں",
+                "hadithArabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا جَرِيرٌ ح، وَحَدَّثَنَا سَعِيدُ بْنُ عَمْرٍو الْأَشْعَثِيُّ، أَخْبَرَنَا عَبْثَرٌ، كِلَاهُمَا عَنِ الْأَعْمَشِ، بِهَذَا الْإِسْنَادِ مِثْلَهُ، غَيْرَ أَنَّ فِي حَدِيثِ جَرِيرٍ: «وَرَجُلٌ سَاوَمَ رَجُلًا بِسِلْعَةٍ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7863,
+                "hadithNumber": "299",
+                "englishNarrator": "This hadith has been narrated on the authority of Abu Huraira رضی ‌اللہ ‌عنہ ‌:",
+                "hadithEnglish": "He (the Messenger of Allah ﷺ) observed: Three are the persons with whom Allah would neither speak (on the Day of Resurrection) nor would He look at them, and there would be a painful chastisement for them, a person who took an oath on the goods of a Muslim in the afternoon and then broke it. The rest of the hadith is the same as narrated by A'mash.",
+                "hadithUrdu": "آپ نے فرمایا : ’’تین ( قسم کے لوگ ) ہیں جن سے اللہ بات کرےگا نہ ان کی طرف دیکھے گا اور ان کے لیے دردناک عذاب ہے ، ایک آدمی جس نے عصر کے بعد مسلمان کے مال کے لیے قسم اٹھائی اور اس کا حق مار لیا ۔ ‘ ‘ حدیث کاباقی حصہ اعمش کی حدیث جیسا ہے ۔",
+                "urduNarrator": "مجھ سے عمرو ناقد نے بیان کیا، ہم سے سفیان نے بیان کیا,عمرو نے ابو صالح سے اور انہوں نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ( انہوں ( ابو صالح ) نے کہا : میرا خیال ہے کہ انہوں ( ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ ) نے یہ حدیث رسول اللہ ﷺ سے مرفوعاً روایت کی )",
+                "hadithArabic": "وَحَدَّثَنِي عَمْرٌو النَّاقِدُ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: أُرَاهُ مَرْفُوعًا، قَالَ: ثَلَاثَةٌ لَا يُكَلِّمُهُمُ اللهُ وَلَا يَنْظُرُ إِلَيْهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ: رَجُلٌ حَلَفَ عَلَى يَمِينٍ بَعْدَ صَلَاةِ الْعَصْرِ عَلَى مَالِ مُسْلِمٍ فَاقْتَطَعَهُ وَبَاقِي حَدِيثِهِ نَحْوُ حَدِيثِ الْأَعْمَشِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 7551,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=302",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=300",
+                "label": "300",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=301",
+                "label": "301",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=302",
+                "label": "302",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=303",
+                "label": "303",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=304",
+                "label": "304",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=305",
+                "label": "305",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=306",
+                "label": "306",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=304",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=304",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=302",
+        "to": 7575,
+        "total": 40465
+    }
+}

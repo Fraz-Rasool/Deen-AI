@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 340,
+        "data": [
+            {
+                "id": 8764,
+                "hadithNumber": "1200",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated by Yahya bin Abu Kathir with the same chain of transmitters.",
+                "hadithUrdu": "ہم سے اسحاق بن ابراہیم نے بیان کیا، کہا ہم سے عیسیٰ بن یونس نے بیان کیا,اوزاعی نے یحییٰ بن ابی کثیر سے اسی سند کے ساتھ اسی کے ہم معنی حدیث بیان کی ہے ۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، حَدَّثَنَا الْأَوْزَاعِيُّ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ بِهَذَا الْإِسْنَادِ نَحْوَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8765,
+                "hadithNumber": "1201",
+                "englishNarrator": "Abdullah (bin Masu'd) رضی اللہ عنہ reported:",
+                "hadithEnglish": "We used to greet the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) while he was engaged in prayer and he would respond to our greeting. But when we returned from the Negus we greeted him and he did not respond to us; so we said: Messenger of Allah. we used to greet you when you were engaged in prayer and you would respond to us. He replied: Prayer demands whole attention.",
+                "hadithUrdu": "ہم رسول اللہ ﷺ کو ، جب آب نماز میں ہوتے تھے سلام کہا کرتے تھے اور آپ ہمار ے سلام کا جواب دیتے تھے جب ہم نجاشی کے ہاں سے واپس آئے ، ہم نے آپ کو ( نماز میں ) سلام کہا تو آپ نے ہمیں جواب نہ دیا ۔ ہم نے عرض کی : اے اللہ کے رسول ! ہم نماز میں آپ کو سلام کہا کرتے تھے اور آ پ ہمیں جواب دیا کرتے تھے ۔ آپ نے فرمایا : ’’ نماز میں ( اس کی اپنی ) مشغولیت ہوتی ہے ۔ ‘ ‘",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ، زہیر بن حرب، ابن نمیر اور ابو سعید اشجع نے بیان کیا اور ان کا قول بھی اسی طرح ہے، انہوں نے کہا ابن فضیل نے ہمیں حدیث بیان کی ، کہا : ہمیں اعمش نے ابراہیم سے حدیث سنائی ، انھوں نے علقمہ سے اور انھوں نے حضرت عبدااللہ ( بن مسعود ) رضی اللہ عنہ سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَزُهَيْرُ بْنُ حَرْبٍ، وَابْنُ نُمَيْرٍ، وَأَبُو سَعِيدٍ الْأَشَجُّ - وَأَلْفَاظُهُمْ مُتَقَارِبَةٌ - قَالُوا: حَدَّثَنَا ابْنُ فُضَيْلٍ، حَدَّثَنَا الْأَعْمَشُ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللهِ، قَالَ: كُنَّا نُسَلِّمُ عَلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَهُوَ فِي الصَّلَاةِ، فَيَرُدُّ عَلَيْنَا، فَلَمَّا رَجَعْنَا مِنْ عِنْدِ النَّجَاشِيِّ، سَلَّمْنَا عَلَيْهِ فَلَمْ يَرُدَّ عَلَيْنَا، فَقُلْنَا: يَا رَسُولَ اللهِ كُنَّا نُسَلِّمُ عَلَيْكَ فِي الصَّلَاةِ فَتَرُدُّ عَلَيْنَا، فَقَالَ: «إِنَّ فِي الصَّلَاةِ شُغْلًا».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8766,
+                "hadithNumber": "1202",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been reported by A'mash with the same chain of transmitters.",
+                "hadithUrdu": "مجھ سے ابن نمیر نے بیان کیا، مجھ سے اسحاق بن منصور السلولی نے بیان کیا، ہم سے حریم بن سفیان نے اعمش کی سند سے بیان کیا، اس سلسلہ کی سند کے ساتھ اسی طرح ہے۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنِي ابْنُ نُمَيْرٍ، حَدَّثَنِي إِسْحَاقُ بْنُ مَنْصُورٍ السَّلُولِيُّ، حَدَّثَنَا هُرَيْمُ بْنُ سُفْيَانَ، عَنِ الْأَعْمَشِ بِهَذَا الْإِسْنَادِ نَحْوَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8767,
+                "hadithNumber": "1203",
+                "englishNarrator": "Zaid bin Arqam رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "We used to talk while engaged in prayer and a person talked with a companion on his side in prayer till (this verse) was revealed: And stand before Allah in devout obedience (ii, 238) and we were commanded to observe silence (in prayer) and were forbidden to speak.",
+                "hadithUrdu": "ہم نماز میں بات چیت کر لیا کرتے تھے ، ایک آدمی نماز میں اپنے ساتھی سے گفتگو کرلیتا تھا یہاں تک کہ یہ آیت اتری ، ( وقوم للہ قنتین ) ’’ اللہ کے حضور انتہائی خشوع و خضوع کے عالم میں کھٹرے ہو’’ تو ہمیں خاموش رہنے کاحاکم دیا گیا ہمیں گفتگوکرنے سے روک دیا گیا ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا,ہشیم نے اسماعیل بن ابی خالد سے ، انھوں نے حارث بن شبیل سے ، انھوں نے ابوعمر و شیبانی سے اور انھوں نے حضرت زید بن ارقم ‌رضی ‌اللہ ‌عنہ ‌سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا هُشَيْمٌ، عَنْ إِسْمَاعِيلَ بْنِ أَبِي خَالِدٍ، عَنِ الْحَارِثِ بْنِ شُبَيْلٍ، عَنْ أَبِي عَمْرٍو الشَّيْبَانِيِّ، عَنْ زَيْدِ بْنِ أَرْقَمَ، قَالَ:: كُنَّا نَتَكَلَّمُ فِي الصَّلَاةِ يُكَلِّمُ الرَّجُلُ صَاحِبَهُ وَهُوَ إِلَى جَنْبِهِ فِي الصَّلَاةِ حَتَّى نَزَلَتْ {وَقُومُوا لِلَّهِ قَانِتِينَ} [البقرة: 238] فَأُمِرْنَا بِالسُّكُوتِ، وَنُهِينَا عَنِ الْكَلَامِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8768,
+                "hadithNumber": "1204",
+                "englishNarrator": null,
+                "hadithEnglish": "A hadith like this has been transmitted by Isma'il bin Abu Khalid.",
+                "hadithUrdu": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، انہوں نے کہا(ہشیم کے بجائے ) عبداللہ بن نمیر ، وکیع اور عیسیٰ بن یونس نے اسماعیل بن ابی خالد سے اسی سند کے ساتھ اسی طرح روایت کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللهِ بْنُ نُمَيْرٍ، وَوَكِيعٌ، ح قَالَ: وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، كُلُّهُمْ عَنْ إِسْمَاعِيلَ بْنِ أَبِي خَالِدٍ، بِهَذَا الْإِسْنَادِ نَحْوَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8769,
+                "hadithNumber": "1205",
+                "englishNarrator": "Jabir رضی اللہ عنہما reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) sent me on an errand. I (having done the business assigned to me came back and) joined him as he was going (on a ride). Qutaiba said that he was saying prayer while he rode. I greeted him. He gestured to me. When he completed the prayer. he called me and said: You greeted me just now while I was engaged in prayer. (Qutaiba said): His (Prophet's face) was towards the east, as he was praying.",
+                "hadithUrdu": "رسول اللہ ﷺ نے مجھے کسی ضرورت ے لیے بیھجا ، پھر میں آپ کو آ کر ملا ، آپ سفر میں تھے قتیبہ نے کہا : آپ نے نماز پڑھ رہے تھے میں نے آپ کو سلام کہا ، آ پ نے مجھے اشارہ فرمایا ۔ جب آپ نماز سے فارغ ہوئے تو مجھے بلوایا اور فرمایا : ‘ ‘ ابھی تم نے سلام کہا جبکہ میں نماز پڑھ رہا تھا ۔ ’’ اور اس وقت ( ساری پر نماز پڑھتے ہوئے ) آپ کا رخ مشرق کی طرف تھا ۔",
+                "urduNarrator": "قتیبہ بن سعید اور محمد بن رمح نے اپنی اپنی سند کے ساتھ لیث ( بن سعد ) سے حدیث بیان کی ، انھوں نے ابوزبیر سے اور انھوں نے حضرت جابر بن عبداللہ رضی اللہ عنہما سے روایت کی کہ انھوں نے کہا",
+                "hadithArabic": "دَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَخْبَرَنَا اللَّيْثُ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، أَنَّهُ قَالَ: إِنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بَعَثَنِي لِحَاجَةٍ، ثُمَّ أَدْرَكْتُهُ وَهُوَ يَسِيرُ - قَالَ قُتَيْبَةُ: يُصَلِّي - فَسَلَّمْتُ عَلَيْهِ، فَأَشَارَ إِلَيَّ، فَلَمَّا فَرَغَ دَعَانِي فَقَالَ: «إِنَّكَ سَلَّمْتَ آنِفًا وَأَنَا أُصَلِّي» وَهُوَ مُوَجِّهٌ حِينَئِذٍ قِبَلَ الْمَشْرِقِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8770,
+                "hadithNumber": "1206",
+                "englishNarrator": "Jabir رضی اللہ عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) sent me (on an errand) while he was going to Banu Mustaliq. I came to him and he was engaged in prayer on the back of his camel. I talked to him and he gestured to me With his hand, and Zuhair gestured with his hand. I then again talked and he again (gestured to me with his hand). Zuhair pointed with his hand towards the ground. I heard him (the Holy Prophet) reciting the Qur'an and making a sign with his head. When he com- pleted the prayer he sa'id: What have you done (with regard to that business) for which I sent you? I could not talk with you but for the fact that I was engaged in prayer. Zuhair told that Abu Zubair was sitting with his face turned towards Qibla (as he transmitted this hadith). Abu Zuhair pointed towards Banu Mustaliq with his hand and the direction to which he pointed with his hand was not towards the Ka'ba.",
+                "hadithUrdu": "رسول اللہ ﷺ نے مجھے کا م  کے لیے بھیجا اور آپ بنو مصطلق کی طرف جا رہے تھے ، میں واپسی پر آپ کے پاس آیا تو آٖپ اونٹ پر نماز پڑھ رہے تھے ، میں نے آپ سے بات کی تو آپ نے مجھے ہاتھ سے اس طرح اشا رہ کیا ۔ زہیر نے اپنے ہاتھ سے اشارہ کر کے دکھایا ۔ میں نے دوبارہ بات کی تو مجھے اس طرح ( اشارے سے کچھ ) کہا ۔ زہیر نے بھی اپنے ہاتھ سے زمین کی طرف اشارہ کیا ۔ اور میں سن رہا تھا کہ آپ قراءت فرما رہے ہیں ، آپ ( رکوع و سجود کے لیے ) سر سے اشارہ فرماتے تھے ، جب آپ فارغ ہو ئے تو پوچھا ‘ ‘ جس کا م کے لیے میں بھیجا تھا تم نے ( اس کے بارے میں ) کیا کیا ؟ مجھے تم سے گفتگو کرنے سے اس کے سوا کسی چیز نے نہیں روکا کہ میں نماز پڑھ رہا تھا ۔ ’’ زہیر نے کہا : ابو زبیر کعبہ کی طرف رخ کر کے بیٹھے ہوئے تھے ، ابو زبیر نےبنو مصطلق کی طرف اشارہ کیا اور انھوں ( ابوزبیر ) نے ہاتھ سے قبلے کی دوسری سمت کی طرف اشارہ کیا ( سواری پر نماز کے دوران میں آپ کا رخ کعبہ کی طرف نہیں تھا ۔ )",
+                "urduNarrator": "ہم سے احمد بن یونس نے بیان کیا، انہوں نے کہازہیر نے کہا : مجھے ابو زبیر نے حضرت جابر رضی اللہ عنہ سے حدیث سنائی ، انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنِي أَبُو الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ: أَرْسَلَنِي رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَهُوَ مُنْطَلِقٌ إِلَى بَنِي الْمُصْطَلِقِ، فَأَتَيْتُهُ وَهُوَ يُصَلِّي عَلَى بَعِيرِهِ فَكَلَّمْتُهُ، فَقَالَ لِي بِيَدِهِ هَكَذَا - وَأَوْمَأَ زُهَيْرٌ بِيَدِهِ - ثُمَّ كَلَّمْتُهُ فَقَالَ لِي هَكَذَا - فَأَوْمَأَ زُهَيْرٌ أَيْضًا بِيَدِهِ نَحْوَ الْأَرْضِ - وَأَنَا أَسْمَعُهُ يَقْرَأُ، يُومِئُ بِرَأْسِهِ، فَلَمَّا فَرَغَ قَالَ: «مَا فَعَلْتَ فِي الَّذِي أَرْسَلْتُكَ لَهُ؟ فَإِنَّهُ لَمْ يَمْنَعْنِي أَنْ أُكَلِّمَكَ إِلَّا أَنِّي كُنْتُ أُصَلِّي» قَالَ زُهَيْرٌ: وَأَبُو الزُّبَيْرِ جَالِسٌ مُسْتَقْبِلَ الْكَعْبَةِ، فَقَالَ: بِيَدِهِ أَبُو الزُّبَيْرِ إِلَى بَنِي الْمُصْطَلِقِ فَقَالَ: بِيَدِهِ إِلَى غَيْرِ الْكَعْبَةِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8771,
+                "hadithNumber": "1207",
+                "englishNarrator": "Jabir رضی اللہ عنہ reported:",
+                "hadithEnglish": "We were in the company of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), and he sent me on an errand, and when I came back (I saw him) saying prayer on his ride and his face was not turned towards Qibla. I greeted him but he did not respond to me. As he completed the prayer, he said: Nothing prevented me from responding to your greeting but the fact that I was praying.",
+                "hadithUrdu": "ہم نبی ﷺ کے ہمراہ سفر میں تھے ، آپ نے مجھے کسی کام سے بھیجا ، میں واپس آبا تو اپنی سواری پر نماز پڑھ رہے تھے اور آپ کا رخ قبلے کی بجائے دوسری طرف تھا ، میں نے آپ کو سلام کہا تو آپ نے مجھے سلام کا جواب نہ دیا ، جب آپ نے سلام پھیر لیا تو فرمایا : ‘ ‘ تمھارے سلام کا جواب دینے سے مجھے صرف اس بات نے روکا کہ میں نماز پڑھ رہا تھا ۔ ’’",
+                "urduNarrator": "ابو کامل الجہدری نے ہم سے کہا,حماد بن زید نے کثیر ( بن شنظیر ) سے ، انھوں نے عطاء سے اور انھوں حضرت جابر رضی اللہ عنہ سے روایت کی ، انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو كَامِلٍ الْجَحْدَرِيُّ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ كَثِيرٍ، عَنْ عَطَاءٍ، عَنْ جَابِرٍ، قَالَ: كُنَّا مَعَ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَبَعَثَنِي فِي حَاجَةٍ، فَرَجَعْتُ وَهُوَ يُصَلِّي عَلَى رَاحِلَتِهِ، وَوَجْهُهُ عَلَى غَيْرِ الْقِبْلَةِ، فَسَلَّمْتُ عَلَيْهِ فَلَمْ يَرُدَّ عَلَيَّ، فَلَمَّا انْصَرَفَ قَالَ: «إِنَّهُ لَمْ يَمْنَعْنِي أَنْ أَرُدَّ عَلَيْكَ إِلَّا أَنِّي كُنْتُ أُصَلِّي».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8772,
+                "hadithNumber": "1208",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith that the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) sent Jabir رضی اللہ عنہ on an errand has been reported by him through another chain of transmitters.",
+                "hadithUrdu": "مجھ سے محمد بن حاتم نے بیان کیا، ہم سے معاذ بن منصور نے بیان کیا,عبدالوارث بن سعید نے کہا : ہمیں کثر بن شنظیر نے حدیث سنائی ، انھوں نے عطاء سے اور انھوں نے حضرت جابر رضی اللہ عنہ سے روایت کی ، انھوں نے کہا : رسول اللہ ﷺ نے مجھے کسی کام کی غرض سے بھیجا .........آگے حماد بن زید کی حدیث کے ہم معنی حدیث بیان کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا مُعَلَّى بْنُ مَنْصُورٍ، حَدَّثَنَا عَبْدُ الْوَارِثِ بْنُ سَعِيدٍ، حَدَّثَنَا كَثِيرُ بْنُ شِنْظِيرٍ، عَنْ عَطَاءٍ، عَنْ جَابِرٍ قَالَ: بَعَثَنِي رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي حَاجَةٍ بِمَعْنَى حَدِيثِ حَمَّادٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8773,
+                "hadithNumber": "1209",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported:",
+                "hadithEnglish": "He heard the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) saying: A highly wicked one amongst the Jinn escaped yesternight to interrupt my prayer, but Allah gave me power over him, so I seized him and intended to tie him to one of the pillars of the mosque in order that you, all together or all, might look at him, but I remembered the supplication of my brother Sulaiman: My Lord, forgive me, give me such a kingdom as will not be possible for anyone after me..\", so Allah caused him (the jinn) to be defeated.\" Ibn Mansoor said: Shuba narrated from Muhammad bin Ziyad.",
+                "hadithUrdu": "رسول اللہ ﷺ نے فرمایا : ‘ ‘ گزشتہ رات ایک سرکش جن مجھ پر حملے کرنے لگا تا کہ میری نماز توڑ دے ۔ اللہ تعالیٰ نے اسے میرے قابو میں کر دیا تو میں نے زور سے اس کا گلا گھونٹا اور یہ ارادہ کیا کہ اسے مسجد کے ستونوں میں سے کسی ستون کے ساتھ باندھ دوں تاکہ صبح کو تم سب دیکھ سکو ، پھر مجھے اپنے بھائی سلیمان علیہ السلام کا یہ قول یاد آگیا : ‘ ‘ اے میرے رب! مجھے بخش دے اور مجھے ایسی حکومت دے جو میرے بعد کسی کے لائق نہ ہو ’’ ( تو میں نے اسے چھوڑ دیا ) اور اللہ نے اس ( جن ) کو رسوا کر کے لوٹا دیا ۔ ’’ ابن منصور نے کہا : شعبہ نے محمد بن زیاد سے روایت کی ۔",
+                "urduNarrator": "اسحاق بن ابراہیم اور اسحاق بن منصور نے کہا : ہمیں نضر بن شمیل نے خبر دی ، انھوں نے کہا : ہمیں شعبہ نے خبر دی ، انھوں نے کہا : ہمیں شعبہ نے خبر دی ، انھوں نے کہا : ہمیں محمد نے ، جو ابن زیاد ہے ، حدیث سنائی ، انھوں نے کہا ، میں نے حضرت ابو ہریرہ رضی اللہ عنہ سے سنا ، وہ کہہ رہے تھے",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَإِسْحَاقُ بْنُ مَنْصُورٍ، قَالَا: أَخْبَرَنَا النَّضْرُ بْنُ شُمَيْلٍ، أَخْبَرَنَا شُعْبَةُ، حَدَّثَنَا مُحَمَّدٌ وَهُوَ ابْنُ زِيَادٍ، قَالَ: سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: إِنَّ عِفْرِيتًا مِنَ الْجِنِّ جَعَلَ يَفْتِكُ عَلَيَّ الْبَارِحَةَ، لِيَقْطَعَ عَلَيَّ الصَّلَاةَ، وَإِنَّ اللهَ أَمْكَنَنِي مِنْهُ فَذَعَتُّهُ، فَلَقَدْ هَمَمْتُ أَنْ أَرْبِطَهُ إِلَى جَنْبِ سَارِيَةٍ مِنْ سَوَارِي الْمَسْجِدِ، حَتَّى تُصْبِحُوا تَنْظُرُونَ إِلَيْهِ أَجْمَعُونَ - أَوْ كُلُّكُمْ - ثُمَّ ذَكَرْتُ قَوْلَ أَخِي سُلَيْمَانَ: {رَبِّ اغْفِرْ لِي وَهَبْ لِي مُلْكًا لَا يَنْبَغِي لِأَحَدٍ مِنْ بَعْدِي} [ص: 35]، فَرَدَّهُ اللهُ خَاسِئًا وقَالَ ابْنُ مَنْصُورٍ: شُعْبَةُ، عَنْ مُحَمَّدِ بْنِ زِيَادٍ. ح",
+                "headingArabic": "جَوَازِ لَعْنِ الشَّيْطَانِ فِي أَثْنَاءِ الصَّلاَةِ وَالتَّعَوُّذِ مِنْهُ وَجَوَازِ الْعَمَلِ الْقَلِيلِ فِي الصَّلاَةِ",
+                "headingUrdu": "نماز کے دوران شیطان کو برا بھلا کہنا اور اس سے اللہ کی پناہ مانگنا۔ اور نماز کی حالت میں چند اعمال کرنے کی اجازت",
+                "headingEnglish": "The permissibility of cursing the Shaitan during prayer, and seeking refuge with Allah from him; and the permissibility of doing a few actions while in salat",
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8774,
+                "hadithNumber": "1210",
+                "englishNarrator": null,
+                "hadithEnglish": "It was narrated from Shubah with this chain. In the hadith of Ibn Jafar it does not say, I grabbed him by the neck.\" Ibn Abi Shaibah said in his report: \"So I pushed him away.\"",
+                "hadithUrdu": "محمد بن بشار نے کہا : ہمیں محمد بن جعفر نے حدیث سنائی ۔ اور ابو بکر بن ابی شیبہ نے کہا : ہمیں شبابہ نے حدیث سنائی ، ان دونوں ( ابن جعفر اور شبابہ ) نے شعبہ سے اسی سند کے ساتھ حدیث روایت کی ۔ ابن جعفر کی روایت میں ‘ ‘ میں نے اس کا گلا گھونٹا ’’ کے الفاظ نہیں جبکہ ابن ابی شبیہ نے اپنی روایت میں کہا : ‘ ‘ میں نے اسے پیچھے دھکا دیا ۔ ’’",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدٌ هُوَ ابْنُ جَعْفَرٍ، قَالَ: وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا شَبَابَةُ، كِلَاهُمَا عَنْ شُعْبَةَ، فِي هَذَا الْإِسْنَادِ، وَلَيْسَ فِي حَدِيثِ ابْنِ جَعْفَرٍ قَوْلُهُ: فَذَعَتُّهُ، وَأَمَّا ابْنُ أَبِي شَيْبَةَ فَقَالَ فِي رِوَايَتِهِ: فَدَعَتُّهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8775,
+                "hadithNumber": "1211",
+                "englishNarrator": "Abu Darda' رضی اللہ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) stood up (to pray) and we heard him say: I seek refuge in Allah from thee. Then said: curse thee with Allah's curse three times, then he stretched out his hand as though he was taking hold of something. When he finished the prayer, we said: Messenger of Allah, we heard you say something during the prayer which we have not heard you say before, and we saw you stretch out your hand. He replied: Allah's enemy Iblis came with a flame of fire to put it in my face, so I said three times: I Seek refuge in Allah from thee. Then I said three times: I curse thee with Allah's full curse. But he did not retreat (on any one of these) three occasions. Thereafter I meant to seize him. I swear by Allah that had it not been for the supplication of my brother Sulaiman he would have been bound, and made an object of sport for the children of Medina.",
+                "hadithUrdu": "رسول اللہ ﷺ قیام ( کی حالت ) میں تھے کہ ہم نے آپ کو یہ کہتے ہوئے سنا : ‘ ‘ میں تجھ سے اللہ کی پنا میں آتا ہوں ۔ ’’ پھر آپ نے فرمایا : ‘ ‘ میں تجھ پر اللہ کی لعنت بھیجتا ہوں ۔ ’’ آپ نے یہ تین بار کہا اور آپ نے اپنا ہاتھ بڑھایا ، گویا کہ آپ کسی چیز کو پکڑ رہے ہیں ، جب آپ نماز سے فارغ ہوئے تو ہم نے پوچھا : اے اللہ کے رسول ! ہم نے آب کو نماز میں کچھ کہتے سنا ہے جو اس سے پہلے آب کو کبھی کہتے نہیں سنا اور ہم نے آپ کو دیکھا کہ آپ نے اپنا ہاتھ ( آگے ) بڑھایا ۔ آب نے فرمایا ‘ ‘ اللہ دشمن ابلیس آگ کا ایک شعلہ لے کر آیا تھا تا کہ اسے میرے چہرے پر ڈال دے ، میں نے تین دفعہ اعوذ باللہ منک ‘ ‘ میں تجھ سے اللہ کی پنا ہ مانگتا ہوں’’ کہا ، پھر میں نے تین بار کہا : میں تجھ پر اللہ کی کامل لعنت بھیجتا ہوں ۔ وہ پھر بھی پیچھے نہ ہٹا تو میں نے اسے پکڑ نے کا ارادہ کر لیا ۔ اللہ کی قسم ! اگر ہمارے بھائی سلیمان علیہ السلام کی دعا نہ ہوتی تو وہ صبح تک بندھا رہتا اور مدینہ والوں کے بچے اس کے ساتھ کھیلتے ۔ ’’",
+                "urduNarrator": "ہم سے محمد بن سلمہ المرادی نے بیان کیا، کہا ہم سے عبداللہ بن وہب نے بیان کیا، وہ معاویہ بن صالح کی سند سے، وہ کہتے ہیں: مجھ سے ربیعہ بن یزید نے ابو ادریس خولانی کی سند سے بیان کیا,حضرت ابو درداء رضی اللہ عنہ سے روایت ہے ، انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ الْمُرَادِيُّ، حَدَّثَنَا عَبْدُ اللهِ بْنُ وَهْبٍ، عَنْ مُعَاوِيَةَ بْنِ صَالِحٍ، يَقُولُ حَدَّثَنِي رَبِيعَةُ بْنُ يَزِيدَ، عَنْ أَبِي إِدْرِيسَ الْخَوْلَانِيِّ، عَنْ أَبِي الدَّرْدَاءِ، قَالَ: قَامَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَسَمِعْنَاهُ يَقُولُ: «أَعُوذُ بِاللهِ مِنْكَ» ثُمَّ قَالَ «أَلْعَنُكَ بِلَعْنَةِ اللهِ» ثَلَاثًا، وَبَسَطَ يَدَهُ كَأَنَّهُ يَتَنَاوَلُ شَيْئًا، فَلَمَّا فَرَغَ مِنَ الصَّلَاةِ قُلْنَا: يَا رَسُولَ اللهِ قَدْ سَمِعْنَاكَ تَقُولُ فِي الصَّلَاةِ شَيْئًا لَمْ نَسْمَعْكَ تَقُولُهُ قَبْلَ ذَلِكَ، وَرَأَيْنَاكَ بَسَطْتَ يَدَكَ، قَالَ: إِنَّ عَدُوَّ اللهِ إِبْلِيسَ، جَاءَ بِشِهَابٍ مِنْ نَارٍ لِيَجْعَلَهُ فِي وَجْهِي، فَقُلْتُ: أَعُوذُ بِاللهِ مِنْكَ، ثَلَاثَ مَرَّاتٍ، ثُمَّ قُلْتُ: أَلْعَنُكَ بِلَعْنَةِ اللهِ التَّامَّةِ، فَلَمْ يَسْتَأْخِرْ، ثَلَاثَ مَرَّاتٍ، ثُمَّ أَرَدْتُ أَخْذَهُ، وَاللهِ لَوْلَا دَعْوَةُ أَخِينَا سُلَيْمَانَ لَأَصْبَحَ مُوثَقًا يَلْعَبُ بِهِ وِلْدَانُ أَهْلِ الْمَدِينَةِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8776,
+                "hadithNumber": "1212",
+                "englishNarrator": "Abu Qatadi رضی اللہ عنہ reported:",
+                "hadithEnglish": "I saw the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) saying the prayer while he was carrying Umama, daughter of Zainab, daughter of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌). and Abu'l-'As bin al-Rabi' رضی اللہ عنہما . When he stood up, he took her up and when he prostrated he put her down, Yahya said: Malik replied in the affirmative.",
+                "hadithUrdu": "رسول اللہ ﷺ اپنی صاحبزادی زینب اور ابو العاص بن ربیع رضی اللہ عنہما کی بیٹی امامہ رضی اللہ عنہا کو اٹھا کر نماز پڑھ لیتے تھے ، جب آپ کھڑے ہوتے تو اسے اٹھا لیتے اور جب سجدہ کرتے تو اسے ( زمین پر ) بٹھا دیتے تھے ؟ یحیٰی نے کہا : امام مالک نے جواب دیا : ہاں ( یہ روایت مجھے سنائی تھی ۔ )",
+                "urduNarrator": "عبداللہ بن مسلمہ بن مسلمہ بن قعنب اور قتیبہ بن سعید نے کہا : ہمیں امام مالک نے حدیث سنائی ۔ دوسری سند میں یحیٰی بن یحییٰ نے کہا : میں نے امام مالک سے کہا : کہا آپ کو عامر بن عبداللہ بن زبیر نے عمر و بن سلیم زرقی سے اور انھوں نے حضرت ابو قتادہ رضی اللہ تعالیٰ عنہ سے روایت کرتے ہوئے یہ حدیث سنائی تھی کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ مَسْلَمَةَ بْنِ قَعْنَبٍ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، قَالَا: حَدَّثَنَا مَالِكٌ، عَنْ عَامِرِ بْنِ عَبْدِ اللهِ بْنِ الزُّبَيْرِ، ح وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ: قُلْتُ لِمَالِكٍ: حَدَّثَكَ عَامِرُ بْنُ عَبْدِ اللهِ بْنِ الزُّبَيْرِ، عَنْ عَمْرِو بْنِ سُلَيْمٍ الزُّرَقِيِّ، عَنْ أَبِي قَتَادَةَ: «أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ كَانَ يُصَلِّي وَهُوَ حَامِلٌ أُمَامَةَ بِنْتَ زَيْنَبَ بِنْتِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَلِأَبِي الْعَاصِ بْنِ الرَّبِيعِ، فَإِذَا قَامَ حَمَلَهَا وَإِذَا سَجَدَ وَضَعَهَا؟» قَالَ يَحْيَى: قَالَ مَالِكٌ: نَعَمْ.",
+                "headingArabic": "جَوَازِ حَمْلِ الصِّبْيَانِ فِي الصَّلاَةِ ‏وأن ثيابهم محمولة على الطهارة حتَّى يتحقق نجاستها وأن الفعل اقليل لايبطل الصلاة وكذاإذا فرّق الأفعال",
+                "headingUrdu": "نماز کے دوران بچوں کو لے جانے کی اجازت اور ان کے کپڑے اس وقت تک پاک ہیں جب تک یہ معلوم نہ ہو جائے کہ وہ نجس ہیں۔ چند اعمال نماز کو باطل نہیں کریں گے، اور اگر اس طرح کے کئی اعمال کیے جائیں لیکن الگ الگ کیے جائیں تو یہی بات ہے۔",
+                "headingEnglish": "The permissibility of carrying children during prayer, and their garments are regarded as being pure until it is realized that they are impure. Few actions will not invalidate the prayer, and the same applies if several such actions are done but are done separately",
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8777,
+                "hadithNumber": "1213",
+                "englishNarrator": "Abu Qatada al-Ansari رضی اللہ عنہ reported:",
+                "hadithEnglish": "I saw the Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) leading the people in prayer with Umima رضی اللہ عنہا, daughter of Abu'l-'As رضی اللہ عنہ and Zainab رضی اللہ عنہا , daughter of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌), on his shoulder. When he bowed, he put her down, and when he got up after prostration, he lifted her again.",
+                "hadithUrdu": "میں نے نبی اکرم ﷺ کو دیکھا ۔ آپ لوگوں کی امات کر رہے تھے ، اور ابو العاص رضی اللہ تعالیٰ عنہ کی بیٹی امامہ رضی اللہ عنہا جو نبی اکرم ﷺ کی صاحبزادی زینب رضی اللہ عنہا کی بیٹی تھیں ، آپ کے کندے پر تھیں ، جب آپ رکوع میں جاتے تو انھیں کندھے سے اتار دیتے اور جب سجدے سے اٹھتے تو پھر سے انھیں اٹھا لیتے ۔",
+                "urduNarrator": "ہم سے محمد بن ابی عمر نے بیان کیا، کہا ہم سے سفیان نے بیان کیا,عثمان بن ابی سلیمان اور ابن عجلان دونوں نے عامر بن عبداللہ بن زبیر کو عمرو سلیم زرقی سے حدیث بیان کرتے ہوئے سنا ، انھوں نے حضرت ابو قتادہ انصاری رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنْ عُثْمَانَ بْنِ أَبِي سُلَيْمَانَ، وَابْنِ عَجْلَانَ سَمِعَا عَامِرَ بْنَ عَبْدِ اللهِ بْنِ الزُّبَيْرِ، يُحَدِّثُ عَنْ عَمْرِو بْنِ سُلَيْمٍ الزُّرَقِيِّ، عَنْ أَبِي قَتَادَةَ الْأَنْصَارِيِّ، قَالَ: «رَأَيْتُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَؤُمُّ النَّاسَ وَأُمَامَةُ بِنْتُ أَبِي الْعَاصِ وَهِيَ ابْنَةُ زَيْنَبَ بِنْتُ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَلَى عَاتِقِهِ، فَإِذَا رَكَعَ وَضَعَهَا، وَإِذَا رَفَعَ مِنَ السُّجُودِ أَعَادَهَا».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8778,
+                "hadithNumber": "1214",
+                "englishNarrator": "Abu Qatada رضی اللہ عنہ reported:",
+                "hadithEnglish": "I saw the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) leading the people in prayer with Umama رضی اللہ  عنہا daughter of Abu'l-'As رضی اللہ عنہ on his neck; and when he prostrated he put her down.",
+                "hadithUrdu": "میں نے رسول اللہ ﷺ کو دیکھا ، آپ لوگوں کو نماز پڑھا رہے تھے اور ابو العاص رضی اللہ عنہ کی بیٹی امامہ رضی اللہ  عنہا آپ کی گردن پر تھیں ، جب آپ سجدہ کرتے تو انھیں اتار دیتے ۔",
+                "urduNarrator": "مجھ سے ابو الطاہر نے بیان کیا، کہا ہم سے ابن وہب نے بیان کیا، انہوں نے مخرمہ بن بکیر کی سند سے، انہوں نے کہا: ہم سے ہارون بن سعید الایلی نے بیان کیا، ان سے ابن وہب نے بیان کیا، ان سے برنی مخرمہ کے ایک بھائی نے بیان کیا۔ اس کے والد، بکیر ( بن عبداللہ ) نے عمرو بن سلیم زرقی سے روایت کی ، انھوں نے کہا : میں نے حضرت ابو قتادہ انصاری رضی اللہ عنہ سے سنا ، وہ کہہ رہے تھے",
+                "hadithArabic": "حَدَّثَنِي أَبُو الطَّاهِرِ، أَخْبَرَنَا ابْنُ وَهْبٍ، عَنْ مَخْرَمَةَ بْنِ بُكَيْرٍ، ح قَالَ: وَحَدَّثَنَا هَارُونُ بْنُ سَعِيدٍ الْأَيْلِيُّ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي مَخْرَمَةُ، عَنْ أَبِيهِ، عَنْ عَمْرِو بْنِ سُلَيْمٍ الزُّرَقِيِّ، قَالَ: سَمِعْتُ أَبَا قَتَادَةَ الْأَنْصَارِيَّ، يَقُولُ: «رَأَيْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يُصَلِّي لِلنَّاسِ وَأُمَامَةُ بِنْتُ أَبِي الْعَاصِ عَلَى عُنُقِهِ، فَإِذَا سَجَدَ وَضَعَهَا».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8779,
+                "hadithNumber": "1215",
+                "englishNarrator": "Abu Qatada رضی اللہ عنہ reported:",
+                "hadithEnglish": "As we were sitting in the mosque, the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) came to us, and the rest of the hadith is the same except that he made no mention that he led people in this prayer.",
+                "hadithUrdu": "ہم مسجد میں بیٹھے ہوئے تھے کہ اسی اثنا میں رسول اللہ ﷺ ( گھر سے ) نکل کر ہمارے پاس تشریف لائے ...... ( آگے ) مذکورہ بالا روایوں کی حدیث کے مانند حدیث بیان کی ، مگر انھوں ( سعید مقبری ) نے یہ بیان نہیں کیا کہ اس نما میں آپ لوگوں کی امامت فرمائی تھی ۔",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا، ہم سے لیث نے بیان کیا، انہوں نے کہا: ہم سے محمد بن المثنیٰ نے بیان کیا، ہم سے ابوبکر الحنفی نے بیان کیا، ہم سے عبدالحمید بن جعفر نے بیان کیا،سعید مقبری نے عمر و بن سلیم زرقی سے روایت کی ، انھوں نے حضرت ابو قتادہ رضی اللہ عنہ کو کہتے ہوئے سنا",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، ح قَالَ: وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا أَبُو بَكْرٍ الْحَنَفِيُّ، حَدَّثَنَا عَبْدُ الْحَمِيدِ بْنُ جَعْفَرٍ جَمِيعًا، عَنْ سَعِيدٍ الْمَقْبُرِيِّ، عَنْ عَمْرِو بْنِ سُلَيْمٍ الزُّرَقِيِّ، سَمِعَ أَبَا قَتَادَةَ، يَقُولُ: بَيْنَا نَحْنُ فِي الْمَسْجِدِ جُلُوسٌ، خَرَجَ عَلَيْنَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، بِنَحْوِ حَدِيثِهِمْ، غَيْرَ أَنَّهُ لَمْ يَذْكُرْ أَنَّهُ أَمَّ النَّاسَ فِي تِلْكَ الصَّلَاةِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8780,
+                "hadithNumber": "1216",
+                "englishNarrator": "Abu Hazim is reported on the authority of his father:",
+                "hadithEnglish": "Some people came to Sahl b. Sa'd and began to differ about the wood of which the (Prophet's pulpit was made. He (Sahl b. Sa'd) said: By Allah, I know of which wood it is made and who made it, and the day when I saw the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) seated himself on it on the first day. I said to him: O Abu Abbas (kunyah of Sabl b. Sa'd), narrate to us (all these facts), He said: The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) sent a person to a woman asking her to allow her slave, a carpenter, to work on woods (to prepare a pulpit) so that I should talk to the people (sitting on it). Abu Hazim said: He (Sahl b. Sa'd) pointed out the name of (that lady) that day. So he (the carpenter) made (a pulpit) with these three steps. Then the Messengerof Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) commanded it to be placed here (where it is lying now). It was fashioned out of the wood of al-Ghaba. And I saw the Messenger of Allah (may peace he upon him) standing upon it and glorifying Allah and the people also glorified Allah after him, while he was on the pulpit. He then raised (his head from prostration) and stepped back (on his heels) till he prostrated himself at the base of pulpit, and then returned (to the former place and this movement of one or two steps continued) till the prayer was complete. He then turned towards the people and said: O people, I have done it so that you should follow me and learn (my mode of) prayer.",
+                "hadithUrdu": "کچھ لوگ حضرت سہل بن سعد رضی اللہ تعالیٰ عنہ کی خدمت میں حاضر ہوئے اور انھوں نے منبر نبوی کے بارے میں میں بخث کی تھی کہ وہ کس لکڑی سے بنا ہے ؟ انھوں ( سہل رضی اللہ تعالیٰ عنہ ) نے کہا : ہاں! اللہ کی قسم ! میں اچھی طرح جانتا ہوں کہ وہ کس لکڑی ہے اور اسے کس نے بنایا تھا ۔ رسول اللہ ﷺ جب پہلے دن اس پر بیٹھے تھے ، میں نے آپ کو دیکھا تھا ۔ میں ( ابو حازم ) نے کہا : ابو عباس ! پھر تو ( آپ ) ہمیں ( اس کی ) تفصیل بتائیے ۔ انھوں نے کہا : رسول اللہ ﷺ نے ایک عورت کی طرف پیغام بھیجا ۔ ابو حازم نے کہا : وہ اس دن اس کا نام بھی بتارے تھے اور کہا ۔ ‘ ‘ اپنے بڑھئی غلام کو دیکھو ( اور کہو ) وہ میرے لیے لکڑیا ں ( جوڑکر منبر ) بنا دے تا کہ میں اس پر سے لوگوں سے گفتگو کیا کروں ۔ تو اس نے یہ تین سٹرھیاں بنائیں ، پھر رسول للہ ﷺنے اس کے بارے میں حکم دیا اور اسے اس جگہ رکھ دیا گیا اور یہ مدینہ کے جنگل کے درخت جھاؤ ( کی لکڑی ) سے بنا تھا ۔ میں نے رسول اللہ ﷺ کو دیکھا ، آپ اس پر کھڑے ہوئے اور تکبیر کہی ، لوگوں نے بھی آپ کے پیچھے تکبیر کہی جبکہ آپ منبر ہی پر تھے ، پھر آپ ( نے رکوع سے سر اٹھایا ) اٹھے اور الٹے پاؤں نیچے اترے اور منبر کی جڑ میں ( جہاں وہ رکھا ہوا تھا ) سجدہ کیا ، پھر دوبارہ وہی کیا ( منبر پر کھڑے ہو گئے ) حتی کہ نماز پوری کر کے فارغ ہوئے ، پھر لوگوں کی طرف متوجہ ہوئے اور فرمایا : ‘ ‘ لوگو! میں نے یہ کام اس لیے کیا ہےتاکہ تم ( مجھے دیکھتے ہوئے ) میری پیروی کرو اور میری نماز سیکھ لو ۔ ’’",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ اور قتیبہ بن سعید نے بیان کیا، ان دونوں نے عبدالعزیز سے کہا,عبدالعزیز بن ابی حازم نے اپنے والد سے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَقُتَيْبَةُ بْنُ سَعِيدٍ، كِلَاهُمَا عَنْ عَبْدِ الْعَزِيزِ، قَالَ يَحْيَى: أَخْبَرَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي حَازِمٍ، عَنْ أَبِيهِ، أَنَّ نَفَرًا جَاءُوا إِلَى سَهْلِ بْنِ سَعْدٍ، قَدْ تَمَارَوْا فِي الْمِنْبَرِ مِنْ أَيِّ عُودٍ هُوَ؟ فَقَالَ: أَمَا وَاللهِ إِنِّي لَأَعْرِفُ مِنْ أَيِّ عُودٍ هُوَ، وَمَنْ عَمِلَهُ، وَرَأَيْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَوَّلَ يَوْمٍ جَلَسَ عَلَيْهِ، قَالَ فَقُلْتُ لَهُ: يَا أَبَا عَبَّاسٍ، فَحَدِّثْنَا، قَالَ: أَرْسَلَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِلَى امْرَأَةٍ - قَالَ أَبُو حَازِمٍ: إِنَّهُ لَيُسَمِّيَهَا يَوْمَئِذٍ - «انْظُرِي غُلَامَكِ النَّجَّارَ، يَعْمَلْ لِي أَعْوَادًا أُكَلِّمُ النَّاسَ عَلَيْهَا» فَعَمِلَ هَذِهِ الثَّلَاثَ دَرَجَاتٍ، ثُمَّ أَمَرَ بِهَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَوُضِعَتْ هَذَا الْمَوْضِعَ، فَهِيَ مِنْ طَرْفَاءِ الْغَابَةِ. وَلَقَدْ رَأَيْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَامَ عَلَيْهِ فَكَبَّرَ وَكَبَّرَ النَّاسُ وَرَاءَهُ، وَهُوَ عَلَى الْمِنْبَرِ، ثُمَّ رَفَعَ فَنَزَلَ الْقَهْقَرَى حَتَّى سَجَدَ فِي أَصْلِ الْمِنْبَرِ، ثُمَّ عَادَ، حَتَّى فَرَغَ مِنْ آخِرِ صَلَاتِهِ، ثُمَّ أَقْبَلَ عَلَى النَّاسِ فَقَالَ: «يَا أَيُّهَا النَّاسُ إِنِّي صَنَعْتُ هَذَا لِتَأْتَمُّوا بِي، وَلِتَعَلَّمُوا صَلَاتِي».",
+                "headingArabic": "جَوَازِ الْخُطْوَةِ وَالْخُطْوَتَيْنِ فِي الصَّلاَةِ ‏وأنه لا كراهة فى ذَلِكَ إذاكان لحاجة وجوازصلاة الإمام على موضع أرفع من المأمومين للحاجة كتعليمهم الصلاة أو غير ذَلكَ",
+                "headingUrdu": "نماز کی حالت میں ایک یا دو قدم اٹھانا جائز ہے اور اگر کسی وجہ سے کیا جائے تو ناپسندیدہ نہیں ہے۔ امام کے پیچھے نماز پڑھنے والوں سے اونچی جگہ پر نماز پڑھنے کی اجازت ہے، اگر یہ کسی وجہ سے کی گئی ہو، جیسے کہ انہیں نماز پڑھنے کا طریقہ سکھانا، اور اس کے علاوہ۔",
+                "headingEnglish": "The permissibility of taking one or two steps while praying, and that is not disliked if done for a reason. The permissibility of the Imam praying in a place that is higher than the people praying behind him, if that is done for a reason, such as teaching them how to offer prayers, and other than that.",
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8781,
+                "hadithNumber": "1217",
+                "englishNarrator": "Abu Hazim reported:",
+                "hadithEnglish": "They (the people) came to Sahl bin Sa'd رضی اللہ عنہ and they asked him of what thing the pulpit of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) was made, and they quoted a Hadith like that of Ibn e Abi Hazim (no. 1216).",
+                "hadithUrdu": "کچھ لوگ حضرت سہل بن سعد ساعدی رضی اللہ عنہ کے پاس آئے ، نیز سفیان بن عیینہ نے ابو حازم سے حدیث سنائی کہ لوگ سہل بن سعد رضی اللہ  عنہ کے پاس آئے اور ان سے پوچھا : نبی اکرم ﷺ کا منبر کس ( لکڑی ) سے ( بنا ہوا ) ہے ....... ( آگے ) ابن ابی حازم کی روایت کی حدیث کی طرح ہے ۔",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا، انہوں نے بیان کیا,یعقوب بن عبدالرحمن بن محمد بن عبداللہ بن عبد  قار ی قرشی نے کہا , مجھے ابو حازم نے حدیث سنائی کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا يَعْقُوبُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ مُحَمَّدِ بْنِ عَبْدِ اللهِ بْنِ عَبْدٍ الْقَارِيُّ الْقُرَشِيُّ، حَدَّثَنِي أَبُو حَازِمٍ، أَنَّ رِجَالًا أَتَوْا سَهْلَ بْنَ سَعْدٍ ح قَالَ: وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَزُهَيْرُ بْنُ حَرْبٍ، وَابْنُ أَبِي عُمَرَ، قَالُوا: حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ أَبِي حَازِمٍ، قَالَ: أَتَوْا سَهْلَ بْنَ سَعْدٍ فَسَأَلُوهُ: مِنْ أَيِّ شَيْءٍ مِنْبَرُ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ؟ وَسَاقُوا الْحَدِيثَ نَحْوَ حَدِيثِ ابْنِ أَبِي حَازِمٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8782,
+                "hadithNumber": "1218",
+                "englishNarrator": "Abu Huraira رضی اللہ عنہ reported The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌):",
+                "hadithEnglish": "He forbade keeping one's hand on one's waist while praying, and in the narration of Abu Bakr (the words are): The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) forbade to do so.",
+                "hadithUrdu": "آپ نے س بات سے منع فرمایا کہ کوئی آدمی پہلو پر ہاتھ رکھے ہوئے نماز پڑھے ۔ امام مسلم کے استاد ابو بکر کی روایت میں ( نبی ﷺ کے بجائے ) ’’ رسول اللہ ﷺ نے منع فرمایا ‘ ‘ کے الفاظ ہیں ۔",
+                "urduNarrator": "حکم بن موسیٰ قنطری نے کہا , ہمیں عبداللہ بن مبارک نے حدیث سنائی ، نیز ابو بکر ابن ابی شیبہ نے کہا , ہمیں ابو خالد اور ابو اسامہ نے حدیث سنائی ، ان سب نے ہشام سے ، انھوں نے محمد ( بن سیرین ) سے ، انھوں نے حضرت ابو ہریرہ رضی اللہ عنہ سے اور انھوں نے نبی ﷺ سے روایت کی کہ",
+                "hadithArabic": "وحَدَّثَنِي الْحَكَمُ بْنُ مُوسَى الْقَنْطَرِيُّ، حَدَّثَنَا عَبْدُ اللهِ بْنُ الْمُبَارَكِ، ح قَالَ: وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو خَالِدٍ، وَأَبُو أُسَامَةَ، جَمِيعًا عَنْ هِشَامٍ، عَنْ مُحَمَّدٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ «أَنَّهُ نَهَى أَنْ يُصَلِّيَ الرَّجُلُ مُخْتَصِرًا» وَفِي رِوَايَةِ أَبِي بَكْرِ قَالَ: نَهَى رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ.",
+                "headingArabic": "كَرَاهَةِ الاِخْتِصَارِ فِي الصَّلاَةِ ‏",
+                "headingUrdu": "نماز میں کمر پر ہاتھ رکھنا مکروہ ہے۔",
+                "headingEnglish": "It is disliked to put the hands on the waist during the prayer",
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8783,
+                "hadithNumber": "1219",
+                "englishNarrator": "Mu'aiqib رضی اللہ عنہ quoted:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) mentioning the removal of pebbles from the ground where he prostrated himself. He (the Prophet) said: It you must do so, do it only once.",
+                "hadithUrdu": "نبی اکرم ﷺ نے مسجد میں ہاتھ سے کنکریاں صاف کرنے کا تذکروہ کیا اور فرمایا : ‘ ‘ اگر تمھارے لیے اسے کیے بغیر چارہ نہ ہو تو ایک بار ( کر لو ۔ ) ’’",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا,ہمیں وکیع نے حدیث سنائی ، کہا : ہمیں ہشام دستوائی نے حدیث سنائی ، انھوں نے یحییٰ بن ابی کثیر سے ، انھوں نے ابو سلمہ سے اور انھوں نے حضرت معیقیب رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا هِشَامٌ الدَّسْتُوَائِيُّ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ مُعَيْقِيبٍ، قَالَ: ذَكَرَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ الْمَسْحَ فِي الْمَسْجِدِ يَعْنِي الْحَصَى قَالَ: «إِنْ كُنْتَ لَا بُدَّ فَاعِلًا فَوَاحِدَةً».",
+                "headingArabic": "كَرَاهَةِ مَسْحِ الْحَصَى وَتَسْوِيَةِ التُّرَابِ فِي الصَّلاَةِ ‏",
+                "headingUrdu": "نماز کے دوران کنکریوں کو ہموار کرنا یا گندگی کو برابر کرنا ناپسندیدہ ہے۔",
+                "headingEnglish": "It is disliked to smooth the pebbles or make the dirt level during salat",
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8784,
+                "hadithNumber": "1220",
+                "englishNarrator": "Mu'aiqib رضی اللہ عنہ said:",
+                "hadithEnglish": "They asked the Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) about the removal of (pebbles) in prayer, whereupon he said: If you do it, do it only once.",
+                "hadithUrdu": "لوگوں نے نبی اکرم ﷺ سے نماز ( کے دوران ) میں ہاتھ سے ( کنکریاں وغیرہ ) صاف کرنے کے بارےمیں سوال کیا تو آپ نے فرمایا :’’ ایک بار ( کی جاسکتی ہیں ۔ )  ‘ ‘",
+                "urduNarrator": "ہم سے محمد بن المثنی نے بیان کیا ,یحییٰ بن سعید نے ہشام سے اسی سند کے ساتھ حضرت معیقیب رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ هِشَامٍ، قَالَ: حَدَّثَنِي ابْنُ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ مُعَيْقِيبٍ، أَنَّهُمْ سَأَلُوا النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنِ الْمَسْحِ فِي الصَّلَاةِ؟ فَقَالَ: «وَاحِدَةً».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8785,
+                "hadithNumber": "1221",
+                "englishNarrator": null,
+                "hadithEnglish": "It was narrated by Hisham with this chain, and he said: \"Muayqib told me,\"",
+                "hadithUrdu": "مجھ سے عبید اللہ بن عمر القواری نے بیان کیا,خالد بن حارث نے کہا : ہمیں ہشام نے اسی سند سے حدیث سنائی اور ( عن معیقیب کے بجائے ) حدثنی معیقیب کہا ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنِيهِ عُبَيْدُ اللهِ بْنُ عُمَرَ الْقَوَارِيرِيُّ، حَدَّثَنَا خَالِدٌ يَعْنِي ابْنَ الْحَارِثِ، حَدَّثَنَا هِشَامٌ، بِهَذَا الْإِسْنَادِ وَقَالَ فِيهِ: حَدَّثَنِي مُعَيْقِيبٌ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8786,
+                "hadithNumber": "1222",
+                "englishNarrator": "It was narrated that Abu Salamah said:",
+                "hadithEnglish": "Muayqib told me that concerning a man who smoothes the ground where he is going to prostrate, the Messenger of Allah said: 'If you must do that, then do it only once.\"'",
+                "hadithUrdu": "معقب نے مجھ سے کہا رسول اللہ ﷺ نے اس آدمی کے بارے میں جو سجدے کی جگہ کی مٹی برابر کرتا ہے ، فرمایا : ‘ ‘ اگر تم نے ایسا کرنا ہی ہے تو ایک بار کرو ۔ ’’",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے حسن بن موسیٰ نے بیان کیا، کہا کہ ہم سے شیبان نے یحییٰ سےابو سلمہ رضی اللہ عنہ سے مروی ہے, باقی ماندہ اسی سند کے ساتھ روایت کی کہ",
+                "hadithArabic": "وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا الْحَسَنُ بْنُ مُوسَى، حَدَّثَنَا شَيْبَانُ، عَنْ يَحْيَى، عَنْ أَبِي سَلَمَةَ، قَالَ:حَدَّثَنِي  مُعَيْقِيبٌ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَ فِي الرَّجُلِ يُسَوِّي التُّرَابَ حَيْثُ يَسْجُدُ، قَالَ: «إِنْ كُنْتَ فَاعِلًا فَوَاحِدَةً».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8787,
+                "hadithNumber": "1223",
+                "englishNarrator": "Abdullah bin Umar رضی اللہ عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) saw spittle on the wall towards Qibla, and scratched it away and then turning to the people said: When any one of you prays, he must not spit in front of him, for Allah is in front of him when he is engaged in prayer.",
+                "hadithUrdu": "رسول اللہ ﷺ نے ( مسجد کی ) قبلے والی دیوار ( کی سمت ) میں بلغم ملا تھوک لگا ہو ا دیکھا تو اسے کھرچ دیا ، پھر لوگوں کی طرف متوجہ ہو کر فرمایا : ‘ ‘ جب تم میں سے کوئی نماز میں ہو تو اپنے سامنے نہ تھوکے کیونکہ جب  وہ نماز پڑھتا ہے تو اللہ اس کے سامنے ہوتا ہے ۔ ’’",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ التمیمی نے بیان کیا، انہوں نے کہا,امام مالک نے نافع سے اور انھوں حضرت عبداللہ بن عمر رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ، قَالَ: قَرَأْتُ عَلَى مَالِكٍ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللهِ بْنِ عُمَرَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ رَأَى بُصَاقًا فِي جِدَارِ الْقِبْلَةِ فَحَكَّهُ، ثُمَّ أَقْبَلَ عَلَى النَّاسِ فَقَالَ: «إِذَا كَانَ أَحَدُكُمْ يُصَلِّي فَلَا يَبْصُقْ قِبَلَ وَجْهِهِ، فَإِنَّ اللهَ قِبَلَ وَجْهِهِ إِذَا صَلَّى.",
+                "headingArabic": "النَّهْىِ عَنِ الْبُصَاقِ، فِي الْمَسْجِدِ فِي الصَّلاَةِ وَغَيْرِهَا ‏‏والنهي عن بصاق المصلي بين يديه وعن يمينه",
+                "headingUrdu": "مسجد میں، نماز کے دوران اور دیگر اوقات میں تھوکنے کی ممانعت۔ نمازی کے سامنے یا دائیں طرف تھوکنے کی ممانعت",
+                "headingEnglish": "The prohibition of spitting in the masjid, during prayer and at other times. The prohibition of a praying person spitting in front of him or to his right",
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8788,
+                "hadithNumber": "1224",
+                "englishNarrator": "Ibn Umar رضی اللہ عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) saw sputum sticking to the Qibla wall of the mosque, a hadith similar to that of Malik (no. 1223).",
+                "hadithUrdu": "آپ ﷺ نے مسجد کے قبلے ( کی سمت ) میں بلغم دیکھا ۔ سوائے ضحاک کے کہ ان کی روایت میں ( مسجد کے قبلے کے بجائے ) ‘ ‘ قبلے ( کی سمت ) میں ’’ کے الفاظ ہیں ..... ( آگے ) امام مالک کی حدیث کے ہم معنی روایت ہے ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے عبداللہ بن نمیر اور ابو اسامہ نے بیان کیا، کہا ہم سے ابن نمیر نے بیان کیا، ہم سے میرے والد نے بیان کیا, عبید اللہ ، لیث بن سعد ، ایوب ، ضحاک بن عثمان اور موسیٰ بن عقبہ سب نے نافع سے ، انھوں نے حضرت ابن عمر رضی اللہ عنہ سے اور انھوں نے نبی اکرم ﷺ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللهِ بْنُ نُمَيْرٍ، وَأَبُو أُسَامَةَ، ح وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، جَمِيعًا عَنْ عُبَيْدِ اللهِ، ح وَحَدَّثَنَا قُتَيْبَةُ، وَمُحَمَّدُ بْنُ رُمْحٍ، عَنِ اللَّيْثِ بْنِ سَعْدٍ، ح وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا إِسْمَاعِيلُ يَعْنِي ابْنَ عُلَيَّةَ، عَنْ أَيُّوبَ، ح وَحَدَّثَنَا ابْنُ رَافِعٍ، حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، أَخْبَرَنَا الضَّحَّاكُ يَعْنِي ابْنَ عُثْمَانَ، ح وَحَدَّثَنِي هَارُونُ بْنُ عَبْدِ اللهِ، حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، قَالَ: قَالَ ابْنُ جُرَيْجٍ: أَخْبَرَنِي مُوسَى بْنُ عُقْبَةَ، كُلُّهُمْ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ رَأَى نُخَامَةً فِي قِبْلَةِ الْمَسْجِدِ، إِلَّا الضَّحَّاكُ فَإِنَّ فِي حَدِيثِهِ: نُخَامَةً فِي الْقِبْلَةِ، بِمَعْنَى حَدِيثِ مَالِكٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "5",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 105,
+                    "chapterNumber": "5",
+                    "chapterEnglish": "The Book of Mosques and Places of Prayer",
+                    "chapterUrdu": "مسجدیں اور نماز کی جگہیں",
+                    "chapterArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلَاة",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 8476,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=339",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=337",
+                "label": "337",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=338",
+                "label": "338",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=339",
+                "label": "339",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=340",
+                "label": "340",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=341",
+                "label": "341",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=342",
+                "label": "342",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=343",
+                "label": "343",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=341",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=341",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=339",
+        "to": 8500,
+        "total": 40465
+    }
+}

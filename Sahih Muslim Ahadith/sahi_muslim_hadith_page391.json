@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 391,
+        "data": [
+            {
+                "id": 10039,
+                "hadithNumber": "2475",
+                "englishNarrator": "It was narrated from Shobah with this chain(a similar hadith as no. 2473), as Ibn Muadh said:",
+                "hadithEnglish": "\"We do not consume chairy.\"",
+                "hadithUrdu": "\" کہ ہم صدقہ نہیں کھاتے ۔",
+                "urduNarrator": "ہم سے محمد بن بشار نے بیان کیا، انہوں نے کہا محمد بن جعفر اور ابن ابی عدی دونوں نے شعبہ سے اسی سند کے ساتھ ( اسی طرح ) حدیث بیان کی جس طرح ابن معاذ نے کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، ح وحَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، كِلَاهُمَا عَنْ شُعْبَةَ، فِي هَذَا الْإِسْنَادِ، كَمَا قَالَ: ابْنُ مُعَاذٍ «أَنَّا لَا نَأْكُلُ الصَّدَقَةَ؟».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "13",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 113,
+                    "chapterNumber": "13",
+                    "chapterEnglish": "The Book of Zakat",
+                    "chapterUrdu": "زکوٰۃ کے احکام و مسائل",
+                    "chapterArabic": "كتاب الزَّكَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10040,
+                "hadithNumber": "2476",
+                "englishNarrator": "Abu Huraira رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: I go back to my family and I find a date lying on my bed. I then take it up to eat it, but then I throw it away fearing that it may be a Sadaqa.",
+                "hadithUrdu": "آپ نے فر ما یا : \" میں اپنے گھر لوٹتا ہوں اور اپنے بستر پر ایک کھجور گری ہو ئی پا تا ہوں میں اسے کھا نے کے لیے اٹھا تا ہوں پھر ڈرتا ہوں کہ یہ صدقہ نہ ہو تو اسے پھینک دیتا ہوں ۔",
+                "urduNarrator": "مجھ سے ہارون بن سعید الایلی نے بیان کیا، مجھ سے ابن وہب نے بیان کیا، مجھ سے عمرو نے بیان کیا کہ ابو ہریرہ کے موکل ابو یونس نے ان سےابو ہریرہ رضی اللہ تعالیٰ عنہ کے آزاد کردہ غلا م ابو یو نس نے حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ سے حدیث بیان کی ، انھوں نے رسول اللہ صلی اللہ علیہ وسلم سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنِي هَارُونُ بْنُ سَعِيدٍ الْأَيْلِيُّ حَدَّثَنَا ابْنُ وَهْبٍ أَخْبَرَنِي عَمْرٌو أَنَّ أَبَا يُونُسَ مَوْلَى أَبِي هُرَيْرَةَ حَدَّثَهُ عَنْ أَبِي هُرَيْرَةَ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ إِنِّي لَأَنْقَلِبُ إِلَى أَهْلِي فَأَجِدُ التَّمْرَةَ سَاقِطَةً عَلَى فِرَاشِي ثُمَّ أَرْفَعُهَا لِآكُلَهَا ثُمَّ أَخْشَى أَنْ تَكُونَ صَدَقَةً فَأُلْقِيهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "13",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 113,
+                    "chapterNumber": "13",
+                    "chapterEnglish": "The Book of Zakat",
+                    "chapterUrdu": "زکوٰۃ کے احکام و مسائل",
+                    "chapterArabic": "كتاب الزَّكَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10041,
+                "hadithNumber": "2477",
+                "englishNarrator": "It was narrated that Hammam bin Munabbih said: \"This is what Abu Hurairah narrated Muhammad the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌)\" And he quoted  number of Ahadith including the following: And he said:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: I go back to my family and I find a date lying on my bed or in my house, and I take it up to eat it, but then I throw it away fearing that it may be a Sadaqa or from Sadaqa.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا : \" اللہ کی قسم! میں اپنے گھروالوں کے پاس لو ٹتا ہوں اور اپنے بستر پر ۔ ۔ ۔ یا اپنے گھر میں ۔ ۔ ایک کھجور گری ہوئی پا تا ہوں میں اسے کھا نے کے لیے اٹھا تا ہوں پھر میں ڈرتا ہوں کہ کہیں یہ صدقہ ( نہ ) ہو ( یا صدقے میں سے نہ ہو ) تو میں اسے پھینک دیتا ہوں ۔ \"",
+                "urduNarrator": "ہم سے محمد بن رافع نے بیان کیا، ہم سے عبد الرزاق بن ہمام نے بیان کیا، ہم سے معمر نے بیان کیا , ہمام بن منبہ نے کہا : یہ ( احادیث ) ہیں جو حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ نے ہمیں محمدرسول صلی اللہ علیہ وسلم سے بیان کیں انھوں نے کچھ احادیث بیان کیں ان میں سے ( ایک حدیث یہ ) ہے اور",
+                "hadithArabic": "و حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ حَدَّثَنَا عَبْدُ الرَّزَّاقِ بْنُ هَمَّامٍ حَدَّثَنَا مَعْمَرٌ عَنْ هَمَّامِ بْنِ مُنَبِّهٍ قَالَ هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ عَنْ مُحَمَّدٍ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَذَكَرَ أَحَادِيثَ مِنْهَا وَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَاللَّهِ إِنِّي لَأَنْقَلِبُ إِلَى أَهْلِي فَأَجِدُ التَّمْرَةَ سَاقِطَةً عَلَى فِرَاشِي أَوْ فِي بَيْتِي فَأَرْفَعُهَا لِآكُلَهَا ثُمَّ أَخْشَى أَنْ تَكُونَ صَدَقَةً أَوْ مِنْ الصَّدَقَةِ فَأُلْقِيهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "13",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 113,
+                    "chapterNumber": "13",
+                    "chapterEnglish": "The Book of Zakat",
+                    "chapterUrdu": "زکوٰۃ کے احکام و مسائل",
+                    "chapterArabic": "كتاب الزَّكَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10042,
+                "hadithNumber": "2478",
+                "englishNarrator": "Anas bin Malik رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) found a date in the street and said: If it were not of sadaqa I would have eaten it.",
+                "hadithUrdu": "نبی اکرم صلی اللہ علیہ وسلم کو ایک کھجور ملی تو آپ نے فر ما یا : \" اگر یہ ( امکا ن ) نہ ہو تا کہ یہ صدقے میں سے ہو سکتی ہے تو میں اسے کھا لیتا ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، کہا ہم سے وکیع نے بیان کیا, سفیان نے منصور سے انھوں نے طلحہ بن مصرف سے اور انھوں نے حضرت انس بن مالک رضی اللہ تعالیٰ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى أَخْبَرَنَا وَكِيعٌ عَنْ سُفْيَانَ عَنْ مَنْصُورٍ عَنْ طَلْحَةَ بْنِ مُصَرِّفٍ عَنْ أَنَسِ بْنِ مَالِكٍ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَجَدَ تَمْرَةً فَقَالَ لَوْلَا أَنْ تَكُونَ مِنْ الصَّدَقَةِ لَأَكَلْتُهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "13",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 113,
+                    "chapterNumber": "13",
+                    "chapterEnglish": "The Book of Zakat",
+                    "chapterUrdu": "زکوٰۃ کے احکام و مسائل",
+                    "chapterArabic": "كتاب الزَّكَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10043,
+                "hadithNumber": "2479",
+                "englishNarrator": "Anas bin Malik رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) found a date lying on the path and said: If it were not out of Sadaqa, I would have eaten it.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم راستے میں ( پڑی ہو ئی ) ایک کھجور کے قریب سے گزرے تو فر ما یا : \" اگر یہ ( امکا ن ) نہ ہو تا کہ یہ صدقے سے ہو گی تو میں اسے کھا لیتا ۔",
+                "urduNarrator": "ہم سے ابو کریب نے بیان کیا، کہا ہم سے ابو اسامہ نے بیان کیا, زائد ہ نے منصور اور انھوں نے طلحہ بن مصرف سے روایت کی انھوں نے کہا حضرت انس بن ما لک رضی اللہ تعالیٰ عنہ نے ہمیں حدیث بیان کی کہ",
+                "hadithArabic": "وحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ زَائِدَةَ، عَنْ مَنْصُورٍ، عَنْ طَلْحَةَ بْنِ مُصَرِّفٍ، حَدَّثَنَا أَنَسُ بْنُ مَالِكٍ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مَرَّ بِتَمْرَةٍ بِالطَّرِيقِ، فَقَالَ: «لَوْلَا أَنْ تَكُونَ مِنَ الصَّدَقَةِ لَأَكَلْتُهَا».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "13",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 113,
+                    "chapterNumber": "13",
+                    "chapterEnglish": "The Book of Zakat",
+                    "chapterUrdu": "زکوٰۃ کے احکام و مسائل",
+                    "chapterArabic": "كتاب الزَّكَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10044,
+                "hadithNumber": "2480",
+                "englishNarrator": "Anas bin Malik رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) found a date and said: Were it not (that I fear) it may be part of sadaqa, I would have eaten it.",
+                "hadithUrdu": "نبی صلی اللہ علیہ وسلم کو ایک کھجور ملی تو آپ نے فر ما یا : \" اگر یہ ( امکا ن ) نہ ہو تا کہ یہ صدقہ ہو گا تو میں اسے کھا لیتا.",
+                "urduNarrator": "ہم سے محمد بن المثنیٰ اور ابن بشار نے بیان کیا، کہا: ہم سے معاذ بن ہشام نے بیان کیا، مجھ سے میرے والد نے بیان کیا ,  قتادہ نے حضرت انس رضی اللہ تعالیٰ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ بَشَّارٍ، قَالَا حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَجَدَ تَمْرَةً، فَقَالَ: «لَوْلَا أَنْ تَكُونَ صَدَقَةً لَأَكَلْتُهَا».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "13",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 113,
+                    "chapterNumber": "13",
+                    "chapterEnglish": "The Book of Zakat",
+                    "chapterUrdu": "زکوٰۃ کے احکام و مسائل",
+                    "chapterArabic": "كتاب الزَّكَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10045,
+                "hadithNumber": "2481",
+                "englishNarrator": "Abdul-Muttalib bin Rabi'a bin al-Harith reported that Rabi'a bin al-Harith and Abbas bin Abdul-Muttalib رضی اللہ تعالیٰ عنہ gathered together and said:",
+                "hadithEnglish": "By Allah, if we had sent these two young boys (i. e. I and Fadl bin 'Abbas رضی اللہ تعالیٰ عنہ ) to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and they had spoken to him, he would have appointed them (as the collectors) of these sadaqat; and they would (collect them) and pay (to the Holy Prophet) as other people (collectors) paid and would get a share as other people got it. As they were talking about it there came 'Ali bin Abu Talib رضی اللہ تعالیٰ عنہ and stood before them, and they made a mention of it to him. 'Ali bin Abu Talib رضی اللہ تعالیٰ عنہ said: Don't do that; by Allah he (the Holy Prophet) would not do that (would not accept your request). Rabi'a bin Harith رضی اللہ تعالیٰ عنہ turned to him and said: By Allah, you are not doing so but out of jealousy that you nurse against us By Allah, you became the son-in-law of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) but we felt no jealousy against you (for this great privilege of yours). 'Ali رضی اللہ تعالیٰ عنہ then said: Send them (if you like). They set out and 'Ali رضی اللہ تعالیٰ عنہ lay on the bed. When the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) offered the noon prayer. we went ahead of him to his apartment and stood near it till he came out. He took hold of our ears (out of love and affection) and then said: Give out what you have kept in your hearts. He then entered (the apartment) and we also went in and he (the Holy Prophet) was on that day (in the house of) Zainab bin jahsh رضی اللہ تعالیٰ عنہ . We urged each (of us) to speak. Then one of us thus spoke: Messenger of Allah, you are the best of humanity and the best to cement the ties of blood-relations. We have reached the-marriageable age. We have come (to you) so that you may appoint us (as collectors) of these sadaqat. and we would pay you just as thin people (other collectors) pay you, and get our share as others get it. He (the Holy Prophet) kept silence for a long time till we wished that we should speak with him (again), and Zainab رضی اللہ تعالیٰ عنہا pointied to us from behind the curtain not to talk (any more). He (the Holy Prophet) said; It does not become the family of Muhammad (to accept) sadaqat for they are the impurities of people. You call to me Mahmiya (and he was in charge of khums, i. e, of the one-fifth part that goes to the treasury out of the spoils of war), and Naufal bin Harith bin 'Abdul-Muttalib. They both came to him, and he (the Holy Prophet) said to Mahmiya رضی اللہ تعالیٰ عنہ : Marry your daughter to this young man (i. e. Fadl bin 'Abbas رضی اللہ تعالیٰ عنہ), and he married her to him And he said to Naufal bin Harith رضی اللہ تعالیٰ عنہ : Marry your daughter to this young man (i e. 'Abdul-Muttalib bin Rabi'a, the narrator of this hadith) and he married her to me, and he said to Mahmiya رضی اللہ تعالیٰ عنہ : Pay so much mahr on behalf of both of them from this khums Zuhri, however. said: He did not determine (the amount of mahr).",
+                "hadithUrdu": "اللہ کی قسم! اگر ہم ان دو نوں لڑکوں کو ، ، انھوں نے ( یہ بات ) میرے اور فضل بن عباس رضی اللہ تعالیٰ عنہ کے بارے میں کہی ۔ ۔ رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں بھیجیں اور یہ دو نوں آپ سے بات کریں اور آپ ان دونوں کو ان صدقات کی وصولی پر مقرر کر دیں جو کچھ ( دو سرے ) لو گ ( لا کر ) اداکرتے ہیں یہ دو نوں ادا کریں اور ان دو نوں کو بھی وہی کچھ ملے جو ( دوسرے ) لوگوں کو ملتا ہے ( رو کتنا اچھا ہو! ) وہ دو نوں اسی ( مشورے ) میں ( مشغول ) تھے کہ حضرت علی رضی اللہ تعالیٰ عنہ آئے اور ان کے پاس کھڑے ہو گئے ان دو نوں نے اس با ت کا ان کے سامنے ذکر کیا تو حضرت علی بن ابی طا لب رضی اللہ تعالیٰ عنہ نے کہا : آپ دونوں ایسا نہ کریں اللہ کی قسم! آپ صلی اللہ علیہ وسلم یہ کا م کرنے والے نہیں اس پر ربیعہ بن حارث رضی اللہ تعالیٰ عنہ ان کے درپے ہو گئے اور کہا اللہ کی قسم !تم محض اس لیے ہمارے ساتھ ایسا کر رہے ہو تا کہ تم ہم پر اپنی بر تری جتاؤ اللہ کی قسم !تمھیں رسول اللہ صلی اللہ علیہ وسلم کے داماد ہو نے کا شرف حاصل ہوا تو ( اس موقع پر ) ہم نے تو تم پر بر تری نہیں جتا ئی تھی حضرت علی رضی اللہ تعالیٰ عنہ نے کہا تم ان دونوں کو بھیج دو ۔ وہ دو نو چلے گئے اور حضرت علی رضی اللہ تعالیٰ عنہ ( وہیں ) لیٹ گئے ( ابن ربیعہ نے ) کہا جب رسول اللہ صلی اللہ علیہ وسلم نے ظہر کی نماز پڑھا لی تو وہ دونوں آپ سے پہلے حجرے کے قریب پہنچ گئے اور کہا : ہم وہاں کھڑے ہو گئے حتیٰ کہ جب آپ تشریف لا ئے تو ( اظہار اپنائیت کے طور پر ) ہمارے کا ن پکڑ لیے پھر فر ما یا : \"\" تم دو نوں کے دل میں جو کچھ ہے اسے نکا لو ( اس کا اظہار کرو ۔ ) پھر آپ اندر دا خل ہو ئے ہم بھی ساتھ ہی دا خل ہو گئے اس دن آپ زینب بنت حجش رضی اللہ تعالیٰ عنہا کے ہاں تھے ہم نے گفتگو ایک دوسرے پر ڈالی ( ہر ایک نے چا ہا دوسرا بات کرے ) پھر ہم میں سے ایک نے گفتگو شروع کی کہا : اے اللہ کے رسول اللہ صلی اللہ علیہ وسلم !آپ سب لوگوں سے بڑھ کر احسان کرنے والے اور سب لوگوں سے زیادہ صلہ رحمی کرنے والے ہیں ہم دو نوں نکاح کی عمر کو پہنچ گئے ہیں ہم اس لیے حاضر ہو ئے ہیں کہ آپ ہمیں بھی ان صدقات میں سے کچھ ( صدقات ) کی وصولی کے لیے مقرر فر ما دیں جس طرح لو گ لا کر ادا کرتے ہیں ہم بھی لا کر دیں گے اور جس طرح انھیں ملتا ہے ہمیں بھی ملے گا آپ خاصی دیرتک خاموش رہے حتیٰ کہ ہم نے دوبارہ ) گفتگو کرنے کا ارادہ کر لیا ۔ کہا تو حضرت زینب رضی اللہ تعالیٰ عنہا پردے کے پیچھے سے اشارا کرنے لگیں کہ تم دونوں ان ( ( رسول اللہ صلی اللہ علیہ وسلم ) سے بات نہ کرو کہا : پھر ( کچھ دیر بعد ) آپ نے فر ما یا : \"\" آل محمد کے لیے صدقہ روانہیں ۔ یہ تو لوگوں ( کے مال ) کا میل کچل ہے محمية وہ خمس ( غنیمت کے پانچویں حصے ) پر مامور تھے ۔ ۔ ۔ اور نوفل بن حارث بن عبد المطلب کو میرے پاس بلا ؤ ۔ کہا وہ دونوں آپ کی خدمت میں حا ضر ہو ئے تو آپ نے محمیہ رضی اللہ تعالیٰ عنہ سے کہا : \"\" اس لڑکے ( فضل بن عباس رضی اللہ تعالیٰ عنہ ) سے اپنی بیٹی کا نکا ح کر دو ۔ تو اس نے ان کا نکا ح کر دیا اور آپ نے نوفل بن حارث رضی اللہ تعالیٰ عنہ سے کہا تم اس لڑکے سے اپنی بیٹی کی شادی کر دو ۔ میرے بارے میں ۔ تو اس نے میرا نکا ح کر دیا اور آپ نے محمیہ رضی اللہ تعالیٰ عنہ سے فر ما یا : \"\" خمس ( جو اللہ اور اس کے رسول اللہ صلی اللہ علیہ وسلم کے لیے تھا ) میں سے ان دونوں کا تنا اتنا حق مہر ادا کر دو ۔ زہری نے کہا اس ( عبد اللہ بن عبد اللہ ) نے حق مہر مجھے نہیں بتا یا ۔",
+                "urduNarrator": "مجھ سے عبداللہ بن محمد بن اسماء الضبعی نے بیان کیا، ہم سے جویریہ نے بیان کیا , امام مالک نے زہری سے روایت کی کہ عبد اللہ بن نو فل بن حارث بن عبد المطلب نے انھیں حدیث بیان کی کہ عبد المطلب بن ربیعہ بن حا رث ( بن عبد المطلب ) رضی اللہ تعالیٰ عنہ نے انھیں حدیث بیان کی ، امھوں نے کہا ربیعہ بن حا رث اور عباس بن عبد المطلب رضی اللہ تعالیٰ عنہ اکٹھے ہو ئے اور دونوں نے کہا",
+                "hadithArabic": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ أَسْمَاءَ الضُّبَعِيُّ حَدَّثَنَا جُوَيْرِيَةُ عَنْ مَالِكٍ عَنْ الزُّهْرِيِّ أَنَّ عَبْدَ اللَّهِ بْنَ عَبْدِ اللَّهِ بْنِ نَوْفَلِ بْنِ الْحَارِثِ بْنِ عَبْدِ الْمُطَّلِبِ حَدَّثَهُ أَنَّ عَبْدَ الْمُطَّلِبِ بْنَ رَبِيعَةَ بْنِ الْحَارِثِ حَدَّثَهُ قَالَ اجْتَمَعَ رَبِيعَةُ بْنُ الْحَارِثِ وَالْعَبَّاسُ بْنُ عَبْدِ الْمُطَّلِبِ فَقَالَا وَاللَّهِ لَوْ بَعَثْنَا هَذَيْنِ الْغُلَامَيْنِ قَالَا لِي وَلِلْفَضْلِ بْنِ عَبَّاسٍ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَكَلَّمَاهُ فَأَمَّرَهُمَا عَلَى هَذِهِ الصَّدَقَاتِ فَأَدَّيَا مَا يُؤَدِّي النَّاسُ وَأَصَابَا مِمَّا يُصِيبُ النَّاسُ قَالَ فَبَيْنَمَا هُمَا فِي ذَلِكَ جَاءَ عَلِيُّ بْنُ أَبِي طَالِبٍ فَوَقَفَ عَلَيْهِمَا فَذَكَرَا لَهُ ذَلِكَ فَقَالَ عَلِيُّ بْنُ أَبِي طَالِبٍ لَا تَفْعَلَا فَوَاللَّهِ مَا هُوَ بِفَاعِلٍ فَانْتَحَاهُ رَبِيعَةُ بْنُ الْحَارِثِ فَقَالَ وَاللَّهِ مَا تَصْنَعُ هَذَا إِلَّا نَفَاسَةً مِنْكَ عَلَيْنَا فَوَاللَّهِ لَقَدْ نِلْتَ صِهْرَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَمَا نَفِسْنَاهُ عَلَيْكَ قَالَ عَلِيٌّ أَرْسِلُوهُمَا فَانْطَلَقَا وَاضْطَجَعَ عَلِيٌّ قَالَ فَلَمَّا صَلَّى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الظُّهْرَ سَبَقْنَاهُ إِلَى الْحُجْرَةِ فَقُمْنَا عِنْدَهَا حَتَّى جَاءَ فَأَخَذَ بِآذَانِنَا ثُمَّ قَالَ أَخْرِجَا مَا تُصَرِّرَانِ ثُمَّ دَخَلَ وَدَخَلْنَا عَلَيْهِ وَهُوَ يَوْمَئِذٍ عِنْدَ زَيْنَبَ بِنْتِ جَحْشٍ قَالَ فَتَوَاكَلْنَا الْكَلَامَ ثُمَّ تَكَلَّمَ أَحَدُنَا فَقَالَ يَا رَسُولَ اللَّهِ أَنْتَ أَبَرُّ النَّاسِ وَأَوْصَلُ النَّاسِ وَقَدْ بَلَغْنَا النِّكَاحَ فَجِئْنَا لِتُؤَمِّرَنَا عَلَى بَعْضِ هَذِهِ الصَّدَقَاتِ فَنُؤَدِّيَ إِلَيْكَ كَمَا يُؤَدِّي النَّاسُ وَنُصِيبَ كَمَا يُصِيبُونَ قَالَ فَسَكَتَ طَوِيلًا حَتَّى أَرَدْنَا أَنْ نُكَلِّمَهُ قَالَ وَجَعَلَتْ زَيْنَبُ تُلْمِعُ عَلَيْنَا مِنْ وَرَاءِ الْحِجَابِ أَنْ لَا تُكَلِّمَاهُ قَالَ ثُمَّ قَالَ إِنَّ الصَّدَقَةَ لَا تَنْبَغِي لِآلِ مُحَمَّدٍ إِنَّمَا هِيَ أَوْسَاخُ النَّاسِ ادْعُوَا لِي مَحْمِيَةَ وَكَانَ عَلَى الْخُمُسِ وَنَوْفَلَ بْنَ الْحَارِثِ بْنِ عَبْدِ الْمُطَّلِبِ قَالَ فَجَاءَاهُ فَقَالَ لِمَحْمِيَةَ أَنْكِحْ هَذَا الْغُلَامَ ابْنَتَكَ لِلْفَضْلِ بْنِ عَبَّاسٍ فَأَنْكَحَهُ وَقَالَ لِنَوْفَلِ بْنِ الْحَارِثِ أَنْكِحْ هَذَا الْغُلَامَ ابْنَتَكَ لِي فَأَنْكَحَنِي وَقَالَ لِمَحْمِيَةَ أَصْدِقْ عَنْهُمَا مِنْ الْخُمُسِ كَذَا وَكَذَا.",
+                "headingArabic": "تَرْكِ اسْتِعْمَالِ آلِ النَّبِيِّ عَلَى الصَّدَقَةِ ‏",
+                "headingUrdu": "رسول اللہ (صلی اللہ علیہ وآلہ وسلم) کے خاندان کو صدقہ کا انچارج مقرر نہ کرنا",
+                "headingEnglish": "Not appointing the family of the prophet (saws) in charge of charity",
+                "chapterId": "13",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 113,
+                    "chapterNumber": "13",
+                    "chapterEnglish": "The Book of Zakat",
+                    "chapterUrdu": "زکوٰۃ کے احکام و مسائل",
+                    "chapterArabic": "كتاب الزَّكَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10046,
+                "hadithNumber": "2482",
+                "englishNarrator": "Rabi'a bin Harith bin 'Abd al-Muttalib and Abbas bin 'Abdul-Muttalib رضی اللہ تعالیٰ عنہ said to Abdul-Muttalib bin Rabi'a and Fadl bin Ibn Abbas رضی اللہ تعالیٰ عنہ :",
+                "hadithEnglish": "Go to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), and the rest of the hadith is the same (but with this addition): 'Ali spread his cloak and then lay down on it and said: I am the father of Hasan, and I am the chief. By Allah, I would not move from my place till your sons come back to you with the reply to that for which you sent them to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ). And he then also said: Verily these sadaqat are the impurities of people, and they are not permissible for Muhammad ( ‌صلی ‌اللہ ‌علیہ ‌وسلم), and for the family of Muhammad. And he also said: The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) also said to me: Call Mahmiya b. Jaz', and he was person from Banu Asad. and the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) had appointed him as a collector of khums.",
+                "hadithUrdu": "تم دو نوں رسول اللہ صلی اللہ علیہ وسلم کے پا س جاؤ ۔ ۔ ۔ اور امام مالک ؒ کی ( مذکورہ بالا ) حدیث کی طرح حدیث بیان کی اور اس میں کہا حضرت علی رضی اللہ تعالیٰ عنہ نے اپنی چا در بچھا ئی اور اس پر لیٹ گئے اور کہا میں بات پر ڈٹ جا نے والا ابو حسن ہوں اللہ کی قسم !میں اپنی جگہ نہیں چھوڑوں گا یہاں تک کہ تم دونوں کے بیٹے جس مقصدکے لیے انھیں بھیج رہے ہو اس کا جواب لے کر تمھا رے پاس واپس ( نہ آجا ئیں ۔ اور اس حدیث میں کہا : پھر آپ نے ہمیں فر ما یا : \"\" یہ صدقات لوگوں کا میل کچل ہیں اور یقیناً یہ محمد اور آل محمد صلی اللہ علیہ وسلم کے لیے حلا ل نہیں اور یہ بھی کہا : پھر رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا میرے پاس محمية بن جزکو بلاؤ ۔ وہ بنو اسد کا ایک فرد تھا جسے رسول اللہ صلی اللہ علیہ وسلم نے اموال خمس کے انتظامات کے لیے مقرر کیا تھا ۔",
+                "urduNarrator": "ہم سے ہارون بن معروف نے بیان کیا، کہا ہم سے ابن وہب نے بیان کیا، انہوں نے مجھ سے بیان کیا, یو نس بن یزید نے ابن شہاب سے اور انھوں نے عبد اللہ بن حارث بن نو فل ہا شمی سے روایت کی کہ حضرت عبد المطلب بن ربیعہ بن حارث بن عبد المطلب نے انھیں بتا یا کہ ان کے والد ربیعہ بن حارث بن عبد المطلب اور عباس بن عبد المطلب رضی اللہ تعالیٰ عنہ نے عبد المطلب بن ربیعہ اور فضل بن عباس رضی اللہ تعالیٰ عنہ سے کہا",
+                "hadithArabic": "حَدَّثَنَا هَارُونُ بْنُ مَعْرُوفٍ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ بْنُ يَزِيدَ، عَنِ ابْنِ شِهَابٍ، عَنْ عَبْدِ اللهِ بْنِ الْحَارِثِ بْنِ نَوْفَلٍ الْهَاشِمِيِّ، أَنَّ عَبْدَ الْمُطَّلِبِ بْنَ رَبِيعَةَ بْنِ الْحَارِثِ بْنِ عَبْدِ الْمُطَّلِبِ، أَخْبَرَهُ أَنَّ أَبَاهُ رَبِيعَةَ بْنَ الْحَارِثِ بْنِ عَبْدِ الْمُطَّلِبِ، وَالْعَبَّاسَ بْنَ عَبْدِ الْمُطَّلِبِ قَالَا: لِعَبْدِ الْمُطَّلِبِ بْنِ رَبِيعَةَ، وَلِلْفَضْلِ بْنِ عَبَّاسٍ، ائْتِيَا رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَسَاقَ الْحَدِيثَ بِنَحْوِ حَدِيثِ مَالِكٍ، وَقَالَ فِيهِ: فَأَلْقَى عَلِيٌّ رِدَاءَهُ، ثُمَّ اضْطَجَعَ عَلَيْهِ، وَقَالَ: أَنَا أَبُو حَسَنٍ الْقَرْمُ، وَاللهِ، لَا أَرِيمُ مَكَانِي حَتَّى يَرْجِعَ إِلَيْكُمَا ابْنَاكُمَا، بِحَوْرِ مَا بَعَثْتُمَا بِهِ إِلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ. وَقَالَ فِي الْحَدِيثِ: ثُمَّ قَالَ لَنَا «إِنَّ هَذِهِ الصَّدَقَاتِ إِنَّمَا هِيَ أَوْسَاخُ النَّاسِ، وَإِنَّهَا لَا تَحِلُّ لِمُحَمَّدٍ، وَلَا لِآلِ مُحَمَّدٍ» وَقَالَ أَيْضًا: ثُمَّ قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ «ادْعُوَا لِي مَحْمِيَةَ بْنَ جَزْءٍ»، وَهُوَ رَجُلٌ مِنْ بَنِي أَسَدٍ كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ اسْتَعْمَلَهُ عَلَى الْأَخْمَاسِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "13",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 113,
+                    "chapterNumber": "13",
+                    "chapterEnglish": "The Book of Zakat",
+                    "chapterUrdu": "زکوٰۃ کے احکام و مسائل",
+                    "chapterArabic": "كتاب الزَّكَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10047,
+                "hadithNumber": "2483",
+                "englishNarrator": "Juwayriya رضی اللہ تعالیٰ عنہا , the wife of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said:",
+                "hadithEnglish": "Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) came to her and said: Is there anything to eat? She said: Messenger of Allah, I swear by God, there is no food with us except a bone of goat which my freed maid-servant was given as sadaqa. Upon this he said: Bring that to me, for it (the sadaqa) has reached its destination.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم ان کے ہاں تشریف لا ئے اور پوچھا : \"\" کیا کھانے کی کو ئی چیز ہے؟ \"\" انھوں نے عرض کی نہیں اللہ کے رسول اللہ صلی اللہ علیہ وسلم اللہ کی قسم ! ہمارے پاس اس بکری کی ہزی ( والے گو شت ) کے سوا کھا نے کی اور کو ئی چیز نہیں جو میری آزاد کردہ لو نڈی کو بطور صدقہ دی گئی تھی آپ نے فر ما یا : \"\" اسے ہی لے آؤ وہ اپنے مقام پر پہنچ چکی ہے ( جس کو صدقہ کے طور پر دی گئی تھی اسے مل گئی ہے اور اس کی ملکیت میں آچکی ہے )",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا، کہا ہم سے لیث نے بیان کیا، ہم سے محمد بن رومہ ح نے بیان کیا، انہوں نے کہا لیث نے ابن شہاب سے روایت کی کہ عبید بن سباق نے کہا نبی اکرم صلی اللہ علیہ وسلم کی زوجہ حضرت جویریہ ( بنت حارث ) رضی اللہ تعالیٰ عنہا نے ان کو بتا یا کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، ح وحَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَخْبَرَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ، أَنَّ عُبَيْدَ بْنَ السَّبَّاقِ، قَالَ: إِنَّ جُوَيْرِيَةَ زَوْجَ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَخْبَرَتْهُ أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ دَخَلَ عَلَيْهَا فَقَالَ: «هَلْ مِنْ طَعَامٍ؟» قَالَتْ: لَا، وَاللهِ، يَا رَسُولَ اللهِ، مَا عِنْدَنَا طَعَامٌ إِلَّا عَظْمٌ مِنْ شَاةٍ أُعْطِيَتْهُ مَوْلَاتِي مِنَ الصَّدَقَةِ، فَقَالَ: «قَرِّبِيهِ، فَقَدْ بَلَغَتْ مَحِلَّهَا».",
+                "headingArabic": "إباحة الهدية للنبي ﷺ ولبني هاشم وبني المطلب، وإن كان المهدي ملكها بطريق الصدقة،وبيان أن الصدقة إذا قبضها المتصدّقُ عليه، زال عنها وصف الصدقة ، وحلت لكل أحد ممن كانت الصدقة محرمة عليه",
+                "headingUrdu": "تحفہ رسول اللہ صلی اللہ علیہ وسلم اور بنو ہاشم اور بنو المطلب کے لیے جائز ہے، خواہ دینے والے نے صدقہ سے حاصل کیا ہو۔ جب وصول کنندہ صدقہ پر قبضہ کر لیتا ہے، تو اسے صدقہ کے طور پر بیان نہیں کیا جاتا، اور یہ ہر اس شخص کے لیے جائز ہے جس کے لیے صدقہ بصورت دیگر غیر قانونی ہو۔",
+                "headingEnglish": "Gifts are permissible for the Prophet (saws) and Banu Hashim and Banu Al-Muttalib, even if the giver acquired it by way of charity. When the receipient takes possession of Charity, it is no longer described as charity, and it is permissible for anyone for whom charity is otherwise unlawful",
+                "chapterId": "13",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 113,
+                    "chapterNumber": "13",
+                    "chapterEnglish": "The Book of Zakat",
+                    "chapterUrdu": "زکوٰۃ کے احکام و مسائل",
+                    "chapterArabic": "كتاب الزَّكَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10048,
+                "hadithNumber": "2484",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated by Zuhri with the same chain of trainsmitters.",
+                "hadithUrdu": "ابوبکر بن ابی شیبہ، عمرو ناقد اور اسحاق بن ابراہیم نے ہم سے روایت کی ہے, ابن عیینہ نے زہری سے اسی سند کے ساتھ اسی ( مذکورہ حدیث ) کی طرح روایت بیان کی.",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَمْرٌو النَّاقِدُ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، جَمِيعًا عَنِ ابْنِ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ بِهَذَا الْإِسْنَادِ نَحْوَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "13",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 113,
+                    "chapterNumber": "13",
+                    "chapterEnglish": "The Book of Zakat",
+                    "chapterUrdu": "زکوٰۃ کے احکام و مسائل",
+                    "chapterArabic": "كتاب الزَّكَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10049,
+                "hadithNumber": "2485",
+                "englishNarrator": "Anas bin Malik رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Barira رضی اللہ تعالیٰ عنہا presented to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) a piece of meat which had been given to her as sadaqa. Upon this he (the Holy Prophet) said: That is a Sadaqa for her and a gift for us.",
+                "hadithUrdu": "( حضرت عائشہ رضی اللہ تعالیٰ عنہا کی آزاد کردہ کنیز ) حضرت بریرہ رضی اللہ تعالیٰ عنہا نے کچھ گو شت جو اس پر صدقہ کیا گیا تھا نبی اکرم صلی اللہ علیہ وسلم کو بطور ہدیہ پیش کیا تو آپ نے فر ما یا : \" وہ اس کے لیے صدقہ اور ہمارے لیے ہد یہ ہے ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ اور ابو کریب نے بیان کیا، کہا: ہم سے وکیع نے بیان کیا، اور ہم سے محمد بن المثنیٰ اور ابن بشار نے بیان کیا، کہا: ہم سے محمد بن جعفر رضی اللہ عنہ نے بیان کیا۔ شعبہ کی سند سے، قتادہ کی سند سے،حضرت انس بن ما لک رضی اللہ تعالیٰ عنہ سے روایت ہے انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ، قَالَا: حَدَّثَنَا وَكِيعٌ، ح وحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ بَشَّارٍ، قَالَا: حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، كِلَاهُمَا عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، ح وحَدَّثَنَا عُبَيْدُ اللهِ بْنُ مُعَاذٍ - وَاللَّفْظُ لَهُ - حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، سَمِعَ أَنَسَ بْنَ مَالِكٍ، قَالَ: أَهْدَتْ بَرِيرَةُ إِلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ لَحْمًا تُصُدِّقَ بِهِ عَلَيْهَا، فَقَال: «هُوَ لَهَا صَدَقَةٌ وَلَنَا هَدِيَّةٌ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "13",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 113,
+                    "chapterNumber": "13",
+                    "chapterEnglish": "The Book of Zakat",
+                    "chapterUrdu": "زکوٰۃ کے احکام و مسائل",
+                    "chapterArabic": "كتاب الزَّكَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10050,
+                "hadithNumber": "2486",
+                "englishNarrator": "A'isha رضی اللہ تعالیٰ عنہا reported:",
+                "hadithEnglish": "The Messenger of Allah (ﷺ) was presented with beef. It was said (by someone) that it had been given to Barira رضی اللہ تعالیٰ عنہا as Sadaqa. Upon this he (the Prophet) said: It is a Sadaqa for her and a gift for us.",
+                "hadithUrdu": "نبی اکرم صلی اللہ علیہ وسلم کو گائے کا گو شت پیش کیا گیا اور بتا یا گیا کہ یہ بریرہ رضی اللہ تعالیٰ عنہا کو بطور صدقہ دیا گیا تھا تو آپ نے فر ما یا : \" وہ اس کے لیے صدقہ اورہما رے لیے ہدیہ ہے ۔",
+                "urduNarrator": "ہم سے عبید اللہ بن معاذ نے بیان کیا، ہم سے میرے والد نے بیان کیا، ان سے شعبہ نے، ان سے حذیفہ نے بیان کیا، ان سے محمد بن المثنیٰ نے اور ان سے ابن بشر نے بیان کیا اور ہم سے یہ قول ابن المثنیٰ نے بیان کیا، انہوں نے کہا: ہم سے محمد بن جعفر نے بیان کیا، ہم سے شعبہ نے بیان کیا، الحکم کی سند سے، ابراہیم کی سند سے, اسود نے حضرت عائشہ رضی اللہ تعالیٰ عنہا سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا عُبَيْدُ اللهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، ح وحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ بَشَّارٍ - وَاللَّفْظُ لِابْنِ الْمُثَنَّى -، قَالَا: حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ، عَنْ إِبْرَاهِيمَ، عَنِ الْأَسْوَدِ، عَنْ عَائِشَةَ، وَأُتِيَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِلَحْمِ بَقَرٍ فَقِيلَ: هَذَا مَا تُصُدِّقَ بِهِ عَلَى بَرِيرَةَ، فَقَالَ: «هُوَ لَهَا صَدَقَةٌ وَلَنَا هَدِيَّةٌ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "13",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 113,
+                    "chapterNumber": "13",
+                    "chapterEnglish": "The Book of Zakat",
+                    "chapterUrdu": "زکوٰۃ کے احکام و مسائل",
+                    "chapterArabic": "كتاب الزَّكَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10051,
+                "hadithNumber": "2487",
+                "englishNarrator": "A'isha (رضی اللہ تعالیٰ عنہا) said:",
+                "hadithEnglish": "Three are the decions (of the Shari'ah that we have come to know) through Barira رضی  اللہ تعالیٰ عنہا . The people gave her sadaqa and she offered us as gift. We made a mention of it to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), whereupon he said: It is a sadaqa for her and a gift for you; so eat it.",
+                "hadithUrdu": "بریرہ رضی اللہ تعالیٰ عنہا کے حوالے سے تین ( شرعی ) فیصلے ہو ئے تھے لو گ اس کو صدقہ دیتے تھے اور وہ ہمیں تحفہ دے دیتی تھیں میں نے اس کا تذکرہ نبی اکرم صلی اللہ علیہ وسلم سے کیا تو آپ نے فر ما یا : وہ اس پر صدقہ ہے اور تمھا رے لیے ہدیہ ہے پس تم اسے ( بلا ہچکچاہٹ ) کھا ؤ ۔",
+                "urduNarrator": "ہم سے زہیر بن حرب اور ابو کریب نے بیان کیا، انہوں نے کہا کہ ہم سے ابو معاویہ نے بیان کیا، انہوں نے کہا  ہشام بن عروہ نے عبد الرحمٰن بن قاسم انھوں نے اپنے والد ( قاسم بن محمد بن ابی بکر ) سے اور انھوں نے حضرت عائشہ رضی اللہ تعالیٰ عنہا سے روایت کی انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَأَبُو كُرَيْبٍ، قَالَا: حَدَّثَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ رَضِيَ اللهُ عَنْهَا، قَالَتْ: كَانَتْ فِي بَرِيرَةَ ثَلَاثُ قَضِيَّاتٍ كَانَ النَّاسُ يَتَصَدَّقُونَ عَلَيْهَا، وَتُهْدِي لَنَا، فَذَكَرْتُ ذَلِكَ لِلنَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: «هُوَ عَلَيْهَا صَدَقَةٌ وَلَكُمْ هَدِيَّةٌ فَكُلُوهُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "13",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 113,
+                    "chapterNumber": "13",
+                    "chapterEnglish": "The Book of Zakat",
+                    "chapterUrdu": "زکوٰۃ کے احکام و مسائل",
+                    "chapterArabic": "كتاب الزَّكَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10052,
+                "hadithNumber": "2488",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of A'isha رضی اللہ تعالیٰ عنہا through another chain of transmitters.",
+                "hadithUrdu": "سماک اور شعبہ نے عبد الرحمٰن بن قاسم سے روایت کی کہا میں نے قاسم سے سنا ، وہ حضرت عائشہ رضی اللہ تعالیٰ عنہا کے حوالے سے نبی اکرم صلی اللہ علیہ وسلم سے اس ( سابقہ حدیث ) کے مانند بیان کر رہے تھے ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا حُسَيْنُ بْنُ عَلِيٍّ، عَنْ زَائِدَةَ، عَنْ سِمَاكٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، ح وحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، قَالَ: سَمِعْتُ عَبْدَ الرَّحْمَنِ بْنَ الْقَاسِمِ، قَالَ: سَمِعْتُ الْقَاسِمَ، يُحَدِّثُ عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِ ذَلِكَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "13",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 113,
+                    "chapterNumber": "13",
+                    "chapterEnglish": "The Book of Zakat",
+                    "chapterUrdu": "زکوٰۃ کے احکام و مسائل",
+                    "chapterArabic": "كتاب الزَّكَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10053,
+                "hadithNumber": "2489",
+                "englishNarrator": "This hadith has been transmitted on the authority of 'A'isha رضی اللہ عنہا in a similar manner except a slight variation that he said:",
+                "hadithEnglish": "That is a gift for us out of it.",
+                "hadithUrdu": "\" وہ اس کی طرف سے ہمارے لیے ہدیہ ہے ۔",
+                "urduNarrator": "مجھ سے ابو الطاہر نے بیان کیا، مجھ سے ابن وہب نے بیان کیا، مجھ سے مالک بن انس نے بیان کیا, ربیعہ نے قاسم رضی اللہ عنہ نے، عائشہ رضی اللہ عنہا سے کہ نبی کریم صلی اللہ علیہ وسلم نسے اسی کے مانند حدیث بیان کی البتہ انھوں نے ( اس حدیث میں ) کہا",
+                "hadithArabic": "وحَدَّثَنِي أَبُو الطَّاهِرِ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي مَالِكُ بْنُ أَنَسٍ، عَنْ رَبِيعَةَ، عَنِ الْقَاسِمِ، عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِ ذَلِكَ غَيْرَ أَنَّهُ قَالَ: «وَهُوَ لَنَا مِنْهَا هَدِيَّةٌ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "13",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 113,
+                    "chapterNumber": "13",
+                    "chapterEnglish": "The Book of Zakat",
+                    "chapterUrdu": "زکوٰۃ کے احکام و مسائل",
+                    "chapterArabic": "كتاب الزَّكَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10054,
+                "hadithNumber": "2490",
+                "englishNarrator": "Umm 'Atiyya رضی اللہ تعالیٰ عنہا said:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) sent me some mutton of sadaqa. I sent a piece out of that to 'A'isha رضی اللہ تعالیٰ عنہا . When the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) came to 'A'isha رضی اللہ تعالیٰ عنہا , he said: Have you anything with you (to eat)? She said: Nothing, except only that mutton sent to us by Nusaiba (the kunya of Umm 'Atiyya رضی اللہ تعالیٰ عنہا ) which you had sent to her. Whereupon he said: It has reached its proper place.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے مجھے صدقے کی ایک بکری بھیجی میں نے اس میں سے کچھ حضرت عائشہ رضی اللہ تعالیٰ عنہا کی طرف بھیج دیا ۔ جب رسول اللہ صلی اللہ علیہ وسلم عائشہ رضی اللہ تعالیٰ عنہا کے ہاں تشریف لا ئے تو آپ نے پو چھا : \" کیا آپ کے پاس ( کھا نے کے لیے ) کچھ ہے ؟ انھوں نے کہا : نہیں البتہ نسيبة ( ام عطیہ رضی اللہ تعالیٰ عنہا نے اس ( صدقے کی ) بکری میں سے کچھ حصہ بھیجا ہے جو آپ نے ان کے ہاں بھیجی تھی آپ نے فر ما یا : \" وہ اپنی جگہ پہنچ چکی ہے ۔",
+                "urduNarrator": "مجھ سے زہیر بن حرب نے بیان کیا، ہم سے اسماعیل بن ابراہیم نے بیان کیا، انہوں نے خالد سے اور حفصہ رضی اللہ عنہا سے, حضرت ام عطیہ رضی اللہ تعالیٰ عنہا سے روایت ہے انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، عَنْ خَالِدٍ، عَنْ حَفْصَةَ، عَنْ أُمِّ عَطِيَّةَ، قَالَتْ: بَعَثَ إِلَيَّ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِشَاةٍ مِنَ الصَّدَقَةِ، فَبَعَثْتُ إِلَى عَائِشَةَ مِنْهَا بِشَيْءٍ، فَلَمَّا جَاءَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِلَى عَائِشَةَ قَالَ: «هَلْ عِنْدَكُمْ شَيْءٌ؟» قَالَتْ: لَا، إِلَّا أَنَّ نُسَيْبَةَ، بَعَثَتْ إِلَيْنَا مِنَ الشَّاةِ الَّتِي بَعَثْتُمْ بِهَا إِلَيْهَا قَالَ: «إِنَّهَا قَدْ بَلَغَتْ مَحِلَّهَا».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "13",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 113,
+                    "chapterNumber": "13",
+                    "chapterEnglish": "The Book of Zakat",
+                    "chapterUrdu": "زکوٰۃ کے احکام و مسائل",
+                    "chapterArabic": "كتاب الزَّكَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10055,
+                "hadithNumber": "2491",
+                "englishNarrator": "Abu Huraira رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Whenever the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) was presented with food, he asked about it, If he was told that it was a gift, he ate out of that, and if he was told that it was a sadaqa he did not eat out of that.",
+                "hadithUrdu": "نبی اکرم صلی اللہ علیہ وسلم کو جب کھا نا پیش کیا جا تا آپ اس کے بارے میں پو چھتے اگر یہ کہا جا تا کہ تحفہ ہے تو اسے کھا لیتے اور اگر کہا جا تا کہ صدقہ ہے تو اسے نہ کھاتے ۔",
+                "urduNarrator": "ہم سے عبدالرحمٰن بن سلام الجمحی نے بیان کیا، ہم سے الربیع یعنی ابن مسلم نے بیان کیا، انہوں نے محمد کی سند سے، جو ابن زیاد ہیں, حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ سے روایت ہے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ سَلَّامٍ الْجُمَحِيُّ، حَدَّثَنَا الرَّبِيعُ يَعْنِي ابْنَ مُسْلِمٍ، عَنْ مُحَمَّدٍ وَهُوَ ابْنُ زِيَادٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ كَانَ إِذَا أُتِيَ بِطَعَامٍ، سَأَلَ عَنْهُ، فَإِنْ قِيلَ: هَدِيَّةٌ، أَكَلَ مِنْهَا، وَإِنْ قِيلَ: صَدَقَةٌ، لَمْ يَأْكُلْ مِنْهَا.",
+                "headingArabic": "قَبُولِ النَّبِيِّ الْهَدِيَّةَ وَرَدِّهِ الصَّدَقَةَ ‏‏",
+                "headingUrdu": "نبی صلی اللہ علیہ وسلم نے تحفہ قبول کیا لیکن صدقہ دینے سے انکار کیا۔",
+                "headingEnglish": "The prophet (saws) accepted gifts but refused Charity",
+                "chapterId": "13",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 113,
+                    "chapterNumber": "13",
+                    "chapterEnglish": "The Book of Zakat",
+                    "chapterUrdu": "زکوٰۃ کے احکام و مسائل",
+                    "chapterArabic": "كتاب الزَّكَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10056,
+                "hadithNumber": "2492",
+                "englishNarrator": "Abdullah bin Abu Aufa رضی اللہ عنہ said:",
+                "hadithEnglish": "It was the common practice of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) that when the people brought to him sadaqa he blessed them: O Allah, bless them. So when Abu Aufa رضی اللہ تعالیٰ عنہ brought to him Sadaqa he (the Holy Prophet) said: O Allah, bless, the posterity of Abu Aufa رضی اللہ تعالیٰ عنہ .",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کے پاس جب لو گ ( بیت المال میں ادائیگی کے لیے ) اپنا صدقہ لا تے آپ فر ما تے اے اللہ !ال پر صلا ۃ بھیج ( رحمت فر ما ! ) میرے والد ابو اوفیٰ رضی اللہ تعالیٰ عنہ بھی آپ کے پا س اپنا صدقہ لائے تو آپ نے فر ما یا : \" اے اللہ !ابو اوفیٰ کی آل پر رحمت نا زل فر ما ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ، ابوبکر بن ابی شیبہ، عمرو ناقد اور اسحاق بن ابراہیم نے بیان کیا, وکیع اور معاذ عنبری نے شعبہ سے اور انھوں نے عمرو بن مرہ سے روایت کی انھوں نے کہا حضرت عبد اللہ بن ابی اوفیٰ رضی اللہ عنہ نے ہمیں حدیث بیان کی انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَمْرٌو النَّاقِدُ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ يَحْيَى: أَخْبَرَنَا وَكِيعٌ، عَنْ شُعْبَةَ، عَنْ عَمْرِو بْنِ مُرَّةَ، قَالَ: سَمِعْتُ عَبْدَ اللهِ بْنَ أَبِي أَوْفَى، ح وحَدَّثَنَا عُبَيْدُ اللهِ بْنُ مُعَاذٍ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا أَبِي، عَنْ شُعْبَةَ، عَنْ عَمْرٍو وَهُوَ ابْنُ مُرَّةَ، حَدَّثَنَا عَبْدُ اللهِ بْنُ أَبِي أَوْفَى، قَالَ: كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، إِذَا أَتَاهُ قَوْمٌ بِصَدَقَتِهِمْ، قَالَ: «اللهُمَّ صَلِّ عَلَيْهِمْ» فَأَتَاهُ أَبِي، أَبُو أَوْفَى بِصَدَقَتِهِ، فَقَالَ: «اللهُمَّ صَلِّ عَلَى آلِ أَبِي أَوْفَى».",
+                "headingArabic": "الدُّعَاءِ لِمَنْ أَتَى بِصَدَقَتِهِ ‏‏",
+                "headingUrdu": "صدقہ لانے والے کے لیے دعا",
+                "headingEnglish": "The supplication for the one who brings Charity",
+                "chapterId": "13",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 113,
+                    "chapterNumber": "13",
+                    "chapterEnglish": "The Book of Zakat",
+                    "chapterUrdu": "زکوٰۃ کے احکام و مسائل",
+                    "chapterArabic": "كتاب الزَّكَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10057,
+                "hadithNumber": "2493",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated by Shu'ba with the same chain of transmitters (but with a slight variation of words, that he said): (O Allah), bless them.",
+                "hadithUrdu": "ہم سے ابن نمیر نے بیان کیا، کہا کہ ہم سےعبد اللہ بن ادریس نے شعبہ سے اسی سند کے ساتھ حدیث بیان کی البتہ انھوں نے أل ابي اوفي کے بجا ئے ان سب پر رحمت بھیج \" کہا ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وَحَدَّثَنَاه ابْنُ نُمَيْرٍ، حَدَّثَنَا عَبْدُ اللهِ بْنُ إِدْرِيسَ، عَنْ شُعْبَةَ، بِهَذَا الْإِسْنَادِ، غَيْرَ أَنَّهُ قَالَ: «صَلِّ عَلَيْهِمْ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "13",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 113,
+                    "chapterNumber": "13",
+                    "chapterEnglish": "The Book of Zakat",
+                    "chapterUrdu": "زکوٰۃ کے احکام و مسائل",
+                    "chapterArabic": "كتاب الزَّكَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10058,
+                "hadithNumber": "2494",
+                "englishNarrator": "Jarir 'Abdullah said:",
+                "hadithEnglish": "'When the collector of sadaqat (Zakat) comes to you, (you should see) that he goes away pleased with you.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا : \" جب تمھا رے پاس صدقہ وصول کرنے والا آئے تو وہ تمھارے ہاں سے اس حال میں لو ٹے کہ وہ تم سے خوش ہو ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، کہا ہم سے ہشیم نے بیان کیا، کہا ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے حفص بن غیث نے اور ان سے ابو خالد الاحمر نے بیان کیا، کہا ہم سے محمد بن المثنیٰ نے بیان کیا، ان سے عبد الوہاب، ابن ابی عدی نے بیان کیا۔ اور ہم سے عبد الاعلٰی نے بیان کیا، ان سب نے مجھ سے داؤد نے بیان کیا، اور مجھ سے حرب نے بیان کیا، انہوں نے کہا: ہم سے اسماعیل بن ابراہیم نے بیان کیا۔ ہمیں الشعبی کی سند سے کہا , حضرت جریر بن عبد اللہ رضی اللہ تعالیٰ عنہ سے روایت ہے انھوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا هُشَيْمٌ، ح وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، وَأَبُو خَالِدٍ الْأَحْمَرُ، ح وحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الْوَهَّابِ، وَابْنُ أَبِي عَدِيٍّ، وَعَبْدُ الْأَعْلَى، كُلُّهُمْ عَنْ دَاوُدَ، ح وحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، - وَاللَّفْظُ لَهُ - قَالَ: حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا دَاوُدُ، عَنِ الشَّعْبِيِّ، عَنْ جَرِيرِ بْنِ عَبْدِ اللهِ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إِذَا أَتَاكُمُ الْمُصَدِّقُ فَلْيَصْدُرْ عَنْكُمْ وَهُوَ عَنْكُمْ رَاضٍ».",
+                "headingArabic": "إِرْضَاءِ السَّاعِي مَا لَمْ يَطْلُبْ حَرَامًا ‏‏",
+                "headingUrdu": "زکوٰۃ جمع کرنے والے کو راضی کرنا جب تک کہ وہ کوئی حرام چیز نہ مانگے۔",
+                "headingEnglish": "Pleasing the Zakat Collector unless he asks for something unlawful",
+                "chapterId": "13",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 113,
+                    "chapterNumber": "13",
+                    "chapterEnglish": "The Book of Zakat",
+                    "chapterUrdu": "زکوٰۃ کے احکام و مسائل",
+                    "chapterArabic": "كتاب الزَّكَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10059,
+                "hadithNumber": "2495",
+                "englishNarrator": "Abu Huraira رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) as saying: When there comes the month of Ramadan, the gates of mercy are opened, and the gates of Hell are locked and the devils are chained,",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جب رمضان آتا ہے جنت کے دروازے کھول دیئے جاتے ہیں اور دوزخ کےدروازے بند کردیئے جاتے ہیں اور شیاطین بیڑیوں میں جکڑ دیئے جاتے ہیں ۔ \"",
+                "urduNarrator": "ہم سے یحییٰ بن ایوب، قتیبہ اور ابن حجر نے بیان کیا، انہوں نے کہا  اسماعیل بن جعفر نے ابو سہیل ( نافع بن مالک بن ابی عامر ) سے ، انھوں نے اپنے والد سے ، انھوں نے حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ، وَابْنُ حُجْرٍ، قَالُوا: حَدَّثَنَا إِسْمَاعِيلُ وَهُوَ ابْنُ جَعْفَرٍ، عَنْ أَبِي سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَ: «إِذَا جَاءَ رَمَضَانُ فُتِّحَتْ أَبْوَابُ الْجَنَّةِ، وَغُلِّقَتْ أَبْوَابُ النَّارِ، وَصُفِّدَتِ الشَّيَاطِينُ».",
+                "headingArabic": "فَضْلِ شَهْرِ رَمَضَانَ ‏‏",
+                "headingUrdu": "ماہ رمضان کے فضائل",
+                "headingEnglish": "The Virtues of the month of Ramadan",
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10060,
+                "hadithNumber": "2496",
+                "englishNarrator": "Abu Huraira رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying: When it is the month of Ramadan, the gates of mercy are opened, and the gates of Hell are locked and the devils are chained.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جب رمضان ( کا آغاز ) ہوتاہے ، رحمت کے دروازے کھول دیئے جاتے ہیں اور دوزخ کے دروازے بندکردیئے جاتے ہیں اور شیاطین کو زنجیریں پہنا دی جاتی ہیں ۔ \"",
+                "urduNarrator": "مجھ سے حرملہ بن یحییٰ نے بیان کیا، کہا ہم سے ابن وہب نے بیان کیا، انہوں نے کہا یونس نے ابن شہاب سے خبردی ، انھوں نے ( ابوسہیل نافع ) ابن ابی انس سے روایت کی کہ انھیں ان کےوالد نے بیان کیا کہ انھوں نے حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ کو کہتے ہوئے سنا",
+                "hadithArabic": "وحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنِ ابْنِ أَبِي أَنَسٍ، أَنَّ أَبَاهُ حَدَّثَهُ أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ، يَقُولُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إِذَا كَانَ رَمَضَانُ فُتِّحَتْ أَبْوَابُ الرَّحْمَةِ، وَغُلِّقَتْ أَبْوَابُ جَهَنَّمَ، وَسُلْسِلَتِ الشَّيَاطِينُ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10061,
+                "hadithNumber": "2497",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith is reported by Abu Huraira (with a slight alteration of words) that the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: When (the month of) Ramadan begins.",
+                "hadithUrdu": "مجھ سے محمد بن حاتم اور الحلوانی نے بیان کیا، کہا کہ ہم سے یعقوب نے بیان کیا، ہم سے میرے والد نے بیان کیا, صالح نے ابن شہاب سے باقی ماندہ سابقہ سند سے روایت کی کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جب رمضان داخل ( شروع ) ہوتا ہے ۔ \" ( باقی الفاظ ) اسی ( یونس کی حدیث ) کے مانندہیں ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، وَالْحُلْوَانِيُّ، قَالَا: حَدَّثَنَا يَعْقُوبُ، حَدَّثَنَا أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، حَدَّثَنِي نَافِعُ بْنُ أَبِي أَنَسٍ، أَنَّ أَبَاهُ حَدَّثَهُ أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ، يَقُولُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إِذَا دَخَلَ رَمَضَانُ» بِمِثْلِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10062,
+                "hadithNumber": "2498",
+                "englishNarrator": "Ibn Umar رضی اللہ تعالیٰ عنہ reported",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying in connection with Ramadan: Do not fast till you see the new moon, and do not break fast till you see it; but if the weather is cloudy calculate about it.",
+                "hadithUrdu": "آپ نے رمضان کا ذکر کیا اور فرمایا : \" روزہ نہ رکھو حتیٰ کہ چاند دیکھ لو اور افطار ( روزوں کا اختتام ) نہ کرو حتیٰ کہ چاند دیکھ لو اوراگر تم پرمطلع ابرآلود کردیا جائے تو اس ( رمضان ) کی مقدار ( گنتی ) پوری کرو ۔ \"",
+                "urduNarrator": "یحییٰ بن یحییٰ نے کہا : میں نے مالک کے سامنے قراءت کی ، انھوں نے نافع سے ، انھوں نے حضرت ابن عمر رضی اللہ تعالیٰ عنہ سے اور انھوں نے نبی کریم صلی اللہ علیہ وسلم سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ: قَرَأْتُ عَلَى مَالِكٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ رَضِيَ اللهُ عَنْهُمَا، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ ذَكَرَ رَمَضَانَ فَقَالَ: «لَا تَصُومُوا حَتَّى تَرَوُا الْهِلَالَ، وَلَا تُفْطِرُوا حَتَّى تَرَوْهُ، فَإِنْ أُغْمِيَ عَلَيْكُمْ فَاقْدِرُوا لَهُ».",
+                "headingArabic": "وُجُوبِ صَوْمِ رَمَضَانَ لِرُؤْيَةِ الْهِلَالِ وَالْفِطْرِ لِرُؤْيَةِ الْهِلَالِ وَأَنَّهُ إِذَا غُمَّ فِي أَوَّلِهِ أَوْ آخِرِهِ أُكْمِلَتْ عِدَّةُ الشَّهْرِ ثَلَاثِينَ يَوْمًا",
+                "headingUrdu": "رمضان کا چاند نظر آنے پر روزہ رکھنا فرض ہے اور چاند نظر آنے پر روزہ توڑ دینا اور اگر مہینے کے شروع یا آخر میں ابر آلود ہو تو تیس دن پورے کیے جائیں۔",
+                "headingEnglish": "The obligation to fast Ramadan when the crescent is sighted, and to break the fast when the crescent is sighted, and that if it is cloudy at the beginning or end of the month, then the month should be completed as thirty days.",
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 10063,
+                "hadithNumber": "2499",
+                "englishNarrator": "Ibn Umar رضی اللہ تعالیٰ عنہ reported:",
+                "hadithEnglish": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) made a mention of Ramadan and he with the gesture of his hand said: The month is thus and thus. (He then withdrew his thumb at the third time). He then said: Fast when you see it, and break your fast when you see it, and if the weather is cloudy calculate it (the months of Sha'ban and Shawwal) as thirty days.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے رمضان کا ذکر کیا تو اپنے دونوں ہاتھوں سے سمجھاتے ہوئے فرمایا : \" مہینہ اس طرح اور اس طرح اوراس طرح ہوتا ہے ۔ آپ صلی اللہ علیہ وسلم نے تیسری بار اپنا انگوٹھا بند کرلیا ۔ ( یعنی 29 کی گنتی بتائی ) چاند دیکھ کر روزہ رکھو اور اسے دیکھ کر روزے ختم کرو ، اگر تمھارا مطلع ابر آلود ہوجائے تو اس کے تیس دن پورے کرو ۔ \"",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، انہوں نے کہا ابواسامہ نے کہا : عبیداللہ نے ہمیں نافع سے حدیث بیان کی ، انھوں نے ابن عمر رضی اللہ تعالیٰ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنَا عُبَيْدُ اللهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ رَضِيَ اللهُ عَنْهُمَا، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ذَكَرَ رَمَضَانَ، فَضَرَبَ بِيَدَيْهِ فَقَالَ: «الشَّهْرُ هَكَذَا، وَهَكَذَا، وَهَكَذَا - ثُمَّ عَقَدَ إِبْهَامَهُ فِي الثَّالِثَةِ - فَصُومُوا لِرُؤْيَتِهِ، وَأَفْطِرُوا لِرُؤْيَتِهِ، فَإِنْ أُغْمِيَ عَلَيْكُمْ فَاقْدِرُوا لَهُ ثَلَاثِينَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "14",
+                "bookSlug": "sahih-muslim",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 114,
+                    "chapterNumber": "14",
+                    "chapterEnglish": "The Book of Fasting",
+                    "chapterUrdu": "روزے کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصِّيَامِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 9751,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=390",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=388",
+                "label": "388",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=389",
+                "label": "389",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=390",
+                "label": "390",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=391",
+                "label": "391",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=392",
+                "label": "392",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=393",
+                "label": "393",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=394",
+                "label": "394",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=392",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=392",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=390",
+        "to": 9775,
+        "total": 40465
+    }
+}

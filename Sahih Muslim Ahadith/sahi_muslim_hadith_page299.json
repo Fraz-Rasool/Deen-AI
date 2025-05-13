@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 299,
+        "data": [
+            {
+                "id": 7739,
+                "hadithNumber": "175",
+                "englishNarrator": "It was narrated that narrated Abu Huraira رضی ‌اللہ ‌عنہ ‌said:",
+                "hadithEnglish": "\"The Messenger of Allah ﷺ said....\" a similar Hadith to that of Abu Husin, except that he said: Let him treat his neighbour bor.",
+                "hadithUrdu": "رسو ل اللہ ﷺ نے فرمایا ...... آگے ابو حصین کی روایت کے مانند ہے ، البتہ اعمش نے ( وہ اپنے پڑوسی کو ایذا نہ دے کے بجائے ) یہ الفاظ کہے ہیں : ’’ وہ اپنے پڑوسی کے ساتھ اچھا سلوک کرے ۔ ‘ ‘",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم نے بیان کیا، کہا ہم سے عیسیٰ بن یونس نے بیان کیا,اعمش نے ابو صالح سے ، انہوں نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، عَنِ الْأَعْمَشِ، عَنْ، أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: قَالَ رَسُولُ اللهِ صلَّى الله عَلَيْهِ وَسَلَّمَ بِمِثْلِ حَدِيثِ أَبِي حُصَيْنٍ، غَيْرَ أَنَّهُ قَالَ: «فَلْيُحْسِنْ إِلَى جَارِهِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7740,
+                "hadithNumber": "176",
+                "englishNarrator": "It is narrated on the authority of Abu Shuraih al-Khuzai' ‌رضی ‌اللہ ‌عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) observed: He who believes in Allah and the Last Day should do good to his neighbour and he who believes in Allah and the Last Day should show hospitality to the guest and he who believes in Allah and the Last Day should either speak good or better remain silent.",
+                "hadithUrdu": "نبی اکرم ﷺ نے فرمایا : ’’ جو شخص اللہ اور یوم آخرت پر ایمان رکھتا ہے ، وہ اپنے پڑوسی کے ساتھ حسن سلوک کرے ، اور جو کوئی اللہ اور آخرت کے دن پر یقین رکھتا ہے ، وہ اپنے مہمان کی تکریم کرے ، اور جو کوئی اللہ اور آخرت کے دن پر ایمان رکھتا ہے ، وہ اچھی بات کہے یا خاموشی اختیار کرے ۔ ‘ ‘",
+                "urduNarrator": "ہم سے زہیر بن حرب اور محمد بن عبداللہ بن نمیر نے بیان کیا، ابن عیینہ نے کہا: ہم سے سفیان نے عمرو کی روایت سے بیان کیا کہ انہوں نے نافع بن جبیر سے سنا۔ابو شریح ( خویلد بن عمرو ) خزاعی ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت ہے کہ",
+                "hadithArabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَمُحَمَّدُ بْنُ عَبْدِ اللهِ بْنِ نُمَيْرٍ، جَمِيعًا عَنِ ابْنِ عُيَيْنَةَ، قَالَ ابْنُ نُمَيْرٍ: حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، أَنَّهُ سَمِعَ نَافِعَ بْنَ جُبَيْرٍ يُخْبِرُ، عَنْ أَبِي شُرَيْحٍ الْخُزَاعِيِّ، أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنْ كَانَ يُؤْمِنُ بِاللهِ وَالْيَوْمِ الْآخِرِ فَلْيُحْسِنْ إِلَى جَارِهِ، وَمَنْ كَانَ يُؤْمِنُ بِاللهِ وَالْيَوْمِ الْآخِرِ فَلْيُكْرِمْ ضَيْفَهُ، وَمَنْ كَانَ يُؤْمِنُ بِاللهِ وَالْيَوْمِ الْآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَسْكُتْ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7741,
+                "hadithNumber": "177",
+                "englishNarrator": "It is narrated on the authority of Tariq bin Shihab:",
+                "hadithEnglish": "It was Marwan who initiated (the practice) of delivering khutbah (address) before the prayer on the 'Id day. A man stood up and said: Prayer should precede khutbah. He (Marwan) remarked, This (practice) has been done away with. Upon this Abu Sa'id رضی ‌اللہ ‌عنہ ‌remarked: This man has performed (his duty) laid on him. I heard the Messenger of Allah as saying: He who amongst you sees something abominable should modify it with the help of his hand; and if he has not strength enough to do it, then he should do it with his tongue, and if he has not strength enough to do it, (even) then he should (abhor it) from his heart, and that is the least of faith.",
+                "hadithUrdu": "پہلا شخص جس نے عید کے دن نماز سے پہلے خطبے کا آغاز کیا ، مروان تھا ۔ ایک آدمی اس کے سامنے کھڑا ہو گیا اور کہا : ’’نما ز خطبے سے پہلے ہے ؟ ‘ ‘ مروان نے جواب دیا : جو طریقہ ( یہاں پہلے ) تھا ، وہ ترک کر دیا گیا ہے ۔ اس پر ابو سعید ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا : اس انسان نے ( جس سے صحیح بات کہی تھی ) اپنی ذمہ داری پوری کر دی ہے ۔ میں نے رسول اللہ ﷺ سے سنا ، آپ فرما رہے تھے : ’’ تم میں سے جوشخص منکر ( ناقابل قبول کام ) دیکھے اس پر لازم ہے کہ اسے اپنے ہاتھ ( قوت ) سے بدل دے اوراگر اس کی طاقت نہ رکھتا ہو تو اپنے دل سے ( اسے برا سمجھے اور اس کے بدلنے کی مثبت تدبیر سوچے ) اور یہ سب سے کمزور ایمان ہے ۔ ‘ ‘",
+                "urduNarrator": "ابو بکر بن ابی شیبہ نے کہا : ہمیں وکیع نے سفیان سے حدیث سنائی ، نیز محمد بن مثنیٰ نے کہا : ہمیں محمد بن جعفر نے اورانہیں شعبہ نے حدیث سنائی ، ان دونوں ( سفیان اور شعبہ ) نے قیس بن مسلم سے اور انہوں نے طارق بن شہاب سے روایت کی ، الفاظ ابو بکر بن ابی شیبہ کے ہیں ۔ طارق بن شہاب نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ كِلَاهُمَا، عَنْ قَيْسِ بْنِ مُسْلِمٍ، عَنْ طَارِقِ بْنِ شِهَابٍ - وَهَذَا حَدِيثُ أَبِي بَكْرٍ - قَالَ: أَوَّلُ مَنْ بَدَأَ بِالْخُطْبَةِ يَوْمَ الْعِيدِ قَبْلَ الصَّلَاةِ مَرْوَانُ. فَقَامَ إِلَيْهِ رَجُلٌ، فَقَالَ: الصَّلَاةُ قَبْلَ الْخُطْبَةِ، فَقَالَ: قَدْ تُرِكَ مَا هُنَالِكَ، فَقَالَ أَبُو سَعِيدٍ: أَمَّا هَذَا فَقَدْ قَضَى مَا عَلَيْهِ سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «مَنْ رَأَى مِنْكُمْ مُنْكَرًا فَلْيُغَيِّرْهُ بِيَدِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِلِسَانِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِقَلْبِهِ، وَذَلِكَ أَضْعَفُ الْإِيمَانِ».",
+                "headingArabic": "بَيَانِ كَوْنِ النَّهْىِ عَنِ الْمُنْكَرِ، مِنَ الإِيمَانِ وَأَنَّ الإِيمَانَ يَزِيدُ وَيَنْقُصُ وَأَنَّ الأَمْرَ بِالْمَعْرُوفِ وَالنَّهْيَ عَنِ الْمُنْكَرِ وَاجِبَانِ",
+                "headingUrdu": "یہ واضح کرنا کہ برائی سے منع کرنا ایمان کا حصہ ہے، ایمان بڑھتا اور گھٹتا ہے۔ اچھی چیز سے لطف اندوز ہونا اور برائی سے منع کرنا واجب ہے۔",
+                "headingEnglish": "Clarifying that forbidding evil is part of faith, faith increases and decreases; Enjoying what is good and forbidding what is evil are obligatory",
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7742,
+                "hadithNumber": "178",
+                "englishNarrator": null,
+                "hadithEnglish": "A similar Hadith was narrated concering the story of Marvan, and the Hadith Abu Saeed ‌رضی ‌اللہ ‌عنہ from the Prophet ( ﷺ).",
+                "hadithUrdu": "ہم سے ابو کریب محمد بن الاعلٰی نے بیان کیا، کہا ہم سے ابو معاویہ نے بیان کی اعمش نے اسماعیل بن رجاء سے ، انہوں نے اپنے والد ( رجاء بن ربیعہ ) سے اور انہوں نے حضرت ابوسعید خدری ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے ، نیز اعمش نے قیس بن مسلم سے ، انہوں نے طارق بن شہاب سے اور انہوں نے ابو سعید خدری ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے مروان کا مذکورہ بالا واقعہ اور ابو سعید خدری ‌رضی ‌اللہ ‌عنہ ‌ ‌ کی حدیث جو انہوں نے نبی ﷺ سے سنی ، اسی طرح بیان کی جس طرح شعبہ اور سفیان نے بیان کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا أَبُو كُرَيْبٍ مُحَمَّدُ بْنُ الْعَلَاءِ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا الْأَعْمَشُ، عَنْ إِسْمَاعِيلَ بْنِ رَجَاءٍ، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، وَعَنْ قَيْسِ بْنِ مُسْلِمٍ، عَنْ طَارِقِ بْنِ شِهَابٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، فِي قِصَّةِ مَرْوَانَ، وَحَدِيثِ أَبِي سَعِيدٍ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِ حَدِيثِ شُعْبَةَ، وَسُفْيَانَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7743,
+                "hadithNumber": "179",
+                "englishNarrator": "It is narrated on the authority 'Abdullah bin Mas'ud رضی ‌اللہ ‌عنہ ‌:",
+                "hadithEnglish": "The Messenger of Allah (ﷺ) observed: Never a Prophet had been sent before me by Allah towards his nation who had not among his people (his) disciples and companions who followed his ways and obeyed his command. Then there came after them their successors who said whatever they did not practise, and practised whatever they were not commanded to do. He who strove against them with his hand was a believer: he who strove against them with his tongue was a believer, and he who strove against them with his heart was a believer and beyond that there is no faith even to the extent of a mustard seed. Abu Rafi' said: I narrated this hadith to 'Abdullah bin 'Umar رضی ‌اللہ ‌عنہ ‌; he contradicted me. There happened to come 'Abdullah bin Mas'ud رضی ‌اللہ ‌عنہ who stayed at Qanat, and 'Abdullah bin 'Umar رضی ‌اللہ ‌عنہ ‌wanted me to accompany him for visiting him (as 'Abdullah bin Mas'ud رضی ‌اللہ ‌عنہ ‌was ailing), so I went along with him and as we sat (before him) I asked Ibn Mas'ud about this hadith. He narrated it in the same way as I narrated it to Ibn 'Umar.",
+                "hadithUrdu": "رسول اللہ ﷺ نے فرمایا : ’’ اللہ نے مجھ پر پہلے کسی امت میں جتنے بھی نبی بھیجے ، ان کی امت میں سے ان کے کچھ حواری اور ساتھی ہوتے تھے جوان کی سنت پر چلتے اور ان کے حکم کی اتباع کرتے تھے ، پھر ایسا ہوتا تھا کہ ان کے بعد نالائق لوگ ان کے جانشیں بن جاتے تھے ۔ وہ ( زبان سے ) ایسی باتیں کہتے جن پر خود عمل نہیں کرتے تھے اور ایسے کا م کرتے تھے جن کا ان کو حکم نہ دیا گیا تھا ، چنانچہ جس نے ان ( جیسے لوگوں ) کے خلاف اپنے دست و بازو سے جہاد کیا ، وہ مومن ہے اور جس نے ان کے خلاف اپنی زبان سے جہاد کیا ، وہ مومن ہے اور جس نے اپنے دل سے ان کے خلاف جہاد کیا وہ بھی مومن ہے ( لیکن ) اس سے پیچھے رائی کے دانے برابر بھی ایمان نہیں ۔ ‘ ‘ ابو رافع نے کہا : میں نے یہ حدیث عبد اللہ بن عمر ‌رضی ‌اللہ ‌عنہ ‌ ‌ کو سنائی تو وہ اس کو نہ مانے ۔ اتفاق سے عبد اللہ بن مسعود ‌رضی ‌اللہ ‌عنہ ‌ ‌ بھی ( مدینہ ) آ گئے اور وادی قتاۃ ( مدینہ کی وادی ہے ) میں ٹھہرے ۔ عبد اللہ بن عمر ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے مجھے بھی ان کی عیادت کے لیے اپنے ساتھ چلنے کو کہا ۔ میں ان کے ساتھ چلا گیا ہم جب جاکر بیٹھ گیا تو میں نےعبداللہ بن مسعود ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے اس حدیث کے بارے میں پوچھا تو انہوں نے مجھے یہ حدیث اسی طرح سنائی جس طرح میں عبداللہ بن عمر ‌رضی ‌اللہ ‌عنہ ‌ ‌ کوسنائی تھی ۔ صالح بن کیسان نےکہا : یہ حدیث ابو رافع سے ( براہ راست بھی ) اسی طرح روایت کی گئی ہے ۔",
+                "urduNarrator": "مجھ سے عمرو نقید، ابوبکر بن النضر اور عبد بن حمید نے بیان کیا، اور یہ لفظ عبد کے لیے ہے، انہوں نے کہا, ہم سے یعقوب، ابراہیم بن سعد نے بیان کیا، انہوں نے کہا: مجھ سے میرے والد نے بیان کیا, عن صالح بن کیسان نے حارث ( بن فضیل ) سے ، انہوں نے جعفر بن عبد اللہ بن حکم سے ، انہوں نے عبد الرحمٰن بن مسور سے ، انہوں نے ( رسول اللہ ﷺکے آزاد کردہ غلام ) ابو رافع سے اور انہوں نے حضرت عبد اللہ بن مسعود ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنِي عَمْرٌو النَّاقِدُ، وَأَبُو بَكْرِ بْنُ النَّضْرِ، وَعَبْدُ بْنُ حُمَيْدٍ، وَاللَّفْظُ لِعَبْدٍ، قَالُوا: حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ، قَالَ: حَدَّثَنِي أَبِي، عَنْ صَالِحِ بْنِ كَيْسَانَ، عَنِ الْحَارِثِ، عَنْ جَعْفَرِ بْنِ عَبْدِ اللهِ بْنِ الْحَكَمِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْمِسْوَرِ، عَنْ أَبِي رَافِعٍ، عَنْ عَبْدِ اللهِ بْنِ مَسْعُودٍ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَا مِنْ نَبِيٍّ بَعَثَهُ اللهُ فِي أُمَّةٍ قَبْلِي إِلَّا كَانَ لَهُ مِنْ أُمَّتِهِ حَوَارِيُّونَ، وَأَصْحَابٌ يَأْخُذُونَ بِسُنَّتِهِ وَيَقْتَدُونَ بِأَمْرِهِ، ثُمَّ إِنَّهَا تَخْلُفُ مِنْ بَعْدِهِمْ خُلُوفٌ يَقُولُونَ مَا لَا يَفْعَلُونَ، وَيَفْعَلُونَ مَا لَا يُؤْمَرُونَ، فَمَنْ جَاهَدَهُمْ بِيَدِهِ فَهُوَ مُؤْمِنٌ، وَمَنْ جَاهَدَهُمْ بِلِسَانِهِ فَهُوَ مُؤْمِنٌ، وَمَنْ جَاهَدَهُمْ بِقَلْبِهِ فَهُوَ مُؤْمِنٌ، وَلَيْسَ وَرَاءَ ذَلِكَ مِنَ الْإِيمَانِ حَبَّةُ خَرْدَلٍقَالَ أَبُو رَافِعٍ: فَحَدَّثْتُ عَبْدَ اللهِ بْنَ عُمَرَ فَأَنْكَرَهُ عَلَيَّ، فَقَدِمَ ابْنُ مَسْعُودٍ فَنَزَلَ بِقَنَاةَ فَاسْتَتْبَعَنِي إِلَيْهِ عَبْدُ اللهِ بْنُ عُمَرَ يَعُودُهُ، فَانْطَلَقْتُ مَعَهُ فَلَمَّا جَلَسْنَا سَأَلْتُ ابْنَ مَسْعُودٍ عَنْ هَذَا الْحَدِيثِ، فَحَدَّثَنِيهِ كَمَا حَدَّثْتُهُ ابْنَ عُمَرَ، قَالَ صَالِحٌ: وَقَدْ تُحُدِّثَ بِنَحْوِ ذَلِكَ عَنْ أَبِي رَافِعٍ،.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7744,
+                "hadithNumber": "180",
+                "englishNarrator": "It was narrated from Abu Rafi:",
+                "hadithEnglish": "The freed slave of the prophet ﷺ, from Abdullah bin Mas'ud رضی ‌اللہ ‌عنہ ‌ There was no prophet who did not have disciples who followed his guidance and his path,\" similar to the Hadith of Salih (no. 179), but he did not mention the coming of Ibn Mas'ud ‌رضی ‌اللہ ‌عنہ ‌or Ibn 'Umar ‌رضی ‌اللہ ‌عنہ ‌meeting with him.",
+                "hadithUrdu": "انہوں نے حضرت عبد اللہ بن مسعود ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ رسول اللہ ﷺ نے فرمایا : ’’ جو بھی نبی گزرا ہے اس کے ساتھ کچھ حواری تھے جو اس ( نبی ) کے نمونہ زندگی کو اپناتے اور اس کی سنت کی پیروی کرتے تھے .... ‘ ‘ صالح کی روایت کی طرح ۔ لیکن ( عبد العزیز نے ) عبداللہ بن مسعود ‌رضی ‌اللہ ‌عنہ ‌ ‌ کی آمد اور عبد اللہ بن عمر ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے ان کی ملاقات کا ذکر نہیں کیا ۔",
+                "urduNarrator": "ہم سے ابوبکر بن اسحاق بن محمد نے بیان کیا، کہا ہم سے ابن ابی مریم نے بیان کیا، انہوں نےحارث بن فضیل خطمی سے ( صالح بن کیسان کے بجائے ) عبدالعزیز بن محمد کی سند کےساتھ رسول اللہ ﷺ کے مولیٰ ابو رافع سے روایت ہے",
+                "hadithArabic": "وَحَدَّثَنِيهِ أَبُو بَكْرِ بْنُ إِسْحَاقَ بْنِ مُحَمَّدٍ، أَخْبَرَنَا ابْنُ أَبِي مَرْيَمَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، قَالَ: أَخْبَرَنِي الْحَارِثُ بْنُ الْفُضَيْلِ الْخَطْمِيُّ، عَنْ جَعْفَرِ بْنِ عَبْدِ اللهِ بْنِ الْحَكَمِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْمِسْوَرِ بْنِ مَخْرَمَةَ، عَنْ أَبِي رَافِعٍ مَوْلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، عَنْ عَبْدِ اللهِ بْنِ مَسْعُودٍ: أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَا كَانَ مِنْ نَبِيٍّ إِلَّا وَقَدْ كَانَ لَهُ حَوَارِيُّونَ يَهْتَدُونَ بِهَدْيِهِ، وَيَسْتَنُّونَ بِسُنَّتِهِ» مِثْلَ حَدِيثِ صَالِحٍ، وَلَمْ يَذْكُرْ قُدُومَ ابْنِ مَسْعُودٍ وَاجْتِمَاعَ ابْنِ عُمَرَ مَعَهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7745,
+                "hadithNumber": "181",
+                "englishNarrator": "It is narrated on the authority of Ibn Mas'ud رضی ‌اللہ ‌عنہ :",
+                "hadithEnglish": "The Messenger of Allah (ﷺ) pointed towards Yemen with his hand and said: Verily Iman is towards this side, and harshness and callousness of the hearts is found amongst the rude owners of the camels who drive them behind their tails (to the direction) where emerge the two horns of Satan, they are the tribes of Rabi'a and Mudar.",
+                "hadithUrdu": "نبی اکرم ﷺ نے ہاتھ سے یمن کی طرف اشارہ کیا اور فرمایا : ’’ دیکھو ! ایمان ادھر ہے ۔ اور شقاوت اور سنگ لی اونٹوں کی دموں کی جڑوں کے پاس چیخنے والوں ربیعہ اور مضر میں ہے ، جس کی طرف سے شیطان کے دو سینگ نمودار ہوتے ہیں ۔ ‘ ‘",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے ابو اسامہ نے بیان کیا، کہا ہم سے ابن نمیر نے بیان کیا، انہیں ابی نے، کہا کہ ہم سے ابو کریب نے بیان کیا، کہا کہ ہم سے ابن ادریس نے بیان کیا، ان سب میں سے نہیں، اسماعیل بن ابی خالد کی سند سے۔ ہم سے یحییٰ بن حبیب الحارثی نے بیان کیا - اور تلفظ ان کا ہے - ہم سے معتمر نے بیان کیا، انہوں نے کہا: میں نے قیس کوحضرت ابو مسعود ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت ہے ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، ح وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، ح وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا ابْنُ إِدْرِيسَ كُلُّهُمْ، عَنْ إِسْمَاعِيلَ بْنِ أَبِي خَالِدٍ، ح وَحَدَّثَنَا يَحْيَى بْنُ حَبِيبٍ الْحَارِثِيُّ - وَاللَّفْظُ لَهُ - حَدَّثَنَا مُعْتَمِرٌ، عَنْ إِسْمَاعِيلَ، قَالَ: سَمِعْتُ قَيْسًا يَرْوِي عَنْ أَبِي مَسْعُودٍ، قَالَ: أَشَارَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِيَدِهِ نَحْوَ الْيَمَنِ، فَقَالَ: «أَلَا إِنَّ الْإِيمَانَ هَهُنَا، وَإِنَّ الْقَسْوَةَ وَغِلَظَ الْقُلُوبِ فِي الْفَدَّادِينَ، عِنْدَ أُصُولِ أَذْنَابِ الْإِبِلِ، حَيْثُ يَطْلُعُ قَرْنَا الشَّيْطَانِ فِي رَبِيعَةَ، وَمُضَرَ».",
+                "headingArabic": "تَفَاضُلِ أَهْلِ الإِيمَانِ فِيهِ وَرُجْحَانِ أَهْلِ الْيَمَنِ فِيهِ ‏",
+                "headingUrdu": "لوگ ایمان میں ایک دوسرے پر فضیلت رکھتے ہیں اور ایمان میں اہل یمن کی فضیلت",
+                "headingEnglish": "People excel over one another in faith, and the superiority of the people of Yemen in faith",
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7746,
+                "hadithNumber": "182",
+                "englishNarrator": "It is narrated on the authority of Abu Huraira رضی ‌اللہ ‌عنہ ‌:",
+                "hadithEnglish": "The Messenger of Allah ﷺ observed: There have come the people of Yemen; they are tender of hearts, the belief is that of the Yemenites, the understanding (of the faith) is that of the Yemenites and sagacity is that of the Yemenites.",
+                "hadithUrdu": "رسول اللہﷺ نے فرمایا : ’’ اہل یمن آئے ہیں ۔ یہ لوگ بہت زیادہ نرم دل ہیں ۔ ایمان یمنی ہے ، فقہ یمنی ہے اور دانائی ( بھی ) یمنی ہے ۔ ‘ ‘",
+                "urduNarrator": "ہم سے ابو الربیع الزہرانی نے بیان کیا، ہم سے حماد نے بیان کیا، ہم سے ایوب نے کہا , ہمیں محمد ( ابن سیرین ) نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے حدیث سنائی ، انہوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الرَّبِيعِ الزَّهْرَانِيُّ، أَنْبَأَنَا حَمَّادٌ، حَدَّثَنَا أَيُّوبُ حَدَّثَنَا مُحَمَّدٌ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «جَاءَ أَهْلُ الْيَمَنِ، هُمْ أَرَقُّ أَفْئِدَةً، الْإِيمَانُ يَمَانٍ، وَالْفِقْهُ يَمَانٍ، وَالْحِكْمَةُ يَمَانِيَةٌ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7747,
+                "hadithNumber": "183",
+                "englishNarrator": "It was narrated that Abu Hurairah رضی ‌اللہ ‌عنہ said:",
+                "hadithEnglish": "The Messenger of Allah ﷺ said.... \" a similar Hadith.",
+                "hadithUrdu": "رسول اللہ ﷺ نے فرمایا ... اسی پچھلی ( حدیث ) کے مانند ۔",
+                "urduNarrator": "ہم سے محمد بن المثنیٰ نے بیان کیا، کہا ہم سے ابن ابی عدی نے بیان کیا، کہا ہم سے عمرو الناقد نے بیان کیا، ہم سے اسحاق بن یوسف الازرق نے بیان کیا,( عبد اللہ ) ابن عون نے محمد ( ابن سیرین ) سے ، انہوں نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سےر وایت کی ، انہوں نے کہا کہ",
+                "hadithArabic": "دَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، ح وَحَدَّثَنِي عَمْرٌو النَّاقِدُ، حَدَّثَنَا إِسْحَاقُ بْنُ يُوسُفَ الْأَزْرَقُ كِلَاهُمَا، عَنِ ابْنِ عَوْنٍ، عَنْ مُحَمَّدٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7748,
+                "hadithNumber": "184",
+                "englishNarrator": "Abu Huraira reported:",
+                "hadithEnglish": "The Messenger of Allah (may peace and blessings be upon him) observed: There came to you the people from Yemen; they are tender of hearts and mild of feelings, the understanding is Yemenite, the sagacity is Yemenite.",
+                "hadithUrdu": "رسو ل ا للہ ﷺ نے فرمایا : ’’ تمہارے پاس یمنی لوگ آئے ہیں ، وہ زیادہ کمزور دل اور سینوں میں زیادہ رقت رکھنے والے ہیں ۔ فقہ یمنی ہے اور حکمت ( بھی ) یمنی ہے ۔ ‘ ‘",
+                "urduNarrator": "مجھ سے عمرو ناقد اور حسن الحلوانی نے بیان کیا، کہا, ہم سے یعقوب نے جو ابراہیم بن سعد کے بیٹے ہیں، بیان کیا، ہم سے میرے والد ,صالح نے اعرج سے روایت کی ، انہوں نے کہا کہ حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا",
+                "hadithArabic": "وَحَدَّثَنِي عَمْرٌو النَّاقِدُ، وَحَسَنٌ الْحُلْوَانِيُّ، قَالَا: حَدَّثَنَا يَعْقُوبُ وَهُوَ ابْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ، حَدَّثَنَا أَبِي، عَنْ صَالِحٍ، عَنِ الْأَعْرَجِ، قَالَ: قَالَ أَبُو هُرَيْرَةَ قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «أَتَاكُمْ أَهْلُ الْيَمَنِ هُمْ أَضْعَفُ قُلُوبًا وَأَرَقُّ أَفْئِدَةً، الْفِقْهُ يَمَانٍ، وَالْحِكْمَةُ يَمَانِيَةٌ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7749,
+                "hadithNumber": "185",
+                "englishNarrator": "It is narrated on the authority of Abu Huraira رضی ‌اللہ ‌عنہ ‌:",
+                "hadithEnglish": "The Messenger of Allah (may peace and blessings be upon him) remarked: The summit of unbelief is towards the East and the pride and conceitedness is found among the owners of horses and camels who are rude and uncivil, people of the tents, and tranquillity is found among those who rear goats and sheep.",
+                "hadithUrdu": "رسو ل اللہ ﷺ نے فرمایا : ’’کفر کی ریاست مشرق کی طرف ہے ۔ فخر و تکبر گھوڑوں اور اونٹوں والوں میں ہے ( جو اونچی آواز میں چلانے والے اوراون کے خیموں میں رہنے والے ہیں ) اور اطمینان و سکون بکریاں پالنے والوں میں ہے ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، انہوں نے کہا: میں نے مالک رضی اللہ عنہ کو ابو الزناد   نے اعرج سے اور انہوں نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ: قَرَأْتُ عَلَى مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الْأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «رَأْسُ الْكُفْرِ نَحْوَ الْمَشْرِقِ، وَالْفَخْرُ وَالْخُيَلَاءُ فِي أَهْلِ الْخَيْلِ وَالْإِبِلِ الْفَدَّادِينَ، أَهْلِ الْوَبَرِ وَالسَّكِينَةُ فِي أَهْلِ الْغَنَمِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7750,
+                "hadithNumber": "186",
+                "englishNarrator": "It is narrated on the authority of Abu Huraira رضی ‌اللہ ‌عنہ ‌:",
+                "hadithEnglish": "The Messenger of Allah (ﷺ) observed: The belief is among the Yemenites, and the unbelief is towards the East, and tranquillity is among those who rear goats and sheep, and pride and simulation is among the uncivil and rude owners of horses and camels.",
+                "hadithUrdu": "رسول اللہ ﷺ نے فرمایا : ’’ ایمان یمن سے ہے ، کفر مشرق کی طرف سے ، سکون و اطمینان بھیڑ بکریاں پالنے والوں میں اور فخرو ریا شور شرابے کے عادی گھوڑے پالنے والوں اور اونی خیموں کے باسی ، چلانے والوں میں ہے ۔ ‘ ‘",
+                "urduNarrator": "مجھ سے یحییٰ بن ایوب، قتیبہ اور ابن حجر نے بیان کیا، اسماعیل بن جعفر نے کہا: ہم سے اسماعیل نے بیان کیا، انہوں نے کہا: مجھے علاء ( بن عبدالرحمان الجہنی ) نے اپنے والد سے ، انہوں نے ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+                "hadithArabic": "وَحَدَّثَنِي يَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ، وَابْنُ حُجْرٍ، عَنْ إِسْمَاعِيلَ بْنِ جَعْفَرٍ، قَالَ ابْنُ أَيُّوبَ: حَدَّثَنَا إِسْمَاعِيلُ، قَالَ: أَخْبَرَنِي الْعَلَاءُ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ: أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «الْإِيمَانُ يَمَانٍ، وَالْكُفْرُ قِبَلَ الْمَشْرِقِ، وَالسَّكِينَةُ فِي أَهْلِ الْغَنَمِ، وَالْفَخْرُ وَالرِّيَاءُ فِي الْفَدَّادِينَ أَهْلِ الْخَيْلِ وَالْوَبَرِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7751,
+                "hadithNumber": "187",
+                "englishNarrator": "It is reported on the authority of Abu Huraira رضی ‌اللہ ‌عنہ :",
+                "hadithEnglish": "I heard the Messenger of Allah saying this: Pride and conceitedness is found among the uncivil owners of the camels and tranquillity is found among the owners of sheep and goats.",
+                "hadithUrdu": "میں نے رسو ل اللہ ﷺ کو فرماتے ہوئے سنا : ’’فخر و تکبر چلا کر بولنے والے ، خیموں کے باسیوں میں ہے اور اطمینان و سکون بھیڑ بکریاں والوں میں ہے ۔ ‘ ‘",
+                "urduNarrator": "مجھ سے حرملہ بن یحییٰ نے بیان کیا، کہا ہم سے ابن وہب نے بیان کیا، انہوں نے کہا, مجھ سےیونس نے ابن شہاب سے روایت کی ، انہوں نے کہا مجھے ابو سلمہ بن عبد الرحمٰن نے خبر دی کہ حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا کہ",
+                "hadithArabic": "وَحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، قَالَ: أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ: أَخْبَرَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، أَنَّ أَبَا هُرَيْرَةَ، قَالَ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «الْفَخْرُ وَالْخُيَلَاءُ فِي الْفَدَّادِينَ أَهْلِ الْوَبَرِ، وَالسَّكِينَةُ فِي أَهْلِ الْغَنَمِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7752,
+                "hadithNumber": "188",
+                "englishNarrator": "A similar Hadith was narrated from Az-Zuhri with his chain, and he added:",
+                "hadithEnglish": "\"(True) faith is that of the Yemenis, true wisdom is that of the Yemenis.\"",
+                "hadithUrdu": "’’ ایمان یمنی ہے اور حکمت بھی یمنی ہے",
+                "urduNarrator": "ہم سے عبداللہ بن عبدالرحمٰن الدارمی نے بیان کیا، کہا ہم سے ابو الیمان نے بیان کیا,شعیب نے زہری سے اسی سند کے ساتھ یہی روایت کی اور ( آخرمیں یہ ) اضافہ کیا",
+                "hadithArabic": "وَحَدَّثَنَا عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ الدَّارِمِيُّ، أَخْبَرَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، بِهَذَا الْإِسْنَادِ مِثْلَهُ، وَزَادَ: «الْإِيمَانُ يَمَانٍ وَالْحِكْمَةُ يَمَانِيَةٌ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7753,
+                "hadithNumber": "189",
+                "englishNarrator": "It was narrated from Az-Zuhri, Saeed bin Al-Musayyab told me that Abu Huraira ‌رضی ‌اللہ ‌عنہ said:",
+                "hadithEnglish": "I heard the Prophet (ﷺ) saying: There came the people of Yemen, they are tender of feelings and meek of hearts. The belief is that of the Yemenites, the sagacity is that of the Yemenites, the tranquillity is among the owners of goats and sheep, and pride and conceitedness is among the uncivil owners of the camels, the people of the tents in the direction of sunrise.",
+                "hadithUrdu": "میں نے نبی اکرمﷺ کو فرماتے ہوئے سنا  ’’ اہل یمن آئے ہیں ، ان کے دل ( دوسروں سے ) زیادہ نرم ہیں اور مزاجوں میں زیادہ رقت ہے ۔ ایمان یمنی ہے اور حکمت بھی یمنی ہے ۔ سکون ، بھیڑ بکریاں پالنے والوں میں ہے اور فخر و تکبر اونی خیموں کے باسی ، چیخنے چلانے والے لوگوں میں ، جو سورج طلوع ہونے تک کی سمت میں ( رہتے ہیں ۔ ) ‘ ‘",
+                "urduNarrator": "ہم سے عبداللہ بن عبدالرحمٰن نے بیان کیا، کہا ہم سے ابوالیمان نے بیان کیا، انہوں نے شعیب کی سند سے، وہ زہری کی سند سے، انہوں نےسعید بن مسیت نے حدیث بیان کی کہ حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ، أَخْبَرَنَا أَبُو الْيَمَانِ، عَنْ شُعَيْبٍ، عَنِ الزُّهْرِيِّ، حَدَّثَنِي سَعِيدُ بْنُ الْمُسَيِّبِ، أَنَّ أَبَا هُرَيْرَةَ، قَالَ: سَمِعْتُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «جَاءَ أَهْلُ الْيَمَنِ هُمْ أَرَقُّ أَفْئِدَةً، وَأَضْعَفُ قُلُوبًا، الْإِيمَانُ يَمَانٍ، وَالْحِكْمَةُ يَمَانِيَةٌ، السَّكِينَةُ فِي أَهْلِ الْغَنَمِ، وَالْفَخْرُ وَالْخُيَلَاءُ فِي الْفَدَّادِينَ، أَهْلِ الْوَبَرِ، قِبَلَ مَطْلِعِ الشَّمْسِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7754,
+                "hadithNumber": "190",
+                "englishNarrator": "It is reporter on the authority of Abu Huraira رضی ‌اللہ ‌عنہ ‌:",
+                "hadithEnglish": "The Messenger of Allah (ﷺ) observed: There came the people of Yemen who are soft of hearts, tender in feelings: the belief is that of the Yemenites, the sagacity is that of the Yemenites and the summit of unbelief is towards the East.",
+                "hadithUrdu": "رسول اللہ ﷺ نے فرمایا : ’’ تمہارے پاس اہل یمن آئے ہیں ۔ وہ دلوں کے زیادہ نرم اور مزاجوں میں زیادہ رقت رکھنے والے ہیں ۔ ایمان یمنی ہے ، حکمت بھی یمن سے ہے اور کفر کا مرکز مشرق کی طرف کی طرف ہے ۔ ‘ ‘",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ اور ابو کریب نے بیان کیا، انہوں نے کہا, ہم سے انہوں نے بیان کیا,ابو معاویہ نے اعمش سے حدیث سنائی ، انہوں نے ابو صالح سے اور انہوں نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ، انہوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ، قَالَا: حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الْأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «أَتَاكُمْ أَهْلُ الْيَمَنِ، هُمْ أَلْيَنُ قُلُوبًا وَأَرَقُّ أَفْئِدَةً، الْإِيمَانُ يَمَانٍ، وَالْحِكْمَةُ يَمَانِيَةٌ، رَأْسُ الْكُفْرِ قِبَلَ الْمَشْرِقِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7755,
+                "hadithNumber": "191",
+                "englishNarrator": "Jarir narrated from Al-Amash (a Hadith similar to no. 189) with this chain:",
+                "hadithEnglish": "but he did not mention: \"The head of disbelief is towards the east.",
+                "hadithUrdu": "لیکن اس نے ’’ کفر کا مرکز مشرق کی طرف ہے ‘ ‘ کے الفاظ ذکر نہیں کیے.",
+                "urduNarrator": "ہم سے قتیبہ بن سعید اور زہیر بن حرب نے بیان کیا، کہا کہ ہم سےجریر نے اعمش سے اسی سند کے ساتھ حدیث بیان کی",
+                "hadithArabic": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَزُهَيْرُ بْنُ حَرْبٍ، قَالَا: حَدَّثَنَا جَرِيرٌ، عَنِ الْأَعْمَشِ بِهَذَا الْإِسْنَادِ. وَلَمْ يَذْكُرْ: رَأْسُ الْكُفْرِ قِبَلَ الْمَشْرِقِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7756,
+                "hadithNumber": "192",
+                "englishNarrator": "Shu'ba narrated the hadith as reported by Jarir with the same chain of narrators with this addition:",
+                "hadithEnglish": "Pride and conceitedness is among the owners of the camels and tranquillity and sobriety is found amongst the owners of sheep.",
+                "hadithUrdu": "’’غرور اور گھمنڈ اونٹ والوں میں اور سکون ووقار بھیڑ بکری ( پالنے ) والوں میں ہے ۔ ‘ ‘",
+                "urduNarrator": "ہم سے محمد بن المثنیٰ نے بیان کیا، ہم سے ابن ابی عدی نے بیان کیا، ہم سے بشر بن خالد نے بیان کیا، ان سے محمد نے، یعنی ہم سے ابن جعفر نے بیان کیا، انہوں نے کہا: ہم سےشعبہ نے اعمش سے سابقہ سند کے ساتھ جریر کی طرح حدیث سنائی اور یہ ا لفاظ زائد بیان کیے کہ",
+                "hadithArabic": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، ح وَحَدَّثَنِي بِشْرُ بْنُ خَالِدٍ، حَدَّثَنَا مُحَمَّدٌ يَعْنِي ابْنَ جَعْفَرٍ قَالَا: حَدَّثَنَا شُعْبَةُ، عَنِ الْأَعْمَشِ بِهَذَا الْإِسْنَادِ، مِثْلَ حَدِيثِ جَرِيرٍ وَزَادَ: «وَالْفَخْرُ وَالْخُيَلَاءُ فِي أَصْحَابِ الْإِبِلِ، وَالسَّكِينَةُ وَالْوَقَارُ فِي أَصْحَابِ الشَّاءِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7757,
+                "hadithNumber": "193",
+                "englishNarrator": "It is reported on the authority of Jabir bin Abdullah رضی ‌اللہ ‌عنہ ‌:",
+                "hadithEnglish": "The Messenger of Allah (ﷺ) observed: The callousness of heart and sternness is in the East and faith is among the people of the Hijaz.",
+                "hadithUrdu": "رسول اللہ ﷺ نے فرمایا : ’’ دلوں کی سختی اور جفا ( اکھڑپن ) مشرق میں ہے اور ایمان اہل حجاز میں ہے ۔",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم نے بیان کیا، ہم سے عبداللہ بن حارث المخزومی نے بیان کیا، ابن جریج کی سند سے انہوں نے کہامجھ سے ابو الزبیر نے بیان کیاحضرت جابر بن عبد اللہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا کہ",
+                "hadithArabic": "وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا عَبْدُ اللهِ بْنُ الْحَارِثِ الْمَخْزُومِيُّ، عَنِ ابْنِ جُرَيْجٍ، قَالَ: أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللهِ يَقُولُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «غِلَظُ الْقُلُوبِ، وَالْجَفَاءُ فِي الْمَشْرِقِ، وَالْإِيمَانُ فِي أَهْلِ الْحِجَازِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7758,
+                "hadithNumber": "194",
+                "englishNarrator": "It was narrated that Abu Huraira ‌رضی ‌اللہ ‌عنہ ‌reported:",
+                "hadithEnglish": "The Messenger of Allah (ﷺ) observed: You shall not enter Paradise so long as you do not affirm belief (in all those things which are the articles of faith) and you will not believe as long as you do not love one another. Should I not direct you to a thing which, if you do, will foster love amongst you: (i. e.) give currency to (the practice of paying salutation to one another by saying) as-salamu alaikum.",
+                "hadithUrdu": "رسول اللہ ﷺ نے فرمایا : ’’ تم جنت میں داخل نہیں ہو گے یہاں تک کہ تم مومن ہو جاؤ ، اور تم مو من نہیں ہو سکتے یہاں تک کہ ایک دوسرے سے محبت کرو ۔ کیا تمہیں ایسی چیز نہ بتاؤں کہ جب تم اس پر عمل کرو تو ایک دوسرے کے ساتھ محبت کرنے لگو ، آپس میں سلام عام کرو ۔ ‘ ‘",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے ابو معاویہ اور وکیع نے اعمش سے حدیث سنائی ، انہوں نے ابو صالح سے اور انہوں نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ، انہوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، وَوَكِيعٌ، عَنِ الْأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لَا تَدْخُلُونَ الْجَنَّةَ حَتَّى تُؤْمِنُوا، وَلَا تُؤْمِنُوا حَتَّى تَحَابُّوا، أَوَلَا أَدُلُّكُمْ عَلَى شَيْءٍ إِذَا فَعَلْتُمُوهُ تَحَابَبْتُمْ؟ أَفْشُوا السَّلَامَ بَيْنَكُمْ».",
+                "headingArabic": "بَيَانِ أَنَّهُ لاَ يَدْخُلُ الْجَنَّةَ إِلاَّ الْمُؤْمِنُونَ وَأَنَّ مَحَبَّةَ الْمُؤْمِنِينَ مِنَ الإِيمَانِ وَأَنَّ إِفْشَاءَ السَّلاَمِ سَبَبٌ لِحُصُولِهَا",
+                "headingUrdu": "یہ واضح کرنا کہ جنت میں مومنوں کے سوا کوئی نہیں جائے گا۔ مومنوں سے محبت ایمان کا حصہ ہے اور سلام پھیلانا اس کے حصول کا ذریعہ ہے۔",
+                "headingEnglish": "Clarifying that no one will enter paradise but the believers; loving the believers is part of faith and spreading Salam is a means of attaining that",
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7759,
+                "hadithNumber": "195",
+                "englishNarrator": null,
+                "hadithEnglish": "Zuhair b. Harb said: Jarir reported on the authority of A'mash with this chain of transmitters that the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) observed: By him in Whose hand is my life, you shall not enter Paradise unless you believe. The rest of the hadith is the same as narrated by Abd Mu'awiya and Waki'.",
+                "hadithUrdu": "( ابو معاویہ اور وکیع کے بجائے ) جریر نے اعمش سے ان کی اسی سند سے حدیث سنائی ، کہا : رسول اللہ ﷺ نے فرمایا : ’’ اس ذات کی قسم جس کے ہاتھ میں میری جان ہے ! تم جب تک ایمان نہیں لاؤ گے ، جنت میں داخل نہیں ہو سکو گے ... ‘ ‘ جس طرح ابو معاویہ اور و کیع کی حدیث ہے ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، أَنْبَأَنَا جَرِيرٌ، عَنِ الْأَعْمَشِ، بِهَذَا الْإِسْنَادِ قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «وَالَّذِي نَفْسِي بِيَدِهِ لَا تَدْخُلُونَ الْجَنَّةَ حَتَّى تُؤْمِنُوا» بِمِثْلِ حَدِيثِ أَبِي مُعَاوِيَةَ، وَوَكِيعٍ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7760,
+                "hadithNumber": "196",
+                "englishNarrator": "It was narrated on the authority of Tamim ad-Dari رضی ‌اللہ ‌عنہ ‌:",
+                "hadithEnglish": "The Messenger of Allah (ﷺ) observed: Al-Din is a name of sincerity and well wishing. Upon this we said: For whom? He replied: For Allah, His Book, His Messenger and for the leaders and the general Muslims.",
+                "hadithUrdu": "بنی اکرم ﷺ نے فرمایا : ’’ دین خیر خواہی کا نام ہے ۔ ‘ ‘ ہم ( صحابہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ ) نے پوچھا : کس کی ( خیر خواہی؟ ) آپ نے فرمایا : ’’ اللہ کی ، اس کی کتاب کی ، اس کے رسول کی ، مسلمانوں کے امیروں کی اور عام مسلمانون کی ( خیرخواہی ۔ ) ‘ ‘",
+                "urduNarrator": "ہم سے محمد بن عباد المکی نے بیان کیا، انہوں نے کہاسفیان بن عیینہ نے کہا : میں نے سہیل سے کہا کہ عمرو نے ہمیں قعقاع کے واسطے سے آپ کے والد سے حدیث سنائی ( سفیان نے کہا : ) مجھے امید تھی کہ وہ ( مجھے خود روایت سنا کر ) ایک راوی کم کر دے گا ( چنانچہ سہیل نےکہا ) میں نے اسی سے یہ روایت سنی جس سے میرے والد سے سنی ، وہ شام میں ان کا دوست تھا ۔ ( محمد بن عباد نے کہا ) پھر سفیان نے ہمیں سہیل کے واسطے سے عطاء بن یزید کی حضرت تمیم داری ‌رضی ‌اللہ ‌عنہ ‌ ‌ سےروایت سنائی کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبَّادٍ الْمَكِّيُّ، حَدَّثَنَا سُفْيَانُ، قَالَ: قُلْتُ لِسُهَيْلٍ: إِنَّ عَمْرًا حَدَّثَنَا عَنِ الْقَعْقَاعِ، عَنْ أَبِيكَ، قَالَ: وَرَجَوْتُ أَنْ يُسْقِطَ عَنِّي رَجُلًا، قَالَ: فَقَالَ: سَمِعْتُهُ مِنَ الَّذِي سَمِعَهُ مِنْهُ أَبِي كَانَ صَدِيقًا لَهُ بِالشَّامِ، ثُمَّ حَدَّثَنَا سُفْيَانُ، عَنْ سُهَيْلٍ، عَنْ عَطَاءِ بْنِ يَزِيدَ، عَنْ تَمِيمٍ الدَّارِيِّ أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَ: «الدِّينُ النَّصِيحَةُ» قُلْنَا: لِمَنْ؟ قَالَ: «لِلَّهِ وَلِكِتَابِهِ وَلِرَسُولِهِ وَلِأَئِمَّةِ الْمُسْلِمِينَ وَعَامَّتِهِمْ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7761,
+                "hadithNumber": "197",
+                "englishNarrator": null,
+                "hadithEnglish": "Muhammad bin Hatim رضی ‌اللہ ‌عنہ ‌and others narrate the same hadith of the Apostle (ﷺ) on the authority of Tamim ad-Dari رضی ‌اللہ ‌عنہ ‌.",
+                "hadithUrdu": "مجھ سے محمد بن حاتم نے بیان کیا، ہم سے ابن مہدی نے بیان کیا,سفیان ثوری نے سہیل بن ابی صالح سے ، انہوں نے عطاء بن یزید لیثی سے ، انہوں نے حضرت تمیم داری ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے اور انہوں نے رسو ل اللہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے سابقہ حدیث کے مانند روایت کی ۔",
+                "urduNarrator": null,
+                "hadithArabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا ابْنُ مَهْدِيٍّ، حَدَّثَنَا سُفْيَانُ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ عَطَاءِ بْنِ يَزِيدَ اللَّيْثِيِّ، عَنْ تَمِيمٍ الدَّارِيِّ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7762,
+                "hadithNumber": "198",
+                "englishNarrator": null,
+                "hadithEnglish": "A similar hadith was narrated from Tamim ad-Dari رضی ‌اللہ ‌عنہ , from the Messenger of Allah (ﷺ).",
+                "hadithUrdu": "مجھ سے امیہ بن بسطام نے بیان کیا، ہم سے یزید نے بیان کیا، یعنی ہمیں ابن زری نے بیان کیا، اور وہ ہمیں روح بن قاسم نے حدیث سنائی ، ( کہا : ) ہمیں سہیل نے عطاء سے اس وقت سن کر روایت کی جب وہ ابو صالح کو حدیث بیان کر رہے تھے ، ( کہا : ) تمیم داری ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت ہے ، ( کہا : ) رسو ل اللہ ﷺ سے روایت ہے ، اسی ( سابقہ حدیث ) کے مانند.",
+                "urduNarrator": null,
+                "hadithArabic": "وَحَدَّثَنِي أُمَيَّةُ بْنُ بِسْطَامَ، حَدَّثَنَا يَزِيدُ، يَعْنِي ابْنَ زُرَيْعٍ، حَدَّثَنَا رَوْحٌ وَهُوَ ابْنُ الْقَاسِمِ، حَدَّثَنَا سُهَيْلٌ، عَنْ عَطَاءِ بْنِ يَزِيدَ، سَمِعَهُ وَهُوَ يُحَدِّثُ أَبَا صَالِحٍ، عَنْ تَمِيمٍ الدَّارِيِّ، عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 7763,
+                "hadithNumber": "199",
+                "englishNarrator": "It is narrated on the authority of Jarir رضی ‌اللہ ‌عنہ ‌:",
+                "hadithEnglish": "He observed I gave pledge of allegiance to the Messenger of Allah (may peace and blessings be upon him) on the observance of prayer, payment of Zakat, and sincerity and well-wishing for every Muslim.",
+                "hadithUrdu": "میں نے رسول اللہ ﷺ سے نماز قائم کرنے ، زکاۃ ادا کرنے اور ہر مسلمان کے ساتھ خیر خواہی کرنے پر بیعت کی ۔",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے عبداللہ بن نمیر اور ابو اسامہ نے بیان کیا، وہ اسماعیل بن ابی خالد کی سند سے، انہوں نےقیس ( بن ابی حازم ) نے حضرت جریر ( بن عبد اللہ ) ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللهِ بْنُ نُمَيْرٍ، وَأَبُو أُسَامَةَ، عَنْ إِسْمَاعِيلَ بْنِ أَبِي خَالِدٍ، عَنْ قَيْسٍ، عَنْ جَرِيرٍ، قَالَ: «بَايَعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَلَى إِقَامِ الصَّلَاةِ وَإِيتَاءِ الزَّكَاةِ، وَالنُّصْحِ لِكُلِّ مُسْلِمٍ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "1",
+                "bookSlug": "sahih-muslim",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 101,
+                    "chapterNumber": "1",
+                    "chapterEnglish": "The Book of Faith",
+                    "chapterUrdu": "ایمان کا بیان",
+                    "chapterArabic": "كتاب الْإِيمَانِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 7451,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=298",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=296",
+                "label": "296",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=297",
+                "label": "297",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=298",
+                "label": "298",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=299",
+                "label": "299",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=300",
+                "label": "300",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=301",
+                "label": "301",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=302",
+                "label": "302",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=300",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=300",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=298",
+        "to": 7475,
+        "total": 40465
+    }
+}

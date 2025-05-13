@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 481,
+        "data": [
+            {
+                "id": 12289,
+                "hadithNumber": "4726",
+                "englishNarrator": null,
+                "hadithEnglish": "A hadith like that of Al-Laith from Nafi (no. 4724) was narrated from Nafi from Ibn Umar رضی اللہ عنہ .",
+                "hadithUrdu": "ابو اسحاق نے کہا: ہم سے حسن بن بشر نے بیان کیا، ہم سے عبداللہ بن نمیر نے بیان کیا، عبیداللہ ( بن عمر بن حفص ) نے نافع سے ، انہوں نے حضرت ابن عمر رضی اللہ عنہ سے اسی طرح حدیث بیان کی جس طرح لیث نے نافع سے بیان کی.",
+                "urduNarrator": null,
+                "hadithArabic": "قَالَ أَبُو إِسْحَاقَ: وَحَدَّثَنَا الْحَسَنُ بْنُ بِشْرٍ، حَدَّثَنَا عَبْدُ اللهِ بْنُ نُمَيْرٍ، عَنْ عُبَيْدِ اللهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، بِهَذَا مِثْلَ حَدِيثِ اللَّيْثِ، عَنْ نَافِعٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12290,
+                "hadithNumber": "4727",
+                "englishNarrator": "This hadith has been transmitted on the authority of Ibn 'Umar, but there is (a slight change of wording) in the hadith transmitted through Zuhri that he said:",
+                "hadithEnglish": "I think that he (the narrator) said: The man is a custodian of the wealth of his father, and he would be answerable for what is in his custody.",
+                "hadithUrdu": "میں سمجھتا ہوں کہ آپ صلی اللہ علیہ وسلم نے فرمایا : \" آدمی اپنے باپ کے مال کا راعی ( محافظ ) ہے اور اس سے اس کی رعایا کے متعلق سوال کیا جائے گا.",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ، یحییٰ بن ایوب، قتیبہ بن سعید اور ابن حجر نے بیان کیا کہ یہ سب کے سب چچا تھے, اسماعیل بن جعفر نے حضرت عبداللہ بن دینار سے ، انہوں نے ابن عمر رضی اللہ عنہ سے روایت کی ، کہا : رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ۔ اور یونس نے ابن شہاب سے ، انہوں نے سالم بن عبداللہ سے ، انہوں نے اپنے والد ( عبداللہ بن عمر رضی اللہ عنہ ) سے حدیث بیان کی ، کہا : میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا ، ابن عمر رضی اللہ عنہ سے نافع کی حدیث کے مانند ۔ ( یونس نے ) زہری کی حدیث میں یہ اضافہ کیا : کہا",
+                "hadithArabic": "وحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَيَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، وَابْنُ حُجْرٍ، كُلُّهُمْ عَنْ إِسْمَاعِيلَ بْنِ جَعْفَرٍ، عَنْ عَبْدِ اللهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: ح وحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللهِ، عَنْ أَبِيهِ، قَالَ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: بِمَعْنَى حَدِيثِ نَافِعٍ، عَنِ ابْنِ عُمَرَ، وَزَادَ فِي حَدِيثِ الزُّهْرِيِّ، قَالَ: وَحَسِبْتُ أَنَّهُ قَدْ قَالَ: «الرَّجُلُ رَاعٍ فِي مَالِ أَبِيهِ وَمَسْئُولٌ عَنْ رَعِيَّتِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12291,
+                "hadithNumber": "4728",
+                "englishNarrator": null,
+                "hadithEnglish": "A hadith having the same meaning has been transmitted on the authority of 'Abdullah bin 'Umar رضی اللہ عنہ .",
+                "hadithUrdu": "مجھ سے احمد بن عبدالرحمٰن بن وہب نے بیان کیا، مجھ سے میرے چچا عبداللہ بن وہب نے بیان کیا، مجھ سے ایک شخص نے بیان کیا جس نے ان کا نام لیا اور مجھے عمرو بن حارث نے بیان کیا ، بسر بن سعید نے عبداللہ بن عمر رضی اللہ عنہ سے ، انہوں نے نبی صلی اللہ علیہ وسلم سے اس کے ہم معنی حدیث روایت کی ہے.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنِي أَحْمَدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ وَهْبٍ، أَخْبَرَنِي عَمِّي عَبْدُ اللهِ بْنُ وَهْبٍ، أَخْبَرَنِي رَجُلٌ سَمَّاهُ وَعَمْرُو بْنُ الْحَارِثِ، عَنْ بُكَيْرٍ، عَنْ بُسْرِ بْنِ سَعِيدٍ، حَدَّثَهُ عَنْ عَبْدِ اللهِ بْنِ عُمَرَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِهَذَا الْمَعْنَى.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12292,
+                "hadithNumber": "4729",
+                "englishNarrator": "It has been narrated on the authority of Hasan who said:",
+                "hadithEnglish": "Ubaidullah bin Ziyad visited Ma'qil bin Yasir al-Muzani رضی اللہ عنہ in his last illness. Ma'qil رضی اللہ عنہ said (to him): I am narrating to you a tradition I heard from the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌). If I knew that I am to survive this illness. I would, not narrate it to you. I heard the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) say: If God appointed anyone ruler over a people and he died while he was still treacherous to his people, God would forbid his entry into Paradise.",
+                "hadithUrdu": "عبیداللہ بن زیاد حضرت معقل بن یسار رضی اللہ عنہ کے پاس اس مرض میں ان کی عیادت کرنے کے لیے گئے جس میں ان کی وفات ہوئی ۔ حضرت معقل رضی اللہ عنہ نے فرمایا : میں تم کو ایک ایسی حدیث سناتا ہوں جس کو میں نے خود رسول اللہ صلی اللہ علیہ وسلم سے سنا ، اگر مجھے ( پکا ) علم ہوتا کہ میں ابھی اور زندہ رہوں گا تو میں تمہیں یہ حدیث نہ سناتا ، میں نے رسول اللہ صلی اللہ علیہ وسلم کو یہ فرماتے ہوئے سنا : \" کوئی شخص جس کو اللہ تعالیٰ نے کسی بھی رعیت کا ذمہ دار بنایا وہ جس دن مرے اس حال میں مرے کہ وہ اپنی رعایا کے ساتھ خیانت کرنے والا ہے تو اللہ تعالیٰ اس پر جنت حرام کر دے گا.",
+                "urduNarrator": "ہم سے شیبان بن فروخ نے بیان کیا, ابو اشہب نے حضرت حسن بصری سے روایت کی کہ",
+                "hadithArabic": "وحَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، حَدَّثَنَا أَبُو الْأَشْهَبِ، عَنِ الْحَسَنِ، قَالَ: عَادَ عُبَيْدُ اللهِ بْنُ زِيَادٍ مَعْقِلَ بْنَ يَسَارٍ الْمُزَنِيَّ فِي مَرَضِهِ الَّذِي مَاتَ فِيهِ، فَقَالَ مَعْقِلٌ: إِنِّي مُحَدِّثُكَ حَدِيثًا سَمِعْتُهُ مِنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، لَوْ عَلِمْتُ أَنَّ لِي حَيَاةً مَا حَدَّثْتُكَ، إِنِّي سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، يَقُولُ: «مَا مِنْ عَبْدٍ يَسْتَرْعِيهِ اللهُ رَعِيَّةً، يَمُوتُ يَوْمَ يَمُوتُ وَهُوَ غَاشٌّ لِرَعِيَّتِهِ، إِلَّا حَرَّمَ اللهُ عَلَيْهِ الْجَنَّةَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12293,
+                "hadithNumber": "4730",
+                "englishNarrator": "It has been narrated through a different chain of transmitters on the authority of Hasan who said:",
+                "hadithEnglish": "Ibn Ziyad paid a visit to Ma'qil bin Yasir رضی اللہ عنہ who was seriously ill. Here follows the same tradition as has gone before with the addition that Ibn Ziyad asked: Why didn't you narrate this tradition to me before this day? Ma'qil رضی اللہ عنہ reprimanded him and said: I did not narrate it to you or I was not going to narrate it to you.",
+                "hadithUrdu": "ابن زیاد حضرت معقل رضی اللہ عنہ کے پاس گیا وہ اس وقت ( بیمار تھے اور ) درد میں مبتلا تھے ، جیسے ابو اشہب کی حدیث ہے اور انہوں نے اضافہ کیا : اس ( ابن زیاد ) نے کہا : آپ نے آج سے پہلے مجھے یہ حدیث کیوں نہیں بیان کی؟ حضرت معقل رضی اللہ عنہ نے فرمایا : میں نے تمہیں کبھی حدیث نہیں سنائی ، ( تم نے حدیث کا سماع ہی نہیں کیا ) یا فرمایا : میں تمہیں حدیث بیان نہیں کیا کرتا تھا ( حدیث میں تمہارا استاد نہ تھا).",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، کہا ہم سے یزید بن زریع نے بیان کیا، یونس نے حضرت حسن بصری سے روایت کی ، کہا",
+                "hadithArabic": "وَحَدَّثَنَاهُ يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا يَزِيدُ بْنُ زُرَيْعٍ، عَنْ يُونُسَ، عَنِ الْحَسَنِ، قَالَ: دَخَلَ ابْنُ زِيَادٍ عَلَى مَعْقِلِ بْنِ يَسَارٍ وَهُوَ وَجِعٌ بِمِثْلِ حَدِيثِ أَبِي الْأَشْهَبِ، وَزَادَ قَالَ: أَلَّا كُنْتَ حَدَّثْتَنِي هَذَا قَبْلَ الْيَوْمِ؟ قَالَ: مَا حَدَّثْتُكَ، أَوْ لَمْ أَكُنْ لِأُحَدِّثَكَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12294,
+                "hadithNumber": "4731",
+                "englishNarrator": "It has been narrated on the authority of Abu Malih:",
+                "hadithEnglish": "Ubaidullah bin Ziyad visited Ma'qil bin Yasar رضی اللہ عنہ in the latter's illness. Ma'qil رضی اللہ عنہ said to him: I am narrating to you a tradition. If I were not at death's door, I would not narrate it to you. I heard the Messenger of Allah (ﷺ) say: A ruler who, having obtained control over the affairs of the Muslims, does not strive for their betterment and does not serve them sincerely shall not enter Paradise with them",
+                "hadithUrdu": "عبیداللہ بن زیاد ، حضرت معقل بن یسار رضی اللہ عنہ کی بیماری میں ان کے پاس گیا ، حضرت معقل رضی اللہ عنہ نے کہا : میں تم کو ایک حدیث بیان کرنے لگا ہوں اور اگر میں مرض الموت میں نہ ہوتا تو تمہیں یہ حدیث نہ سناتا ، میں نے رسول اللہ صلی اللہ علیہ وسلم کو یہ فرماتے ہوئے سنا ہے : \" کوئی امیر نہیں جو مسلمانوں کے امور کا ذمہ دار ہو ، پھر ان کے لیے جدوجہد اور خیرخواہی نہ کرے ، مگر وہ ان کے ساتھ جنت میں داخل نہیں ہو گا.",
+                "urduNarrator": "ہم سے ابو غسان المسمعی، اسحاق بن ابراہیم اور محمد بن المثنی نے بیان کیا، کہا: ہمیں اس نے خبر دی، اور باقی دو نے کہا: ہم سے معاذ نے بیان کیا۔ مجھ سے میرے والد ابن ہشام نے قتادہ کی روایت سے کہا, ابو ملیح سے روایت ہے کہ",
+                "hadithArabic": "وحَدَّثَنَا أَبُو غَسَّانَ الْمِسْمَعِيُّ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ إِسْحَاقُ: أَخْبَرَنَا، وقَالَ الْآخَرَانِ: حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، عَنْ أَبِي الْمَلِيحِ، أَنَّ عُبَيْدَ اللهِ بْنَ زِيَادٍ، دَخَلَ عَلَى مَعْقِلِ بْنِ يَسَارٍ فِي مَرَضِهِ، فَقَالَ لَهُ مَعْقِلٌ: إِنِّي مُحَدِّثُكَ بِحَدِيثٍ لَوْلَا أَنِّي فِي الْمَوْتِ لَمْ أُحَدِّثْكَ بِهِ، سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، يَقُولُ: «مَا مِنْ أَمِيرٍ يَلِي أَمْرَ الْمُسْلِمِينَ، ثُمَّ لَا يَجْهَدُ لَهُمْ وَيَنْصَحُ، إِلَّا لَمْ يَدْخُلْ مَعَهُمُ الْجَنَّةَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12295,
+                "hadithNumber": "4732",
+                "englishNarrator": null,
+                "hadithEnglish": "It has been narrated on the authority of Abu al-Aswad who said: My father related to me that Ma'qil bin Yasir رضی اللہ عنہ fell ill. 'Ubaidullah bin Ziyad called on him to inquire after his health. Here follows the tradition as narrated by Hasan from Ma'qil رضی اللہ عنہ .",
+                "hadithUrdu": "ہم سے عقبہ بن مکرم العمی نے بیان کیا، کہا ہم سے یعقوب بن اسحاق نے بیان کیا، کہا کہ مجھ سے سوادہ بن ابواسود نے خبر دی کہ میرے والد نے مجھے حدیث بیان کی کہ حضرت معقل بن یسار رضی اللہ عنہ بیمار ہو گئے تو عبیداللہ بن زیاد ان کی عیادت کے لیے گیا ۔ ( آگے ) حسن بصری کی حضرت معقل رضی اللہ عنہ سے روایت کردہ حدیث کی طرح ہے.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنَا عُقْبَةُ بْنُ مُكْرَمٍ الْعَمِّيُّ، حَدَّثَنَا يَعْقُوبُ بْنُ إِسْحَاقَ، أَخْبَرَنِي سَوَادَةُ بْنُ أَبِي الْأَسْوَدِ، حَدَّثَنِي أَبِي، أَنَّ مَعْقِلَ بْنَ يَسَارٍ مَرِضَ، فَأَتَاهُ عُبَيْدُ اللهِ بْنُ زِيَادٍ يَعُودُهُ نَحْوَ حَدِيثِ الْحَسَنِ، عَنْ مَعْقِلٍ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12296,
+                "hadithNumber": "4733",
+                "englishNarrator": "It has been narrated on the authority of Hasan that A'idh bin 'Amr رضی اللہ عنہ who was one of the Companions of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) called on 'Ubaidullah bin Ziyad and said (to him):",
+                "hadithEnglish": "O my son, I have heard the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) say: The worst of guardians is the cruel ruler. Beware of being one of them. Ubaidullah said (to him out of arrogance): Sit you down. You are from the chaff of the Companions of Muhammad ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌). A'idh said: Was there worthless chaff among them? Such worthless chaff appeared after them and among other people.",
+                "hadithUrdu": "میرے بیٹے! میں نے رسول اللہ صلی اللہ علیہ وسلم کو یہ فرماتے ہوئے سنا : \" بدترین راعی ، سخت گیر اور ظلم کرنے والا ہوتا ہے ، تم اس سے بچنا کہ تم ان میں سے ہو ۔ \" اس نے کہا : آپ بیٹھیے : آپ تو رسول اللہ صلی اللہ علیہ وسلم کے صحابہ میں سے چھلنی میں بچ جانے والے آخری حصے کی طرح ہیں ۔ ( آخر میں چونکہ تنکے ، پتھر ، بھوسی بچ جاتے ہیں ، اس لیے ) انہوں نے کہا : کیا ان میں بھوسی ، تنکے ، پتھر تھے؟ یہ تو ان کے بعد ہوئے اور ان کے علاوہ دوسروں میں ہوئے.",
+                "urduNarrator": "ہم سے شیبان بن فرو خ نے بیان کیا، کہا ہم سے جریر بن حازم نے بیان کیا, حسن بصری رحمۃ اللہ علیہ نے بتایا کہ عائذ بن عمرو رضی اللہ عنہ اور وہ رسول اللہ صلی اللہ علیہ وسلم کے صحابہ میں سے تھے ، عبیداللہ بن زیاد کے پاس گئے اور فرمایا",
+                "hadithArabic": "حَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، حَدَّثَنَا جَرِيرُ بْنُ حَازِمٍ، حَدَّثَنَا الْحَسَنُ، أَنَّ عَائِذَ بْنَ عَمْرٍو، وَكَانَ مِنْ أَصْحَابِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ دَخَلَ عَلَى عُبَيْدِ اللهِ بْنِ زِيَادٍ، فَقَالَ: أَيْ بُنَيَّ، إِنِّي سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «إِنَّ شَرَّ الرِّعَاءِ الْحُطَمَةُ، فَإِيَّاكَ أَنْ تَكُونَ مِنْهُمْ»، فَقَالَ لَهُ: اجْلِسْ فَإِنَّمَا أَنْتَ مِنْ نُخَالَةِ أَصْحَابِ مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ: «وَهَلْ كَانَتْ لَهُمْ نُخَالَةٌ؟ إِنَّمَا كَانَتِ النُّخَالَةُ بَعْدَهُمْ، وَفِي غَيْرِهِمْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12297,
+                "hadithNumber": "4734",
+                "englishNarrator": "It has been narrated on the authority of Abu Huraira رضی اللہ عنہ who said:",
+                "hadithEnglish": "One day the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) stood among us (to deliver a sermon). He talked about the misappropriation of booty, and declared it to be a serious matter and a grave sin. Then he said: I shouldn't find that any of you should come on the Day of Judgment with a growling camel mounted on his neck, and should appeal to me for help saying: Messenger of Allah, help me. and I should say: I have no authority to help you; I already communicated to you. I shouldn't find that any of you should come on the Day of Judgment with a bleating ewe mounted on his neck, and he should say to me: Messenger of Allah, help me, and I should say: I have no authority to help you; I conveyed to you. I shouldn't find that one of you should come on the Day of Judgment with a Person crying loudly mounted on his neck, and he should say to me: Messenger of Allah, help me, and I should say: I have no authority to help you; I conveyed to you. I shouldn't find that any one of you should come on the Day of Judgment with fluttering clothes wrapped round his neck and he should say to me: Messenger of Allah, help me, and I should say: I have no authority to help you; I conveyed to you. I shouldn't find that any of you should come on the Day of Judgment with a heap of gold and silver placed on his neck and he should say to me: Messenger of Allah, help me. and I should say: I have no authority to help you; I already conveyed to you (the warning from the Almighty).",
+                "hadithUrdu": "ایک دن رسول اللہ صلی اللہ علیہ وسلم ہم میں ( خطبہ دینے کے لیے ) کھڑے ہوئے ۔ اور آپ نے مال غنیمت میں خیانت کا ذکر فرمایا : آپ نے ایسی خیانت اور اس کے معاملے کو انتہائی سنگین قرار دیا ، پھر فرمایا : \" میں تم میں سے کسی کو قیامت کے دن اس طرح آتا ہوا نہ پاؤں کہ اس کی گردن پر اونٹ سوار ہو کر بلبلا رہا ہو اور وہ کہے : اللہ کے رسول! میری مدد فرمائیے ، اور میں جواب میں کہوں : میں تمہارے لئے کچھ کرنے کا اختیار نہیں رکھتا ، میں نے تمہیں ( دنیا ہی میں ) حق پہنچا دیا تھا ۔ میں تم میں سے کسی شخص کو اس حال میں نہ پاؤں کہ وہ قیامت کے دن آئے اور اس کی گردن پر گھوڑا سوار ہو کر ہنہنا رہا ہو ، وہ کہے : اللہ کے رسول! میری مدد کیجئے ، اور میں کہوں کہ میں تمہارے لیے کچھ بھی نہیں کر سکتا ، میں نے تمہیں حق پہنچا دیا تھا ۔ میں تم میں سے کسی شخص کو اس حال میں نہ پاؤں کہ وہ قیامت کے دن آئے اور اس کی گردن پر بکری سوار ہو کر ممیا رہی ہو ، وہ کہے : اللہ کے رسول! میری مدد کیجئے ، اور میں کہوں : میں تمہارے لیے کسی چیز کا اختیار نہیں رکھتا ، میں نے تمہیں حق سے آگاہ کر دیا تھا ، میں تم میں سے کسی شخص کو روزِ قیامت اس حالت میں نہ دیکھوں کہ اس کی گردن پر کسی شخص کی جان سوار ہو اور وہ ( ظلم کی دہائی دیتے ہوئے ) چیخیں مار رہی ہو ، اور وہ شخص کہے : اللہ کے رسول! میری مدد کیجئے ، اور میں کہوں : میں تمہارے لیے کچھ نہیں کر سکتا ، میں نے تمہیں سب کچھ بتا دیا تھا ۔ میں تم میں سے کسی شخص کو اس حال میں نہ پاؤں کہ وہ قیامت کے دن آئے اور اس کی گردن پر کپڑا لدا ہوا پھڑپھڑا رہا ہو ، اور وہ کہے : اللہ کے رسول! میری مدد کیجئے ، میں کہوں : تمہارے لیے میرے بس میں کچھ نہیں ، میں نے تم کو سب کچھ سے آگاہ کر دیا تھا ۔ میں تم میں سے کسی شخص کو اس حال میں نہ پاؤں کہ وہ قیامت کے دن آئے اور اس کی گرن پر نہ بولنے والا مال ( سونا چاندی ) لدا ہوا ہو ، وہ کہے : اللہ کے رسول! میری مدد کیجئے ، میں کہوں : تمہارے لیے میرے پاس کسی چیز کا اختیار نہیں ، میں نے تم کو ( انجام ) کی خبر پہنچا دی تھی.",
+                "urduNarrator": "مجھ سے زہیر بن حرب نے کہا, اسماعیل بن ابراہیم نے ابوحیان سے ، انہوں نے ابو زرعہ سے ، انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی ، کہا",
+                "hadithArabic": "وحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، عَنْ أَبِي حَيَّانَ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: قَامَ فِينَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ذَاتَ يَوْمٍ، فَذَكَرَ الْغُلُولَ، فَعَظَّمَهُ وَعَظَّمَ أَمْرَهُ، ثُمَّ قَالَ: لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلَى رَقَبَتِهِ بَعِيرٌ لَهُ رُغَاءٌ، يَقُولُ: يَا رَسُولَ اللهِ، أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلَى رَقَبَتِهِ فَرَسٌ لَهُ حَمْحَمَةٌ، فَيَقُولُ: يَا رَسُولَ اللهِ، أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلَى رَقَبَتِهِ شَاةٌ لَهَا ثُغَاءٌ، يَقُولُ: يَا رَسُولَ اللهِ، أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلَى رَقَبَتِهِ نَفْسٌ لَهَا صِيَاحٌ، فَيَقُولُ: يَا رَسُولَ اللهِ، أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلَى رَقَبَتِهِ رِقَاعٌ تَخْفِقُ، فَيَقُولُ: يَا رَسُولَ اللهِ، أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ شَيْئًا، قَدْ أَبْلَغْتُكَ، لَا أُلْفِيَنَّ أَحَدَكُمْ يَجِيءُ يَوْمَ الْقِيَامَةِ عَلَى رَقَبَتِهِ صَامِتٌ، فَيَقُولُ: يَا رَسُولَ اللهِ، أَغِثْنِي، فَأَقُولُ: لَا أَمْلِكُ لَكَ شَيْئًا، قَدْ أَبْلَغْتُكَ.",
+                "headingArabic": "غِلَظِ تَحْرِيمِ الْغُلُولِ ‏‏",
+                "headingUrdu": "مال غنیمت میں سے چوری کرنے کی تاکید کی ممانعت (غلول)",
+                "headingEnglish": "Emphatic prohibition against stealing from the spoils of war (Ghulul)",
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12298,
+                "hadithNumber": "4735",
+                "englishNarrator": null,
+                "hadithEnglish": "A hadith like that of Ismail from Abu Hayyan (no. 4734) was narrated from Abu Hurairah رضی اللہ عنہ.",
+                "hadithUrdu": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا, عبدالرحیم بن سلیمان نے ابوحیان سے ، جریر نے ان سے اور عمارہ بن قعقاع سے ، ان سب نے ابوزرعہ سے ، انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے ابوحیان سے اسماعیل کی روایت کردہ حدیث کی طرح روایت بیان کی.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ الرَّحِيمِ بْنُ سُلَيْمَانَ، عَنْ أَبِي حَيَّانَ، ح وحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا جَرِيرٌ، عَنْ أَبِي حَيَّانَ، وَعُمَارَةَ بْنِ الْقَعْقَاعِ، جَمِيعًا عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، بِمِثْلِ حَدِيثِ إِسْمَاعِيلَ، عَنْ أَبِي حَيَّانَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12299,
+                "hadithNumber": "4736",
+                "englishNarrator": null,
+                "hadithEnglish": "Abu Huraira رضی اللہ عنہ has narrated this hadith with a slight variation of words.",
+                "hadithUrdu": "مجھ سے احمد بن سعید بن صخر الدارمی نے بیان کیا، کہا ہم سے سلیمان بن حرب نے بیان کیا, حماد بن زید نے ایوب سے ، انہوں نے یحییٰ بن سعید سے ، انہوں نے ابوزرعہ سے ، انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی کہ رسول اللہ صلی اللہ علیہ وسلم نے مال غنیمت میں خیانت کا ذکر فرمایا اور اس کی سنگینی بیان کی اور انہوں ( ایوب ) نے پوری حدیث بیان کی ۔ حماد نے کہا : پھر اس کے بعد میں نے یحییٰ بن سعید کو یہی حدیث بیان کرتے ہوئے سنا ۔ انہوں نے بعینہ اسی طرح حدیث بیان کی جس طرح ہمیں ایوب نے ان سے بیان کی تھی.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنِي أَحْمَدُ بْنُ سَعِيدِ بْنِ صَخْرٍ الدَّارِمِيُّ، حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادٌ يَعْنِي ابْنَ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ أَبِي زُرْعَةَ بْنِ عَمْرِو بْنِ جَرِيرٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: ذَكَرَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ الْغُلُولَ، فَعَظَّمَهُ، وَاقْتَصَّ الْحَدِيثَ، قَالَ حَمَّادٌ: ثُمَّ سَمِعْتُ يَحْيَى بَعْدَ ذَلِكَ يُحَدِّثُهُ، فَحَدَّثَنَا بِنَحْوِ مَا حَدَّثَنَا عَنْهُ أَيُّوبُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12300,
+                "hadithNumber": "4737",
+                "englishNarrator": null,
+                "hadithEnglish": "Abu Huraira رضی اللہ عنہ has narrated this hadith similar to the above mentioned hadith.",
+                "hadithUrdu": "مجھ سے احمد بن الحسن بن خراش نے بیان کیا، کہا ہم سے ابو معمر نے بیان کیا, ہمیں عبدالوارث نے بیان کیا ، کہا : ہمیں ایوب نے یحییٰ بن سعید بن حیان سے حدیث بیان کی ، انہوں نے ابوزرعہ سے ، انہوں نے ابوہریرہ رضی اللہ عنہ س سے ان سب کی حدیث کی طرح حدیث روایت کی.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنِي أَحْمَدُ بْنُ الْحَسَنِ بْنِ خِرَاشٍ، حَدَّثَنَا أَبُو مَعْمَرٍ، حَدَّثَنَا عَبْدُ الْوَارِثِ، حَدَّثَنَا أَيُّوبُ، عَنْ يَحْيَى بْنِ سَعِيدِ بْنِ حَيَّانَ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِنَحْوِ حَدِيثِهِمْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12301,
+                "hadithNumber": "4738",
+                "englishNarrator": "It has been narrated on the authority of Abu Humaid as-Sa'idi رضی اللہ عنہ who said:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) appointed a man from the Asad tribe who was called Ibn Lutbiyya in charge of Sadaqa (i.e. authorised hign to receive Sadaqa from the people on behalf of the State. When he returned (with the collictions), he said: This is for you and (this is mine as) it was presented to me as a gift. The narrator said: The Messenger of Allah (may peace be upod him) stood on the pulpit and praised God and extolled Him. Then he said: What about a State official whom I give an assignment and who (comes and) says: This is for you and this has been presented to me as a gift? Why didn't he remain in the house of his father or the house of his mother so that he could observe whether gifts were presented to him or not. By the Being in Whose Hand is the life of Muhammad, any one of you will not take anything from it but will bring it on the Day of Judgment, carrying on his neck a camel that will be growling, or a cow that will be bellowing or an ewe that will be bleating. Then he raised his hands so that we could see the whiteness of his armpits. Then he said twice: O God, I have conveyed (Thy Commandments).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے بنو اسد کے ایک شخص کو جسے ابن لُتبیہ کہا جاتا تھا ، عامل مقرر کیا ۔ ۔ عمرو اور ابن ابی عمر نے کہا : زکاۃ کی وصولی پر ( مقرر کیا ) ۔ ۔ جب وہ ( زکاۃ وصول کر کے ) آیا تو اس نے کہا : یہ آپ لوگوں کے لیے ہے اور یہ مجھے ہدیہ کیا گیا ہے ۔ رسول اللہ صلی اللہ علیہ وسلم منبر پر کھڑے ہوئے ، اللہ تعالیٰ کی حمد و ثنا بیان کی اور فرمایا : \"\" ایک عامل کا حال کیا ہوتا ہے کہ میں اس کو ( زکاۃ وصول کرنے ) بھیجتا ہوں اور وہ آ کر کہتا ہے : یہ آپ لوگوں کے لیے ہے اور یہ مجھے ہدیہ کیا گیا ہے ، ایسا کیوں نہ ہوا کہ یہ اپنے باپ یا اپنی ماں کےگھر میں بیٹھتا ، پھر نظر آتا کہ اسے ہدیہ دیا جاتا ہے یا نہیں؟ اس ذات کی قسم جس کے ہاتھ میں محمد صلی اللہ علیہ وسلم کی جان ہے! تم میں سے کوئی بھی شخص ایسا نہیں کہ وہ اس ( مال ) میں سے ( اپنے لیے ) کچھ لے ، مگر وہ قیامت کے دن اس حالت میں آئے گا کہ اس نے اسے اپنی گردن پر اٹھا رکھا ہو گا ، قیامت کے دن اونٹ ہو گا ، بلبلا رہا ہو گا ، گائے ہو گی ، ڈکرا رہی ہو گی ، بکری ہو گئی ، ممیا رہی ہو گی ۔ \"\" پھر آپ نے اپنے دونوں ہاتھ اس قدر بلند کیے کہ ہمیں آپ کی دونوں بغلوں کے سفید حصے نظر آئے ، پھر آپ نے دو مرتبہ فرمایا : \"\" اے اللہ! کیا میں نے ( حق ) پہنچا دیا؟",
+                "urduNarrator": "ابوبکر بن ابی شیبہ ، عمرو ناقد اور ابن ابی عمر نے حدیث بیان کی ، ۔ ۔ الفاظ ابوبکر بن ابی شیبہ کے ہیں ۔ ۔ کہا : ہمیں سفیان بن عیینہ نے زہری سے حدیث بیان کی ، انہوں نے عروہ سے ، انہوں نے ابوحمید ساعدی رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَمْرٌو النَّاقِدُ، وَابْنُ أَبِي عُمَرَ، وَاللَّفْظُ لِأَبِي بَكْرٍ، قَالُوا: حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ أَبِي حُمَيْدٍ السَّاعِدِيِّ، قَالَ: اسْتَعْمَلَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ رَجُلًا مِنَ الْأَسْدِ، يُقَالُ لَهُ: ابْنُ اللُّتْبِيَّةِ - قَالَ عَمْرٌو: وَابْنُ أَبِي عُمَرَ - عَلَى الصَّدَقَةِ، فَلَمَّا قَدِمَ قَالَ: هَذَا لَكُمْ، وَهَذَا لِي، أُهْدِيَ لِي، قَالَ: فَقَامَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَلَى الْمِنْبَرِ، فَحَمِدَ اللهَ، وَأَثْنَى عَلَيْهِ، وَقَالَ: مَا بَالُ عَامِلٍ أَبْعَثُهُ، فَيَقُولُ: هَذَا لَكُمْ، وَهَذَا أُهْدِيَ لِي، أَفَلَا قَعَدَ فِي بَيْتِ أَبِيهِ، أَوْ فِي بَيْتِ أُمِّهِ، حَتَّى يَنْظُرَ أَيُهْدَى إِلَيْهِ أَمْ لَا؟ وَالَّذِي نَفْسُ مُحَمَّدٍ بِيَدِهِ، لَا يَنَالُ أَحَدٌ مِنْكُمْ مِنْهَا شَيْئًا إِلَّا جَاءَ بِهِ يَوْمَ الْقِيَامَةِ يَحْمِلُهُ عَلَى عُنُقِهِ بَعِيرٌ لَهُ رُغَاءٌ، أَوْ بَقَرَةٌ لَهَا خُوَارٌ، أَوْ شَاةٌ تَيْعِرُ ، ثُمَّ رَفَعَ يَدَيْهِ حَتَّى رَأَيْنَا عُفْرَتَيْ إِبْطَيْهِ، ثُمَّ قَالَ: «اللهُمَّ، هَلْ بَلَّغْتُ؟» مَرَّتَيْنِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12302,
+                "hadithNumber": "4739",
+                "englishNarrator": "It has been reported on the authority of Abu Humaid as-Sa'idi رضی اللہ عنہ who said:",
+                "hadithEnglish": "The Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) appointed Ibn Lutbiyya, a man from the Azd tribe, in charge of Sadaqa (authorizing him to receive gifts from the people on behalf of the State). He came with the collection, gave it to the Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), and said: This wealth is for you and this is a gift presented to me. The Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said to him: Why didn't you remain in the house of your father and your mother to see whether gifts were presented to you or not. Then he stood up to deliver a sermon. Here follows the tradition like the tradition of Sufyan.",
+                "hadithUrdu": "نبی صلی اللہ علیہ وسلم نے قبیلہ اَزد کے ابن لتبيه نامی ایک شخص کو زکاۃ ( کی وصولی ) پر عامل بنایا ، وہ کچھ مال لے کر آیا ، نبی صلی اللہ علیہ وسلم کو دیا اور کہا : یہ آپ لوگوں کا مال ہے اور یہ ہدیہ ہے جو مجھے دیا گیا ہے ۔ نبی صلی اللہ علیہ وسلم نے اس سے فرمایا : \" تم اپنے باپ یا اپنی ماں کے گھر میں کیوں نہیں بیٹھے ، پھر دیکھتے کہ تمہیں ہدیہ دیا جاتا ہے یا نہیں؟ \" پھر نبی صلی اللہ علیہ وسلم خطبہ دینے کے لیے کھڑے ہوئے ، پھر سفیان ( بن عیینہ ) کی حدیث کی طرح بیان کیا.",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم اور عبد بن حمید نے بیان کیا، کہا کہ ہم سے عبدالرزاق نے بیان کیا, معمر نے زہری سے ، انہوں نے عروہ سے ، انہوں نے ابوحمید ساعدی رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالَا: أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ أَبِي حُمَيْدٍ السَّاعِدِيِّ، قَالَ: اسْتَعْمَلَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ابْنَ اللُّتْبِيَّةِ - رَجُلًا مِنَ الْأَزْدِ - عَلَى الصَّدَقَةِ، فَجَاءَ بِالْمَالِ، فَدَفَعَهُ إِلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ: هَذَا مَالُكُمْ، وَهَذِهِ هَدِيَّةٌ أُهْدِيَتْ لِي، فَقَالَ لَهُ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «أَفَلَا قَعَدْتَ فِي بَيْتِ أَبِيكَ وَأُمِّكَ فَتَنْظُرَ أَيُهْدَى إِلَيْكَ أَمْ لَا؟»، ثُمَّ قَامَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ خَطِيبًا ثُمَّ ذَكَرَ نَحْوَ حَدِيثِ سُفْيَانَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12303,
+                "hadithNumber": "4740",
+                "englishNarrator": "It has been reported on the authority of Abu Humaid as-Sa'idi رضی اللہ عنہ who said:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) appointed a man from the Azd tribe called Ibn al-Utbiyya, in charge of Sadaqat to be received from Banu Sulaim. When he came (back), the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) asked him to render his account. He said: This wealth is for you (i.e. for the public treasury) and this is a gift (presented to me). The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: You should have remained in the house of your father and your mother, until your gift came to you if you spoke the truth; then he addressed us. He praised God and extolled Him, and afterwards said: I appoint a man from you to a responsible post sharing with him authority that God has entrusted to me, and he comes to me saying: This wealth is for you (i.e. for the public treasury) and this is a gift presented to me. Why did he not remain in the house of his father and his mother and his gift came to him, if he was truthful? By God, any one of you will not take anything from (the public funds) without any justification, but will meet his Lord carrying it on himself on the Day of judgment. I will recognize any one of you meeting Allah and carrying a growling camel, or a cow bellowing or a goat bleating. Then he raised his hands so high that whiteness of his armpits could be seen. Then he said: O my Lord, I have conveyed (They Commandments). The narrator says: My eyes saw (the Prophet standing in that pose) and my ears heard (what he said).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے بنو اسد کے ایک شخص کو بنو سلیم کے صدقات وصول کرنے کے لیے عامل بنایا ، اسے ابن اُتبیہ کہا جاتا تھا ۔ جب وہ مال وصول کر کے آیا تو ( رسول اللہ صلی اللہ علیہ وسلم نے ) اس کے ساتھ حساب کیا ۔ وہ کہنے لگا : یہ آپ لوگوں کا مال ہے اور یہ ہدیہ ہے ۔ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" اگر تم سچے ہو تو اپنے باپ یا اپنی ماں کے گھر میں جا کر کیوں نہ بیٹھ گئے تاکہ تمہارا ہدیہ تمہارے پاس آ جاتا ۔ \" پھر آپ صلی اللہ علیہ وسلم نے ہمیں خطبہ دیا ، اللہ تعالیٰ کی حمد و ثنا کی ، پھر فرمایا : \" اما بعد! میں تم میں سے کسی شخص کو کسی ایسے کام پر عامل بناتا ہوں جس کی تولیت ( انتظام ) اللہ تعالیٰ نے میرے سپرد کی ہے اور وہ شخص آتا ہے اور کہتا ہے کہ یہ تم لوگوں کا مال ہے اور یہ ہدیہ ہے جو مجھے ملا ہے ۔ وہ شخص اگر سچا ہے تو اپنے باپ یا اپنی ماں کے گھر میں کیوں نہ بیٹھ گیا تاکہ اس کا ہدیہ اس کے پاس آتا ، اللہ کی قسم! تم میں سے جو شخص بھی اس مال میں سے کوئی چیز اپنے حق کے بغیر لے گا ، وہ قیامت کے دن اللہ تعالیٰ کے سامنے اس حال میں پیش ہو گا کہ وہ چیز اس نے اپنی گردن پر اٹھا رکھی ہو گی ، میں تم میں سے کسی بھی شخص کو ضرور پہچان لوں گا جو اللہ تعالیٰ کے سامنے اس حال میں پیش ہو گا کہ اس نے اونٹ اٹھایا ہو گا جو بلبلا رہا ہو گا ، یا گائے اٹھا رکھی ہو گی جو ڈکرا رہی ہو گی ، یا بکری اٹھائی ہو گی جو ممیا رہی ہو گی ، \" پھر آپ نے اپنے دونوں ہاتھوں کو اتنا اوپر اٹھایا کہ آپ کی بغلوں کی سفیدی نظر آنے لگی ، ( اس وقت ) آپ فرما رہے تھے : \" اے اللہ! کیا میں نے ( تیرا پیگام ) پہنچا دیا؟ \" ( ابوحمید ساعدی رضی اللہ عنہ نے کہا : یہ سب ) میری آنکھوں نے دیکھا اور میرے کانوں نے سنا.",
+                "urduNarrator": "ہم سے ابو کریب محمد بن العلاء نے بیان کیا، کہا ہم سے ابو اسامہ نے بیان کیا, ہشام نے اپنے والد سے ، انہوں نے ابوحمید ساعدی رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو كُرَيْبٍ مُحَمَّدُ بْنُ الْعَلَاءِ، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنَا هِشَامٌ، عَنْ أَبِيهِ، عَنْ أَبِي حُمَيْدٍ السَّاعِدِيِّ، قَالَ: اسْتَعْمَلَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ رَجُلًا مِنَ الْأَزْدِ عَلَى صَدَقَاتِ بَنِي سُلَيْمٍ، يُدْعَى: ابْنَ الْأُتْبِيَّةِ، فَلَمَّا جَاءَ حَاسَبَهُ، قَالَ: هَذَا مَالُكُمْ، وَهَذَا هَدِيَّةٌ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «فَهَلَّا جَلَسْتَ فِي بَيْتِ أَبِيكَ وَأُمِّكَ حَتَّى تَأْتِيَكَ هَدِيَّتُكَ إِنْ كُنْتَ صَادِقًا»، ثُمَّ خَطَبَنَا، فَحَمِدَ اللهَ، وَأَثْنَى عَلَيْهِ، ثُمَّ قَالَ: أَمَّا بَعْدُ، فَإِنِّي أَسْتَعْمِلُ الرَّجُلَ مِنْكُمْ عَلَى الْعَمَلِ مِمَّا وَلَّانِي اللهُ، فَيَأْتِي فَيَقُولُ: هَذَا مَالُكُمْ، وَهَذَا هَدِيَّةٌ أُهْدِيَتْ لِي، أَفَلَا جَلَسَ فِي بَيْتِ أَبِيهِ وَأُمِّهِ حَتَّى تَأْتِيَهُ هَدِيَّتُهُ إِنْ كَانَ صَادِقًا، وَاللهِ لَا يَأْخُذُ أَحَدٌ مِنْكُمْ مِنْهَا شَيْئًا بِغَيْرِ حَقِّهِ، إِلَّا لَقِيَ اللهَ تَعَالَى يَحْمِلُهُ يَوْمَ الْقِيَامَةِ، فَلَأَعْرِفَنَّ أَحَدًا مِنْكُمْ لَقِيَ اللهَ يَحْمِلُ بَعِيرًا لَهُ رُغَاءٌ، أَوْ بَقَرَةً لَهَا خُوَارٌ، أَوْ شَاةً تَيْعَرُ ، ثُمَّ رَفَعَ يَدَيْهِ حَتَّى رُئِيَ بَيَاضُ إِبْطَيْهِ، ثُمَّ قَالَ: «اللهُمَّ، هَلْ بَلَّغْتُ؟» بَصُرَ عَيْنِي، وَسَمِعَ أُذُنِي.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12304,
+                "hadithNumber": "4741",
+                "englishNarrator": null,
+                "hadithEnglish": "It was narrated from Hisham with this chain of narration (a similar hadith as no. 4740). In the hadith of Abdah and Ibn Numair it says: \"You should know, by Allah. By the one in whose hand in my soul! None of you should tke any things from it.\" In the Hadith of Sufyan (a sub-narrator) it adds: \"My eyes saw and my ears heard. Ask Zaid bin Thabit رضی اللہ عنہ for he was present with me.",
+                "hadithUrdu": "ابو کریب نے ہم سے کہا, عبدہ ، ابن نمیر اور ابومعاویہ ، اسی طرح عبدالرحیم بن سلیمان اور سفیان سب نے اسی سند کے ساتھ ہشام سے روایت کی ۔ عبدہ اور ابن نمیر کی حدیث میں ہے : جب وہ آیا تو ( آپ صلی اللہ علیہ وسلم نے ) اس کے ساتھ حساب کیا ، جس طرح ابواسامہ نے کہا اور ابن نمیر کی حدیث میں یہ ( بھی ) ہے : \" تم لوگوں کو ضرور پتہ چل جائے گا ، اللہ کی قسم! اس ذات کی قسم جس کے ہاتھ میں میری جان ہے! تم میں سے کوئی بھی شخص جو اس ( مال ) میں سے کوئی چیز لے گا ۔ \" سفیان کی حدیث میں یہ اضافہ ہے : میری آنکھ نے دیکھا اور میرے دونوں کانوں نے سنا ۔ ( حضرت ابوحمید ساعدی رضی اللہ عنہ نے حدیث بیان کرتے ہوئے ) کہا : تم لوگ حضرت زید بن ثابت رضی اللہ عنہ سے پوچھ لو ، وہ بھی میرے ساتھ موجود تھے.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا عَبْدَةُ، وَابْنُ نُمَيْرٍ، وَأَبُو مُعَاوِيَةَ، ح وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ الرَّحِيمِ بْنُ سُلَيْمَانَ، ح وحَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، كُلُّهُمْ عَنْ هِشَامٍ، بِهَذَا الْإِسْنَادِ، وَفِي حَدِيثِ عَبْدَةَ، وَابْنِ نُمَيْرٍ، فَلَمَّا جَاءَ حَاسَبَهُ كَمَا قَالَ أَبُو أُسَامَةَ، وَفِي حَدِيثِ ابْنِ نُمَيْرٍ: «تَعْلَمُنَّ وَاللهِ، وَالَّذِي نَفْسِي بِيَدِهِ، لَا يَأْخُذُ أَحَدُكُمْ مِنْهَا شَيْئًا»، وَزَادَ فِي حَدِيثِ سُفْيَانَ، قَالَ: بَصُرَ عَيْنِي، وَسَمِعَ أُذُنَايَ، وَسَلُوا زَيْدَ بْنَ ثَابِتٍ، فَإِنَّهُ كَانَ حَاضِرًا مَعِي.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12305,
+                "hadithNumber": "4742",
+                "englishNarrator": "It has been narrated on the authority of Abu Humaid as-Sa'idi رضی اللہ عنہ :",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) appointed a man in charge of Sadaqa (authorizing him to receive charity from the people on behalf of the State). He came (back to the Holy prophet) with a large number of things and started saying: This is for you and this has been presented to me as a gift. Here follows the tradition that has gone before except that 'Urwa (one of the narrators in the chain of transmitters) asked Abu Humaid رضی اللہ عنہ : Did you hear it from the Messenger of Allah (himself) ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ )? He replied: My ears heard it from his mouth.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ایک شخص کو صدقات پر عامل مقرر کیا ، وہ بہت زیادہ مال لے کر آیا اور کہنے لگا : یہ آپ لوگوں کا ہے اور یہ مجھے بطور ہدیہ ملا ہے ، پھر اسی ( سابقہ حدیث کی ) طرح بیان کیا ۔ عروہ نے کہا : میں نے حضرت ابوحمید ساعدی رضی اللہ عنہ سے پوچھا : کیا آپ نے یہ حدیث رسول اللہ صلی اللہ علیہ وسلم سے سنی؟ انہوں نے کہا : براہِ راست آپ کے دہن مبارک سے اپنے کانوں تک ( آتی ہوئی آواز سے سنی).",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم نے بیان کیا، انہیں جریر نے شیبانی کی سند سے بیان کیا,عبداللہ بن ذکوان یعنی ابوزناد سے روایت ہے انہوں نے عروہ بن زبیر سے ، انہوں نے ابوحمید ساعدی رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "وَحَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا جَرِيرٌ، عَنِ الشَّيْبَانِيِّ، عَنْ عَبْدِ اللهِ بْنِ ذَكْوَانَ وَهُوَ أَبُو الزِّنَادِ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ أَبِي حُمَيْدٍ السَّاعِدِيِّ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، اسْتَعْمَلَ رَجُلًا عَلَى الصَّدَقَةِ، فَجَاءَ بِسَوَادٍ كَثِيرٍ، فَجَعَلَ يَقُولُ: هَذَا لَكُمْ، وَهَذَا أُهْدِيَ إِلَيَّ، فَذَكَرَ نَحْوَهُ، قَالَ عُرْوَةُ: فَقُلْتُ لِأَبِي حُمَيْدٍ السَّاعِدِيِّ: أَسَمِعْتَهُ مِنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ؟ فَقَالَ: «مِنْ فِيهِ إِلَى أُذُنِي.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12306,
+                "hadithNumber": "4743",
+                "englishNarrator": "It has been reported on the authority of 'Adi bin 'Amira al-Kindi رضی اللہ عنہ who said:",
+                "hadithEnglish": "I heard the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) say: Whosoever from you is appointed by us to a position of authority and he conceals from us a needle or something smaller than that, it would be misappropriation (of public funds) and will (have to) produce it on the Day of Judgment. The narrator says: A dark-complexioned man from the Ansar stood up - I can visualize him still - and said: Messenger of Allah, take back from me your assignment. He said: What has happened to you? The man said: I have heard you say so and so. He said: I say that (even) now: Whosoever from you is appointed by us to a position of authority, he should bring everything, big or small, and whatever he is given therefrom he should take, and he should restrain himself from taking that which is forbidden.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم کو یہ فرماتے ہوئے سنا : \" ہم تم میں سے جس شخص کو کسی کام پر عامل مقرر کریں اور وہ ایک سوئی یا اس سے بڑی کوئی چیز ہم سے چھپا لے تو یہ خیانت ہو گی ، وہ شخص قیامت کے دن اسے ساتھ لے کر آئے گا ۔ \" ( حضرت عدی رضی اللہ عنہ نے ) کہا : میں دیکھ رہا تھا ، ( یہ بات سن کر ) انصار میں سے کالے رنگ کا ایک آدمی کھڑا ہوا اور کہنے لگا : یا رسول اللہ! آپ مجھ سے اپنا کام واپس لے لیجئے! آپ نے فرمایا : \" تمہیں کیا ہوا؟ \" اس نے کہا : میں نے آپ کو اس اس طرح فرماتے ہوئے سنا ہے ( میں اس وعید سے ڈرتا ہوں ۔ ) آپ نے فرمایا : میں اب بھی یہی کہتا ہوں کہ ہم تم میں سے جس شخص کو کسی کام کا عامل بنائیں وہ ہر چھوٹی اور بڑی چیز کو لے کر آئے ، اس کے بعد اس میں سےجو چیز اس کو دی جائے وہ لے لے اور جو چیز اس سے روک لی جائے اس سے دور رہے.",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا, وکیع بن جراح نے کہا : ہمیں اسماعیل بن ابی خالد نے قیس بن ابی حازم سے حدیث سنائی ، انہوں نے حضرت عدی بن عمیرہ کندی رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعُ بْنُ الْجَرَّاحِ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي خَالِدٍ، عَنْ قَيْسِ بْنِ أَبِي حَازِمٍ، عَنْ عَدِيِّ بْنِ عَمِيرَةَ الْكِنْدِيِّ، قَالَ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «مَنِ اسْتَعْمَلْنَاهُ مِنْكُمْ عَلَى عَمَلٍ، فَكَتَمَنَا مِخْيَطًا، فَمَا فَوْقَهُ كَانَ غُلُولًا يَأْتِي بِهِ يَوْمَ الْقِيَامَةِ»، قَالَ: فَقَامَ إِلَيْهِ رَجُلٌ أَسْوَدُ مِنَ الْأَنْصَارِ كَأَنِّي أَنْظُرُ إِلَيْهِ، فَقَالَ: يَا رَسُولَ اللهِ، اقْبَلْ عَنِّي عَمَلَكَ، قَالَ: «وَمَا لَكَ؟» قَالَ: سَمِعْتُكَ تَقُولُ: كَذَا وَكَذَا، قَالَ: «وَأَنَا أَقُولُهُ الْآنَ، مَنِ اسْتَعْمَلْنَاهُ مِنْكُمْ عَلَى عَمَلٍ، فَلْيَجِئْ بِقَلِيلِهِ وَكَثِيرِهِ، فَمَا أُوتِيَ مِنْهُ أَخَذَ، وَمَا نُهِيَ عَنْهُ انْتَهَى.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12307,
+                "hadithNumber": "4744",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Isma'il with the same chain of transmitters.",
+                "hadithUrdu": "ہم سے محمد بن عبداللہ بن نمیر ، محمد بن بشر اور ابواسامہ سبنے کہا : ہمیں اسماعیل نے اسی سند کے ساتھ اسی کے مطابق حدیث بیان کی.",
+                "urduNarrator": null,
+                "hadithArabic": "وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ عَبْدِ اللهِ بْنِ نُمَيْرٍ، حَدَّثَنَا أَبِي، وَمُحَمَّدُ بْنُ بِشْرٍ، ح وحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا أَبُو أُسَامَةَ، قَالُوا: حَدَّثَنَا إِسْمَاعِيلُ، بِهَذَا الْإِسْنَادِ بِمِثْلِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12308,
+                "hadithNumber": "4745",
+                "englishNarrator": null,
+                "hadithEnglish": "Adi bin 'Amira al-Kindi رضی اللہ عنہ heard Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as saying (as) was narrated in the (above-mentioned) hadith.",
+                "hadithUrdu": "ہم سے اسحاق بن ابراہیم الحنظلی نے بیان کیا, فضل بن موسیٰ نے کہا : ہمیں اسماعیل بن ابی خالد نے حدیث سنائی ، کہا : ہمیں قیس بن ابی حازم نے خبر دی ، انہوں نے کہا : میں نے حضرت عدی بن عمیرہ کندی رضی اللہ عنہ سے سنا ، وہ کہہ رہے تھے : میں نے رسول اللہ صلی اللہ علیہ وسلم کو یہ فرماتے ہوئے سنا ، ان سب کی حدیث کے مانند.",
+                "urduNarrator": null,
+                "hadithArabic": "وَحَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ، أَخْبَرَنَا الْفَضْلُ بْنُ مُوسَى، حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي خَالِدٍ، أَخْبَرَنَا قَيْسُ بْنُ أَبِي حَازِمٍ، قَالَ: سَمِعْتُ عَدِيَّ بْنَ عَمِيرَةَ الْكِنْدِيَّ، يَقُولُ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ بِمِثْلِ حَدِيثِهِمْ",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12309,
+                "hadithNumber": "4746",
+                "englishNarrator": "It has been narrated on the authority of Ibn Juraij:",
+                "hadithEnglish": "The Qur'anic injunction: O you who believe, obey Allah, His Apostle and those in authority from amongst You (iv. 59) -was revealed in respect of 'Abdullah bin Hudhafa bin Qais bin Adi al-Sahmi رضی اللہ عنہ who was despatched by the Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) as leader of a military campaign. The narrator said: He was informed of this fact by Ya'la bin Muslim who was informed by Sa'id bin Jubair who in turn was informed by Ibn Abbas  رضی اللہ عنہ .",
+                "hadithUrdu": "قرآن مجید کی آیت : \" اے ایمان والو! اللہ کی اطاعت کرو اور رسول کی اطاعت کرو اور ان کی جو تم میں سے اختیار والے ہیں \" حضرت عبداللہ بن حذافہ بن قیس بن عدی سہمی رضی اللہ عنہ کے متعلق نازل ہوئی ہے ، رسول اللہ صلی اللہ علیہ وسلم نے انہیں ایک لشکر میں ( امیر بنا کر ) روانہ کیا تھا ( ابن جریج نے کہا ) مجھے یعلیٰ بن مسلم نے سعید بن جبیر سے خبر دی ، انہوں نے حضرت ابن عباس رضی اللہ عنہ سے روایت کی.",
+                "urduNarrator": "مجھ سے زہیر بن حرب اور ہارون بن عبداللہ نے بیان کیا، کہا کہ ہم سے حجاج بن محمد نے بیان کیا، انہوں نے کہا ابن جریج نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، وَهَارُونُ بْنُ عَبْدِ اللهِ، قَالَا: حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، قَالَ: قَالَ ابْنُ جُرَيْجٍ: نَزَلَ: {يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ} [النساء: 59] فِي عَبْدِ اللهِ بْنِ حُذَافَةَ بْنِ قَيْسِ بْنِ عَدِيٍّ السَّهْمِيِّ، بَعَثَهُ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي سَرِيَّةٍ ، أَخْبَرَنِيهِ يَعْلَى بْنُ مُسْلِمٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ.",
+                "headingArabic": "وُجُوبِ طَاعَةِ الأُمَرَاءِ فِي غَيْرِ مَعْصِيَةٍ وَتَحْرِيمِهَا فِي الْمَعْصِيَةِ ‏‏",
+                "headingUrdu": "ان امور میں قائدین کی اطاعت واجب ہے جن میں گناہ شامل نہ ہو لیکن گناہ کے معاملات میں ان کی اطاعت کرنا حرام ہے",
+                "headingEnglish": "The obligation of obeying leaders in matters that do not involve sin, but it is forbidden to obey them in sinful matters",
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12310,
+                "hadithNumber": "4747",
+                "englishNarrator": "It has been narrated on the authority of Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Holy prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: Whoso obeys me obeys God, and whoso disobeys me disobeys God. Whoso obeys the commander (appointed by me) obeys me, and whoso disobeys the commander disobeys me. The same tradition transmitted by different persons omits the portion: And whose disobeys the commander disobeys me.",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا : \" جس نے میری اطاعت کی اس نے اللہ کی اطاعت کی اور جس نے میری نافرمانی کی اس نے اللہ کی نافرمانی کی اور جس نے امیر کی اطاعت کی اس نے میری اطاعت کی اور جس نے امیر کی نافرمانی کی اس نے میری نافرمانی کی.",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا, مغیرہ بن عبدالرحمن نے ابوزناد سے ، انہوں نے اعرج سے ، انہوں نے ابوہریرہ رضی اللہ عنہ سے ، انہوں نے نبی اکرم صلی اللہ علیہ وسلم سے روایت کی",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا الْمُغِيرَةُ بْنُ عَبْدِ الرَّحْمَنِ الْحِزَامِيُّ، عَنْ أَبِي الزِّنَادِ، عَنِ الْأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنْ أَطَاعَنِي فَقَدْ أَطَاعَ اللهَ، وَمَنْ يَعْصِنِي فَقَدْ عَصَى اللهَ، وَمَنْ يُطِعِ الْأَمِيرَ فَقَدْ أَطَاعَنِي، وَمَنْ يَعْصِ الْأَمِيرَ فَقَدْ عَصَانِي.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12311,
+                "hadithNumber": "4748",
+                "englishNarrator": "It was narrated from Abu Az-Zinad with this chain of narration (a hadith similar to no. 4747), but he did not mention (the words):",
+                "hadithEnglish": "\"Whoever disobeys the leader has disobeyed me.",
+                "hadithUrdu": "\" جس نے امیر کی نافرمانی کی اس نے میری نافرمانی کی.",
+                "urduNarrator": "مجھ سے زہیر بن حرب نے کہا, ابن عیینہ نے ابوزناد سے اسی سند کے ساتھ روایت کی ، انہوں نے یہ بیان نہیں کیا",
+                "hadithArabic": "وحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا ابْنُ عُيَيْنَةَ، عَنْ أَبِي الزِّنَادِ، بِهَذَا الْإِسْنَادِ، وَلَمْ يَذْكُرْ: «وَمَنْ يَعْصِ الْأَمِيرَ فَقَدْ عَصَانِي.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12312,
+                "hadithNumber": "4749",
+                "englishNarrator": "It has been narrated on the authority of Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: Whoso obeys me obeys God; and whose disobeys me disobeys God. Whoso obeys my commander obeys me, and whoso disobeys my commander disobeys me.",
+                "hadithUrdu": "آپ نے فرمایا : جس نے میری اطاعت کی اس نے اللہ کی اطاعت کی اور جس نے میری نافرمانی کی اس نے اللہ کی نافرمانی کی اور جس نے میرے ( مقرر کردہ ) امیر کی اطاعت کی اس نے میری اطاعت کی اور جس نے میرے امیر کی نافرمانی کی اس نے میری نافرمانی کی.",
+                "urduNarrator": "مجھ سے حرملہ بن یحییٰ نے بیان کیا، کہا ہم سے ابن وہب نے بیان کیا, یونس نے خبر دی کہ انہیں ابن شہاب نے خبر دی ، کہا : ہمیں ابوسلمہ بن عبدالرحمن نے ابوہریرہ رضی اللہ عنہ سے روایت بیان کی ، انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے روایت کی کہ",
+                "hadithArabic": "وحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَهُ، قَالَ: حَدَّثَنَا أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ: «مَنْ أَطَاعَنِي فَقَدْ أَطَاعَ اللهَ، وَمَنْ عَصَانِي فَقَدْ عَصَى اللهَ، وَمَنْ أَطَاعَ أَمِيرِي فَقَدْ أَطَاعَنِي، وَمَنْ عَصَى أَمِيرِي فَقَدْ عَصَانِي.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12313,
+                "hadithNumber": "4750",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has been narrated on the authority of Abu Huraira رضی اللہ عنہ through another chain of transmitters.",
+                "hadithUrdu": "مجھ سے محمد بن حاتم نے بیان کیا، ہم سے مکی بن ابراہیم نے بیان کیا، ہم سے ابن جریج نے بیان کیا، زیاد ( بن سعد ) سے روایت ہے ، انہوں نے ابن شہاب سے اسی سند کے ساتھ روایت کی ، انہوں نے ابوہریرہ رضی اللہ عنہ کو کہتے ہوئے سنا : رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ۔ بالکل اسی ( سابقہ حدیث ) کے مانند.",
+                "urduNarrator": null,
+                "hadithArabic": "وحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا مَكِّيُّ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا ابْنُ جُرَيْجٍ، عَنْ زِيَادٍ، عَنِ ابْنِ شِهَابٍ، أَنَّ أَبَا سَلَمَةَ بْنَ عَبْدِ الرَّحْمَنِ، أَخْبَرَهُ أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ سَوَاءً.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "34",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 134,
+                    "chapterNumber": "34",
+                    "chapterEnglish": "The Book of Government",
+                    "chapterUrdu": "امور حکومت کا بیان",
+                    "chapterArabic": "كتاب الْإِمَارَةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 12001,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=480",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=478",
+                "label": "478",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=479",
+                "label": "479",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=480",
+                "label": "480",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=481",
+                "label": "481",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=482",
+                "label": "482",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=483",
+                "label": "483",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=484",
+                "label": "484",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=482",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=482",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=480",
+        "to": 12025,
+        "total": 40465
+    }
+}

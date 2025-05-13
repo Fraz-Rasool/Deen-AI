@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 60,
+        "data": [
+            {
+                "id": 1477,
+                "hadithNumber": "1537, 1538",
+                "englishNarrator": "Narrated Sa`id bin Jubair:",
+                "hadithEnglish": "Ibn `Umar رضی اللہ عنہما used to apply oil. When I mention it to Ibrahim, he said: What will you interpret of his saying? Hadrat Aswad report that Hadrat Aishah رضی اللہ عنہا said: As if still were observing the glisten of the scent in the parting of Allah's Apostle ﷺ while he was wearing Ehram (pilgrim grab).",
+                "hadithUrdu": "ابن عمر رضی اللہ عنہما سادہ تیل استعمال کرتے تھے ( احرام کے باوجود ) میں نے اس کا ذکر ابراہیم نخعی سے کیا تو انہوں نے فرمایا کہ تم ابن عمر رضی اللہ عنہما کی بات نقل کرتے ہو ۔مجھ سے تو اسود نے بیان کیا ، اور ان سے ام المؤمنین حضرت عائشہ صدیقہ رضی اللہ عنہا نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم محرم ہیں اور گویا میں آپ صلی اللہ علیہ وسلم کی مانگ میں خوشبو کی چمک دیکھ رہی ہوں ۔",
+                "urduNarrator": "ہم سے محمد بن یوسف فریابی نے بیان کیا ، کہا کہ ہم سے سفیان ثوری نے بیان کیا ، ان سے منصور نے ، ان سے سعید بن جبیر نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، قَالَ كَانَ ابْنُ عُمَرَ رضى الله عنهما يَدَّهِنُ بِالزَّيْتِ‏.‏ فَذَكَرْتُهُ لإِبْرَاهِيمَ قَالَ مَا تَصْنَعُ بِقَوْلِهِ حَدَّثَنِي الأَسْوَدُ عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ كَأَنِّي أَنْظُرُ إِلَى وَبِيصِ الطِّيبِ فِي مَفَارِقِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَهُوَ مُحْرِمٌ‏.‏",
+                "headingArabic": "الطِّيبِ عِنْدَ الإِحْرَامِ",
+                "headingUrdu": "احرام باندھتے وقت عطر کا استعمال",
+                "headingEnglish": "The use of perfume while assuming Ihram",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1478,
+                "hadithNumber": "1539",
+                "englishNarrator": "Narrated `Aisha( the wife of the Prophet ﷺ) رضی اللہ عنہا :",
+                "hadithEnglish": "The Prophet,s wife, said: I used to perfume Allah's Apostle ﷺ when he would wear Ehram and when he would take off the Ehram before his making the circuits rounds Allah's House.",
+                "hadithUrdu": "جب رسول اللہ صلی اللہ علیہ وسلم احرام باندھتے تو میں آپ صلی اللہ علیہ وسلم کے احرام کے لیے اور اسی طرح بیت اللہ کے طواف زیارت سے پہلے حلال ہونے کے لیے ، خوشبو لگایا کرتی تھیں ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ، کہا کہ ہمیں امام مالک نے خبر دی ، انہیں عبدالرحمٰن بن قاسم نے ، انہیں ان کے والد نے اور ان سے نبی کریم صلی اللہ علیہ وسلم کی زوجہ مطہرہ عائشہ رضی اللہ عنہا نے فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ زَوْجِ النَّبِيِّ صلى الله عليه وسلم قَالَتْ كُنْتُ أُطَيِّبُ رَسُولَ اللَّهِ صلى الله عليه وسلم لإِحْرَامِهِ حِينَ يُحْرِمُ، وَلِحِلِّهِ قَبْلَ أَنْ يَطُوفَ بِالْبَيْتِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1479,
+                "hadithNumber": "1540",
+                "englishNarrator": "Narrated Salim from his father:",
+                "hadithEnglish": "I heard that Allah's Messenger (ﷺ) was pronouncing Labbaik (to end) with his hair gelled.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم سے تلبید کی حالت میں لبیک کہتے سنا ۔",
+                "urduNarrator": "ہم سے اصبغ بن فرج نے بیان کیا ، کہا کہ ہمیں عبدللہ بن وہب نے خبر دی ، انہیں یونس نے ، انہیں ابن شہاب نے ، انہیں سالم نے اور ان سے ان کے والد نے فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا أَصْبَغُ، أَخْبَرَنَا ابْنُ وَهْبٍ، عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمٍ، عَنْ أَبِيهِ ـ رضى الله عنه ـ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يُهِلُّ مُلَبِّدًا‏.‏",
+                "headingArabic": "مَنْ أَهَلَّ مُلَبِّدًا",
+                "headingUrdu": "تلبیہ اور احرام سر کے بالوں کے ساتھ (گوند یا اس جیسی)",
+                "headingEnglish": "Talbiya and Ihram with head-hair matted (with resin or the like)",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1480,
+                "hadithNumber": "1541",
+                "englishNarrator": "Narrated Salim bin `Abdullah heard his father :",
+                "hadithEnglish": "\"Never did Allah's Messenger (ﷺ) assume Ihram except at the Mosque, that is, at the Mosque of Dhul-Hulaifa.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے مسجد ذوالحلیفہ کے قریب ہی پہنچ کر احرام باندھا تھا ۔",
+                "urduNarrator": "ہم سے علی بن عبداللہ مدینی نے بیان کیا ، انہوں کہا کہ ہم سے سفیان بن عیینہ نے بیان کیا ، انہوں نے کہا کہ ہم سے موسیٰ بن عقبہ نے بیان کیا ، انہوں نے کہا کہ میں نے سالم بن عبداللہ سے سنا ، انہوں نے کہا کہ میں نے ابن عمر رضی اللہ عنہما سے سنا ( دوسری سند ) امام بخاری نے کہا اور ہم سے عبداللہ بن مسلمہ قعنبی نے بیان کیا ، ان سے امام مالک نے ، ان سے موسیٰ بن عقبہ نے ، ان سے سالم بن عبداللہ نے ، انہوں نے اپنے باپ سے سنا ، کہ وہ کہہ رہے تھے کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا مُوسَى بْنُ عُقْبَةَ، سَمِعْتُ سَالِمَ بْنَ عَبْدِ اللَّهِ، قَالَ سَمِعْتُ ابْنَ عُمَرَ ـ رضى الله عنهما ـ‏.‏ وَحَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، أَنَّهُ سَمِعَ أَبَاهُ، يَقُولُ مَا أَهَلَّ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلاَّ مِنْ عِنْدِ الْمَسْجِدِ يَعْنِي مَسْجِدَ ذِي الْحُلَيْفَةِ‏.‏",
+                "headingArabic": "الإِهْلاَلِ عِنْدَ مَسْجِدِ ذِي الْحُلَيْفَةِ",
+                "headingUrdu": "ذوالحلیفہ کی مسجد میں تلبیہ پڑھنا اور احرام باندھنا",
+                "headingEnglish": "To recite talbiya and assume Ihram at the mosque of Dhul-Hulaifa",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1481,
+                "hadithNumber": "1542",
+                "englishNarrator": "Narrated `Abdullah bin `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "A man asked, \"O Allah's Messenger (ﷺ)! What kind of clothes should a Muhrim wear?\" Allah's Messenger (ﷺ) replied, \"He should not wear a shirt, a turban, trousers, a headcloak or leather socks except if he can find no slippers, he then may wear leather socks after cutting off what might cover the ankles. And he should not wear clothes which are scented with saffron or Wars (kinds of Perfumes) . \"",
+                "hadithUrdu": "ایک شخص نے پوچھا کہ یا رسول اللہ ! محرم کو کس طرح کا کپڑا پہننا چاہئے ؟ آنحضور صلی اللہ علیہ وسلم نے فرمایا نہ کرتہ پہنے ، نہ عمامہ باندھے ، نہ پاجامہ پہنے ، نہ باران کوٹ ، نہ موزے ۔ لیکن اگر اس کے پاس جوتی نہ ہو تو وہ موزے اس وقت پہن سکتا ہے جب ٹخنوں کے نیچے سے ان کو کاٹ لیا ہو ۔ ( اور احرام میں ) کوئی ایسا کپڑا نہ پہنو جس میں زعفران یا ورس لگا ہوا ہو ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ، انہوں نے کہا کہ ہمیں امام مالک نے خبر دی ، انہیں نافع نے اور انہیں عبداللہ بن عمر رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَجُلاً، قَالَ يَا رَسُولَ اللَّهِ مَا يَلْبَسُ الْمُحْرِمُ مِنَ الثِّيَابِ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ يَلْبَسُ الْقُمُصَ وَلاَ الْعَمَائِمَ وَلاَ السَّرَاوِيلاَتِ وَلاَ الْبَرَانِسَ وَلاَ الْخِفَافَ، إِلاَّ أَحَدٌ لاَ يَجِدُ نَعْلَيْنِ فَلْيَلْبَسْ خُفَّيْنِ، وَلْيَقْطَعْهُمَا أَسْفَلَ مِنَ الْكَعْبَيْنِ، وَلاَ تَلْبَسُوا مِنَ الثِّيَابِ شَيْئًا مَسَّهُ الزَّعْفَرَانُ أَوْ وَرْسٌ ‏\"‏‏.‏",
+                "headingArabic": "مَا لاَ يَلْبَسُ الْمُحْرِمُ مِنَ الثِّيَابِ",
+                "headingUrdu": "محرم کو کیسا لباس نہیں پہننا چاہیے؟",
+                "headingEnglish": "What kind of clothes a Muhrim should not wear",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1482,
+                "hadithNumber": "1543, 1544",
+                "englishNarrator": "Narrated Ibn `Abbas' رضی اللہ عنہما :",
+                "hadithEnglish": "\"Usama رضی اللہ عنہما rode behind Allah's Messenger (ﷺ) from `Arafat to Al-Muzdalifa; and then Al-Fadl rode behind Allah's Messenger (ﷺ) from Al-Muzdalifa to Mina.\" Ibn `Abbas added, \"Both of them said, 'The Prophet kept on reciting Talbiya till he did the Rami of Jamrat-Al-`Aqaba.' \"",
+                "hadithUrdu": "عرفات سے مزدلفہ تک اسامہ بن زید رضی اللہ عنہما رسول اللہ صلی اللہ علیہ وسلم کی سواری پر پیچھے بیٹھے ہوئے تھے ۔ پھر مزدلفہ سے منیٰ تک حضرت فضل بن عباس رضی اللہ عنہما پیچھے بیٹھ گئے تھے ، دونوں حضرات نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم جمرہ عقبہ کی رمی تک برابر تلبیہ کہتے رہے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن محمد نے بیان کیا ، ان سے وہب بن جریر نے بیان کیا ، انہوں نے کہا کہ مجھ سے میرے والد جریر بن حازم نے بیان کیا ۔ ان سے یونس بن زید نے ، ان سے زہری نے ، ان سے عبیداللہ بن عبداللہ نے اور ان سے زہری نے ، ان سے عبیداللہ بن عبداللہ نے اور ان سے ابن عباس رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ ، حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ ، حَدَّثَنَا أَبِي ، عَنْ يُونُسَ الْأَيْلِيِّ ، عَنِ الزُّهْرِيِّ ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ ، عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا ، أَنَّ أُسَامَةَ رَضِيَ اللَّهُ عَنْهُ كَانَ رِدْفَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ عَرَفَةَ إِلَى الْمُزْدَلِفَةِ ، ثُمَّ أَرْدَفَ الْفَضْلَ مِنْ الْمزْدَلِفَةِ إِلَى مِنًى ، قَالَ : فَكِلَاهُمَا قَالَ : لَمْ يَزَلِ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُلَبِّي حَتَّى رَمَى جَمْرَةَ الْعَقَبَةِ .",
+                "headingArabic": "الرُّكُوبِ وَالاِرْتِدَافِ فِي الْحَجِّ",
+                "headingUrdu": "حج کے دوران تنہا یا کسی اور کے ساتھ سواری کرنا",
+                "headingEnglish": "Riding alone or with somebody else during Hajj",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1483,
+                "hadithNumber": "1545",
+                "englishNarrator": "Narrated `Abdullah bin `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) with his companions started from Medina after combing and oiling his hair and putting on two sheets of lhram (upper body cover and waist cover). He did not forbid anyone to wear any kind of sheets except the ones colored with saffron because they may leave the scent on the skin. And so in the early morning, the Prophet (ﷺ) mounted his Mount while in Dhul-Hulaifa and set out till they reached Baida', where he and his companions recited Talbiya, and then they did the ceremony of Taqlid (which means to put the colored garlands around the necks of the Budn (camels for sacrifice). And all that happened on the 25th of Dhul-Qa'da. And when he reached Mecca on the 4th of Dhul-Hijja he performed the Tawaf round the Ka`ba and performed the Tawaf between Safa and Marwa. And as he had a Badana and had garlanded it, he did not finish his Ihram. He proceeded towards the highest places of Mecca near Al-Hujun and he was assuming the Ihram for Hajj and did not go near the Ka`ba after he performed Tawaf (round it) till he returned from `Arafat. Then he ordered his companions to perform the Tawaf round the Ka`ba and then the Tawaf of Safa and Marwa, and to cut short the hair of their heads and to finish their Ihram. And that was only for those people who had not garlanded Budn. Those who had their wives with them were permitted to contact them (have sexual intercourse), and similarly perfume and (ordinary) clothes were permissible for them.",
+                "hadithUrdu": "حجتہ الوداع میں ظہر اور عصر کے درمیان ہفتہ کے دن نبی کریم صلی اللہ علیہ وسلم کنگھا کرنے اور تیل لگانے اور ازار اور رداء پہننے کے بعد اپنے صحابہ کے ساتھ مدینہ سے نکلے ۔ آپ صلی اللہ علیہ وسلم نے اس وقت زعفران میں رنگے ہوئے ایسے کپڑے کے سوا جس کا رنگ بدن پر لگتا ہو کسی قسم کی چادر یا تہبند پہننے سے منع نہیں کیا ۔ دن میں آپ صلی اللہ علیہ وسلم ذوالحلیفہ پہنچ گئے ( اور رات وہیں گزاری ) پھر آپ صلی اللہ علیہ وسلم سوار ہوئے اور بیداء سے آپ صلی اللہ علیہ وسلم نے اور آپ صلی اللہ علیہ وسلم کے ساتھیوں نے لبیک کہا اور احرام باندھا اور اپنے اونٹوں کو ہار پہنایا ۔ ذی قعدہ کے مہینے میں اب پانچ دن رہ گئے تھے پھر جب آپ صلی اللہ علیہ وسلم مکہ پہنچے تو ذی الحجہ کے چار دن گزر چکے تھے ۔ آپ صلی اللہ علیہ وسلم نے بیت اللہ کا طواف کیا اور صفا اور مروہ کی سعی کی ، آپ صلی اللہ علیہ وسلم ابھی حلال نہیں ہوئے کیونکہ قربانی کے جانور آپ صلی اللہ علیہ وسلم کے ساتھ تھے اور آپ صلی اللہ علیہ وسلم نے ان کی گردن میں ہار ڈال دیا تھا ۔ آپ صلی اللہ علیہ وسلم حجون پہاڑ کے نزدیک مکہ کے بالائی حصہ میں اترے ۔ حج کا احرام اب بھی باقی تھا ۔ بیت اللہ کے طواف کے بعد پھر آپ صلی اللہ علیہ وسلم وہاں اس وقت تک تشریف نہیں لے گئے جب تک میدان عرفات سے واپس نہ ہو لیے ۔ آپ صلی اللہ علیہ وسلم نے اپنے ساتھیوں کو حکم دیا تھا کہ وہ بیت اللہ کا طواف کریں اور صفا و مروہ کے درمیان سعی کریں ، پھر اپنے سروں کے بال ترشوا کر حلال ہو جائیں ۔ یہ فرمان ان لوگوں کے لیے تھا جن کے ساتھ قربانی کے جانور نہیں تھے ۔ اگر کسی کے ساتھ اس کی بیوی تھی تو وہ اس سے ہمبستر ہو سکتا تھا ۔ اسی طرح خوشبودار اور ( سلے ہوئے ) کپڑے کا استعمال بھی اس کے لیے جائز تھا ۔",
+                "urduNarrator": "ہم سے محمد بن ابی بکر مقدمی نے بیان کیا ، کہا کہ ہم سے فضیل بن سلیمان نے بیان کیا ، کہا کہ ہم سے موسیٰ بن عقبہ نے بیان کیا ، کہا کہ مجھے کریب نے خبر دی اور ان سے عبداللہ بن عباس رضی اللہ عنہمانے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي بَكْرٍ الْمُقَدَّمِيُّ، حَدَّثَنَا فُضَيْلُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنِي مُوسَى بْنُ عُقْبَةَ، قَالَ أَخْبَرَنِي كُرَيْبٌ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ انْطَلَقَ النَّبِيُّ صلى الله عليه وسلم مِنَ الْمَدِينَةِ، بَعْدَ مَا تَرَجَّلَ وَادَّهَنَ وَلَبِسَ إِزَارَهُ وَرِدَاءَهُ، هُوَ وَأَصْحَابُهُ، فَلَمْ يَنْهَ عَنْ شَىْءٍ مِنَ الأَرْدِيَةِ وَالأُزْرِ تُلْبَسُ إِلاَّ الْمُزَعْفَرَةَ الَّتِي تَرْدَعُ عَلَى الْجِلْدِ، فَأَصْبَحَ بِذِي الْحُلَيْفَةِ، رَكِبَ رَاحِلَتَهُ حَتَّى اسْتَوَى عَلَى الْبَيْدَاءِ، أَهَلَّ هُوَ وَأَصْحَابُهُ وَقَلَّدَ بَدَنَتَهُ، وَذَلِكَ لِخَمْسٍ بَقِينَ مِنْ ذِي الْقَعْدَةِ، فَقَدِمَ مَكَّةَ لأَرْبَعِ لَيَالٍ خَلَوْنَ مِنْ ذِي الْحَجَّةِ، فَطَافَ بِالْبَيْتِ وَسَعَى بَيْنَ الصَّفَا وَالْمَرْوَةِ، وَلَمْ يَحِلَّ مِنْ أَجْلِ بُدْنِهِ لأَنَّهُ قَلَّدَهَا، ثُمَّ نَزَلَ بِأَعْلَى مَكَّةَ عِنْدَ الْحَجُونِ، وَهْوَ مُهِلٌّ بِالْحَجِّ، وَلَمْ يَقْرَبِ الْكَعْبَةَ بَعْدَ طَوَافِهِ بِهَا حَتَّى رَجَعَ مِنْ عَرَفَةَ، وَأَمَرَ أَصْحَابَهُ أَنْ يَطَّوَّفُوا بِالْبَيْتِ وَبَيْنَ الصَّفَا وَالْمَرْوَةِ، ثُمَّ يُقَصِّرُوا مِنْ رُءُوسِهِمْ ثُمَّ يَحِلُّوا، وَذَلِكَ لِمَنْ لَمْ يَكُنْ مَعَهُ بَدَنَةٌ قَلَّدَهَا، وَمَنْ كَانَتْ مَعَهُ امْرَأَتُهُ فَهِيَ لَهُ حَلاَلٌ، وَالطِّيبُ وَالثِّيَابُ‏.‏",
+                "headingArabic": "مَا يَلْبَسُ الْمُحْرِمُ مِنَ الثِّيَابِ وَالأَرْدِيَةِ وَالأُزُرِ",
+                "headingUrdu": "محرم کو کیسا لباس پہننا چاہیے؟",
+                "headingEnglish": "What kind of clothes a Muhrim should wear",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1484,
+                "hadithNumber": "1546",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) offered four rak`at in Medina and then two rak`at at Dhul Hulaifa and then passed the night at Dhul-Hulaifa till it was morning and when he mounted his Mount and it stood up, he started to recite Talbiya.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے مدینہ میں چار رکعتیں پڑھیں لیکن ذوالحلیفہ میں دو رکعت ادا فرمائیں پھر آپ صلی اللہ علیہ وسلم نے رات وہیں گزاری ۔ صبح کے وقت جب آپ صلی اللہ علیہ وسلم اپنی سواری پر سوار ہوئے تو آپ صلی اللہ علیہ وسلم نے لبیک پکاری ۔",
+                "urduNarrator": "ہم سے عبداللہ بن محمد مسندی نے بیان کیا ، انہوں نے کہا کہ ہم سے ہشام بن یوسف نے بیان کیا ، انہوں نے کہا کہ مجھے ابن جریج نے خبر دی ، انہوں نے کہا کہ مجھ سے محمد بن المنکدر نے بیان کیا اور ان سے انس بن مالک رضی اللہ عنہ نے بیان کیا ، انہوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا هِشَامُ بْنُ يُوسُفَ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، حَدَّثَنَا مُحَمَّدُ بْنُ الْمُنْكَدِرِ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ صَلَّى النَّبِيُّ صلى الله عليه وسلم بِالْمَدِينَةِ أَرْبَعًا، وَبِذِي الْحُلَيْفَةِ رَكْعَتَيْنِ، ثُمَّ بَاتَ حَتَّى أَصْبَحَ بِذِي الْحُلَيْفَةِ، فَلَمَّا رَكِبَ رَاحِلَتَهُ وَاسْتَوَتْ بِهِ أَهَلَّ‏.‏",
+                "headingArabic": "مَنْ بَاتَ بِذِي الْحُلَيْفَةِ حَتَّى أَصْبَحَ",
+                "headingUrdu": "ذوالحلیفہ میں فجر تک رات گزارنا",
+                "headingEnglish": "Passing the night in Dhul-Hulaifa till dawn",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1485,
+                "hadithNumber": "1547",
+                "englishNarrator": "Narrated Anas bin Malik:",
+                "hadithEnglish": "\"The Prophet (ﷺ) offered four rak`at of the Zuhr prayer in Medina and two rak`at of `Asr prayer at Dhul-Hulaifa.\" I think that the Prophet (ﷺ) passed the night there till morning.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے مدینہ میں ظہر چار رکعت پڑھی لیکن ذوالحلیفہ میں عصر دو رکعت ۔ انہوں نے کہا کہ میرا خیال ہے کہ رات صبح تک آپ صلی اللہ علیہ وسلم نے ذولحلیفہ میں ہی گزار دی ۔",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا ، کہا کہ ہم سے عبدالوہاب نے بیان کیا ، کہ ہم سے ایوب سختیانی نے بیان کیا ، ان سے ابوقلابہ نے اور ان سے انس بن مالک نے کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، حَدَّثَنَا أَيُّوبُ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم صَلَّى الظُّهْرَ بِالْمَدِينَةِ أَرْبَعًا، وَصَلَّى الْعَصْرَ بِذِي الْحُلَيْفَةِ رَكْعَتَيْنِ، قَالَ وَأَحْسِبُهُ بَاتَ بِهَا حَتَّى أَصْبَحَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1486,
+                "hadithNumber": "1548",
+                "englishNarrator": "Narrated Anas رضى الله عنه :",
+                "hadithEnglish": "The Prophet (ﷺ) offered four rak`at of the Zuhr prayer in Medina and two rak`at of the `Asr prayer in Dhul-Hulaifa and I heard people pronouncing both(Hajj and Umra: Irfan) in extremely loud voice.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے نماز ظہر مدینہ منورہ میں چار رکعت پڑھی ۔ لیکن نماز عصر ذوالحلیفہ میں دو رکعت پڑھی ۔ میں نے خود سنا کہ لوگ بلند آواز سے حج اور عمرہ دونوں کے لیے لبیک کہہ رہے تھے ۔",
+                "urduNarrator": "ہم سے سلیمان بن حرب نے بیان کیا ، کہا کہ ہم سے حماد بن زید نے بیان کیا ، ان سے ابوایوب نے ، ان سے ابوقلابہ نے اور ان سے انس بن مالک نے کہ",
+                "hadithArabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ صَلَّى النَّبِيُّ صلى الله عليه وسلم بِالْمَدِينَةِ الظُّهْرَ أَرْبَعًا، وَالْعَصْرَ بِذِي الْحُلَيْفَةِ رَكْعَتَيْنِ، وَسَمِعْتُهُمْ يَصْرُخُونَ بِهِمَا جَمِيعًا‏.‏",
+                "headingArabic": "رَفْعِ الصَّوْتِ بِالإِهْلاَلِ",
+                "headingUrdu": "تلبیہ بلند آواز سے پڑھنا ہے۔",
+                "headingEnglish": "Talbiya is to be recited aloud",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1487,
+                "hadithNumber": "1549",
+                "englishNarrator": "Narrated `Abdullah bin `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "The Talbiya of Allah's Messenger (ﷺ) was : 'Labbaika Allahumma labbaik, Labbaika la sharika Laka labbaik, Inna-l-hamda wan-ni'mata Laka walmulk, La sharika Laka' (I respond to Your call O Allah, I respond to Your call, and I am obedient to Your orders, You have no partner, I respond to Your call All the praises and blessings are for You, All the sovereignty is for You, And You have no partners with you.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کا تلبیہ یہ تھا «لبيك اللهم لبيك ،‏‏‏‏ لبيك لا شريك لك لبيك ،‏‏‏‏ إن الحمد والنعمة لك والملك ،‏‏‏‏ لا شريك لك‏» ” حاضر ہوں اے اللہ ! حاضر ہوں میں ، تیرا کوئی شریک نہیں ۔ حاضر ہوں ، تمام حمد تیرے ہی لیے ہے اور تمام نعمتیں تیری ہی طرف سے ہیں ، بادشاہت تیری ہی ہے تیرا کوئی شریک نہیں ۔ “",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف تنیسی نے بیان کیا ، انہوں نے کہا کہ ہمیں امام مالک نے خبر دی ، انہیں نافع نے اور انہیں عبداللہ بن عمر رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ تَلْبِيَةَ، رَسُولِ اللَّهِ صلى الله عليه وسلم لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لاَ شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لاَ شَرِيكَ لَكَ‏.‏",
+                "headingArabic": "التَّلْبِيَةِ",
+                "headingUrdu": "تلبیہ",
+                "headingEnglish": "The Talbiya",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1488,
+                "hadithNumber": "1550",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "I know how the Prophet (ﷺ) used to say (Talbiya) and it was: 'Labbaika Allahumma Labbaik, Labbaika la sharika Laka labbaik, Inna-l-hamda wan-ni'mata Laka walmu Lk, La sharika Laka'. Abu Muaviyah corroborated him from Aamash. Shobah, Sulaiman, Khaithama, Abu Atiyya heard it from Hadrat Aishah رضی اللہ عنہا .",
+                "hadithUrdu": "میں جانتی ہوں کہ کس طرف نبی کریم صلی اللہ علیہ وسلم تلبیہ کہتے تھے ۔ آپ صلی اللہ علیہ وسلم تلبیہ یوں کہتے تھے «لبيك اللهم لبيك ،‏‏‏‏ لبيك لا شريك لك لبيك ،‏‏‏‏ إن الحمد والنعمة لك‏» ( ترجمہ گزر چکا ہے ) اس کی متابعت سفیان ثوری کی طرح ابومعاویہ نے اعمش سے بھی کی ہے ۔ اور شعبہ نے کہا کہ مجھ کو سلیمان اعمش نے خبر دی کہ میں نے خیثمہ سے سنا اور انہوں نے ابوعطیہ سے ، انہوں نے حضرت عائشہ رضی اللہ عنہا سے سنا ۔ پھر یہی حدیث بیان کی ۔",
+                "urduNarrator": "ہم سے محمدبن یوسف فریابی نے بیان کیا ، کہا کہ ہم سے سفیان ثوری نے اعمش سے بیان کیا ، ان سے عمارہ نے ان سے ابوعطیہ نے اور ان سے عائشہ رضی اللہ عنہا نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ عُمَارَةَ، عَنْ أَبِي عَطِيَّةَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ إِنِّي لأَعْلَمُ كَيْفَ كَانَ النَّبِيُّ صلى الله عليه وسلم يُلَبِّي لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لاَ شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ‏.‏ تَابَعَهُ أَبُو مُعَاوِيَةَ عَنِ الأَعْمَشِ‏.‏ وَقَالَ شُعْبَةُ أَخْبَرَنَا سُلَيْمَانُ، سَمِعْتُ خَيْثَمَةَ، عَنْ أَبِي عَطِيَّةَ، سَمِعْتُ عَائِشَةَ ـ رضى الله عنها ـ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1489,
+                "hadithNumber": "1551",
+                "englishNarrator": "Narrated Anas bin Malik:",
+                "hadithEnglish": "Allah's Messenger (ﷺ) offered four rak`at of Zuhr prayer at Medina and we were in his company, and two rak`at of the `Asr prayer at Dhul-Hulaifa and then passed the night there till it was dawn; then he rode, and when he reached Al-Baida', he praised and glorified Allah and said Takbir (i.e. Al hamdu-li l-lah and Subhanallah(1) and Allahu-Akbar). Then he and the people along with him recited Talbiya with the intention of performing Hajj and Umra. When we reached (Mecca) he ordered us to finish the lhram (after performing the Umra) (only those who had no Hadi (animal for sacrifice) with them were asked to do so) till the day of Tarwiya that is 8th Dhul-Hijja when they assumed Ihram for Hajj. The Prophet sacrificed many camels (slaughtering them) with his own hands while standing. While Allah's Apostle was in Medina he sacrificed two horned rams black and white in color in the Name of Allah.\" Imam Abu  Abdullah said: Some have reported it from Ayyub and a person has reported it from Hadrat Anas",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ، مدینہ میں ہم بھی آپ صلی اللہ علیہ وسلم کے ساتھ تھے ظہر کی نماز چار رکعت پڑھی اور ذوالحلیفہ میں عصر کی نماز دو رکعت ۔ آپ صلی اللہ علیہ وسلم رات کو وہیں رہے ۔ صبح ہوئی تو مقام بیداء سے سواری پر بیٹھتے ہوئے اللہ تعالیٰ کی حمد ، اس کی تسبیح اور تکبیر کہی ۔ پھر حج اور عمرہ کے لیے ایک ساتھ احرام باندھا اور لوگوں نے بھی آپ صلی اللہ علیہ وسلم کے ساتھ دونوں کا ایک ساتھ احرام باندھا ( یعنی قران کیا ) جب ہم مکہ آئے تو آپ صلی اللہ علیہ وسلم کے حکم سے ( جن لوگوں نے حج تمتع کا احرام باندھا تھا ان ) سب نے احرام کھول دیا ۔ پھر آٹھویں تاریخ میں سب نے حج کا احرام باندھا ۔ انہوں نے کہا کہ نبی کریم صلی اللہ علیہ وسلم نے اپنے ہاتھ سے کھڑے ہو کر بہت سے اونٹ نحر کئے ۔ حضور اکرم صلی اللہ علیہ وسلم نے ( عیدالاضحی کے دن ) مدینہ میں بھی دو چتکبرے سینگوں والے مینڈھے ذبح کئے تھے ۔ ابوعبداللہ امام بخاری نے کہا کہ بعض لوگ اس حدیث کو یوں روایت کرتے ہیں ایوب سے ، انہوں نے ایک شخص سے ، انہوں نے ا.نس سے ۔",
+                "urduNarrator": "ہم سے موسیٰ بن اسماعیل نے بیان کیا ، کہا کہ ہم سے وہیب بن خالد نے بیان کیا ، کہا کہ ہم سے ایوب سختیانی نے بیان کیا ان سے ابوقلابہ نے اور ان سے انس نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا أَيُّوبُ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم وَنَحْنُ مَعَهُ بِالْمَدِينَةِ الظُّهْرَ أَرْبَعًا، وَالْعَصْرَ بِذِي الْحُلَيْفَةِ رَكْعَتَيْنِ، ثُمَّ بَاتَ بِهَا حَتَّى أَصْبَحَ، ثُمَّ رَكِبَ حَتَّى اسْتَوَتْ بِهِ عَلَى الْبَيْدَاءِ، حَمِدَ اللَّهَ وَسَبَّحَ وَكَبَّرَ، ثُمَّ أَهَلَّ بِحَجٍّ وَعُمْرَةٍ، وَأَهَلَّ النَّاسُ بِهِمَا، فَلَمَّا قَدِمْنَا أَمَرَ النَّاسَ فَحَلُّوا، حَتَّى كَانَ يَوْمُ التَّرْوِيَةِ أَهَلُّوا بِالْحَجِّ قَالَ وَنَحَرَ النَّبِيُّ صلى الله عليه وسلم بَدَنَاتٍ بِيَدِهِ قِيَامًا، وَذَبَحَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِالْمَدِينَةِ كَبْشَيْنِ أَمْلَحَيْنِ‏.‏ قَالَ أَبُو عَبْدِ اللَّهِ قَالَ بَعْضُهُمْ هَذَا عَنْ أَيُّوبَ عَنْ رَجُلٍ عَنْ أَنَسٍ‏.‏",
+                "headingArabic": "التَّحْمِيدِ وَالتَّسْبِيحِ وَالتَّكْبِيرِ قَبْلَ الإِهْلاَلِ عِنْدَ الرُّكُوبِ عَلَى الدَّابَّةِ",
+                "headingUrdu": "اللہ کی حمد و ثناء اور تلبیہ سے پہلے تکبیر کہنا، جانور پر چڑھتے وقت",
+                "headingEnglish": "The praising and glorification of Allah and saying Takbir before Talbiya, while mounting animal",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1490,
+                "hadithNumber": "1552",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) recited Talbiya when he had mounted his Mount and was ready to set out.\r\nThe Prophet (ﷺ) pronounced Talbiyah when his mount stood aright.",
+                "hadithUrdu": "جب رسول اللہ صلی اللہ علیہ وسلم کو لے کر آپ صلی اللہ علیہ وسلم کی سواری پوری طرح کھڑی ہو گئی تھی تو آپ صلی اللہ علیہ وسلم نے اس وقت لبیک پکارا۔",
+                "urduNarrator": "ہم سے ابوعاصم نے بیان کیا ، کہا کہ ہمیں ابن جریج نے خبر دی ، کہا کہ مجھے صالح بن کیسان نے خبر دی ، انہیں نافع نے اور ان سے ابن عمر رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو عَاصِمٍ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، قَالَ أَخْبَرَنِي صَالِحُ بْنُ كَيْسَانَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ أَهَلَّ النَّبِيُّ صلى الله عليه وسلم حِينَ اسْتَوَتْ بِهِ رَاحِلَتُهُ قَائِمَةً‏.‏",
+                "headingArabic": "مَنْ أَهَلَّ حِينَ اسْتَوَتْ بِهِ رَاحِلَتُهُ قائِمَة",
+                "headingUrdu": "تلبیہ پڑھنا جب کوئی سوار ہو جائے اور وہ سیدھا کھڑا ہو جائے",
+                "headingEnglish": "Reciting Talbiya when one has mounted his mount and it stood up straight (ready to set out)",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1491,
+                "hadithNumber": "1553",
+                "englishNarrator": "Narrated Nafi:",
+                "hadithEnglish": "'Whenever Ibn 'Umar رضی اللہ عنہما finished his morning Salat at Dhul-Hulaifa he would get his Rahila (mount) prepared. Then, he would ride on it, and after it had stood up straight (ready to set out), he would face Al-Qiblah (the Ka,bah at Makkah) while sitting (on his mount) and recite Talbiya. When he had reached the boundaries of the Haram (or Makkah), he would stop recitation of Talbiya till he reached Dhi-Tuwa (near Makkah) where he would pass the night till it was dawn. After offering the morning Salat, he would take a bath. He claimed that Allah's Messenger (ﷺ) had done the same. Ismaieel corroborated him from Ayyub about bath.",
+                "hadithUrdu": "عبداللہ بن عمر رضی اللہ عنہما جب ذوالحلیفہ میں صبح کی نماز پڑھ چکے تو اپنی اونٹنی پر پالان لگانے کا حکم فرمایا ، سواری لائی گئی تو آپ اس پر سوار ہوئے اور جب وہ آپ کو لے کر کھڑی ہو گئی تو آپ کھڑے ہو کر قبلہ رو ہو گئے اور پھر لبیک کہنا شروع کیا تاآنکہ حرم میں داخل ہو گئے ۔ وہاں پہنچ کر آپ نے لبیک کہنا بند کر دیا ۔ پھرذی طویٰ میں تشریف لا کر رات وہیں گزارتے صبح ہوتی تو نماز پڑھتے اور غسل کرتے ( پھر مکہ میں داخل ہوتے ) آپ یقین کے ساتھ یہ جانتے تھے کہ رسول اللہ صلی اللہ علیہ وسلم نے بھی اسی طرح کیا تھا ۔ عبدالوارث کی طرح اس حدیث کو اسماعیل نے بھی ایوب سے روایت کیا ۔ اس میں غسل کا ذکر ہے ۔",
+                "urduNarrator": "اور ابومعمر نے کہا کہ ہم سے عبدالوارث نے بیان کیا ، انہوں نے کہا کہ ہم سے ایوب سختیانی نے نافع سے بیان کیا ، انہوں نے کہا کہ",
+                "hadithArabic": "وَقَالَ أَبُو مَعْمَرٍ حَدَّثَنَا عَبْدُ الْوَارِثِ، حَدَّثَنَا أَيُّوبُ، عَنْ نَافِعٍ، قَالَ كَانَ ابْنُ عُمَرَ ـ رضى الله عنهما ـ إِذَا صَلَّى بِالْغَدَاةِ بِذِي الْحُلَيْفَةِ أَمَرَ بِرَاحِلَتِهِ فَرُحِلَتْ ثُمَّ رَكِبَ، فَإِذَا اسْتَوَتْ بِهِ اسْتَقْبَلَ الْقِبْلَةَ قَائِمًا، ثُمَّ يُلَبِّي حَتَّى يَبْلُغَ الْمَحْرَمَ، ثُمَّ يُمْسِكُ حَتَّى إِذَا جَاءَ ذَا طُوًى بَاتَ بِهِ حَتَّى يُصْبِحَ، فَإِذَا صَلَّى الْغَدَاةَ اغْتَسَلَ، وَزَعَمَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم فَعَلَ ذَلِكَ‏.‏ تَابَعَهُ إِسْمَاعِيلُ عَنْ أَيُّوبَ فِي الْغَسْلِ‏.‏",
+                "headingArabic": "الإِهْلاَلِ مُسْتَقْبِلَ الْقِبْلَةِ",
+                "headingUrdu": "قبلہ کی طرف منہ کر کے تلبیہ پڑھنا",
+                "headingEnglish": "Reciting Talbiya while facing the Qiblah",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1492,
+                "hadithNumber": "1554",
+                "englishNarrator": "Narrated Nafi`:",
+                "hadithEnglish": "Whenever Ibn `Umar رضی اللہ عنہما intended to go to Mecca he used to oil himself with a sort of oil that had no pleasant smell, then he would go to the Mosque of Al-Hulaita and offer the prayer, and then ride. When he mounted well on his Mount and the Mount stood up straight, he would proclaim the intention of assuming Ihram, and he used to say that he had seen the Prophet (ﷺ) doing the same.",
+                "hadithUrdu": "حضرت عبداللہ بن عمر رضی اللہ عنہما جب مکہ جانے کا ارادہ کرتے تھے پہلے خوشبو کے بغیر تیل استعمال کرتے ۔ اس کے بعد مسجد ذوالحلیفہ میں تشریف لاتے یہاں صبح کی نماز پڑھتے ، پھر سوار ہوتے ، جب اونٹنی آپ کو لے کر پوری طرح کھڑی ہو جاتی تو احرام باندھتے ۔ پھر فرماتے کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو اس طرح کرتے دیکھا تھا ۔",
+                "urduNarrator": "ہم سے ابوالربیع سلیمان بن داود نے بیان کیا ، انہوں نے کہا کہ ہم سے فلیح بن سلیمان نے بیان کیا ، ان سے نافع نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ أَبُو الرَّبِيعِ، حَدَّثَنَا فُلَيْحٌ، عَنْ نَافِعٍ، قَالَ كَانَ ابْنُ عُمَرَ ـ رضى الله عنهما ـ إِذَا أَرَادَ الْخُرُوجَ إِلَى مَكَّةَ ادَّهَنَ بِدُهْنٍ لَيْسَ لَهُ رَائِحَةٌ طَيِّبَةٌ، ثُمَّ يَأْتِي مَسْجِدَ الْحُلَيْفَةِ فَيُصَلِّي ثُمَّ يَرْكَبُ، وَإِذَا اسْتَوَتْ بِهِ رَاحِلَتُهُ قَائِمَةً أَحْرَمَ، ثُمَّ قَالَ هَكَذَا رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يَفْعَلُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1493,
+                "hadithNumber": "1555",
+                "englishNarrator": "Narrated Mujahid:",
+                "hadithEnglish": "I was in the company of Ibn `Abbas رضی اللہ عنہما and the people talked about Ad-Dajjal and said, \"Ad-Dajjal will come with the word Kafir (non-believer) written in between his eyes.\" On that Ibn `Abbas رضی اللہ عنہما said, \"I have not heard this from the Prophet (ﷺ) but I heard him saying, 'As if I saw Moses just now entering the valley reciting Talbyia. ' \"",
+                "hadithUrdu": "ہم عبداللہ بن عباس رضی اللہ عنہما کی خدمت میں حاضر تھے ۔ لوگوں نے دجال کا ذکر کیا کہ آنحضور صلی اللہ علیہ وسلم نے فرمایا ہے کہ اس کی دونوں آنکھوں کے درمیان کافر لکھا ہوا ہو گا ۔ تو ابن عباس رضی اللہ عنہما نے فرمایا کہ میں نے تو یہ نہیں سنا ۔ ہاں آپ صلی اللہ علیہ وسلم نے یہ فرمایا تھا کہ گویا میں موسیٰ علیہ السلام کو دیکھ رہا ہوں کہ جب آپ وادی  میں اترے تو لبیک کہہ رہے ہیں ۔",
+                "urduNarrator": "ہم سے محمد بن مثنیٰ نے بیان کیا ، کہا کہ ہم سے ابن عدی نے بیان کیا ، ان سے عبداللہ بن عون نے ان سے مجاہد نے بیان کیا ، کہا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنِي ابْنُ أَبِي عَدِيٍّ، عَنِ ابْنِ عَوْنٍ، عَنْ مُجَاهِدٍ، قَالَ كُنَّا عِنْدَ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ فَذَكَرُوا الدَّجَّالَ أَنَّهُ قَالَ ‏\"‏ مَكْتُوبٌ بَيْنَ عَيْنَيْهِ كَافِرٌ ‏\"‏‏.‏ فَقَالَ ابْنُ عَبَّاسٍ لَمْ أَسْمَعْهُ وَلَكِنَّهُ قَالَ ‏\"‏ أَمَّا مُوسَى كَأَنِّي أَنْظُرُ إِلَيْهِ إِذِ انْحَدَرَ فِي الْوَادِي يُلَبِّي ‏\"‏‏.‏",
+                "headingArabic": "التَّلْبِيَةِ إِذَا انْحَدَرَ فِي الْوَادِي",
+                "headingUrdu": "وادی میں داخل ہونے پر تلبیہ پڑھنا",
+                "headingEnglish": "Reciting Talbiya on entering a valley",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1494,
+                "hadithNumber": "1556",
+                "englishNarrator": "Narrated Aisha the wife of the Prophet (ﷺ) :",
+                "hadithEnglish": "We set out with the Prophet (ﷺ) in his last Hajj and we assumed Ihram for Umra. The Prophet (ﷺ) then said, \"Whoever has the Hadi with him should assume Ihram for Hajj along with `Umra and should not finish the Ihram till he finishes both.\" I was menstruating when I reached Mecca, and so I neither did Tawaf round the Ka`ba nor Tawaf between Safa and Marwa. I complained about that to the Prophet (ﷺ) on which he replied, \"Undo and comb your head hair, and assume Ihram for Hajj (only) and leave the Umra.\" So, I did so. When we had performed the Hajj, the Prophet sent me with my brother `Abdur-Rahman bin Abu Bakr to Tan`im. So I performed the `Umra. The Prophet (ﷺ) said to me, \"This `Umra is instead of your missed one.\" Those who had assumed Ihram for `Umra (Hajj-atTamattu) performed Tawaf round the Ka`ba and between Safa and Marwa and then finished their Ihram. After returning from Mina, they performed another Tawaf (between Safa and Marwa). Those who had assumed Ihram for Hajj and `Umra together (Hajj-al-Qiran) performed only one Tawaf (between Safa and Marwa).",
+                "hadithUrdu": "ہم حجتہ الوداع میں نبی کریم صلی اللہ علیہ وسلم کے ساتھ روانہ ہوئے ۔ پہلے ہم نے عمرہ کا احرام باندھا لیکن نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ جس کے ساتھ قربانی ہو تو اسے عمرہ کے ساتھ حج کا بھی احرام باندھ لینا چاہئے ۔ ایسا شخص درمیان میں حلال نہیں ہو سکتا بلکہ حج اور عمرہ دونوں سے ایک ساتھ حلال ہو گا ۔ میں بھی مکہ آئی تھی اس وقت میں حائضہ ہو گئی ، اس لیے نہ بیت اللہ کا طواف کر سکی اور نہ صفا اور مروہ کی سعی ۔ میں نے اس کے متعلق نبی کریم صلی اللہ علیہ وسلم سے شکوہ کیا تو آپ صلی اللہ علیہ وسلم نے فرمایا کہ اپنا سر کھول ڈال ، کنگھا کر اور عمرہ چھوڑ کر حج کا احرام باندھ لے ۔ چنانچہ میں نے ایسا ہی کیا پھر جب ہم حج سے فارغ ہو گئے تو رسول اللہ صلی اللہ علیہ وسلم نے مجھے میرے بھائی عبدالرحمٰن بن ابی بکر کے ساتھ تنعیم بھیجا ۔ میں نے وہاں سے عمرہ کا احرام باندھا ( اور عمرہ ادا کیا ) آنحضور صلی اللہ علیہ وسلم نے فرمایا کہ یہ تمہارے اس عمرہ کے بدلے میں ہے ۔ ( جسے تم نے چھوڑ دیا تھا ) حضرت عائشہ رضی اللہ عنہا نے بیان کیا کہ جن لوگوں نے ( حجۃ الوداع میں ) صرف عمرہ کا احرام باندھا تھا ، وہ بیت اللہ کا طواف صفا اور مروہ کی سعی کر کے حلال ہو گئے ۔ پھر منیٰ سے واپس ہونے پر دوسرا طواف ( یعنی طواف الزیارۃ ) کیا لیکن جن لوگوں نے حج اور عمرہ کا ایک ساتھ احرام باندھا تھا ، انہوں نے صرف ایک ہی طواف کیا یعنی طواف الزیارۃ کیا ۔",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ قعنبی نے بیان کیا ، کہا کہ ہمیں امام مالک نے ابن شہاب سے خبر دی ، انہیں عروہ بن زبیر نے ، ان سے نبی کریم کی زوجہ مطہرہ حضرت عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ زَوْجِ النَّبِيِّ صلى الله عليه وسلم قَالَتْ خَرَجْنَا مَعَ النَّبِيِّ صلى الله عليه وسلم فِي حَجَّةِ الْوَدَاعِ، فَأَهْلَلْنَا بِعُمْرَةٍ ثُمَّ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ مَنْ كَانَ مَعَهُ هَدْىٌ فَلْيُهِلَّ بِالْحَجِّ مَعَ الْعُمْرَةِ، ثُمَّ لاَ يَحِلَّ حَتَّى يَحِلَّ مِنْهُمَا جَمِيعًا ‏\"‏ فَقَدِمْتُ مَكَّةَ وَأَنَا حَائِضٌ، وَلَمْ أَطُفْ بِالْبَيْتِ وَلاَ بَيْنَ الصَّفَا وَالْمَرْوَةِ، فَشَكَوْتُ ذَلِكَ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ ‏\"‏ انْقُضِي رَأْسَكِ وَامْتَشِطِي، وَأَهِلِّي بِالْحَجِّ، وَدَعِي الْعُمْرَةَ ‏\"‏‏.‏ فَفَعَلْتُ فَلَمَّا قَضَيْنَا الْحَجَّ أَرْسَلَنِي النَّبِيُّ صلى الله عليه وسلم مَعَ عَبْدِ الرَّحْمَنِ بْنِ أَبِي بَكْرٍ إِلَى التَّنْعِيمِ فَاعْتَمَرْتُ فَقَالَ ‏\"‏ هَذِهِ مَكَانَ عُمْرَتِكِ ‏\"‏‏.‏ قَالَتْ فَطَافَ الَّذِينَ كَانُوا أَهَلُّوا بِالْعُمْرَةِ بِالْبَيْتِ وَبَيْنَ الصَّفَا وَالْمَرْوَةِ، ثُمَّ حَلُّوا، ثُمَّ طَافُوا طَوَافًا وَاحِدًا بَعْدَ أَنْ رَجَعُوا مِنْ مِنًى، وَأَمَّا الَّذِينَ جَمَعُوا الْحَجَّ وَالْعُمْرَةَ فَإِنَّمَا طَافُوا طَوَافًا وَاحِدًا‏.‏",
+                "headingArabic": null,
+                "headingUrdu": "حیض والی عورت اور حیض والی عورت کو احرام کیسے باندھنا چاہیے؟",
+                "headingEnglish": "How should a menstruating woman and a woman in a puerperal state assume Ihram?",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1495,
+                "hadithNumber": "1557",
+                "englishNarrator": "Narrated Jabir رضی اللہ عنہ :",
+                "hadithEnglish": "\"The Prophet (ﷺ) ordered `Ali رضی اللہ عنہ to keep on assuming his Ihram.\" The narrator then informed about the narration of Suraqa.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے حضرت علی رضی اللہ عنہ کو حکم دیا تھا کہ وہ اپنے احرام پر قائم رہیں ۔ انہوں نے سراقہ کا قول بھی ذکر کیا تھا ۔",
+                "urduNarrator": "ہم سے مکی بن ابراہیم نے بیان کیا ، ان سے ابن جریج نے ، ان سے عطاء بن ابی رباح نے بیان کیا کہ کہ جابر رضی اللہ عنہ نے فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا الْمَكِّيُّ بْنُ إِبْرَاهِيمَ، عَنِ ابْنِ جُرَيْجٍ، قَالَ عَطَاءٌ قَالَ جَابِرٌ ـ رضى الله عنه ـ أَمَرَ النَّبِيُّ صلى الله عليه وسلم عَلِيًّا ـ رضى الله عنه ـ أَنْ يُقِيمَ عَلَى إِحْرَامِهِ، وَذَكَرَ قَوْلَ سُرَاقَةَ‏.‏",
+                "headingArabic": "مَنْ أَهَلَّ فِي زَمَنِ النَّبِيِّ صلى الله عليه وسلم كَإِهْلاَلِ النَّبِيِّ صلى الله عليه وسلم",
+                "headingUrdu": "جس نے احرام اسی نیت سے باندھا جو رسول اللہ صلی اللہ علیہ وسلم کا تھا۔",
+                "headingEnglish": "Whoever assumed Ihram with the same intention as that of the Prophet (saws)",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1496,
+                "hadithNumber": "1558",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "`Ali رضی اللہ عنہ came to the Prophet (ﷺ) from Yemen (to Mecca). The Prophet (ﷺ) asked `Ali, \"With what intention have you assumed Ihram?\" `Ali replied, \"I have assumed Ihram with the same intention as that of the Prophet (ﷺ).\" The Prophet (ﷺ) said, \"If I had not the Hadi with me I would have finished the Ihram.\" Muhammad bin Bakr narrated extra from Ibn Juraij, \"The Prophet (ﷺ) said to `Ali, \"With what intention have you assumed the Ihram, O `Ali?\" He replied, \"With the same (intention) as that of the Prophet.\" The Prophet (ﷺ) said, \"Have a Hadi and keep your Ihram as it is.\"",
+                "hadithUrdu": "حضرت علی رضی اللہ عنہ یمن سے نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے تو آپ صلی اللہ علیہ وسلم نے پوچھا کہ کس طرح کا احرام باندھا ہے ؟ انہوں نے کہا کہ جس طرح کا آنحضور صلی اللہ علیہ وسلم نے باندھا ہو ۔ اس پر آپ صلی اللہ علیہ وسلم نے فرمایا کہ اگر میرے ساتھ قربانی نہ ہوتی تو میں حلال ہو جاتا ۔محمد بن بکرابی کی روایت میں یہ اضافہ ہے کہ نبیﷺنے فرمایا:’’اےعلی!تم نے کس چیزکااحرام باندھا ہے؟انہوں نے عرض کیاکہ جس چیز  نبیﷺ کا احرام باندھا ہے .رسول اللہﷺ  نےحضرت علی رضی اللہ عنہ کو حکم دیا:اپنی قربانی کو قابورکھواورجیسے اس وقت ہواسی حالت میں محرم رہو۔",
+                "urduNarrator": "ہم سے حسن بن علی خلال ہذلی نے بیان کیا ، انہوں نے کہا کہ ہم سے عبدالصمد بن عبدالوارث نے بیان کیا ، انہوں نے کہا کہ ہم سے سلیم بن حیان نے بیان کیا ، انہوں نے کہا کہ میں نے مروان اصفر سے سنا اور ان سے انس بن مالک  رضی اللہ عنہ بیان کیا تھا کہ",
+                "hadithArabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْخَلاَّلُ الْهُذَلِيُّ، حَدَّثَنَا عَبْدُ الصَّمَدِ، حَدَّثَنَا سَلِيمُ بْنُ حَيَّانَ، قَالَ سَمِعْتُ مَرْوَانَ الأَصْفَرَ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ قَدِمَ عَلِيٌّ ـ رضى الله عنه ـ عَلَى النَّبِيِّ صلى الله عليه وسلم مِنَ الْيَمَنِ فَقَالَ ‏\"‏ بِمَا أَهْلَلْتَ ‏\"‏‏.‏ قَالَ بِمَا أَهَلَّ بِهِ النَّبِيُّ صلى الله عليه وسلم‏.‏ فَقَالَ ‏\"‏ لَوْلاَ أَنَّ مَعِي الْهَدْىَ لأَحْلَلْتُ ‏\"‏‏.‏ وَزَادَ مُحَمَّدُ بْنُ بَكْرٍ عَنِ ابْنِ جُرَيْجٍ قَالَ لَهُ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ بِمَا أَهْلَلْتَ يَا عَلِيُّ ‏\"‏‏.‏ قَالَ بِمَا أَهَلَّ بِهِ النَّبِيُّ صلى الله عليه وسلم قَالَ ‏\"‏ فَأَهْدِ وَامْكُثْ حَرَامًا كَمَا أَنْتَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1497,
+                "hadithNumber": "1559",
+                "englishNarrator": "Narrated Abu Musa:",
+                "hadithEnglish": "The Prophet (ﷺ) sent me to some people in Yemen and when I returned, I found him at Al-Batha. He asked me, \"With what intention have you assumed Ihram (i.e. for Hajj or for Umra or for both?\") I replied, \"I have assumed Ihram with an intention like that of the Prophet.\" He asked, \"Have you a Hadi with you?\" I replied in the negative. He ordered me to perform Tawaf round the Ka`ba and between Safa and Marwa and then to finish my Ihram. I did so and went to a woman from my tribe who combed my hair or washed my head. Then, when `Umar came (i.e. became Caliph) he said, \"If we follow Allah's Book, it orders us to complete Hajj and Umra; as Allah says: \"Perform the Hajj and Umra for Allah.\" (2.196). And if we follow the tradition of the Prophet (ﷺ) who did not finish his Ihram till he sacrificed his Hadi.\"",
+                "hadithUrdu": "مجھے نبی کریم صلی اللہ علیہ وسلم نے میری قوم کے پاس یمن بھیجا تھا ۔ جب ( حجۃ الوداع کے موقع پر ) میں آیا تو آپ صلی اللہ علیہ وسلم سے بطحاء میں ملاقات ہوئی ۔ آپ صلی اللہ علیہ وسلم نے دریافت فرمایا کہ کس کا احرام باندھا ہے ؟ میں نے عرض کی کہ آنحضور صلی اللہ علیہ وسلم نے جس کا باندھا ہو آپ صلی اللہ علیہ وسلم نے پوچھا کیا تمہارے ساتھ قربانی ہے ؟ میں نے عرض کی کہ نہیں ، اس لیے آپ صلی اللہ علیہ وسلم نے مجھے حکم دیا کہ میں بیت اللہ کا طواف ، صفا اور مروہ کی سعی کروں چنانچہ میں اپنی قوم کی ایک خاتون کے پاس آیا ۔ انہوں نے میرے سر کا کنگھا کیا یا میرا سرد ھویا ۔ پھر حضرت عمر رضی اللہ عنہ کا زمانہ آیا تو آپ نے فرمایا کہ اگر ہم اللہ کی کتاب پر عمل کریں تو وہ یہ حکم دیتی ہے کہ حج اور عمرہ پورا کرو ۔ اللہ تعالیٰ فرماتا ہے ’’ اور حج اور عمرہ پورا کرو اللہ کی رضا کے لیے ۔ “ اور اگر ہم آنحضرت صلی اللہ علیہ وسلم کی سنت کو لیں تو آنحضرت صلی اللہ علیہ وسلم نے اس وقت تک احرام نہیں کھولا جب تک آپ صلی اللہ علیہ وسلم نے قربانی سے فراغت نہیں حاصل فرمائی ۔",
+                "urduNarrator": "ہم سے محمد بن یوسف فریابی نے بیان کیا ، کہا کہ ہم سے سفیان ثوری نے بیان کیا ، ان سے قیس بن مسلم نے ، ان سے طارق بن شہاب نے اور ان سے ابوموسیٰ اشعری نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا سُفْيَانُ، عَنْ قَيْسِ بْنِ مُسْلِمٍ، عَنْ طَارِقِ بْنِ شِهَابٍ، عَنْ أَبِي مُوسَى ـ رضى الله عنه ـ قَالَ بَعَثَنِي النَّبِيُّ صلى الله عليه وسلم إِلَى قَوْمٍ بِالْيَمَنِ فَجِئْتُ وَهْوَ بِالْبَطْحَاءِ فَقَالَ ‏\"‏ بِمَا أَهْلَلْتَ ‏\"‏‏.‏ قُلْتُ أَهْلَلْتُ كَإِهْلاَلِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏\"‏ هَلْ مَعَكَ مِنْ هَدْىٍ ‏\"‏‏.‏ قُلْتُ لاَ‏.‏ فَأَمَرَنِي فَطُفْتُ بِالْبَيْتِ وَبِالصَّفَا وَالْمَرْوَةِ ثُمَّ أَمَرَنِي فَأَحْلَلْتُ فَأَتَيْتُ امْرَأَةً مِنْ قَوْمِي فَمَشَطَتْنِي، أَوْ غَسَلَتْ رَأْسِي، فَقَدِمَ عُمَرُ ـ رضى الله عنه ـ فَقَالَ إِنْ نَأْخُذْ بِكِتَابِ اللَّهِ فَإِنَّهُ يَأْمُرُنَا بِالتَّمَامِ قَالَ اللَّهُ ‏{‏وَأَتِمُّوا الْحَجَّ وَالْعُمْرَةَ‏}‏ وَإِنْ نَأْخُذْ بِسُنَّةِ النَّبِيِّ صلى الله عليه وسلم فَإِنَّهُ لَمْ يَحِلَّ حَتَّى نَحَرَ الْهَدْىَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1498,
+                "hadithNumber": "1560",
+                "englishNarrator": "Narrated Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "\"We set out with Allah's Messenger (ﷺ)s in the months of Hajj, and (in) the nights of Hajj, and at the time and places of Hajj and in a state of Hajj. We dismounted at Sarif (a village six miles from Mecca). The Prophet (ﷺ) then addressed his companions and said, \"Anyone who has not got the Hadi and likes to do Umra instead of Hajj may do so (i.e. Hajj-al-Tamattu`) and anyone who has got the Hadi should not finish the Ihram after performing ' `Umra). (i.e. Hajj-al-Qiran). Aisha رضی اللہ عنہا نadded, \"The companions of the Prophet (ﷺ) obeyed the above (order) and some of them (i.e. who did not have Hadi) finished their Ihram after Umra.\" Allah's Messenger (ﷺ) and some of his companions were resourceful and had the Hadi with them, they could not perform Umra (alone) (but had to perform both Hajj and Umra with one Ihram). Aisha added, \"Allah's Messenger (ﷺ) came to me and saw me weeping and said, \"What makes you weep, O Hantah?\" I replied, \"I have heard your conversation with your companions and I cannot perform the Umra.\" He asked, \"What is wrong with you?' I replied, ' I do not offer the prayers (i.e. I have my menses).' He said, ' It will not harm you for you are one of the daughters of Adam, and Allah has written for you (this state) as He has written it for them. Keep on with your intentions for Hajj and Allah may reward you that.\" Aisha further added, \"Then we proceeded for Hajj till we reached Mina and I became clean from my menses. Then I went out from Mina and performed Tawaf round the Ka`ba.\" Aisha added, \"I went along with the Prophet (ﷺ) in his final departure (from Hajj) till he dismounted at Al-Muhassab (a valley outside Mecca), and we too, dismounted with him.\" He called ' `Abdur-Rahman bin Abu Bakr and said to him, ' Take your sister outside the sanctuary of Mecca and let her assume Ihram for ' `Umra, and when you had finished ' `Umra, return to this place and I will wait for you both till you both return to me.' \" ' Aisha added, \" So we went out of the sanctuary of Mecca and after finishing from the ' `Umra and the Tawaf we returned to the Prophet (ﷺ) at dawn. He said, 'Have you performed the ' `Umra?' We replied in the affirmative. So he announced the departure amongst his companions and the people set out for the journey, and the Prophet: too left for Medina.''(Imam Abu Abdullah bukhari said) it is also said.  وَضَرَّ يَضُرُّ ضَرًّا is derived from. It is also said: ضَارَ يَضُورُ ضَوْرًا and ضَرَّيَضُرُّ ضَرًّا‏ .",
+                "hadithUrdu": "ہم رسول اللہ صلی اللہ علیہ وسلم کے ساتھ حج کے مہینوں میں حج کی راتوں میں اور حج کے دنوں میں نکلے ۔ پھر سرف میں جا کر اترے ۔ آپ نے بیان کیا کہ پھر نبی کریم صلی اللہ علیہ وسلم نے صحابہ کو خطاب فرمایا جس کے ساتھ ہدی نہ ہو اور وہ چاہتا ہو کہ اپنے احرام کو صرف عمرہ کا بنا لے تو اسے ایسا کر لینا چاہئے لیکن جس کے ساتھ قربانی ہے وہ ایسا نہ کرے ۔ حضرت عائشہ رضی اللہ عنہا نے بیان فرمایا کہ آنحضور صلی اللہ علیہ وسلم کے بعض اصحاب نے اس فرمان پر عمل کیا اور بعض نے نہیں کیا ۔ انہوں نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم اور آپ کے بعض اصحاب جو استطاعت و حوصلہ والے تھے ( کہ وہ احرام کے ممنوعات سے بچ سکتے تھے ۔ ) ان کے ساتھ ہدی بھی تھی ، اس لیے وہ تنہا عمرہ نہیں کر سکتے تھے ( پس انہوں نے احرام نہیں کھولا ) عائشہ رضی اللہ عنہا نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم میرے پاس تشریف لائے تو میں رو رہی تھی ۔ آپ صلی اللہ علیہ وسلم نے پوچھا کہ ( اے بھولی بھالی عورت ! تو ) رو کیوں رہی ہے ؟ میں نے عرض کی کہ میں نے آپ کے اپنے صحابہ سے ارشاد کو سن لیا ، اب تو میں عمرہ نہ کر سکوں گی ۔ آپ صلی اللہ علیہ وسلم نے پوچھا کیا بات ہے ؟ میں نے کہا میں نماز پڑھنے کے قابل نہ رہی ( یعنی حائضہ ہو گئی ) آپ صلی اللہ علیہ وسلم نے فرمایا کوئی حرج نہیں ۔ آخر تم بھی تو آدم کی بیٹیوں کی طرح ایک عورت ہو اور اللہ نے تمہارے لیے بھی وہ مقدر کیا ہے جو تمام عورتوں کے لیے کیا ہے ۔ اس لیے ( عمرہ چھوڑ کر ) حج کرتی رہ اللہ تعالیٰ تمہیں جلد ہی عمرہ کی توفیق دیدے گا ۔ حضرت عائشہ رضی اللہ عنہا نے یہ بیان کیا کہ ہم حج کے لیے نکلے ۔ جب ہم ( عرفات سے ) منیٰ پہنچے تو میں پاک ہو گئی ۔ پھر منٰی سے جب میں نکلی تو بیت اللہ کا طواف الزیارۃ کیا ۔ آپ نے بیان کیا کہ آخر میں آنحضور صلی اللہ علیہ وسلم کے ساتھ جب واپس ہونے لگی تو آپ صلی اللہ علیہ وسلم وادی محصب میں آن کر اترے ۔ ہم بھی آپ صلی اللہ علیہ وسلم کے ساتھ ٹھہرے ۔ آپ صلی اللہ علیہ وسلم نے عبدالرحمٰن بن ابی بکر کو بلا کر کہا کہ اپنی بہن کو لے کر حرم سے باہر جا اور وہاں سے عمرہ کا احرام باندھ پھر عمرہ سے فارغ ہو کر تم لوگ یہیں واپس آ جاؤ ، میں تمہارا انتظار کرتا رہوں گا ۔ عائشہ رضی اللہ عنہا نے بیان کیا کہ ہم ( آنحضور صلی اللہ علیہ وسلم کی ہدایت کے مطابق ) چلے اور جب میں اور میرے بھائی طواف سے فارغ ہو لیے تو میں سحری کے وقت آپ صلی اللہ علیہ وسلم کی خدمت میں پہنچی ۔ آپ صلی اللہ علیہ وسلم نے پوچھا کہ فارغ ہو لیں ؟ میں نے کہا ہاں ۔ تب آپ صلی اللہ علیہ وسلم نے اپنے ساتھیوں سے سفر شروع کر دینے کے لیے کہا ۔ سفر شروع ہو گیا اور آپ صلی اللہ علیہ وسلم مدینہ منورہ واپس ہو رہے تھے ۔ ابوعبداللہ ( امام بخاری ) نے کہا کہ جو «لايضيرک» ہے وہ «ضار يضير ضيراا» سے مشتق ہے ضار يضور ضورا» بھی استعمال ہوتا ہے ۔ اور جس روایت میں «لايضرک» ہے وہ «ضر يضر ضرا‏» سے نکلا ہے ۔",
+                "urduNarrator": "ہم سے محمد بن بشار نے بیان کیا ، کہا کہ ہم سے ابوبکر حنفی نے بیان کیا ، کہا کہ ہم سے افلح بن حمید نے بیان کیا ، کہا کہ میں نے قاسم بن محمد سے سنا ، ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنِي أَبُو بَكْرٍ الْحَنَفِيُّ، حَدَّثَنَا أَفْلَحُ بْنُ حُمَيْدٍ، سَمِعْتُ الْقَاسِمَ بْنَ مُحَمَّدٍ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي أَشْهُرِ الْحَجِّ، وَلَيَالِي الْحَجِّ وَحُرُمِ الْحَجِّ، فَنَزَلْنَا بِسَرِفَ قَالَتْ فَخَرَجَ إِلَى أَصْحَابِهِ فَقَالَ ‏\"‏ مَنْ لَمْ يَكُنْ مِنْكُمْ مَعَهُ هَدْىٌ فَأَحَبَّ أَنْ يَجْعَلَهَا عُمْرَةً فَلْيَفْعَلْ، وَمَنْ كَانَ مَعَهُ الْهَدْىُ فَلاَ ‏\"‏‏.‏ قَالَتْ فَالآخِذُ بِهَا وَالتَّارِكُ لَهَا مِنْ أَصْحَابِهِ قَالَتْ فَأَمَّا رَسُولُ اللَّهِ صلى الله عليه وسلم وَرِجَالٌ مِنْ أَصْحَابِهِ فَكَانُوا أَهْلَ قُوَّةٍ، وَكَانَ مَعَهُمُ الْهَدْىُ، فَلَمْ يَقْدِرُوا عَلَى الْعُمْرَةِ قَالَتْ فَدَخَلَ عَلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم وَأَنَا أَبْكِي فَقَالَ ‏\"‏ مَا يُبْكِيكِ يَا هَنْتَاهْ ‏\"‏‏.‏ قُلْتُ سَمِعْتُ قَوْلَكَ لأَصْحَابِكَ فَمُنِعْتُ الْعُمْرَةَ‏.‏ قَالَ ‏\"‏ وَمَا شَأْنُكِ ‏\"‏‏.‏ قُلْتُ لاَ أُصَلِّي‏.‏ قَالَ ‏\"‏ فَلاَ يَضِيرُكِ، إِنَّمَا أَنْتِ امْرَأَةٌ مِنْ بَنَاتِ آدَمَ كَتَبَ اللَّهُ عَلَيْكِ مَا كَتَبَ عَلَيْهِنَّ، فَكُونِي فِي حَجَّتِكِ، فَعَسَى اللَّهُ أَنْ يَرْزُقَكِيهَا ‏\"‏‏.‏ قَالَتْ فَخَرَجْنَا فِي حَجَّتِهِ حَتَّى قَدِمْنَا مِنًى فَطَهَرْتُ، ثُمَّ خَرَجْتُ مِنْ مِنًى فَأَفَضْتُ بِالْبَيْتِ قَالَتْ ثُمَّ خَرَجَتْ مَعَهُ فِي النَّفْرِ الآخِرِ حَتَّى نَزَلَ الْمُحَصَّبَ، وَنَزَلْنَا مَعَهُ فَدَعَا عَبْدَ الرَّحْمَنِ بْنَ أَبِي بَكْرٍ فَقَالَ ‏\"‏ اخْرُجْ بِأُخْتِكَ مِنَ الْحَرَمِ، فَلْتُهِلَّ بِعُمْرَةٍ ثُمَّ افْرُغَا، ثُمَّ ائْتِيَا هَا هُنَا، فَإِنِّي أَنْظُرُكُمَا حَتَّى تَأْتِيَانِي ‏\"‏‏.‏ ـ قَالَتْ ـ فَخَرَجْنَا حَتَّى إِذَا فَرَغْتُ، وَفَرَغْتُ مِنَ الطَّوَافِ ثُمَّ جِئْتُهُ بِسَحَرَ فَقَالَ ‏\"‏ هَلْ فَرَغْتُمْ ‏\"‏‏.‏ فَقُلْتُ نَعَمْ‏.‏ فَآذَنَ بِالرَّحِيلِ فِي أَصْحَابِهِ، فَارْتَحَلَ النَّاسُ فَمَرَّ مُتَوَجِّهًا إِلَى الْمَدِينَةِ‏.‏ ضَيْرُ مِنْ ضَارَ يَضِيرُ ضَيْرًا، وَيُقَالُ ضَارَ يَضُورُ ضَوْرًا وَضَرَّ يَضُرُّ ضَرًّا‏.‏",
+                "headingArabic": "قَوْلِ اللَّهِ تَعَالَى: {الْحَجُّ أَشْهُرٌ مَعْلُومَاتٌ فَمَنْ فَرَضَ فِيهِنَّ الْحَجَّ فَلاَ رَفَثَ وَلاَ فُسُوقَ وَلاَ جِدَالَ فِي الْحَجِّ}",
+                "headingUrdu": "\"حج معروف (قمری سال) مہینوں میں ہے ...\"",
+                "headingEnglish": "\"The Hajj is (in) the well-known (lunar year) months ...\"",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1499,
+                "hadithNumber": "1561",
+                "englishNarrator": "Narrated Aisha رضی اللہ عنہا:",
+                "hadithEnglish": "We went out with the Prophet (from Medina) with the intention of performing Hajj only and when we reached Mecca we performed Tawaf round the Ka`ba and then the Prophet (ﷺ) ordered those who had not driven the Hadi along with them to finish their Ihram. So the people who had not driven the Hadi along with them finished their Ihram. The Prophet's wives, too, had not driven the Hadi with them, so they too, finished their Ihram.\" `Aisha added, \"I got my menses and could not perform Tawaf round the Ka`ba.\" So when it was the night of Hasba (i.e. when we stopped at Al-Muhassab), I said, 'O Allah's Messenger (ﷺ)! Everyone is returning after performing Hajj and `Umra but I am returning after performing Hajj only.' He said, 'Didn't you perform Tawaf round the Ka`ba the night we reached Mecca?' I replied in the negative. He said, 'Go with your brother to Tan`im and assume the Ihram for `Umra, (and after performing it) come back to such and such a place.' On that Safiya said, 'I feel that I will detain you all.' The Prophet (ﷺ) said, 'O 'Aqra Halqa! Didn't you perform Tawaf of the Ka`ba on the day of sacrifice? (i.e. Tawaf-al-ifada) Safiya رضی اللہ عنہا replied in the affirmative. He said, (to Safiya). 'There is no harm for you to proceed on with us.' \" `Aisha رضی اللہ عنہا added, \"(after returning from `Umra), the Prophet (ﷺ) met me while he was ascending (from Mecca) and I was descending to it, or I was ascending and he was descending.\"",
+                "hadithUrdu": "ہم حج کے لیے رسول اللہ صلی اللہ علیہ وسلم کے ساتھ نکلے ۔ ہماری نیت حج کے سوا اور کچھ نہ تھی ۔ جب ہم مکہ پہنچے تو ( اور لوگوں نے ) بیت اللہ کا طواف کیا ۔ آنحضور صلی اللہ علیہ وسلم کا حکم تھا کہ جو قربانی اپنے ساتھ نہ لایا ہو وہ حلال ہو جائے ۔ چنانچہ جن کے پاس ہدی نہ تھی وہ حلال ہو گئے ۔ ( افعال عمرہ کے بعد ) آنحضور صلی اللہ علیہ وسلم کی ازواج مطہرات ہدی نہیں لے گئی تھیں ، اس لیے انہوں نے بھی احرام کھول ڈالے ۔ عائشہ رضی اللہ عنہا نے کہا کہ میں حائضہ ہو گئی تھیں اس لیے بیت اللہ کا طواف نہ کر سکی ( یعنی عمرہ چھوٹ گیا اور حج کرتی چلی گئی ) جب محصب کی رات آئی ، میں نے کہا یا رسول اللہ ! اور لوگ تو حج اور عمرہ دونوں کر کے واپس ہو رہے ہیں لیکن میں صرف حج کر سکی ہوں ۔ اس پر آپ صلی اللہ علیہ وسلم نے فرمایا کہ جب ہم مکہ آئے تھے تو تم طواف نہ کر سکی تھی ؟ میں نے کہا کہ نہیں ۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ اپنے بھائی کے ساتھ تنعیم تک چلی جا اور وہاں سے عمرہ کا احرام باندھ ( پھر عمرہ ادا کر ) ہم لوگ تمہارا فلاں جگہ انتظار کریں گے اور صفیہ رضی اللہ عنہا نے کہا کہ معلوم ہوتا ہے میں بھی آپ ( لوگوں ) کو روکنے کا سبب بن جاؤں گی ۔ آنحضور صلی اللہ علیہ وسلم نے فرمایا «عقرى حلقى» کیا تو نے یوم نحر کا طواف نہیں کیا تھا ؟ انہوں نے کہا کیوں نہیں میں تو طواف کر چکی ہوں ۔ آپ صلی اللہ علیہ وسلم نے فرمایا پھر کوئی حرج نہیں چل کوچ کر ۔ عائشہ رضی اللہ عنہا نے کہا کہ پھر میری ملاقات نبی کریم صلی اللہ علیہ وسلم سے ہوئی تو آپ صلی اللہ علیہ وسلم مکہ سے جاتے ہوئے اوپر کے حصہ پر چڑھ رہے تھے اور میں نشیب میں اتر رہی تھی یا یہ کہا کہ میں اوپر چڑھ رہی تھی اور آنحضور صلی اللہ علیہ وسلم اس چڑھاؤ کے بعد اتر رہے تھے ۔",
+                "urduNarrator": "ہم سے عثمان بن ابی شیبہ نے بیان کیا ، کہا کہ ہم سے جریر نے بیان کیا ، ان سے منصور نے ، ان سے ابراہیم نخعی نے ، ان سے اسود نے اور ان سے عائشہ رضی اللہ عنہا نے کہ",
+                "hadithArabic": "حَدَّثَنَا عُثْمَانُ، حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ خَرَجْنَا مَعَ النَّبِيِّ صلى الله عليه وسلم وَلاَ نُرَى إِلاَّ أَنَّهُ الْحَجُّ، فَلَمَّا قَدِمْنَا تَطَوَّفْنَا بِالْبَيْتِ، فَأَمَرَ النَّبِيُّ صلى الله عليه وسلم مَنْ لَمْ يَكُنْ سَاقَ الْهَدْىَ أَنْ يَحِلَّ، فَحَلَّ مَنْ لَمْ يَكُنْ سَاقَ الْهَدْىَ، وَنِسَاؤُهُ لَمْ يَسُقْنَ فَأَحْلَلْنَ، قَالَتْ عَائِشَةُ ـ رضى الله عنها ـ فَحِضْتُ فَلَمْ أَطُفْ بِالْبَيْتِ، فَلَمَّا كَانَتْ لَيْلَةُ الْحَصْبَةِ قَالَتْ يَا رَسُولَ اللَّهِ، يَرْجِعُ النَّاسُ بِعُمْرَةٍ وَحَجَّةٍ وَأَرْجِعُ أَنَا بِحَجَّةٍ قَالَ ‏\"‏ وَمَا طُفْتِ لَيَالِيَ قَدِمْنَا مَكَّةَ ‏\"‏‏.‏ قُلْتُ لاَ‏.‏ قَالَ ‏\"‏ فَاذْهَبِي مَعَ أَخِيكِ إِلَى التَّنْعِيمِ، فَأَهِلِّي بِعُمْرَةٍ ثُمَّ مَوْعِدُكِ كَذَا وَكَذَا ‏\"‏‏.‏ قَالَتْ صَفِيَّةُ مَا أُرَانِي إِلاَّ حَابِسَتَهُمْ‏.‏ قَالَ ‏\"‏ عَقْرَى حَلْقَى، أَوَمَا طُفْتِ يَوْمَ النَّحْرِ ‏\"‏‏.‏ قَالَتْ قُلْتُ بَلَى‏.‏ قَالَ ‏\"‏ لاَ بَأْسَ، انْفِرِي ‏\"‏‏.‏ قَالَتْ عَائِشَةُ ـ رضى الله عنها ـ فَلَقِيَنِي النَّبِيُّ صلى الله عليه وسلم وَهُوَ مُصْعِدٌ مِنْ مَكَّةَ، وَأَنَا مُنْهَبِطَةٌ عَلَيْهَا، أَوْ أَنَا مُصْعِدَةٌ وَهْوَ مُنْهَبِطٌ مِنْهَا‏.‏",
+                "headingArabic": "التَّمَتُّعِ وَالإِقْرَانِ وَالإِفْرَادِ بِالْحَجِّ وَفَسْخِ الْحَجِّ لِمَنْ لَمْ يَكُنْ مَعَهُ هَدْى",
+                "headingUrdu": "حج تمتع، حج القران اور حج الفراد",
+                "headingEnglish": "Hajj-at-Tamattu', Hajj-al-Qiran, and Hajj-al-Ifrad",
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1500,
+                "hadithNumber": "1562",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "We set out with Allah's Messenger (ﷺ)s (to Mecca) in the year of the Prophet's Last Hajj. Some of us had assumed Ihram for `Umra only, some for both Hajj and `Umra, and others for Hajj only. Allah's Apostle assumed Ihram for Hajj. So whoever had assumed Ihram for Hajj or for both Hajj and `Umra did not finish the Ihram till the day of sacrifice. (See Hadith No. 631, 636, and 639).",
+                "hadithUrdu": "ہم حجتہ الوداع کے موقع پر رسول اللہ صلی اللہ علیہ وسلم کے ساتھ چلے ۔ کچھ لوگوں نے عمرہ کا احرام باندھا تھا ، کچھ نے حج اور عمرہ دونوں کا اور کچھ نے صرف حج کا ۔ رسول اللہ صلی اللہ علیہ وسلم نے ( پہلے ) صرف حج کا احرام باندھا تھا ، پھر آپ صلی اللہ علیہ وسلم نے عمرہ بھی شریک کر لیا ، پھر جن لوگوں نے حج کا احرام باندھا تھا یا حج اور عمرہ دونوں کا ، ان کا احرام دسویں تاریخ تک نہ کھل سکا ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف نے بیان کیا ‘ انہوں نے کہا کہ ہمیں امام مالک نے خبر دی ، انہیں ابوالاسود محمد بن عبدالرحمٰن بن نوفل نے ، انہیں عروہ بن زبیر نے اور ان سے ام المؤمنین حضرت عائشہ صدیقہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ أَبِي الأَسْوَدِ، مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ نَوْفَلٍ عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّهَا قَالَتْ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم عَامَ حَجَّةِ الْوَدَاعِ، فَمِنَّا مَنْ أَهَلَّ بِعُمْرَةٍ، وَمِنَّا مَنْ أَهَلَّ بِحَجَّةٍ وَعُمْرَةٍ، وَمِنَّا مَنْ أَهَلَّ بِالْحَجِّ وَأَهَلَّ رَسُولُ اللَّهِ صلى الله عليه وسلم بِالْحَجِّ، فَأَمَّا مَنْ أَهَلَّ بِالْحَجِّ أَوْ جَمَعَ الْحَجَّ وَالْعُمْرَةَ لَمْ يَحِلُّوا حَتَّى كَانَ يَوْمُ النَّحْرِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1501,
+                "hadithNumber": "1563",
+                "englishNarrator": "Narrated Marwan bin Al-Hakam:",
+                "hadithEnglish": "I saw `Uthman and `Ali. `Uthman رضی اللہ عنہما used to forbid people to perform Hajj-at-Tamattu` and Hajj-al- Qiran (Hajj and `Umra together), and when `Ali رضی اللہ عنہما saw (this act of `Uthman), he assumed Ihram for Hajj and `Umra together saying, \"Lubbaik for `Umra and Hajj,\" and said, \"I will not leave the tradition of the Prophet (ﷺ) on the saying of somebody.\"",
+                "hadithUrdu": "حضرت عثمان اور علی رضی اللہ عنہما کو میں نے دیکھا ہے ۔ عثمان رضی اللہ عنہ حج اور عمرہ کو ایک ساتھ ادا کرنے سے روکتے تھے لیکن حضرت علی رضی اللہ عنہ نے اس کے باوجود دونوں کا ایک ساتھ احرام باندھا اور کہا «لبيك بعمرة وحجة» آپ نے فرمایا تھا کہ میں کسی ایک شخص کی بات پر رسول اللہ صلی اللہ علیہ وسلم کی حدیث کو نہیں چھوڑ سکتا ۔",
+                "urduNarrator": "ہم سے محمد بن بشار نے بیان کیا ، انہوں نے کہا کہ ہم سے غندر نے بیان کیا ، کہا کہ ہم سے شعبہ نے بیان کیا ، ان سے حکم نے ، ان سے علی بن حسین ( حضرت زین العابدین ) نے اور ان سے مروان بن حکم نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ، عَنْ عَلِيِّ بْنِ حُسَيْنٍ، عَنْ مَرْوَانَ بْنِ الْحَكَمِ، قَالَ شَهِدْتُ عُثْمَانَ وَعَلِيًّا ـ رضى الله عنهما ـ وَعُثْمَانُ يَنْهَى عَنِ الْمُتْعَةِ وَأَنْ يُجْمَعَ بَيْنَهُمَا‏.‏ فَلَمَّا رَأَى عَلِيٌّ، أَهَلَّ بِهِمَا لَبَّيْكَ بِعُمْرَةٍ وَحَجَّةٍ قَالَ مَا كُنْتُ لأَدَعَ سُنَّةَ النَّبِيِّ صلى الله عليه وسلم لِقَوْلِ أَحَدٍ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "26",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 26,
+                    "chapterNumber": "26",
+                    "chapterEnglish": "Hajj (Pilgrimage)",
+                    "chapterUrdu": "حج کے مسائل کا بیان",
+                    "chapterArabic": "كتاب الحج",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 1476,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=59",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=57",
+                "label": "57",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=58",
+                "label": "58",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=59",
+                "label": "59",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=60",
+                "label": "60",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=61",
+                "label": "61",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=62",
+                "label": "62",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=63",
+                "label": "63",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=61",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=61",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=59",
+        "to": 1500,
+        "total": 40465
+    }
+}

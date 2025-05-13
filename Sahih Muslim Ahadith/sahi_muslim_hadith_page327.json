@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 327,
+        "data": [
+            {
+                "id": 8439,
+                "hadithNumber": "875",
+                "englishNarrator": "Ubada bin as-Samit ‌رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: He who does not recite Umm al-Qur'an is not credited with having observed the prayer.",
+                "hadithUrdu": "رسول اللہﷺ نے فرمایا : ’’اس شخص کی کوئی نماز نہیں جس نے ام القریٰ ( فاتحہ ) نہیں پڑھی ۔ ‘ ‘",
+                "urduNarrator": "مجھ سے ابو الطاہر نے بیان کیا، ہم سے ابن وہب نے بیان کیا,یونس نے ابن شہاب سے روایت کی ، کہا : مجھے محمود بن ربیع نے حضرت عبادہ بن صامت ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے خبر دی ، انہوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنِي أَبُو الطَّاهِرِ، حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ يُونُسَ، ح وَحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي مَحْمُودُ بْنُ الرَّبِيعِ، عَنْ عُبَادَةَ بْنِ الصَّامِتِ، قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لَا صَلَاةَ لِمَنْ لَمْ يَقْتَرِئْ بِأُمِّ الْقُرْآنِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8440,
+                "hadithNumber": "876",
+                "englishNarrator": "Mahmud bin al-Rabi' رضی ‌اللہ ‌عنہ ‌:",
+                "hadithEnglish": "On whose face the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) squirted water from the well, reported on the authority of 'Ubada bin as- Samit رضی ‌اللہ ‌عنہ ‌that the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ) said: He who does not recite Umm al-Qur'an is not credited with having observed prayer.",
+                "hadithUrdu": "جن کے چہرے پر رسول اللہﷺ نے ان کے کنویں سے کلی کر کے پانی کا چھینٹا دیا تھا ، انہیں بتایا کہ حضرت عبادہ بن صامت ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے انہیں بتایا کہ رسول اللہﷺ نے فرمایا ‌رضی ‌اللہ ‌عنہ ‌ ‌ ’’جس نے ام القریٰ کی قراءت نہ کی ، اس کی کوئی نماز نہیں ۔ ‘ ‘",
+                "urduNarrator": "ہم سے الحسن بن علی الحلوانی نے بیان کیا، کہا ہم سے یعقوب بن ابراہیم بن سعد نے بیان کیا، ہم سے میرے والد نے بیان کیا,صالح نے ابن شہاب سے روایت کی کہ حضرت محمود بن ربیع ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے",
+                "hadithArabic": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ، حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ، حَدَّثَنَا أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، أَنَّ مَحْمُودَ بْنَ الرَّبِيعِ، الَّذِي مَجَّ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي وَجْهِهِ مِنْ بِئْرِهِمْ، أَخْبَرَهُ، أَنَّ عُبَادَةَ بْنَ الصَّامِتِ، أَخْبَرَهُ أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا صَلَاةَ لِمَنْ لَمْ يَقْرَأْ بِأُمِّ الْقُرْآنِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8441,
+                "hadithNumber": "877",
+                "englishNarrator": null,
+                "hadithEnglish": "This hadith has also been transmitted by Ma'mar from al-Zuhri with the same chain of transmitters with the addition of these words: and something more .",
+                "hadithUrdu": "ہم سے اسحاق بن ابراہیم اور عبد بن حمید نے بیان کیا، انہوں نے کہا: ہمیں عبدالرزاق نے خبر دی، انہیں معمر نے، زہری کے ایک اور شاگرد معمر نے اسی سند کے ساتھ اسی کے مانند روایت کی اور یہ اضافہ کیا : ’’ ( فاتحہ ) اور اس کے بعد ( قرآن کا کچھ حصہ ۔ ) ‘ ‘",
+                "urduNarrator": null,
+                "hadithArabic": "وَحَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالَا: أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، بِهَذَا الْإِسْنَادِ مِثْلَهُ وَزَادَ فَصَاعِدًا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8442,
+                "hadithNumber": "878",
+                "englishNarrator": "Abu Huraira reported:",
+                "hadithEnglish": "The Apostle of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: If anyone observes prayer in which he does not recite Umm al-Qur'an, It is deficient [he said this three times] and not complete. It was said to Abu Huraira: At times we are behind the Imam. He said: Recite it inwardly, for he had heard the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) declare that Allah the Exalted had said: I have divided the prayer into two halves between Me and My servant, and My servant will receive what he asks. When the servant says: Praise be to Allah, the Lord of the universe, Allah the Most High says: My servant has praised Me. And when he (the servant) says: The Most Compassionate, the Merciful, Allah the Most High says: My servant has lauded Me. And when he (the servant) says: Master of the Day of judg- ment, He remarks: My servant has glorified Me. and sometimes He would say: My servant entrusted (his affairs) to Me. And when he (the worshipper) says: Thee do we worship and of Thee do we ask help, He (Allah) says: This is between Me and My servant, and My servant will receive what he asks for. Then, when he (the worshipper) says: Guide us to the straight path, the path of those to whom Thou hast been Gracious not of those who have incurred Thy displeasure, nor of those who have gone astray, He (Allah) says: This is for My servant, and My servant will receive what he asks for. Sufyan said: 'Ala b. 'Abd al-Rahman b. Ya'qub narrated it to me when I went to him and he was confined to his home on account of illness, and I asked him about it.",
+                "hadithUrdu": "آپ نے فرمایا : ’’جس نے کوئی نماز پڑھی اور اس میں ام القریٰ کی قراءت نہ کی تو ناقص ہے ۔ ‘ ‘ تین مرتبہ فرمایا ، یعنی پوری ہی نہیں ۔ ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے کہا گیا : ہم امام کے پیچھے ہوتے ہیں ۔ انہوں نے کہا : اس کو اپنے دل میں پڑھ لو کیونکہ میں نے رسول اللہﷺ سے سنا ، آپ فرما رہے تھے : ’’اللہ تعالیٰ نے فرمایا : میں نے نماز اپنے اور اپنے بندے کے درمیان آدھی آدھی تقسیم کی ہے اور میرے بندے نے جو مانگا ، اس کا ہے جب بندہ ﴿الحمد لله رب العالمين﴾ ’’سب تعریف اللہ ہی کے لیے جو جہانوں کا رب ہے ۔ ‘ ‘ کہتا ہے تو اللہ تعالیٰ فرماتا ہے : میرے بندے نے میری تعریف کی ۔ اور جب وہ کہتا ہے : ﴿الرحمن الرحيم﴾ ’’سب سے زیادہ رحم کرنے والا ہمیشہ مہربانی کرنے والا ۔ ‘ ‘ تو اللہ تعالیٰ فرماتا ہے : میرے بندے نے میری ثنا بیان کی ۔ پھر جب وہ کہتا ہے : ﴿ مالك يوم الدين﴾ ’’جزا کے دن کا مالک ۔ ‘ ‘ تو ( اللہ ) فرماتا ہے : میرے بندے نے میری بزرگی بیان کی ۔ اور ایک دفعہ فرمایا : میرے بندے نے ( اپنے معاملات ) میرے سپرد کر دیے ۔ پھر جب وہ کہتا ہے : ﴿إياك نعبد وإياك نستعين﴾ ’’ہم تیری ہی بندگی کرتے اور تجھ ہی سے مدد چاہتے ہیں ۔ ‘ ‘ تو ( اللہ ) فرماتا ہے : یہ ( حصہ ) میرے اور میرے بندے کے درمیان ہے اور میرے بندے نے جو مانگا ، اس کا ہے اور جب وہ کہتا ہے : ﴿إهدنا الصراط المستقيم صراط الذين أنعمت عليهم غير المغضوب عليهم والا الضالين﴾ ’’ہمیں راہ راست دکھا ، ان لوگوں کی راہ جن پر تو نے انعام فرمایا ، نہ غضب کیے گئے لوگوں کی ہو اور نہ گمراہوں کی ۔ ‘ ‘ تو ( اللہ ) فرماتا ہے : یہ میرے بندے کے لیے ہے اور میرے بندے کا ہے جو اس نے مانگا ۔ سفیان نے کہا : مجھے یہ روایت علاء بن عبد الرحمن بن یعقوب نے سنائی ، میں ان کے پاس گیا ، وہ گھر میں بیمار تھے ۔ میں نے ان سے اس حدیث کے بارے میں سوال کیا ( تو انہوں نے مجھے یہ حدیث سنائی ۔ )",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم الحنظَلی نے بیان کیا,سفیان بن عیینہ نے علاء بن عبد الرحمن سے خبر دی ، انہوں نے اپنے والد سے ، انہوں حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے ، انہوں نے نبیﷺ سے روایت کی کہ",
+                "hadithArabic": "وَحَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ، أَخْبَرَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الْعَلَاءِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنْ صَلَّى صَلَاةً لَمْ يَقْرَأْ فِيهَا بِأُمِّ الْقُرْآنِ فَهِيَ خِدَاجٌ» ثَلَاثًا غَيْرُ تَمَامٍ. فَقِيلَ لِأَبِي هُرَيْرَةَ: إِنَّا نَكُونُ وَرَاءَ الْإِمَامِ؟ فَقَالَ: «اقْرَأْ بِهَا فِي نَفْسِكَ»؛ فإنِّي سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: قَالَ اللهُ تَعَالَى: قَسَمْتُ الصَّلَاةَ بَيْنِي وَبَيْنَ عَبْدِي نِصْفَيْنِ، وَلِعَبْدِي مَا سَأَلَ، فَإِذَا قَالَ الْعَبْدُ: {الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ} [الفاتحة: 2]، قَالَ اللهُ تَعَالَى: حَمِدَنِي عَبْدِي، وَإِذَا قَالَ: {الرَّحْمَنِ الرَّحِيمِ} [الفاتحة: 1]، قَالَ اللهُ تَعَالَى: أَثْنَى عَلَيَّ عَبْدِي، وَإِذَا قَالَ: {مَالِكِ يَوْمِ الدِّينِ}، قَالَ: مَجَّدَنِي عَبْدِي - وَقَالَ مَرَّةً فَوَّضَ إِلَيَّ عَبْدِي - فَإِذَا قَالَ: {إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ} [الفاتحة: 5] قَالَ: هَذَا بَيْنِي وَبَيْنَ عَبْدِي، وَلِعَبْدِي مَا سَأَلَ، فَإِذَا قَالَ: {اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ صِرَاطَ الَّذينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ} [الفاتحة: 7] قَالَ: هَذَا لِعَبْدِي وَلِعَبْدِي مَا سَأَلَ قَالَ: سُفْيَانُ، حَدَّثَنِي بِهِ الْعَلَاءُ بْنُ عَبْدِ الرَّحْمنِ بْنِ يَعْقُوبَ، دَخَلْتُ عَلَيْهِ وَهُوَ مَرِيضٌ فِي بَيْتِهِ. فَسَأَلْتُهُ أَنَا عَنْهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8443,
+                "hadithNumber": "879",
+                "englishNarrator": null,
+                "hadithEnglish": "It was narrated from Al-'Ala' bin Abdur Rehman that he heard Abu As-Saib, the freed slave of Hisham bin Zuhrah, say: I heard Abu Hurairah say: The Messenger of Allah ﷺ say....(Similar to Hadith no. 876).",
+                "hadithUrdu": "مالک بن انس نے علاء بن عبد الرحمان سے روایت کی ، انہوں نے ہشام بن زہرہ کے آزاد کردہ غلام ابو سائب سے سنا ، کہتے تھے : میں نے ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ کو کہتے ہوئے سنا کہ رسول اللہ ﷺ نے فرمایا ۔ ( جس طرح پچھلی روایت ہے ۔ )",
+                "urduNarrator": null,
+                "hadithArabic": "حَدَّثَنَا قُتيْبةُ بْنُ سَعِيدٍ، عَنْ مَالِكِ بْنِ أَنَسٍ، عَنِ الْعَلَاءِ بْنِ عَبْدِ الرَّحْمَنِ، أَنَّهُ سَمِعَ أَبَا السَّائِبِ، مَوْلَى هِشَامِ بْنِ زُهْرَةَ، يَقُولُ: سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8444,
+                "hadithNumber": "880",
+                "englishNarrator": "It is naratted on the authority of Abu Huraira رضی ‌اللہ ‌عنہ :",
+                "hadithEnglish": "He had heard the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) say: He who observed prayer but he did not recite the Umm al-Qur'an in it, and the rest of the hadith is the same as transmitted by Sufyan, and in this hadith the words are: Allah the Most High said: the prayer is divided into two halves between Me and My servant. The half of it is for Me and the half of it is for My servant.",
+                "hadithUrdu": "رسول اللہﷺ نے فرمایا : ’’جس نے کوئی نماز پڑھی اور اس میں ام القرآن نہ پڑھی ‘ ‘ ... آگے سفیان کی حدیث کے مانند ہے اور ( مالک بن انس اور ابن جریج ) دونوں کی روایت میں ہے : ’’ اللہ عزوجل نے فرمایا : میں نے نماز اپنے اور اپنے بندے کے درمیان آدھی آدھی تقسیم کی ہے ، اس کا آدھا حصہ میرے لیے ہے اور آدھا میرے بندے کے لیے ۔ ‘ ‘",
+                "urduNarrator": "مجھ سے محمد بن رافع نے بیان کیا، کہا ہم سے عبدالرزاق نے بیان کیا,ابن جریج نے بتایا کہ ہمیں علاء بن عبد الرحمان نے خبر دی ، کہا : مجھے عبد اللہ بن ہشام بن زہرہ کے بیٹوں کے آزاد کردہ غلام ابو سائب نے بتایا کہ انہوں نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے سنا ، کہہ رہے تھے",
+                "hadithArabic": "وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُريْجٍ، أَخْبَرَنِي العلَاءُ بْنُ عَبْدِ الرَّحْمنِ بْنِ يَعْقُوبَ، أَنَّ أَبَا السَّائِبِ، مَوْلَى بَنِي عَبْدِ اللهِ بْنِ هِشَامِ بْنِ زُهْرَةَ، أَخْبَرَهُ أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنْ صلَّى صَلَاةً فَلَمْ يَقْرَأْ فِيهَا بِأُمِّ الْقُرْآنِ» بِمِثْلِ حَدِيثِ سُفْيَانَ وَفِي حَدِيثِهِمَا قَالَ اللهُ تَعَالَى: «قَسَمْتُ الصَّلَاةَ بَيْنِي وَبَيْنَ عَبْدِي نِصْفَيْنِ فَنِصْفُهَا لِي وَنِصْفُهَا لِعَبْدِي».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8445,
+                "hadithNumber": "881",
+                "englishNarrator": "Abu Huraira ‌رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: He who said his prayer, but did not recite the opening chapter of al-Kitab, his prayer is incomplete. He repeated it thrice.",
+                "hadithUrdu": "رسول اللہﷺ نے فرمایا : جس نے کوئی نماز ادا کی اور اس میں فاتحہ الکتاب نہ پڑھی تو وہ ( نماز ) ادھوری ہے ۔ ‘ ‘ آپ نے تین دفعہ یہ جملہ فرمایا .... آگے مذکورہ بالا اساتذہ ( مالک ، سفیان ، ابن جریج ) کی حدیث کی طرح ہے",
+                "urduNarrator": "مجھ سے احمد بن جعفر المعْقری نے بیان کیا، ہم سے نضر بن محمد نے بیان کیا، ابو  اویس نے کہا : مجھے علاء نے خبر دی ، کہا : میں نے اپنے والد سے اور ابو سائب سے سنا ، وہ دونوں حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ کے ہم نشیں تھے ، ان دونوں نے کہا کہ ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا",
+                "hadithArabic": "حَدَّثَنِي أَحْمدُ بْنُ جَعْفرٍ الْمَعْقِرِيُّ، حَدَّثَنَا النَّضْرُ بْنُ مُحمَّدٍ، حَدَّثَنَا أَبُو أُوَيْسٍ، أَخْبَرَنِي الْعَلَاءُ، قَالَ: سَمِعْتُ مِنْ أَبِي، وَمِنْ أَبِي السَّائِبِ، - وَكَانَا جَلِيسَيْ أَبِي هُرَيْرَةَ -، قَالَا: قَالَ أَبُو هُرَيْرَةَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنْ صَلَّى صَلَاةً لَمْ يَقْرأْ فِيهَا بِفَاتِحَةِ الْكِتَابِ، فَهِيَ خِدَاجٌ» يَقُولُهَا ثَلَاثًا بِمِثْلِ حَدِيثِهِمْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8446,
+                "hadithNumber": "882",
+                "englishNarrator": "Abu Huraira رضی ‌اللہ ‌عنہ ‌reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: One is not credited with having observed the prayer without the recitation (of al-Fatiha). So said Abu Huraira ‌رضی ‌اللہ ‌عنہ ‌: (The prayer in which) the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) recited in a loud voice, we also recited that loudly for you (and the prayer in which) he recited inwardly we also recited inwardly for you (to give you a practical example of the prayer of the Holy Prophet).",
+                "hadithUrdu": "رسول اللہﷺ نے فرمایا : ’’قراءت کے بغیر کوئی نماز نہیں ۔ ‘ ‘ ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا : جو ( نماز ) رسول اللہﷺ نے ہمارے لیے اونچی قراءت سے ادا کی ہم نے بھی تمہارے لیے وہ اونچی قراءت سے ادا کی اور جس ( نماز ) میں آپ نے ( قراءت کو ) مخفی رکھا ، ہم نے بھی اسے تمہارے لیے مخفی رکھا ۔",
+                "urduNarrator": "ہم سے محمد بن عبداللہ بن نمیر نے بیان کیا، کہا ہم سے ابو اسامہ نے بیان کیا,حبیب بن شہید سے روایت ہے ، کہا : میں نے عطاء سے سنا ، وہ حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے بیان کرتے تھے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللهِ بْنِ نُمَيْرٍ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ حَبِيبِ بْنِ الشَّهِيدِ، قَالَ: سَمِعْتُ عَطَاءً، يُحَدِّثُ عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا صَلَاةَ إِلَّا بِقِرَاءَةٍ» قَالَ أَبُو هُرَيْرَةَ: «فَمَا أَعْلَنَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَعْلَنَّاهُ لَكُمْ، وَمَا أَخْفَاهُ أَخْفَيْنَاهُ لَكُمْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8447,
+                "hadithNumber": "883",
+                "englishNarrator": "Ata' narrated on the authority of Abu Huraira:",
+                "hadithEnglish": "Who said that one should recite (al-Fatiha) in every (rak'ah of) prayer. What we heard (i. e. recitation) from the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ), we made you listen to that. And that which he (recited) inwardly, we (recited) inwardly for you. A person said to him: If I add nothing to the (recitation) of the Umm al Qur'an (Surat al-Fatiha), would it make the prayer incomplete? He (AbuHuraira) said: If you add to that (if you recite some of verses of the Qur'an along with Surat at-Fatiha) that is better for you. But if you are contented with it (Surat al-Fatiha) only, it is sufficient for you.",
+                "hadithUrdu": "( نماز پڑھنے والا ) پوری نماز میں ( ہر رکعت میں ) قراءت کرے ۔ رسول اللہﷺ نے جو ( قراءت ) ہمیں ( بلند آواز سے ) سنائی ، ہم نے بھی تمہیں سنائی اور جو آ پ نے ہم سے ( آواز آہستہ کر کے ) مخفی رکھی ہم نے اسے تم سے مخفی رکھا ۔ ایک آدمی نے ان سے کہا : اگر میں ام القرآن سے زیادہ نہ پڑھوں؟ تو انہوں نے کہا : اگر اس سے زیادہ پڑھو تو بہتر ہے اور اگر اس ( فاتحہ ) پر رک جاؤ تو وہ تمہیں کفایت کرے گی ۔",
+                "urduNarrator": "ہم سے عمرو ناقد اور زہیر بن حرب نے بیان کیا اور یہ لفظ عمرو کے لیے ہے، انہوں نے کہا: ہم سے اسماعیل بن ابراہیم نے بیان کیا،ابن جریج نے عطا سے خبر دی ، کہا : حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا",
+                "hadithArabic": "حَدَّثَنَا عَمْرٌو النَّاقِدُ، وَزُهَيْرُ بْنُ حَرْبٍ، - وَاللَّفْظُ لِعَمْرٍو -، قَالَا: حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، عَنْ عَطَاءٍ، قَالَ: قَالَ أَبُو هُرَيْرَةَ: «فِي كُلِّ الصَّلَاةِ يَقْرَأُ، فَمَا أَسْمَعَنَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، أَسْمَعْنَاكُمْ، وَمَا أَخْفَى مِنَّا، أَخْفَيْنَا مِنْكُمْ» فَقَالَ لَهُ رَجُلٌ: إِنْ لَمْ أَزِدْ عَلَى أُمِّ الْقُرْآنِ؟ فَقَالَ: «إِنْ زِدْتَ عَلَيْهَا فَهُوَ خَيْرٌ، وَإِنِ انْتَهَيْتَ إِلَيْهَا أَجْزَأَتْ عَنْكَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8448,
+                "hadithNumber": "884",
+                "englishNarrator": "Ata' reported it on the authority of Abu Huraira who said:",
+                "hadithEnglish": "Recitation (of Surat al-Fatiha) in every (rak'ah) of prayer in essential. (The recitation) that we listened to from the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) we made you listen to it. And that which he recited inwardly to us, we recited it inwardly for you. And he who recites Umm al-Qur'an, it is enough for him (to complete the prayer), and he who adds to it (recites some other verses of the Holy Qur'an along with Surat al-Fatiha), it is preferable for him.",
+                "hadithUrdu": "ہر نماز میں قراءت ہے ۔ تو جو ( قراءت ) نبی ﷺ نے ہمیں سنائی ہم نے تمہیں سنائی اور جو انہوں نے ہم سے پوشیدہ رکھی ، ہم نے وہ تم سے پوشیدہ رکھی اور جس نے ام الکتاب پڑھ لی تو اس کے لیے وہ کافی ہے اور جس نے ( اس سے ) زائد پڑھا تو وہ بہتر ہے ۔",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا، کہا ہم سے یزید نے بیان کیا، یعنی ابن زرعی نے, حبیب معلم سے روایت ہے ، انہوں نے عطاء سے روایت کی ، کہا : حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا يَزِيدُ يَعْنِي ابْنَ زُرَيْعٍ، عَنْ حَبِيبٍ الْمُعَلِّمِ، عَنْ عَطَاءٍ، قَالَ: قَالَ أَبُو هُرَيْرَةَ: «فِي كُلِّ صَلَاةٍ قِرَاءَةٌ فَمَا أَسْمَعَنَا النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، أَسْمَعْنَاكُمْ، وَمَا أَخْفَى مِنَّا، أَخْفَيْنَاهُ مِنْكُمْ، وَمَنْ قَرَأَ بِأُمِّ الْكِتَابِ فَقَدْ أَجْزَأَتْ عَنْهُ، وَمَنْ زَادَ فَهُوَ أَفْضَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8449,
+                "hadithNumber": "885",
+                "englishNarrator": "Abu Huraira reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) entered the mosque and a person also entered therein and offered prayer, and then came and paid salutation to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌). The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) returned his salutation and said: Go back and pray, for you have not offered the prayer. He again prayed as he had prayed before, and came to the Messenger of Allah (ﷺ) and saluted him. The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) returned the salutation and said: Go back and say prayer, for you have not offered the prayer. This (act of repeating the prayer) was done three times. Upon this the person said: By Him Who hast sent you with Truth, whatever better I can do than this, please teach me. He (the Holy Prophet) said: When you get up to pray, recite takbir, and then recite whatever you conveniently can from the Qur'an, then bow down and remain quietly in that position, then raise your- self and stand erect; then prostrate yourself and remain quietly in that attitude; then raise yourself and sit quietly; and do that throughout all your prayers.",
+                "hadithUrdu": "رسول اللہ ﷺ مسجد میں تشریف فرما تھے اتنے میں ایک آدمی آیا اس نے نماز پڑھنے کے بعد آپ ﷺ کو سلام کیا ۔ آپ ﷺ نے سلام کا جواب دے کر فرمایا : ’’ جاؤ نماز پڑھو تم نے نماز نہیں پرھی ۔ “ تو اس نے واپس ہو کر پہلے کی طرح نماز پڑھی اور لوٹ کر آپ ﷺ کو سلام کیا ۔ آپ ﷺ نے وعلیکم السلام کہتے ہوئے فرمایا : ” جاؤ نماز پڑھو تم نے نماز ادا نہیں کی ۔ “ چنانچہ اسی طرح وہ نماز پڑھتا اور لوٹ کر آپ ﷺ کو سلام کرتا ۔ اور آپ ﷺ یہی فرماتے : ” جاؤ نماز پڑھو تم نے ادا نہیں کی ۔ “ آخر اس شخص نے عرض کیا : یا رسول اللہ ! قسم ہے اس ذات کی جس نے آپ کو برحق بنایا ہے ، میں اس سے زیادہ اچھے طریقے کے علاوہ مزید کسی چیز سے ناوقف ہوں ۔ براہ کرم آپ ہی مجھے بتا دیجئے ؟ تو ارشاد ہوا : ” تم جب نماز کے لیے کھڑے ہو تو پہلے اللہ اکبر کہو اور پھر جتنا قرآن کریم تم باآسانی پڑھ سکتے ہو وہ پڑھو اس کے بعد رکوع کرو اور پھر بہ آرام بالکل سیدھے کھڑے ہو جاؤ اور اس کے بعد بہ اطمینان سجدہ کرو اور پھر بہ اطمینان قعدہ میں بیٹھو اور اسی طرح اپنی پوری نماز میں کیا کرو ۔ “",
+                "urduNarrator": "مجھ سے محمد بن المثنیٰ نے بیان کیا، ہم سے یحییٰ بن سعید نے بیان کیا، انہوں نے عبید اللہ کی سند سے، انہوں نے کہا: مجھ سے سعید بن ابی سعید نے اپنے والد کی سند سے بیان کیا,سیدنا ابوہریرہ ؓ کا بیان ہے کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ عُبَيْدِ اللهِ، قَالَ: حَدَّثَنِي سَعِيدُ بْنُ أَبِي سَعِيدٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ: أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ دَخَلَ الْمَسْجِدَ فَدَخَلَ رَجُلٌ فَصَلَّى، ثُمَّ جَاءَ فَسَلَّمَ عَلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَرَدَّ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ السَّلَامَ قَالَ: «ارْجِعْ فَصَلِّ فَإِنَّكَ لَمْ تُصَلِّ» فَرَجَعَ الرَّجُلُ فَصَلَّى كَمَا كَانَ صَلَّى، ثُمَّ جَاءَ إِلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَسَلَّمَ عَلَيْهِ فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «وَعَلَيْكَ السَّلَامُ» ثُمَّ قَالَ: «ارْجِعْ فَصَلِّ فَإِنَّكَ لَمْ تُصَلِّ» حَتَّى فَعَلَ ذَلِكَ ثَلَاثَ مَرَّاتٍ. فَقَالَ الرَّجُلُ: وَالَّذِي بَعَثَكَ بِالْحَقِّ مَا أُحْسِنُ غَيْرَ هَذَا عَلِّمْنِي، قَالَ: «إِذَا قُمْتَ إِلَى الصَّلَاةِ فَكَبِّرْ، ثُمَّ اقْرَأْ مَا تَيَسَّرَ مَعَكَ مِنَ الْقُرْآنِ، ثُمَّ ارْكَعْ حَتَّى تَطْمَئِنَّ رَاكِعًا، ثُمَّ ارْفَعْ حَتَّى تَعْدِلَ قَائِمًا، ثُمَّ اسْجُدْ حَتَّى تَطْمَئِنَّ سَاجِدًا، ثُمَّ ارْفَعْ حَتَّى تَطْمَئِنَّ جَالِسًا، ثُمَّ افْعَلْ ذَلِكَ فِي صَلَاتِكَ كُلِّهَا».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8450,
+                "hadithNumber": "886",
+                "englishNarrator": "Abu Huraira ‌رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "A person entered the mosque and said prayer while the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) was sitting in a nook (of the mosque), and the rest of the hadith is the same as mentioned above, but with this addition: When you get up to pray, perform the ablution completely, and then turn towards the Qibla and recite takbir (Allah o Akbar =Allah is the Most Great).",
+                "hadithUrdu": "ایک آدمی نے مسجد میں داخل ہو کر نماز پڑھی ، رسول اللہﷺ ایک جانب ( تشریف فرما ) تھے ...... پھر دونوں نے اسی واقعے کی مانند حدیث بیان کی اور ( حدیث کے حصے ) میں ان دونوں نے یہ اضافہ کیا : ’’ جب تم نماز کے لیے کھڑے ہو تو خوب اچھی طرح وضو کرو ، پھر قبلے کی طرف رخ کرو ، پھر تکبیر کہو ۔ ‘ ‘",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا,ابو اسامہ او رعبد اللہ بن نمیر نے عبید اللہ سے ، انہوں نے سعید بن ابی سعید سے ، انہوں نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، وَعَبْدُ اللهِ بْنُ نُمَيْرٍ، ح وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، قَالَا: حَدَّثَنَا عُبَيْدُ اللهِ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَجُلًا دَخَلَ الْمَسْجِدَ فَصَلَّى وَرَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي نَاحِيَةٍ، وَسَاقَا الْحَدِيثَ بِمِثْلِ هَذِهِ الْقِصَّةِ وَزَادَا فِيهِ «إِذَا قُمْتَ إِلَى الصَّلَاةِ فَأَسْبِغِ الْوُضُوءَ، ثُمَّ اسْتَقْبِلِ الْقِبْلَةَ فَكَبِّرْ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8451,
+                "hadithNumber": "887",
+                "englishNarrator": "lmran bin Husain رضی ‌اللہ ‌عنہ ‌reported:",
+                "hadithEnglish": "The Messenger of Allah (ﷺ) led us In Zuhr or 'Asr prayer (noon or the afternoon prayer). (On concluding it) he said: Who recited behind me (the verses): Sabbih Isma Rabbik al-a'la (Glorify the name of thy Lord, the Most High)? There upon a person said: It was I, but I in- tended nothing but goodness. I felt that some one of you was disputing with me in it (or he was taking out from my tongue what I was reciting), said the Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌).",
+                "hadithUrdu": "رسول اللہﷺ نے ہمیں ظہر یا عصر کی نماز پڑھائی ، پھر فرمایا : ’’ تم میں سے کس نے میرے پیچھے ﴿سبح اسم ربك الأعلى﴾ پڑھی؟ ‘ ‘ تو ایک آدمی نے کہا : میں نے ، اور خیر کے سوا اس سے میں اورکچھ نہیں چاہتا تھا ۔ آپ نے فرمایا : ’’مجھے علم ہو گیا کہ تم میں سے کوئی مجھے اس ( یعنی قراءت ) میں الجھا رہا ہے ۔ ‘ ‘",
+                "urduNarrator": "ہم سے سعید بن منصور اور قتیبہ بن سعید نے بیان کیا،ابو عوانہ نے قتادہ سے ، انہوں نے زرارہ بن اوفیٰ سے اور انہوں نے حضرت عمران بن حصین ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، كِلَاهُمَا عَنْ أَبِي عَوَانَةَ، قَالَ سَعِيدٌ: حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ قَتَادَةَ، عَنْ زُرَارَةَ بْنِ أَوْفَى، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، قَالَ: صَلَّى بِنَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ صَلَاةَ الظُّهْرِ - أَوِ الْعَصْرِ - فَقَالَ: «أَيُّكُمْ قَرَأَ خَلْفِي بِسَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى؟» فَقَالَ رَجُلٌ: أَنَا وَلَمْ أُرِدْ بِهَا إِلَّا الْخَيْرَ، قَالَ: «قَدْ عَلِمْتُ أَنَّ بَعْضَكُمْ خَالَجَنِيهَا».",
+                "headingArabic": "نَهْىِ الْمَأْمُومِ عَنْ جَهْرِهِ، بِالْقِرَاءَةِ خَلْفَ إِمَامِهِ ‏",
+                "headingUrdu": "مقتدی کو امام کے پیچھے بلند آواز سے قرأت سے منع کرنا",
+                "headingEnglish": "Prohibiting The Follower From Reciting Aloud Behind An Imam",
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8452,
+                "hadithNumber": "888",
+                "englishNarrator": "Imran bin Husain رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) observed the Zuhr prayer and a person recited Sabbih Isma Rabbik al-a'la (Glorify the name of thy Lord, the Most High) behind him. When he (the Holy Prophet ﷺ) concluded the prayer he said: Who amongst you recited (the above-mentioned verse) or who amongst you was the reciter? A person said: It was I. Upon this he (the Holy Prophet ﷺ) observed: I thought as if someone amongst you was disputing with me (in what I was reciting).",
+                "hadithUrdu": "رسول اللہﷺ نے ظہر کی نماز پڑھی تو ایک آدمی نے آپ کے پیچھے ﴿سبح اسم ربك الأعلى﴾ پڑھی شروع کر دی ۔ جب آپﷺ نے اسلام پھیرا تو فرمایا : ’’تم میں سے کس نے پڑھا ‘ ‘ یا ( فرمایا : ) ’’تم میں سے پڑھنے والا کون ہے؟ ‘ ‘ ایک آدمی نے کہا : میں ہوں ۔ آپ نے فرمایا : ’’ میں سمجھا کہ تم میں سے کوئی مجھے اس میں الجھا رہا ہے",
+                "urduNarrator": "ہم سے محمد بن المثنیٰ اور محمد بن بشار نے بیان کیا، کہا: ہم سے محمد بن جعفر نے بیان کیا،شعبہ نے قتادہ سے روایت کی ، انہوں نے زرارہ بن اوفیٰ سے سنا ، وہ حضرت عمران بن حصین ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے بیان کر رہے تھے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، قَالَا: حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، قَالَ: سَمِعْتُ زُرَارَةَ بْنَ أَوْفَى، يُحَدِّثُ عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ صَلَّى الظُّهْرَ، فَجَعَلَ رَجُلٌ يَقْرَأُ خَلْفَهُ بِسَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى، فَلَمَّا انْصَرَفَ قَالَ: «أَيُّكُمْ قَرَأَ» - أَوْ أَيُّكُمُ الْقَارِئُ - فَقَالَ رَجُلٌ أَنَا، فَقَالَ: «قَدْ ظَنَنْتُ أَنَّ بَعْضَكُمْ خَالَجَنِيهَا».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8453,
+                "hadithNumber": "889",
+                "englishNarrator": "This hadith has been narrated by Qatada with the same chain of transmitters:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) observed Zuhr prayer and said: I felt that someone amongst you was disputing with me (in what I was reciting).",
+                "hadithUrdu": "رسول اللہ ﷺ نے ظہر کی نماز پڑھائی اور فرمایا : ’’ میں جان گیا کہ تم میں سے کوئی مجھے اس میں الجھا رہا ہے",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، ہم سے اسماعیل بن عالیہ نے بیان کیا، اور ہم سے محمد بن المثنیٰ نے بیان کیا، ہم سے ابن ابی عدی نے بیان کیا، ان دونوں نے ابو عروبہ کی سند سے، قتادہ کے ایک اور شاگرد ابن ابی عروبہ نے اسی سند کے ساتھ ( مذکورہ بالا ) روایت بیان کی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، كِلَاهُمَا عَنِ ابْنِ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، بِهَذَا الْإِسْنَادِ أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ صَلَّى الظُّهْرَ. وَقَالَ: «قَدْ عَلِمْتُ أَنَّ بَعْضَكُمْ خَالَجَنِيهَا».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8454,
+                "hadithNumber": "890",
+                "englishNarrator": "Anas رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "I observed prayer along with the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and with Abu Bakr, Umar and Uthman (رضی ‌اللہ ‌عنہ ‌), but I never heard any one of them reciting Bismillah-ir-Rahman-ir-Rahim loudly.",
+                "hadithUrdu": "میں نے رسول اللہﷺ ، ابو بکر ، عمر اور عثمان ‌رضی ‌اللہ ‌عنہ ‌ ‌ کے ساتھ نماز پڑھی ، میں نے ان میں سے کسی کو بسم اللہ الرحمن الرحیم پڑھتے نہیں سنا ۔",
+                "urduNarrator": "ہم سے محمد بن جعفر نے حدیث بیان کی ، ( کہا : ) ہم سے شعبہ نے بیان کیا ، کہا : میں نے قتادہ کو حضرت انس ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کرتے ہوئے سنا ، کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ بَشَّارٍ، كِلَاهُمَا عَنْ غُنْدَرٍ، قَالَ ابْنُ الْمُثَنَّى: حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، قَالَ: سَمِعْتُ قَتَادَةَ، يُحَدِّثُ عَنْ أَنَسٍ، قَالَ: صَلَّيْتُ مَعَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَأَبِي بَكْرٍ، وَعُمَرَ، وَعُثْمَانَ، فَلَمْ أَسْمَعْ أَحَدًا مِنْهُمْ يَقْرَأُ {بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ.",
+                "headingArabic": "حُجَّةِ مَنْ قَالَ لاَ يَجْهَرُ بِالْبَسْمَلَةِ ‏",
+                "headingUrdu": "بسم اللہ بلند آواز سے نہ پڑھنے والوں کی دلیل",
+                "headingEnglish": "The Proof Of Those Who Say That The Basmalah Should Not Be Recited Aloud",
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8455,
+                "hadithNumber": "891",
+                "englishNarrator": "Shu'ba reported it with the same chain of transmitters. with she addition of these words: I said to Qatada:",
+                "hadithEnglish": "Did you hear it from Anas رضی ‌اللہ ‌عنہ ‌? He replied in the affir- mative and added: We had inquired of him about it.",
+                "hadithUrdu": "کیا آپ نے یہ روایت انس ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے سنی ہے؟ انہوں نے کہا : ہاں ، کہا : ہاں ، ہم نے سے اس کے بارے میں پوچھا تھا ۔",
+                "urduNarrator": "محمد بن ( جعفر کے بجائے ) ابو داؤد نے شعبہ سے اسی سند سے روایت کی اور یہ اضافہ کیا کہ شعبہ نے کہا : میں نے قتادہ سے کہا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا أَبُو دَاوُدَ، حَدَّثَنَا شُعْبَةُ، فِي هَذَا الْإِسْنَادِ، وَزَادَ قَالَ شُعْبَةُ: فَقُلْتُ لِقَتَادَةَ: أَسَمِعْتَهُ مِنْ أَنَسٍ قَالَ: نَعَمْ نَحْنُ سَأَلْنَاهُ عَنْهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8456,
+                "hadithNumber": "892",
+                "englishNarrator": "Abda reported:",
+                "hadithEnglish": "'Umar bin al-Khattab ‌رضی ‌اللہ ‌عنہ ‌used to recite loudly these words: Subhanak Allahumma wa bi hamdika wa tabarakasmuka wa ta'ala jadduka wa la ilaha ghairuka [Glory to Thee,0 Allah, and Thine is the Praise, and Blessed is Thy Name. and Exalted is Thy Majesty. and there is no other object of worship beside Thee]. Qatada ‌رضی ‌اللہ ‌عنہ informed in writing that Anas bin Malik ‌رضی ‌اللہ ‌عنہ ‌had narrated to him: I observed prayer behind the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and Abu Bakr and Umar and 'Uthman ‌رضی ‌اللہ ‌عنہ ‌. They started (loud recitation) with: AI-hamdu lillahi Rabb al-'Alamin [All Praise is due to Allah, the Lord of the worlds] and did not recite Bismillah ir- Rahman-ir-Rahim (loudly) at the beginning of the recitation or at the end of it.",
+                "hadithUrdu": "حضرت عمر بن خطاب ‌رضی ‌اللہ ‌عنہ ‌ ‌ یہ کلمات بلند آواز سے پڑھتے تھے : سبحانك اللهم! وبحمدك ، تبارك اسمك وتعالى جدك ، ولا إله غيرك ’’اے اللہ! تو اپنی حمد کے ساتھ پاک ہے ۔ تیرا نام بڑا بابرکت ہے اور تیری عظمت وشان بڑی بلند ہے اور تیرے سوا کوئی معبود نہیں ۔ ‘ ‘ ( نیز اوزاعی ہی کی ) قتادہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت ہے کہ انہوں نے حضرت انس ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے ( اپنی ) روایت کی خبر دیتے ہوئے ان ( اوزاعی ) کی طرف لکھ بھیجا کہ انہوں نے ( انس ‌رضی ‌اللہ ‌عنہ ‌ ‌ ) نے قتادہ کو حدیث سنائی ، کہا : میں نے نبیﷺ ، ابو بکر ، عمر اورعثمان ‌رضی ‌اللہ ‌عنہ ‌ ‌ کے پیچھے نماز پڑھی ہے ، وہ ( نماز کا ) آغاز الحمد لله رب العالمين سے کرتے تھے ، وہ بسم الله الرحمن الرحيم ( بلند آواز سے ) نہیں کہتے تھے ، نہ قراءت کے شروع میں اور نہ اس کے آخر میں ہی ( دوسری سورت کے آغاز پر.",
+                "urduNarrator": "ہم سے محمد بن مہران رازی نے بیان کیا، ہم سے ولید بن مسلم نے بیان کیا، ہم سے الولید نے بیان کیا,الأوزاعی نے عبدہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مِهْرَانَ الرَّازِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا الْأَوْزَاعِيُّ، عَنْ عَبْدَةَ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ، كَانَ يَجْهَرُ بِهَؤُلَاءِ الْكَلِمَاتِ يَقُولُ: «سُبْحَانَكَ اللهُمَّ وَبِحَمْدِكَ، تَبَارَكَ اسْمُكَ، وَتَعَالَى جَدُّكَ، وَلَا إِلَهَ غَيْرُكَ‘وَعَنْ قَتَادَةَ أَنَّهُ كَتَبَ إِلَيْهِ يُخْبِرُهُ عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّهُ حَدَّثَهُ قَالَ: صَلَّيْتُ خَلَفَ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَأَبِي بَكْرٍ، وَعُمَرَ، وَعُثْمَانَ، فَكَانُوا يَسْتَفْتِحُونَ بِ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ، لَا يَذْكُرُونَ {بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ} [الفاتحة: 1] فِي أَوَّلِ قِرَاءَةٍ وَلَا فِي آخِرِهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8457,
+                "hadithNumber": "893",
+                "englishNarrator": "It is reported on the authority of Abu Talha:",
+                "hadithEnglish": "He had heard Anas bin Malik رضی ‌اللہ ‌عنہ ‌narrating this.",
+                "hadithUrdu": "انہوں نے انس بن مالک ‌رضی ‌اللہ ‌عنہ ‌ ‌ سنا ، وہ یہی ( سابقہ ) حدیث بیان کرتے تھے ۔",
+                "urduNarrator": "ہم سے محمد بن مہران نے بیان کیا، کہا ہم سے ولید بن مسلم نے بیان کیا، انہوں نے اوزاعی کی سند سے بیان کیا کہ,اسحاق بن عبد اللہ بن ابی طلحہ نے بتایا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحمَّدُ بْنُ مِهْرَانَ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، عَنِ الْأَوْزَاعِيِّ، أَخْبَرَنِي، إِسْحَاقُ بْنُ عَبْدِ اللهِ بْنِ أَبِي طَلْحَةَ، أَنَّهُ سَمِعَ أَنَسَ بْنَ مَالِكٍ يَذْكُرُ ذَلِكَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8458,
+                "hadithNumber": "894",
+                "englishNarrator": "Anas رضی ‌اللہ ‌عنہ ‌reported:",
+                "hadithEnglish": "One day the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) was sitting amongst us that he dozed off. He then raised his head smilingly. We said: What makes you smile. Messenger of Allah? He said: A Sura has just been revealed to me, and then recited: In the name of Allah, the Compassionate, the Merciful. Verily We have given thee Kauthar (fount of abundance). Therefore turn to thy Lord for prayer and offer sacrifice, and surely thy enemy is cut off (from the good). Then he (the Holy Prophet) said: Do you know what Kauthar is? We said: Allah and His Messenger know best. The Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: It (Kauthar) is a canal which my Lord, the Exalted and Glorious has promised me, and there is an abundance of good in it. It is a cistern and my people would come to it on the Day of Resurrection, and tumblers there would be equal to the number of stars. A servant would be turned away from (among the people gathered there). Upon this I would say: My Lord, he is one of my people, and He (the Lord) would say: You do not know that he innovated new things (in Islam) after you. Ibn Hujr made this addition in the hadith: He (the Holy Prophet) was sitting amongst us in the mosque, and He (Allah) said: (You don't know) what he innovated after you",
+                "hadithUrdu": "ایک روز رسول اللہﷺ ہمارے درمیان تھے جب اسی اثناء میں آپ کچھ دیر کے لیے نیند جیسی کیفیت میں چلے گئے ، پھر آپ مسکراتے ہوئے اپنا سر اٹھایا تو ہم نے کہا : اللہ کے رسول! آپ کس بات پر ہنسے؟ آپ نے فرمایا : ’’ ابھی مجھ پر ایک سورت نازل کی گئی ہے ۔ ‘ ‘ پھر آپ نے پڑھا : ﴿ بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ ﴿﴾ فَصَلِّ لِرَبِّكَ وَانْحَرْ ﴿﴾ إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ ﴿﴾﴾ ’’بلاشبہ ہم آپ کو کوثر عطا کی ۔ پس آپ اپنے رب کے لیے نماز پڑھیں اور قربانی کریں ، یقیناً آپ کا دشمن ہی جڑ کٹا ہے ۔ ‘ ‘ پھر آپ نے کہا : ’’ کیا تم جانتے ہو کوثر کیا ہے؟ ‘ ‘ ہم نے کہا : اللہ اور اس کا رسول زیادہ جانتے ہیں ۔ آپ نے فرمایا : ’’ وہ ایک نہر ہے جس کا میرے رب عزوجل نے مجھ سے وعدہ فرمایا ہے ، اس پر بہت بھلائی ہے اور وہ ایک حوض ہے جس پر قیامت کے دن میری امت پانی پینے کےلیے آئے گی ، اس کے برتن ستاروں کی تعداد میں ہیں ۔ ان میں سے ایک شخص کو کھینچ لیا جائے گا تو میں عرض کروں گا : اے میرے رب! یہ میری امت سے ہے ۔ تو وہ فرمائے گا : آپ نہیں جانتے کہ انہوں نے آپ کے بعد کیا نئی باتیں نکالیں ۔ ‘ ‘ ( علی ) ابن حجر نے اپنی حدیث میں ( یہ ) اضافہ کیا : آپ مسجد میں ہمارے درمیان تھے اور ( أحدثوا بعدك کی جگہ ) أحدث بعدك ’’اس نے نئی بات نکالی ‘ ‘ کہا ۔",
+                "urduNarrator": "علی بن حجر سعدی ہم سے علی بن مشر نے بیان کیا، کہا ہم سے مختار بن فلفل نے بیان کیا، وہ انس بن مالک رضی اللہ عنہ سے اور ابو بکر بن ابی شیبہ نے ( الفاظ انہی کے ہیں ) علی بن مسہر سے روایت کی ، انہوں نے مختار بن فلفل سے اور انہوں نے حضرت انس بن مالک ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ، کہا",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ السَّعْدِيُّ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، أَخْبَرَنَا الْمُخْتَارُ بْنُ فُلْفُلٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنِ الْمُخْتَارِ، عَنْ أَنَسٍ، قَالَ: بَيْنَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ذَاتَ يَوْمٍ بَيْنَ أَظْهُرِنَا إِذْ أَغْفَى إِغْفَاءَةً ثُمَّ رَفَعَ رَأْسَهُ مُتَبَسِّمًا، فَقُلْنَا: مَا أَضْحَكَكَ يَا رَسُولَ اللهِ قَالَ: «أُنْزِلَتْ عَلَيَّ آنِفًا سُورَةٌ» فَقَرَأَ: بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ {إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ. فَصَلِّ لِرَبِّكَ وَانْحَرْ. إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ} [الكوثر: 2] ثُمَّ قَالَ: «أَتَدْرُونَ مَا الْكَوْثَرُ؟» فَقُلْنَا اللهُ وَرَسُولُهُ أَعْلَمُ، قَالَ: فَإِنَّهُ نَهْرٌ وَعَدَنِيهِ رَبِّي عَزَّ وَجَلَّ، عَلَيْهِ خَيْرٌ كَثِيرٌ، هُوَ حَوْضٌ تَرِدُ عَلَيْهِ أُمَّتِي يَوْمَ الْقِيَامَةِ، آنِيَتُهُ عَدَدُ النُّجُومِ، فَيُخْتَلَجُ الْعَبْدُ مِنْهُمْ، فَأَقُولُ: رَبِّ، إِنَّهُ مِنْ أُمَّتِي فَيَقُولُ: مَا تَدْرِي مَا أَحْدَثَتْ بَعْدَكَ زَادَ ابْنُ حُجْرٍ، فِي حَدِيثِهِ: بَيْنَ أَظْهُرِنَا فِي الْمَسْجِدِ. وَقَالَ: «مَا أَحْدَثَ بَعْدَكَ».",
+                "headingArabic": "حُجَّةِ مَنْ قَالَ الْبَسْمَلَةُ آيَةٌ مِنْ أَوَّلِ كُلِّ سُورَةٍ سِوَى بَرَاءَةَ‏‏",
+                "headingUrdu": "ان لوگوں کی دلیل جو کہتے ہیں کہ بسم اللہ ہر سورت کے شروع میں آیت ہے سوائے براء کے۔",
+                "headingEnglish": "The Proof Of Those Who Say That The Bismillah Is A Verse At The Beginning Of Every Surah, Except Bara'ah (At-Tawbah)",
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8459,
+                "hadithNumber": "895",
+                "englishNarrator": "Mukhtar bin Fulful reported that he had heard Anas bin Malik say:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) dozed off, and the rest of the hadith is the same as transmitted by Mushir except for the words that he (the Holy Prophet) said: It (Kauthar) is a canal which my Lord the Exalted and the Glorious has promised me in Paradise. There is a tank over it, but he made no mention of the tumblers like the number of the stars.",
+                "hadithUrdu": "رسول اللہﷺ نیند جیسی کیفیت میں چلے گئے ، ( آگے ) جس طرح ابن مسہر کی حدیث ہے ، البتہ انہوں ( ابن فضیل ) نے یہ الفاظ کہے : ’’ ایک نہر ہے جس کا میرے رب نے میرے ساتھ وعدہ کیا ہے اور اس پر ایک حوض ہے ۔ ‘ ‘ اور یہ نہیں کہا : ’’ اس کے برتنوں کی تعداد ستاروں کے برابر ہے ۔ ‘ ‘",
+                "urduNarrator": "ہم سے ابو کریب محمد بن علاء نے بیان کیا,ابن فضیل نے مختار بن فلفل سے روایت کی ، انہوں نے کہا : میں نے حضرت انس بن مالک ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے سنا ، کہہ رہے تھے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو كُرَيْبٍ مُحَمَّدُ بْنُ الْعَلَاءِ، أَخْبَرَنَا ابْنُ فُضَيْلٍ، عَنْ مُخْتَارِ بْنِ فُلْفُلٍ، قَالَ: سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، يَقُولُ: أَغْفَى رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِغْفَاءَةً، بِنَحْوِ حَدِيثِ ابْنِ مُسْهِرٍ غَيْرَ أَنَّهُ قَالَ: «نَهْرٌ وَعَدَنِيهِ رَبِّي عَزَّ وَجَلَّ فِي الْجَنَّةِ عَلَيْهِ حَوْضٌ» وَلَمْ يَذْكُرْ «آنِيَتُهُ عَدَدُ النُّجُومِ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8460,
+                "hadithNumber": "896",
+                "englishNarrator": "Wa'il bin Hujr رضی ‌اللہ ‌عنہ reported:",
+                "hadithEnglish": "He saw the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) raising his hands at the time of beginning the prayer and reciting takbir, and according to Hammam (the narrator), the hands were lifted opposite to ears. He (the Holy Prophet) then wrapped his hands in his cloth and placed his right hand over his left hand. And when he was about to bow down, he brought out his hands from the cloth, and then lifted them, and then recited takbir and bowed down, and when (he came back to the erect position) he recited: Allah listened to him who praised Him. And when he prostrated, he prostrated between his two palms.",
+                "hadithUrdu": "انہوں نے نبیﷺ کو دیکھا ، آپ نے نماز میں جاتے وقت اپنے دونوں ہاتھ بلند کیے ، تکبیر کہی ( ہمام نے بیان کیا : کانوں کے برابر بلند کیے ) پھر اپنا کپڑا اوڑھ لیا ( دونوں ہاتھ کپڑے کے اندر لے گئے ) ، پھر اپنا دایاں ہاتھ بائیں پر رکھا ، پھر جب رکوع کرنا چاہا تو اپنے دونوں ہاتھ کپڑے سے نکالے ، پھر انہیں بلند کیا ، پھر تکبیر کہی اور رکوع کیا ، پھر جب سمع الله لمن حمده کہا تو اپنے دونوں ہاتھ بلند کیے ، پھر جب سجدہ کیا تو اپنی دونوں ہتھیلیوں کے درمیان سجدہ کیا ۔",
+                "urduNarrator": "ہم سے زہیر بن حرب نے بیان کیا، کہا ہم سے عفان نے بیان کیا، کہا ہم سے ہمام نے بیان کیا، کہا ہم سے محمد بن حَجادةنے بیان کیا، کہا کہ مجھ سے عبدالجبار بن وائل نے علقمہ بن وائل کی سند سے اور ان کی اپنی طرف سے، کیونکہ انہوں نے اسے روایت کیا ہے,ان دونوں نے ان کے والد حضرت وائل بن حجر ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے حدیث بیان کی کہ",
+                "hadithArabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عَفَّانُ، حَدَّثَنَا هَمَّامٌ، حَدَّثَنَا مُحَمَّدُ بْنُ جُحَادَةَ، حَدَّثَنِي عَبْدُ الْجَبَّارِ بْنُ وَائِلٍ، عَنْ عَلْقَمَةَ بْنِ وَائِلٍ، وَمَوْلًى لَهُمْ أَنَّهُمَا حَدَّثَاهُ عَنْ أَبِيهِ وَائِلِ بْنِ حُجْرٍ: أَنَّهُ رَأَى النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ رَفَعَ يَدَيْهِ حِينَ دَخَلَ فِي الصَّلَاةِ كَبَّرَ، - وَصَفَ هَمَّامٌ حِيَالَ أُذُنَيْهِ - ثُمَّ الْتَحَفَ بِثَوْبِهِ، ثُمَّ وَضَعَ يَدَهُ الْيُمْنَى عَلَى الْيُسْرَى، فَلَمَّا أَرَادَ أَنْ يَرْكَعَ أَخْرَجَ يَدَيْهِ مِنَ الثَّوْبِ، ثُمَّ رَفَعَهُمَا، ثُمَّ كَبَّرَ فَرَكَعَ، فَلَمَّا قَالَ: سَمِعَ اللهُ لِمَنْ حَمِدَهُ رَفَعَ يَدَيْهِ فَلَمَّا، سَجَدَ سَجَدَ بَيْنَ كَفَّيْهِ.",
+                "headingArabic": "وَضْعِ يَدِهِ الْيُمْنَى عَلَى الْيُسْرَى بَعْدَ تَكْبِيرَةِ الإِحْرَامِ تَحْتَ صَدْرِهِ فَوْقَ سُرَّتِهِ وَوَضْعِهِمَا فِي السُّجُودِ عَلَى الأَرْضِ حَذْوَ مَنْكِبَيْهِ",
+                "headingUrdu": "نماز میں پہلی تکبیر (تکبیر تحریمہ) کے بعد دائیں ہاتھ کو بائیں ہاتھ پر سینے کے نیچے اور ناف کے اوپر رکھنا اور پھر سجدے میں کندھوں کے قریب رکھنا",
+                "headingEnglish": "The Placing Of The Right Hand Over The Left Hand After The First Takbir In Prayer (takbir-i-tahrima) Below The Chest And Above The Navel And Then Placing Them Apposite The Shoulders In Prostration",
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8461,
+                "hadithNumber": "897",
+                "englishNarrator": "`Abdullah (bin Mas`ud) رضی ‌اللہ ‌عنہ ‌said:",
+                "hadithEnglish": "While observing prayer behind the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) we used to recite: Peace be upon Allah, peace be upon so and so. One day the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said to us: Verily Allah is Himself Peace. When any one of you sits during the prayer, he should say: All services rendered by words, by acts of worship, and all good things are due to Allah. Peace be upon you, O Prophet, and Allah's mercy and blessings. Peace be upon us and upon Allah's upright servants, for when he says this it reaches every upright servant in the heavens and the earth. (And say further): I testify that there is no god but Allah and I testify that Muhammad is His servant and Messenger. Then he may choose any supplication which pleases him and offer it.",
+                "hadithUrdu": "ہم نماز میں رسول اللہﷺ کے پیچھے کہتے تھے : اللہ پر سلام ہو ، فلاں پر سلام ہو ۔ ( بخاری کی روایت میں جبریل پر میکائیل پر سلام ہو ۔ ) تو ایک دن رسول اللہﷺ نے ہم سے فرمایا : ’’بلاشبہ اللہ خود سلام ہے ، لہٰذا جب تم میں سے کوئی نماز میں بیٹھے تو کہے : بقا وبادشاہت ، اختیار وعظمت اللہ ہی کےلیے ہے ، اور ساری دعائیں اور ساری پاکیزہ چیزیں ( بھی اسی کےلیے ہیں ) ، اے نبی! آپ پر سلام ہو اور اللہ کی رحمت اور اس کی برکتیں ہوں ۔ ہم پر اور اللہ کے نیک بندوں پر سلام ہو ۔ جب کوئی شخص یہ ( دعائیہ ) کلمات کہے گا تو یہ آسمان و زمین میں اللہ کے ہر نیک بندے تک پہنچیں گے ۔ ( پھر کہے : ) میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبود نہیں اور میں گواہی دیتا ہوں کہ محمد اس کےبندے اور رسول ہیں ، پھر جو مانگنا چاہے اس کا انتخاب کر لے ۔ ‘ ‘",
+                "urduNarrator": "ہم سے زہیر بن حرب، عثمان بن ابی شیبہ اور اسحاق بن ابراہیم نے بیان کیا، کہا کہ ہم سے اسحاق نے بیان کیا اور باقی دو نے کہا,جریر نے منصور سے ، انہوں نے ابو وائل سے اور انہوں نے حضرت عبد اللہ ( بن مسعود ) ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَعُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، - قَالَ إِسْحَاقُ: أَخْبَرَنَا، وَقَالَ الْآخَرَانِ - حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ اللهِ، قَالَ: كُنَّا نَقُولُ فِي الصَّلَاةِ خَلْفَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: السَّلَامُ عَلَى اللهِ السَّلَامُ عَلَى فُلَانٍ. فَقَالَ لَنَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ذَاتَ يَوْمٍ: إِنَّ اللهَ هُوَ السَّلَامُ، فَإِذَا قَعَدَ أَحَدُكُمْ فِي الصَّلَاةِ فَلْيَقُلْ: التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِينَ، فَإِذَا قَالَهَا أَصَابَتْ كُلَّ عَبْدٍ لِلَّهِ صَالِحٍ فِي السَّمَاءِ وَالْأَرْضِ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ، ثُمَّ يَتَخَيَّرُ مِنَ الْمَسْأَلَةِ مَا شَاءَ.",
+                "headingArabic": "التَّشَهُّدِ فِي الصَّلاَةِ ‏",
+                "headingUrdu": "نماز میں تشہد",
+                "headingEnglish": "The Tashah-hud In The Prayer",
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8462,
+                "hadithNumber": "898",
+                "englishNarrator": "Shu'ba has narrated this on the authority of Mansur with the same chain of transmitters, but he made no mention of this:",
+                "hadithEnglish": "Then he may choose any supplication which pleases him.",
+                "hadithUrdu": "’’پھر جو مانگنا چاہے اس کا انتخاب کر لے ‘ ‘ ( کے کلمات ) بیان نہیں کیے ۔",
+                "urduNarrator": "ہم سے محمد بن المثنیٰ اور ابن بشار نے بیان کیا، کہا: ہم سے محمد بن جعفر نے بیان کیا،( جریر کے بجائے ) شعبہ نے منصور سے باقی ماندہ اسی سند کے ساتھ اسی طرح حدیث بیان کی اور انہوں ( شعبہ ) نے",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ بَشَّارٍ، قَالَا: حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ مَنْصُورٍ بِهَذَا الْإِسْنَادِ مِثْلَهُ وَلَمْ يَذْكُرْ: «ثُمَّ يَتَخَيَّرُ مِنَ الْمَسْأَلَةِ مَا شَاءَ».",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 8463,
+                "hadithNumber": "899",
+                "englishNarrator": "This hadith has been narrated on the authority of Mansur with the same chain of transmitters and he made a mention of this:",
+                "hadithEnglish": "Then he may choose any supplication which pleases him or which he likes.",
+                "hadithUrdu": "لیکن آخری کلمات میں ماشاء ( جو چاہے ) کی جگہ ما أحب ( جو پسند کرے ) کے الفاظ کہے ۔",
+                "urduNarrator": "ہم سے عبد بن حمید نے بیان کیا، کہا ہم سے حسین الجعفی نے بیان کیا، زیدہ رضی اللہ عنہ سے,منصور کے ایک اور شاگرد زائدہ نے ان سے اسی سند کے ساتھ ان دونوں ( جریر اور شعبہ ) کی حدیث کی طرح حدیث بیان کی",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا حُسَيْنٌ الْجُعْفِيُّ، عَنْ زَائِدَةَ، عَنْ مَنْصُورٍ بِهَذَا الْإِسْنَادِ مِثْلَ حَدِيثِهِمَا وَذَكَرَ فِي الْحَدِيثِ: «ثُمَّ لْيَتَخَيَّرْ بَعْدُ مِنَ الْمَسْأَلَةِ مَا شَاءَ - أَوْ مَا أَحَبَّ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "4",
+                "bookSlug": "sahih-muslim",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 104,
+                    "chapterNumber": "4",
+                    "chapterEnglish": "The Book of Prayers",
+                    "chapterUrdu": "نماز کے احکام و مسائل",
+                    "chapterArabic": "كتاب الصَّلَاةِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 8151,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=326",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=324",
+                "label": "324",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=325",
+                "label": "325",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=326",
+                "label": "326",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=327",
+                "label": "327",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=328",
+                "label": "328",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=329",
+                "label": "329",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=330",
+                "label": "330",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=328",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=328",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=326",
+        "to": 8175,
+        "total": 40465
+    }
+}

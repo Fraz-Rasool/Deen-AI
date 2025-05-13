@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 43,
+        "data": [
+            {
+                "id": 1051,
+                "hadithNumber": "1085",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) and his companions reached Mecca in the morning of the 4th Dhul-Hijja reciting Talbiya (O Allah! We are obedient to your orders, we respond 4 to your call) . . . intending to perform Hajj. The Prophet (ﷺ) ordered his companions to assume the lhram for Umra instead of Hajj, excepting those who had Hadi (sacrifice) with them.\r\nAtaa corroborated him from Hadrat Jabir.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم صحابہ کو ساتھ لے کر تلبیہ کہتے ہوئے ذی الحجہ کی چوتھی تاریخ کو ( مکہ میں ) تشریف لائے پھر آپ صلی اللہ علیہ وسلم نے فرمایا کہ جن کے پاس ہدی نہیں ہے وہ بجائے حج کے عمرہ کی نیت کر لیں اور عمرہ سے فارغ ہو کر حلال ہو جائیں پھر حج کا احرام باندھیں ۔\r\n اس حدیث کی متابعت عطاء نے جابر سے کی ہے ۔",
+                "urduNarrator": "ہم سے موسیٰ بن اسماعیل نے بیان کیا کہا کہ ہم سے وہیب نے بیان کیا کہا کہ ہم سے ایوب نے بیان کیا ان سے ابوالعالیہ براء نے ان سے ابن عباس رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، قَالَ حَدَّثَنَا وُهَيْبٌ، قَالَ حَدَّثَنَا أَيُّوبُ، عَنْ أَبِي الْعَالِيَةِ الْبَرَّاءِ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ قَدِمَ النَّبِيُّ صلى الله عليه وسلم وَأَصْحَابُهُ لِصُبْحِ رَابِعَةٍ يُلَبُّونَ بِالْحَجِّ، فَأَمَرَهُمْ أَنْ يَجْعَلُوهَا عُمْرَةً إِلاَّ مَنْ مَعَهُ الْهَدْىُ‏.‏ تَابَعَهُ عَطَاءٌ عَنْ جَابِرٍ‏.‏",
+                "headingArabic": "كَمْ أَقَامَ النَّبِيُّ صلى الله عليه وسلم فِي حَجَّتِهِ",
+                "headingUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے حج میں کتنی دیر قیام کیا؟",
+                "headingEnglish": "How long did the Prophet (ﷺ) stay during the Hajj?",
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1052,
+                "hadithNumber": "1086",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"A woman should not travel for more than three days except with a Dhi-Mahram (i.e. a male with whom she cannot marry at all, e.g. her brother, father, grandfather, etc.) or her own husband.)\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم کا یہ فرمان نقل کیا تھا کہ عورتیں تین دن کا سفر ذی رحم محرم کے بغیر نہ کریں ( ابواسامہ نے کہا ہاں ) ۔",
+                "urduNarrator": "ہم سے اسحاق بن راہویہ نے بیان کیا ، انہوں نے ابواسامہ سے ، میں نے پوچھا کہ کیا آپ سے عبیداللہ عمری نے نافع سے یہ حدیث بیان کی تھی کہ ان سے عبداللہ بن عمر رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ، قَالَ قُلْتُ لأَبِي أُسَامَةَ حَدَّثَكُمْ عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ تُسَافِرِ الْمَرْأَةُ ثَلاَثَةَ أَيَّامٍ إِلاَّ مَعَ ذِي مَحْرَمٍ ‏\"‏‏.‏",
+                "headingArabic": "فِي كَمْ يَقْصُرُ الصَّلاَةَ",
+                "headingUrdu": "سفر کی طوالت جس سے نماز قصر پڑھنا جائز ہے؟",
+                "headingEnglish": "The length of the journey that makes it permissible to offer a shortened prayer?",
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1053,
+                "hadithNumber": "1087",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"A woman should not travel for more than three days except with a Dhi-Mahram.\"\r\nAhmad corroborated him from Ibn-e-Mubarak, he from Obaidullah and he from Nafi'i that Hadrat Ibn-e-e Umer رضی اللہ عنہما reported it from the prophet (ﷺ).",
+                "hadithUrdu": "آپ صلی اللہ علیہ وسلم نے فرمایا عورت تین دن کا سفر اس وقت تک نہ کرے جب تک اس کے ساتھ کوئی محرم رشتہ دار نہ ہو ۔\r\n اس روایت کی متابعت احمد نے ابن مبارک سے کی ان سے عبیداللہ عمری نے ان سے نافع نے اور ان سے ابن عمر رضی اللہ عنہما نے نبی کریم صلی اللہ علیہ وسلم کے حوالہ سے ۔",
+                "urduNarrator": "ہم سے مسدد بن مسرہد نے بیان کیا ، کہا کہ ہم سے یحی ٰ بن سعیدقطان نے ، عبیداللہ عمری سے بیان کیا ، انہوں نے کہا کہ ہمیں نافع نے خبر دی ، انہیں ابن عمر رضی اللہ عنہما نے نبی کریم صلی اللہ علیہ وسلم سے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ تُسَافِرِ الْمَرْأَةُ ثَلاَثًا إِلاَّ مَعَ ذِي مَحْرَمٍ ‏\"‏‏.‏ تَابَعَهُ أَحْمَدُ عَنِ ابْنِ الْمُبَارَكِ عَنْ عُبَيْدِ اللَّهِ عَنْ نَافِعٍ عَنِ ابْنِ عُمَرَ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1054,
+                "hadithNumber": "1088",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"It is not permissible for a woman who believes in Allah and the Last Day to travel for one day and night except with a Mahram.\"\r\nYahya bin Abu Katheer and Sohail and Imam Malik corroborated him from Maqburi and he from Hadrat Abu Hurairah رضی اللہ عنہ .",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ کسی خاتون کے لیے جو اللہ اور اس کے رسول پر ایمان رکھتی ہو ، جائز نہیں کہ ایک دن رات کا سفر بغیر کسی ذی رحم محرم کے کرے ۔ اس روایت کی متابعت یحییٰ بن ابی کثیر ، سہیل اور مالک نے مقبری سے کی ۔ وہ اس روایت کو ابوہریرہ رضی اللہ عنہ سے بیان کرتے تھے ۔",
+                "urduNarrator": "ہم سے آدم نے بیان کیا انہوں نے کہا کہ ہم سے ابن ابی ذئب نے بیان کیا ، انہوں نے کہا کہ ہم سے سعید مقبری نے اپنے باپ سے بیان کیا ، ان سے ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، قَالَ حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، قَالَ حَدَّثَنَا سَعِيدٌ الْمَقْبُرِيُّ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنهما ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ لاَ يَحِلُّ لاِمْرَأَةٍ تُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ أَنْ تُسَافِرَ مَسِيرَةَ يَوْمٍ وَلَيْلَةٍ لَيْسَ مَعَهَا حُرْمَةٌ ‏\"‏‏.‏ تَابَعَهُ يَحْيَى بْنُ أَبِي كَثِيرٍ وَسُهَيْلٌ وَمَالِكٌ عَنِ الْمَقْبُرِيِّ عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1055,
+                "hadithNumber": "1089",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "I offered four rak`at of Zuhr prayer with the Prophet (ﷺ) at Medina and two rak`at at Dhul-Hulaifa. (i.e. shortened the `Asr prayer).",
+                "hadithUrdu": "میں نے نبی کریم صلی اللہ علیہ وسلم کے ساتھ مدینہ منورہ میں ظہر کی چار رکعت پڑھی اور ذوالحلیفہ میں عصر کی دو رکعت پڑھی ۔",
+                "urduNarrator": "ہم سے ابونعیم نے بیان کیا ، انہوں نے کہا کہ ہم سے سفیان نے ، محمد بن منکدر اور ابراہیم بن میسرہ سے بیان کیا ، ان سے انس بن مالک رضی اللہ عنہ نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، وَإِبْرَاهِيمَ بْنِ مَيْسَرَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ صَلَّيْتُ الظُّهْرَ مَعَ النَّبِيِّ صلى الله عليه وسلم بِالْمَدِينَةِ أَرْبَعًا، وَبِذِي الْحُلَيْفَةِ رَكْعَتَيْنِ‏.‏",
+                "headingArabic": "يَقْصُرُ إِذَا خَرَجَ مِنْ مَوْضِعِهِ",
+                "headingUrdu": "جب مسافر اپنی اصلی جگہ سے نکل جائے تو نماز قصر کر سکتا ہے۔",
+                "headingEnglish": "When a traveller leaves his original place, he can shorten his Salat (prayer)",
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1056,
+                "hadithNumber": "1090",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "\"When the prayers were first enjoined they were of two rak`at each. Later the prayer in a journey was kept as it was but the prayers for non-travelers were completed.\" Az-Zuhri said, \"I asked `Urwa what made Aisha رضی اللہ عنہا pray the full prayers (in journey).\" He replied, \"She did the same as `Uthman رضی اللہ عنہ did.\"",
+                "hadithUrdu": "پہلے نماز دو رکعت فرض ہوئی تھی بعد میں سفر کی نماز تو اپنی اسی حالت پر رہ گئی البتہ حضر کی نماز پوری ( چار رکعت ) کر دی گئی ۔ زہری نے بیان کیا کہ میں نے عروہ سے پوچھا کہ پھر خود حضرت عائشہ رضی اللہ عنہا نے کیوں نماز پوری پڑھی تھی انہوں نے اس کا جواب یہ دیا کہ عثمان رضی اللہ عنہ نے اس کی جو تاویل کی تھی وہی انہوں نے بھی کی ۔",
+                "urduNarrator": "ہم سے عبداللہ بن محمد مسندی نے بیان کیا ، کہا کہ ہم سے سفیان بن عیینہ نے زہری سے بیان کیا ، ان سے عروہ نے اور ان سے حضرت عائشہ رضی اللہ عنہا نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتِ الصَّلاَةُ أَوَّلُ مَا فُرِضَتْ رَكْعَتَيْنِ فَأُقِرَّتْ صَلاَةُ السَّفَرِ، وَأُتِمَّتْ صَلاَةُ الْحَضَرِ‏.‏ قَالَ الزُّهْرِيُّ فَقُلْتُ لِعُرْوَةَ مَا بَالُ عَائِشَةَ تُتِمُّ قَالَ تَأَوَّلَتْ مَا تَأَوَّلَ عُثْمَانُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1057,
+                "hadithNumber": "1091, 1092",
+                "englishNarrator": "Narrated `Abdullah bin `Uma رضی اللہ عنہما :",
+                "hadithEnglish": "\"I saw Allah's Messenger (ﷺ) delaying the Maghrib prayer till he offered it along with the `Isha' prayer whenever he was in a hurry during the journey.\" Salim narrated, \"Ibn `Umar رضی اللہ عنہما used to do the same whenever he was in a hurry during the journey.\" And Salim added, \"Ibn `Umar used to pray the Maghrib and `Isha' prayers together in Al-Muzdalifa.\" Salim said, \"Ibn `Umar delayed the Maghrib prayer because at that time he heard the news of the death of his wife Safiya bint Abi `Ubaid. I said to him, 'The prayer (is due).' He said, 'Go on.' Again I said, 'The prayer (is due).' He said, 'Go on,' till we covered two or three miles. Then he got down, prayed and said, 'I saw the Prophet (ﷺ) praying in this way, whenever he was in a hurry during the journey.' `Abdullah (bin `Umar) added, \"Whenever the Prophet was in a hurry, he used to delay the Maghrib prayer and then offer three rak`at (of the Maghrib) and perform Taslim, and after waiting for a short while, Iqama used to be pronounced for the `Isha' prayer when he would offer two rak`at and perform Taslim. He would never offer any optional prayer till the middle of the night (when he used to pray the Tahajjud).\"",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم کو دیکھا جب سفر میں چلنے کی جلدی ہوتی تو آپ صلی اللہ علیہ وسلم مغرب کی نماز دیر سے پڑھتے یہاں تک کہ مغرب اور عشاء ایک ساتھ ملا کر پڑھتے ۔ سالم نے کہا کہ عبداللہ بن عمر رضی اللہ عنہما کو بھی جب سفر میں جلدی ہوتی تو اس طرح کرتے ۔ \r\nلیث بن سعد نے اس روایت میں اتنا زیادہ کیا کہ مجھ سے یونس نے ابن شہاب سے بیان کیا ، کہ سالم نے بیان کیا کہ ابن عمر رضی اللہ عنہما مزدلفہ میں مغرب اور عشاء ایک ساتھ جمع کر کے پڑھتے تھے ۔ سالم نے کہا کہ ابن عمر رضی اللہ عنہما نے مغرب کی نماز اس دن دیر میں پڑھی تھی جب انہیں ان کی بیوی صفیہ بنت ابی عبید کی سخت بیماری کی اطلاع ملی تھی ( چلتے ہوئے ) میں نے کہا کہ نماز ! ( یعنی وقت ختم ہوا چاہتا ہے ) لیکن آپ نے فرمایا کہ چلے چلو پھر دوبارہ میں نے کہا کہ نماز ! آپ نے پھر فرمایا کہ چلے چلو اس طرح جب ہم دو یا تین میل نکل گئے تو آپ اترے اور نماز پڑھی پھر فرمایا کہ میں نے خود دیکھا ہے کہ جب نبی کریم صلی اللہ علیہ وسلم سفر میں تیزی کے ساتھ چلنا چاہتے تو اسی طرح کرتے تھے عبداللہ بن عمر رضی اللہ عنہما نے یہ بھی فرمایا کہ میں نے خود دیکھا کہ جب نبی کریم صلی اللہ علیہ وسلم ( منزل مقصود تک ) جلدی پہنچنا چاہتے تو پہلے مغرب کی تکبیر کہلواتے اور آپ اس کی تین رکعت پڑھا کر سلام پھیرتے ۔ پھر تھوڑی دیر ٹھہر کر عشاء پڑھاتے اور اس کی دو ہی رکعت پر سلام پھیرتے ۔ عشاء کے فرض کے بعد آپ سنتیں وغیرہ نہیں پڑھتے تھے آدھی رات کے بعد کھڑے ہو کر نماز پڑھتے ۔",
+                "urduNarrator": "ہم سے ابوالیمان نے بیان کیا ، انہوں نے کہا کہ ہمیں شعیب نے خبر دی ، زہری سے انہوں نے کہا کہ مجھے سالم نے عبداللہ بن عمر رضی اللہ عنہما سے خبر دی آپ نے فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، قَالَ أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي سَالِمٌ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم إِذَا أَعْجَلَهُ السَّيْرُ فِي السَّفَرِ يُؤَخِّرُ الْمَغْرِبَ حَتَّى يَجْمَعَ بَيْنَهَا وَبَيْنَ الْعِشَاءِ‏.‏ قَالَ سَالِمٌ وَكَانَ عَبْدُ اللَّهِ يَفْعَلُهُ إِذَا أَعْجَلَهُ السَّيْرُ‏. وَزَادَ اللَّيْثُ قَالَ حَدَّثَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ سَالِمٌ كَانَ ابْنُ عُمَرَ ـ رضى الله عنهما ـ يَجْمَعُ بَيْنَ الْمَغْرِبِ وَالْعِشَاءِ بِالْمُزْدَلِفَةِ‏.‏ قَالَ سَالِمٌ وَأَخَّرَ ابْنُ عُمَرَ الْمَغْرِبَ، وَكَانَ اسْتُصْرِخَ عَلَى امْرَأَتِهِ صَفِيَّةَ بِنْتِ أَبِي عُبَيْدٍ فَقُلْتُ لَهُ الصَّلاَةُ‏.‏ فَقَالَ سِرْ‏.‏ فَقُلْتُ الصَّلاَةُ‏.‏ فَقَالَ سِرْ‏.‏ حَتَّى سَارَ مِيلَيْنِ أَوْ ثَلاَثَةً ثُمَّ نَزَلَ فَصَلَّى ثُمَّ قَالَ هَكَذَا رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يُصَلِّي إِذَا أَعْجَلَهُ السَّيْرُ‏.‏ وَقَالَ عَبْدُ اللَّهِ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم إِذَا أَعْجَلَهُ السَّيْرُ يُؤَخِّرُ الْمَغْرِبَ، فَيُصَلِّيهَا ثَلاَثًا ثُمَّ يُسَلِّمُ، ثُمَّ قَلَّمَا يَلْبَثُ حَتَّى يُقِيمَ الْعِشَاءَ فَيُصَلِّيَهَا رَكْعَتَيْنِ ثُمَّ يُسَلِّمُ، وَلاَ يُسَبِّحُ بَعْدَ الْعِشَاءِ حَتَّى يَقُومَ مِنْ جَوْفِ اللَّيْلِ‏.‏",
+                "headingArabic": "يُصَلِّي الْمَغْرِبَ ثَلاَثًا فِي السَّفَرِ",
+                "headingUrdu": "سفر میں مغرب کی تین رکعت",
+                "headingEnglish": "Three Rak'a of Maghrib prayer during the journey",
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1058,
+                "hadithNumber": "1093",
+                "englishNarrator": "Narrated `Abdullah bin 'Amir from his father who said:",
+                "hadithEnglish": "I saw the Prophet (ﷺ) offering the prayer on his mount (Rahila) whatever direction it took.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم کو دیکھا کہ اونٹنی پر نماز پڑھتے رہتے خواہ اس کا منہ کسی طرف ہو ۔",
+                "urduNarrator": "ہم سے علی بن عبداللہ مدینی نے بیان کیا ، انہوں نے کہا کہ ہم سے عبدالاعلیٰ نے بیان کیا ، کہا کہ ہم سے معمر نے زہری سے بیان کیا ، ان سے عبداللہ بن عامر نے اور ان سے ان کے باپ نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا عَبْدُ الأَعْلَى، قَالَ حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ عَامِرٍ، عَنْ أَبِيهِ، قَالَ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يُصَلِّي عَلَى رَاحِلَتِهِ حَيْثُ تَوَجَّهَتْ بِهِ‏.‏",
+                "headingArabic": "صَلاَةِ التَّطَوُّعِ عَلَى الدَّوَابِّ وَحَيْثُمَا تَوَجَّهَتْ بِهِ",
+                "headingUrdu": "جانوروں کی پیٹھ پر نوافل پڑھنا",
+                "headingEnglish": "To offer Nawafil on the back of animals",
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1059,
+                "hadithNumber": "1094",
+                "englishNarrator": "Narrated Jabir bin `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) used to offer the Nawafil, while riding, facing a direction other than that of the Qibla.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نفل نماز اپنی اونٹنی پر غیر قبلہ کی طرف منہ کر کے بھی پڑھتے تھے ۔",
+                "urduNarrator": "ہم سے ابونعیم نے بیان کیا ، انہوں نے کہا کہ ہم سے شیبان نے کہا ، ان سے یحییٰ نے بیان کیا ، ان سے محمد بن عبدالرحمٰن نے بیان کیا ، کہ جابر بن عبداللہ رضی اللہ عنہما نے انہیں خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ حَدَّثَنَا شَيْبَانُ، عَنْ يَحْيَى، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ، أَنَّ جَابِرَ بْنَ عَبْدِ اللَّهِ، أَخْبَرَهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يُصَلِّي التَّطَوُّعَ وَهْوَ رَاكِبٌ فِي غَيْرِ الْقِبْلَةِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1060,
+                "hadithNumber": "1095",
+                "englishNarrator": "Narrated Nafi`:",
+                "hadithEnglish": "Ibn `Umar رضی اللہ عنہما (while on a journey) used to offer the prayer and the witr on his mount (Rahila). He said that the Prophet (ﷺ) used to do so.",
+                "hadithUrdu": "حضرت ابن عمر رضی اللہ عنہما نفل نماز سواری پر پڑھتے تھے ۔ اسی طرح وتر بھی ۔ اور فرماتے کہ نبی کریم صلی اللہ علیہ وسلم بھی ایسا کرتے تھے ۔",
+                "urduNarrator": "ہم سے ابوالاعلیٰ بن حماد نے بیان کیا ، انہوں نے کہا کہ ہم سے وہیب نے بیان کیا ، انہوں نے کہا کہ ہم سے موسیٰ بن عقبہ نے بیان کیا ، ان سے نافع نے بیان کیا ، انہوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ الأَعْلَى بْنُ حَمَّادٍ، قَالَ حَدَّثَنَا وُهَيْبٌ، قَالَ حَدَّثَنَا مُوسَى بْنُ عُقْبَةَ، عَنْ نَافِعٍ، قَالَ وَكَانَ ابْنُ عُمَرَ ـ رضى الله عنهما ـ يُصَلِّي عَلَى رَاحِلَتِهِ وَيُوتِرُ عَلَيْهَا، وَيُخْبِرُ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَفْعَلُهُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1061,
+                "hadithNumber": "1096",
+                "englishNarrator": "Narrated `Abdullah bin Dinar:",
+                "hadithEnglish": "On traveling, `Abdullah bin `Umar رضی اللہ عنہما used to offer the prayer on his Mount by signs whatever direction it took. `Abdullah said that the Prophet (ﷺ) used to do so.",
+                "hadithUrdu": "عبداللہ بن عمر رضی اللہ عنہما سفر میں اپنی اونٹنی پر نماز پڑھتے خواہ اس کا منہ کسی طرف ہوتا ۔ آپ اشاروں سے نماز پڑھتے ۔ آپ کا بیان تھا کہ نبی کریم صلی اللہ علیہ وسلم بھی اسی طرح کرتے تھے ۔",
+                "urduNarrator": "ہم سے موسیٰ بن اسماعیل نے بیان کیا ، انہوں نے کہا کہ ہم سے عبد العزیز بن مسلم نے بیان کیا ، انہوں نے کہا کہ ہم سے عبداللہ بن دینار نے بیان کیا ، انہوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا مُوسَى، قَالَ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُسْلِمٍ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دِينَارٍ، قَالَ كَانَ عَبْدُ اللَّهِ بْنُ عُمَرَ ـ رضى الله عنهما ـ يُصَلِّي فِي السَّفَرِ عَلَى رَاحِلَتِهِ، أَيْنَمَا تَوَجَّهَتْ يُومِئُ‏.‏ وَذَكَرَ عَبْدُ اللَّهِ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَفْعَلُهُ‏.‏",
+                "headingArabic": "الإِيمَاءِ عَلَى الدَّابَّةِ",
+                "headingUrdu": "جانور پر نشان لگا کر نماز پڑھنا",
+                "headingEnglish": "To offer the Salat by signs (while riding) on an animal",
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1062,
+                "hadithNumber": "1097",
+                "englishNarrator": "Narrated 'Amir bin Rabi`a:",
+                "hadithEnglish": "I saw the Prophet (ﷺ) on his Mount praying Nawafil by nodding his head, whatever direction he faced, but Allah's Messenger (ﷺ) never did the same in offering the compulsory prayers.",
+                "hadithUrdu": "میں نے رسول اللہ صلی اللہ علیہ وسلم کو اونٹنی پر نماز نفل پڑھتے دیکھا ۔ آپ صلی اللہ علیہ وسلم سر کے اشاروں سے پڑھ رہے تھے اس کا خیال کئے بغیر کہ سواری کا منہ کدھر ہوتا ہے لیکن فرض نمازوں میں آپ صلی اللہ علیہ وسلم اس طرح نہیں کرتے تھے ۔",
+                "urduNarrator": "ہم سے یحییٰ بن بکیر نے بیان کیا انہوں نے کہا کہ ہم سے لیث نے بیان کیا ، ان سے عقیل نے بیان کیا ، ان سے ابن شہاب نے بیان کیا ، ان سے عبداللہ بن عامر بن ربیعہ نے کہ عامر بن ربیعہ نے انہیں خبر دی انہوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَامِرِ بْنِ رَبِيعَةَ، أَنَّ عَامِرَ بْنَ رَبِيعَةَ، أَخْبَرَهُ قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم وَهْوَ عَلَى الرَّاحِلَةِ يُسَبِّحُ، يُومِئُ بِرَأْسِهِ قِبَلَ أَىِّ وَجْهٍ تَوَجَّهَ، وَلَمْ يَكُنْ رَسُولُ اللَّهِ صلى الله عليه وسلم يَصْنَعُ ذَلِكَ فِي الصَّلاَةِ الْمَكْتُوبَةِ‏.‏",
+                "headingArabic": "يَنْزِلُ لِلْمَكْتُوبَةِ",
+                "headingUrdu": "فرض نماز پڑھنے کے لیے نیچے اترنا",
+                "headingEnglish": "To get down to offer compulsory Salat",
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1063,
+                "hadithNumber": "1098",
+                "englishNarrator": "Narrated Salim:",
+                "hadithEnglish": "At night `Abdullah bin `Umar رضی اللہ عنہما used to offer the prayer on the back of his animal during the journey and never cared about the direction he faced. Ibn `Umar رضی اللہ عنہما said, \"Allah's Messenger (ﷺ) used to offer the optional prayer on the back of his Mount facing any direction and also used to pray the witr on it but never offered the compulsory prayer on it.\"",
+                "hadithUrdu": "عبداللہ بن عمر رضی اللہ عنہما سفر میں رات کے وقت اپنے جانور پر نماز پڑھتے کچھ پرواہ نہ کرتے کہ اس کا منہ کس طرف ہے ۔ ابن عمر رضی اللہ عنہما نے کہا کہ آنحضرت صلی اللہ علیہ وسلم بھی اونٹنی پر نفل نماز پڑھا کرتے چاہے اس کا منہ کدھر ہی ہو اور وتر بھی سواری پر پڑھ لیتے تھے البتہ فرض اس پر نہیں پڑھتے تھے ۔",
+                "urduNarrator": "اور لیث بن سعد نے بیان کیا کہ مجھ سے یونس نے بیان کیا ، انہوں نے ابن شہاب کے واسطہ سے بیان کیا انہوں نے کہا کہ سالم نے بیان کیا کہ",
+                "hadithArabic": "وَقَالَ اللَّيْثُ حَدَّثَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ قَالَ سَالِمٌ كَانَ عَبْدُ اللَّهِ يُصَلِّي عَلَى دَابَّتِهِ مِنَ اللَّيْلِ وَهْوَ مُسَافِرٌ، مَا يُبَالِي حَيْثُ مَا كَانَ وَجْهُهُ‏.‏ قَالَ ابْنُ عُمَرَ وَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُسَبِّحُ عَلَى الرَّاحِلَةِ قِبَلَ أَىِّ وَجْهٍ تَوَجَّهَ، وَيُوتِرُ عَلَيْهَا، غَيْرَ أَنَّهُ لاَ يُصَلِّي عَلَيْهَا الْمَكْتُوبَةَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1064,
+                "hadithNumber": "1099",
+                "englishNarrator": "Narrated Jabir bin `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) used to pray (the Nawafil) on his Mount facing east and whenever he wanted to offer the compulsory prayer, he used to dismount and face the Qibla.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم اپنی اونٹنی پر مشرق کی طرف منہ کئے ہوئے نماز پڑھتے تھے اور جب فرض پڑھتے تو سواری سے اتر جاتے اور پھر قبلہ کی طرف رخ کر کے پڑھتے ۔",
+                "urduNarrator": "ہم سے معاذ بن فضالہ نے بیان کیا کہا کہ ہم سے ہشام نے یحییٰ سے بیان کیا ان سے محمد بن عبدالرحمٰن بن ثوبان نے بیان کیا انہوں نے بیان کیا کہ مجھ سے جابر بن عبداللہ رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُعَاذُ بْنُ فَضَالَةَ، قَالَ حَدَّثَنَا هِشَامٌ، عَنْ يَحْيَى، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ ثَوْبَانَ، قَالَ حَدَّثَنِي جَابِرُ بْنُ عَبْدِ اللَّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يُصَلِّي عَلَى رَاحِلَتِهِ نَحْوَ الْمَشْرِقِ فَإِذَا أَرَادَ أَنْ يُصَلِّيَ الْمَكْتُوبَةَ نَزَلَ فَاسْتَقْبَلَ الْقِبْلَةَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1065,
+                "hadithNumber": "1100",
+                "englishNarrator": "Narrated Anas bin Seereen:",
+                "hadithEnglish": "We went to receive Anas bin Malik رضی اللہ عنہ when he returned from Sham and met him at a place called 'Ainat- Tamr. I saw him praying riding the donkey, with his face to this direction, i.e. to the left of the Qibla. I said to him, \"I have seen you offering the prayer in a direction other than that of the Qibla.\" He replied, \"If I had not seen Allah's Messenger (ﷺ) doing it, I would not have done it.\"\r\nIbn-e- Tahman reported it from Hajjaj, he from Anas bin sireen, he from Hadrat Anas رضی اللہ عنہ and he from the prophet (ﷺ).",
+                "hadithUrdu": "انس رضی اللہ عنہ شام سے جب ( حجاج کی خلیفہ سے شکایت کر کے ) واپس ہوئے تو ہم ان سے عین التمر میں ملے ۔ میں نے دیکھا کہ آپ گدھے پر سوار ہو کر نماز پڑھ رہے تھے اور آپ کا منہ قبلہ سے بائیں طرف تھا ۔ اس پر میں نے کہا کہ میں نے آپ کو قبلہ کے سوا دوسری طرف منہ کر کے نماز پڑھتے ہوئے دیکھا ہے ۔ انہوں نے جواب دیا کہ اگر میں رسول اللہ صلی اللہ علیہ وسلم کو ایسا کرتے نہ دیکھتا تو میں بھی نہ کرتا ۔ \r\nاس روایت کو ابراہیم ابن طہمان نے بھی حجاج سے ، انہوں نے انس بن سیرین سے ، انہوں نے انس بن مالک رضی اللہ عنہ سے اور انہوں نے نبی کریم صلی اللہ علیہ وسلم سے بیان کیا ہے ۔",
+                "urduNarrator": "ہم سے احمد بن سعید نے بیان کیا ، کہا کہ ہم سے حبان بن ہلال نے بیان کیا ، کہا کہ ہم سے ہمام بن یحییٰ نے بیان کیا ، کہا کہ ہم سے انس بن سیرین نے بیان کیا ، انہوں نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا حَبَّانُ، قَالَ حَدَّثَنَا هَمَّامٌ، قَالَ حَدَّثَنَا أَنَسُ بْنُ سِيرِينَ، قَالَ اسْتَقْبَلْنَا أَنَسًا حِينَ قَدِمَ مِنَ الشَّأْمِ، فَلَقِينَاهُ بِعَيْنِ التَّمْرِ، فَرَأَيْتُهُ يُصَلِّي عَلَى حِمَارٍ وَوَجْهُهُ مِنْ ذَا الْجَانِبِ، يَعْنِي عَنْ يَسَارِ الْقِبْلَةِ‏.‏ فَقُلْتُ رَأَيْتُكَ تُصَلِّي لِغَيْرِ الْقِبْلَةِ‏.‏ فَقَالَ لَوْلاَ أَنِّي رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَعَلَهُ لَمْ أَفْعَلْهُ‏.‏ رَوَاهُ ابْنُ طَهْمَانَ عَنْ حَجَّاجٍ عَنْ أَنَسِ بْنِ سِيرِينَ عَنْ أَنَسٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏",
+                "headingArabic": "صَلاَةِ التَّطَوُّعِ عَلَى الْحِمَارِ",
+                "headingUrdu": "گدھے پر سوار ہو کر نوافل ادا کرنا",
+                "headingEnglish": "To offer the Nawafil while riding a donkey",
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1066,
+                "hadithNumber": "1101",
+                "englishNarrator": "Narrated Hafs bin `Asim:",
+                "hadithEnglish": "Ibn `Umar رضی اللہ عنہما went on a journey and said, \"I accompanied the Prophet (ﷺ) and he did not offer optional prayers during the journey, and Allah says: 'Verily! In Allah's Messenger (ﷺ) you have a good example to follow.' \" (33.21)",
+                "hadithUrdu": "میں نے سفر میں سنتوں کے متعلق عبداللہ بن عمر رضی اللہ عنہما سے پوچھا آپ نے فرمایا کہ میں نبی کریم صلی اللہ علیہ وسلم کی صحبت میں رہا ہوں ۔ میں نے آپ کو سفر میں کبھی سنتیں پڑھتے نہیں دیکھا اور اللہ جل ذکرہ کا ارشاد ہے کہ تمہارے لیے رسول اللہ صلی اللہ علیہ وسلم کی زندگی بہترین نمونہ ہے ۔",
+                "urduNarrator": "ہم سے یحییٰ بن سلیمان کوفی نے بیان کیا ، کہا کہ مجھ سے عبداللہ بن وہب نے بیان کیا ، کہا کہ مجھ سے عمر بن محمد بن یزید نے بیان کیا کہ حفص بن عاصم بن عمر نے ان سے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنِي ابْنُ وَهْبٍ، قَالَ حَدَّثَنِي عُمَرُ بْنُ مُحَمَّدٍ، أَنَّ حَفْصَ بْنَ عَاصِمٍ، حَدَّثَهُ قَالَ سَافَرَ ابْنُ عُمَرَ ـ رضى الله عنهما ـ فَقَالَ صَحِبْتُ النَّبِيَّ صلى الله عليه وسلم فَلَمْ أَرَهُ يُسَبِّحُ فِي السَّفَرِ، وَقَالَ اللَّهُ جَلَّ ذِكْرُهُ ‏{‏لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ‏}‏‏.‏",
+                "headingArabic": "مَنْ لَمْ يَتَطَوَّعْ فِي السَّفَرِ دُبُرَ الصَّلاَةِ وَقَبْلَهَا",
+                "headingUrdu": "جس نے سفر میں نماز سے پہلے اور بعد میں نوافل نہ پڑھے۔",
+                "headingEnglish": "Whoever did not offer the Nawafil before and after the (compulsory) Salat during a journey",
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1067,
+                "hadithNumber": "1102",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہم :",
+                "hadithEnglish": "I accompanied Allah's Messenger (ﷺ) and he never offered more than two rak`at during the journey. Abu Bakr, `Umar and `Uthman رضی اللہ عنہم used to do the same.",
+                "hadithUrdu": "میں رسول اللہ صلی اللہ علیہ وسلم کی صحبت میں رہا ہوں ، آپ صلی اللہ علیہ وسلم سفر میں دو رکعت ( فرض ) سے زیادہ نہیں پڑھا کرتے تھے ۔ ابوبکر ، عمر اور عثمان رضی اللہ عنہم بھی ایسا ہی کرتے تھے ۔",
+                "urduNarrator": "ہم سے مسدد بن مسرہد نے بیان کیا ، کہا کہ ہم سے یحییٰ بن سعید قطان نے بیان کیا ، ان سے عیسیٰ بن حفص بن عاصم نے ، انہوں نے کہا کہ مجھ سے میرے باپ نے بیان کیا ، انہوں نے عبداللہ بن عمر رضی اللہ عنہما کو یہ فرماتے سنا کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ عِيسَى بْنِ حَفْصِ بْنِ عَاصِمٍ، قَالَ حَدَّثَنِي أَبِي أَنَّهُ، سَمِعَ ابْنَ عُمَرَ، يَقُولُ صَحِبْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَكَانَ لاَ يَزِيدُ فِي السَّفَرِ عَلَى رَكْعَتَيْنِ، وَأَبَا بَكْرٍ وَعُمَرَ وَعُثْمَانَ كَذَلِكَ ـ رضى الله عنهم‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1068,
+                "hadithNumber": "1103",
+                "englishNarrator": "Narrated Ibn Abu Laila:",
+                "hadithEnglish": "Only Um Hani رضی اللہ عنہا told us that she had seen the Prophet (ﷺ) offering the Duha (forenoon prayer). She said, \"On the day of the conquest of Mecca, the Prophet (ﷺ) took a bath in my house and offered eight rak`at. I never saw him praying such a light prayer but he performed perfect prostration and bowing.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کو انہوں نے چاشت کی نماز پڑھتے دیکھا ہاں ام ہانی رضی اللہ عنہا کا بیان ہے کہ فتح مکہ کے دن نبی کریم صلی اللہ علیہ وسلم نے ان کے گھر غسل کیا تھا اور اس کے بعد آپ صلی اللہ علیہ وسلم نے آٹھ رکعتیں پڑھی تھیں ، میں نے آپ صلی اللہ علیہ وسلم کو کبھی اتنی ہلکی پھلکی نماز پڑھتے نہیں دیکھا البتہ آپ صلی اللہ علیہ وسلم رکوع اور سجدہ پوری طرح کرتے تھے ۔",
+                "urduNarrator": "ہم سے حفص بن عمر نے بیان کیا ، کہا کہ ہم سے شعبہ نے بیان کیا ، ان سے عمرو بن مرہ نے ، ان سے ابن ابی لیلیٰ نے ، انہوں نے کہا کہ ہمیں کسی نے یہ خبر نہیں دی کہ",
+                "hadithArabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرٍو، عَنِ ابْنِ أَبِي لَيْلَى، قَالَ مَا أَنْبَأَ أَحَدٌ، أَنَّهُ رَأَى النَّبِيَّ صلى الله عليه وسلم صَلَّى الضُّحَى غَيْرُ أُمِّ هَانِئٍ ذَكَرَتْ أَنَّ النَّبِيَّ صلى الله عليه وسلم يَوْمَ فَتْحِ مَكَّةَ اغْتَسَلَ فِي بَيْتِهَا، فَصَلَّى ثَمَانِ رَكَعَاتٍ، فَمَا رَأَيْتُهُ صَلَّى صَلاَةً أَخَفَّ مِنْهَا، غَيْرَ أَنَّهُ يُتِمُّ الرُّكُوعَ وَالسُّجُودَ‏.‏",
+                "headingArabic": "مَنْ تَطَوَّعَ فِي السَّفَرِ فِي غَيْرِ دُبُرِ الصَّلَوَاتِ وَقَبْلَهَا",
+                "headingUrdu": "جس نے فرض نماز کے بعد نہیں بلکہ اس سے پہلے نوافل پڑھے۔",
+                "headingEnglish": "Whoever offered Nawafil not after the compulsory Salat but before it",
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1069,
+                "hadithNumber": "1104",
+                "englishNarrator": "Narrated `Abdullah bin Amir that his father had told him that:",
+                "hadithEnglish": "He had seen the Prophet (ﷺ) praying Nawafil at night on the back of his Mount on a journey, facing whatever direction it took.",
+                "hadithUrdu": "انہوں نے خود دیکھا کہ رسول اللہ صلی اللہ علیہ وسلم ( رات میں ) سفر میں نفل نمازیں سواری پر پڑھتے تھے ، وہ جدھر آپ صلی اللہ علیہ وسلم کو لے جاتی ادھر ہی سہی ۔",
+                "urduNarrator": "اور لیث بن سعد رحمہ اللہ نے کہا کہ مجھ سے یونس نے بیان کیا ، ان سے ابن شہاب نے ، انہوں نے کہا کہ مجھ سے عبداللہ بن عامر بن ربیعہ نے بیان کیا کہ انہیں ان کے باپ نے خبر دی کہ",
+                "hadithArabic": "وَقَالَ اللَّيْثُ حَدَّثَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ عَامِرٍ، أَنَّ أَبَاهُ، أَخْبَرَهُ أَنَّهُ، رَأَى النَّبِيَّ صلى الله عليه وسلم صَلَّى السُّبْحَةَ بِاللَّيْلِ فِي السَّفَرِ عَلَى ظَهْرِ رَاحِلَتِهِ حَيْثُ تَوَجَّهَتْ بِهِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1070,
+                "hadithNumber": "1105",
+                "englishNarrator": "Narrated Salim bin `Abdullah Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "\"Allah's Messenger (ﷺ) used to pray the Nawafil on the back of his Mount (carriage) by signs facing any direction.\" Ibn `Umar رضی اللہ عنہما used to do the same.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم اپنی اونٹنی کی پیٹھ پر خواہ اس کا منہ کسی طرف ہوتا نفل نماز سر کے اشاروں سے پڑھتے تھے ۔ عبداللہ بن عمر رضی اللہ عنہما بھی اسی طرح کیا کرتے تھے ۔",
+                "urduNarrator": "ہم سے ابوالیمان نے بیان کیا ، انہوں نے کہا کہ ہمیں شعیب نے خبر دی ، انہیں زہری نے اور انہیں سالم بن عبداللہ بن عمر نے اپنے باپ عبداللہ بن عمر رضی اللہ عنہما سے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، قَالَ أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي سَالِمُ بْنُ عَبْدِ اللَّهِ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُسَبِّحُ عَلَى ظَهْرِ رَاحِلَتِهِ حَيْثُ كَانَ وَجْهُهُ، يُومِئُ بِرَأْسِهِ، وَكَانَ ابْنُ عُمَرَ يَفْعَلُهُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1071,
+                "hadithNumber": "1106",
+                "englishNarrator": "Narrated Salim's father:",
+                "hadithEnglish": "The Prophet (ﷺ) used to offer the Maghrib and `Isha' prayers together whenever he was in a hurry on a journey.",
+                "hadithUrdu": "نبی اکرم صلی اللہ علیہ وسلم کو اگر سفر میں جلد چلنا منظور ہوتا تو مغرب اور عشاء ایک ساتھ ملا کر پڑھتے ۔",
+                "urduNarrator": "ہم سے علی بن عبداللہ مدینی نے بیان کیا ، کہا کہ ہم سے سفیان بن عیینہ نے بیان کیا ، انہوں نے کہا کہ میں نے زہری سے سنا ، انہوں نے سالم سے اور انہوں نے اپنے باپ عبداللہ بن عمرسے کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ سَمِعْتُ الزُّهْرِيَّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَجْمَعُ بَيْنَ الْمَغْرِبِ وَالْعِشَاءِ إِذَا جَدَّ بِهِ السَّيْرُ‏.‏",
+                "headingArabic": "الْجَمْعِ فِي السَّفَرِ بَيْنَ الْمَغْرِبِ وَالْعِشَاءِ",
+                "headingUrdu": "سفر میں مغرب اور عشاء کی نمازیں ایک ساتھ پڑھنا",
+                "headingEnglish": "To offer Maghrib and \"Isha\" prayers together on a journey",
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1072,
+                "hadithNumber": "1107",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) used to offer the Zuhr and `Asr prayers together on journeys, and also used to offer the Maghrib and `Isha' prayers together.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم سفر میں ظہر اور عصر کی نماز ایک ساتھ ملا کر پڑھتے ۔ اسی طرح مغرب اور عشاء کی بھی ایک ساتھ ملا کر پڑھتے تھے ۔",
+                "urduNarrator": "اور ابرہیم بن طہمان نے کہا کہ ان سے حسین معلم نے بیان کیا ، ان سے یحییٰ بن ابی کثیر نے بیان کیا ، ان سے عکرمہ نے بیان کیا اور ان سے حضرت عبداللہ بن عباس رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "وَقَالَ إِبْرَاهِيمُ بْنُ طَهْمَانَ عَنِ الْحُسَيْنِ الْمُعَلِّمِ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَجْمَعُ بَيْنَ صَلاَةِ الظُّهْرِ وَالْعَصْرِ إِذَا كَانَ عَلَى ظَهْرِ سَيْرٍ، وَيَجْمَعُ بَيْنَ الْمَغْرِبِ وَالْعِشَاءِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1073,
+                "hadithNumber": "1108",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) used to offer these two prayers together on journeys i.e. the Maghrib and the `Isha'.\r\nAli bin Mubarak corroborated him. Harb, Yahya, Hafs, Hadrat Anas رضی اللہ عنہ report: The prophet (ﷺ) combined (two prayers).",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم سفر میں مغرب اور عشاء ایک ساتھ ملا کر پڑھتے تھے ۔ \r\nاس روایت کی متابعت علی بن مبارک اور حرب نے یحییٰ سے کی ہے ۔ یحییٰ حفص سے اور حفص انس رضی اللہ عنہ سے روایت کرتے ہیں کہ نبی کریم صلی اللہ علیہ وسلم نے ( مغرب اور عشاء ) ایک ساتھ ملا کر پڑھی تھیں ۔",
+                "urduNarrator": "اور ابن طہمان ہی نے بیان کیا کہ ان سے حسین نے ، ان سے یحییٰ بن ابی کثیر نے ، ان سے حفص بن عبیداللہ بن انس رضی اللہ عنہ نے اور ان سے انس بن مالک رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "وَعَنْ حُسَيْنٍ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ حَفْصِ بْنِ عُبَيْدِ اللَّهِ بْنِ أَنَسٍ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَجْمَعُ بَيْنَ صَلاَةِ الْمَغْرِبِ وَالْعِشَاءِ فِي السَّفَرِ‏.‏ وَتَابَعَهُ عَلِيُّ بْنُ الْمُبَارَكِ وَحَرْبٌ عَنْ يَحْيَى عَنْ حَفْصٍ عَنْ أَنَسٍ جَمَعَ النَّبِيُّ صلى الله عليه وسلم‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1074,
+                "hadithNumber": "1109",
+                "englishNarrator": "Narrated `Abdullah bin `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "'I saw Allah's Messenger (ﷺ) delaying the Maghrib prayer till he offered it along with the `Isha prayer whenever he was in a hurry during the journey.' \" Salim said, \"Abdullah bin `Umar رضی اللہ عنہما used to do the same whenever he was in a hurry during the journey. After making the call for Iqama, for the Maghrib prayer he used to offer three rak`at and then perform Taslim. After waiting for a short while, he would pronounce the Iqama for the `Isha' prayer and offer two rak`at and perform Taslim. He never prayed any Nawafil in between the two prayers or after the `Isha' prayers till he got up in the middle of the night (for Tahajjud prayer).\"",
+                "hadithUrdu": "میں نے دیکھا رسول اللہ صلی اللہ علیہ وسلم کو جب جلدی سفر طے کرنا ہوتا تو مغرب کی نماز مؤخر کر دیتے ۔ پھر اسے عشاء کے ساتھ ملا کر پڑھتے تھے ۔ سالم نے بیان کیا کہ عبداللہ بن عمر رضی اللہ عنہما بھی اگر سفر سرعت کے ساتھ طے کرنا چاہتے تو اسی طرح کرتے تھے ۔ مغرب کی تکبیر پہلے کہی جاتی اور آپ تین رکعت مغرب کی نماز پڑھ کر سلام پھیر دیتے ۔ پھر معمولی سے توقف کے بعد عشاء کی تکبیر کہی جاتی اور آپ اس کی دو رکعتیں پڑھ کر سلام پھیر دیتے ۔ دونوں نمازوں کے درمیان ایک رکعت بھی سنت وغیرہ نہ پڑھتے اور اسی طرح عشاء کے بعد بھی نماز نہیں پڑھتے تھے ۔ یہاں تک کہ درمیان شب میں آپ اٹھتے ( اور تہجد ادا کرتے ) ۔",
+                "urduNarrator": "ہم سے ابو الیمان نے بیان کیا ، کہا کہ ہمیں شعیب نے زہری سے خبر دی ، انہوں نے کہا کہ مجھے سالم نے عبداللہ بن عمر رضی اللہ عنہما سے خبر دی ۔ آپ نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، قَالَ أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي سَالِمٌ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم إِذَا أَعْجَلَهُ السَّيْرُ فِي السَّفَرِ يُؤَخِّرُ صَلاَةَ الْمَغْرِبِ، حَتَّى يَجْمَعَ بَيْنَهَا وَبَيْنَ الْعِشَاءِ‏.‏ قَالَ سَالِمٌ وَكَانَ عَبْدُ اللَّهِ يَفْعَلُهُ إِذَا أَعْجَلَهُ السَّيْرُ، وَيُقِيمُ الْمَغْرِبَ فَيُصَلِّيهَا ثَلاَثًا، ثُمَّ يُسَلِّمُ، ثُمَّ قَلَّمَا يَلْبَثُ حَتَّى يُقِيمَ الْعِشَاءَ، فَيُصَلِّيهَا رَكْعَتَيْنِ، ثُمَّ يُسَلِّمُ وَلاَ يُسَبِّحُ بَيْنَهَا بِرَكْعَةٍ، وَلاَ بَعْدَ الْعِشَاءِ بِسَجْدَةٍ حَتَّى يَقُومَ مِنْ جَوْفِ اللَّيْلِ‏.‏",
+                "headingArabic": "هَلْ يُؤَذِّنُ أَوْ يُقِيمُ إِذَا جَمَعَ بَيْنَ الْمَغْرِبِ وَالْعِشَاءِ",
+                "headingUrdu": "کیا مغرب اور عشاء کی نماز ایک ساتھ ادا کرتے وقت اذان اور اقامت کہی جائے؟",
+                "headingEnglish": "Should the Adhan and Iqama be pronounced when the Maghrib and Isha prayers are offered together",
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1075,
+                "hadithNumber": "1110",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "During a journey, the Prophet (ﷺ) would combine both these prayers i.e the Maghrib and the Isha.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم ان دو نمازوں یعنی مغرب اور عشاء کو سفر میں ایک ساتھ ملا کر پڑھا کرتے تھے ۔",
+                "urduNarrator": "ہم سے اسحاق نے بیان کیا ، انہوں نے کہا کہ ہم سے عبدالصمد بن عبدالوارث نے بیان کیا ۔ انہوں نے کہا ہم سے حرب بن سداد نے بیان کیا ، انہوں نے کہا کہ ہم سے یحییٰ بن ابی کثیر نے بیان کیا ، انہوں نے کہا کہ مجھ سے حفص بن عبیداللہ بن انس نے بیان کیا کہ انس رضی اللہ عنہ نے ان سے یہ بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ، حَدَّثَنَا عَبْدُ الصَّمَدِ، حَدَّثَنَا حَرْبٌ، حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنِي حَفْصُ بْنُ عُبَيْدِ اللَّهِ بْنِ أَنَسٍ، أَنَّ أَنَسًا ـ رضى الله عنه ـ حَدَّثَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَجْمَعُ بَيْنَ هَاتَيْنِ الصَّلاَتَيْنِ فِي السَّفَرِ‏.‏ يَعْنِي الْمَغْرِبَ وَالْعِشَاءَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "19",
+                "bookSlug": "sahih-bukhari",
+                "volume": "2",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 19,
+                    "chapterNumber": "19",
+                    "chapterEnglish": "Shortening the Prayers (At-Taqseer)",
+                    "chapterUrdu": "نماز میں قصر کرنے کا بیان",
+                    "chapterArabic": "كتاب تقصير الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 1051,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=42",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=40",
+                "label": "40",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=41",
+                "label": "41",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=42",
+                "label": "42",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=43",
+                "label": "43",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=44",
+                "label": "44",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=45",
+                "label": "45",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=46",
+                "label": "46",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=44",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=44",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=42",
+        "to": 1075,
+        "total": 40465
+    }
+}

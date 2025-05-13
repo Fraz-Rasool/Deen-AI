@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 476,
+        "data": [
+            {
+                "id": 12164,
+                "hadithNumber": "4600",
+                "englishNarrator": "It has been narrated on the authority of 'A'isha رضی اللہ عنہا :",
+                "hadithEnglish": "Sa'd's رضی اللہ عنہ wound became dry and was going to heal when he prayed: O God, surely Thou knowest that nothing is dearer to me than that I should fight for Thy cause against the people who disbeliever Your Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) and turned him out (from his native place). If anything yet remains to be decided from the war against the Quraish, spare my life so that I may fight against them in Thy cause. O Lord, I think Thou hast ended the war between us and them. If Thou hast done so, open my wound (so that it may discharge) and cause my death thereby. So the wound begin to bleed from the front part of his neck. The people were not scared except when the blood flowed towards them, and in the mosque along with Sa'd's رضی اللہ عنہ tent was the tent of Banu Ghifar. They said: O people of the tent, what is it that is coming to us from you? Lo! it was Sa'd's رضی اللہ عنہ wound that was bleeding and he died thereof.",
+                "hadithUrdu": "حضرت سعد رضی اللہ عنہ نے ، جب ان کا زخم بھر رہا تھا ، ( تو دعا کرتے ہوئے ) کہا : اے اللہ! تو جانتا ہے کہ مجھے تیرے راستے میں ، اس قوم کے خلاف جہاد سے بڑھ کر کسی کے خلاف جہاد کرنا محبوب نہیں جنہوں نے تیرے رسول کو جھٹلایا اور نکالا ۔ اگر قریش کی جنگ کا کوئی حصہ باقی ہے تو مجھے زندہ رکھ تاکہ میں تیرے راستے میں ان سے جہاد کروں ۔ اے اللہ! میرا خیال ہے کہ تو نے ہمارے اور ان کے درمیان لڑائی ختم کر دی ہے ۔ اگر تو نے ہمارے اور ان کے درمیان لڑائی واقعی ختم کر دی ہے تو اس ( زخم ) کو پھاڑ دے اور مجھے اسی میں موت عطا فرما ، چنانچہ ان کی ہنسلی سے خون بہنے لگا ، لوگوں کو ۔ ۔ اور مسجد میں ان کے ساتھ بنو غفار کا خیمہ تھا ۔ ۔ اس خون نے ہی خوفزدہ کیا جو ان کی طرف بہہ رہا تھا ۔ انہوں نے پوچھا : اے خیمے والو! یہ کیا ہے جو تمہاری جانب سے ہماری طرف آ رہا ہے؟ تو وہ سعد رضی اللہ عنہ کا زخم تھا جس سے مسلسل خوب بہہ رہا ہے ، چنانچہ وہ اسی ( کیفیت ) میں فوت ہو گئے.",
+                "urduNarrator": "ہم سے ابو کریب نے بیان کیا, ابن نمیر نے ہشام سے حدیث بیان کی ، کہا : مجھے میرے والد نے حضرت عائشہ رضی اللہ عنہا سے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا ابْنُ نُمَيْرٍ، عَنْ هِشَامٍ، أَخْبَرَنِي أَبِي، عَنْ عَائِشَةَ، أَنَّ سَعْدًا، قَالَ وَتَحَجَّرَ كَلْمُهُ لِلْبُرْءِ، فَقَالَ: «اللهُمَّ، إِنَّكَ تَعْلَمُ أَنْ لَيْسَ أَحَدٌ أَحَبَّ إِلَيَّ أَنْ أُجَاهِدَ فِيكَ مِنْ قَوْمٍ كَذَّبُوا رَسُولَكَ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَأَخْرَجُوهُ، اللهُمَّ، فَإِنْ كَانَ بَقِيَ مِنْ حَرْبِ قُرَيْشٍ شَيْءٌ، فَأَبْقِنِي أُجَاهِدْهُمْ فِيكَ، اللهُمَّ، فَإِنِّي أَظُنُّ أَنَّكَ قَدْ وَضَعْتَ الْحَرْبَ بَيْنَنَا وَبَيْنَهُمْ، فَإِنْ كُنْتَ وَضَعْتَ الْحَرْبَ بَيْنَنَا وَبَيْنَهُمْ فَافْجُرْهَا، وَاجْعَلْ مَوْتِي فِيهَا»، فَانْفَجَرَتْ مِنْ لَبَّتِهِ، فَلَمْ يَرُعْهُمْ وَفِي الْمَسْجِدِ مَعَهُ خَيْمَةٌ مِنْ بَنِي غِفَارٍ إِلَّا وَالدَّمُ يَسِيلُ إِلَيْهِمْ، فَقَالُوا: يَا أَهْلَ الْخَيْمَةِ مَا هَذَا الَّذِي يَأْتِينَا مِنْ قِبَلِكُمْ، فَإِذَا سَعْدٌ جُرْحُهُ يَغِذُّ دَمًا، فَمَاتَ مِنْهَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12165,
+                "hadithNumber": "4601",
+                "englishNarrator": "This tradition has been narrated by Hisham through the same chain of transmitters with a little difference in the wording. He said:",
+                "hadithEnglish": "(His wound) began to bleed that very night and it continued to bleed until he died. He has made the addition that it was then that (a non-believing) poet said: Hark, O Sa'd, Sa'd of Banu Mu'adh, What have the Quraiaa and Nadir done? By thy life! Sa'd bin Mu'adh>br> Was steadfast on the morn they departed. You have left your cooking-pot empty, While the cooking-pot of the people is hot and boiling. Abu Hubab the nobleman has said, O Qainuqa', do not depart. They were weighty in their country just aa rocks are weighty in Maitan.",
+                "hadithUrdu": "یہی وقت ہے جب ( ایک کافر ) شاعر کہتا ہے : اے سعد! بنو معاذ کے ( گھرانے کے ) سعد! وہ کیا تھا جو بنو قریظہ نے کیا اور ( وہ کیا تھا جو ) بنونضیر نے کیا؟ تمہاری زندگی کی قسم! بنو معاذ کا سعد ، جس صبح ان لوگوں نے سزا برداشت کی ، خوب صبر کرنے والا تھا ۔ تم ( اوس کے ) لوگوں نے اپنی ہڈیاں اس طرح چھوڑیں کہ ان میں کچھ باقی نہ بچا تھا جبکہ قوم ( بنو خزرج ) کی ہانڈیاں گرم تھیں ، ابل رہی تھیں ( انہوں نے اپنے حلیف بنو نضیر کا ساتھ دیا تھا ۔ ) ایک کریم انسان ابوحباب ( رئیس المنافقین عبداللہ بن ابی ابن سلول ) نے کہا تھا : ( بنو ) قینقاع! مقیم رہو ، مت جاو ۔ وہ لوگ اپنے شہر میں بہت وزن رکھتے تھے ( باوقعت تھے ) جس طرح جبلِ میطان کی چٹانیں بہت وزن رکھتی ہیں.",
+                "urduNarrator": "ہم سے علی بن الحسن بن سلیمان الکوفی نے بیان کیا, عبدہ نے ہشام سے اسی سند کے ساتھ اسی طرح حدیث بیان کی ، البتہ انہوں نے کہا : اسی رات سے خوب بہنے لگا اور مسلسل بہتا رہا حتی کہ وہ وفات پا گئے ۔ اور انہوں نے حدیث میں یہ اضافہ کیا ، کہا",
+                "hadithArabic": "وحَدَّثَنَا عَلِيُّ بْنُ الْحَسَنِ بْنِ سُلَيْمَانَ الْكُوفِيُّ، حَدَّثَنَا عَبْدَةُ، عَنْ هِشَامٍ بِهَذَا الْإِسْنَادِ نَحْوَهُ، غَيْرَ أَنَّهُ قَالَ: فَانْفَجَرَ مِنْ لَيْلَتِهِ فَمَا زَالَ يَسِيلُ حَتَّى مَاتَ، وَزَادَ فِي الْحَدِيثِ، قَالَ: فَذَاكَ حِينَ يَقُولُ الشَّاعِرُ [البحر الوافر] أَلَا يَا سَعْدُ سَعْدَ بَنِي مُعَاذٍ ... فَمَا فَعَلَتْ قُرَيْظَةُ وَالنَّضِيرُ لَعَمْرُكَ إِنَّ سَعْدَ بَنِي مُعَاذٍ ... غَدَاةَ تَحَمَّلُوا لَهُوَ الصَّبُورُ تَرَكْتُمْ قِدْرَكُمْ لَا شَيْءَ فِيهَا ... وَقِدْرُ الْقَوْمِ حَامِيَةٌ تَفُورُ وَقَدْ قَالَ الْكَرِيمُ أَبُو حُبَابٍ ... أَقِيمُوا قَيْنُقَاعُ وَلَا تَسِيرُوا وَقَدْ كَانُوا بِبَلْدَتِهِمْ ثِقَالًا ... كَمَا ثَقُلَتْ بِمَيْطَانَ الصُّخُورُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12166,
+                "hadithNumber": "4602",
+                "englishNarrator": "It has been narrated on the authority of Abdullah رضی اللہ عنہ who said:",
+                "hadithEnglish": "On the day he returned from the Battle of Ahzab, the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) made for us an announcement that nobody would say his Zuhr prayer but in the quarters of Banu Quraiza (Some) people, being afraid that the time for prayer would expire, said their prayers before reaching the street of Banu Quraiza. The others said: We will not say our prayer except where the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) has ordered us to say it even if the time expires. When he learned of the difference in the view of the two groups of the people, the Messenger of Allah (ﷺ) did not blame anyone from the two groups.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ، جس روز آپ جنگِ احزاب سے لوٹےہم میں منادی کرائی کہ کوئی شخص بنو قریظہ کے سوا کہیں اور نمازِ ظہر ادا نہ کرے ۔ کچھ لوگوں کو وقت نکل جانے کا خوف محسوس ہوا تو انہوں نے بنو قریظہ ( پہنچنے ) سے پہلے ہی نماز پڑھ لی ، جبکہ دوسروں نے کہا : چاہے وقت ختم ہو جائے ہم وہیں نماز پڑھیں گے جہاں رسول اللہ صلی اللہ علیہ وسلم نے ہمیں نماز پڑھنے کا حکم دیا ہے ۔ کہا : تو آپ نے فریقین میں سے کسی کو بھی ملامت نہ کی.",
+                "urduNarrator": "مجھ سے عبداللہ بن محمد بن اسماء الضعبی نے بیان کیا، ہم سے جویریہ بن اسماء نے نافع کی سند سے بیان کیا, حضرت عبداللہ ( بن عمر رضی اللہ عنہ ) سے روایت ہے ، انہوں نے کہا",
+                "hadithArabic": "وحَدَّثَنِي عَبْدُ اللهِ بْنُ مُحَمَّدِ بْنِ أَسْمَاءَ الضُّبَعِيُّ، حَدَّثَنَا جُوَيْرِيَةُ بْنُ أَسْمَاءَ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللهِ، قَالَ: نَادَى فِينَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَوْمَ انْصَرَفَ عَنِ الْأَحْزَابِ «أَنْ لَا يُصَلِّيَنَّ أَحَدٌ الظُّهْرَ إِلَّا فِي بَنِي قُرَيْظَةَ»، فَتَخَوَّفَ نَاسٌ فَوْتَ الْوَقْتِ، فَصَلَّوْا دُونَ بَنِي قُرَيْظَةَ، وَقَالَ آخَرُونَ: لَا نُصَلِّي إِلَّا حَيْثُ أَمَرَنَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَإِنْ فَاتَنَا الْوَقْتُ، قَالَ: فَمَا عَنَّفَ وَاحِدًا مِنَ الْفَرِيقَيْنِ.",
+                "headingArabic": "المبادرة بالغزو،وتقديم أهم الأمرين المتعارضين",
+                "headingUrdu": "لڑنے میں جلدی کرنا، اور جب انتخاب کرنا ضروری ہے تو دو کاموں میں سے زیادہ ضروری کو ترجیح دینا",
+                "headingEnglish": "Hastening to fight, and giving precedence to the more urgent of two tasks when a choice must be made",
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12167,
+                "hadithNumber": "4603",
+                "englishNarrator": "It has been narrated on the authority of Anas bin Malik رضی اللہ عنہ who said:",
+                "hadithEnglish": "When the Muhajirs migrated from Mecca to Medina; they came (in a state that) they had not anything (i.e. money) in their hands, while the Ansar possessed lands and date palms. They divided their properties with the Muhajirs. The Ansar divided and gave them on the condition that they would give half the fruit from the orchards every year, and the Muhajirs would recompense them by working with them and putting in labor. The mother of Anas bin Malik رضی اللہ عنہ was called Umm Sulaim  رضی اللہ عنہا and she was also the mother of 'Abdullah bin Talha who was a brother of Anas رضی اللہ عنہ from his mother's side. The mother of Anas رضی اللہ عنہ had given the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) her date-palms. He bestowed them upon Umm Aiman, the slave-girl who had been freed by him and was the mother of Usama bin Zaid  رضی اللہ عنہ . When the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) had finished the war with the people of Khaibar and returned to Medina, the Muhajirs returned to the Ansar all the gifts which they had given them out of the fruits. (Anas bin Malik رضی اللہ عنہ said: ) The Messenger of. Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) returned to my mother her date-palms and gave to Umm Aiman رضی اللہ عنہا instead of them date-palms from his orchard. Ibn Shihab says that Umm Aiman رضی اللہ عنہا was the mother of Usama bin Zaid رضی اللہ عنہ who was the slave-girl of 'Abdullah bin 'Abdul-Muttalib and hailed from Abyssinia. When Amina gave birth to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) after the death of his father, Umm Aiman  رضی اللہ عنہا used to nurse him until he grew up. He (later on) freed her and married her to Zaid bin Haritha رضی اللہ عنہ . She died five months after the death of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ).",
+                "hadithUrdu": "جب مہاجرین مکہ سے مدینہ آئے تو اس حالت میں آئے کہ ان کے پاس کچھ بھی نہ تھا ، جبکہ انصار زمین اور جائدادوں والے تھے ۔ تو انصار نے ان کے ساتھ اس طرح حصہ داری کی کہ وہ انہیں ہر سال اپنے اموال کی پیداوار کا آدھا حصہ دیں گے اور یہ ( مہاجرین ) انہیں محنت و مشقت سے بے نیاز کر دیں گے ۔ حضرت انس رضی اللہ عنہ کی والدہ ، جو ام سلیم کہلاتی تھیں اور عبداللہ بن ابی طلحہ جو حضرت انس رضی اللہ عنہ کے مادری بھائی تھے ، کی بھی والدہ تھیں ۔ حضرت انس رضی اللہ عنہ کی ( انہی ) والدہ نے رسول اللہ صلی اللہ علیہ وسلم کو کھجور کے اپنے کچھ درخت دیے تھے ، رسول اللہ صلی اللہ علیہ وسلم نے وہ اپنی آزاد کردہ کنیز ، اسامہ بن زید رضی اللہ عنہ کی والدہ ، ام ایمن رضی اللہ عنہا کو عنایت کر دیے تھے ۔ ابن شہاب نے کہا : مجھے حضرت انس بن مالک رضی اللہ عنہ نے بتایا کہ جب رسول اللہ صلی اللہ علیہ وسلم اہل خیبر کے خلاف جنگ سے فارغ ہوئے اور مدینہ واپس آئے تو مہاجرین نے انصار کو ان کے وہ عطیے واپس کر دیے جو انہوں نے انہیں اپنے پھلوں ( کھیتوں باغوں ) میں سے دیے تھے ۔ کہا : تو رسول اللہ صلی اللہ علیہ وسلم نے میری والدہ کو ان کے کھجور کے درخت واپس کر دیے اور ام ایمن رضی اللہ عنہا کو رسول اللہ صلی اللہ علیہ وسلم نے ان کی جگہ اپنے باغ میں سے ( ایک حصہ ) عطا فرما دیا ۔ ابن شہاب نے کہا : اسامہ بن زید رضی اللہ عنہ کی والدہ ام ایمن رضی اللہ عنہا کے حالات یہ ہیں کہ وہ ( رسول اللہ صلی اللہ علیہ وسلم کے والد گرامی ) عبداللہ بن عبدالمطلب کی کنیز تھیں ، اور وہ حبشہ سے تھیں ، اپنے والد کی وفات کے بعد جب حضرت آمنہ کے ہاں رسول اللہ صلی اللہ علیہ وسلم کی ولادت با سعادت ہوئی تو ام ایمن رضی اللہ عنہا آپ کو گود میں اٹھاتیں اور آپ کی پرورش میں شریک رہیں یہاں تک کہ رسول اللہ صلی اللہ علیہ وسلم بڑے ہو گئے تو آپ نے انہیں آزاد کر دیا ، پھر زید بن حارثہ رضی اللہ عنہ سے ان کا نکاح کرا دیا ، وہ رسول اللہ صلی اللہ علیہ وسلم کی وفات سے پانچ ماہ بعد فوت ہو گئیں.",
+                "urduNarrator": "مجھ سے ابو الطاہر اور حرملہ نے بیان کیا، کہا کہ ہم سے ابن وہب نے بیان کیا، مجھ سے یونس نے بیان کیا, ابن شہاب نے حضرت انس بن مالک رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "وحَدَّثَنِي أَبُو الطَّاهِرِ، وَحَرْمَلَةُ، قَالَا: أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ: لَمَّا قَدِمَ الْمُهَاجِرُونَ، مِنْ مَكَّةَ، الْمَدِينَةَ قَدِمُوا وَلَيْسَ بِأَيْدِيهِمْ شَيْءٌ، وَكَانَ الْأَنْصَارُ أَهْلَ الْأَرْضِ وَالْعَقَارِ، فَقَاسَمَهُمُ الْأَنْصَارُ عَلَى أَنْ أَعْطَوْهُمْ أَنْصَافَ ثِمَارِ أَمْوَالِهِمْ، كُلَّ عَامٍ، وَيَكْفُونَهُمُ الْعَمَلَ وَالْمَئُونَةَ، وَكَانَتْ أُمُّ أَنَسِ بْنِ مَالِكٍ وَهِيَ تُدْعَى أُمَّ سُلَيْمٍ، وَكَانَتْ أُمُّ عَبْدِ اللهِ بْنِ أَبِي طَلْحَةَ، كَانَ أَخًا لِأَنَسٍ لِأُمِّهِ، وَكَانَتْ أَعْطَتْ أُمُّ أَنَسٍ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عِذَاقًا لَهَا، فَأَعْطَاهَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أُمَّ أَيْمَنَ، مَوْلَاتَهُ، أُمَّ أُسَامَةَ بْنِ زَيْدٍ، قَالَ ابْنُ شِهَابٍ: فَأَخْبَرَنِي أَنَسُ بْنُ مَالِكٍ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ لَمَّا فَرَغَ مِنْ قِتَالِ أَهْلِ خَيْبَرَ، وَانْصَرَفَ إِلَى الْمَدِينَةِ، رَدَّ الْمُهَاجِرُونَ إِلَى الْأَنْصَارِ مَنَائِحَهُمُ الَّتِي كَانُوا مَنَحُوهُمْ مِنْ ثِمَارِهِمْ، قَالَ: فَرَدَّ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِلَى أُمِّي عِذَاقَهَا، وَأَعْطَى رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أُمَّ أَيْمَنَ مَكَانَهُنَّ مِنْ حَائِطِهِ، قَالَ ابْنُ شِهَابٍ: وَكَانَ مِنْ شَأْنِ أُمِّ أَيْمَنَ أُمِّ أُسَامَةَ بْنِ زَيْدٍ أَنَّهَا كَانَتْ وَصِيفَةً لِعَبْدِ اللهِ بْنِ عَبْدِ الْمُطَّلِبِ، وَكَانَتْ مِنَ الْحَبَشَةِ، فَلَمَّا وَلَدَتْ آمِنَةُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بَعْدَ مَا تُوُفِّيَ أَبُوهُ، فَكَانَتْ أُمُّ أَيْمَنَ تَحْضُنُهُ حَتَّى كَبِرَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَأَعْتَقَهَا، ثُمَّ أَنْكَحَهَا زَيْدَ بْنَ حَارِثَةَ، ثُمَّ تُوُفِّيَتْ بَعْدَ مَا تُوُفِّيَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِخَمْسَةِ أَشْهُرٍ.",
+                "headingArabic": "رَدِّ الْمُهَاجِرِينَ إِلَى الأَنْصَارِ مَنَائِحَهُمْ مِنَ الشَّجَرِ وَالثَّمَرِ حِينَ اسْتَغْنَوْا عَنْهَا بِالْفُتُوحِ",
+                "headingUrdu": "مہاجرین نے انصار کو درختوں اور پھلوں کے تحفے واپس کیے جب وہ فتوحات کے ذریعے اسباب سے آزاد ہو گئے۔",
+                "headingEnglish": "The Muhajirun returned to the Ansar the gifts of trees and fruits when they became independent of means through the conquests",
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12168,
+                "hadithNumber": "4604",
+                "englishNarrator": "It has been narrated by Anas رضی اللہ عنہ that (after his migration to Medina):",
+                "hadithEnglish": "A person placed at the Prophet's ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) disposal some date-palms growing on his land until the lands of Quraiza and Nadir were conquered. Then he began to return to him whatever he had received. (In this connection) my people told me to approach the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and ask from him what his people had given him or a portion thereof, but the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) had bestowed those trees upon Umm Aiman رضی اللہ عنہا. So I came to the Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) and he gave hem (back) to me. Umm Aiman رضی اللہ عنہا (also) came (at this time). She put the cloth round my neck and said: No, by Allah, we will not give to, you what he has granted to me. The Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: Umm Aiman رضی اللہ عنہا , let him have them and for you are such and such trees instead. But she said: By Allah, there is no god besides Him. No, never! The Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) continued saying: (You will get) such and such. until he had granted her ten times or nearly ten times more (than the original gift).",
+                "hadithUrdu": "کوئی آدمی ۔ ۔ جبکہ حامد اور عبدالاعلیٰ نے کہا : کوئی مخصوص آدمی ۔ ۔ اپنی زمین سے کھجوروں کے کچھ درخت ( فقرائے مہاجرین کی خبر گیری کے لیے ) نبی صلی اللہ علیہ وسلم کے لیے خاص کر دیتا تھا ، حتی کہ قریظہ اور بنونضیر آپ کے لیے فتح ہو گئے تو اس کے بعد جو کسی نے آپ کو دیا تھا ، وہ آپ صلی اللہ علیہ وسلم نے اسے واپس کرنا شروع کر دیا ۔ حضرت انس رضی اللہ عنہ نے کہا : میرے گھر والوں نے مجھ سے کہا کہ میں نبی صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوں اور آپ سے وہ سب یا اس کا کچھ حصہ مانگوں ، جو ان کے گھر والوں نے آپ صلی اللہ علیہ وسلم کو دیا تھا ، اور نبی صلی اللہ علیہ وسلم نے وہ ام ایمن رضی اللہ عنہا کو دے دیا تھا ۔ میں نبی صلی اللہ علیہ وسلم کے پاس آیا تو آپ نے وہ سب کا سب مجھے دے دیا ، اس پر ام ایمن رضی اللہ عنہا آئیں ، میرے گلے میں کپڑا ڈالا اور کہنے لگیں : اللہ کی قسم! ہم وہ ( درخت ) تمہیں نہیں دیں گے ، جبکہ آپ صلی اللہ علیہ وسلم وہ ہمیں دے چکے ہیں ۔ تو نبی صلی اللہ علیہ وسلم نے فرمایا : \"\" ام ایمان! اسے چھوڑ دو ، اتنا اتنا تمہارا ہوا وہ کہتی تہیں : ہرگز نہیں ، اس ذات کی قسم جس کے سوا کوئی حقیقی معبود نہیں! اور آپ اسی طرح فرماتے رہے حتی کہ آپ نے اسے دس گنا یا تقریبا دس گنا عطا فرما دیا.",
+                "urduNarrator": "ابوبکر بن ابی شیبہ ، حامد بن عمر بکراوی اور محمد بن عبدالاعلیٰ قیسی ، سب نے معتمر سے حدیث بیان کی ۔ ۔ الفاظ ابن ابی شیبہ کے ہیں ۔ ہمیں معتمر بن سلیمان تیمی نے اپنے والد کے واسطے سے حضرت انس رضی اللہ عنہ سے حدیث بیان کی کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَحَامِدُ بْنُ عُمَرَ الْبَكْرَاوِيُّ، وَمُحَمَّدُ بْنُ عَبْدِ الْأَعْلَى الْقَيْسِيُّ، كُلُّهُمْ عَنِ الْمُعْتَمِرِ، وَاللَّفْظُ لِابْنِ أَبِي شَيْبَةَ، حَدَّثَنَا مُعْتَمِرُ بْنُ سُلَيْمَانَ التَّيْمِيُّ، عَنْ أَبِيهِ، عَنْ أَنَسٍ، أَنَّ رَجُلًا، - وَقَالَ حَامِدٌ، وَابْنُ عَبْدِ الْأَعْلَى أَنَّ الرَّجُلَ - كَانَ يَجْعَلُ لِلنَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ النَّخَلَاتِ مِنْ أَرْضِهِ حَتَّى فُتِحَتْ عَلَيْهِ قُرَيْظَةُ وَالنَّضِيرُ، فَجَعَلَ بَعْدَ ذَلِكَ يَرُدُّ عَلَيْهِ مَا كَانَ أَعْطَاهُ، قَالَ أَنَسٌ: وَإِنَّ أَهْلِي أَمَرُونِي أَنْ آتِيَ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَأَسْأَلَهُ مَا كَانَ أَهْلُهُ أَعْطَوْهُ أَوْ بَعْضَهُ، وَكَانَ نَبِيُّ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَدْ أَعْطَاهُ أُمَّ أَيْمَنَ، فَأَتَيْتُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَأَعْطَانِيهِنَّ، فَجَاءَتْ أُمُّ أَيْمَنَ فَجَعَلَتِ الثَّوْبَ فِي عُنُقِي، وَقَالَتْ: وَاللهِ، لَا نُعْطِيكَاهُنَّ وَقَدْ أَعْطَانِيهِنَّ، فَقَالَ نَبِيُّ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «يَا أُمَّ أَيْمَنَ، اتْرُكِيهِ وَلَكِ كَذَا وَكَذَا»، وَتَقُولُ: كَلَّا وَالَّذِي لَا إِلَهَ إِلَّا هُوَ، فَجَعَلَ يَقُولُ: كَذَا حَتَّى أَعْطَاهَا عَشْرَةَ أَمْثَالِهِ أَوْ قَرِيبًا مِنْ عَشَرَةِ أَمْثَالِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12169,
+                "hadithNumber": "4605",
+                "englishNarrator": "It has been narrated on the authority of Abdullah bin Mughaffal:",
+                "hadithEnglish": "Who said I found a bag containing fat on the day of the Battle of Khaibar. I caught hold of it and said: I will not give anything today from it to anybody. Then I turned round and saw that the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) was smiling (at my words).",
+                "hadithUrdu": "خیبر کے دن مجھے چربی کا ( بھرا ہوا ) چمڑے کا ایک تھیلا ملا ۔ کہا : میں نے اسے اپنے ساتھ چمٹا لیا اور کہا : آج کے دن میں اس میں سے کسی کو کچھ نہیں دوں گا ۔ کہا : میں نے مڑ کر دیکھاتو رسول اللہ صلی اللہ علیہ وسلم مسکرا رہے تھے.",
+                "urduNarrator": "ہم سے شیبان بن فروخ نے بیان کیا, ہمیں سلیمان بن مغیرہ نے حدیث بیان کی ، کہا : ہمیں حمید بن ہلال نے عبداللہ بن مغفل سے حدیث بیان کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، حَدَّثَنَا سُلَيْمَانُ يَعْنِي ابْنَ الْمُغِيرَةِ، حَدَّثَنَا حُمَيْدُ بْنُ هِلَالٍ، عَنْ عَبْدِ اللهِ بْنِ مُغَفَّلٍ، قَالَ: أَصَبْتُ جِرَابًا مِنْ شَحْمٍ، يَوْمَ خَيْبَرَ، قَالَ: فَالْتَزَمْتُهُ، فَقُلْتُ: لَا أُعْطِي الْيَوْمَ أَحَدًا مِنْ هَذَا شَيْئًا، قَالَ: «فَالْتَفَتُّ، فَإِذَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مُتَبَسِّمًا.",
+                "headingArabic": "جواز الأكل من طعام الغنيمة في دار الحرب",
+                "headingUrdu": "دارالحرب میں مال غنیمت کے طور پر پکڑا گیا کھانا کھانے کی اجازت",
+                "headingEnglish": "Permissibility of eating food seized as booty in Dar Al-Harb",
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12170,
+                "hadithNumber": "4606",
+                "englishNarrator": "'Abdullah bin Mughaffal رضی اللہ عنہ said:",
+                "hadithEnglish": "A bag containing food and fat was thrown to us. I kept forward to catch it. Then I turned round and saw (to my surprise) the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and I felt ashamed of my act in his presence. \r\nShu'ba narrated it with this chain (a hadith similar to no. 4604), except that he said: A leader bag full of fats, and he did not mention food.",
+                "hadithUrdu": "خیبر کے دن ہماری طرف چمڑے کا ایک تھیلا پھینکا گیا جس میں کھانا اور چربی تھی ، میں اسے پکڑنے کے لیے جھپٹا ۔ کہا : میں نے مڑ کر دیکھا تو ( پیچھے ) رسول اللہ صلی اللہ علیہ وسلم موجود تھے ۔ تو مجھے آپ سے بہت حیا آئی ۔ ابوداود نے شعبہ سے اسی سند کے ساتھ حدیث بیان کی ، البتہ انہوں نے \"\" چربی کا ( بھرا ہوا ) تھیلا \"\" کہا ، کھانے کا ذکر نہیں کیا.",
+                "urduNarrator": "ہم سے محمد بن بشار العبدی نے بیان کیا, بہز بن اسد نے ہمیں حدیث بیان کی ، کہا : ہمیں شعبہ نے حدیث سنائی ، کہا : مجھے حمید بن ہلال نے حدیث بیان کی ، کہا : میں نے حضرت عبداللہ بن مغفل رضی اللہ عنہ کو یہ بتاتے ہوئے سنا",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ الْعَبْدِيُّ، حَدَّثَنَا بَهْزُ بْنُ أَسَدٍ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنِي حُمَيْدُ بْنُ هِلَالٍ، قَالَ: سَمِعْتُ عَبْدَ اللهِ بْنَ مُغَفَّلٍ، يَقُولُ: رُمِيَ إِلَيْنَا جِرَابٌ فِيهِ طَعَامٌ، وَشَحْمٌ يَوْمَ خَيْبَرَ، فَوَثَبْتُ لِآخُذَهُ، قَالَ: فَالْتَفَتُّ فَإِذَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَاسْتَحْيَيْتُ مِنْهُ‘وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا أَبُو دَاوُدَ، حَدَّثَنَا شُعْبَةُ، بِهَذَا الْإِسْنَادِ، غَيْرَ أَنَّهُ قَالَ: جِرَابٌ مِنْ شَحْمٍ، وَلَمْ يَذْكُرِ الطَّعَامَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12171,
+                "hadithNumber": "4607",
+                "englishNarrator": "It has been narrated on the authority of Ibn Abbas رضی اللہ عنہ who learnt the tradition personally from Abu Safyan رضی اللہ عنہ :",
+                "hadithEnglish": "The latter said: I went out (on a mercantile venture) during the period (of truce) between me and the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌). While I was in Syria, the letter of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) was handed over to Hiraql (Ceasar), the Emperor of Rome (who was on a visit to Jerusalem at that time). The letter was brought by Dihya Kalbi رضی اللہ عنہ who delivered it to the governor of Busra The governor passed it on to Hiraql, (On receiving the letter), he said: Is there anyone from the people of this man who thinks that he is a prophet. People said: Yes. So, I was called along with a few others from the Quraish. We were admitted to Hiraql and he seated us before him. He asked: Which of you has closer kinship with the man who thinks that he is a prophet? Abu Sufyan said: I. So they seated me in front of him and stated my companions behind me. Then, he called his interpreter and said to him: Tell them that I am going to ask this fellow (i. e. Abu Sufyan) about the man who thinks that he is a prophet. It he tells me a lie, then refute him. Abu Sufyan told (the narrator): By God, if there was not the fear that falsehood would be imputed to me I would have lied. (Then) Hiraqi said to his interpreter: Inquire from him about his ancestry, I said: He is of good ancestry among us. He asked: Has there been a king among his ancestors? I said: No. He asked: Did you accuse him of falsehood before he proclaimed his prophethood? I said: No. He asked: Who are his follower people of high status or low status? I said: (They are) of low status. He asked: Are they increasing in number or decreasing? I said. No. they are rather increasing. He asked: Does anyone give up his religion, being dissatisfied with it, after having embraced it? I said: No. He asked: Have you been at war with him? I said: Yes. He asked: How did you fare in that war? I said: The war between us and him has been wavering like a bucket, up at one turn and down at the other (i. e. the victory has been shared between us and him by turns). Sometimes he suffered loss at our hands and sometimes we suffered loss at his (hand). He asked: Has he (ever) violated his covenant? I said: No. but we have recently concluded a peace treaty with him for a petiod and we do not know what he is going to do about it. (Abu Sufyin said on oath that he could not interpolate in this dialogue anything from himself more than these words ) He asked: Did anyone make the proclamation (Of prophethood) before him? I said: No. He (now) said to his interpreter: Tell him, I asked him about his ancestry and he had replied that he had the best ancestry. This is the case with Prophets; they are the descendants of the noblest among their people (Addressing Abu Sufyan), he continued: I asked you if there had been a king among his ancestors. You said that there had been none. If there had been a king among his ancestors, I would have said that he was a man demanding his ancestral kingdom. I asked you about his followers whether they were people of high or low status, and you said that they were of rather low status. Such are the followers of the Prophets. I asked you whether you used to accuse him of falsehood before he proclaimed his prophethood, and you said that you did not. So I have understood that when he did not allow himself to tell a lie about the poeple, he would never go to the length of forging a falsehood about Allah. I asked you whether anyone renounced his religion being dissatisfied with it after he had embraced it, and you replied in the negative. Faith is like this when it enters the depth of the heart (it perpetuates them). I asked you whether his followers were increasing or decreasing. You said they were increasing. Faith is like this until it reaches its consummation. I asked you whether you had been at war with him, and you replied that you had been and that the victory between you and him had been shared by turns, sometimes he suffering loss at your hand and sometimes you suffering lost at his. This is how the Prophets are tried before the final victory its theirs. I asked you whether he (ever) violated his covenant, and you said that he did not. This is how the Prophets behave. They never violate (their covenants). I asked you whether anyone before him had proclaimed the same thing, and you replied in the negative. I said: If anyone had made the same proclamation before, I would have thought that he was a man following what had been proclaimed before. (Then) he asked: What does he enjoin upon you? I said: He exhorts us to offer Salat, to pay Zakat, to show due regard to kinship and to practise chastity. He said: It what you have told about him is true, he is certainly a Prophet. I knew that he was to appear but I did not think that he would be from among you. If I knew that I would be able to reach him. I would love to meet him; and it I had been with him. I would have washed his feet (out of reverence). His dominion would certainly extend to this place which is under my feet. Then he called for the letter of the Messenger of Allah (may pface be upon him) and read it. The letter ran as follows: In the name of Allah, Most Gracious and Most Merciful. From Muhammad, the Messenger of Allah, to Hiraql, the Emperor of the Romans. Peace be upon him who follows the guidance. After this, I extend to you the invitation to accept Islam. Embrace Islam and you will be safe. Accept Islam, God will give you double the reward. And if you turn away, upon you will be the sin of your subjects. O People of the Book, come to the word that is common between us that we should worship none other than Allah, should not ascribe any partner to Him and some of us should not take their fellows as Lords other than Allah. If they turn away, you should say that we testify to our being Muslims [iii. 64]. When he hid finished the reading of the letter, noise and confused clamour was raise around him, and he ordered us to leave. Accordingly, we left. (Addressing my companions) while we were coming out (of the place). I said: Ibn Abu Kabsha (referring sarcastically to the Holy Prophet) has come to wield a great power. Lo! (even) the king of the Romans is afraid of him. I continued to believe that the authority of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) would triumph until God imbued me with (the spirit of) Islam.",
+                "hadithUrdu": "( معاہدہ صلح کی ) اس مدت کے دوران میں جو میرے اور رسول اللہ صلی اللہ علیہ وسلم کے درمیان تھی ، میں سفر پر گیا ۔ کہا : اس اثنا میں ، جب میں شام میں تھا ، ہر قل ، یعنی شامِ روم کے پاس رسول اللہ صلی اللہ علیہ وسلم کی طرف سے ایک خط لایا گیا ۔ کہا : اسے دحیہ کلبی رضی اللہ عنہ لے کر آئے اور حاکم بُصریٰ کے حوالے کیا ، بصریٰ کے حاکم نے وہ ہرقل تک پہنچا دیا تو ہرقل نے کہا : کیا اس شخص کی قوم میں سے ، جو دعویٰ کرتا ہے کہ وہ نبی ہے ، کوئی شخص یہاں موجود ہے؟ انہوں نے کہا : ہاں ۔ کہا : تو قریش کے کچھ افراد سمیت مجھے بلایا گیا ، ہم ہرقل کے پاس آئے تو اس نے ہمیں اپنے سامنے بٹھایا اور پوچھا : تم میں سے نسب میں اس آدمی کے سب سے زیادہ قریب کون ہے جو دعویٰ کرتا ہے کہ وہ نبی ہے؟ ابوسفیان نے کہا : میں نے جواب دیا : میں ہوں ۔ تو ان لوگوں نے مجھے ان کے سامنے بٹھا دیا اور میرے ساتھیوں کو میرے پیچھے بٹھا دیا ، پھر اس نے اپنے ترجمان کو بلایا اور اس سے کہا : ان سے کہہ دو : میں اس آدمی سے اس شخص کے بارے میں پوچھنے لگا ہوں جو دعویٰ کرتا ہے کہ وہ نبی ہے ، اگر یہ میرے سامنے جھوٹ بولے تو تم لوگ اس کی تکذیب کر دینا ۔ کہا : ابوسفیان نے کہا : اللہ کی قسم! اگر یہ ڈر نہ ہوتا کہ میری طرف جھوٹ کی نسبت کی جائے گی تو میں جھوٹ بولتا ۔ پھر اس نے اپنے ترجمان سے کہا : اس سے پوچھو : تم میں اس کا حسب ( خاندان ) کیسا ہے؟ کہا : میں نے جواب دیا : وہ ہم میں حسب والا ہے ۔ اس نے پوچھا : کیا اس کے آباء و اجداد میں سے کوئی بادشاہ بھی تھا؟ میں نے جواب دیا : نہیں ۔ اس نے پوچھا : کیا اس نے ( نبوت کے حوالے سے ) کو کہا ، اس کے کہنے سے پہلے تم اس پر جھوٹ بولنے کا الزام لگاتے تھے؟ میں نے جواب دیا : نہیں ۔ اس نے پوچھا : اس کے پیروکار کون لوگ ہیں؟ بڑے لوگ ہیں یا کمزور لوگ ہیں؟ میں نے جواب دیا : بلکہ کمزور لوگ ہیں ۔ اس نے پوچھا : کیا وہ بڑھ رہے ہیں یا کم ہو رہے ہیں؟ کہا : میں نے جواب دیا : نہیں ، بلکہ وہ بڑھ رہے ہیں ۔ اس نے پوچھا : کیا ان میں سے کوئی اس کے دین میں داخل ہونے کے بعد اسے ناپسند کرتے ہوئے مرتد بھی ہوتا ہے؟ میں نے جواب دیا : نہیں ۔ اس نے پوچھا : کیا تم نے اس سے جنگ بھی کی ہے؟ میں نے جواب دیا : ہاں ۔ اس نے پوچھا : تو تمہاری اس سے جنگ کیسی رہی؟ میں نے جواب دیا : ہمارے اور اس کے درمیان جنگ کنویں کے ڈول کی طرح ہے ، وہ ہمیں نقصان پہنچاتا ہے اور ہم اسے نقصان پہنچاتے ہیں ۔ اس نے پوچھا : کیا وہ بدعہدی کرتا ہے؟ میں نے جواب دیا : نہیں ، ہم اس کی جانب سے ( کی گئی ) صلح کے زمانے میں ہیں ، ہمیں معلوم نہیں ، وہ اس میں کیا کرے گا ۔ کہا : اللہ کی قسم! اس ایک کلمے کے سوا اس میں کوئی اور بات ملانا میرے لیے ممکن نہ ہوا ۔ اس نے پوچھا : کیا اس سے پہلے کسی نے وہ بات کہی ہے؟ میں نے جواب دیا : نہیں ۔ اس نے اپنے ترجمان سے کہا : ان سے کہو : میں نے تم سے اس کے حسب کے بارے میں پوچھا تو تم نے کہا کہ وہ تم میں ( اونچے ) حسب والا ہے ۔ رسول اسی طرح ہوتے ہیں ، اپنی قوم کے اعلیٰ خاندانوں میں بھیجے جاتے ہیں ۔ اور میں نے پوچھا : کیا اس کے آباء و اجداد میں کوئی بادشاہ تھا؟ تو تم نے دعویٰ کیا : نہیں ، میں نے ( دل میں ) کہا : اگر اس کے آباء و اجداد میں کوئی بادشاہ ہوتا تو میں کہتا : وہ آدمی اپنے آباء کی بادشاہت حاصل کرنا چاہتا ہے اور میں نے تم سے اس کے پیروکاروں کے بارے میں پوچھا : وہ کمزور لوگ ہیں یا اشراف ہیں؟ تو تم نے کہا : بلکہ وہ کمزور لوگ ہیں ، رسولوں کے پیروکار وہی لوگ ہوتے ہیں ۔ اور میں نے تم سے پوچھا کہ جو وہ کہتا ہے اس سے پہلے تم اس پر جھوٹ کا الزام لگاتے تھے تو تم نے کہا : نہیں ، اس طرح میں جان گیا کہ یہ ممکن نہیں کہ وہ لوگوں پر تو جھوٹ نہ بولے مگر اللہ پر جھوٹ باندھنے لگے ۔ اور میں نے تم سے پوچھا : کیا اس کے دین میں داخل ہونے کے بعد کوئی اس سے ناراض ہو کر اس کے دین سے نکلا ہے؟ تو تم نے کہا : نہیں ، ایمان جب دلوں میں رچ بس جاتا ہے تو اسی طرح ہوتا ہے ۔ اور میں نے تم سے پوچھا : کیا وہ بڑھ رہے ہیں یا کم ہو رہے ہیں؟ تو تم نے کہا کہ وہ بڑھ رہے ہیں ، ایمان ایسا ہی ہوتا ہے یہاں تک کہ وہ مکمل ہو جاتا ہے ۔ اور میں نے تم سے پوچھا : کیا تم نے اس سے لڑائی کی؟ تو تم نے کہا کہ ( ہاں ) تم نے اس سے لڑائی کی ہے اور تمہارے اور اس کے درمیان جنگ ڈول کی طرح ہے ، وہ تم میں سے لوگوں کو قتل کرتا ہے اور تم اس کے لوگوں میں سے قتل کرتے ہو ، رسول اسی طرح ہوتے ہیں ، انہیں آزمایا جاتا ہے ، پھر انجام انہی کے حق میں ہوتا ہے ۔ اور میں نے تم سے پوچھا : کیا وہ عہد شکنی کرتا ہے؟ تو تم نے کہا کہ وہ عہد شکنی نہیں کرتا اور رسول اسی طرح ہوتے ہیں ، وہ بدعہدی نہیں کرتے ۔ اور میں نے تم سے پوچھا : کیا اس سے پہلے کسی نے یہ بات کہی ( کہ وہ اللہ کا رسول ہے؟ ) تو تم نے کہا : نہیں ، میں نے ( دل میں ) کہا : اگر کسی نے اس سے پہلے یہ بات کہی ہوتی تو میں کہتا : یہ آدمی وہی بات کہنا چاہتا ہے جو اس سے پہلے کہی جا چکی ہے ۔ کہا : پھر اس نے پوچھا : وہ تمہیں کس چیز کا حکم دیتا ہے؟ میں نے جواب دیا : وہ ہمیں نماز ، زکاۃ ، صلہ رحمی اور پاکبازی کا حکم دیتا ہے ۔ اس نے کہا : اگر تم جو اس کے بارے میں کہتے ہو ، سچ ہے ، تو بلاشبہ وہ نبی ہے اور میں جانتا تھا کہ اس کا ظہور ہونے والا ہے لیکن میں یہ نہیں سمجھتا تھا کہ وہ تم میں سے ہو گا ، اور اگر مجھے علم ہو جائے کہ میں ان تک پہنچ سکتا ہوں تو میں ان سے ملنے کو محبوب رکھوں ۔ اور اگر میں ان کے پاس ہوتا تو میں ان کے پاؤں دھوتا اور ان کی حکومت اس زمین تک پہنچ کر رہے گی جو میرے قدموں کے نیچے ہے ۔ کہا : پھر اس نے رسول اللہ صلی اللہ علیہ وسلم کا خط منگوایا اور اسے پڑھا تو اس میں ( لکھا ) تھا : اللہ کے نام سے جو بہت زیادہ رحم کرنے والا ، ہمیشہ مہربانی کرنے والا ہے ، اللہ کے رسول محمد صلی اللہ علیہ وسلم کی طرف سے شاہ ، روم ہرقل کے نام ، اس پر سلامتی ہو جس نے ہدایت کا اتباع کیا ، اس کے بعد ، میں تمہیں اسلام کے بلاوے کے ساتھ دعوت دیتا ہوں ، اسلام قبول کر لو ، سلامتی پا لو گے ، اسلام قبول کر لو ، اللہ تمہیں دو بار اجر دے گا اور اگر تم نے منہ موڑ لیا تو کسانوں ( عام لوگوں ) کا گناہ ( جو تمہارے پیچھے چلتے ہیں ) تم پر ہو گا ۔ اور \"\" اے اہل کتاب! اس بات کی طرف آؤ جو ہمارے اور تمہارے درمیان ایک جیسی ہے کہ ہم اللہ کے سوا کسی کی عبادت نہ کریں ، اس کے ساتھ کسی چیز کو شریک نہ کریں ، ہم میں سے کوئی کسی کو اللہ کے سوا رب نہ بنائے ، پھر اگر وہ منہ موڑ لیں تو کہہ دیں ، ( تم ) گواہ رہو کہ ہم فرماں بردار ( اسلام قبول کرنے والے ) ہیں ۔ \"\" جب وہ خط پڑھنے سے فارغ ہوا تو اس کے پاس آوازیں بلند ہونے لگیں اور شور بڑھ گیا ، اس نے ہمارے بارے میں حکم دیا تو ہمیں باہر بھیج دیا گیا ۔ کہا : جب ہم باہر نکلے تو میں نے اپنے ساتھیوں سے کہا : ابوکبشہ کے بیٹے کا معاملہ تو بہت بڑا ہو گیا ہے ، اس سے تو بنو اصفر ( اہل روم ) کا بادشاہ بھی خوف کھاتا ہے ۔ کہا : اس کے بعد رسول اللہ صلی اللہ علیہ وسلم کے معاملے میں مجھے ہمیشہ یقین رہا کہ وہ غالب آئیں گے ، یہاں تک کہ اللہ نے مجھ میں اوپر سے ( غالب کر کے ) اسلام داخل کر دیا.",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم الحنظَلی، ابن ابی عمر، محمد بن رافع اور عبد بن حمید نے بیان کیا اور ابن رافع نے کہا: رافع: اور ہم سے ابن ابی عمر نے بیان کیا، اور باقی دو نے کہا: ہم سے عبدالرزاق نے بیان کیا, معمر نے ہمیں زہری سے خبر دی ، انہوں نے عبیداللہ بن عبداللہ بن عتبہ سے اور انہوں نے حضرت ابن عباس رضی اللہ عنہ سے روایت کی کہ حضرت ابوسفیان رضی اللہ عنہ نے انہیں روبرو بتایا ، کہا",
+                "hadithArabic": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ، وَابْنُ أَبِي عُمَرَ، وَمُحَمَّدُ بْنُ رَافِعٍ، وَعَبْدُ بْنُ حُمَيْدٍ، وَاللَّفْظُ لِابْنِ رَافِعٍ، قَالَ ابْنُ رَافِعٍ: وَابْنُ أَبِي عُمَرَ، حَدَّثَنَا، وقَالَ الْآخَرَانِ: أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللهِ بْنِ عَبْدِ اللهِ بْنِ عُتْبَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ أَبَا سُفْيَانَ، أَخْبَرَهُ مِنْ فِيهِ إِلَى فِيهِ، قَالَ: انْطَلَقْتُ فِي الْمُدَّةِ الَّتِي كَانَتْ بَيْنِي وَبَيْنَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَ: فَبَيْنَا أَنَا بِالشَّامِ [ص:1394] إِذْ جِيءَ بِكِتَابٍ مِنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِلَى هِرَقْلَ يَعْنِي عَظِيمَ الرُّومِ، قَالَ: وَكَانَ دَحْيَةُ الْكَلْبِيُّ جَاءَ بِهِ، فَدَفَعَهُ إِلَى عَظِيمِ بُصْرَى، فَدَفَعَهُ عَظِيمُ بُصْرَى إِلَى هِرَقْلَ، فَقَالَ هِرَقْلُ: هَلْ هَاهُنَا أَحَدٌ مِنْ قَوْمِ هَذَا الرَّجُلِ الَّذِي يَزْعُمُ أَنَّهُ نَبِيٌّ؟ قَالُوا: نَعَمْ، قَالَ: فَدُعِيتُ فِي نَفَرٍ مِنْ قُرَيْشٍ، فَدَخَلْنَا عَلَى هِرَقْلَ، فَأَجْلَسَنَا بَيْنَ يَدَيْهِ، فَقَالَ: أَيُّكُمْ أَقْرَبُ نَسَبًا مِنْ هَذَا الرَّجُلِ الَّذِي يَزْعُمُ أَنَّهُ نَبِيٌّ؟ فَقَالَ أَبُو سُفْيَانَ: فَقُلْتُ: أَنَا، فَأَجْلَسُونِي بَيْنَ يَدَيْهِ، وَأَجْلَسُوا أَصْحَابِي خَلْفِي، ثُمَّ دَعَا بِتَرْجُمَانِهِ، فَقَالَ لَهُ: قُلْ لَهُمْ إِنِّي سَائِلٌ هَذَا عَنِ الرَّجُلِ الَّذِي يَزْعُمُ أَنَّهُ نَبِيٌّ، فَإِنْ كَذَبَنِي فَكَذِّبُوهُ، قَالَ: فَقَالَ أَبُو سُفْيَانَ: وَايْمُ اللهِ، لَوْلَا مَخَافَةُ أَنْ يُؤْثَرَ عَلَيَّ الْكَذِبُ لَكَذَبْتُ، ثُمَّ قَالَ لِتَرْجُمَانِهِ: سَلْهُ كَيْفَ حَسَبُهُ فِيكُمْ، قَالَ: قُلْتُ: هُوَ فِينَا ذُو حَسَبٍ، قَالَ: فَهَلْ كَانَ مِنْ آبَائِهِ مَلِكٌ؟ قُلْتُ: لَا، قَالَ: فَهَلْ كُنْتُمْ تَتَّهِمُونَهُ بِالْكَذِبِ قَبْلَ أَنْ يَقُولَ مَا قَالَ؟ قُلْتُ: لَا، قَالَ: وَمَنْ يَتَّبِعُهُ؟ أَشْرَافُ النَّاسِ أَمْ ضُعَفَاؤُهُمْ؟ قَالَ: قُلْتُ: بَلْ ضُعَفَاؤُهُمْ، قَالَ: أَيَزِيدُونَ أَمْ يَنْقُصُونَ؟ قَالَ: قُلْتُ: لَا، بَلْ يَزِيدُونَ، قَالَ: هَلْ يَرْتَدُّ أَحَدٌ مِنْهُمْ عَنْ دِينِهِ بَعْدَ أَنْ يَدْخُلَ فِيهِ سَخْطَةً لَهُ؟ قَالَ: قُلْتُ: لَا، قَالَ: فَهَلْ قَاتَلْتُمُوهُ؟ قُلْتُ: نَعَمْ، قَالَ: فَكَيْفَ كَانَ قِتَالُكُمْ إِيَّاهُ؟ قَالَ: قُلْتُ: تَكُونُ الْحَرْبُ بَيْنَنَا وَبَيْنَهُ سِجَالًا يُصِيبُ مِنَّا وَنُصِيبُ مِنْهُ، قَالَ: فَهَلْ يَغْدِرُ؟ قُلْتُ: لَا، وَنَحْنُ مِنْهُ فِي مُدَّةٍ لَا نَدْرِي مَا هُوَ صَانِعٌ فِيهَا [ص:1395]، قَالَ: فَوَاللهِ مَا أَمْكَنَنِي مِنْ كَلِمَةٍ أُدْخِلُ فِيهَا شَيْئًا غَيْرَ هَذِهِ، قَالَ: فَهَلْ قَالَ هَذَا الْقَوْلَ أَحَدٌ قَبْلَهُ؟ قَالَ: قُلْتُ: لَا، قَالَ لِتَرْجُمَانِهِ: قُلْ لَهُ إِنِّي سَأَلْتُكَ عَنْ حَسَبِهِ، فَزَعَمْتَ أَنَّهُ فِيكُمْ ذُو حَسَبٍ، وَكَذَلِكَ الرُّسُلُ تُبْعَثُ فِي أَحْسَابِ قَوْمِهَا، وَسَأَلْتُكَ: هَلْ كَانَ فِي آبَائِهِ مَلِكٌ، فَزَعَمْتَ أَنْ لَا، فَقُلْتُ: لَوْ كَانَ مِنْ آبَائِهِ مَلِكٌ قُلْتُ رَجُلٌ يَطْلُبُ مُلْكَ آبَائِهِ، وَسَأَلْتُكَ عَنْ أَتْبَاعِهِ أَضُعَفَاؤُهُمْ أَمْ أَشْرَافُهُمْ، فَقُلْتَ: بَلْ ضُعَفَاؤُهُمْ وَهُمْ أَتْبَاعُ الرُّسُلِ، وَسَأَلْتُكَ: هَلْ كُنْتُمْ تَتَّهِمُونَهُ بِالْكَذِبِ قَبْلَ أَنْ يَقُولَ مَا قَالَ؟ فَزَعَمْتَ أَنْ لَا، فَقَدْ عَرَفْتُ أَنَّهُ لَمْ يَكُنْ لِيَدَعَ الْكَذِبَ عَلَى النَّاسِ، ثُمَّ يَذْهَبَ فَيَكْذِبَ عَلَى اللهِ، وَسَأَلْتُكَ: هَلْ يَرْتَدُّ أَحَدٌ مِنْهُمْ عَنْ دِينِهِ بَعْدَ أَنْ يَدْخُلَهُ سَخْطَةً لَهُ؟ فَزَعَمْتَ أَنْ لَا، وَكَذَلِكَ الْإِيمَانُ إِذَا خَالَطَ بَشَاشَةَ الْقُلُوبِ، وَسَأَلْتُكَ: هَلْ يَزِيدُونَ أَوْ يَنْقُصُونَ؟ فَزَعَمْتَ أَنَّهُمْ يَزِيدُونَ، وَكَذَلِكَ الْإِيمَانُ حَتَّى يَتِمَّ، وَسَأَلْتُكَ: هَلْ قَاتَلْتُمُوهُ؟ فَزَعَمْتَ أَنَّكُمْ قَدْ قَاتَلْتُمُوهُ فَتَكُونُ الْحَرْبُ بَيْنَكُمْ وَبَيْنَهُ سِجَالًا يَنَالُ مِنْكُمْ وَتَنَالُونَ مِنْهُ، وَكَذَلِكَ الرُّسُلُ تُبْتَلَى ثُمَّ تَكُونُ لَهُمُ الْعَاقِبَةُ، وَسَأَلْتُكَ: هَلْ يَغْدِرُ؟ فَزَعَمْتَ أَنَّهُ لَا يَغْدِرُ، وَكَذَلِكَ الرُّسُلُ لَا تَغْدِرُ، وَسَأَلْتُكَ: هَلْ قَالَ هَذَا الْقَوْلَ أَحَدٌ قَبْلَهُ؟ فَزَعَمْتَ أَنْ لَا فَقُلْتُ: لَو قَالَ هَذَا الْقَوْلَ أَحَدٌ قَبْلَهُ قُلْتُ رَجُلٌ ائْتَمَّ بِقَوْلٍ قِيلَ قَبْلَهُ، قَالَ: ثُمَّ قَالَ: بِمَ يَأْمُرُكُمْ؟ قُلْتُ: يَأْمُرُنَا بِالصَّلَاةِ وَالزَّكَاةِ وَالصِّلَةِ وَالْعَفَافِ، قَالَ: إِنْ يَكُنْ مَا تَقُولُ فِيهِ حَقًّا فَإِنَّهُ نَبِيٌّ، وَقَدْ كُنْتُ أَعْلَمُ أَنَّهُ خَارِجٌ، وَلَمْ أَكُنْ أَظُنُّهُ مِنْكُمْ، وَلَوْ أَنِّي أَعْلَمُ أَنِّي أَخْلُصُ إِلَيْهِ لَأَحْبَبْتُ لِقَاءَهُ، وَلَوْ كُنْتُ عِنْدَهُ لَغَسَلْتُ عَنْ قَدَمَيْهِ، وَلَيَبْلُغَنَّ مُلْكُهُ مَا تَحْتَ قَدَمَيَّ [ص:1396]، قَالَ: ثُمَّ دَعَا بِكِتَابِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَرَأَهُ فَإِذَا فِيهِ «بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ، مِنْ مُحَمَّدٍ رَسُولِ اللهِ إِلَى هِرَقْلَ عَظِيمِ الرُّومِ، سَلَامٌ عَلَى مَنِ اتَّبَعَ الْهُدَى، أَمَّا بَعْدُ، فَإِنِّي أَدْعُوكَ بِدِعَايَةِ الْإِسْلَامِ أَسْلِمْ تَسْلَمْ، وَأَسْلِمْ يُؤْتِكَ اللهُ أَجْرَكَ مَرَّتَيْنِ، وَإِنْ تَوَلَّيْتَ فَإِنَّ عَلَيْكَ إِثْمَ الْأَرِيسِيِّينَ، وَ {يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَى كَلِمَةٍ سَوَاءٍ بَيْنَنَا وَبَيْنَكُمْ أَنْ لَا نَعْبُدَ إِلَّا اللهَ وَلَا نُشْرِكَ بِهِ شَيْئًا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابا مِنْ دُونِ اللهِ فَإِنْ تَوَلَّوْا فَقُولُوا اشْهَدُوا بِأَنَّا مُسْلِمُونَ}» فَلَمَّا فَرَغَ مِنْ قِرَاءَةِ الْكِتَابِ ارْتَفَعَتِ الْأَصْوَاتُ عِنْدَهُ وَكَثُرَ اللَّغْطُ، وَأَمَرَ بِنَا فَأُخْرِجْنَا، قَالَ، فَقُلْتُ لِأَصْحَابِي حِينَ خَرَجْنَا: لَقَدْ أَمِرَ أَمْرُ ابْنِ أَبِي كَبْشَةَ، إِنَّهُ لَيَخَافُهُ مَلِكُ بَنِي الْأَصْفَرِ، قَالَ: فَمَا زِلْتُ مُوقِنًا بِأَمْرِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ سَيَظْهَرُ، حَتَّى أَدْخَلَ اللهُ عَلَيَّ الْإِسْلَامَ.",
+                "headingArabic": "كِتَابِ النَّبِيِّ صلى الله عليه وسلم إِلَى هِرَقْلَ يَدْعُوهُ إِلَى الإِسْلاَمِ ‏‏",
+                "headingUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے شام کے حاکم ہرقل کو خط لکھ کر اسلام کی دعوت دی۔",
+                "headingEnglish": "The Prophet (ﷺ) wrote to Heraclius, the ruler of Syria, inviting him to Islam",
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12172,
+                "hadithNumber": "4608",
+                "englishNarrator": "This hadith has been narrated on the authority of Ibn Shihab with the same chain of transmitters but with the addition:",
+                "hadithEnglish": "When Allah inflicted defeat on the armies of Persia, Caesar moved from Hims to Aelia (Bait al-Maqdis) for thanking Allah as He granted him victory. In this hadith these words occur: From Muhammad, servant of Allah and His Messenger, and said: The sin of your followers, and also said the words: to the call of Islam .",
+                "hadithUrdu": "جب اللہ نے قیصر ( کے سر پر سے ) فارس کے لشکروں کو ہتا دیا تو وہ اس نعمت کا شکر ادا کرنے کے لیے ، جو اللہ نے اس پر کی تھی ، پیدل چل کر حمص سے ایلیاء گیا ، اور انہوں نے حدیث میں ( یوں ) کہا : \" اللہ کے بندے اور اس کے رسول محمد ( صلی اللہ علیہ وسلم ) کی طرف سے ۔ \" اور انہوں نے ( اریسین کے بجائے یاء کے ساتھ ) یریسین اور \" اسلام کی طرف بلانے والے کلمے کے ساتھ ( دعوت دیتا ہوں ) \" کے الفاظ کہے.",
+                "urduNarrator": "ہم سے حسن حلوانی اور عبد بن حمید نے بیان کیا، کہا: ہم سے یعقوب نے جو ابراہیم بن سعد کے بیٹے ہیں، بیان کیا، ہم سے میرے والد نے بیان کیا, صالح نے ابن شہاب سے اسی سند کے ساتھ روایت کی اور حدیث میں یہ اضافہ کیا",
+                "hadithArabic": "وَحَدَّثَنَاهُ حَسَنٌ الْحُلْوَانِيُّ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالَا: حَدَّثَنَا يَعْقُوبُ وَهُوَ ابْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ، حَدَّثَنَا أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، بِهَذَا الْإِسْنَادِ وَزَادَ فِي الْحَدِيثِ، وَكَانَ قَيْصَرُ لَمَّا كَشَفَ اللهُ عَنْهُ جُنُودَ فَارِسَ مَشَى مِنْ حِمْصَ إِلَى إِيلِيَاءَ شُكْرًا لِمَا أَبْلَاهُ اللهُ، وَقَالَ فِي الْحَدِيثِ: «مِنْ مُحَمَّدٍ عَبْدِ اللهِ وَرَسُولِهِ»، وَقَالَ: «إِثْمَ الْيَرِيسِيِّينَ»، وَقَالَ: «بِدَاعِيَةِ الْإِسْلَامِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12173,
+                "hadithNumber": "4609",
+                "englishNarrator": "It has been narrated on the authority of Anas رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) wrote to Chosroes (King of Persia), Caesar (Emperor of Rome), Negus (King of Abyssinia) and every (other) despot inviting them to Allah, the Exalted. And this Negus was not the one for whom the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) had said the funeral prayers.",
+                "hadithUrdu": "اللہ کے نبی صلی اللہ علیہ وسلم نے کسریٰ ، قیصر ، نجاشی اور ہر متکبر بادشاہ کو اللہ تعالیٰ کی طرف بلاتے ہوئے خطوط لکھ بھیجے ، اور اس سے وہ نجاشی مراد نہیں جس کی نبی صلی اللہ علیہ وسلم نے نماز جنازہ پڑھائی ۔ ( اس کے بعد والے نجاشی کی طرف خط لکھا)",
+                "urduNarrator": "مجھ سے یوسف بن حماد المعنی نے کہا, عبدالاعلیٰ نے ہمیں سعید ( بن ابی عروبہ ) سے حدیث بیان کی ، انہوں نے قتادہ سے اور انہوں نے حضرت انس رضی اللہ عنہ سے روایت کی کہ",
+                "hadithArabic": "حَدَّثَنِي يُوسُفُ بْنُ حَمَّادٍ الْمَعْنِيُّ، حَدَّثَنَا عَبْدُ الْأَعْلَى، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ: «أَنَّ نَبِيَّ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ كَتَبَ إِلَى كِسْرَى، وَإِلَى قَيْصَرَ، وَإِلَى النَّجَاشِيِّ، وَإِلَى كُلِّ جَبَّارٍ يَدْعُوهُمْ إِلَى اللهِ تَعَالَى»، وَلَيْسَ بِالنَّجَاشِيِّ الَّذِي صَلَّى عَلَيْهِ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ.",
+                "headingArabic": "كُتُبِ النَّبِيِّ صلى الله عليه وسلم إِلَى مُلُوكِ الْكُفَّارِ يَدْعُوهُمْ إِلَى اللَّهِ عَزَّ وَجَلَّ",
+                "headingUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے کفار کے بادشاہوں کو خط لکھ کر انہیں اسلام کی دعوت دی۔",
+                "headingEnglish": "The Prophet (saws) wrote to the Kings of the Kuffar, inviting them to Islam",
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12174,
+                "hadithNumber": "4610",
+                "englishNarrator": "The tradition has been narrated on the authority of Anas bin Malik رضی اللہ عنہ (the same narrator) through a different chain of transmitters, but this version does not mention:",
+                "hadithEnglish": "And he was not the Negus for whom the Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) had said the funeral prayers.",
+                "hadithUrdu": "اور یہ نجاشی وہ نہیں تھا جس کی نبی صلی اللہ علیہ وسلم نے نماز جنازہ پڑھائی تھی.",
+                "urduNarrator": "اور ہم سے محمد بن عبداللہ الرازی نے بیان کیا, عبدالوہاب بن عطاء نے سعید سے ، انہوں نے قتادہ سے روایت کی ، کہا : ہمیں حضرت انس بن مالک رضی اللہ عنہ نے نبی صلی اللہ علیہ وسلم سے اسی کے مانند حدیث بیان کی ، اور انہوں نے یہ نہیں کہا",
+                "hadithArabic": "وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ عَبْدِ اللهِ الرُّزِّيُّ، حَدَّثَنَا عَبْدُ الْوَهَّابِ بْنُ عَطَاءٍ، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، حَدَّثَنَا أَنَسُ بْنُ مَالِكٍ، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِهِ، وَلَمْ يَقُلْ وَلَيْسَ بِالنَّجَاشِيِّ الَّذِي صَلَّى عَلَيْهِ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12175,
+                "hadithNumber": "4611",
+                "englishNarrator": "It was narrated from Qatadah, from Anas رضی اللہ عنہ (a similar report as no. 4609), but he did not say:",
+                "hadithEnglish": "That was not the Negus for whom the prophet ﷺ offered the funeral prayer ( similar report as no. 4609).",
+                "hadithUrdu": "یہ نجاشی وہ نہیں تھا جس کی نبی صلی اللہ علیہ وسلم نے نماز جنازہ پڑھائی تھی.",
+                "urduNarrator": "مجھ سے نصر بن علی الجہضمی نے بیان کیا، میرے والد نے مجھ سے کہا, خالد بن قیس نے قتادہ سے ، انہوں نے حضرت انس رضی اللہ عنہ سے روایت کی اور انہوں نے بھی یہ ذکر نہیں کیا",
+                "hadithArabic": "وحَدَّثَنِيهِ نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ، أَخْبَرَنِي أَبِي، حَدَّثَنِي خَالِدُ بْنُ قَيْسٍ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، وَلَمْ يَذْكُرْ وَلَيْسَ بِالنَّجَاشِيِّ الَّذِي صَلَّى عَلَيْهِ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12176,
+                "hadithNumber": "4612",
+                "englishNarrator": "It has been narrated on the authority of 'Abbas رضی اللہ عنہ who said:",
+                "hadithEnglish": "I was in the company of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) on the Day of Hunain. I and Abu Sufyan bin Harith bin 'Abdul-Muttalib رضی اللہ عنہ stuck to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and we did not separate from him. And the Messenger of Allah (may place be upon him) was riding on his white mule which had been presented to him by Farwa bin Nufitha al-Judhami. When the Muslims had an encounter with the disbelievers, the Muslims fled, falling back, but the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) began to spur his mule towards the disbelievers. I was holding the bridle of the mule of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) checking it from going very fast, and Abu Sufyan رضی اللہ عنہ was holding the stirrup of the (mule of the) Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌), who said: Abbas رضی اللہ عنہ , call out to the people of al-Samura. Abbas رضی اللہ عنہ (who was a man with a loud voice) called out at the top of the voice: Where are the people of Samura? (Abbas رضی اللہ عنہ said: ) And by God, when they heard my voice, they came back (to us) as cows come back to their calves, and said: We are present, we are present! 'Abbas رضی اللہ عنہ said: They began to fight the infidels. Then there was a call to The Ansar. Those (who called out to them) shouted: O ye party of the Ansar! O party of the Ansar! Banu al-Harith b. al-Khazraj were the last to be called. Those (who called out to them) shouted: O Banu Al-Harith bin al-Khazraj! O Banu Harith bin al-Khazraj! And the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) who was riding on his mule looked at their fight with his neck stretched forward and he said: This is the time when the fight is raging hot. Then the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) took (some) pebbles and threw them in the face of the infidels. Then he said: By the Lord of Muhammad, the infidels are defeated. 'Abbas رضی اللہ عنہ said: I went round and saw that the battle was in the same condition in which I had seen it. By Allah, it remained in the same condition until he threw the pebbles. I continued to watch until I found that their force had been spent out and they began to retreat.",
+                "hadithUrdu": "حنین کے دن میں رسول اللہ صلی اللہ علیہ وسلم کے ساتھ موجود تھا ، میں اور ابوسفیان بن حارث بن عبدالمطلب رضی اللہ عنہ رسول اللہ صلی اللہ علیہ وسلم کے ساتھ رہے ، آپ سے جدا نہ ہوئے ، رسول اللہ صلی اللہ علیہ وسلم اپنے سفید خچر پر ( سوار ) تھے جو فرقہ بن نُفاثہ جذامی نے آپ کو تحفے میں دیا تھا ۔ جب مسلمانوں اور کفار کا آمنا سامنا ہوا تو مسلمان پیٹھ پھیر کر بھاگے ، ( مگر ) رسول اللہ صلی اللہ علیہ وسلم اپنے خچر کو ایڑ لگا کر ، کفار کی جانب بڑھنے لگے ۔ حضرت عباس رضی اللہ عنہ نے کہا : میں رسول اللہ صلی اللہ علیہ وسلم کے خچر کی لگام تھامے ہوئے تھا ، میں چاہتا تھا کہ وہ تیزی سے ( آگے ) نہ بڑھے اور ابوسفیان رضی اللہ عنہ نے رسول اللہ صلی اللہ علیہ وسلم کی رکاب کو پکڑا ہوا تھا ۔ تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" عباس! کیکر کے درخت ( کے نیچے بیعت کرنے ) والوں کو آواز دو ۔ \" حضرت عباس رضی اللہ عنہ نے کہا : ۔ ۔ اور وہ بلند آواز والے تھے ۔ ۔ میں نے اپنی بلند ترین آواز سے پکار کر کہا : کیکر کے درخت والے کہاں ہیں؟ کہا : اللہ کی قسم! میری آواز سن کر ان کا پلٹنا اس طرح تھا جیسے گائے اپنے بچوں کی ( آواز سن کر ان کی ) طرف پلٹتی ہے ۔ اور وہ ( جواب میں ) کہنے لگے : حاضر ہیں! حاضر ہیں! کہا : تو وہ کفار سے بھڑ گئے ، پھر انصار میں بلاوا دیا گیا ( بلاوا دینے والے ) کہتے تھے : اے انصار کی جماعت! اے انصار کی جماعت! پھر اس ندا کو بنی حارث بن خزرج تک محدود کر دیا گیا اور انہوں نے کہا : اے بنو حارث بن خزرج! اے بنو حارث بن خزرج! رسول اللہ صلی اللہ علیہ وسلم نے اپنے خچر پر بیٹھے ہوئے ، گردن کو آگے کر کے دیکھنے والے کی طرح ، ان کی لڑائی کا جائزہ لیا ، اس وقت رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" یہ گھڑی ہے کہ ( لڑائی کا ) تنور گرم ہوا ہے ۔ \" پھر رسول اللہ صلی اللہ علیہ وسلم نے کنکریاں پکڑیں اور انہیں کافروں کے چہروں پر مارا ، پھر فرمایا : \" محمد کے پروردگار کی قسم! وہ شکست کھا گئے ۔ \" کہا : میں دیکھنے لگا تو میرے خیال کے مطابق لڑائی اسی طرح جاری تھی ۔ کہا : اللہ کی قسم! پھر یہی ہوا کہ جونہی آپ نے ان کی طرف کنکریاں پھینکیں تو میں دیکھ رہا تھا کہ ان کی دھار کند ہو گئی ہے اور ان کا معاملہ پیچھے جانے کا ہے.",
+                "urduNarrator": "مجھ سے ابو الطاہر احمد بن عمرو بن سرح نے بیان کیا، کہا ہم سے ابن وہب نے بیان کیا, یونس نے مجھے ابن شہاب سے خبر دی ، انہوں نے کہا : مجھے کثیر بن عباس بن عبدالمطلب رضی اللہ عنہ نے حدیث بیان کی ، انہوں نے کہا : حضرت عباس رضی اللہ عنہ نے کہا",
+                "hadithArabic": "وحَدَّثَنِي أَبُو الطَّاهِرِ أَحْمَدُ بْنُ عَمْرِو بْنِ سَرْحٍ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ: حَدَّثَنِي كَثِيرُ بْنُ عَبَّاسِ بْنِ عَبْدِ الْمُطَّلِبِ، قَالَ: قَالَ عَبَّاسٌ: شَهِدْتُ مَعَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَوْمَ حُنَيْنٍ، فَلَزِمْتُ أَنَا وَأَبُو سُفْيَانَ بْنُ الْحَارِثِ بْنِ عَبْدِ الْمُطَّلِبِ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَلَمْ نُفَارِقْهُ، وَرَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَلَى بَغْلَةٍ لَهُ بَيْضَاءَ أَهْدَاهَا لَهُ فَرْوَةُ بْنُ نُفَاثَةَ الْجُذَامِيُّ، فَلَمَّا الْتَقَى الْمُسْلِمُونَ وَالْكُفَّارُ وَلَّى الْمُسْلِمُونَ مُدْبِرِينَ، فَطَفِقَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَرْكُضُ بَغْلَتَهُ قِبَلَ الْكُفَّارِ، قَالَ عَبَّاسٌ: وَأَنَا آخِذٌ بِلِجَامِ بَغْلَةِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَكُفُّهَا إِرَادَةَ أَنْ لَا تُسْرِعَ، وَأَبُو سُفْيَانَ آخِذٌ بِرِكَابِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «أَيْ عَبَّاسُ، نَادِ أَصْحَابَ السَّمُرَةِ»، فَقَالَ عَبَّاسٌ: وَكَانَ رَجُلًا صَيِّتًا، فَقُلْتُ بِأَعْلَى صَوْتِي: أَيْنَ أَصْحَابُ السَّمُرَةِ؟ قَالَ: فَوَاللهِ، لَكَأَنَّ عَطْفَتَهُمْ حِينَ سَمِعُوا صَوْتِي عَطْفَةُ الْبَقَرِ عَلَى أَوْلَادِهَا، فَقَالُوا: يَا لَبَّيْكَ، يَا لَبَّيْكَ، قَالَ: فَاقْتَتَلُوا وَالْكُفَّارَ، وَالدَّعْوَةُ فِي الْأَنْصَارِ يَقُولُونَ: يَا مَعْشَرَ الْأَنْصَارِ، يَا مَعْشَرَ الْأَنْصَارِ، قَالَ: ثُمَّ قُصِرَتِ الدَّعْوَةُ عَلَى بَنِي الْحَارِثِ بْنِ الْخَزْرَجِ، فَقَالُوا: يَا بَنِي الْحَارِثِ بْنِ الْخَزْرَجِ، يَا بَنِي الْحَارِثِ بْنِ الْخَزْرَجِ، فَنَظَرَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَهُوَ عَلَى بَغْلَتِهِ كَالْمُتَطَاوِلِ عَلَيْهَا إِلَى قِتَالِهِمْ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ «هَذَا حِينَ حَمِيَ الْوَطِيسُ» قَالَ: ثُمَّ أَخَذَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ حَصَيَاتٍ فَرَمَى بِهِنَّ وُجُوهَ الْكُفَّارِ، ثُمَّ قَالَ: «انْهَزَمُوا وَرَبِّ مُحَمَّدٍ» قَالَ: فَذَهَبْتُ أَنْظُرُ فَإِذَا الْقِتَالُ عَلَى هَيْئَتِهِ فِيمَا أَرَى، قَالَ: فَوَاللهِ، مَا هُوَ إِلَّا أَنْ رَمَاهُمْ بِحَصَيَاتِهِ فَمَا زِلْتُ أَرَى حَدَّهُمْ كَلِيلًا، وَأَمْرَهُمْ مُدْبِرًا.",
+                "headingArabic": "فِي غَزْوَةِ حُنَيْنٍ ‏‏",
+                "headingUrdu": "حنین کی جنگ",
+                "headingEnglish": "The Battle of Hunain",
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12177,
+                "hadithNumber": "4613",
+                "englishNarrator": "A similar report (as no.4612) was narrated from Az-Zuhri with this chain except that he said:",
+                "hadithEnglish": "They have been defeated, by Lord of the Ka'ba, they have been defeated,  by Lord of the Ka'ba. And there is at the end the addition of the words: Until Allah defeated them (and I imagine) as if I saw the Prophet of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) chasing them on his mule.",
+                "hadithUrdu": "\"\" رب کعبہ کی قسم! وہ شکست کھا گئے ۔ رب کعبہ کی قسم! وہ شکست کھا گئے ۔ \"\" اور انہوں نے حدیث میں یہ اضافہ کیا : یہاں تک کہ اللہ نے انہیں شکست دے دی ۔ کہا : ایسے لگتا ہے کہ میں ( اب بھی ) نبی صلی اللہ علیہ وسلم کو دیکھ رہا ہوں کہ آپ ان کے پیچھے اپنے خچر کو ایڑ لگا رہے ہیں.",
+                "urduNarrator": "ہم سے اسحاق بن ابراہیم، محمد بن رافع اور عبد بن حمید نے بیان کیا، یہ سب عبدالرزاق کی سند سے ہیں, معمر نے ہمیں زہری سے اسی سند کے ساتھ اسی طرح خبر دی ، البتہ انہوں نے فروہ بن ( نفاثہ کی جگہ ) نعامہ جذامی ( صحیح نفاثہ ہی ہے ) کہا اور کہا",
+                "hadithArabic": "وَحَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَمُحَمَّدُ بْنُ رَافِعٍ، وَعَبْدُ بْنُ حُمَيْدٍ، جَمِيعًا عَنْ عَبْدِ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، بِهَذَا الْإِسْنَادِ نَحْوَهُ، غَيْرَ أَنَّهُ قَالَ: فَرْوَةُ بْنُ نُعَامَةَ الْجُذَامِيُّ، وَقَالَ: «انْهَزَمُوا وَرَبِّ الْكَعْبَةِ، انْهَزَمُوا وَرَبِّ الْكَعْبَةِ»، وَزَادَ فِي الْحَدِيثِ حَتَّى هَزَمَهُمُ اللهُ، قَالَ: وَكَأَنِّي أَنْظُرُ إِلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَرْكُضُ خَلْفَهُمْ عَلَى بَغْلَتِهِ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12178,
+                "hadithNumber": "4614",
+                "englishNarrator": "Abbas رضی اللہ عنہ reported:",
+                "hadithEnglish": "I was with Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) on the Day of Hunain. The rest of the hadith is the same but with this variation that the hadith transmitted by Yonus and Ma'mar is more detailed and complete.",
+                "hadithUrdu": "حنین کے دن میں نبی صلی اللہ علیہ وسلم کے ساتھ موجود تھا ۔ ۔ ۔ اور ( آگے باقی ماندہ ) حدیث بیان کی ، البتہ یونس اور معمر کی حدیث ان ( سفیان ) کی حدیث سے زیادہ لمبی اور زیادہ مکمل ہے.",
+                "urduNarrator": "ہم سے ابن ابی عمر نے بیان کیا, سفیان بن عیینہ نے ہمیں زہری سے حدیث بیان کی ، انہوں نے کہا : مجھے کثیر بن عباس رضی اللہ عنہ نے اپنے والد سے خبر دی ، انہوں نے کہا",
+                "hadithArabic": "وَحَدَّثَنَاهُ ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، قَالَ: أَخْبَرَنِي كَثِيرُ بْنُ الْعَبَّاسِ، عَنْ أَبِيهِ، قَالَ: كُنْتُ مَعَ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَوْمَ حُنَيْنٍ وَسَاقَ الْحَدِيثَ، غَيْرَ أَنَّ حَدِيثَ يُونُسَ، وَحَدِيثَ مَعْمَرٍ أَكْثَرُ مِنْهُ وَأَتَمُّ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12179,
+                "hadithNumber": "4615",
+                "englishNarrator": "It has been narrated on the authority of Abu Ishaq who said:",
+                "hadithEnglish": "A man asked Bara' (bin 'Azib) رضی اللہ عنہ : Did you run away on the Day of Hunain. O, Abu Umira? He said: No, by Allah, The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) did not turn his back; (what actually happened was that) some young men from among his companions, who were hasty and who were either without any arms or did not have abundant arms, advanced and met a party of archers (who were so good shots) that their arrows never missed the mark. This party (of archers) belonged to Banu Hawazin and Banu Nadir. They shot at the advancing young men and their arrows were not likely to miss their targets. So these young men turned to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) while he was riding on his white mule and Abu Sufyan bin al-Harith bin 'Abdul-Muttalib رضی اللہ عنہ was leading him. (At this) he got down from his mule, invoked God's help, and called out: I am the Prophet. This is no untruth. I am the son of 'Abdul-Muttalib. Then he deployed his men into battle array.",
+                "hadithUrdu": "ایک آدمی نے حضرت براء رضی اللہ عنہ سے کہا  ابوعمارہ! کیا آپ لوگ حنین کے دن بھاگے تھے؟ انہوں نے کہا : نہیں ، اللہ کی قسم! رسول اللہ صلی اللہ علیہ وسلم نے رخ تک نہیں پھیرا ، البتہ آپ کے ساتھیوں میں سے چند نوجوان اور جلد باز ( جنگ کے لیے ) نہتے نکلے تھے جن ( کے جسم ) پر اسلحہ یا بڑا اسلحہ نہیں تھا ، تو ان کی مڈبھیڑ ایسی تیر انداز قوم سے ہوئی جن کا کوئی تیر ( زمین ) پر نہ گرتا تھا ، ( نشانے پر لگتا تھا ) وہ بنو ہوازن اور بنو نضر کے جتھے تھے ، انہوں نے ان ( نوجوانوں ) کو اس طرح سے تیروں سے چھیدنا شروع کیا کہ کوئی نشانہ خطا نہ جاتا تھا ، پھر وہ لوگ وہاں سے رسول اللہ صلی اللہ علیہ وسلم کی جانب بڑھے ، آپ اپنے سفید خچر پر تھے اور ابوسفیان بن حارث بن عبدالمطلب رضی اللہ عنہ اسے چلا رہے تھے ، آپ نیچے اترے ( اللہ سے ) مدد مانگی اور فرمایا : \"\" میں نبی ہوں ، یہ جھوٹ نہیں میں عبدالمطلب کا بیٹا ہوں \"\" پھر آپ نے ( نئے سرے سے ) ان کی صف بندی کی ( اور پانسہ پلٹ گیا).",
+                "urduNarrator": "ہم سے یحییٰ بن یحییٰ نے بیان کیا, ابوخیثمہ نے ہمیں ابواسحاق سے خبر دی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا أَبُو خَيْثَمَةَ، عَنْ أَبِي إِسْحَاقَ، قَالَ: قَالَ رَجُلٌ لِلْبَرَاءِ: يَا أَبَا عُمَارَةَ، أَفَرَرْتُمْ يَوْمَ حُنَيْنٍ؟ قَالَ: لَا وَاللهِ، مَا وَلَّى رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَلَكِنَّهُ خَرَجَ شُبَّانُ أَصْحَابِهِ، وَأَخِفَّاؤُهُمْ حُسَّرًا، لَيْسَ عَلَيْهِمْ سِلَاحٌ - أَوْ كَثِيرُ سِلَاحٍ -، فَلَقُوا قَوْمًا رُمَاةً لَا يَكَادُ يَسْقُطُ لَهُمْ سَهْمٌ، جَمْعَ هَوَازِنَ وَبَنِي نَصْرٍ، فَرَشَقُوهُمْ رَشْقًا مَا يَكَادُونَ يُخْطِئُونَ، فَأَقْبَلُوا هُنَاكَ إِلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَرَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَلَى بَغْلَتِهِ الْبَيْضَاءِ، وَأَبُو سُفْيَانَ بْنُ الْحَارِثِ بْنِ عَبْدِ الْمُطَّلِبِ يَقُودُ بِهِ، فَنَزَلَ فَاسْتَنْصَرَ، وَقَالَ: «أَنَا النَّبِيُّ لَا كَذِبْ، أَنَا ابْنُ عَبْدِ الْمُطَّلِبْ»، ثُمَّ صَفَّهُمْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12180,
+                "hadithNumber": "4616",
+                "englishNarrator": "It has been narrated (through a different chain of transmitters) by Abu Ishaq:",
+                "hadithEnglish": "A person said to Bara' (bin 'Azib) رضی اللہ عنہ : Abu Umara, did you flee on the Day of Hunain? He replied: The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) did not retreat. (What actually happened was that some hasty young men who were either inadequately armed or were unarmed met a group of men from Banu Hawazin and Banu Nadir who happened to be (excellent) archers. The latter shot at them a volley of arrows that did not miss. The people turned to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ). Abu Sufyan bin Harith رضی اللہ عنہ was leading his mule. So he got down, prayed and invoked God's help. He said: I am the Prophet. This is no untruth. I am the son of Abd al-Muttalib. O God, descend Thy help. Bara' رضی اللہ عنہ continued: When the battle grew fierce. we, by God. would seek protection by his side, and the bravest among us was he who confronted the onslaught and it was the Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ).",
+                "hadithUrdu": "ایک آدمی حضرت براء رضی اللہ عنہ کے پاس آیا اور پوچھا : ابوعمارہ! کیا آپ لوگ حنین کے دن پیٹھ پھیر گئے تھے؟ تو انہوں نے کہا : میں اللہ کے نبی صلی اللہ علیہ وسلم کے بارے میں گواہی دیتا ہوں کہ آپ نے رخ تک نہیں پھیرا ، کچھ جلد باز لوگ اور نہتے ہوازن کے اس قبیلے کی طرف بڑھے ، وہ تیر انداز لوگ تھے ، انہوں نے ان ( نوجوانوں ) پر اس طرح یکبارگی اکٹھے تیر پھینکے جیسے وہ تڈی دل ہوں ۔ اس پر وہ بکھر گئے ، اور وہ ( ہوازن کے ) لوگ نبی صلی اللہ علیہ وسلم کی طرف بڑھے ، ابوسفیان ( بن حارث ) رضی اللہ عنہ آپ کے خچر کو پکڑ کر چلا رہے تھے ، تو آپ نیچے اترے ، دعا کی اور ( اللہ سے ) مدد مانگی ، آپ فرما رہے تھے : \"\" میں نبی ہوں ، یہ جھوٹ نہیں ، میں عبدالمطلب کا بیٹا ہوں ۔ اے اللہ! اپنی مدد نازل فرما ۔ \"\" حضرت براء رضی اللہ عنہ نے کہا : اللہ کی قسم! جب لڑائی شدت اختیار کر جاتی تو ہم آپ کی اوٹ لیتے تھے اور ہم میں سے بہادر وہ ہوتا جو آپ کے ، یعنی نبی صلی اللہ علیہ وسلم کے ساتھ قدم ملا کر کھڑا ہوتا.",
+                "urduNarrator": "ہم سے احمد بن جنب المصیصی نے بیان کیا، کہا ہم سے عیسیٰ بن یونس نے بیان کیا, زکریا نے ابواسحاق سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ جَنَابٍ الْمِصِّيصِيُّ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، عَنْ زَكَرِيَّا، عَنْ أَبِي إِسْحَاقَ، قَالَ: جَاءَ رَجُلٌ إِلَى الْبَرَاءِ، فَقَالَ: أَكُنْتُمْ وَلَّيْتُمْ يَوْمَ حُنَيْنٍ يَا أَبَا عُمَارَةَ؟ فَقَالَ: أَشْهَدُ عَلَى نَبِيِّ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مَا وَلَّى، وَلَكِنَّهُ انْطَلَقَ أَخِفَّاءُ مِنَ النَّاسِ، وَحُسَّرٌ إِلَى هَذَا الْحَيِّ مِنْ هَوَازِنَ، وَهُمْ قَوْمٌ رُمَاةٌ، فَرَمَوْهُمْ بِرِشْقٍ مِنْ نَبْلٍ كَأَنَّهَا رِجْلٌ مِنْ جَرَادٍ، فَانْكَشَفُوا، فَأَقْبَلَ الْقَوْمُ إِلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَأَبُو سُفْيَانَ بْنُ الْحَارِثِ يَقُودُ بِهِ بَغْلَتَهُ، فَنَزَلَ وَدَعَا وَاسْتَنْصَرَ، وَهُوَ يَقُولُ: «أَنَا النَّبِيُّ لَا كَذِبْ، أَنَا ابْنُ عَبْدِ الْمُطَّلِبْ، اللهُمَّ نَزِّلْ نَصْرَكَ»، قَالَ الْبَرَاءُ: «كُنَّا وَاللهِ إِذَا احْمَرَّ الْبَأْسُ نَتَّقِي بِهِ، وَإِنَّ الشُّجَاعَ مِنَّا لَلَّذِي يُحَاذِي بِهِ، يَعْنِي النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12181,
+                "hadithNumber": "4617",
+                "englishNarrator": "It was narrator that Abu Ishaq said:",
+                "hadithEnglish": "I heard from Bara' رضی اللہ عنہ who was asked by a man from the Qais tribe: Did you run away from the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) on the Day of Hunain? Bara' رضی اللہ عنہ said: But the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) did not run away. On that day Banu Hawzzin took part in the battle as archers (on the side of the disbelievers). When we attacked them, they retreated and we fell upon the booty; (they rallied) and advanced towards us with arrows. (At that time) I saw the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) riding on his white mule and Abu Sufyan bin al-Harith رضی اللہ عنہ was holding its bridle. He (the Messenger of Allah was saying: I am the Prophet. This is no untruth. I am a descendant of 'Abdul-Muttalib.",
+                "hadithUrdu": "میں نے ( اس وقت ) حضرت براء رضی اللہ عنہ سے سنا جب ( قبیلہ ) قیس کے ایک آدمی نے ان سے پوچھا : کیا آپ لوگ حنین کے دن رسول اللہ صلی اللہ علیہ وسلم کو چھوڑ کر بھاگے تھے؟ تو حضرت براء رضی اللہ عنہ نے کہا : لیکن رسول اللہ صلی اللہ علیہ وسلم نہیں بھاگے تھے ، اس زمانے میں ہوازن کے لوگ ( ماہر ) تیر انداز تھے ، جب ہم نے ان پر حملہ کیا تو وہ بکھر گئے ، پھر ہم غنیمتوں کی طرف متوجہ ہو گئے تو وہ تیروں کے ساتھ ہمارے سامنے آ گئے ۔ میں نے رسول اللہ صلی اللہ علیہ وسلم کو اپنے سفید خچر پر دیکھا ، ابوسفیان بن حارث رضی اللہ عنہ اس کی باگ تھامے ہوئے تھے اور آپ فرما رہے تھے : \"\" میں نبی ہوں ، یہ جھوٹ نہیں میں عبدالمطلب کا بیٹا ہوں.",
+                "urduNarrator": "ہم سے محمد بن مثنیٰ اور ابن بشار نے بیان کیا، اور یہ قول ابن المثنیٰ کا ہے، انہوں نے کہا: ہم سے محمد بن جعفر نے بیان کیا، شعبہ نے ہمیں ابواسحاق سے حدیث بیان کی ، انہوں نے کہا",
+                "hadithArabic": "وحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ بَشَّارٍ، وَاللَّفْظُ لِابْنِ الْمُثَنَّى، قَالَا: حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، قَالَ: سَمِعْتُ الْبَرَاءَ، وَسَأَلَهُ رَجُلٌ مِنْ قَيْسٍ، أَفَرَرْتُمْ عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَوْمَ حُنَيْنٍ؟ فَقَالَ الْبَرَاءُ: وَلَكِنْ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ لَمْ يَفِرَّ، وَكَانَتْ هَوَازِنُ يَوْمَئِذٍ رُمَاةً، وَإِنَّا لَمَّا حَمَلْنَا عَلَيْهِمِ انْكَشَفُوا، فَأَكْبَبْنَا عَلَى الْغَنَائِمِ، فَاسْتَقْبَلُونَا بِالسِّهَامِ، وَلَقَدْ رَأَيْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَلَى بَغْلَتِهِ الْبَيْضَاءِ، وَإِنَّ أَبَا سُفْيَانَ بْنَ الْحَارِثِ آخِذٌ بِلِجَامِهَا، وَهُوَ يَقُولُ: «أَنَا النَّبِيُّ لَا كَذِبْ، أَنَا ابْنُ عَبْدِ الْمُطَّلِبْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12182,
+                "hadithNumber": "4618",
+                "englishNarrator": "Abu Ishaq narrated:",
+                "hadithEnglish": "A man said to Al-Bara' رضی اللہ عنہ : O Abu Umarah... and he narrated the same hadith \r\n(as no. 4616), but it was less complete than their Hadith.",
+                "hadithUrdu": "ایک آدمی نے ان سے پوچھا : ابوعمارہ! ۔ ۔ اور ( آگے ) حدیث بیان کی ، ان کی حدیث ان سب ( ابوخیثمہ ، زکریا اور شعبہ ) کی حدیث سے ( تفصیلات میں ) کم ہے اور ان سب کی حدیث زیادہ مکمل ہے.",
+                "urduNarrator": "مجھ سے زہیر بن حرب، محمد بن المثنیٰ اور ابوبکر بن خلاد نے بیان کیا، انہوں نے کہا: ہم سے یحییٰ بن سعید نے بیان کیا, سفیان سے روایت ہے ، انہوں نے کہا : مجھے ابواسحاق نے حضرت براء رضی اللہ عنہ سے حدیث بیان کی ، کہا",
+                "hadithArabic": "وحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، وَأَبُو بَكْرِ بْنُ خَلَّادٍ، قَالُوا: حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ سُفْيَانَ، قَالَ: حَدَّثَنِي أَبُو إِسْحَاقَ، عَنِ الْبَرَاءِ، قَالَ: قَالَ لَهُ رَجُلٌ: يَا أَبَا عُمَارَةَ فَذَكَرَ الْحَدِيثَ، وَهُوَ أَقَلُّ مِنْ حَدِيثِهِمْ، وَهَؤُلَاءِ أَتَمُّ حَدِيثًا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12183,
+                "hadithNumber": "4619",
+                "englishNarrator": "Iyas bin Salama, who was the one of Al-Akwa', said:",
+                "hadithEnglish": "We fought by the side of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) at Hunain. When we encountered the enemy, I advanced and ascended a hillock. A man from the enemy side turned towards me and I shot him with an arrow. He (ducked and) hid himself from me. I could not understand what he did, but (all of a sudden) I saw that a group of people appeared from the other hillock. They and the Companions of the Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) met in combat, but the Companions of the Prophet turned back and I too turned back defeated. I had two mantles, one of which I was wrapping round the waist (covering the lower part of my body) and the other I was putting around my shoulders. My waist-wrapper got loose and I held the two mantles together. (In this downcast condition) I passed by the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) who was riding on his white mule. He said: The son of Akwa' finds himself to be utterly perplexed. Wher. the Companions gathered round him from all sides. the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) got down from his mule. picked up a handful of dust from the ground, threw it into their (enemy) faces and said: May these faces be deformed 1 There was no one among the enemy whose eyes were not filled with the dust from this handful. So they turned back fleeing. and Allah the Exalted and Glorious defeated them, and the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) distributed their booty among the Muslims.",
+                "hadithUrdu": "ہم نے رسول اللہ صلی اللہ علیہ وسلم کے ہمراہ حنین کی جنگ لڑی ، جب ہمارا دشمن سے سامنا ہوا تو میں آگے بڑھا پھر میں ایک گھاٹی پر چڑھ جاتا ہوں ، میرے سامنے دشمن کا آدمی آیا تو میں اس پر تیر پھینکتا ہوں ، وہ مجھ سے چھپ گیا ، اس کے بعد مجھے معلوم نہیں اس نے کیا کیا ۔ میں نے ( اُن ) لوگوں کا جائزہ لیا تو دیکھا وہ ایک دوسری گھاٹی کی طرف ظاہر ہوئے ، ان کا اور نبی صلی اللہ علیہ وسلم کے ساتھیوں کا ٹکراؤ ہوا تو نبی صلی اللہ علیہ وسلم کے ساتھی پیچھے ہٹ گئے اور میں بھی شکست خودرہ لوٹتا ہوں ۔ مجھ ( میرے جسم ) پر دو چادریں تھیں ، ان میں سے ایک کا میں نے تہبند باندھا ہوا تھا اور دوسری کو اوڑھ رکھا تھا تو میرا تہبند کھل گیا ، میں نے ان دونوں کو اکٹھا کیا اور شکست خوردگی کی حالت میں رسول اللہ صلی اللہ علیہ وسلم کے پاس سے گزرا ، آپ اپنے سفید خچر پر تھے ۔ ( مجھے دیکھ کر ) رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" اکوع کا بیٹا گھبرا کو لوٹ آیا ہے ۔ \" جب وہ ہر طرف سے رسول اللہ صلی اللہ علیہ وسلم پر حملہ آور ہوئے تو آپ خچر سے نیچے اترے ، زمین سے مٹی کی ایک مٹھی لی ، پھر اسے سامنے کی طرف سے ان کے شہروں پر پھینکا اور فرمایا : \" چہرے بگڑ گئے ۔ \" اللہ نے ان میں سے کسی انسان کو پیدا نہیں کیا تھا مگر اس ایک مٹھی سے اس کی آنکھیں بھر دیں ، سو وہ پیٹھ پھیر کر بھاگ نکلے ، اللہ نے اسی ( ایک مٹھی خاک ) سے انہیں شکست دی اور ( بعد ازاں ) رسول اللہ صلی اللہ علیہ وسلم نے ان کے اموالِ غنیمت مسلمانوں میں تقسیم کیے.",
+                "urduNarrator": "ہم سے زہیر بن حرب نے بیان کیا، ہم سے عمر بن یونس الحنفی نے بیان کیا، ہم سے عکرمہ بن عمار نے بیان کیا، مجھ سے ایاس بن سلمہ نے بیان کیا، مجھ سے میرے والد نے بیان کیا، انہوں نے کہا",
+                "hadithArabic": "وحَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عُمَرُ بْنُ يُونُسَ الْحَنَفِيُّ، حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ، حَدَّثَنِي إِيَاسُ بْنُ سَلَمَةَ، حَدَّثَنِي أَبِي، قَالَ: غَزَوْنَا مَعَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ حُنَيْنًا، فَلَمَّا وَاجَهْنَا الْعَدُوَّ تَقَدَّمْتُ فَأَعْلُو ثَنِيَّةً، فَاسْتَقْبَلَنِي رَجُلٌ مِنَ الْعَدُوِّ، فَأَرْمِيهِ بِسَهْمٍ فَتَوَارَى عَنِّي، فَمَا دَرَيْتُ مَا صَنَعَ، وَنَظَرْتُ إِلَى الْقَوْمِ فَإِذَا هُمْ قَدْ طَلَعُوا مِنْ ثَنِيَّةٍ أُخْرَى، فَالْتَقَوْا هُمْ وَصَحَابَةُ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَوَلَّى صَحَابَةُ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَأَرْجِعُ مُنْهَزِمًا، وَعَلَيَّ بُرْدَتَانِ مُتَّزِرًا بِإِحْدَاهُمَا مُرْتَدِيًا بِالْأُخْرَى، فَاسْتَطْلَقَ إِزَارِي فَجَمَعْتُهُمَا جَمِيعًا، وَمَرَرْتُ عَلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مُنْهَزِمًا وَهُوَ عَلَى بَغْلَتِهِ الشَّهْبَاءِ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لَقَدْ رَأَى ابْنُ الْأَكْوَعِ فَزَعًا»، فَلَمَّا غَشُوا رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَزَلَ عَنِ الْبَغْلَةِ، ثُمَّ قَبَضَ قَبْضَةً مِنْ تُرَابٍ مِنَ الْأَرْضِ، ثُمَّ اسْتَقْبَلَ بِهِ وُجُوهَهُمْ، فَقَالَ: «شَاهَتِ الْوُجُوهُ»، فَمَا خَلَقَ اللهُ مِنْهُمْ إِنْسَانًا إِلَّا مَلَأَ عَيْنَيْهِ تُرَابًا بِتِلْكَ الْقَبْضَةِ، فَوَلَّوْا مُدْبِرِينَ، فَهَزَمَهُمُ اللهُ عَزَّ وَجَلَّ، وَقَسَمَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ غَنَائِمَهُمْ بَيْنَ الْمُسْلِمِينَ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12184,
+                "hadithNumber": "4620",
+                "englishNarrator": "It has been narrated on the authority of Ibn 'Amr رضی اللہ عنہ who said:",
+                "hadithEnglish": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) besieged the people of Ta'if, but did get victory over them. He said: God willing, we shall return. His Companions said: Shall we depart without having conquered it? The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: (All right) make a raid in the morning. They did so. and were wounded (with the arrows showered upon them). So the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: We shall depart tomorrow. (The narrator says): (Now) this (announcement) pleased them, and the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) laughed at (their waywardness).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے اہل طائف کا محاصرہ کیا اور ان میں سے کسی کی جان نہ لے سکے تو آپ نےفرمایا : \" ان شاءاللہ ہم کل لوٹ جائیں گے ۔ \" آپ کے صحابہ نے کہا : ہم لوٹ جائیں جبکہ ہم نے اسے فتح نہیں کیا؟ تو رسول اللہ صلی اللہ علیہ وسلم نے ان سے فرمایا : \" صبح جنگ کے لیے نکلو ۔ \" وہ صبح  نکلے تو انہیں زخم لگے ۔ تو رسول اللہ صلی اللہ علیہ وسلم نے ان سے فرمایا : \" ہم کل واپس لوٹ جائیں گے ۔ \" کہا : تو انہیں یہ بات اچھی لگی ، اس پر رسول اللہ صلی اللہ علیہ وسلم ہنس پڑے.",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ، زہیر بن حرب اور ابن نمیر نے سفیان کی سند سے بیان کیا، کہا: ہم سے سفیان بن عیینہ نے بیان کیا۔ عمرو کی سند پر، نابینا شاعر ابو عباس کی سند پر، حضرت عبداللہ بن عمرو رضی اللہ عنہ سے روایت ہے ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَزُهَيْرُ بْنُ حَرْبٍ، وَابْنُ نُمَيْرٍ، جَمِيعًا عَنْ سُفْيَانَ، قَالَ زُهَيْرٌ: حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَمْرٍو، عَنْ أَبِي الْعَبَّاسِ الشَّاعِرِ الْأَعْمَى، عَنْ عَبْدِ اللهِ بْنِ عَمْرٍو، قَالَ: حَاصَرَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَهْلَ الطَّائِفِ، فَلَمْ يَنَلْ مِنْهُمْ شَيْئًا، فَقَالَ: «إِنَّا قَافِلُونَ إِنْ شَاءَ اللهُ»، قَالَ أَصْحَابُهُ: نَرْجِعُ وَلَمْ نَفْتَتِحْهُ فَقَالَ لَهُمْ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «اغْدُوا عَلَى الْقِتَالِ»، فَغَدَوْا عَلَيْهِ، فَأَصَابَهُمْ جِرَاحٌ، فَقَالَ لَهُمْ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إِنَّا قَافِلُونَ غَدًا»، قَالَ: فَأَعْجَبَهُمْ ذَلِكَ، فَضَحِكَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ.",
+                "headingArabic": "غَزْوَةِ الطَّائِفِ ‏‏",
+                "headingUrdu": "طائف کی جنگ",
+                "headingEnglish": "The Battle of At-Ta'if",
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12185,
+                "hadithNumber": "4621",
+                "englishNarrator": "It has been narrated on the authority of Anas رضی اللہ عنہ :",
+                "hadithEnglish": "When (the news of) the advance of Abu Sufyan رضی اللہ عنہ (at the head of a force) reached him. the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) held consultations with his Companions. The narrator said: Abu Bakr رضی اللہ عنہ spoke (expressing his own views), but he (the Holy Prophet) did not pay heed to him. Then spoke 'Umar رضی اللہ عنہ (expressing his views), but he (the Holy Prophet) did not pay heed to him (too). Then Sa'd bin 'Ubada رضی اللہ عنہ stood up and said: Messenger of Allah, you want us (to speak). By God in Whose control is my life, if you order us to plunge our horses into the sea, we would do so. If you order us to goad our horses to the most distant place like Bark al-Ghimad, we would do so. The narrator said: Now the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) called upon the people (for the encounter). So they set out and encamped at Badr. (Soon) the water-carriers of the Quraish arrived. Among them was a black slave belonging to Banu al-Hajjaj. The Companions of the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) caught him and interrogated him about Abu Sufyan and his companions. He said: I know nothing about Abu Sufyan, but Abu Jahl, Utba, Shaiba and Umayya b. Khalaf are there. When he said this, they beat him. Then he said: All right, I will tell you about Abu Sufyan. They would stop beating him and then ask him (again) about Abu Sufyan. He would again say', I know nothing about Abu Sufyan, but Abu Jahl. 'Utba, Shaiba and Umayya b. Khalaf are there. When he said this, they beat him likewise. The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) was standing in prayer. When he saw this he finished his prayer and said: By Allah in Whose control is my life, you beat him when he is telling you the truth, and you let him go when he tells you a lie. The narrator said: Then the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: This is the place where so and so would be killed. He placed his hand on the earth (saying) here and here; (and) none of them fell away from the place which the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) had indicated by placing his hand on the earth.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کو جب ابوسفیان رضی اللہ عنہ کی آمد کی خبر ملی تو آپ نے مشورہ کیا ، کہا : حضرت ابوبکر رضی اللہ عنہ نے گفتگو کی تو آپ نے ان سے اعراض فرمایا ، پھر حضرت عمر رضی اللہ عنہ نے گفتگو کی تو آپ نے ان سے اعراض فرمایا ، پھر حضرت عمر رضی اللہ عنہ نے گفتگو کی تو آپ نے ان سے بھی اعراض فرمایا ۔ اس پر حضرت سعد بن عبادہ رضی اللہ عنہ کھڑے ہوئے اور کہنے لگے : اے اللہ کے رسول! کیا آپ ہم سے ( مشورہ کرنا ) چاہتے ہیں؟ اس ذات کی قسم جس کے ہاتھ میں میری جان ہے! اگر آپ ہمیں ( اپنے گھوڑے ) سمندر میں ڈال دینے کا حکم دیں تو ہم انہیں ڈال دیں گے اور اگر آپ ہم کو انہیں ( معمورہ اراضی کے آخری کونے ) برک غماد تک دوڑانے کا حکم دیں تو ہم یہی کریں گے ۔ کہا : تو رسول اللہ صلی اللہ علیہ وسلم نے لوگوں کو بلایا ، اور وہ چل پڑے حتی کہ بدر میں پڑاؤ ڈالا ۔ ان کے پاس قریش کے پانی لانے والے اونٹ آئے ، ان میں بنو حجاج کا ایک سیاہ فام غلام بھی تھا تو انہوں نے اسے پکڑ لیا ، رسول اللہ صلی اللہ علیہ وسلم کے ساتھی اس سے ابوسفیان اور اس کے ساتھیوں کے بارے میں پوچھ گچھ کرنے لگے تو وہ کہنے لگا : مجھے ابوسفیان کا تو پتہ نہیں ہے ، البتہ ابوجہل ، عتبہ ، شیبہ ، اور امیہ بن خلف یہاں ( قریب موجود ) ہیں ۔ جب اس نے یہ کہا ، وہ اسے مارنے لگے ۔ تو اس نے کہا : ہاں ، تمہیں بتاتا ہوں ، ابوسفیان ادھر ہے ۔ جب انہوں نے اسے چھوڑا اور ( دوبارہ ) پوچھا ، تو اس نے کہا : ابوسفیان کا تو مجھے علم نہیں ہے ، البتہ ابوجہل ، عتبہ ، شیبہ ، اور امیہ بن خلف یہاں لوگوں میں موجود ہیں ۔ جب اس نے یہ ( پہلے والی ) بات کی تو وہ اسے مارنے لگے ۔ رسول اللہ صلی اللہ علیہ وسلم کھڑے نماز پڑھ رہے تھے ، آپ نے جب یہ صورت حال دیکھی تو آپ ( سلام پھیر کر ) پلٹے اور فرمایا : \"\" اس ذات کی قسم جس کے ہاتھ میں میری جان ہے! جب وہ سچ کہتا ہے تو تم اسے مارتے ہو اور جب وہ تم سے جھوٹ بولتا ہے تو اسے چھوڑ دیتے ہو ۔ \"\" کہا : اور رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \"\" یہ فلاں کے مرنے کی جگہ ہے ۔ \"\" آپ زمین پر اپنا ہاتھ رکھتے تھے ( اور فرماتے تھے ) یہاں اور یہاں ۔ کہا : ان میں سے کوئی بھی رسول اللہ صلی اللہ علیہ وسلم کے ہاتھ کی جگہ سے ( ذرہ برابر بھی ) اِدھر اُدھر نہیں ہوا.",
+                "urduNarrator": "ہم سے ابوبکر بن ابی شیبہ نے بیان کیا، کہا ہم سے عفان نے بیان کیا، کہا ہم سے حماد بن سلمہ نے بیان کیا، ثابت کی سند سے , حضرت انس رضی اللہ عنہ سے روایت ہے کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَفَّانُ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ شَاوَرَ حِينَ بَلَغَهُ إِقْبَالُ أَبِي سُفْيَانَ، قَالَ: فَتَكَلَّمَ أَبُو بَكْرٍ، فَأَعْرَضَ [ص:1404] عَنْهُ، ثُمَّ تَكَلَّمَ عُمَرُ، فَأَعْرَضَ عَنْهُ، فَقَامَ سَعْدُ بْنُ عُبَادَةَ، فَقَالَ: إِيَّانَا تُرِيدُ يَا رَسُولَ اللهِ؟ وَالَّذِي نَفْسِي بِيَدِهِ، لَوْ أَمَرْتَنَا أَنْ نُخِيضَهَا الْبَحْرَ لَأَخَضْنَاهَا، وَلَوْ أَمَرْتَنَا أَنْ نَضْرِبَ أَكْبَادَهَا إِلَى بَرْكِ الْغِمَادِ لَفَعَلْنَا، قَالَ: فَنَدَبَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ النَّاسَ، فَانْطَلَقُوا حَتَّى نَزَلُوا بَدْرًا، وَوَرَدَتْ عَلَيْهِمْ رَوَايَا قُرَيْشٍ، وَفِيهِمْ غُلَامٌ أَسْوَدُ لِبَنِي الْحَجَّاجِ، فَأَخَذُوهُ، فَكَانَ أَصْحَابُ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَسْأَلُونَهُ عَنْ أَبِي سُفْيَانَ، وَأَصْحَابِهِ، فَيَقُولُ: مَا لِي عِلْمٌ بِأَبِي سُفْيَانَ، وَلَكِنْ هَذَا أَبُو جَهْلٍ، وَعُتْبَةُ، وَشَيْبَةُ، وَأُمَيَّةُ بْنُ خَلَفٍ، فَإِذَا قَالَ ذَلِكَ ضَرَبُوهُ، فَقَالَ: نَعَمْ، أَنَا أُخْبِرُكُمْ، هَذَا أَبُو سُفْيَانَ، فَإِذَا تَرَكُوهُ فَسَأَلُوهُ، فَقَالَ مَا لِي بِأَبِي سُفْيَانَ عِلْمٌ، وَلَكِنْ هَذَا أَبُو جَهْلٍ، وَعُتْبَةُ، وَشَيْبَةُ، وَأُمَيَّةُ بْنُ خَلَفٍ، فِي النَّاسِ، فَإِذَا قَالَ هَذَا أَيْضًا ضَرَبُوهُ، وَرَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَائِمٌ يُصَلِّي، فَلَمَّا رَأَى ذَلِكَ انْصَرَفَ، قَالَ: «وَالَّذِي نَفْسِي بِيَدِهِ، لَتَضْرِبُوهُ إِذَا صَدَقَكُمْ، وَتَتْرُكُوهُ إِذَا كَذَبَكُمْ»، قَالَ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «هَذَا مَصْرَعُ فُلَانٍ»، قَالَ: وَيَضَعُ يَدَهُ عَلَى الْأَرْضِ «هَاهُنَا، هَاهُنَا»، قَالَ: فَمَا مَاطَ أَحَدُهُمْ عَنْ مَوْضِعِ يَدِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ.",
+                "headingArabic": "غَزْوَةِ بَدْرٍ ‏‏",
+                "headingUrdu": "بدر کی جنگ",
+                "headingEnglish": "The Battle of Badr",
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12186,
+                "hadithNumber": "4622",
+                "englishNarrator": "It has been narrated by 'Abdullah bin Rabah from Abu Huraira رضی اللہ عنہ , who said:",
+                "hadithEnglish": "Many deputations came to Mu'awiya رضی اللہ عنہ . This was in the month of Ramadan. We would prepare food for one another. Abu Huraira رضی اللہ عنہ was one of those who frequently invited us to his house. I said: Should I not prepare food and invite them to my place? So I ordered meals to be prepared Then I met Abu Huraira رضی اللہ عنہ in the evening and said: (You will have) your meals with me tonight. He said: You have forestalled me. I said: Yes, and invited them. (When they had finished with the meals) Abu Huraira رضی اللہ عنہ said: Should I not tell yon a tradition from your traditions, O ye assembly of the Ansar? He then gave an account of the Conquest of Mecca and said: The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) advanced until he reached Mecca. He deputed Zubair on his right flank and Khalid رضی اللہ عنہ on the left, and he dispatched Abu Ubaida رضی اللہ عنہ with the force that had no armour. They advanced to the interior of the valley. The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) was in the midst of a large contingent of fighters. He saw me and said: Abu Huraira رضی اللہ عنہ . I said: I am here at your call, Messenger of Allah I He said: Let no one come to me except the Ansar, so call to me the Ansar (only). Abu Huraira رضی اللہ عنہ continued: So they gathered round him. The Quraish also gathered their ruffians and their (lowly) followers, and said: We send these forward. If they get anything, we shall be with them (to share it), and if misfortune befalls them, we shall pay (as compensation) whatever we are asked for. The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said (to the Ansar): You see the ruffians and the (lowly) followers of the Quraish. And he indicated by (striking) one of his hands over the other that they should be killed and said: Meet me at as-Safa. Then we went on (and) if any one of us wanted that a certain person should be killed, he was killed, and none could offer any resistance. Abu Huraira رضی اللہ عنہ continued: Then came Abu Sufyan رضی اللہ عنہ and said: Messenger of Allah, the blood of the Quraish has become very cheap. There will be no Quraish from this day on. Then he (the Holy Prophet) said: Who enters the house of Abu Sufyan رضی اللہ عنہ , he will be safe. Some of the Ansar whispered among themselves: (After all), love for his city and tenderness towards his relations have overpowered him. Abu Huraira رضی اللہ عنہ said: (At this moment) revelation came to the Prophet ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) and when he was going to receive the Revelation, we understood it, and when he was (actually) receiving it, none of us would dare raise his eyes to the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) until the revelation came to an end. When the revelation came to an end, the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) said: O ye Assembly of the Ansar! They said: Here we are at your disposal, Messenger of Allah. He said: You were saying that love for his city and tenderness towards his people have overpowered this man. They said: So it was. He said: No, never. I am a bondman of God and His Messenger. I migrated towards God and towards you. I will live with you and will die with you. So, they (the Ansar) turned towards him in tears and they were saying: By Allah, we said what we said because of our tenacious attachment to Allah and His Messenger. The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: Surely, Allah and His Messenger testify to your assertions and accept your apology. The narrator continued: People turned to the house of Abu Sufyan رضی اللہ عنہ and people locked their doors. The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) proceeded until he approached the (Black) Stone. He kissed it and circumambulated the Ka'ba. He reached near an idol by the side of the Ka'ba which was worshipped by the people. The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) had a bow in his hand, and he was holding it from a corner. When he came near the idol, he began to pierce its eyes with the bow and (while doing so) was saying: Truth has been established and falsehood has perished. When he had finished the circumambulation, he came to Safa', ascended it to a height from where he could see the Ka'ba, raised his hands (in prayer) and began to praise Allah and prayed what he wanted to pray.",
+                "hadithUrdu": "کئی وفود حضرت معاویہ رضی اللہ عنہ کے پاس گئے ، یہ رمضان کا مہینہ تھا ۔ ( عبداللہ بن رباح نے کہا : ) ہم ایک دوسرے کے لیے کھانا تیار کرتے تو ابوہریرہ رضی اللہ عنہ جو ہمیں اکثر اپنی قیام گاہ پر بلاتے تھے ۔ ایک ( دن ) میں نے کہا : میں بھی کیوں نہ کھانا تیار کروں اور سب کو اپنی قیام گاہ پر بلاؤں ۔ میں نے کھانا بنانے کا کہہ دیا ، پھر شام کو ابوہریرہ رضی اللہ عنہ سے ملا اور کہا : آج کی رات میرے یہاں دعوت ہے ۔ حضرت ابوہریرہ رضی اللہ عنہ نے کہا : تو نے مجھ سے پہلے کہہ دیا ۔ ( یعنی آج میں دعوت کرنے والا تھا ) میں نے کہا : ہاں ، پھر میں نے ان سب کو بلایا ۔ حضرت ابوہریرہ رضی اللہ عنہ نے کہا : اے انصار کی جماعت! کیا میں تمہیں تمہارے متعلق احادیث میں سے ایک حدیث نہ بتاؤں؟ پھر انہوں نے مکہ کے فتح ہونے کا ذکر کیا ۔ اس کے بعد کہا : رسول اللہ صلی اللہ علیہ وسلم تشریف لائے یہاں تک کہ مکہ میں داخل ہو گئے ، پھر دو میں سے ایک بازو پر زبیر رضی اللہ عنہ کو بھیجا اور دوسرے بازو پر خالد بن ولید رضی اللہ عنہ کو ، ابوعبیدہ ( بن جراح ) رضی اللہ عنہ کو ان لوگوں کا سردار کیا جن کے پاس زرہیں نہ تھیں ۔ انہوں نے گھاٹی کے درمیان والا راستہ اختیار کیا تو رسول اللہ صلی اللہ علیہ وسلم ایک دستے میں تھے ۔ آپ صلی اللہ علیہ وسلم نے مجھے دیکھا تو فرمایا : \"\" ابوہریرہ! \"\" میں نے کہا : حاضر ہوں ، اللہ کے رسول! آپ صلی اللہ علیہ وسلم نے فرمایا : \"\" میرے ساتھ انصاری کے سوا کوئی نہ آئے ۔ \"\" شیبان کے علاوہ دوسرے راویوں نے اضافہ کیا : آپ نے فرمایا : \"\" میرے لیے انصار کو آواز دو ۔ \"\" انصار آپ کے اردگرد آ گئے ۔ اور قریش نے بھی اپنے اوباش لوگوں اور تابعداروں کو اکٹھا کیا اور کہا : ہم ان کو آگے کرتے ہیں ، اگر کوئی چیز ( کامیابی ) ملی تو ہم بھی ان کے ساتھ ہیں اور اگر ان پر آفت آئی تو ہم سے جو مانگا جائے گا دے دیں گے ۔ ( دیت ، جرمانہ وغیرہ ۔ ) آپ صلی اللہ علیہ وسلم نے فرمایا : \"\" تم قریش کے اوباشوں اور تابعداروں ( ہر کام میں پیروی کرنے والوں ) کو دیکھ رہے ہو؟ \"\" پھر آپ نے دونوں ہاتھوں سے ایک ہاتھ کو دوسرے ہاتھ پر ( مارتے ہوئے ) اشارہ فرمایا : \"\" ( ان کا صفایا کر دو ، ان کا فتنہ دبا دو ) ، پھر فرمایا : \"\" یہاں تک کہ تم مجھ سے صفا پر آ ملو ۔ \"\" حضرت ابوہریرہ رضی اللہ عنہ نے کہا : پھر ہم چلے ، ہم میں سے جو کوئی ( کافروں میں سے ) جس کسی کو مارنا چاہتا ، مار ڈالتا اور کوئی ہماری طرف کسی چیز ( ہتھیار ) کو آگے تک نہ کرتا ، یہاں تک کہ ابوسفیان رضی اللہ عنہ آئے اور کہنے لگے : اللہ کے رسول! قریش کی جماعت ( کے خون ) مباح کر دیے گئے اور آج کے بعد قریش نہ رہے ۔ رسول اللہ صلی اللہ علیہ وسلم نے ( اپنا سابقہ بیان دہراتے ہوئے ) فرمایا : \"\" جو شخص ابوسفیان کے گھر کے اندر چلا جائے اس کو امن ہے ۔ \"\" انصار ایک دوسرے سے کہنے لگے : ان کو ( یعنی رسول اللہ صلی اللہ علیہ وسلم کو ) اپنے وطن کی الفت اور اپنے کنبے والوں پر شفقت آ گئی ہے ۔ ابوہریرہ رضی اللہ عنہ نے کہا : اور وحی آنے لگی اور جب وحی آنے لگتی تھی تو ہم سے مخفی نہ رہتی ۔ جب وحی آتی تو وحی ( کا نزول ) ختم ہونے تک کوئی شخص آپ صلی اللہ علیہ وسلم کی طرف اپنی آنکھ نہ اٹھاتا تھا ، غرض جب وحی ختم ہوئی تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \"\" اے انصار کے لوگو! انہوں نے کہا : اللہ کے رسول! ہم حاضر ہیں ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \"\" تم نے یہ کہا : اس شخص ( کے دل میں ) اپنے گاؤں کی الفت آ گئی ہے ۔ \"\" انہوں نے کہا : یقینا ایسا تو ہوا تھا ۔ آپ صلی اللہ علیہ وسلم نے بفرمایا : \"\" ہرگز نہیں ، میں اللہ کا بندہ اور اس کا رسول ہوں ۔ میں نے اللہ تعالیٰ کی طرف ہجرت کی اور تمہاری طرف ( آیا ) اب میری زندگی بھی تمہاری زندگی ( کے ساتھ ) ہے اور موت بھی تمہارے ساتھ ہے ۔ \"\" یہ سن کر انصار روتے ہوئے آگے بڑھے ، وہ کہہ رہے تھے : اللہ تعالیٰ کی قسم! ہم نے کہا جو کہا محض اللہ تعالیٰ اور اس کے رسول صلی اللہ علیہ وسلم کے ساتھ شدید چاہت ( اور ان کی معیت سے محرومی کے خوف ) کی وجہ سے کہا تھا ۔ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \"\" بے شک اللہ اور اس کا رسول تمہاری تصدیق کرتے ہیں اور تمہارا عذر قبول کرتے ہیں ۔ \"\" پھر لوگ ابوسفیان رضی اللہ عنہ کے گھر کی طرف آ گئے اور لوگوں نے اپنے دروازے بند کر لیے اور رسول اللہ صلی اللہ علیہ وسلم حجراسود کے پاس تشریف لے آئے اور اس کو چوما ، پھر بیت اللہ کا طواف کیا ، پھر آپ بیت اللہ کے پہلو میں ایک بت کے پاس آئے ، لوگ اس کی پوجا کیا کرتے تھے ، اس وقت آپ صلی اللہ علیہ وسلم کے ہاتھ میں کمان تھی ، آپ صلی اللہ علیہ وسلم نے اس کو ایک طرف سے پکڑا ہوا تھا ، جب آپ بت کے پاس آئے تو اس کی آنکھ میں چبھونے لگے اور فرمانے لگے : \"\" حق آ گیا اور باطل مٹ گیا ۔ \"\" جب اپنے طواف سے فارغ ہوئے تو کوہِ صفا پر آئے ، اس پر چڑھے یہاں تک کہ بیت اللہ کی طرف نظر اٹھائی اور اپنے دونوں ہاتھ اٹھائے ، پھر اللہ تعالیٰ کی حمد کرنے لگے اور اللہ سے جو مانگنا چاہا وہ مانگنے لگے.",
+                "urduNarrator": "شیبان بن فروخ نے حدیث بیان کی ، کہا : ہمیں سلیمان بن مغیرہ نے حدیث سنائی ، کہا : ہمیں ثابت بنانے نے عبداللہ بن رباح سے حدیث بیان کی ، انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، حَدَّثَنَا سُلَيْمَانُ بْنُ الْمُغِيرَةِ، حَدَّثَنَا ثَابِتٌ الْبُنَانِيُّ، عَنْ عَبْدِ اللهِ بْنِ رَبَاحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ: وَفَدَتْ وُفُودٌ إِلَى مُعَاوِيَةَ وَذَلِكَ فِي رَمَضَانَ، فَكَانَ يَصْنَعُ بَعْضُنَا لِبَعْضٍ الطَّعَامَ، فَكَانَ أَبُو هُرَيْرَةَ مِمَّا يُكْثِرُ أَنْ يَدْعُوَنَا إِلَى رَحْلِهِ، فَقُلْتُ: أَلَا أَصْنَعُ طَعَامًا فَأَدْعُوَهُمْ إِلَى رَحْلِي؟ فَأَمَرْتُ بِطَعَامٍ يُصْنَعُ، ثُمَّ لَقِيتُ أَبَا هُرَيْرَةَ مِنَ الْعَشِيِّ، فَقُلْتُ: الدَّعْوَةُ عِنْدِي اللَّيْلَةَ، فَقَالَ: سَبَقْتَنِي، قُلْتُ: نَعَمْ، فَدَعَوْتُهُمْ، فَقَالَ أَبُو هُرَيْرَةَ: أَلَا أُعْلِمُكُمْ بِحَدِيثٍ مِنْ حَدِيثِكُمْ يَا مَعْشَرَ الْأَنْصَارِ، ثُمَّ ذَكَرَ فَتْحَ مَكَّةَ، فَقَالَ: أَقْبَلَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ حَتَّى قَدِمَ مَكَّةَ، فَبَعَثَ الزُّبَيْرَ عَلَى إِحْدَى الْمُجَنِّبَتَيْنِ، وَبَعَثَ خَالِدًا عَلَى الْمُجَنِّبَةِ الْأُخْرَى، وَبَعَثَ أَبَا عُبَيْدَةَ عَلَى الْحُسَّرِ، فَأَخَذُوا بَطْنَ الْوَادِي، وَرَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي كَتِيبَةٍ، قَالَ: فَنَظَرَ فَرَآنِي، فَقَالَ أَبُو هُرَيْرَةَ: قُلْتُ: لَبَّيْكَ يَا رَسُولَ اللهِ، فَقَالَ: «لَا يَأْتِينِي إِلَّا أَنْصَارِيٌّ» - زَادَ غَيْرُ شَيْبَانَ -، فَقَالَ: «اهْتِفْ لِي بِالْأَنْصَارِ»، قَالَ: فَأَطَافُوا بِهِ، وَوَبَّشَتْ قُرَيْشٌ أَوْبَاشًا لَهَا، وَأَتْبَاعًا، فَقَالُوا: نُقَدِّمُ هَؤُلَاءِ، فَإِنْ كَانَ لَهُمْ شَيْءٌ كُنَّا مَعَهُمْ، وَإِنْ أُصِيبُوا أَعْطَيْنَا الَّذِي سُئِلْنَا، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «تَرَوْنَ إِلَى أَوْبَاشِ قُرَيْشٍ، وَأَتْبَاعِهِمْ»، ثُمَّ قَالَ بِيَدَيْهِ إِحْدَاهُمَا عَلَى الْأُخْرَى، ثُمَّ قَالَ: «حَتَّى تُوَافُونِي بِالصَّفَا»، قَالَ: فَانْطَلَقْنَا فَمَا شَاءَ أَحَدٌ مِنَّا أَنْ يَقْتُلَ أَحَدًا إِلَّا قَتَلَهُ، وَمَا أَحَدٌ مِنْهُمْ [ص:1406] يُوَجِّهُ إِلَيْنَا شَيْئًا، قَالَ: فَجَاءَ أَبُو سُفْيَانَ، فَقَالَ: يَا رَسُولَ اللهِ، أُبِيحَتْ خَضْرَاءُ قُرَيْشٍ، لَا قُرَيْشَ بَعْدَ الْيَوْمِ، ثُمَّ قَالَ: «مَنْ دَخَلَ دَارَ أَبِي سُفْيَانَ فَهُوَ آمِنٌ»، فَقَالَتِ الْأَنْصَارُ بَعْضُهُمْ لِبَعْضٍ: أَمَّا الرَّجُلُ فَأَدْرَكَتْهُ رَغْبَةٌ فِي قَرْيَتِهِ، وَرَأْفَةٌ بِعَشِيرَتِهِ، قَالَ أَبُو هُرَيْرَةَ: وَجَاءَ الْوَحْيُ وَكَانَ إِذَا جَاءَ الْوَحْيُ لَا يَخْفَى عَلَيْنَا، فَإِذَا جَاءَ فَلَيْسَ أَحَدٌ يَرْفَعُ طَرْفَهُ إِلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ حَتَّى يَنْقَضِيَ الْوَحْيُ، فَلَمَّا انْقَضَى الْوَحْيُ، قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «يَا مَعْشَرَ الْأَنْصَارِ» قَالُوا: لَبَّيْكَ يَا رَسُولَ اللهِ، قَالَ: قُلْتُمْ: أَمَّا الرَّجُلُ فَأَدْرَكَتْهُ رَغْبَةٌ فِي قَرْيَتِهِ؟ قَالُوا: قَدْ كَانَ ذَاكَ، قَالَ: «كَلَّا، إِنِّي عَبْدُ اللهِ وَرَسُولُهُ، هَاجَرْتُ إِلَى اللهِ وَإِلَيْكُمْ، وَالْمَحْيَا مَحْيَاكُمْ وَالْمَمَاتُ مَمَاتُكُمْ»، فَأَقْبَلُوا إِلَيْهِ يَبْكُونَ وَيَقُولُونَ: وَاللهِ، مَا قُلْنَا الَّذِي قُلْنَا إِلَّا الضِّنَّ بِاللهِ وَبِرَسُولِهِ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ اللهَ وَرَسُولَهُ يُصَدِّقَانِكُمْ، وَيَعْذِرَانِكُمْ»، قَالَ: فَأَقْبَلَ النَّاسُ إِلَى دَارِ أَبِي سُفْيَانَ، وَأَغْلَقَ النَّاسُ أَبْوَابَهُمْ، قَالَ: وَأَقْبَلَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ حَتَّى أَقْبَلَ إِلَى الْحَجَرِ، فَاسْتَلَمَهُ ثُمَّ طَافَ بِالْبَيْتِ، قَالَ: فَأَتَى عَلَى صَنَمٍ إِلَى جَنْبِ الْبَيْتِ كَانُوا يَعْبُدُونَهُ، قَالَ: وَفِي يَدِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَوْسٌ وَهُوَ آخِذٌ بِسِيَةِ الْقَوْسِ، فَلَمَّا أَتَى عَلَى الصَّنَمِ جَعَلَ يَطْعُنُهُ فِي عَيْنِهِ، وَيَقُولُ: {جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ} [الإسراء: 81]، فَلَمَّا فَرَغَ مِنْ طَوَافِهِ أَتَى الصَّفَا، فَعَلَا عَلَيْهِ حَتَّى نَظَرَ إِلَى الْبَيْتِ، وَرَفَعَ يَدَيْهِ فَجَعَلَ يَحْمَدُ اللهَ وَيَدْعُو بِمَا شَاءَ أَنْ يَدْعُوَ.",
+                "headingArabic": "فَتْحِ مَكَّةَ ‏‏",
+                "headingUrdu": "فتح مکہ",
+                "headingEnglish": "The conquest of Makkah",
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12187,
+                "hadithNumber": "4623",
+                "englishNarrator": "Sulaiman bin Al-Mughirah narrated it with this chain (a similar Hadith as no. 4622) and added:",
+                "hadithEnglish": "(i) Then be (the Messenger of Allah) said with his hands one upon the other: Kill them (who stand in your way).... (ii) They (the Ansar) replied: We said so, Messenger of Allah! He said: What is my name? I am but Allah's bondman and His Messenger.",
+                "hadithUrdu": "آپ نے دونوں ہاتھوں سے ، ایک کو دوسرے کے ساتھ پھیرتے ہوئے اشارہ کیا : ان کو اسی طرح کاٹ ڈالو جس طرح فصل کاٹی جاتی ہے انہوں نے حدیث میں ( یہ بھی ) کہا : ان لوگوں نے کہا : اللہ کے رسول! ہم نے یہ کہ تھا ۔ آپ نے فرمایا : \" تو پھر میرا نام کیا ہو گا؟ ہرگز نہیں ، میں اللہ کا بندہ اور اس کا رسول ہوں.",
+                "urduNarrator": "مجھ سے عبداللہ بن ہاشم نے بیان کیا, بہز نے کہا : سلیمان بن مغیرہ نے ہمیں اسی سند کے ساتھ حدیث بیان کی ، انہوں نے حدیث میں ( یہ ) اضافہ کیا",
+                "hadithArabic": "وحَدَّثَنِيهِ عَبْدُ اللهِ بْنُ هَاشِمٍ، حَدَّثَنَا بَهْزٌ، حَدَّثَنَا سُلَيْمَانُ بْنُ الْمُغِيرَةِ، بِهَذَا الْإِسْنَادِ وَزَادَ فِي الْحَدِيثِ، ثُمَّ قَالَ بِيَدَيْهِ إِحْدَاهُمَا عَلَى الْأُخْرَى «احْصُدُوهُمْ حَصْدًا»، وَقَالَ فِي الْحَدِيثِ: قَالُوا: قُلْنَا ذَاكَ يَا رَسُولَ اللهِ، قَالَ: فَمَا اسْمِي إِذًا؟ كَلَّا إِنِّي عَبْدُ اللهِ وَرَسُولُهُ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            },
+            {
+                "id": 12188,
+                "hadithNumber": "4624",
+                "englishNarrator": "It has been narrated on the authority of Abdullah bin Rabah who said:",
+                "hadithEnglish": "We came to Mu'awiya bin Abu Sufyan رضی اللہ عنہ as a deputation and Abu Huraira رضی اللہ عنہ was among us. Each of us would prepare food for his companions turn by turn for a day. (Accordingly) when it was my turn I said: Abu Huraira رضی اللہ عنہ , it is my turn today. So they came to my place. The food was not yet ready, so I said to Abu Huraira رضی اللہ عنہ : I wish you could narrate to us a tradition from the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) until the food was ready. (Complying with my request) Abu Huraira رضی اللہ عنہ said: We were with the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) on the day of the Conquest of Mecca. He appointed Khalid bin Walid رضی اللہ عنہ as commander of the right flank, Zubair رضی اللہ عنہ as commander of the left flank, and Abu 'Ubaida رضی اللہ عنہ as commander of the foot-soldiers (who were to advance) to the interior of the valley. He (then) said: Abu Huraira رضی اللہ عنہ , call the Ansar to me. So I called out to them and they came hurriedly. He said: O ye Assembly of the Ansaar, do you see the ruffians of the Quraish? They said: Yes. He said: See, when you meet them tomorrow, wipe them out. He hinted at this with his hand, placing his right hand on his left and said: You will meet us at as-Safa'. (Abu Huraira رضی اللہ عنہ continued): Whoever was seen by them that day was put to death. The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) ascended the mount of as-Safa'. The Ansar also came there and surrounded the mount. Then came Abu Sufyan رضی اللہ عنہ and said: Messenger ot Allah, the Quraish have perished. No member of the Quraish tribe will survive this day. The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ) said: Who enters the house of Abu Safyin will be safe, who lays down arms will be safe, who locks his door will be safe. (some of) the Ansar said: (After all) the man has been swayed by tenderness towards his family and love for his city. At this, Divine inspiration descended upon the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌ ). He said: You were saying that the man has been swayed by tenderness towards his family and love for his city. Do you know what my name is? I am Muhammad, the bondman of God and His Messenger. (He repeated this thrice.) I left my native place for the take of Allah and joined you. So I will live with you and die with you. Now the Ansar said: By God, we said (that) only out of our greed for Allah and His Messenger. He said: Allah and His Apostle testify to you and accept your apology.",
+                "hadithUrdu": "ہم بطور وفد حضرت معاویہ بن ابی سفیان رضی اللہ عنہ کے پاس گئے ، اور ہم لوگوں میں ابوہریرہ رضی اللہ عنہ بھی تھے ، ہم میں سے ہر آدمی ایک دن اپنے ساتھیوں کے لیے کھانا بناتا ، ایک دن میری باری تھی ، میں نے کہا : ابوہریرہ رضی اللہ عنہ! آج میری باری ہے ، وہ سب میرے ٹھکانے پر آئے اور ابھی کھانا نہیں آیا تھا ۔ میں نے کہا : ابوہریرہ رضی اللہ عنہ! کاش آپ ہمیں رسول اللہ صلی اللہ علیہ وسلم سے کوئی حدیث سنائیں یہاں تک کہ کھانا آ جائے ۔ انہوں نے کہا : ہم فتح مکہ کے دن رسول اللہ صلی اللہ علیہ وسلم کے ساتھ تھے ۔ آپ صلی اللہ علیہ وسلم نے خالد بن ولید رضی اللہ عنہ کو دائیں بازو ( میمنہ ) پر ( امیر ) مقرر کیا اور زبیر رضی اللہ عنہ کو بائیں بازو ( میسرہ ) پر اور ابوعبیدہ رضی اللہ عنہ کو پیادوں پر اور وادی کے اندر ( کے راستے ) پر تعینات کیا ، پھر آپ صلی اللہ علیہ وسلم نے فرمایا : \" ابوہریرہ! انصار کو بلاؤ ۔ \" میں نے ان کو بلایا ، وہ دوڑتے ہوئے آئے ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \" انصار کے لوگو! کیا تم قریش کے اوباشوں کو دیکھ رہے ہو؟ انہوں نے کہا : جی ہاں ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \" دیکھو! کل جب تمہارا ان سے سامنا ہو تو ان کو اس طرح کاٹ دینا جس طرح فصل کاٹی جاتی ہے \" اور آپ صلی اللہ علیہ وسلم نے پوشیدہ رکھتے ہوئے ہاتھ سے اشارہ کر کے بتایا اور داہنا ہاتھ بائیں ہاتھ پر رکھا ۔ اور فرمایا : \" اب تم سے ملاقات کا وعدہ کوہِ صفا پر ہے ۔ \" حضرت ابوہریرہ رضی اللہ عنہ نے کہا : تو اس روز جس کسی نے سر اٹھایا ، انہوں نے اس کو سلا دیا ، ( یعنی مار ڈالا ۔ ) رسول اللہ صلی اللہ علیہ وسلم صفا پہاڑ پر چڑھے ، انسار آئے ، انہوں نے صفا کو گھیر لیا ، اتنے میں ابوسفیان رضی اللہ عنہ آئے اور کہنے لگا : اللہ کے رسول! قریش کی جمعیت مٹا دی گئی ، آج سے قریش نہ رہے ۔ ابوسفیان رضی اللہ عنہ نے کہا : تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جو کوئی ابوسفیان کے گھر میں چلا گیا اس کو امن ہے اور جو ہتھیار ڈال دے اس کو بھی امن ہے اور جو اپنا دروازہ بند کے لے اس کو بھی امن ہے ۔ \" انصار نے کہا : آپ پر اپنے عزیزوں کی محبت اور اپنے شہر کی الفت غالب آ گئی ہے ۔ پھر رسول اللہ صلی اللہ علیہ وسلم پر وحی نازل ہوئی ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \" تم لوگوں نے کہا : مجھ پر کنبے والوں کی محبت اور اپنے شہر کی الفت غالب آ گئی ہے ، دیکھو! پھر ( اس صورت میں ) میرا نام کیا ہو گا؟ \" آپ نے تین بار فرمایا : ۔ ۔ \" میں محمد اللہ تعالیٰ کا بندہ اور اس کا رسول ہوں ۔ میں نے اللہ کے لیے تمہاری طرف ہجرت کی ، تو اب زندگی تمہاری زندگی ( کے ساتھ ) ہے اور موت تمہاری موت ( کے ساتھ ) ہے ۔ \" انہوں نے کہا : اللہ کی قسم! ہم نے یہ اللہ اور اس کے رسول صلی اللہ علیہ وسلم کی شدید چاہت ( اور آپ کی معیت سے محرومی کے خوف ) کے علاوہ کسی وجہ سے نہیں کہا تھا ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : \" تو اللہ اور اس کا رسول دونوں تم کو سچا جانتے ہیں اور تمہارا عذر قبول کرتے ہیں.",
+                "urduNarrator": "مجھ سے عبداللہ بن عبدالرحمٰن دارمی نے بیان کیا، کہا ہم سے یحییٰ بن حسن نے بیان کیا, ہمیں حماد بن سلمہ نے حدیث بیان کی ، ( کہا : ) ہمیں ثابت نے عبداللہ بن رباح سے خبر دی ، انہوں نے کہا",
+                "hadithArabic": "حَدَّثَنِي عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ الدَّارِمِيُّ، حَدَّثَنَا يَحْيَى بْنُ حَسَّانَ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، أَخْبَرَنَا ثَابِتٌ، عَنْ عَبْدِ اللهِ بْنِ رَبَاحٍ، قَالَ: وَفَدْنَا إِلَى مُعَاوِيَةَ بْنِ أَبِي سُفْيَانَ، وَفِينَا أَبُو هُرَيْرَةَ، فَكَانَ كُلُّ رَجُلٍ مِنَّا يَصْنَعُ طَعَامًا يَوْمًا لِأَصْحَابِهِ، فَكَانَتْ نَوْبَتِي، فَقُلْتُ: يَا أَبَا هُرَيْرَةَ، الْيَوْمُ نَوْبَتِي، فَجَاءُوا إِلَى الْمَنْزِلِ وَلَمْ يُدْرِكْ طَعَامُنَا، فَقُلْتُ: يَا أَبَا هُرَيْرَةَ، لَوْ حَدَّثْتَنَا عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ حَتَّى يُدْرِكَ طَعَامُنَا، فَقَالَ: كُنَّا مَعَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَوْمَ الْفَتْحِ، فَجَعَلَ خَالِدَ بْنَ الْوَلِيدِ عَلَى الْمُجَنِّبَةِ الْيُمْنَى، وَجَعَلَ الزُّبَيْرَ عَلَى الْمُجَنِّبَةِ الْيُسْرَى، وَجَعَلَ أَبَا عُبَيْدَةَ عَلَى الْبَيَاذِقَةِ، وَبَطْنِ الْوَادِي، فَقَالَ: «يَا أَبَا هُرَيْرَةَ، ادْعُ لِي الْأَنْصَارَ»، فَدَعَوْتُهُمْ، فَجَاءُوا يُهَرْوِلُونَ، فَقَالَ: «يَا مَعْشَرَ الْأَنْصَارِ، هَلْ تَرَوْنَ أَوْبَاشَ قُرَيْشٍ؟» قَالُوا: نَعَمْ، قَالَ: «انْظُرُوا، إِذَا لَقِيتُمُوهُمْ غَدًا أَنْ تَحْصُدُوهُمْ حَصْدًا»، وَأَخْفَى بِيَدِهِ وَوَضَعَ يَمِينَهُ عَلَى شِمَالِهِ، وَقَالَ: «مَوْعِدُكُمُ الصَّفَا»، قَالَ: فَمَا أَشْرَفَ يَوْمَئِذٍ لَهُمْ أَحَدٌ إِلَّا أَنَامُوهُ، قَالَ: وَصَعِدَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ الصَّفَا، وَجَاءَتِ الْأَنْصَارُ فَأَطَافُوا بِالصَّفَا، فَجَاءَ أَبُو سُفْيَانَ، فَقَالَ: يَا رَسُولَ اللهِ، أُبِيدَتْ خَضْرَاءُ قُرَيْشٍ لَا قُرَيْشَ بَعْدَ الْيَوْمِ، قَالَ أَبُو سُفْيَانَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنْ دَخَلَ دَارَ أَبِي سُفْيَانَ فَهُوَ آمِنٌ، وَمَنْ أَلْقَى السِّلَاحَ فَهُوَ آمِنٌ، وَمَنْ أَغْلَقَ بَابهُ فَهُوَ آمِنٌ»، فَقَالَتِ الْأَنْصَارُ: أَمَّا الرَّجُلُ فَقَدْ أَخَذَتْهُ رَأْفَةٌ بِعَشِيرَتِهِ، وَرَغْبَةٌ فِي قَرْيَتِهِ، وَنَزَلَ الْوَحْيُ عَلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، قَالَ: قُلْتُمْ: أَمَّا الرَّجُلُ فَقَدْ أَخَذَتْهُ رَأْفَةٌ بِعَشِيرَتِهِ، وَرَغْبَةٌ فِي قَرْيَتِهِ، أَلَا فَمَا اسْمِي إِذًا؟ - ثَلَاثَ مَرَّاتٍ - أَنَا مُحَمَّدٌ عَبْدُ اللهِ وَرَسُولُهُ، هَاجَرْتُ إِلَى اللهِ وَإِلَيْكُمْ، فَالْمَحْيَا مَحْيَاكُمْ، وَالْمَمَاتُ مَمَاتُكُمْ قَالُوا: وَاللهِ، مَا قُلْنَا إِلَّا ضَنًّا بِاللهِ وَرَسُولِهِ، قَالَ: «فَإِنَّ اللهَ وَرَسُولَهُ يُصَدِّقَانِكُمْ وَيَعْذِرَانِكُمْ.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "33",
+                "bookSlug": "sahih-muslim",
+                "volume": "5",
+                "status": "Sahih",
+                "book": {
+                    "id": 2,
+                    "bookName": "Sahih Muslim",
+                    "writerName": "Imam Muslim",
+                    "aboutWriter": null,
+                    "writerDeath": "261 ھ",
+                    "bookSlug": "sahih-muslim"
+                },
+                "chapter": {
+                    "id": 133,
+                    "chapterNumber": "33",
+                    "chapterEnglish": "The Book Of Jihad And Expeditions",
+                    "chapterUrdu": "جہاد اور اس کے دوران میں رسول اللہ صلی اللہ علیہ وسلم کے اختیار کردہ طریقے",
+                    "chapterArabic": "كتاب الْجِهَادِ وَالسِّيَرِ",
+                    "bookSlug": "sahih-muslim"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 11876,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=475",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=473",
+                "label": "473",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=474",
+                "label": "474",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=475",
+                "label": "475",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=476",
+                "label": "476",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=477",
+                "label": "477",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=478",
+                "label": "478",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=479",
+                "label": "479",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=477",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=477",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=475",
+        "to": 11900,
+        "total": 40465
+    }
+}

@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 244,
+        "data": [
+            {
+                "id": 6078,
+                "hadithNumber": "6339",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"None of you should say: 'O Allah, forgive me if You wish; O Allah, be merciful to me if You wish,' but he should always appeal to Allah with determination, for nobody can force Allah to do something against His Will.\"",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم نے فرمایا تم میں سے کوئی شخص اس طرح نہ کہے کہ ” یا اللہ ! اگر تو چاہے تو مجھے معا ف کر دے ۔ میرے مغفرت کر دے “ بلکہ یقین کے ساتھ دعا کرے کیونکہ اللہ پر کوئی زبردستی کرنے والا نہیں ہے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ نے بیان کیا ، ان سے امام مالک نے ، ان سے ابوالزناد نے ، ان سے اعرج نے اور ان سے حضرت ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَقُولَنَّ أَحَدُكُمُ اللَّهُمَّ اغْفِرْ لِي، اللَّهُمَّ ارْحَمْنِي، إِنْ شِئْتَ‏.‏ لِيَعْزِمِ الْمَسْأَلَةَ، فَإِنَّهُ لاَ مُكْرِهَ لَهُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6079,
+                "hadithNumber": "6340",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"The invocation of anyone of you is granted (by Allah) if he does not show impatience (by saying, \"I invoked Allah but my request has not been granted.\")",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا بندہ کی دعا قبول ہوتی ہے جب تک کہ وہ جلدی نہ کرے کہ کہنے لگے کہ میں نے دعا کی تھی اور میری دعا قبول نہیں ہوئی ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف تنیسی نے بیان کیا ، کہا ہم کو امام مالک نے خبر دی ، انہیں ابن شہاب نے ، انہیں عبدالرحمٰن بن ازہر کے غلام ابوعبید نے اور انہیں حضرت ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي عُبَيْدٍ، مَوْلَى ابْنِ أَزْهَرَ عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ يُسْتَجَابُ لأَحَدِكُمْ مَا لَمْ يَعْجَلْ يَقُولُ دَعَوْتُ فَلَمْ يُسْتَجَبْ لِي ‏\"‏‏.‏",
+                "headingArabic": "يُسْتَجَابُ لِلْعَبْدِ مَا لَمْ يَعْجَلْ",
+                "headingUrdu": "بے صبری نہ کی جائے تو اللہ کی طرف سے دعا قبول ہوتی ہے۔",
+                "headingEnglish": "Invocation is granted by Allah if impatience is not shown",
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6080,
+                "hadithNumber": "6341",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "\"The Prophet (ﷺ) raised his hands (in invocation) till I saw the whiteness of his armpits.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے اپنے ہاتھ اتنے اٹھائے کہ میں نے آپ کی بغلوں کی سفیدی دیکھی ۔",
+                "urduNarrator": "حضرت ابوعبداللہ امام بخاری نے کہا اور عبد العزیز بن عبداللہ اویسی نے کہا مجھ سے محمد بن جعفر نے بیان کیا ، ان سے یحییٰ بن سعید اور شریک بن ابی نمر نے ، انہوں نے حضرت انس رضی اللہ عنہ سے سنا کہ",
+                "hadithArabic": "قَالَ أَبُو عَبْدِ اللَّهِ وَقَالَ الأُوَيْسِيُّ حَدَّثَنِي مُحَمَّدُ بْنُ جَعْفَرٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، وَشَرِيكٍ، سَمِعَا أَنَسًا، عَنِ النَّبِيِّ صلى الله عليه وسلم رَفَعَ يَدَيْهِ حَتَّى رَأَيْتُ بَيَاضَ إِبْطَيْهِ‏.‏",
+                "headingArabic": "رَفْعِ الأَيْدِي فِي الدُّعَاءِ",
+                "headingUrdu": "پکارنے پر ہاتھ اٹھانا",
+                "headingEnglish": "The raising of the hands on invoking",
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6081,
+                "hadithNumber": "6342",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "While the Prophet (ﷺ) was delivering a sermon on a Friday, a man stood up and said, \"O Allah's Messenger (ﷺ)! Invoke Allah to bless us with rain.\" (The Prophet (ﷺ) invoked Allah for rain.) So, the sky became overcast and it started raining till one could hardly reach one's home. It kept on raining till the next Friday when the same man or another man got up and said (to the Prophet), \"Invoke Allah to withhold the rain from us, for we have been drowned (with heavy rain ).\" The Prophet (ﷺ) said, \"O Allah! Let it rain around us and not on us.\" Then the clouds started dispersing around Medina and rain ceased to fall on the people of Medina.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم جمعہ کے دن خطبہ دے رہے تھے کہ ایک آدمی کھڑا ہوا اور کہا کہ یا رسول اللہ ! اللہ سے دعا فرما دیجئیے کہ ہمارے لئے بارش برسائے ( آنحضرت صلی اللہ علیہ وسلم نے دعا فرمائی ) اور آسمان پر بادل چھا گیا اور بارش برسنے لگی ، یہ حال ہو گیا کہ ہمارے لئے گھر تک پہنچنا مشکل تھا ۔ یہ بارش اگلے جمعہ تک ہوتی رہی پھر وہی صحابی یا کوئی دوسرے صحابی اس دوسرے جمعہ کو کھڑے ہوئے اور کہا کہ اللہ سے دعا فرمائیے کہ اب بارش بند کر دے ہم تو ڈوب گئے ۔ آنحضرت صلی اللہ علیہ وسلم نے دعا کی کہ اے اللہ ! ہمارے چاروں طرف بستیوں کو سیراب کر اور ہم پر بارش بند کر دے ۔ چنانچہ بادل ٹکڑے ہو کر مدینہ کے چاروں طرف بستیوں میں چلا گیا اور مدینہ والوں پر بارش رک گئی ۔",
+                "urduNarrator": "ہم سے محمد بن محبوب نے بیان کیا ، کہا ہم سے ابو عوانہ نے بیان کیا ، ان سے قتادہ نے اور ان سے حضرت انس رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ مَحْبُوبٍ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ بَيْنَا النَّبِيُّ صلى الله عليه وسلم يَخْطُبُ يَوْمَ الْجُمُعَةِ فَقَامَ رَجُلٌ فَقَالَ يَا رَسُولَ اللَّهِ ادْعُ اللَّهَ أَنْ يَسْقِيَنَا‏.‏ فَتَغَيَّمَتِ السَّمَاءُ وَمُطِرْنَا، حَتَّى مَا كَادَ الرَّجُلُ يَصِلُ إِلَى مَنْزِلِهِ، فَلَمْ تَزَلْ تُمْطَرُ إِلَى الْجُمُعَةِ الْمُقْبِلَةِ، فَقَامَ ذَلِكَ الرَّجُلُ أَوْ غَيْرُهُ فَقَالَ ادْعُ اللَّهَ أَنْ يَصْرِفَهُ عَنَّا، فَقَدْ غَرِقْنَا‏.‏ فَقَالَ ‏ \"‏ اللَّهُمَّ حَوَالَيْنَا وَلاَ عَلَيْنَا ‏\"‏‏.‏ فَجَعَلَ السَّحَابُ يَتَقَطَّعُ حَوْلَ الْمَدِينَةِ، وَلاَ يُمْطِرُ أَهْلَ الْمَدِينَةِ‏.‏",
+                "headingArabic": "الدُّعَاءِ غَيْرَ مُسْتَقْبِلِ الْقِبْلَةِ",
+                "headingUrdu": "قبلہ کی طرف منہ نہ کرتے ہوئے اللہ کو پکارنا",
+                "headingEnglish": "To invoke Allah while not facing the Qiblah",
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6082,
+                "hadithNumber": "6343",
+                "englishNarrator": "Narrated `Abdullah bin Zaid رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) went out to this Musalla (praying place) to offer the prayer of Istisqa.' He invoked Allah for rain and then faced the Qibla and turned his Rida' (upper garment) inside out.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم اس عیدگاہ میں استسقاء کی دعا کے لئے نکلے اوربارش کی دعا کی ، پھر آپ قبلہ رخ ہو گئے اور اپنی چادر کو پلٹا ۔",
+                "urduNarrator": "ہم سے موسیٰ بن اسماعیل نے بیان کیا ، انہوں نے کہا ہم سے وہیب بن خالد نے بیان کیا ، انہوں نے کہا ہم سے عمرو بن یحییٰ نے بیان کیا ، ان سے عبادہ بن تمیم نے بیان کیا اور ان سے عبداللہ بن زید انصاری رضی اللہ عنہ نے بیان کیاکہ",
+                "hadithArabic": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا عَمْرُو بْنُ يَحْيَى، عَنْ عَبَّادِ بْنِ تَمِيمٍ، عَنْ عَبْدِ اللَّهِ بْنِ زَيْدٍ، قَالَ خَرَجَ النَّبِيُّ صلى الله عليه وسلم إِلَى هَذَا الْمُصَلَّى يَسْتَسْقِي، فَدَعَا وَاسْتَسْقَى ثُمَّ اسْتَقْبَلَ الْقِبْلَةَ وَقَلَبَ رِدَاءَهُ‏.‏",
+                "headingArabic": "الدُّعَاءِ مُسْتَقْبِلَ الْقِبْلَةِ",
+                "headingUrdu": "قبلہ کی طرف منہ کر کے اللہ کو پکارنا",
+                "headingEnglish": "To invoke Allah while facing the Qiblah",
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6083,
+                "hadithNumber": "6344",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "My mother said, \"O Allah's Messenger (ﷺ)! Please invoke Allah on behalf of your servant.\" He said, \"O Allah! Increase his wealth and children, and bestow Your Blessing on whatever You give him.\" a time of distress.",
+                "hadithUrdu": "میری والدہ ( ام سلیم رضی اللہ عنہ ) نے کہا یا رسول اللہ ! انس رضی اللہ عنہ آپ کاخادم ہے اس کے لئے دعا فرما دیں ۔ آنحضرت صلی اللہ علیہ وسلم نے دعا کی کہ اے اللہ ! اس کے مال واولاد کو زیادہ کر اور جو کچھ تو نے اسے دیا ہے اس میں برکت عطا فرما ۔",
+                "urduNarrator": "ہم سے عبداللہ بن ابی الاسود نے بیان کیا ، کہا ہم سے حرمی بن عمارہ نے بیان کیا ، کہا ہم سے شعبہ نے بیان کیا ، ان سے قتادہ نے اور ان سے انس رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي الأَسْوَدِ، حَدَّثَنَا حَرَمِيٌّ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ قَالَتْ أُمِّي يَا رَسُولَ اللَّهِ خَادِمُكَ أَنَسٌ ادْعُ اللَّهَ لَهُ‏.‏ قَالَ ‏ \"‏ اللَّهُمَّ أَكْثِرْ مَالَهُ وَوَلَدَهُ، وَبَارِكْ لَهُ فِيمَا أَعْطَيْتَهُ ‏\"‏‏.‏",
+                "headingArabic": "دَعْوَةِ النَّبِيِّ صلى الله عليه وسلم لِخَادِمِهِ بِطُولِ الْعُمُرِ وَبِكَثْرَةِ مَالِهِ",
+                "headingUrdu": "رسول اللہ صلی اللہ علیہ وسلم کی اپنے بندے کے لیے دعا",
+                "headingEnglish": "The invocation of the Prophet (saws) for his servant",
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6084,
+                "hadithNumber": "6345",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "The Prophet (ﷺ) used to invoke Allah at the time of distress, saying, \"La ilaha illal-lahu Al-`Azim, al- Halim, La ilaha illal-lahu Rabbu-s-samawati wal-ard wa Rabbu-l-arsh il-azim.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم پریشانی کے وقت یہ دعا کرتے تھے لا إله إلا الله العظيم الحليم ، ‏‏‏‏ لا إله إلا الله رب السموات والأرض ، ‏‏‏‏ رب العرش العظيم ‏ ” اللہ کے سوا کوئی معبودنہیں جو بہت عظمت والا ہے اور برد بار ہے ، اللہ کے سوا کوئی معبود نہیں جو آسمانوں اور زمین کا رب اور بڑے بھاری عرش کارب ہے ۔ “",
+                "urduNarrator": "ہم سے مسلم بن ابراہیم نے بیان کیا ، انہوں نے کہا ہم سے ہشام بن عروہ نے بیان کیا ، انہوں نے کہا ہم سے قتادہ نے بیان کیا ، ان سے ابو العالیہ نے اور ان سے حضرت ابن عباس رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هِشَامٌ، حَدَّثَنَا قَتَادَةُ، عَنْ أَبِي الْعَالِيَةِ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَدْعُو عِنْدَ الْكَرْبِ ‏ \"‏ لاَ إِلَهَ إِلاَّ اللَّهُ الْعَظِيمُ الْحَلِيمُ، لاَ إِلَهَ إِلاَّ اللَّهُ رَبُّ السَّمَوَاتِ وَالأَرْضِ، رَبُّ الْعَرْشِ الْعَظِيمِ ‏\"‏‏.‏",
+                "headingArabic": "الدُّعَاءِ عِنْدَ الْكَرْبِ",
+                "headingUrdu": "مصیبت کے وقت اللہ کو پکارنا",
+                "headingEnglish": "To invoke Allah at a time of distress",
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6085,
+                "hadithNumber": "6346",
+                "englishNarrator": "Narrated Ibn `Abbas رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) used to say at a time of distress, \"La ilaha illal-lahu Rabbul-l-'arsh il-'azim, La ilaha illallahu Rabbu-s-samawati wa Rabbu-l-ard, Rabbu-l-'arsh-il-Karim.\" There is no worthy of worship saves Allah (Who is) Grand and Forbearing; there is no worthy of worship saves Allah, the Lord of the Great Throne; there is no worthy of worship saves Allah, the Lord of the heavens and the earth as well as the Lord of 6 the Prestigious Throne. Shobah has reported likewise from Qatadah.",
+                "hadithUrdu": "رسول اللہ کریم صلی اللہ علیہ وسلم حالت پریشانی میں یہ دعا کیا کرتے تھے لا إله إلا الله العظيم الحليم ، ‏‏‏‏ لا إله إلا الله رب العرش العظيم ، ‏‏‏‏ لا إله إلا الله رب السموات ، ‏‏‏‏ ورب الأرض ، ‏‏‏‏ ورب العرش الكريم ‏ ” اللہ صاحب عظمت اور بردبار کے سوا کوئی معبود نہیں ، اللہ کے سوا کوئی معبود نہیں جو عرش عظیم کا رب ہے ، اللہ کے سوا کوئی معبود نہیں جو آسمانوں اور زمینوں کا رب ہے اور عرش عظیم کا رب ہے ۔ “ اور وہب نے بیان کیا کہ ہم سے شعبہ نے بیان کیا ، ان سے قتادہ نے اس طرح بیان کیا ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیا ، انہوں نے کہا ہم سے یحییٰ بن ابی کثیر نے بیان کیا ، ان سے ہشام بن ابی عبداللہ نے بیان کیا ، ان سے قتادہ نے ، ان سے ابوالعالیہ نے اور ان سے حضرت ابن عباس رضی اللہ عنہما نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ هِشَامِ بْنِ أَبِي عَبْدِ اللَّهِ، عَنْ قَتَادَةَ، عَنْ أَبِي الْعَالِيَةِ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَقُولُ عِنْدَ الْكَرْبِ ‏ \"‏ لاَ إِلَهَ إِلاَّ اللَّهُ الْعَظِيمُ الْحَلِيمُ، لاَ إِلَهَ إِلاَّ اللَّهُ رَبُّ الْعَرْشِ الْعَظِيمِ، لاَ إِلَهَ إِلاَّ اللَّهُ رَبُّ السَّمَوَاتِ، وَرَبُّ الأَرْضِ، وَرَبُّ الْعَرْشِ الْكَرِيمِ ‏\"‏‏.‏ وَقَالَ وَهْبٌ حَدَّثَنَا شُعْبَةُ عَنْ قَتَادَةَ مِثْلَهُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6086,
+                "hadithNumber": "6347",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) used to seek refuge with Allah from the difficult moment of a calamity and from being overtaken by destruction and from being destined to an evil end, and from the malicious joy of enemies. Sufyan said, \"This narration contained three items only, but I added one. I do not know which one that was.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم مصیبت کی سختی ، تباہی تک پہنچ جانے ، قضاء و قدر کی برائی اور دشمنوں کے خوش ہونے سے پناہ مانگتے تھے اور سفیان نے کہا کہ حدیث میں تین صفات کا بیان تھا ۔ ایک میں نے بھلا دی تھی اور مجھے یاد نہیں کہ وہ ایک کون سی صفت ہے ۔",
+                "urduNarrator": "ہم سے علی بن عبداللہ مدینی نے بیان کیا ، کہا ہم سے سفیان بن عیینہ نے بیان کیا ، کہامجھ سے سمی نے بیان کیا ، ان سے ابوصالح نے اور ان سے حضرت ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنِي سُمَىٌّ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَتَعَوَّذُ مِنْ جَهْدِ الْبَلاَءِ، وَدَرَكِ الشَّقَاءِ، وَسُوءِ الْقَضَاءِ، وَشَمَاتَةِ الأَعْدَاءِ‏.‏ قَالَ سُفْيَانُ الْحَدِيثُ ثَلاَثٌ زِدْتُ أَنَا وَاحِدَةً، لاَ أَدْرِي أَيَّتُهُنَّ هِيَ‏.‏",
+                "headingArabic": "التَّعَوُّذِ مِنْ جَهْدِ الْبَلاَءِ",
+                "headingUrdu": "کسی آفت سے اللہ کی پناہ مانگنا",
+                "headingEnglish": "To seek refuge with Allah from a calamity",
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6087,
+                "hadithNumber": "6348",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "When Allah's Messenger (ﷺ) was healthy, he used to say, \"No prophet dies till he is shown his place in Paradise, and then he is given the option (to live or die).\" So when death approached him(during his illness), and while his head was on my thigh, he became unconscious for a while, and when he recovered, he fixed his eyes on the ceiling and said, \"O Allah! (Let me join) the Highest Companions (see Qur'an 4:69),\" I said, \"So, he does not choose us.\" Then I realized that it was the application of the statement he used to relate to us when he was healthy. So that was his last utterance (before he died), i.e. \"O Allah! (Let me join) the Highest Companions.\"",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم جب بیمار نہیں تھے تو فرمایا کرتے تھے کہ جب بھی کسی نبی کی روح قبض کی جاتی تو پہلے جنت میں اس کا ٹھکانا دکھا دیا جاتا ہے ، اس کے بعد اسے اختیار دیا جاتا ہے ( کہ چاہیں دنیا میں رہیں یا جنت میں چلیں ) چنانچہ جب آنحضرت صلی اللہ علیہ وسلم بیمار ہوئے اور سرمبارک میری ران پر تھا ۔ اس وقت آپ پر تھوڑی دیر کے لئے غشی طاری ہوئی ۔ پھر جب آپ کو اس سے کچھ ہوش ہوا تو چھت کی طرف ٹکٹکی باندھ کر دیکھنے لگے ، پھر فرمایااللهم الرفيق الأعلى ” اے اللہ ! رفیق اعلیٰ کے ساتھ ملا دے ۔ “ میں نے سمجھ لیا کہ آنحضرت صلی اللہ علیہ وسلم اب ہمیں اختیار نہیں کر سکتے ۔ میں سمجھ گئی کہ جو بات آنحضرت صلی اللہ علیہ وسلم صحت کے زمانے میں بیان فرمایا کرتے تھے ، یہ وہی بات ہے ۔ بیان کیا کہ یہ آنحضرت صلی اللہ علیہ وسلم کا آخری کلمہ تھا جو آپ نے زبان سے ادا فرمایا کہاللهم الرفيق الأعلى ” اے اللہ ! رفیق اعلیٰ کے ساتھ ملا دے ۔",
+                "urduNarrator": "ہم سے سعید بن عفیر نے بیان کیا ، کہا کہ مجھ سے لیث بن سعد نے بیان کیا ، کہا کہ مجھ سے عقیل نے ، ان سے ابن شہاب نے ، انہیں سعید بن مسیب اور عروہ بن زبیر نے بہت سے علم والوں کے سامنے خبر دی کہ عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا سَعِيدُ بْنُ عُفَيْرٍ، قَالَ حَدَّثَنِي اللَّيْثُ، قَالَ حَدَّثَنِي عُقَيْلٌ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، وَعُرْوَةُ بْنُ الزُّبَيْرِ، فِي رِجَالٍ مِنْ أَهْلِ الْعِلْمِ أَنَّ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقُولُ وَهْوَ صَحِيحٌ ‏\"‏ لَنْ يُقْبَضَ نَبِيٌّ قَطُّ حَتَّى يَرَى مَقْعَدَهُ مِنَ الْجَنَّةِ ثُمَّ يُخَيَّرُ ‏\"‏‏.‏ فَلَمَّا نَزَلَ بِهِ وَرَأْسُهُ عَلَى فَخِذِي، غُشِيَ عَلَيْهِ سَاعَةً، ثُمَّ أَفَاقَ فَأَشْخَصَ بَصَرَهُ إِلَى السَّقْفِ ثُمَّ قَالَ ‏\"‏ اللَّهُمَّ الرَّفِيقَ الأَعْلَى ‏\"‏‏.‏ قُلْتُ إِذًا لاَ يَخْتَارُنَا، وَعَلِمْتُ أَنَّهُ الْحَدِيثُ الَّذِي كَانَ يُحَدِّثُنَا، وَهْوَ صَحِيحٌ‏.‏ قَالَتْ فَكَانَتْ تِلْكَ آخِرَ كَلِمَةٍ تَكَلَّمَ بِهَا ‏\"‏ اللَّهُمَّ الرَّفِيقَ الأَعْلَى ‏\"‏‏.‏",
+                "headingArabic": "دُعَاءِ النَّبِيِّ صلى الله عليه وسلم ‏\"‏ اللَّهُمَّ الرَّفِيقَ الأَعْلَى ‏\"‏‏.‏",
+                "headingUrdu": "رسول اللہ صلی اللہ علیہ وسلم کی دعا \"اے اللہ! سب سے اعلیٰ صحابی\"",
+                "headingEnglish": "The invocation of the Prophet (saws) \"O Allah! The Highest Companion\"",
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6088,
+                "hadithNumber": "6349",
+                "englishNarrator": "Narrated Qais:",
+                "hadithEnglish": "I came to Khabbab رضی اللہ عنہ who had been branded with seven brands(1) and he said, \"Had Allah's Messenger (ﷺ) not forbidden us to invoke (Allah) for death, I would have invoked (Allah) for it.\"",
+                "hadithUrdu": "میں خباب بن ارت رضی اللہ عنہ کی خدمت میں حاضر ہوا انہوں نے سات داغ ( کسی بیماری کے علاج کے لئے ) لگوائے تھے ۔ انہوں نے کہا کہ رسول اللہ صلی اللہ علیہ وسلم نے اگر ہمیں موت کی دعا کرنے سے منع نہ کیا ہوتا تو میں ضرور اس کی دعا کرتا ۔",
+                "urduNarrator": "ہم سے مسدد بن مسرہد نے بیان کیا ، کہا ہم سے یحییٰ بن سعید قطان نے بیان کیا ، ان سے اسماعیل بن ابی خالد نے بیان کیا ، ان سے قیس بن ابی حازم نے بیان کیا ، کہاکہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ إِسْمَاعِيلَ، عَنْ قَيْسٍ، قَالَ أَتَيْتُ خَبَّابًا وَقَدِ اكْتَوَى سَبْعًا قَالَ لَوْلاَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَانَا أَنْ نَدْعُوَ بِالْمَوْتِ لَدَعَوْتُ بِهِ‏.‏",
+                "headingArabic": "الدُّعَاءِ بِالْمَوْتِ وَالْحَيَاةِ",
+                "headingUrdu": "موت یا زندگی کی دعوت",
+                "headingEnglish": "The invocation for death or life",
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6089,
+                "hadithNumber": "6350",
+                "englishNarrator": "Narrated Qais:",
+                "hadithEnglish": "I came to Khabbab رضی اللہ عنہ who had been branded with seven brands over his `Abdomen, and I heard him saying, \"If the Prophet: had not forbidden us to invoke (Allah) for death, I would have invoked Allah for it.\"",
+                "hadithUrdu": "میں خباب بن ارت رضی اللہ عنہ کی خدمت میں حاضر ہوا انہوں نے اپنے پیٹ پر سات داغ لگوا رکھے تھے ، میں نے سنا کہ وہ کہہ رہے تھے کہ اگر نبی کریم صلی اللہ علیہ وسلم نے ہمیں موت کی دعا کرنے سے منع نہ کیا ہوتا تو میں اس کی ضرور دعا کر لیتا ۔",
+                "urduNarrator": "ہم سے محمد بن مثنیٰ نے بیان کیا ، کہا ہم سے یحییٰ قطان نے بیان کیا ، ان سے اسماعیل بن ابی خالد نے بیان کیا ، ان سے قیس بن ابی حازم نے بیان کیا ، کہاکہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى، عَنْ إِسْمَاعِيلَ، قَالَ حَدَّثَنِي قَيْسٌ، قَالَ أَتَيْتُ خَبَّابًا وَقَدِ اكْتَوَى سَبْعًا فِي بَطْنِهِ فَسَمِعْتُهُ يَقُولُ لَوْلاَ أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَانَا أَنْ نَدْعُوَ بِالْمَوْتِ لَدَعَوْتُ بِهِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6090,
+                "hadithNumber": "6351",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said,\" None of you should long for death because of a calamity that had befallen him, and if he cannot, but long for death, then he should say, 'O Allah! Let me live as long as life is better for me, and take my life if death is better for me.' \"",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم نے فرمایا تم میں سے کوئی شخص کسی تکلیف کی وجہ سے جو اسے ہونے لگی ہو ، موت کی تمنا نہ کرے ۔ اگر موت کی تمنا ضروری ہی ہو جائے تو یہ کہے کہ اے اللہ ! جب تک میرے لئے زندگی بہتر ہے مجھے زندہ رکھیو اور جب میرے لئے موت بہتر ہو تو مجھے اٹھا لیجیو ۔ “",
+                "urduNarrator": "ہم سے محمد بن سلام نے بیان کیا ، انہوں نے کہا ہم کو اسماعیل بن علیہ نے خبر دی ، انہوں نے کہا ہمیں عبد العزیز بن صہیب نے بتایا اور ان سے حضرت انس رضی اللہ عنہ نے بیان کیاکہ",
+                "hadithArabic": "حَدَّثَنَا ابْنُ سَلاَمٍ، أَخْبَرَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لاَ يَتَمَنَّيَنَّ أَحَدٌ مِنْكُمُ الْمَوْتَ لِضُرٍّ نَزَلَ بِهِ، فَإِنْ كَانَ لاَ بُدَّ مُتَمَنِّيًا لِلْمَوْتِ فَلْيَقُلِ اللَّهُمَّ أَحْيِنِي مَا كَانَتِ الْحَيَاةُ خَيْرًا لِي، وَتَوَفَّنِي إِذَا كَانَتِ الْوَفَاةُ خَيْرًا لِي ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6091,
+                "hadithNumber": "6352",
+                "englishNarrator": "Narrated As-Sa'ib bin Yazid رضی اللہ عنہ :",
+                "hadithEnglish": "My aunt took me to Allah's Messenger (ﷺ) and said, \"O Allah's Messenger (ﷺ)! My sister's son is sick.\" So he passed his hand over my head and invoked for Allah's blessing upon me and then performed the ablution. I drank from the water of his ablution and I stood behind him and looked at his Khatam (the seal of Prophethood) between his shoulders (and its size was) like the button of a tent.",
+                "hadithUrdu": "میری خالہ مجھے لے کر رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئیں اور عرض کیا یا رسول اللہ ! میرا یہ بھانجا بیمار ہے ۔ چنانچہ آنحضرت صلی اللہ علیہ وسلم نے میرے سر پر ہاتھ پھیرا اور میرے لئے برکت کی دعا کی ۔ پھر آپ نے وضو کیا اور میں نے آپ کے وضو کا پانی پیا ۔ اس کے بعد میں آپ کی پشت کی طرف کھڑا ہو گیا اور میں نے مہر نبوت دیکھی جو دونوں شانوں کے درمیان میں تھی جیسے چھپر کھٹ کی گھنڈی ہوتی ہے یا حجلہ کا انڈہ ۔",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا ، کہا ہم سے حاتم بن اسماعیل نے بیان کیا ، ان سے جعد بن عبد الرحمان نے بیان کیا کہ میں نے حضرت سائب بن یزید رضی اللہ عنہ سے سنا ، انہوں نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا حَاتِمٌ، عَنِ الْجَعْدِ بْنِ عَبْدِ الرَّحْمَنِ، قَالَ سَمِعْتُ السَّائِبَ بْنَ يَزِيدَ، يَقُولُ ذَهَبَتْ بِي خَالَتِي إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَتْ يَا رَسُولَ اللَّهِ إِنَّ ابْنَ أُخْتِي وَجِعٌ‏.‏ فَمَسَحَ رَأْسِي، وَدَعَا لِي بِالْبَرَكَةِ، ثُمَّ تَوَضَّأَ فَشَرِبْتُ مِنْ وَضُوئِهِ، ثُمَّ قُمْتُ خَلْفَ ظَهْرِهِ، فَنَظَرْتُ إِلَى خَاتَمِهِ بَيْنَ كَتِفَيْهِ مِثْلَ زِرِّ الْحَجَلَةِ‏.‏",
+                "headingArabic": "الدُّعَاءِ لِلصِّبْيَانِ بِالْبَرَكَةِ وَمَسْحِ رُءُوسِهِمْ",
+                "headingUrdu": "اولاد پر اللہ کی رحمتیں مانگنا",
+                "headingEnglish": "To invoke for Allah's Blessings upon the children",
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6092,
+                "hadithNumber": "6353",
+                "englishNarrator": "Narrated Abu `Aqil:",
+                "hadithEnglish": "His grandfather. `Abdullah bin Hisham رضی اللہ عنہ used to take him from the market or to the market (the narrator is in doubt) and used to buy grain and when Ibn Az-Zubair and Ibn `Umar رضی اللہ عنہم met him, they would say to him, \"Let us be your partners (in trading) as the Prophet (ﷺ) invoked for Allah's blessing upon you.\" He would then take them as partners and he would Sometimes gain a whole load carried by an animal which he would send home.",
+                "hadithUrdu": "انہیں ان کے دادا عبداللہ بن ہشام رضی اللہ عنہ ساتھ لے کر بازار سے نکلتے یا بازار جاتے اور کھانے کی کوئی چیز خرید تے ، پھر اگر عبداللہ بن زبیر یا عبداللہ بن عمر رضی اللہ عنہم کی ان سے ملاقات ہو جاتی تو وہ کہتے کہ ہمیں بھی اس میں شریک کیجئے کہ رسول اللہ صلی اللہ علیہ وسلم نے آپ کے لئے برکت کی دعا فرمائی تھی ۔ بعض دفعہ تو ایک اونٹ کے بوجھ کا پورا غلہ نفع میں آ جاتا اور وہ اسے گھر بھیج دیتے تھے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف تنیسی نے بیان کیا ، کہا ہم سے عبداللہ بن وہب نے بیان کیا ، کہا ہم سے سعید بن ابی ایوب نے بیان کیا ، ان سے ابوعقیل ( زہرہ بن معبد ) نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، حَدَّثَنَا ابْنُ وَهْبٍ، حَدَّثَنَا سَعِيدُ بْنُ أَبِي أَيُّوبَ، عَنْ أَبِي عَقِيلٍ، أَنَّهُ كَانَ يَخْرُجُ بِهِ جَدُّهُ عَبْدُ اللَّهِ بْنُ هِشَامٍ مِنَ السُّوقِ أَوْ إِلَى السُّوقِ فَيَشْتَرِي الطَّعَامَ، فَيَلْقَاهُ ابْنُ الزُّبَيْرِ وَابْنُ عُمَرَ فَيَقُولاَنِ أَشْرِكْنَا فَإِنَّ النَّبِيَّ صلى الله عليه وسلم قَدْ دَعَا لَكَ بِالْبَرَكَةِ‏.‏ فَرُبَّمَا أَصَابَ الرَّاحِلَةَ كَمَا هِيَ، فَيَبْعَثُ بِهَا إِلَى الْمَنْزِلِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6093,
+                "hadithNumber": "6354",
+                "englishNarrator": "Narrated Mahmud bin Ar-Rabi رضی اللہ عنہ :",
+                "hadithEnglish": "On whose face Allah's Messenger (ﷺ) had thrown water from his mouth, the water having been taken from their well while he was still a young boy (who has not yet attained the age of puberty).",
+                "hadithUrdu": "یہ محمود وہ بزرگ ہیں جن کے منہ میں رسول اللہ صلی اللہ علیہ وسلم نے جس وقت وہ بچے تھے ، انہیں کے کنوئیں سے پانی لے کر کلی کر لی تھی ۔",
+                "urduNarrator": "ہم سے عبد العزیز بن عبداللہ اویسی نے بیان کیا ، کہا ہم سے ابراہیم بن سعد نے بیان کیا ، ان سے صالح بن کیسان نے ، ان سے ابن شہاب نے بیان کیا ، انہیں محمود بن ربیع رضی اللہ عنہ نے خبر دی",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنْ صَالِحِ بْنِ كَيْسَانَ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي مَحْمُودُ بْنُ الرَّبِيعِ، وَهُوَ الَّذِي مَجَّ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي وَجْهِهِ وَهْوَ غُلاَمٌ مِنْ بِئْرِهِمْ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6094,
+                "hadithNumber": "6355",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "The boys used to be brought to the Prophet (ﷺ) and he used to invoke for Allah's blessing upon them. Once an infant was brought to him and it urinated on his clothes. He asked for water and poured it over the place of the urine and did not wash his clothes.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم کے پاس بچوں کو لایا جاتا تو آپ ان کے لئے دعا کرتے تھے ۔ ایک مرتبہ ایک بچہ لایا گیا اور اس نے آپ کے کپڑے پر پیشاب کر دیا ۔ پھر آنحضرت صلی اللہ علیہ وسلم نے پانی منگایا اور پیشاب کی جگہ پر اسے ڈالا ۔ کپڑے کو دھویا نہیں ۔",
+                "urduNarrator": "ہم سے عبدان نے بیان کیا ، کہا ہم کو عبداللہ بن مبارک نے خبر دی ، کہا ہم کو ہشام بن عروہ نے خبر دی ، انہیں ان کے والد نے اور ان سے عائشہ رضی اللہ عنہا نے بیان کیاکہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدَانُ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ كَانَ النَّبِيُّ صلى الله عليه وسلم يُؤْتَى بِالصِّبْيَانِ فَيَدْعُو لَهُمْ، فَأُتِيَ بِصَبِيٍّ فَبَالَ عَلَى ثَوْبِهِ، فَدَعَا بِمَاءٍ فَأَتْبَعَهُ إِيَّاهُ، وَلَمْ يَغْسِلْهُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6095,
+                "hadithNumber": "6356",
+                "englishNarrator": "Narrated `Abdullah bin Tha`laba bin Su'air رضی اللہ عنہ :",
+                "hadithEnglish": "whose eye Allah's Messenger (ﷺ) had touched, that he had seen Sa`d bin Abi Waqqas رضی اللہ عنہ offering one rak`a only for the witr prayer.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ان کی آنکھ یا منہ پر ہاتھ پھیرا تھا ۔ انہوں نے حضرت سعد بن ابی وقاص رضی اللہ عنہ کو ایک رکعت وتر نماز پڑھتے دیکھا تھا ۔",
+                "urduNarrator": "ہم سے ابو الیمان نے بیان کیا ، انہوں نے کہا ہم کو شعیب نے خبر دی ، انہیں زہری نے ، کہا کہ مجھے عبداللہ بن ثعلبہ بن صعیر رضی اللہ عنہ نے خبردی",
+                "hadithArabic": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي عَبْدُ اللَّهُ بْنُ ثَعْلَبَةَ بْنِ صُعَيْرٍ ـ وَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم قَدْ مَسَحَ عَنْهُ ـ أَنَّهُ رَأَى سَعْدَ بْنَ أَبِي وَقَّاصٍ يُوتِرُ بِرَكْعَةٍ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6096,
+                "hadithNumber": "6357",
+                "englishNarrator": "Narrated Ka`b bin 'Ujra رضی اللہ عنہ :",
+                "hadithEnglish": "I met me and said, \"Shall I give you a present? Once the Prophet (ﷺ) came to us and we said, 'O Allah's Messenger (ﷺ) ! We know how to greet you; but how to send 'Salat' upon you? He said, 'Say: Allahumma Salli ala Muhammadin wa 'ala `Ali Muhammadin, kama sal-laita 'ala all Ibrahima innaka Hamidun Majid. Allahumma barik 'ala Muhammadin wa 'ala all Muhammadin, kama barakta 'ala all Ibrahima, innaka Hamidun Majid.\" O Allah! Bestow blessings on Hadrat Muhammad and Hadrat Muhammad's progeny as you did bestow on Hadrat Ibrahim's progeny. Undoubtedly, You are Praiseworthy and Glorious. O Allah Grant favours on Hadrat Muhammad and Hadrat Muhammad's progeny as You did grant on Hadrat Ibrahim's progeny. Verily, You are Praiseworthy and Glorious.",
+                "hadithUrdu": "میں تمہیں ایک تحفہ نہ دوں ؟ ( یعنی ایک عمدہ حدیث نہ سناؤں ) نبی کریم صلی اللہ علیہ وسلم ہم لو گوں میں تشریف لائے تو ہم نے کہا یا رسول اللہ ! یہ تو ہمیں معلوم ہو گیا ہے کہ ہم آپ کو سلام کس طرح کریں ، لیکن آپ پر درود ہم کس طرح بھیجیں ؟ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ اس طرح کہو ۔ اللهم صل على محمد ، ‏‏‏‏ وعلى آل محمد ، ‏‏‏‏ كما صليت على آل إبراهيم ، ‏‏‏‏ إنك حميد مجيد ، ‏‏‏‏ اللهم بارك على محمد ، ‏‏‏‏ وعلى آل محمد ، ‏‏‏‏ كما باركت على آل إبراهيم ، ‏‏‏‏ إنك حميد مجيد ‏ ” اے اللہ ! محمد ( صلی اللہ علیہ وسلم ) پر اپنی رحمت نازل کر اور آل محمد صلی اللہ علیہ وسلم پر ، جیسا کہ تو نے ابراہیم پر رحمت نازل کی ، بلاشبہ تو تعریف کیا ہوا اور پاک ہے ۔ اے اللہ ! محمد پر اور آل محمد پر بر کت نازل کر جیسا کہ تو نے ابراہیم اور آل ابراہیم پر برکت نازل کی ، بلاشبہ تو تعریف کیا ہوا اور پاک ہے ۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا ، کہا ہم سے شعبہ بن حجاج نے بیان کیا ، کہا ہم سے حکم بن عتبہ نے بیان کیا ، کہا کہ میں نے عبدالرحمٰن بن ابی لیلیٰ سے سنا ، کہا کہ کعب بن عجرہ رضی اللہ عنہ مجھ سے ملے اور کہاکہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا الْحَكَمُ، قَالَ سَمِعْتُ عَبْدَ الرَّحْمَنِ بْنَ أَبِي لَيْلَى، قَالَ لَقِيَنِي كَعْبُ بْنُ عُجْرَةَ فَقَالَ أَلاَ أُهْدِي لَكَ هَدِيَّةً، إِنَّ النَّبِيَّ صلى الله عليه وسلم خَرَجَ عَلَيْنَا فَقُلْنَا يَا رَسُولَ اللَّهِ قَدْ عَلِمْنَا كَيْفَ نُسَلِّمُ عَلَيْكَ، فَكَيْفَ نُصَلِّي عَلَيْكَ قَالَ ‏ \"‏ فَقُولُوا اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ ‏\"‏‏.‏",
+                "headingArabic": "الصَّلاَةِ عَلَى النَّبِيِّ صلى الله عليه وسلم",
+                "headingUrdu": "نبی کریم صلی اللہ علیہ وسلم پر درود بھیجنا",
+                "headingEnglish": "Conveying blessing to the prophet ﷺ",
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6097,
+                "hadithNumber": "6358",
+                "englishNarrator": "Narrated Abu Sa`id Al-Khudri رضی اللہ عنہ :",
+                "hadithEnglish": "We said, \"O Allah's Messenger (ﷺ) This is (i.e. we know) the greeting to you; will you tell us how to send Salat on you?\" He said, \"Say: 'Allahumma Salli 'ala Muhammadin `Abdika wa rasulika kama sal-laita 'ala Ibrahima wa barik 'ala Muhammadin wa all Muhammadin kama barakta 'ala Ibrahima wa `Ali Ibrahim.\" O Allah! Bestow blessings on Hadra Muhammad, Your bondsman and Apostle as You did confer upon Hadrat Ibrahim and confer favours on Hadrat Muhammad as well as Hadrat Muhammad's progeny, as you did bestow on Hadrat Ibrahim Hadrat Ibrahim's progeny.",
+                "hadithUrdu": "ہم نے کہا اے اللہ کے رسول ! آپ کو سلام اس طرح کیا جاتا ہے ، لیکن آپ پر درود کس طرح بھیجا جاتاہے ؟ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ اس طرح کہو اللهم صل على محمد عبدك ورسولك ، ‏‏‏‏ كما صليت على إبراهيم ، ‏‏‏‏ وبارك على محمد وعلى آل محمد ، ‏‏‏‏ كما باركت على إبراهيم وآل إبراهيم اے اللہ ! اپنی رحمت نازل کرحضرت محمد ( صلی اللہ علیہ وسلم ) پر جو تیرے بندے ہیں اور تیرے رسول ہیں جس طرح تو نے رحمت نازل کی ابراہیم پر اور برکت بھیج محمد ( صلی اللہ علیہ وسلم ) پر اور ان کی آل پر جس طرح برکت بھیجی تو نے ابراہم پر اور آل ابراہیم پر ۔",
+                "urduNarrator": "ہم سے ابراہیم بن حمزہ زبیری نے بیان کیا ، انہوں نے کہا ہم سے ابن ابی حازم اور دراوردی نے بیان کیا ، ان سے یزید بن عبداللہ بن اسامہ نے بیان کیا ، ان سے عبداللہ بن خباب نے بیان کیا اور ان سے ابو سعید خدری رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ حَمْزَةَ، حَدَّثَنَا ابْنُ أَبِي حَازِمٍ، وَالدَّرَاوَرْدِيُّ، عَنْ يَزِيدَ، عَنْ عَبْدِ اللَّهِ بْنِ خَبَّابٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ قُلْنَا يَا رَسُولَ اللَّهِ هَذَا السَّلاَمُ عَلَيْكَ، فَكَيْفَ نُصَلِّي قَالَ ‏ \"‏ قُولُوا اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ عَبْدِكَ وَرَسُولِكَ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ، وَبَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَآلِ إِبْرَاهِيمَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6098,
+                "hadithNumber": "6359",
+                "englishNarrator": "Narrated Ibn Abi `Aufa رضی اللہ عنہ :",
+                "hadithEnglish": "Whenever somebody brought alms to the Prophet (ﷺ) the used to say, \"Allahumma Salli 'Alaihi (O Allah! Send Your Salat (Grace and Honor) on him).\" Once when my father brought his alms to him, he said, \"O Allah! Send Your Salat (Grace and Honor) on the family of Abi `Aufa.\"",
+                "hadithUrdu": "جب رسول اللہ صلی اللہ علیہ وسلم کے پاس کوئی شخص اپنی زکوٰۃ لے کر آتا تو آپ فرماتے ” اللهم صل عليه‏ “ ( اے اللہ ! اس پر اپنی رحمت نازل فرما ) میرے والد بھی اپنی زکوٰۃ لے کر آئے تو آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ اے اللہ ! آل ابی اوفی پر اپنی رحمت نازل فرما ۔",
+                "urduNarrator": "ہم سے سلیمان بن حرب نے بیان کیا ، کہا ہم سے شعبہ نے یبان کیا ، ان سے عمرو بن مرہ نے اور ان سے ابن ابی اوفی رضی اللہ عنہ نے بیان کیا",
+                "hadithArabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنِ ابْنِ أَبِي أَوْفَى، قَالَ كَانَ إِذَا أَتَى رَجُلٌ النَّبِيَّ صلى الله عليه وسلم بِصَدَقَتِهِ قَالَ ‏\"‏ اللَّهُمَّ صَلِّ عَلَيْهِ‏\"‏ فَأَتَاهُ أَبِي بِصَدَقَتِهِ فَقَالَ ‏\"‏ اللَّهُمَّ صَلِّ عَلَى آلِ أَبِي أَوْفَى‏\"‏",
+                "headingArabic": "هَلْ يُصَلَّى عَلَى غَيْرِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+                "headingUrdu": "کیا رسول اللہ صلی اللہ علیہ وسلم کے علاوہ کسی پر درود بھیج سکتا ہے؟",
+                "headingEnglish": "Can one send Salat on anybody other than the Prophet (saws)",
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6099,
+                "hadithNumber": "6360",
+                "englishNarrator": "Narrated Abu Humaid As-Saidi رضی اللہ عنہ :",
+                "hadithEnglish": "The people said, \"O Allah's Messenger (ﷺ) ! How may we send Salat on you?\" He said, \"Say: Allahumma Salli 'ala- Muhammadin wa azwajihi wa dhurriyyatihi kama sal-laita 'ala `Ali Ibrahim; wa barik 'ala Muhammadin wa azwajihi wa dhurriyyatihi kamabarakta 'ala `Ali Ibrahim innaka hamidun majid.\" O Allah's Apostle! How should we invoke blessing for you? He said: Say: O Allah Bestow blessing on Hadrat Muhammad, his wives, and his progeny as\r\nYou did confer on Hadrat Ibrahim's progeny. And grant Hadrat Muhammad, his wives and progeny favours as You did grant to Hadrat Ibrahim's progeny. You are, indeed, Praiseworthy and Glorious.",
+                "hadithUrdu": "صحابہ نے عرض کیا یا رسول اللہ ! ہم آپ پر کس طرح درود بھیجیں ؟ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ اس طرح کہو اللهم صل على محمد وأزواجه وذريته ، ‏‏‏‏ كما صليت على آل إبراهيم ، ‏‏‏‏ وبارك على محمد وأزواجه وذريته ، ‏‏‏‏ كما باركت على آل إبراهيم ، ‏‏‏‏ إنك حميد مجيد ” اے اللہ ! محمد اور آپ کی ازواج اور آپ کی اولاد پر اپنی رحمت نازل کر جیسا کہ تو نے ابرہیم اور آل ابراہیم پر رحمت نازل کی اور محمد اور ان کی ازواج اور ان کی اولاد پر برکت نازل کر ، جیسا کہ تو نے ابراہیم اور آل ابراہیم پر برکت نازل کی ۔ بلاشبہ تو تعریف کیا گیا شان وعظمت والا ہے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ قعنبی نے بیان کیا ، ان سے امام مالک نے ، ان سے عبداللہ بن ابی بکر نے ، ان سے ان کے والد نے اور ان سے عمرو بن سلیم زرقی نے بیان کیا کہ ہم کو ابو حمید ساعدی رضی اللہ عنہ نے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ، عَنْ أَبِيهِ، عَنْ عَمْرِو بْنِ سُلَيْمٍ الزُّرَقِيِّ، قَالَ أَخْبَرَنِي أَبُو حُمَيْدٍ السَّاعِدِيُّ، أَنَّهُمْ قَالُوا يَا رَسُولَ اللَّهِ كَيْفَ نُصَلِّي عَلَيْكَ قَالَ ‏ \"‏ قُولُوا اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَأَزْوَاجِهِ وَذُرِّيَّتِهِ، كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ، وَبَارِكْ عَلَى مُحَمَّدٍ وَأَزْوَاجِهِ وَذُرِّيَّتِهِ، كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6100,
+                "hadithNumber": "6361",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "He heard the Prophet (ﷺ) saying, \"O Allah! If I should ever abuse a believer, please let that be a means of bringing him near to You on the Day of Resurrection.\"",
+                "hadithUrdu": "انہوں نے نبی کریم صلی اللہ علیہ وسلم سے سنا ، آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ اے اللہ ! میں نے جس مومن کو بھی برا بھلا کہا ہو تو اس کے لئے اسے قیامت کے دن اپنی قربت کا ذریعہ بنا دے ۔",
+                "urduNarrator": "ہم سے احمد بن صالح نے بیان کیا ، کہا ہم سے عبداللہ بن وہب نے بیان کیا ، کہا کہ مجھے یونس نے خبر دی ، انہیں ابن شہاب نے ، کہا کہ مجھ کو سعید بن مسیب نے خبر دی اور انہیں ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّهُ سَمِعَ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ‏ \"‏ اللَّهُمَّ فَأَيُّمَا مُؤْمِنٍ سَبَبْتُهُ فَاجْعَلْ ذَلِكَ لَهُ قُرْبَةً إِلَيْكَ يَوْمَ الْقِيَامَةِ ‏\"‏‏.‏",
+                "headingArabic": "قَوْلِ النَّبِيِّ صلى الله عليه وسلم ‏{‏مَنْ آذَيْتُهُ فَاجْعَلْهُ لَهُ زَكَاةً وَرَحْمَةً‏}‏",
+                "headingUrdu": "’’اگر میں کسی کو نقصان پہنچاؤں تو اسے اس کے لیے طہارت اور رحمت کا ذریعہ بنا دوں۔‘‘",
+                "headingEnglish": "\"If I should harm somebody, let that be a means of purification and mercy for him.\"",
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6101,
+                "hadithNumber": "6362",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "Once the people started asking Allah's Messenger (ﷺ) questions, and they asked so many questions that he became angry and ascended the pulpit and said, \"I will answer whatever questions you may ask me today.\" I looked right and left and saw everyone covering his face with his garment and weeping. Behold ! There was a man who, on quarreling with the people, used to be called as a son of a person other than h is father. He said, \"O Allah's Messenger (ﷺ)! Who is my father?\" The Prophet (ﷺ) replied, \"Your father is Hudhaifa.\" And then `Umar رضی اللہ عنہ got up and said, \"We accept Allah as our Lord, and Islam as (our) religion, and Muhammad as (our) Apostle; and we seek refuge with Allah from the afflictions.\" Allah's Messenger (ﷺ) said, \" I have never seen a day like today in its good and its evil for Paradise and the Hell Fire were displayed in front of me, till I saw them just beyond this wall.\" Qatada, when relating this Hadith, used to mention the following Verse:-- 'O you who believe! Ask not questions about things which, If made plain to you, May cause you trouble. (5.101)",
+                "hadithUrdu": "صحابہ نے رسول اللہ صلی اللہ علیہ وسلم سے سوا لات کئے اور جب بہت زیادہ کئے تو آنحضرت صلی اللہ علیہ وسلم کو ناگواری ہوئی ، پھر آپ صلی اللہ علیہ وسلم ممبر پر تشریف لائے اور فرمایا ، آج تم مجھ سے جو بات پوچھو گے میں بتاؤں گا ۔ اس وقت میں نے دائیں بائیں دیکھا تو تمام صحابہ سر اپنے کپڑوں میں لپیٹے ہوئے رو رہے تھے ، ایک صاحب جن کا اگر کسی سے جھگڑا ہوتا تو انہیں ان کے باپ کے سوا کسی اور کی طرف ( طعنہ کے طور پر ) منسوب کیا جاتا تھا ۔ انہوں نے پوچھا یا رسول اللہ ! میرے باپ کون ہیں ؟ آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ حذافہ ۔ اس کے بعد عمر رضی اللہ عنہ اٹھے اور عرض کیا ہم اللہ سے راضی ہیں کہ ہمارا رب ہے ، اسلام سے کہ وہ دین ہے ، محمد صلی اللہ علیہ وسلم سے کہ وہ سچے رسول ہیں ، ہم فتنوں سے اللہ کی پناہ مانگتے ہیں ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا ، آج کی طرح خیروشر کے معاملہ میں میں نے کوئی دن نہیں دیکھا ، میرے سامنے جنت اور دوزخ کی تصویر لائی گئی اور میں نے انہیں دیوار کے اوپر دیکھا ۔ قتادہ اس حدیث کو بیان کرتے وقت ( سورۃ المائدہ کی ) اس آیت کا ذکر کیا کرتے تھے ” اے ایمان والو ! ایسی چیزوں کے متعلق نہ سوال کرو کہ اگر تمہارے سامنے ان کا جواب ظاہرہو جائے تو تم کو برا لگے ۔ “",
+                "urduNarrator": "ہم سے حفص بن عمر حوضی نے بیان کیا ، کہا ہم سے ہشام دستوائی نے بیان کیا ، ان سے قتادہ نے اور ان سے انس رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا هِشَامٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ ـ رضى الله عنه سَأَلُوا رَسُولَ اللَّهِ صلى الله عليه وسلم حَتَّى أَحْفَوْهُ الْمَسْأَلَةَ فَغَضِبَ فَصَعِدَ الْمِنْبَرَ فَقَالَ ‏\"‏ لاَ تَسْأَلُونِي الْيَوْمَ عَنْ شَىْءٍ إِلاَّ بَيَّنْتُهُ لَكُمْ ‏\"‏‏.‏ فَجَعَلْتُ أَنْظُرُ يَمِينًا وَشِمَالاً، فَإِذَا كُلُّ رَجُلٍ لاَفٌّ رَأْسَهُ فِي ثَوْبِهِ يَبْكِي، فَإِذَا رَجُلٌ كَانَ إِذَا لاَحَى الرِّجَالَ يُدْعَى لِغَيْرِ أَبِيهِ فَقَالَ يَا رَسُولَ اللَّهِ مَنْ أَبِي قَالَ ‏\"‏ حُذَافَةُ ‏\"‏، ثُمَّ أَنْشَأَ عُمَرُ فَقَالَ رَضِينَا بِاللَّهِ رَبًّا، وَبِالإِسْلاَمِ دِينًا، وَبِمُحَمَّدٍ صلى الله عليه وسلم رَسُولاً، نَعُوذُ بِاللَّهِ مِنَ الْفِتَنِ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ مَا رَأَيْتُ فِي الْخَيْرِ وَالشَّرِّ كَالْيَوْمِ قَطُّ، إِنَّهُ صُوِّرَتْ لِي الْجَنَّةُ وَالنَّارُ حَتَّى رَأَيْتُهُمَا وَرَاءَ الْحَائِطِ ‏\"‏‏.‏ وَكَانَ قَتَادَةُ يَذْكُرُ عِنْدَ الْحَدِيثِ هَذِهِ الآيَةَ ‏{‏يَا أَيُّهَا الَّذِينَ آمَنُوا لاَ تَسْأَلُوا عَنْ أَشْيَاءَ إِنْ تُبْدَ لَكُمْ تَسُؤْكُمْ‏}‏‏.‏",
+                "headingArabic": "التَّعَوُّذِ مِنَ الْفِتَنِ",
+                "headingUrdu": "الفتن سے اللہ کی پناہ مانگنا",
+                "headingEnglish": "To seek refuge with Allah from Al-Fitan",
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 6102,
+                "hadithNumber": "6363",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said to Abu Talha رضی اللہ عنہ , \"Choose one of your boys to serve me.\" So Abu Talha رضی اللہ عنہ took me (to serve the Prophet (ﷺ) ) by giving me a ride behind him (on his camel). So I used to serve Allah's Messenger (ﷺ) whenever he stayed somewhere. I used to hear him saying, \"O Allah! I seek refuge with you (Allah) from (worries) care and grief, from incapacity and laziness, from miserliness and cowardice, from being heavily in debt and from being overpowered by other men.\" I kept on serving him till he returned from (the battle of) Khaibar. He then brought Safiya رضی اللہ عنہا , the daughter of Huyay whom he had got (from the booty). I saw him making a kind of cushion with a cloak or a garment for her. He then let her ride behind him. When we reached a place called As-Sahba', he prepared (a special meal called) Hais, and asked me to invite the men who (came and) ate, and that was the marriage banquet given on the consummation of his marriage to her. Then he proceeded till the mountain of Uhud appeared, whereupon he said, \"This mountain loves us and we love it.\" When he approached Medina, he said, \"O Allah! I make the land between its (i.e., Medina's) two mountains a sanctuary, as the prophet Abraham made Mecca a sanctuary. O Allah! Bless them (the people of Medina) in their Mudd and the Sa' (units of measuring).",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ابوطلحہ رضی اللہ عنہ سے فرمایا اپنے یہاں کے لڑکوں میں سے کوئی بچہ تلاش کر جو میرا کام کر دیا کرے ۔ چنانچہ ابوطلحہ رضی اللہ عنہ مجھے اپنی سواری پر پیچھے بیٹھا کر لے گئے آنحضرت صلی اللہ علیہ وسلم جب بھی گھر ہوتے تو میں آپ کی خدمت کیا کرتا تھا ۔ میں نے سنا کہ آنحضر ت صلی اللہ علیہ وسلم یہ دعا اکثر پڑھا کرتے تھے ” اے اللہ ! میں تیری پناہ مانگتا ہوں غم والم سے ، عاجزی وکمزوری سے اور بخل سے اور بزدلی سے اور قرض کے بوجھ سے اور انسانوں کے غلبہ سے ۔ “ میں آنحضرت صلی اللہ علیہ وسلم کی خدمت کرتا رہا ۔ پھر ہم خیبر سے واپس آئے اور آنحضرت صلی اللہ علیہ وسلم ام المؤمنین صفیہ بنت حیی رضی اللہ عنہا کے ساتھ واپس ہوئے ۔ آنحضرت صلی اللہ علیہ وسلم نے انہیں اپنے لئے منتخب کیا تھا ۔ آنحضرت صلی اللہ علیہ وسلم نے ان کے لئے عبا یا چادر سے پردہ کیا اور انہیں اپنی سواری پر اپنے پیچھے بٹھایا ۔ جب ہم مقام صہبا پہنچے تو آپ نے ایک چرمی دسترخوان پر کچھ مالیدہ تیار کرا کے رکھوایا پھر مجھے بھیجا اور میں کچھ صحابہ کو بلا لایا اور سب نے اسے کھایا ، یہ آپ کی دعوت ولیمہ تھی ۔ اس کے بعد آپ آگے بڑھے اور احد پہاڑ دکھائی دیا ۔ آنحضرت صلی اللہ علیہ وسلم نے فرمایا یہ پہاڑ ہم سے محبت کرتا ہے اور ہم اس سے محبت کرتے ہیں ۔ آپ جب مدینہ منورہ پہنچے تو فرمایا ” اے اللہ ! میں اس شہر کے دونوں پہاڑو ں کے درمیانی علاقہ کو اس طرح حرمت والا قرار دیتا ہوں جس طرح ابراہیم علیہ السلام نے مکہ کو حرمت والا قرار دیا تھا ۔ اے اللہ ! یہاں والوں کے مد میں اور ان کے صاع میں برکت عطا فرما ۔ “",
+                "urduNarrator": "ہم سے قتیبہ بن سعید نے بیان کیا ، کہا ہم سے اسماعیل بن جعفر نے بیان کیا ، ان سے عمرو بن ابی عمرو ، مطلب بن عبداللہ بن حنطب کے غلام نے بیان کیا ، انہوں نے انس بن مالک رضی اللہ عنہ سے سنا ، انہوں نے بیان کیاکہ",
+                "hadithArabic": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، عَنْ عَمْرِو بْنِ أَبِي عَمْرٍو، مَوْلَى الْمُطَّلِبِ بْنِ عَبْدِ اللَّهِ بْنِ حَنْطَبٍ أَنَّهُ سَمِعَ أَنَسَ بْنَ مَالِكٍ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم لأَبِي طَلْحَةَ ‏\"‏ الْتَمِسْ لَنَا غُلاَمًا مِنْ غِلْمَانِكُمْ يَخْدُمُنِي ‏\"‏‏.‏ فَخَرَجَ بِي أَبُو طَلْحَةَ يُرْدِفُنِي وَرَاءَهُ، فَكُنْتُ أَخْدُمُ رَسُولَ اللَّهِ صلى الله عليه وسلم كُلَّمَا نَزَلَ، فَكُنْتُ أَسْمَعُهُ يُكْثِرُ أَنْ يَقُولَ ‏\"‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ، وَالْبُخْلِ وَالْجُبْنِ، وَضَلَعِ الدَّيْنِ، وَغَلَبَةِ الرِّجَالِ ‏\"‏‏.‏ فَلَمْ أَزَلْ أَخْدُمُهُ حَتَّى أَقْبَلْنَا مِنْ خَيْبَرَ، وَأَقْبَلَ بِصَفِيَّةَ بِنْتِ حُيَىٍّ قَدْ حَازَهَا، فَكُنْتُ أَرَاهُ يُحَوِّي وَرَاءَهُ بِعَبَاءَةٍ أَوْ كِسَاءٍ ثُمَّ يُرْدِفُهَا وَرَاءَهُ حَتَّى إِذَا كُنَّا بِالصَّهْبَاءِ صَنَعَ حَيْسًا فِي نِطَعٍ، ثُمَّ أَرْسَلَنِي فَدَعَوْتُ رِجَالاً فَأَكَلُوا، وَكَانَ ذَلِكَ بِنَاءَهُ بِهَا، ثُمَّ أَقْبَلَ حَتَّى بَدَا لَهُ أُحُدٌ قَالَ ‏\"‏ هَذَا جُبَيْلٌ يُحِبُّنَا وَنُحِبُّهُ ‏\"‏‏.‏ فَلَمَّا أَشْرَفَ عَلَى الْمَدِينَةِ قَالَ ‏\"‏ اللَّهُمَّ إِنِّي أُحَرِّمُ مَا بَيْنَ جَبَلَيْهَا مِثْلَ مَا حَرَّمَ بِهِ إِبْرَاهِيمُ مَكَّةَ، اللَّهُمَّ بَارِكْ لَهُمْ فِي مُدِّهِمْ وَصَاعِهِمْ ‏\"‏‏.‏",
+                "headingArabic": "التَّعَوُّذِ مِنْ غَلَبَةِ الرِّجَالِ",
+                "headingUrdu": "غلبہ پانے سے اللہ کی پناہ مانگنا",
+                "headingEnglish": "To seek refuge with Allah from being overpowered",
+                "chapterId": "81",
+                "bookSlug": "sahih-bukhari",
+                "volume": "8",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 81,
+                    "chapterNumber": "81",
+                    "chapterEnglish": "Invocations",
+                    "chapterUrdu": "دعاؤں کے بیان میں",
+                    "chapterArabic": "كتاب الدعوات",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 6076,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=243",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=241",
+                "label": "241",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=242",
+                "label": "242",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=243",
+                "label": "243",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=244",
+                "label": "244",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=245",
+                "label": "245",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=246",
+                "label": "246",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=247",
+                "label": "247",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=245",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=245",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=243",
+        "to": 6100,
+        "total": 40465
+    }
+}

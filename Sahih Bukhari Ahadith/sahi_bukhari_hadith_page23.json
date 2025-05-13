@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 23,
+        "data": [
+            {
+                "id": 551,
+                "hadithNumber": "564",
+                "englishNarrator": "Narrated `Abdullah رضی اللہ عنہما :",
+                "hadithEnglish": "\"One night Allah's Messenger (ﷺ) led us in the `Isha' prayer and that is the one called Al-`Atma [??] by the people. After the completion of the prayer, he faced us and said, \"Do you know the importance of this night? Nobody present on the surface of the earth tonight will be living after one hundred years from this night.\" (See Hadith No. 575).",
+                "hadithUrdu": "ایک رات نبی کریم صلی اللہ علیہ وسلم نے ہمیں عشاء کی نماز پڑھائی ۔ یہی جسے لوگ «عتمه» کہتے ہیں ۔ پھر ہمیں خطاب کرتے ہوئے فرمایا کہ تم اس رات کو یاد رکھنا ۔ آج جو لوگ زندہ ہیں ایک سو سال کے گزرنے تک روئے زمین پر ان میں سے کوئی بھی باقی نہیں رہے گا ۔",
+                "urduNarrator": "ہم سے عبدان عبداللہ بن عثمان نے بیان کیا ، انھوں نے کہا ہمیں عبداللہ بن مبارک نے خبر دی ، انھوں نے کہا ہمیں یونس بن یزید نے خبر دی زہری سے کہ سالم نے یہ کہا کہ مجھے ( میرے باپ ) عبداللہ بن عمر رضی اللہ عنہما نے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدَانُ، قَالَ أَخْبَرَنَا عَبْدُ اللَّهِ، قَالَ أَخْبَرَنَا يُونُسُ، عَنِ الزُّهْرِيِّ، قَالَ سَالِمٌ أَخْبَرَنِي عَبْدُ اللَّهِ، قَالَ صَلَّى لَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم لَيْلَةً صَلاَةَ الْعِشَاءِ ـ وَهْىَ الَّتِي يَدْعُو النَّاسُ الْعَتَمَةَ ـ ثُمَّ انْصَرَفَ فَأَقْبَلَ عَلَيْنَا فَقَالَ ‏ \"‏ أَرَأَيْتُمْ لَيْلَتَكُمْ هَذِهِ فَإِنَّ رَأْسَ مِائَةِ سَنَةٍ مِنْهَا لاَ يَبْقَى مِمَّنْ هُوَ عَلَى ظَهْرِ الأَرْضِ أَحَدٌ ‏\"‏‏.‏",
+                "headingArabic": "ذِكْرِ الْعِشَاءِ وَالْعَتَمَةِ وَمَنْ رَآهُ وَاسِعًا",
+                "headingUrdu": "عشاء اور عطمہ کا ذکر اور جس نے بھی دو نام لیے وہ ایک ہی ہے۔",
+                "headingEnglish": "The mention of 'Isha' and 'Atama and whoever took the two names as one and the same",
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 552,
+                "hadithNumber": "565",
+                "englishNarrator": "Narrated Muhammad bin `Amr:",
+                "hadithEnglish": "We asked Jabir bin `Abdullah about the prayers of the Prophet (ﷺ) . He said, \"He used to pray Zuhr prayer at midday, the `Asr when the sun was still hot, and the Maghrib after sunset (at its stated time). The `Isha was offered early if the people gathered, and used to be delayed if their number was less; and the morning prayer was offered when it was still dark. \"",
+                "hadithUrdu": "ہم نے جابر بن عبداللہ رضی اللہ عنہما سے نبی کریم صلی اللہ علیہ وسلم کی نماز کے بارے میں دریافت کیا ۔ تو آپ نے فرمایا کہ آپ نماز ظہر دوپہر میں پڑھتے تھے ۔ اور جب نماز عصر پڑھتے تو سورج صاف روشن ہوتا ۔ مغرب کی نماز واجب ہوتے ہی ادا فرماتے ، اور ’’ عشاء ‘‘ میں اگر لوگ جلدی جمع ہو جاتے تو جلدی پڑھ لیتے اور اگر آنے والوں کی تعداد کم ہوتی تو دیر کرتے ۔ اور صبح کی نماز منہ اندھیرے میں پڑھا کرتے تھے ۔",
+                "urduNarrator": "ہم سے مسلم بن ابراہیم نے بیان کیا ، کہا ہم سے شعبہ حجاج نے سعد بن ابراہیم سے بیان کیا ، وہ محمد بن عمرو سے جو حسن بن علی بن ابی طالب کے بیٹے ہیں ، فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو ـ هُوَ ابْنُ الْحَسَنِ بْنِ عَلِيٍّ ـ قَالَ سَأَلْنَا جَابِرَ بْنَ عَبْدِ اللَّهِ عَنْ صَلاَةِ النَّبِيِّ، صلى الله عليه وسلم فَقَالَ كَانَ يُصَلِّي الظُّهْرَ بِالْهَاجِرَةِ، وَالْعَصْرَ وَالشَّمْسُ حَيَّةٌ، وَالْمَغْرِبَ إِذَا وَجَبَتْ، وَالْعِشَاءَ إِذَا كَثُرَ النَّاسُ عَجَّلَ، وَإِذَا قَلُّوا أَخَّرَ، وَالصُّبْحَ بِغَلَسٍ‏.‏",
+                "headingArabic": "وَقْتِ الْعِشَاءِ إِذَا اجْتَمَعَ النَّاسُ أَوْ تَأَخَّرُوا",
+                "headingUrdu": "عشاء کی نماز کا وقت۔ اگر لوگ اکٹھے ہو جائیں (پہلے نماز پڑھیں) اور اگر دیر سے آئیں (تاخیر کریں)",
+                "headingEnglish": "The time of the Isha prayer. If the people get together (pray earlier), and if they come late (delay it)",
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 553,
+                "hadithNumber": "566",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) once delayed the `Isha' prayer and that was during the days when Islam still had not spread. The Prophet (ﷺ) did not come out till `Umar رضی اللہ عنہ informed him that the women and children had slept. Then he came out and said to the people of the mosque: \"None amongst the dwellers of the earth has been waiting for it (`Isha prayer) except you.\"",
+                "hadithUrdu": "ایک رات رسول کریم صلی اللہ علیہ وسلم نے عشاء کی نماز دیر سے پڑھی ۔ یہ اسلام کے پھیلنے سے پہلے کا واقعہ ہے ۔ آپ صلی اللہ علیہ وسلم اس وقت تک باہر تشریف نہیں لائے جب تک حضرت عمر رضی اللہ عنہ نے یہ نہ فرمایا کہ عورتیں اور بچے سو گئے ۔ پس آپ صلی اللہ علیہ وسلم تشریف لائے اور فرمایا کہ تمہارے علاوہ دنیا میں کوئی بھی انسان اس نماز کا انتظار نہیں کرتا ۔",
+                "urduNarrator": "ہم سے یحییٰ بن بکیر نے بیان کیا ، انھوں نے کہا ہم سے لیث بن سعد نے عقیل کے واسطے سے بیان کیا ، انھوں نے ابن شہاب سے ، انھوں نے عروہ سے کہ عائشہ رضی اللہ عنہا نے انہیں خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، أَنَّ عَائِشَةَ، أَخْبَرَتْهُ قَالَتْ، أَعْتَمَ رَسُولُ اللَّهِ صلى الله عليه وسلم لَيْلَةً بِالْعِشَاءِ، وَذَلِكَ قَبْلَ أَنْ يَفْشُوَ الإِسْلاَمُ، فَلَمْ يَخْرُجْ حَتَّى قَالَ عُمَرُ نَامَ النِّسَاءُ وَالصِّبْيَانُ‏.‏ فَخَرَجَ فَقَالَ لأَهْلِ الْمَسْجِدِ ‏ \"‏ مَا يَنْتَظِرُهَا أَحَدٌ مِنْ أَهْلِ الأَرْضِ غَيْرُكُمْ ‏\"‏‏.‏",
+                "headingArabic": "فَضْلِ الْعِشَاءِ",
+                "headingUrdu": "عشاء کی نماز کی فضیلت",
+                "headingEnglish": "Superiority of the 'Isha prayer",
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 554,
+                "hadithNumber": "567",
+                "englishNarrator": "Narrated Abu Musa رضی اللہ عنہ :",
+                "hadithEnglish": "My companions, who came with me in the boat and I landed at a place called Baqi [??] Buthan [??] . The Prophet (ﷺ) was in Medina at that time. One of us used to go to the Prophet (ﷺ) by turns every night at the time of the `Isha prayer. Once I along with my companions went to the Prophet (ﷺ) and he was busy in some of his affairs, so the `Isha' prayer was delayed to the middle of the night He then came out and led the people (in prayer). After finishing from the prayer, he addressed the people present there saying, \"Be patient! Don't go away. Have the glad tiding. It is from the blessing of Allah upon you that none amongst mankind has prayed at this time save you.\" Or said, \"None except you has prayed at this time.\" Abu Musa added, 'So we returned happily after what we heard from Allah's Messenger (ﷺ) .\"",
+                "hadithUrdu": "میں نے اپنے ان ساتھیوں کے ساتھ جو کشتی میں میرے ساتھ ( حبشہ سے ) آئے تھے ’’ بقیع بطحان ‘‘ میں قیام کیا ۔ اس وقت نبی کریم صلی اللہ علیہ وسلم مدینہ میں تشریف رکھتے تھے ۔ ہم میں سے کوئی نہ کوئی عشاء کی نماز میں روزانہ باری مقرر کر کے نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوا کرتا تھا ۔ اتفاق سے میں اور میرے ایک ساتھی ایک مرتبہ آپ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے ۔ آپ صلی اللہ علیہ وسلم اپنے کسی کام میں مشغول تھے ۔ ( کسی ملی معاملہ میں آپ صلی اللہ علیہ وسلم اور حضرت ابوبکر صدیق رضی اللہ عنہ گفتگو فرما رہے تھے ) جس کی وجہ سے نماز میں دیر ہو گئی اور تقریباً آدھی رات گزر گئی ۔ پھر نبی کریم صلی اللہ علیہ وسلم تشریف لائے اور نماز پڑھائی ۔ نماز پوری کر چکے تو حاضرین سے فرمایا کہ اپنی اپنی جگہ پر وقار کے ساتھ بیٹھے رہو اور ایک خوشخبری سنو ۔ تمہارے سوا دنیا میں کوئی بھی ایسا آدمی نہیں جو اس وقت نماز پڑھتا ہو ، یا آپ صلی اللہ علیہ وسلم نے یہ فرمایا کہ تمہارے سوا اس وقت کسی ( امت ) نے بھی نماز نہیں پڑھی تھی ۔ یہ یقین نہیں کہ آپ نے ان دو جملوں میں سے کون سا جملہ کہا تھا ۔ پھر راوی نے کہا کہ ابوموسیٰ رضی اللہ عنہ نے فرمایا ۔ پس ہم نبی کریم صلی اللہ علیہ وسلم سے یہ سن کر بہت ہی خوش ہو کر لوٹے ۔",
+                "urduNarrator": "ہم سے محمد بن علاء نے بیان کیا کہا ہم سے ابواسامہ نے برید کے واسطہ سے ، انھوں نے ابربردہ سے انھوں نے حضرت ابوموسیٰ اشعری رضی اللہ عنہ سے ، آپ نے فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، قَالَ أَخْبَرَنَا أَبُو أُسَامَةَ، عَنْ بُرَيْدٍ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، قَالَ كُنْتُ أَنَا وَأَصْحَابِي الَّذِينَ، قَدِمُوا مَعِي فِي السَّفِينَةِ نُزُولاً فِي بَقِيعِ بُطْحَانَ، وَالنَّبِيُّ صلى الله عليه وسلم بِالْمَدِينَةِ، فَكَانَ يَتَنَاوَبُ النَّبِيَّ صلى الله عليه وسلم عِنْدَ صَلاَةِ الْعِشَاءِ كُلَّ لَيْلَةٍ نَفَرٌ مِنْهُمْ، فَوَافَقْنَا النَّبِيَّ ـ عليه السلام ـ أَنَا وَأَصْحَابِي وَلَهُ بَعْضُ الشُّغْلِ فِي بَعْضِ أَمْرِهِ فَأَعْتَمَ بِالصَّلاَةِ حَتَّى ابْهَارَّ اللَّيْلُ، ثُمَّ خَرَجَ النَّبِيُّ صلى الله عليه وسلم فَصَلَّى بِهِمْ، فَلَمَّا قَضَى صَلاَتَهُ قَالَ لِمَنْ حَضَرَهُ ‏\"‏ عَلَى رِسْلِكُمْ، أَبْشِرُوا إِنَّ مِنْ نِعْمَةِ اللَّهِ عَلَيْكُمْ أَنَّهُ لَيْسَ أَحَدٌ مِنَ النَّاسِ يُصَلِّي هَذِهِ السَّاعَةَ غَيْرُكُمْ ‏\"‏‏.‏ أَوْ قَالَ ‏\"‏ مَا صَلَّى هَذِهِ السَّاعَةَ أَحَدٌ غَيْرُكُمْ ‏\"‏‏.‏ لاَ يَدْرِي أَىَّ الْكَلِمَتَيْنِ قَالَ‏.‏ قَالَ أَبُو مُوسَى فَرَجَعْنَا فَفَرِحْنَا بِمَا سَمِعْنَا مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 555,
+                "hadithNumber": "568",
+                "englishNarrator": "Narrated Abu Barza رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) disliked to sleep before the `Isha' prayer and to talk after it.",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم عشاء سے پہلے سونے اور اس کے بعد بات چیت کرنے کو ناپسند فرماتے تھے ۔",
+                "urduNarrator": "ہم سے محمد بن سلام نے بیان کیا ، انھوں نے کہا ہم سے عبدالوہاب ثقفی نے بیان کیا ، انھوں نے کہا کہ ہم سے خالد حذاء نے بیان کیا ابوالمنہال سے ، انھوں نے ابوبرزہ اسلمی رضی اللہ عنہ سے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سَلاَمٍ، قَالَ أَخْبَرَنَا عَبْدُ الْوَهَّابِ الثَّقَفِيُّ، قَالَ حَدَّثَنَا خَالِدٌ الْحَذَّاءُ، عَنْ أَبِي الْمِنْهَالِ، عَنْ أَبِي بَرْزَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَكْرَهُ النَّوْمَ قَبْلَ الْعِشَاءِ وَالْحَدِيثَ بَعْدَهَا‏.‏",
+                "headingArabic": "مَا يُكْرَهُ مِنَ النَّوْمِ قَبْلَ الْعِشَاءِ",
+                "headingUrdu": "عشاء کی نماز سے پہلے سونا کیا ناپسندیدہ ہے؟",
+                "headingEnglish": "What is disliked about sleeping before the 'Isha prayer",
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 556,
+                "hadithNumber": "569",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "\"Once Allah's Messenger (ﷺ) delayed the `Isha' prayer till `Umar رضی اللہ عنہ reminded him by saying, \"The prayer!\" The women and children have slept. Then the Prophet (ﷺ) came out and said, 'None amongst the dwellers of the earth has been waiting for it (the prayer) except you.\" `Urwa said, \"Nowhere except in Medina the prayer used to be offered (in those days).\" He further said, \"The Prophet (ﷺ) used to offer the `Isha' prayer in the period between the disappearance of the twilight and the end of the first third of the night.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے ایک دفعہ عشاء کی نماز میں دیر فرمائی ۔ یہاں تک کہ عمر رضی اللہ عنہ نے پکارا ، نماز ! عورتیں اور بچے سب سو گئے ۔ تب آپ صلی اللہ علیہ وسلم گھر سے باہر تشریف لائے ، آپ صلی اللہ علیہ وسلم نے فرمایا کہ روئے زمین پر تمہارے علاوہ اور کوئی اس نماز کا انتظار نہیں کرتا ۔ راوی نے کہا ، اس وقت یہ نماز ( باجماعت ) مدینہ کے سوا اور کہیں نہیں پڑھی جاتی تھی ۔ صحابہ اس نماز کو شام کی سرخی کے غائب ہونے کے بعد رات کے پہلے تہائی حصہ تک ( کسی وقت بھی ) پڑھتے تھے ۔",
+                "urduNarrator": "ہم سے ایوب بن سلیمان نے بیان کیا ، کہا ہم سے ابوبکرنے سلیمان سے ، ان سے صالح بن کیسان نے بیان کیا کہ مجھے ابن شہاب نے عروہ سے خبر دی کہ حضرت عائشہ رضی اللہ عنہا نے بتلایا کہ",
+                "hadithArabic": "حَدَّثَنَا أَيُّوبُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنِي أَبُو بَكْرٍ، عَنْ سُلَيْمَانَ، قَالَ صَالِحُ بْنُ كَيْسَانَ أَخْبَرَنِي ابْنُ شِهَابٍ، عَنْ عُرْوَةَ، أَنَّ عَائِشَةَ، قَالَتْ أَعْتَمَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِالْعِشَاءِ حَتَّى نَادَاهُ عُمَرُ الصَّلاَةَ، نَامَ النِّسَاءُ وَالصِّبْيَانُ‏.‏ فَخَرَجَ فَقَالَ ‏ \"‏ مَا يَنْتَظِرُهَا أَحَدٌ مِنْ أَهْلِ الأَرْضِ غَيْرُكُمْ ‏\"‏‏.‏ قَالَ وَلاَ يُصَلَّى يَوْمَئِذٍ إِلاَّ بِالْمَدِينَةِ، وَكَانُوا يُصَلُّونَ فِيمَا بَيْنَ أَنْ يَغِيبَ الشَّفَقُ إِلَى ثُلُثِ اللَّيْلِ الأَوَّلِ‏.‏",
+                "headingArabic": "النَّوْمِ قَبْلَ الْعِشَاءِ لِمَنْ غُلِبَ",
+                "headingUrdu": "عشاء کی نماز سے پہلے سونا اگر (کوئی) اس سے مغلوب ہو (نیند)",
+                "headingEnglish": "Sleeping before the 'Isha prayer if (one is) over-whelmed by it (sleep)",
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 557,
+                "hadithNumber": "570, 571",
+                "englishNarrator": "Narrated `Abdullah bin `Uma رضی اللہ عنہما :",
+                "hadithEnglish": "\"Once Allah's Messenger (ﷺ) was busy (at the time of the `Isha'), so the prayer was delayed so much so that we slept and woke up and slept and woke up again. The Prophet (ﷺ) came out and said, 'None amongst the dwellers of the earth but you have been waiting for the prayer.\" Ibn `Umar رضی اللہ عنہما did not find any harm in praying it earlier or in delaying it unless he was afraid that sleep might overwhelm him and he might miss the prayer, and sometimes he used to sleep before the `Isha' prayer. Ibn Juraij said, \"I said to `Ata' , 'I heard Ibn `Abbas saying: Once Allah's Messenger (ﷺ) delayed the `Isha' prayer to such an extent that the people slept and got up and slept again and got up again. Then `Umar bin Al-Khattab I, stood up and reminded the Prophet (ﷺ) I of the prayer.' `Ata' said, 'Ibn `Abbas said: The Prophet came out as if I was looking at him at this time, and water was trickling from his head and he was putting his hand on his head and then said, 'Hadn't I thought it hard for my followers, I would have ordered them to pray (`Isha' prayer) at this time.' I asked `Ata' for further information, how the Prophet had kept his hand on his head as he was told by Ibn `Abbas رضی اللہ عنہما . `Ata' separated his fingers slightly and put their tips on the side of the head, brought the fingers downwards approximating them till the thumb touched the lobe of the ear at the side of the temple and the beard on the face. He neither slowed nor hurried in this action but he acted like that. The Prophet (ﷺ) said: \"Hadn't I thought it hard for my followers I would have ordered them to pray at this time.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم ایک رات کسی کام میں مشغول ہو گئے اور بہت دیر کی ۔ ہم ( نماز کے انتظار میں بیٹھے ہوئے ) مسجد ہی میں سو گئے ، پھر ہم بیدار ہوئے ، پھر ہم سو گئے ، پھر ہم بیدار ہوئے ۔ پھر نبی کریم صلی اللہ علیہ وسلم گھر سے باہر تشریف لائے اور فرمایا کہ دنیا کا کوئی شخص بھی تمہارے سوا اس نماز کا انتظار نہیں کرتا ۔ اگر نیند کا غلبہ نہ ہوتا تو ابن عمر رضی اللہ عنہما عشاء کو پہلے پڑھنے یا بعد میں پڑھنے کو کوئی اہمیت نہیں دیتے تھے ۔ کبھی نماز عشاء سے پہلے آپ سو بھی لیتے تھے ۔ ابن جریج نے کہا میں نے عطاء سے معلوم کیا ۔میں نے حضرت عبداللہ بن عباس رضی اللہ عنہما سے سنا تھا کہ نبی کریم صلی اللہ علیہ وسلم نے ایک رات عشاء کی نماز میں دیر کی جس کے نتیجہ میں لوگ ( مسجد ہی میں ) سو گئے ۔ پھر بیدار ہوئے پھر سو گئے ‘ پھر بیدار ہوئے ۔ آخر میں عمر بن خطاب رضی اللہ عنہ اٹھے اور پکارا ’’ نماز ‘‘ عطاء نے کہا کہ ابن عباس رضی اللہ عنہما نے بتلایا کہ اس کے بعد نبی کریم صلی اللہ علیہ وسلم گھر سے تشریف لائے ۔ وہ منظر میری نگاہوں کے سامنے ہے جب کہ آپ صلی اللہ علیہ وسلم کے سرمبارک سے پانی کے قطرے ٹپک رہے تھے اور آپ ہاتھ سر پر رکھے ہوئے تھے ۔ آپ نے فرمایا کہ اگر میری امت کے لیے مشکل نہ ہو جاتی ، تو میں انہیں حکم دیتا کہ عشاء کی نماز کو اسی وقت پڑھیں ۔ میں نے عطاء سے مزید تحقیق چاہی کہ نبی کریم صلی اللہ علیہ وسلم کے ہاتھ سر پر رکھنے کی کیفیت کیا تھی ؟ ابن عباس رضی اللہ عنہما نے انہیں اس سلسلے میں کس طرح خبر دی تھی ۔ اس پر حضرت عطاء نے اپنے ہاتھ کی انگلیاں تھوڑی سی کھول دیں اور انہیں سر کے ایک کنارے پر رکھا پھر انہیں ملا کر یوں سر پر پھیرنے لگے کہ ان کا انگوٹھا کان کے اس کنارے سے جو چہرے سے قریب ہے اور داڑھی سے جا لگا ۔ نہ سستی کی اور نہ جلدی ، بلکہ اس طرح کیا اور کہا کہ پھر آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ اگر میری امت پر مشکل نہ گزرتی تو میں حکم دیتا کہ اس نماز کو اسی وقت پڑھا کریں ۔",
+                "urduNarrator": "ہم سے محمود نے بیان کیا ، انھوں نے کہا ہم سے عبدالرزاق نے بیان کیا ، انھوں نے کہا ہمیں ابن جریج نے خبر دی ، انھوں نے کہا کہ مجھے نافع نے خبر دی ، انھوں نے کہا مجھے عبداللہ بن عمر رضی اللہ عنہما نے خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا مَحْمُودٌ، قَالَ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، قَالَ أَخْبَرَنِي ابْنُ جُرَيْجٍ، قَالَ أَخْبَرَنِي نَافِعٌ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم شُغِلَ عَنْهَا لَيْلَةً، فَأَخَّرَهَا حَتَّى رَقَدْنَا فِي الْمَسْجِدِ، ثُمَّ اسْتَيْقَظْنَا ثُمَّ رَقَدْنَا ثُمَّ اسْتَيْقَظْنَا، ثُمَّ خَرَجَ عَلَيْنَا النَّبِيُّ صلى الله عليه وسلم ثُمَّ قَالَ ‏\"‏ لَيْسَ أَحَدٌ مِنْ أَهْلِ الأَرْضِ يَنْتَظِرُ الصَّلاَةَ غَيْرُكُمْ ‏\"‏‏.‏ وَكَانَ ابْنُ عُمَرَ لاَ يُبَالِي أَقَدَّمَهَا أَمْ أَخَّرَهَا إِذَا كَانَ لاَ يَخْشَى أَنْ يَغْلِبَهُ النَّوْمُ عَنْ وَقْتِهَا، وَكَانَ يَرْقُدُ قَبْلَهَا‏.‏ قَالَ ابْنُ جُرَيْجٍ قُلْتُ لِعَطَاءٍ وَقَالَ سَمِعْتُ ابْنَ عَبَّاسٍ، يَقُولُ أَعْتَمَ رَسُولُ اللَّهِ صلى الله عليه وسلم لَيْلَةً بِالْعِشَاءِ حَتَّى رَقَدَ النَّاسُ وَاسْتَيْقَظُوا، وَرَقَدُوا وَاسْتَيْقَظُوا، فَقَامَ عُمَرُ بْنُ الْخَطَّابِ فَقَالَ الصَّلاَةَ‏.‏ قَالَ عَطَاءٌ قَالَ ابْنُ عَبَّاسٍ فَخَرَجَ نَبِيُّ اللَّهِ صلى الله عليه وسلم كَأَنِّي أَنْظُرُ إِلَيْهِ الآنَ، يَقْطُرُ رَأْسُهُ مَاءً، وَاضِعًا يَدَهُ عَلَى رَأْسِهِ فَقَالَ ‏\"‏ لَوْلاَ أَنْ أَشُقَّ عَلَى أُمَّتِي لأَمَرْتُهُمْ أَنْ يُصَلُّوهَا هَكَذَا ‏\"‏‏.‏ فَاسْتَثْبَتُّ عَطَاءً كَيْفَ وَضَعَ النَّبِيُّ صلى الله عليه وسلم عَلَى رَأْسِهِ يَدَهُ كَمَا أَنْبَأَهُ ابْنُ عَبَّاسٍ، فَبَدَّدَ لِي عَطَاءٌ بَيْنَ أَصَابِعِهِ شَيْئًا مِنْ تَبْدِيدٍ، ثُمَّ وَضَعَ أَطْرَافَ أَصَابِعِهِ عَلَى قَرْنِ الرَّأْسِ ثُمَّ ضَمَّهَا، يُمِرُّهَا كَذَلِكَ عَلَى الرَّأْسِ حَتَّى مَسَّتْ إِبْهَامُهُ طَرَفَ الأُذُنِ مِمَّا يَلِي الْوَجْهَ عَلَى الصُّدْغِ، وَنَاحِيَةِ اللِّحْيَةِ، لاَ يُقَصِّرُ وَلاَ يَبْطُشُ إِلاَّ كَذَلِكَ وَقَالَ ‏\"‏ لَوْلاَ أَنْ أَشُقَّ عَلَى أُمَّتِي لأَمَرْتُهُمْ أَنْ يُصَلُّوا هَكَذَا.",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 558,
+                "hadithNumber": "572",
+                "englishNarrator": "Narrated Anas رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) delayed the `Isha' prayer till midnight and then he offered the prayer and said, \"The people prayed and slept but you have been in prayer as long as you have been waiting for it (the prayer).\" \r\nAnas added: As if I am looking now at the glitter of the ring of the Prophet (ﷺ) on that night.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے ( ایک دن ) عشاء کی نماز آدھی رات گئے پڑھی ۔ اور فرمایا کہ دوسرے لوگ نماز پڑھ کر سو گئے ہوں گے ۔ ( یعنی دوسری مساجد میں پڑھنے والے مسلمان ) اور تم لوگ جب تک نماز کا انتظار کرتے رہے ( گویا سارے وقت ) نماز ہی پڑھتے رہے ۔\r\n ابن مریم نے اس میں یہ زیادہ کیا کہ ہمیں یحییٰ بن ایوب نے خبر دی ۔ کہا مجھ سے حمید طویل نے بیان کیا ، انھوں نے حضرت انس رضی اللہ عنہ سے یہ سنا ، گویا اس رات آپ کی انگوٹھی کی چمک کا نقشہ اس وقت بھی میری نظروں کے سامنے چمک رہا ہے ۔",
+                "urduNarrator": "ہم سے عبدالرحیم محاربی نے بیان کیا ، کہا ہم سے زائدہ نے حمید طویل سے ، انھوں نے حضرت انس رضی اللہ عنہ سے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ الرَّحِيمِ الْمُحَارِبِيُّ، قَالَ حَدَّثَنَا زَائِدَةُ، عَنْ حُمَيْدٍ الطَّوِيلِ، عَنْ أَنَسٍ، قَالَ أَخَّرَ النَّبِيُّ صلى الله عليه وسلم صَلاَةَ الْعِشَاءِ إِلَى نِصْفِ اللَّيْلِ، ثُمَّ صَلَّى ثُمَّ قَالَ ‏ \"‏ قَدْ صَلَّى النَّاسُ وَنَامُوا، أَمَا إِنَّكُمْ فِي صَلاَةٍ مَا انْتَظَرْتُمُوهَا ‏\"‏‏.‏ وَزَادَ ابْنُ أَبِي مَرْيَمَ أَخْبَرَنَا يَحْيَى بْنُ أَيُّوبَ حَدَّثَنِي حُمَيْدٌ سَمِعَ أَنَسًا كَأَنِّي أَنْظُرُ إِلَى وَبِيصِ خَاتَمِهِ لَيْلَتَئِذٍ‏.‏",
+                "headingArabic": "وَقْتِ الْعِشَاءِ إِلَى نِصْفِ اللَّيْلِ",
+                "headingUrdu": "عشاء کی نماز کا وقت آدھی رات تک ہے۔",
+                "headingEnglish": "Time of the 'Isha prayer is up to the middle of the night",
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 559,
+                "hadithNumber": "573",
+                "englishNarrator": "Narrated Jarir bin `Abdullah:",
+                "hadithEnglish": "We were with the Prophet (ﷺ) on a full moon night. He looked at the moon and said, \"You will certainly see your Lord as you see this moon, and there will be no trouble in seeing Him. So if you can avoid missing (through sleep, business, etc.) a prayer before the rising of the sun (Fajr) and before its setting (`Asr) you must do so. \r\nHe (the Prophet (ﷺ) ) then recited the following verse: \r\n   ''. . . And celebrate the praises Of Your Lord before The rising of the sun And before (its) setting.\" (50.39)",
+                "hadithUrdu": "ہم نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر تھے آپ صلی اللہ علیہ وسلم نے چاند کی طرف نظر اٹھائی جو چودھویں رات کا تھا ۔ پھر فرمایا کہ تم لوگ بے ٹوک اپنے رب کو اسی طرح دیکھو گے جیسے اس چاند کو دیکھ رہے ہو ( اسے دیکھنے میں تم کو کسی قسم کی بھی مزاحمت نہ ہو گی ) یا یہ فرمایا کہ تمہیں اس کے دیدار میں مطلق شبہ نہ ہو گا اس لیے اگر تم سے سورج کے طلوع اور غروب سے پہلے ( فجر اور عصر ) کی نمازوں کے پڑھنے میں کوتاہی نہ ہو سکے تو ایسا ضرور کرو ۔ ( کیونکہ ان ہی کے طفیل دیدار الٰہی نصیب ہو گا یا ان ہی وقتوں میں یہ رویت ملے گی ) پھر آپ صلی اللہ علیہ وسلم نے یہ آیت تلاوت فرمائی «فسبح بحمد ربك قبل طلوع الشمس وقبل غروبها» ’’ پس اپنے رب کے حمد کی تسبیح پڑھ سورج کے نکلنے اور اس کے غروب ہونے سے پہلے ۔ ‘‘ امام ابوعبداللہ بخاری رحمہ اللہ علیہ نے کہا کہ ابن شہاب نے اسماعیل کے واسطہ سے جو قیس سے بواسطہ جریر ( راوی ہیں ) یہ زیادتی نقل کی کہ آنحضرت صلی اللہ علیہ وسلم نے فرمایا ’’ تم اپنے رب کو صاف دیکھو گے ‘‘ ۔",
+                "urduNarrator": "ہم سے مسدد نے بیان کیا ، کہا ہم سے یحییٰ نے اسماعیل سے ، کہا ہم سے قیس نے بیان کیا ، کہا مجھ سے جریر بن عبداللہ نے بیان کیا ، کہ",
+                "hadithArabic": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ إِسْمَاعِيلَ، حَدَّثَنَا قَيْسٌ، قَالَ لِي جَرِيرُ بْنُ عَبْدِ اللَّهِ كُنَّا عِنْدَ النَّبِيِّ صلى الله عليه وسلم إِذْ نَظَرَ إِلَى الْقَمَرِ لَيْلَةَ الْبَدْرِ فَقَالَ ‏\"‏ أَمَا إِنَّكُمْ سَتَرَوْنَ رَبَّكُمْ كَمَا تَرَوْنَ هَذَا، لاَ تُضَامُّونَ ـ أَوْ لاَ تُضَاهُونَ ـ فِي رُؤْيَتِهِ، فَإِنِ اسْتَطَعْتُمْ أَنْ لاَ تُغْلَبُوا عَلَى صَلاَةٍ قَبْلَ طُلُوعِ الشَّمْسِ، وَقَبْلَ غُرُوبِهَا فَافْعَلُوا ‏\"‏‏.‏ ثُمَّ قَالَ ‏\"‏ فَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا ‏\"‏‏.‏",
+                "headingArabic": "فَضْلِ صَلاَةِ الْفَجْرِ",
+                "headingUrdu": "فجر (صبح) کی نماز کی فضیلت",
+                "headingEnglish": "Superiority of the Fajr (early morning) prayer",
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 560,
+                "hadithNumber": "574",
+                "englishNarrator": "Narrated Abu Bakr bin Abi Musa:",
+                "hadithEnglish": "My father said, \"Allah's Messenger (ﷺ) said, 'Whoever prays the two cool prayers (`Asr and Fajr) will go to Paradise.' \"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ جس نے ٹھنڈے وقت کی دو نمازیں ( وقت پر ) پڑھیں ( فجر اور عصر ) تو وہ جنت میں داخل ہو گا ۔ ابن رجاء نے کہا کہ ہم سے ہمام نے ابوجمرہ سے بیان کیا کہ ابوبکر بن عبداللہ بن قیس رضی اللہ عنہ نے انہیں اس حدیث کی خبر دی ۔ ہم سے اسحاق نے بیان کیا ، کہا ہم سے حبان نے ، انھوں نے کہا کہ ہم سے ہمام نے بیان کیا ، کہا ہم سے ابوجمرہ نے بیان کیا ابوبکر بن عبداللہ رضی اللہ عنہ سے ، انھوں نے اپنے والد سے ، انھوں نے نبی کریم صلی اللہ علیہ وسلم سے ، پہلی حدیث کی طرح ۔",
+                "urduNarrator": "ہم سے ہدبہ بن خالد نے بیان کیا ، کہا ہم سے ہمام نے ، انھوں نے کہا کہ ہم سے ابوجمرہ نے بیان کیا ، ابوبکر بن ابی موسیٰ اشعری رضی اللہ عنہ سے ، انھوں نے اپنے باپ سے کہ",
+                "hadithArabic": "حَدَّثَنَا هُدْبَةُ بْنُ خَالِدٍ، قَالَ حَدَّثَنَا هَمَّامٌ، حَدَّثَنِي أَبُو جَمْرَةَ، عَنْ أَبِي بَكْرِ بْنِ أَبِي مُوسَى، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ صَلَّى الْبَرْدَيْنِ دَخَلَ الْجَنَّةَ ‏\"‏‏.‏ وَقَالَ ابْنُ رَجَاءٍ حَدَّثَنَا هَمَّامٌ عَنْ أَبِي جَمْرَةَ أَنَّ أَبَا بَكْرِ بْنَ عَبْدِ اللَّهِ بْنِ قَيْسٍ أَخْبَرَهُ بِهَذَا‏.‏ حَدَّثَنَا إِسْحَاقُ، عَنْ حَبَّانَ، حَدَّثَنَا هَمَّامٌ، حَدَّثَنَا أَبُو جَمْرَةَ، عَنْ أَبِي بَكْرِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم مِثْلَهُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 561,
+                "hadithNumber": "575",
+                "englishNarrator": "Narrated Zaid bin Thabit رضی اللہ عنہ :",
+                "hadithEnglish": "\"We took the \"Suhur\" (the meal taken before dawn while fasting is observed) with the Prophet (ﷺ) and then stood up for the (morning) prayer.\" I asked him how long the interval between the two (Suhur and prayer) was. He replied, 'The interval between the two was just sufficient to recite fifty to Sixth 'Ayat.\"",
+                "hadithUrdu": "ان لوگوں نے ( ایک مرتبہ ) نبی کریم صلی اللہ علیہ وسلم کے ساتھ سحری کھائی ، پھر نماز کے لیے کھڑے ہو گئے ۔ میں نے دریافت کیا کہ ان دونوں کے درمیان کس قدر فاصلہ رہا ہو گا ۔ فرمایا کہ جتنا پچاس یا ساٹھ آیت پڑھنے میں صرف ہوتا ہے اتنا فاصلہ تھا ۔",
+                "urduNarrator": "ہم سے عمرو بن عاصم نے یہ حدیث بیان کی ، کہا ہم سے ہمام نے یہ حدیث بیان کی قتادہ سے ، انھوں نے انس رضی اللہ عنہ سے کہ یزید بن ثابت رضی اللہ عنہ نے ان سے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَمْرُو بْنُ عَاصِمٍ، قَالَ حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، أَنَّ زَيْدَ بْنَ ثَابِتٍ، حَدَّثَهُ أَنَّهُمْ، تَسَحَّرُوا مَعَ النَّبِيِّ صلى الله عليه وسلم ثُمَّ قَامُوا إِلَى الصَّلاَةِ‏.‏ قُلْتُ كَمْ بَيْنَهُمَا قَالَ قَدْرُ خَمْسِينَ أَوْ سِتِّينَ ـ يَعْنِي آيَةً ـ ح‏.‏",
+                "headingArabic": "وَقْتِ الْفَجْرِ",
+                "headingUrdu": "فجر (صبح کی) نماز کا وقت",
+                "headingEnglish": "Time of the Fajr (early morning) prayer",
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 562,
+                "hadithNumber": "576",
+                "englishNarrator": "Narrated Anas bin Malik رضی اللہ عنہ :",
+                "hadithEnglish": "\"The Prophet (ﷺ) and Zaid bin Thabit took the 'Suhur' together and after finishing the meal, the Prophet (ﷺ) stood up and prayed (Fajr prayer).\" I asked Anas رضی اللہ عنہ , \"How long was the interval between finishing their 'Suhur' and starting the prayer?\" He replied, \"The interval between the two was just sufficient to recite fifty 'Ayat.\" (Verses of the Qur'an).",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم اور زید بن ثابت رضی اللہ عنہ نے سحری کھائی ، پھر جب وہ سحری کھا کر فارغ ہوئے تو نماز کے لیے اٹھے اور نماز پڑھی ۔ ہم نے انس رضی اللہ عنہ سے پوچھا کہ آپ کی سحری سے فراغت اور نماز کی ابتداء میں کتنا فاصلہ تھا ؟ انھوں نے فرمایا کہ اتنا کہ ایک شخص پچاس آیتیں پڑھ سکے ۔",
+                "urduNarrator": "ہم سے حسن بن صباح نے یہ حدیث بیان کی ، انھوں نے روح بن عبادہ سے سنا ، انھوں نے کہا ہم سے سعید نے بیان کیا ، انھوں نے قتادہ سے روایت کیا ، انھوں نے انس بن مالک رضی اللہ عنہ سے کہ",
+                "hadithArabic": "حَدَّثَنَا حَسَنُ بْنُ صَبَّاحٍ، سَمِعَ رَوْحًا، حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم وَزَيْدَ بْنَ ثَابِتٍ تَسَحَّرَا، فَلَمَّا فَرَغَا مِنْ سَحُورِهِمَا قَامَ نَبِيُّ اللَّهِ صلى الله عليه وسلم إِلَى الصَّلاَةِ فَصَلَّى‏.‏ قُلْنَا لأَنَسٍ كَمْ كَانَ بَيْنَ فَرَاغِهِمَا مِنْ سَحُورِهِمَا وَدُخُولِهِمَا فِي الصَّلاَةِ قَالَ قَدْرُ مَا يَقْرَأُ الرَّجُلُ خَمْسِينَ آيَةً‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 563,
+                "hadithNumber": "577",
+                "englishNarrator": "Narrated Sahl bin Sa`d رضی اللہ عنہ :",
+                "hadithEnglish": "I used to take the \"Suhur\" meal with my family and hasten so as to catch the Fajr (morning prayer) with Allah's Messenger (ﷺ).",
+                "hadithUrdu": "میں اپنے گھر سحری کھاتا ، پھر نبی کریم صلی اللہ علیہ وسلم کے ساتھ نماز فجر پانے کے لیے مجھے جلدی کرنی پڑتی تھی ۔",
+                "urduNarrator": "ہم سے اسماعیل بن ابی اویس نے بیان کیا اپنے بھائی عبدالحمید بن ابی اویس سے ، انھوں نے سلیمان بن بلال سے ، انھوں نے ابی حازم سلمہ بن دینار سے کہ انھوں نے سہل بن سعد رضی اللہ عنہ صحابی سے سنا ۔ آپ نے فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي أُوَيْسٍ، عَنْ أَخِيهِ، عَنْ سُلَيْمَانَ، عَنْ أَبِي حَازِمٍ، أَنَّهُ سَمِعَ سَهْلَ بْنَ سَعْدٍ، يَقُولُ كُنْتُ أَتَسَحَّرُ فِي أَهْلِي ثُمَّ يَكُونُ سُرْعَةٌ بِي أَنْ أُدْرِكَ صَلاَةَ الْفَجْرِ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 564,
+                "hadithNumber": "578",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "The believing women covered with their veiling sheets used to attend the Fajr prayer with Allah's Apostle, and after finishing the prayer they would return to their home and nobody could recognize them because of darkness.",
+                "hadithUrdu": "مسلمان عورتیں رسول اللہ صلی اللہ علیہ وسلم کے ساتھ نماز فجر پڑھنے چادروں میں لپٹ کر آتی تھیں ۔ پھر نماز سے فارغ ہو کر جب اپنے گھروں کو واپس ہوتیں تو انہیں اندھیرے کی وجہ سے کوئی شخص پہچان نہیں سکتا تھا ۔",
+                "urduNarrator": "ہم سے یحییٰ بن بکیر نے بیان کیا ، انھوں نے کہا ہمیں لیث نے خبر دی ، انھوں نے عقیل بن خالد سے ، انھوں نے ابن شہاب سے ، انھوں نے کہا کہ مجھے عروہ بن زبیر رضی اللہ عنہ نے خبر دی کہ ام المؤمنین حضرت عائشہ رضی اللہ عنہا نے انہیں خبر دی کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، قَالَ أَخْبَرَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي عُرْوَةُ بْنُ الزُّبَيْرِ، أَنَّ عَائِشَةَ، أَخْبَرَتْهُ قَالَتْ، كُنَّ نِسَاءُ الْمُؤْمِنَاتِ يَشْهَدْنَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم صَلاَةَ الْفَجْرِ مُتَلَفِّعَاتٍ بِمُرُوطِهِنَّ، ثُمَّ يَنْقَلِبْنَ إِلَى بُيُوتِهِنَّ حِينَ يَقْضِينَ الصَّلاَةَ، لاَ يَعْرِفُهُنَّ أَحَدٌ مِنَ الْغَلَسِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 565,
+                "hadithNumber": "579",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"Whoever could get one rak`a (of the Fajr prayer) before sunrise, he has got the (morning) prayer and whoever could get one rak`a of the `Asr prayer before sunset, he has got the (`Asr) prayer.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ جس نے فجر کی ایک رکعت ( جماعت کے ساتھ ) سورج نکلنے سے پہلے پا لی اس نے فجر کی نماز ( باجماعت کا ثواب ) پا لیا ۔ اور جس نے عصر کی ایک رکعت ( جماعت کے ساتھ ) سورج ڈوبنے سے پہلے پا لی ، اس نے عصر کی نماز ( باجماعت کا ثواب ) پا لیا ۔",
+                "urduNarrator": "ہم سے عبداللہ بن مسلمہ قعنبی نے بیان کیا امام مالک سے ، انھوں نے زید بن اسلم سے ، انھوں نے عطاء بن یسار اور بسر بن سعید اور عبدالرحمٰن بن ہرمز اعرج سے ، ان تینوں نے ابوہریرہ رضی اللہ عنہ کے واسطے سے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، وَعَنْ بُسْرِ بْنِ سَعِيدٍ، وَعَنِ الأَعْرَجِ، يُحَدِّثُونَهُ عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ أَدْرَكَ مِنَ الصُّبْحِ رَكْعَةً قَبْلَ أَنْ تَطْلُعَ الشَّمْسُ فَقَدْ أَدْرَكَ الصُّبْحَ، وَمَنْ أَدْرَكَ رَكْعَةً مِنَ الْعَصْرِ قَبْلَ أَنْ تَغْرُبَ الشَّمْسُ فَقَدْ أَدْرَكَ الْعَصْرَ ‏\"‏‏.‏",
+                "headingArabic": "مَنْ أَدْرَكَ مِنَ الْفَجْرِ رَكْعَةً",
+                "headingUrdu": "جس کو فجر کی نماز کی ایک رکعت (وقت پر) مل جائے (یا پڑھ سکے)۔ [ایک رکعت کا مطلب ہے ایک کھڑا ہونا، ایک رکوع اور دو سجدے]۔",
+                "headingEnglish": "Whoever got (or was able to offer) one Rak'a of the Fajr prayer (in time). [One Rak'a means, one standing, one bowing, and two prostrations].",
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 566,
+                "hadithNumber": "580",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"Whoever could get one rak`a of a prayer, (in its proper time) he has got the prayer.\"",
+                "hadithUrdu": "رسول کریم صلی اللہ علیہ وسلم نے فرمایا کہ جس نے ایک رکعت نماز ( باجماعت ) پا لی اس نے نماز ( باجماعت کا ثواب ) پا لیا ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف تنیسی نے بیان کیا ، کہا ہم سے امام مالک نے ابن شہاب سے ، انھوں نے ابوسلمہ بن عبدالرحمٰن بن عوف رضی اللہ عنہ سے انھوں نے حضرت ابوہریرہ رضی اللہ عنہ سے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ أَدْرَكَ رَكْعَةً مِنَ الصَّلاَةِ فَقَدْ أَدْرَكَ الصَّلاَةَ ‏\"‏‏.‏",
+                "headingArabic": "مَنْ أَدْرَكَ مِنَ الصَّلاَةِ رَكْعَةً",
+                "headingUrdu": "جس کو نماز کی ایک رکعت (وقت پر) مل گئی",
+                "headingEnglish": "Whoever got (or was able to offer) one Rak'a of a prayer (in time)",
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 567,
+                "hadithNumber": "581",
+                "englishNarrator": "Narrated `Umar:",
+                "hadithEnglish": "\"The Prophet (ﷺ) forbade praying after the Fajr prayer till the sun rises and after the `Asr prayer till the sun sets.\" Narrated Ibn `Abbas: Some people told me the same narration (as above).",
+                "hadithUrdu": "میرے سامنے چند معتبر حضرات نے گواہی دی ، جن میں سب سے زیادہ معتبر میرے نزدیک حضرت عمر رضی اللہ عنہ تھے ، کہ نبی کریم صلی اللہ علیہ وسلم نے فجر کی نماز کے بعد سورج بلند ہونے تک اور عصر کی نماز کے بعد سورج ڈوبنے تک نماز پڑھنے سے منع فرمایا ۔ \r\nہم سے مسدد بن مسرہد نے بیان کیا ، کہا ہم سے یحییٰ بن سعید قطان نے شعبہ سے ، انھوں نے قتادہ سے کہ میں نے ابوالعالیہ سے سنا ، وہ ابن عباس رضی اللہ عنہما سے بیان کرتے تھے کہ انھوں نے فرمایا کہ مجھ سے چند لوگوں نے یہ حدیث بیان کی ۔ ( جو پہلے ذکر ہوئی ) ۔",
+                "urduNarrator": "ہم سے حفص بن عمر نے بیان کیا ، انھوں نے کہا ہم سے ہشام دستوائی نے بیان کیا ، انھوں نے قتادہ بن دعامہ سے ، انھوں نے ابوالعالیہ رفیع سے ، انھوں نے ابن عباس رضی اللہ عنہما سے ، فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ ، قَالَ : حَدَّثَنَا هِشَامٌ ، عَنْ قَتَادَةَ ، عَنْ أَبِي الْعَالِيَةِ ، عَنِ ابْنِ عَبَّاسٍ ، قَالَ : شَهِدَ عِنْدِي رِجَالٌ مَرْضِيُّونَ وَأَرْضَاهُمْ عِنْدِي عُمَرُ ، أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ الصَّلَاةِ بَعْدَ الصُّبْحِ حَتَّى تَشْرُقَ الشَّمْسُ ، وَبَعْدَ الْعَصْرِ حَتَّى تَغْرُبَ ، حَدَّثَنَا مُسَدَّدٌ ، قَالَ : حَدَّثَنَا يَحْيَى ، عَنْ شُعْبَةَ ، عَنْ قَتَادَةَ ، سَمِعْتُ أَبَا الْعَالِيَةِ ، عَنِ ابْنِ عَبَّاسٍ ، قَالَ : حَدَّثَنِي نَاسٌ بِهَذَا.",
+                "headingArabic": "الصَّلاَةِ بَعْدَ الْفَجْرِ حَتَّى تَرْتَفِعَ الشَّمْسُ",
+                "headingUrdu": "نماز فجر اور طلوع آفتاب کے درمیان نماز پڑھنے کے بارے میں کیا کہا جاتا ہے؟",
+                "headingEnglish": "What is said regarding the offering of As-Salat (the prayers) between the Fajr prayer and sunrise.",
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 568,
+                "hadithNumber": "583",
+                "englishNarrator": null,
+                "hadithEnglish": "Ibn `Umar said, \"Allah's Messenger (ﷺ) said, 'If the edge of the sun appears (above the horizon) delay the prayer till it becomes high, and if the edge of the sun disappears, delay the prayer till it sets (disappears completely).' \"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ جب سورج کا اوپر کا کنارہ طلوع ہونے لگے تو نماز نہ پڑھو یہاں تک کہ وہ بلند ہو جائے ۔ اور جب سورج ڈوبنے لگے اس وقت بھی نماز نہ پڑھو ، یہاں تک کہ غروب ہو جائے ۔ اس حدیث کو یحییٰ بن سعید قطان کے ساتھ عبدہ بن سلیمان نے بھی روایت کیا ہے ۔",
+                "urduNarrator": "حضرت عروہ نے کہا مجھ سے عبداللہ بن عمر رضی اللہ عنہما نے بیان کیا کہ",
+                "hadithArabic": "وَقَالَ حَدَّثَنِي ابْنُ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ إِذَا طَلَعَ حَاجِبُ الشَّمْسِ فَأَخِّرُوا الصَّلاَةَ حَتَّى تَرْتَفِعَ، وَإِذَا غَابَ حَاجِبُ الشَّمْسِ فَأَخِّرُوا الصَّلاَةَ حَتَّى تَغِيبَ ‏\"‏‏.‏ تَابَعَهُ عَبْدَةُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 569,
+                "hadithNumber": "584",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) forbade two kinds of sales, two kinds of dresses, and two prayers. He forbade offering prayers after the Fajr prayer till the rising of the sun and after the `Asr prayer till its setting. He also forbade \"Ishtimal-Assama [??] \" and \"al-Ihtiba\" in one garment in such a way that one's private parts are exposed towards the sky. He also forbade the sales called \"Munabadha\" and \"Mulamasa.\" (See Hadith No. 354 and 355 Vol. 3).",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے دو طرح کی خریدوفروخت اور دو طرح کے لباس اور دو وقتوں کی نمازوں سے منع فرمایا ۔ آپ صلی اللہ علیہ وسلم نے نماز فجر کے بعد سورج نکلنے تک اور نماز عصر کے بعد غروب ہونے تک نماز پڑھنے سے منع فرمایا ( اور کپڑوں میں ) اشتمال صماء یعنی ایک کپڑا اپنے اوپر اس طرح لپیٹ لینا کہ شرمگاہ کھل جائے ۔ اور ( احتباء ) یعنی ایک کپڑے میں گوٹ مار کر بیٹھنے سے منع فرمایا ۔ ( اور خریدوفروخت میں ) آپ صلی اللہ علیہ وسلم نے منابذہ اور ملامسہ سے منع فرمایا ۔",
+                "urduNarrator": "ہم سے عبید بن اسماعیل نے بیان کیا ، انھوں نے ابی اسامہ کے واسطے سے بیان کیا ۔ انھوں نے عبیداللہ بن عمر سے ، انھوں نے خبیب بن عبدالرحمٰن سے ، انھوں نے حفص بن عاصم سے ، انھوں نے حضرت ابوہریرہ رضی اللہ عنہ سے کہ",
+                "hadithArabic": "حَدَّثَنَا عُبَيْدُ بْنُ إِسْمَاعِيلَ، عَنْ أَبِي أُسَامَةَ، عَنْ عُبَيْدِ اللَّهِ، عَنْ خُبَيْبِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ حَفْصِ بْنِ عَاصِمٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ بَيْعَتَيْنِ وَعَنْ لِبْسَتَيْنِ وَعَنْ صَلاَتَيْنِ نَهَى عَنِ الصَّلاَةِ بَعْدَ الْفَجْرِ حَتَّى تَطْلُعَ الشَّمْسُ، وَبَعْدَ الْعَصْرِ حَتَّى تَغْرُبَ الشَّمْسُ، وَعَنِ اشْتِمَالِ الصَّمَّاءِ وَعَنْ الاِحْتِبَاءِ فِي ثَوْبٍ وَاحِدٍ يُفْضِي بِفَرْجِهِ إِلَى السَّمَاءِ، وَعَنِ الْمُنَابَذَةِ وَالْمُلاَمَسَةِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 570,
+                "hadithNumber": "585",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"None of you should try to pray at sunrise or sunset.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کوئی تم میں سے انتظار میں نہ بیٹھا رہے کہ سورج طلوع ہوتے ہی نماز کے لیے کھڑا ہو جائے ۔ اسی طرح سورج کے ڈوبنے کے انتظار میں بھی نہ رہنا چاہیے ۔",
+                "urduNarrator": "ہم سے عبداللہ بن یوسف تنیسی نے بیان کیا ، کہ کہا ہمیں امام مالک نے نافع سے خبر دی ، انھوں نے ابن عمر رضی اللہ عنہما سے کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ يَتَحَرَّى أَحَدُكُمْ فَيُصَلِّي عِنْدَ طُلُوعِ الشَّمْسِ وَلاَ عِنْدَ غُرُوبِهَا ‏\"‏‏.‏",
+                "headingArabic": "لاَ يَتَحَرَّى الصَّلاَةَ قَبْلَ غُرُوبِ الشَّمْسِ",
+                "headingUrdu": "سورج غروب ہونے سے پہلے نماز پڑھنے کی کوشش نہ کرے۔",
+                "headingEnglish": "One should not try to offer As-Salat (the prayers) just before sunset",
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 571,
+                "hadithNumber": "586",
+                "englishNarrator": "Narrated Abu Sa`id Al-Khudri رضی اللہ عنہ :",
+                "hadithEnglish": "I heard Allah's Messenger (ﷺ) saying, \"There is no prayer after the morning prayer till the sun rises, and there is no prayer after the `Asr prayer till the sun sets.\"",
+                "hadithUrdu": "میں نے نبی کریم صلی اللہ علیہ وسلم سے سنا ۔ آپ صلی اللہ علیہ وسلم فرما رہے تھے کہ فجر کی نماز کے بعد کوئی نماز سورج کے بلند ہونے تک نہ پڑھی جائے ۔ اسی طرح عصر کی نماز کے بعد سورج ڈوبنے تک کوئی نماز نہ پڑھی جائے ۔",
+                "urduNarrator": "ہم سے عبدالعزیز بن عبداللہ نے بیان کیا ، انھوں نے کہا ہم سے ابراہیم بن سعد نے بیان کیا ، انھوں نے صالح سے یہ حدیث بیان کی ، انھوں نے ابن شہاب سے ، انھوں نے کہا مجھ سے عطاء بن یزید جندعی لیثی نے بیان کیا کہ انھوں نے حضرت ابو سعید خدری رضی اللہ عنہ سے سنا ۔ انھوں نے فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي عَطَاءُ بْنُ يَزِيدَ الْجُنْدَعِيُّ، أَنَّهُ سَمِعَ أَبَا سَعِيدٍ الْخُدْرِيَّ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ لاَ صَلاَةَ بَعْدَ الصُّبْحِ حَتَّى تَرْتَفِعَ الشَّمْسُ، وَلاَ صَلاَةَ بَعْدَ الْعَصْرِ حَتَّى تَغِيبَ الشَّمْسُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 572,
+                "hadithNumber": "587",
+                "englishNarrator": "Narrated Muawiya رضی اللہ عنہما :",
+                "hadithEnglish": "You offer a prayer which I did not see being offered by Allah's Messenger (ﷺ) when we were in his company and he certainly had forbidden it (i.e. two rak`at after the `Asr prayer).",
+                "hadithUrdu": "انھوں نے فرمایا کہ تم لوگ تو ایک ایسی نماز پڑھتے ہو کہ ہم رسول اللہ صلی اللہ علیہ وسلم کی صحبت میں رہے لیکن ہم نے کبھی آپ صلی اللہ علیہ وسلم کو وہ نماز پڑھتے نہیں دیکھا ۔ بلکہ آپ صلی اللہ علیہ وسلم نے تو اس سے منع فرمایا تھا ۔ حضرت معاویہ رضی اللہ عنہ کی مراد عصر کے بعد دو رکعتوں سے تھی ۔ ( جسے آپ کے زمانہ میں بعض لوگ پڑھتے تھے ) ۔",
+                "urduNarrator": "ہم سے محمد بن ابان نے بیان کیا ، کہا کہ ہم سے غندر محمد بن جعفر نے بیان کیا ، کہا کہ ہم سے شعبہ نے حدیث بیان کی ابوالتیاح یزید بن حمید سے ، کہا کہ میں نے حمران بن ابان سے سنا ، وہ معاویہ بن ابی سفیان رضی اللہ عنہما سے یہ حدیث بیان کرتے تھے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبَانَ، قَالَ حَدَّثَنَا غُنْدَرٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي التَّيَّاحِ، قَالَ سَمِعْتُ حُمْرَانَ بْنَ أَبَانَ، يُحَدِّثُ عَنْ مُعَاوِيَةَ، قَالَ إِنَّكُمْ لَتُصَلُّونَ صَلاَةً، لَقَدْ صَحِبْنَا رَسُولَ اللَّهِ صلى الله عليه وسلم فَمَا رَأَيْنَاهُ يُصَلِّيهَا، وَلَقَدْ نَهَى عَنْهُمَا، يَعْنِي الرَّكْعَتَيْنِ بَعْدَ الْعَصْرِ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 573,
+                "hadithNumber": "588",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) forbade the offering of two prayers:\r\n1. after the morning prayer till the sunrises. \r\n2. after the `Asr prayer till the sun sets.",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے دو وقت نماز پڑھنے سے منع فرمایا ۔ نماز فجر کے بعد سورج نکلنے تک اور نماز عصر کے بعد سورج غروب ہونے تک ۔",
+                "urduNarrator": "ہم سے محمد بن سلام نے بیان کیا ، انھوں نے کہا کہ ہم سے عبدہ نے بیان کیا ، انھوں نے عبیداللہ سے خبر دی ، انھوں نے خبیب سے ، انھوں نے حفص بن عاصم سے ، انھوں نے حضرت ابوہریرہ رضی اللہ عنہ سے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سَلاَمٍ، قَالَ حَدَّثَنَا عَبْدَةُ، عَنْ عُبَيْدِ اللَّهِ، عَنْ خُبَيْبٍ، عَنْ حَفْصِ بْنِ عَاصِمٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ صَلاَتَيْنِ بَعْدَ الْفَجْرِ حَتَّى تَطْلُعَ الشَّمْسُ، وَبَعْدَ الْعَصْرِ حَتَّى تَغْرُبَ الشَّمْسُ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 574,
+                "hadithNumber": "589",
+                "englishNarrator": "Narrated Ibn `Umar رضی اللہ عنہما :",
+                "hadithEnglish": "I pray as I saw my companions praying. I do not forbid praying at any time during the day or night except at sunset and sunrise.",
+                "hadithUrdu": "جس طرح میں نے اپنے ساتھیوں کو نماز پڑھتے دیکھا ۔ میں بھی اسی طرح نماز پڑھتا ہوں ۔ کسی کو روکتا نہیں ۔ دن اور رات کے جس حصہ میں جی چاہے نماز پڑھ سکتا ہے ۔ البتہ سورج کے طلوع اور غروب کے وقت نماز نہ پڑھا کرو ۔",
+                "urduNarrator": "ہم سے ابوالنعمان محمد بن فضل نے بیان کیا ، کہا ہم سے حماد بن زید نے ایوب سے کہا ، انھوں نے نافع سے ، انھوں نے ابن عمر رضی اللہ عنہما سے ، آپ نے فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ أُصَلِّي كَمَا رَأَيْتُ أَصْحَابِي يُصَلُّونَ، لاَ أَنْهَى أَحَدًا يُصَلِّي بِلَيْلٍ وَلاَ نَهَارٍ مَا شَاءَ، غَيْرَ أَنْ لاَ تَحَرَّوْا طُلُوعَ الشَّمْسِ وَلاَ غُرُوبَهَا‏.‏",
+                "headingArabic": "مَنْ لَمْ يَكْرَهِ الصَّلاَةَ إِلاَّ بَعْدَ الْعَصْرِ وَالْفَجْرِ",
+                "headingUrdu": "جس نے عصر اور فجر کی فرض نمازوں کے علاوہ نفلی نماز پڑھنا ناپسند کیا وہ صرف عصر اور فجر کی فرض نمازوں کے بعد اختیاری نماز پڑھنا پسند نہیں کرتا تھا۔",
+                "headingEnglish": "Whoever did not dislike to offer optional prayers except after the compulsory prayers of 'Asr and Fajr only",
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 575,
+                "hadithNumber": "590",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "By Allah, Who took away the Prophet. The Prophet (ﷺ) never missed them (two rak`at) after the `Asr prayer till he met Allah and he did not meet Allah till it became heavy for him to pray while standing so he used to offer most of the prayers while sitting. (She meant the two rak`at after `Asr) He used to pray them in the house and never prayed them in the mosque lest it might be hard for his followers and he loved what was easy for them .",
+                "hadithUrdu": "خدا کی قسم ! جس نے رسول اللہ صلی اللہ علیہ وسلم کو اپنے یہاں بلا لیا ۔ آپ صلی اللہ علیہ وسلم نے عصر کے بعد کی دو رکعات کو کبھی ترک نہیں فرمایا ، یہاں تک کہ آپ صلی اللہ علیہ وسلم ، اللہ پاک سے جا ملے ۔ اور آپ صلی اللہ علیہ وسلم کو وفات سے پہلے نماز پڑھنے میں بڑی دشواری پیش آتی تھی ۔ پھر اکثر آپ صلی اللہ علیہ وسلم بیٹھ کر نماز ادا فرمایا کرتے تھے ۔ اگرچہ نبی کریم صلی اللہ علیہ وسلم انہیں پوری پابندی کے ساتھ پڑھتے تھے لیکن اس خوف سے کہ کہیں ( صحابہ بھی پڑھنے لگیں اور اس طرح ) امت کو گراں باری ہو ، انہیں آپ صلی اللہ علیہ وسلم مسجد میں نہیں پڑھتے تھے ۔ آپ صلی اللہ علیہ وسلم کو اپنی امت کا ہلکا رکھنا پسند تھا ۔",
+                "urduNarrator": "ہم سے ابونعیم فضل بن دکین نے بیان کیا ، کہ کہا ہم سے عبدالواحد بن ایمن نے بیان کیا ، کہا کہ مجھ سے میرے باپ ایمن نے حدیث بیان کی کہ انھوں نے عائشہ رضی اللہ عنہا سے سنا ۔ آپ نے فرمایا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ أَيْمَنَ، قَالَ حَدَّثَنِي أَبِي أَنَّهُ، سَمِعَ عَائِشَةَ، قَالَتْ وَالَّذِي ذَهَبَ بِهِ مَا تَرَكَهُمَا حَتَّى لَقِيَ اللَّهَ، وَمَا لَقِيَ اللَّهَ تَعَالَى حَتَّى ثَقُلَ عَنِ الصَّلاَةِ، وَكَانَ يُصَلِّي كَثِيرًا مِنْ صَلاَتِهِ قَاعِدًا ـ تَعْنِي الرَّكْعَتَيْنِ بَعْدَ الْعَصْرِ ـ وَكَانَ النَّبِيُّ صلى الله عليه وسلم يُصَلِّيهِمَا، وَلاَ يُصَلِّيهِمَا فِي الْمَسْجِدِ مَخَافَةَ أَنْ يُثَقِّلَ عَلَى أُمَّتِهِ، وَكَانَ يُحِبُّ مَا يُخَفَّفُ عَنْهُمْ‏.‏",
+                "headingArabic": "مَا يُصَلَّى بَعْدَ الْعَصْرِ مِنَ الْفَوَائِتِ وَنَحْوِهَا",
+                "headingUrdu": "نماز عصر کے بعد فوت شدہ نمازیں پڑھنا",
+                "headingEnglish": "To offer the missed Salat (prayers) and the like after the 'Asr prayer",
+                "chapterId": "9",
+                "bookSlug": "sahih-bukhari",
+                "volume": "1",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 9,
+                    "chapterNumber": "9",
+                    "chapterEnglish": "Times of the Prayers",
+                    "chapterUrdu": "اوقات نماز کے بیان میں",
+                    "chapterArabic": "كتاب مواقيت الصلاة",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 551,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=22",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=20",
+                "label": "20",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=21",
+                "label": "21",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=22",
+                "label": "22",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=23",
+                "label": "23",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=24",
+                "label": "24",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=25",
+                "label": "25",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=26",
+                "label": "26",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=24",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=24",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=22",
+        "to": 575,
+        "total": 40465
+    }
+}

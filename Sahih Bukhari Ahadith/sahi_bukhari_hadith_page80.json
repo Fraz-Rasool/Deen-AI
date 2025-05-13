@@ -1,0 +1,896 @@
+{
+    "status": 200,
+    "message": "Hadiths has been found.",
+    "hadiths": {
+        "current_page": 80,
+        "data": [
+            {
+                "id": 1977,
+                "hadithNumber": "2059",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"A time will come when one will not care how one gains one's money, legally or illegally.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا لوگوں پر ایک ایسا زمانہ آئے گا کہ انسان کوئی پرواہ نہیں کرے گا کہ جو اس نے حاصل کیا ہے وہ حلال سے ہے یا حرام سے ہے ۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا ، کہا کہ ہم سے ابن ابی ذئب نے بیان کیا ، کہا کہ ہم سے سعید مقبری نے بیان کیا اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، حَدَّثَنَا سَعِيدٌ الْمَقْبُرِيُّ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ يَأْتِي عَلَى النَّاسِ زَمَانٌ، لاَ يُبَالِي الْمَرْءُ مَا أَخَذَ مِنْهُ أَمِنَ الْحَلاَلِ أَمْ مِنَ الْحَرَامِ ‏\"‏‏.‏",
+                "headingArabic": "مَنْ لَمْ يُبَالِ مِنْ حَيْثُ كَسَبَ الْمَالَ",
+                "headingUrdu": "جس کو پرواہ نہیں کہ وہ کہاں سے کماتا ہے۔",
+                "headingEnglish": "One who does not care from where he earns",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1978,
+                "hadithNumber": "2060, 2061",
+                "englishNarrator": "Narrated Abu Al-Minhal:",
+                "hadithEnglish": "I used to practice money exchange, and I asked Zaid bin 'Arqam رضی اللہ عنہ about it, and he narrated what the Prophet said in the following: Abu Al-Minhal said, \"I asked Al-Bara' bin `Azib and Zaid bin Arqam about practicing money exchange. They replied, 'We were traders in the time of Allah's Messenger (ﷺ) and I asked Allah's Messenger (ﷺ) about money exchange. He replied, 'If it is from hand to hand, there is no harm in it; otherwise it is not permissible.\"",
+                "hadithUrdu": "میں سونے چاندی کی تجارت کیا کرتا تھا ۔ اس لیے میں نے زید بن ارقم رضی اللہ عنہ سے اس کے متعلق پوچھا تو انہوں نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ۔ اور مجھ سے فضل بن یعقوب نے بیان کیا ، کہا کہ ہم سے حجاج بن محمد نے بیان کیا کہ ابن جریج نے بیان کیا کہ مجھے عمرو بن دینار اور عامر بن مصعب نے خبر دی ، ان دونوں حضرات نے ابوالمنہال سے سنا ۔ انہوں نے بیان کیا کہ میں نے براء بن عازب اور زید بن ارقم رضی اللہ عنہما سے سونے چاندی کی تجارت کے متعلق پوچھا ، تو ان دونوں بزرگوں نے فرمایا کہ ہم نبی کریم صلی اللہ علیہ وسلم کے عہد میں تاجر تھے ، اس لیے ہم نے آپ صلی اللہ علیہ وسلم سے سونے چاندی کے متعلق پوچھا تھا ۔ آپ صلی اللہ علیہ وسلم نے جواب یہ دیا تھا کہ ( لین دین ) ہاتھوں ہاتھ ہو تو کوئی حرج نہیں لیکن ادھار کی صورت میں جائز نہیں ہے ۔",
+                "urduNarrator": "ہم سے ابوعاصم نے بیان کیا ، انہوں نے کہا کہ ہم سے ابن جریج نے بیان کیا ، کہ مجھے عمرو بن دینار نے خبر دی اور ان سے ابوالمنہال نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، قَالَ أَخْبَرَنِي عَمْرُو بْنُ دِينَارٍ، عَنْ أَبِي الْمِنْهَالِ، قَالَ كُنْتُ أَتَّجِرُ فِي الصَّرْفِ، فَسَأَلْتُ زَيْدَ بْنَ أَرْقَمَ ـ رضى الله عنه ـ فَقَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم‏.‏ وَحَدَّثَنِي الْفَضْلُ بْنُ يَعْقُوبَ، حَدَّثَنَا الْحَجَّاجُ بْنُ مُحَمَّدٍ، قَالَ ابْنُ جُرَيْجٍ أَخْبَرَنِي عَمْرُو بْنُ دِينَارٍ، وَعَامِرُ بْنُ مُصْعَبٍ، أَنَّهُمَا سَمِعَا أَبَا الْمِنْهَالِ، يَقُولُ سَأَلْتُ الْبَرَاءَ بْنَ عَازِبٍ وَزَيْدَ بْنَ أَرْقَمَ عَنِ الصَّرْفِ، فَقَالاَ كُنَّا تَاجِرَيْنِ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَسَأَلْنَا رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الصَّرْفِ فَقَالَ ‏ \"‏ إِنْ كَانَ يَدًا بِيَدٍ فَلاَ بَأْسَ، وَإِنْ كَانَ نَسَاءً فَلاَ يَصْلُحُ ‏\"‏‏.‏",
+                "headingArabic": "التِّجَارَةِ فِي الْبَرِّ",
+                "headingUrdu": "کپڑے اور دوسری چیزوں کی تجارت",
+                "headingEnglish": "Trade of cloth and other things",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1979,
+                "hadithNumber": "2062",
+                "englishNarrator": "Narrated 'Ubaid bin `Umair:",
+                "hadithEnglish": "Abu Musa asked `Umar to admit him but he was not admitted as `Umar was busy, so Abu Musa went back. When `Umar finished his job he said, \"Didn't I hear the voice of `Abdullah bin Qais? Let him come in.\" `Umar was told that he had left. So, he sent for him and on his arrival, he (Abu Musa) said, \"We were ordered to do so (i.e. to leave if not admitted after asking permission thrice). `Umar told him, \"Bring witness in proof of your statement.\" Abu Musa went to the Ansar's meeting places and asked them. They said, \"None amongst us will give this witness except the youngest of us, Abu Sa`id Al-Khudri رضی اللہ عنہ . Abu Musa then took Abu Sa`id Al-Khudri (to `Umar) and `Umar رضی اللہ عنہ  said, surprisingly, \"Has this order of Allah's Messenger (ﷺ) been hidden from me?\" (Then he added), \"I used to be busy trading in markets.\"",
+                "hadithUrdu": "ابوموسیٰ اشعری رضی اللہ عنہ نے عمر بن خطاب رضی اللہ عنہ سے ملنے کی اجازت چاہی لیکن اجازت نہیں ملی ۔ غالباً آپ اس وقت کام میں مشغول تھے ۔ اس لیے ابوموسیٰ رضی اللہ عنہ واپس لوٹ گئے ۔ پھر عمر رضی اللہ عنہ فارغ ہوئے تو فرمایا کیا میں نے عبداللہ بن قیس ( ابوموسیٰ رضی اللہ عنہ ) کی آوازنہیں سنی تھی ۔ انہیں اندر آنے کی اجازت دے دو ۔ کہا گیا وہ لوٹ کر چلے گئے ۔ تو عمر رضی اللہ عنہ نے انہیں بلا لیا ۔ ابوموسیٰ رضی اللہ عنہ نے کہا کہ ہمیں اسی کا حکم ( آنحضرت صلی اللہ علیہ وسلم سے ) تھا ( کہ تین مرتبہ اجازت چاہنے پر اگر اندر جانے کی اجازت نہ ملے تو واپس لوٹ جانا چاہئے ) اس پر عمر رضی اللہ عنہ نے فرمایا ، اس حدیث پر کوئی گواہ لاؤ ۔ ابوموسیٰ رضی اللہ عنہ انصار کی مجلس میں گئے اور ان سے اس حدیث کے متعلق پوچھا ( کہ کیا کسی نے اسے آنحضرت صلی اللہ علیہ وسلم سے سنا ہے ) ان لوگوں نے کہا کہ اس کی گواہی تو تمہارے ساتھ وہ دے گا جو ہم سب میں بہت ہی کم عمر ہے ۔ وہ ابو سعید خدری رضی اللہ عنہ کو اپنے ساتھ لے گئے ۔ عمر رضی اللہ عنہ نے یہ سن کر فرمایا کہ نبی کریم صلی اللہ علیہ وسلم کا ایک حکم مجھ سے پوشیدہ رہ گیا ۔ افسوس کہ مجھے بازاروں کی خریدوفروخت نے مشغول رکھا ۔ آپ کی مردا تجارت سے تھی ۔",
+                "urduNarrator": "ہم سے محمد بن سلام نے بیان کیا ، کہا کہ ہم کو مخلد بن یزید نے خبر دی ، کہا کہ ہمیں ابن جریج نے خبر دی ، کہا کہ مجھے عطابن ابی رباح نے خبر دی ، انہیں عبید بن عمیر نے کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ سَلاَمٍ، أَخْبَرَنَا مَخْلَدُ بْنُ يَزِيدَ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، قَالَ أَخْبَرَنِي عَطَاءٌ، عَنْ عُبَيْدِ بْنِ عُمَيْرٍ، أَنَّ أَبَا مُوسَى الأَشْعَرِيَّ، اسْتَأْذَنَ عَلَى عُمَرَ بْنِ الْخَطَّابِ ـ رضى الله عنه ـ فَلَمْ يُؤْذَنْ لَهُ، وَكَأَنَّهُ كَانَ مَشْغُولاً فَرَجَعَ أَبُو مُوسَى، فَفَرَغَ عُمَرُ فَقَالَ أَلَمْ أَسْمَعْ صَوْتَ عَبْدِ اللَّهِ بْنِ قَيْسٍ ائْذَنُوا لَهُ قِيلَ قَدْ رَجَعَ‏.‏ فَدَعَاهُ‏.‏ فَقَالَ كُنَّا نُؤْمَرُ بِذَلِكَ‏.‏ فَقَالَ تَأْتِينِي عَلَى ذَلِكَ بِالْبَيِّنَةِ‏.‏ فَانْطَلَقَ إِلَى مَجْلِسِ الأَنْصَارِ، فَسَأَلَهُمْ‏.‏ فَقَالُوا لاَ يَشْهَدُ لَكَ عَلَى هَذَا إِلاَّ أَصْغَرُنَا أَبُو سَعِيدٍ الْخُدْرِيُّ‏.‏ فَذَهَبَ بِأَبِي سَعِيدٍ الْخُدْرِيِّ‏.‏ فَقَالَ عُمَرُ أَخَفِيَ عَلَىَّ مِنْ أَمْرِ رَسُولِ اللَّهِ صلى الله عليه وسلم أَلْهَانِي الصَّفْقُ بِالأَسْوَاقِ‏.‏ يَعْنِي الْخُرُوجَ إِلَى تِجَارَةٍ‏.‏",
+                "headingArabic": "الْخُرُوجِ فِي التِّجَارَةِ",
+                "headingUrdu": "تجارت کے لیے باہر جانا",
+                "headingEnglish": "Going out for Trading",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1980,
+                "hadithNumber": "2063",
+                "englishNarrator": "Narrator Abu Hurairah (رضی اللہ عنہ) said:",
+                "hadithEnglish": "\"Allah's Messenger (ﷺ) mentioned a person from Bani Israel who travelled by sea and carried out his needs.\" Then he narrated the whole story. (See Hadith no. 2291)",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے بنی اسرائیل کے ایک شخص کا ذکر کیا ۔ جس نے سمندر کا سفر کیا تھا اور اپنی ضرورت پوری کی تھی ۔ پھر پوری حدیث بیان کی ۔",
+                "urduNarrator": "لیث نے کہا کہ مجھ سے جعفر بن ربیعہ نے بیان کیا ، ان سے عبدالرحمٰن بن ہرمز نے اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "وَقَالَ اللَّيْثُ حَدَّثَنِي جَعْفَرُ بْنُ رَبِيعَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ هُرْمُزَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ ذَكَرَ رَجُلاً مِنْ بَنِي إِسْرَائِيلَ، خَرَجَ فِي الْبَحْرِ فَقَضَى حَاجَتَهُ‏.‏ وَسَاقَ الْحَدِيثَ‏.‏ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ صَالِحٍ قَالَ حَدَّثَنِي اللَّيْثُ بِهَذَا‏.‏",
+                "headingArabic": "التِّجَارَةِ فِي الْبَحْرِ",
+                "headingUrdu": "سمندر میں تجارت",
+                "headingEnglish": "Trading in sea",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1981,
+                "hadithNumber": "2064",
+                "englishNarrator": "Narrated Jabir رضی اللہ عنہ :",
+                "hadithEnglish": "A caravan arrived (at Medina) while we were offering the Jumua prayer with the Prophet. The people left out for the caravan, with the exception of twelve persons. Then this Verse was revealed: 'But when they see some bargain or some amusement, they disperse headlong to it and leave you standing.\" (62.11)",
+                "hadithUrdu": "( تجارتی ) اونٹوں ( کا قافلہ ) آیا ۔ ہم اس وقت نبی کریم صلی اللہ علیہ وسلم کے ساتھ جمعہ ( کے خطبہ ) میں شریک تھے ۔ بارہ صحابہ کے سوا باقی تمام حضرات ادھر چلے گئے اس پر یہ آیت اتری «وإذا رأوا تجارة أو لهوا انفضوا إليها وتركوك قائما» ” جب سوداگری یا تماشا دیکھتے ہیں تو اس کی طرف دوڑ پڑتے ہیں اور آپ کو کھڑا چھوڑ دیتے ہیں ۔ “",
+                "urduNarrator": "ہم سے محمد بن سلام نے بیان کیا ، کہا کہ مجھ سے محمد بن فضیل نے بیان کیا ، ان سے حصین نے بیان کیا ، ان سے سالم بن ابی الجعد نے بیان کیا اور ان سے جابر رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدٌ، قَالَ حَدَّثَنِي مُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ حُصَيْنٍ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، عَنْ جَابِرٍ ـ رضى الله عنه ـ قَالَ أَقْبَلَتْ عِيرٌ، وَنَحْنُ نُصَلِّي مَعَ النَّبِيِّ صلى الله عليه وسلم الْجُمُعَةَ، فَانْفَضَّ النَّاسُ إِلاَّ اثْنَىْ عَشَرَ رَجُلاً، فَنَزَلَتْ هَذِهِ الآيَةُ ‏{‏وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا انْفَضُّوا إِلَيْهَا وَتَرَكُوكَ قَائِمًا ‏}‏",
+                "headingArabic": "{وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا انْفَضُّوا إِلَيْهَا}",
+                "headingUrdu": "\"اور جب وہ کوئی تجارتی سامان یا کوئی تفریحی سامان دیکھتے ہیں تو اس کی طرف بھاگ جاتے ہیں...\"",
+                "headingEnglish": "\"And when they see some merchandise or some amusement, they disperse headlong to it…\"",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1982,
+                "hadithNumber": "2065",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"If a woman gives in charity from her house meals without wasting (i.e. being extravagant), she will get the reward for her giving, and her husband will also get the reward for his earning and the storekeeper will also get a similar reward. The acquisition of the reward of none of them will reduce the reward of the others.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا ، جب عورت اپنے گھر کا کھانا ( غلہ وغیرہ ) بشرطیکہ گھر بگاڑنے کی نیت نہ ہو خرچ کرے تو اسے خرچ کرنے کا ثواب ملتا ہے اور اس کے شوہر کو کمانے کا اور خزانچی کو بھی ایسا ہی ثواب ملتا ہے ایک کا ثواب دوسرے کے ثواب کو کم نہیں کرتا ۔",
+                "urduNarrator": "ہم سے عثمان بن ابی شیبہ نے بیان کیا ، انہوں نے کہا کہ ہم سے جریر نے بیان کیا ، ان سے منصور نے ، ان سے ابووائل نے ، ان سے مسروق نے ، اور ان سے ام المؤمنین حضرت عائشہ صدیقہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ أَبِي وَائِلٍ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ إِذَا أَنْفَقَتِ الْمَرْأَةُ مِنْ طَعَامِ بَيْتِهَا، غَيْرَ مُفْسِدَةٍ، كَانَ لَهَا أَجْرُهَا بِمَا أَنْفَقَتْ، وَلِزَوْجِهَا بِمَا كَسَبَ، وَلِلْخَازِنِ مِثْلُ ذَلِكَ، لاَ يَنْقُصُ بَعْضُهُمْ أَجْرَ بَعْضٍ شَيْئًا ‏\"‏‏.‏",
+                "headingArabic": "قَوْلِ اللَّهِ تَعَالَى: {أَنْفِقُوا مِنْ طَيِّبَاتِ مَا كَسَبْتُمْ}",
+                "headingUrdu": "اللہ تعالیٰ کا فرمان ہے: \"... اپنی کمائی ہوئی پاکیزہ چیزوں میں سے خرچ کرو۔\"",
+                "headingEnglish": "Allah's Statement: \"... Spend of the good things which you have earned ...\"",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1983,
+                "hadithNumber": "2066",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"If a woman gives something (i.e. in charity) from her husband's earnings without his permission, she will get half his reward.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ، اگر عورت اپنے شوہر کی کمائی اس کی اجازت کے بغیر بھی ( اللہ کے راستے میں ) خرچ کرتی ہے تو اسے آدھا ثواب ملتا ہے ۔",
+                "urduNarrator": "مجھ سے یحییٰ بن جعفر نے بیان کیا ، انہوں نے کہا کہ ہم سے عبدالرزاق نے بیان کیا ، ان سے معمر نے بیان کیا ، ان سے ہمام نے بیان کیا ، انہوں نے ابوہریرہ رضی اللہ عنہ سے سنا کہ",
+                "hadithArabic": "حَدَّثَنِي يَحْيَى بْنُ جَعْفَرٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنْ هَمَّامٍ، قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا أَنْفَقَتِ الْمَرْأَةُ مِنْ كَسْبِ زَوْجِهَا عَنْ غَيْرِ أَمْرِهِ، فَلَهُ نِصْفُ أَجْرِهِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1984,
+                "hadithNumber": "2067",
+                "englishNarrator": "Narrated Anas bin Malik:",
+                "hadithEnglish": "I heard Allah's Messenger (ﷺ) saying, \"whoever desires an expansion in his sustenance and age, should keep good relations with his Kith and kin.\"",
+                "hadithUrdu": "میں نے سنا رسول اللہ صلی اللہ علیہ وسلم فرما رہے تھے کہ جو شخص اپنی روزی میں کشادگی چاہتا ہو یا عمر کی دارازی چاہتا ہو تو اسے چاہئیے کہ صلہ رحمی کرے ۔",
+                "urduNarrator": "ہم سے محمد بن یعقوب کرمانی نے بیان کیا ، کہا کہ ہم سے حسان بن ابراہیم نے بیان کیا ، ان سے یونس نے بیان کیا ، ان سے محمد بن مسلم نے بیان کیا ، ان سے انس بن مالک رضی اللہ عنہ نے کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي يَعْقُوبَ الْكِرْمَانِيُّ، حَدَّثَنَا حَسَّانُ، حَدَّثَنَا يُونُسُ، حَدَّثَنَا مُحَمَّدٌ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ مَنْ سَرَّهُ أَنْ يُبْسَطَ لَهُ رِزْقُهُ أَوْ يُنْسَأَ لَهُ فِي أَثَرِهِ فَلْيَصِلْ رَحِمَهُ ‏\"‏‏.‏",
+                "headingArabic": "مَنْ أَحَبَّ الْبَسْطَ فِي الرِّزْقِ",
+                "headingUrdu": "جس نے اپنے رزق میں کشادگی کو پسند کیا۔",
+                "headingEnglish": "Whoever liked to expand in his sustenance",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1985,
+                "hadithNumber": "2068",
+                "englishNarrator": "Narrated `Amash:",
+                "hadithEnglish": "We mentioned about pledging in Salam trade to Ibrahim, Aswad, with reference to Hadrat Aishah , narrated a Hadith to me: The Prophet (ﷺ) purchased food grains from a Jew on credit and mortgaged his iron armor to him.",
+                "hadithUrdu": "ابراہیم نخعی کی مجلس میں ہم نے ادھار لین دین میں ( سامان ) گروی رکھنے کا ذکر کیا تو انہوں نے کہا کہ مجھ سے اسود نے عائشہ رضی اللہ عنہا سے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے ایک یہودی سے کچھ غلہ ایک مدت مقرر کر کے ادھا خریدا اور اپنی لوہے کی ایک زرہ اس کے پاس گروی رکھی ۔",
+                "urduNarrator": "ہم سے معلی بن اسد نے بیان کیا ، انہوں نے کہا کہ ہم سے عبدالواحد نے بیان کیا ، کہا کہ ہم سے اعمش نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُعَلَّى بْنُ أَسَدٍ، حَدَّثَنَا عَبْدُ الْوَاحِدِ، حَدَّثَنَا الأَعْمَشُ، قَالَ ذَكَرْنَا عِنْدَ إِبْرَاهِيمَ الرَّهْنَ فِي السَّلَمِ فَقَالَ حَدَّثَنِي الأَسْوَدُ عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم اشْتَرَى طَعَامًا مِنْ يَهُودِيٍّ إِلَى أَجَلٍ، وَرَهَنَهُ دِرْعًا مِنْ حَدِيدٍ‏.‏",
+                "headingArabic": "شِرَاءِ النَّبِيِّ صلى الله عليه وسلم بِالنَّسِيئَةِ",
+                "headingUrdu": "نبی کریم صلی اللہ علیہ وسلم نے دیکھا کہ (کھانے کی چیزیں) قرض پر خریدی گئیں۔",
+                "headingEnglish": "The Prophet saws purchased (foodgrains) on credit",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1986,
+                "hadithNumber": "2069",
+                "englishNarrator": "Narrated Qatada:",
+                "hadithEnglish": "Anas went to the Prophet (ﷺ) with barley bread having some dissolved fat on it. The Prophet (ﷺ) had mortgaged his armor to a Jew in Medina and took from him some barley for his family. Anas heard him saying, \"The household of Muhammad did not possess even a single Sa of wheat or food grains for the evening meal, although he has nine wives to look after.\" (See Hadith No. 685)",
+                "hadithUrdu": "وہ نبی کریم صلی اللہ علیہ وسلم کی خدمت میں جَو کی روٹی اور بدبودار چربی ( سالن کے طور پر ) لے گئے ۔ آنحضرت صلی اللہ علیہ وسلم نے اس وقت اپنی زرہ مدینہ میں ایک یہودی کے یہاں گروی رکھی تھی اور اس سے اپنے گھر والوں کے لیے قرض لیا تھا ۔ میں نے خود آپ کو یہ فرماتے سنا کہ محمد صلی اللہ علیہ وسلم کے گھرانے میں کوئی شام ایسی نہیں آئی جس میں ان کے پاس ایک صاع گیہوں یا ایک صاع کوئی غلہ موجود رہا ہو ، حالانکہ آپ صلی اللہ علیہ وسلم کی گھر والیوں کی تعداد نو تھی ۔",
+                "urduNarrator": "ہم سے مسلم بن ابراہیم نے بیان کیا ، کہا کہ ہم سے ہشام نے بیان کیا ، ان سے قتادہ نے بیان کیا ، ان سے انس رضی اللہ عنہ نے ( دوسری سند ) اور مجھ سے محمد بن عبداللہ بن حوشب نے بیان کیا ، کہا کہ ہم سے اسباط ابوالیسع بصریٰ نے ، کہا کہ ہم سے ہشام دستوائی نے ، انہوں نے قتادہ سے ، انہوں نے انس رضی اللہ عنہ سے کہ",
+                "hadithArabic": "حَدَّثَنَا مُسْلِمٌ، حَدَّثَنَا هِشَامٌ، حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ، ح‏.‏ حَدَّثَنِي مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ حَوْشَبٍ، حَدَّثَنَا أَسْبَاطٌ أَبُو الْيَسَعِ الْبَصْرِيُّ، حَدَّثَنَا هِشَامٌ الدَّسْتَوَائِيُّ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ أَنَّهُ مَشَى إِلَى النَّبِيِّ صلى الله عليه وسلم بِخُبْزِ شَعِيرٍ، وَإِهَالَةٍ سَنِخَةٍ، وَلَقَدْ رَهَنَ النَّبِيُّ صلى الله عليه وسلم دِرْعًا لَهُ بِالْمَدِينَةِ عِنْدَ يَهُودِيٍّ، وَأَخَذَ مِنْهُ شَعِيرًا لأَهْلِهِ، وَلَقَدْ سَمِعْتُهُ يَقُولُ ‏ \"‏ مَا أَمْسَى عِنْدَ آلِ مُحَمَّدٍ صلى الله عليه وسلم صَاعُ بُرٍّ وَلاَ صَاعُ حَبٍّ، وَإِنَّ عِنْدَهُ لَتِسْعَ نِسْوَةٍ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1987,
+                "hadithNumber": "2070",
+                "englishNarrator": "Narrated `Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "When Abu Bakr As-Siddiq رضی اللہ عنہ  was chosen Caliph, he said, \"My people know that my profession was not incapable of providing substance to my family. And as I will be busy serving the Muslim nation, my family will eat from the National Treasury of Muslims, and I will practice the profession of serving the Muslims.\"",
+                "hadithUrdu": "جب حضرت ابوبکر رضی اللہ عنہ خلفیہ ہوئے تو فرمایا ، میری قوم جانتی ہے کہ میرا ( تجارتی ) کاروبار میرے گھر والوں کی گذران کے لیے کافی رہا ہے ، لیکن اب میں مسلمانوں کے کام میں مشغول ہو گیا ہوں ، اس لیے آل ابوبکر اب بیت المال میں سے کھائے گی ، اور ابوبکر مسلمانوں کا مال تجارت بڑھاتا رہے گا ۔",
+                "urduNarrator": "ہم سے اسماعیل بن عبداللہ نے بیان کیا ، انہوں نے کہا کہ مجھ سے عبداللہ بن وہب نے بیان کیا ، ان سے عروہ بن زبیر رضی اللہ عنہ نے کہا کہ حضرت عائشہ رضی اللہ عنہا نے کہا کہ",
+                "hadithArabic": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي ابْنُ وَهْبٍ، عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، قَالَ حَدَّثَنِي عُرْوَةُ بْنُ الزُّبَيْرِ، أَنَّ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ لَمَّا اسْتُخْلِفَ أَبُو بَكْرٍ الصِّدِّيقُ قَالَ لَقَدْ عَلِمَ قَوْمِي أَنَّ حِرْفَتِي لَمْ تَكُنْ تَعْجِزُ عَنْ مَئُونَةِ أَهْلِي، وَشُغِلْتُ بِأَمْرِ الْمُسْلِمِينَ، فَسَيَأْكُلُ آلُ أَبِي بَكْرٍ مِنْ هَذَا الْمَالِ وَيَحْتَرِفُ لِلْمُسْلِمِينَ فِيهِ‏.‏",
+                "headingArabic": "كَسْبِ الرَّجُلِ وَعَمَلِهِ بِيَدِهِ",
+                "headingUrdu": "ایک شخص کی کمائی اور اس کی دستی مزدوری۔",
+                "headingEnglish": "The earnings of a person and his manual labour",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1988,
+                "hadithNumber": "2071",
+                "englishNarrator": "Narrated Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "The companions of Allah's Messenger (ﷺ) used to practice manual labor, so their sweat used to smell, and they were advised to take a bath. It is reported by Hammam and his father from Hadrat Aishah رضی اللہ عنہا .",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم کے صحابہ رضی اللہ عنہم اپنے کام اپنے ہی ہاتھوں سے کیا کرتے تھے اور ( زیادہ محنت و مشقت کی وجہ سے ) ان کے جسم سے ( پسینے کی ) بو آ جاتی تھی ۔ اس لیے ان سے کہا گیا کہ اگر تم غسل کر لیا کرو تو بہتر ہو گا ۔ اس کی روایت ہمام نے اپنے والد سے اور انہوں نے اپنے باپ سے اور انہوں نے عائشہ رضی اللہ عنہا سے کی ہے ۔",
+                "urduNarrator": "مجھ سے محمد نے بیان کیا ، کہا کہ ہم سے عبداللہ بن یزید نے بیان کیا ، ان سے سعید بن ابی ایوب نے بیان کیا ، کہا کہ مجھ سے ابوالاسود نے بیان کیا ، ان سے عروہ نے کہ حضرت عائشہ رضی اللہ عنہا نے فرمایا کہ",
+                "hadithArabic": "حَدَّثَنِي مُحَمَّدٌ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ، حَدَّثَنَا سَعِيدٌ، قَالَ حَدَّثَنِي أَبُو الأَسْوَدِ، عَنْ عُرْوَةَ، قَالَ قَالَتْ عَائِشَةُ ـ رضى الله عنها ـ كَانَ أَصْحَابُ رَسُولِ اللَّهِ صلى الله عليه وسلم عُمَّالَ أَنْفُسِهِمْ، وَكَانَ يَكُونُ لَهُمْ أَرْوَاحٌ فَقِيلَ لَهُمْ لَوِ اغْتَسَلْتُمْ‏.‏ رَوَاهُ هَمَّامٌ عَنْ هِشَامٍ عَنْ أَبِيهِ عَنْ عَائِشَةَ‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1989,
+                "hadithNumber": "2072",
+                "englishNarrator": "Narrated Al-Miqdam رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Nobody has ever eaten a better meal than that which one has earned by working with one's own hands. The Prophet (ﷺ) of Allah, David used to eat from the earnings of his manual labor.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کسی انسان نے اس شخص سے بہتر روزی نہیں کھائی ، جو خود اپنے ہاتھوں سے کما کر کھاتا ہے اللہ کے نبی داؤد علیہ السلام بھی اپنے ہاتھ سے کام کر کے روزی کھایا کرتے تھے ۔",
+                "urduNarrator": "ہم سے ابراہیم بن موسیٰ نے بیان کیا ، انہوں نے کہا کہ ہم کو عیسیٰ بن یونس نے خبر دی ، انہیں ثور نے خبر دی ، انہیں خالد بن معدان نے اور انہیں مقدام رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا عِيسَى، عَنْ ثَوْرٍ، عَنْ خَالِدِ بْنِ مَعْدَانَ، عَنِ الْمِقْدَامِ ـ رضى الله عنه ـ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَا أَكَلَ أَحَدٌ طَعَامًا قَطُّ خَيْرًا مِنْ أَنْ يَأْكُلَ مِنْ عَمَلِ يَدِهِ، وَإِنَّ نَبِيَّ اللَّهِ دَاوُدَ ـ عَلَيْهِ السَّلاَمُ ـ كَانَ يَأْكُلُ مِنْ عَمَلِ يَدِهِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1990,
+                "hadithNumber": "2073",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"The Prophet (ﷺ) David used not to eat except from the earnings of his manual labor.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نےفرمایا داؤد علیہ السلام صرف اپنے ہاتھ کی کمائی سے کھایا کرتے تھے ۔",
+                "urduNarrator": "ہم سے یحییٰ بن موسیٰ نے بیان کیا ، کہا کہ ہم سے عبدالرزاق نے بیان کیا ، کہا کہ ہمیں معمر نے خبر دی ، انہیں ہمام بن منبہ نے ، ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا ، اور ان سے",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ مُوسَى، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏ \"‏ أَنَّ دَاوُدَ ـ عَلَيْهِ السَّلاَمُ ـ كَانَ لاَ يَأْكُلُ إِلاَّ مِنْ عَمَلِ يَدِهِ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1991,
+                "hadithNumber": "2074",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"No doubt, it is better for any one of you to cut a bundle of wood and carry it over his back rather than to ask someone who may or may not give him.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا وہ شخص جو لکڑی کا گھٹا اپنی پیٹھ پر لاد کر لائے ، اس سے بہتر ہے جو کسی کے سامنے ہاتھ پھیلائے چاہئیے وہ اسے کچھ دیدے یا نہ دے ۔",
+                "urduNarrator": "ہم سے یحییٰ بن بکیر نے بیان کیا ، کہا کہ ہم سے لیث بن سعد نے بیان کیا ، ان سے عقیل نے ، ان سے ابن شہاب نے ، ان سے عبدالرحمٰن بن عوف رضی اللہ عنہ کے غلام ابی عبید نے ، انہوں نے ابوہریرہ رضی اللہ عنہ کو یہ کہتے سنا کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي عُبَيْدٍ، مَوْلَى عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لأَنْ يَحْتَطِبَ أَحَدُكُمْ حُزْمَةً عَلَى ظَهْرِهِ خَيْرٌ مِنْ أَنْ يَسْأَلَ أَحَدًا، فَيُعْطِيَهُ أَوْ يَمْنَعَهُ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1992,
+                "hadithNumber": "2075",
+                "englishNarrator": "Narrated Az-Zubair bin Al-Awwam رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"One would rather take a rope and cut wood and carry it than ask others).",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ اگر کوئی اپنی رسیوں کو سنبھال لے اور ان میں لکڑی باندھ کر لائے تو وہ اس سے بہتر ہے جو لوگوں سے مانگتا ہے پھرتا ہے ۔",
+                "urduNarrator": "ہم سے یحییٰ بن موسیٰ نے بیان کیا ، کہا کہ ہم سے وکیع نے بیان کیا ، کہا کہ ہم سے ہشام بن عروہ نے بیان کیا ، ان سے ان کے والد نے اور ان سے زبیر بن عوام رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا يَحْيَى بْنُ مُوسَى، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، عَنِ الزُّبَيْرِ بْنِ الْعَوَّامِ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ لأَنْ يَأْخُذَ أَحَدُكُمْ أَحْبُلَهُ خَيْرٌ لَهُ مِنْ أَنْ يَسْأَلَ النَّاسَ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": null,
+                "headingEnglish": null,
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1993,
+                "hadithNumber": "2076",
+                "englishNarrator": "Narrated Jabir bin `Abdullah رضی اللہ عنہ :",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"May Allah's mercy be on him who is lenient in his buying, selling, and in demanding back his money.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا اللہ تعالیٰ ایسے شخص پر رحم کرے جو بیچتے وقت اور خریدتے وقت اور تقاضا کرتے وقت فیاضی اور نرمی سے کام لیتا ہے ۔",
+                "urduNarrator": "ہم سے علی بن عیاش نے بیان کیا ، کہا کہ ہم سے ابوغسان محمد بن مطرف نے بیان کیا ، کہا کہ مجھ سے محمد بن منکدر نے بیان کیا ، اور ان سے جابر بن عبداللہ انصاری رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عَلِيُّ بْنُ عَيَّاشٍ، حَدَّثَنَا أَبُو غَسَّانَ، مُحَمَّدُ بْنُ مُطَرِّفٍ قَالَ حَدَّثَنِي مُحَمَّدُ بْنُ الْمُنْكَدِرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ رَحِمَ اللَّهُ رَجُلاً سَمْحًا إِذَا بَاعَ، وَإِذَا اشْتَرَى، وَإِذَا اقْتَضَى ‏\"‏‏.‏",
+                "headingArabic": "السُّهُولَةِ وَالسَّمَاحَةِ فِي الشِّرَاءِ وَالْبَيْعِ، وَمَنْ طَلَبَ حَقًّا فَلْيَطْلُبْهُ فِي عَفَافٍ",
+                "headingUrdu": "سودے بازی میں نرمی اور فیاض ہونا چاہیے۔",
+                "headingEnglish": "One should be lenient and generous in bargaining",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1994,
+                "hadithNumber": "2077",
+                "englishNarrator": "Narrated Hudhaifa رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"Before your time the angels received the soul of a man and asked him, 'Did you do any good deeds (in your life)?' He replied, 'I used to order my employees to grant time to the rich person to pay his debts at his convenience.' So Allah said to the angels; \"Excuse him.\" Rabi said that (the dead man said), 'I used to be easy to the rich and grant time to the poor.' Or, in another narration, 'grant time to the well-off and forgive the needy,' or, 'accept from the well-off and forgive the needy.'",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا ، تم سے پہلے گذشتہ امتوں کے کسی شخص کی روح کے پاس ( موت کے وقت ) فرشتے آئے اور پوچھا کہ تو نے کچھ اچھے کام بھی کئے ہیں ؟ روح نے جواب دیا کہ میں اپنے نوکروں سے کہا کرتا تھا کہ وہ مالدار لوگوں کو ( جو ان کے مقروض ہوں ) مہت دے دیا کریں اور ان پر سختی نہ کریں ۔ اور محتاجوں کو معاف کر دیا کریں ۔ روای نے بیان کیا کہ آنحضرت صلی اللہ علیہ وسلم نے فرمایا ، پھر فرشتوں نے بھی اس سے درگزر کیا اور سختی نہیں کی اور ابومالک نے ربعی سے ( اپنی روایت میں یہ الفاظ ) بیان کئے ہیں ” کھاتے کماتے کے ساتھ ( اپنا حق لیتے وقت ) نرم معاملہ کرتا تھا اور تنگ حال مقروض کو مہلت دیتا تھا ۔ اس کی متابعت شعبہ نے کی ہے ۔ ان سے عبدالملک نے اور ان سے ربعی نے بیان کیا ، ابوعوانہ نے کہا کہ ان سے عبدالملک نے ربعی سے بیان کیا کہ ( اس روح نے یہ الفاظ کہے تھے ) میں کھاتے کماتے کو مہلت دے دیتا تھا اور تنگ حال والے مقروض سے درگزر کرتا تھا اور نعیم بن ابی ہند نے بیان کیا ، ان سے ربعی نے ( کہ روح نے یہ الفاظ کہے تھے ) میں کھاتے کماتے لوگوں کے ( جن پر میرا کوئی حق واجب ہوتا ) عذر قبول کر لیا کرتا تھا اور تنگ حال والے سے درگزر کر دیتا تھا ۔",
+                "urduNarrator": "ہم سے احمد بن یونس نے بیان کیا ، کہا کہ ہم سے زہیر نے بیان کیا کہا کہ ہم سے منصور نے ، ان سے ربعی بن حراش نے بیان کیا اور ان سے حذیفہ بن یمان رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا مَنْصُورٌ، أَنَّ رِبْعِيَّ بْنَ حِرَاشٍ، حَدَّثَهُ أَنَّ حُذَيْفَةَ ـ رضى الله عنه ـ حَدَّثَهُ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏\"‏ تَلَقَّتِ الْمَلاَئِكَةُ رُوحَ رَجُلٍ مِمَّنْ كَانَ قَبْلَكُمْ قَالُوا أَعَمِلْتَ مِنَ الْخَيْرِ شَيْئًا قَالَ كُنْتُ آمُرُ فِتْيَانِي أَنْ يُنْظِرُوا وَيَتَجَاوَزُوا عَنِ الْمُوسِرِ قَالَ قَالَ فَتَجَاوَزُوا عَنْهُ ‏\"‏‏.‏ وَقَالَ أَبُو مَالِكٍ عَنْ رِبْعِيٍّ ‏\"‏ كُنْتُ أُيَسِّرُ عَلَى الْمُوسِرِ وَأُنْظِرُ الْمُعْسِرَ ‏\"‏‏.‏ وَتَابَعَهُ شُعْبَةُ عَنْ عَبْدِ الْمَلِكِ عَنْ رِبْعِيٍّ‏.‏ وَقَالَ أَبُو عَوَانَةَ عَنْ عَبْدِ الْمَلِكِ عَنْ رِبْعِيٍّ ‏\"‏ أُنْظِرُ الْمُوسِرَ، وَأَتَجَاوَزُ عَنِ الْمُعْسِرِ ‏\"‏‏.‏ وَقَالَ نُعَيْمُ بْنُ أَبِي هِنْدٍ عَنْ رِبْعِيٍّ ‏\"‏ فَأَقْبَلُ مِنَ الْمُوسِرِ، وَأَتَجَاوَزُ عَنِ الْمُعْسِرِ ‏\"‏‏.‏",
+                "headingArabic": "مَنْ أَنْظَرَ مُوسِرًا",
+                "headingUrdu": "جس نے کسی امیر کو وقت دیا کہ وہ اپنی سہولت کے مطابق ادائیگی کرے۔",
+                "headingEnglish": "Whoever gave time to a rich person to pay at his convenience",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1995,
+                "hadithNumber": "2078",
+                "englishNarrator": "Narrated Abu Huraira رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"There was a merchant who used to lend the people, and whenever his debtor was in straitened circumstances, he would say to his employees, 'Forgive him so that Allah may forgive us.' So, Allah forgave him.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا ، ایک تاجر لوگوں کو قرض دیا کرتا تھا جب کسی تنگ دست کو دیکھتا تو اپنے نوکروں سے کہہ دیتا کہ اس سے درگزر کر جاؤ ۔ شاید کہ اللہ تعالیٰ بھی ہم سے ( آخرت میں ) درگزر فرمائے ۔ چنانچہ اللہ تعالیٰ نے ( اس کے مرنے کے بعد ) اس کو بخش دیا ۔",
+                "urduNarrator": "ہم سے ہشام بن عمار نے بیان کیا ، کہا کہ ہم سے یحییٰ بن حمزہ نے بیان کیا ، ان سے محمد بن ولید زبیدی نے بیان کیا ، ان سے زہری نے ، ان سے عبیداللہ بن عبداللہ نے ، انہوں نے ابوہریرہ رضی اللہ عنہ سے سنا کہ",
+                "hadithArabic": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ، حَدَّثَنَا الزُّبَيْدِيُّ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ كَانَ تَاجِرٌ يُدَايِنُ النَّاسَ، فَإِذَا رَأَى مُعْسِرًا قَالَ لِفِتْيَانِهِ تَجَاوَزُوا عَنْهُ، لَعَلَّ اللَّهَ أَنْ يَتَجَاوَزَ عَنَّا، فَتَجَاوَزَ اللَّهُ عَنْهُ ‏\"‏‏.‏",
+                "headingArabic": "مَنْ أَنْظَرَ مُعْسِرًا",
+                "headingUrdu": "قرض ادا کرنے کے لیے مشکل حالات میں ایک شخص (جب ادا کرنے کے قابل ہو)",
+                "headingEnglish": "A person in hard circumstances to pay debt (when able to repay)",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1996,
+                "hadithNumber": "2079",
+                "englishNarrator": "Narrated Hakim bin Hizam:",
+                "hadithEnglish": "Allah's Messenger (ﷺ) said, \"The seller and the buyer have the right to keep or return goods as long as they have not parted or till they part; and if both the parties spoke the truth and described the defects and qualities (of the goods), then they would be blessed in their transaction, and if they told lies or hid something, then the blessings of their transaction would be lost.\"",
+                "hadithUrdu": "رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ، خریدنے اور بیچنے والوں کو اس وقت تک اختیار ( بیع ختم کر دینے کا ) ہے جب تک دونوں جدا نہ ہوں یا آپ صلی اللہ علیہ وسلم نے ( «ما لم يتفرقا» کے بجائے ) «حتى يتفرقا» فرمایا ۔ ( آنحضرت صلی اللہ علیہ وسلم نے مزید ارشاد فرمایا ) پس اگر دونوں نے سچائی سے کام لیا اور ہر بات صاف صاف کھول دی تو ان کی خریدوفروخت میں برکت ہوتی ہے لیکن اگر کوئی بات چھپا رکھی یا جھوٹ کہی تو ان کی برکت ختم کر دی جاتی ہے ۔",
+                "urduNarrator": "ہم سے سلیمان بن حرب نے بیان کیا ، کہا کہ ہم سے شعبہ نے بیان کیا ، ان سے قتادہ نے ان سے صالح ابوخلیل نے ، ان سے عبیداللہ بن حارث نے ، انہوں نے حکیم بن حزام رضی اللہ عنہ سے کہ",
+                "hadithArabic": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ صَالِحٍ أَبِي الْخَلِيلِ، عَنْ عَبْدِ اللَّهِ بْنِ الْحَارِثِ، رَفَعَهُ إِلَى حَكِيمِ بْنِ حِزَامٍ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الْبَيِّعَانِ بِالْخِيَارِ مَا لَمْ يَتَفَرَّقَا ـ أَوْ قَالَ حَتَّى يَتَفَرَّقَا ـ فَإِنْ صَدَقَا وَبَيَّنَا بُورِكَ لَهُمَا فِي بَيْعِهِمَا، وَإِنْ كَتَمَا وَكَذَبَا مُحِقَتْ بَرَكَةُ بَيْعِهِمَا ‏\"‏‏.‏",
+                "headingArabic": "إِذَا بَيَّنَ الْبَيِّعَانِ وَلَمْ يَكْتُمَا وَنَصَحَا",
+                "headingUrdu": "لین دین کے اچھے اور برے نکات کی وضاحت کرنا",
+                "headingEnglish": "To explain the good and bad points of the transaction",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1997,
+                "hadithNumber": "2080",
+                "englishNarrator": "Narrated Abu Sa`id رضی اللہ عنہ :",
+                "hadithEnglish": "We used to be given mixed dates (from the booty) and used to sell (barter) two Sas of those dates) for one Sa (of good dates). The Prophet (ﷺ) said (to us), \"No (bartering of) two Sas for one Sa nor two Dirhams for one Dirham is permissible\", (as that is a kind of usury). (See Hadith No. 405).",
+                "hadithUrdu": "ہمیں ( نبی کریم صلی اللہ علیہ وسلم کی طرف سے ) مختلف قسم کی کھجوریں ایک ساتھ ملا کرتی تھیں اور ہم دو صاع کھجور ایک صاع کے بدلے میں بیچ دیا کرتے تھے ۔ اس پر نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ دو صاع ایک صاع کے بدلہ میں نہ بیچی جائے اور نہ دو درہم ایک درہم کے بدلے بیچے جائیں ۔",
+                "urduNarrator": "ہم سے ابونعیم نے بیان کیا ، کہا کہ ہم سے شیبان نے بیان کیا ، ان سے یحییٰ نے ، ان سے ابوسلمہ نے ، ان سے ابوسعید رضی اللہ عنہ نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا شَيْبَانُ، عَنْ يَحْيَى، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي سَعِيدٍ ـ رضى الله عنه ـ قَالَ كُنَّا نُرْزَقُ تَمْرَ الْجَمْعِ، وَهْوَ الْخِلْطُ مِنَ التَّمْرِ، وَكُنَّا نَبِيعُ صَاعَيْنِ بِصَاعٍ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ لاَ صَاعَيْنِ بِصَاعٍ، وَلاَ دِرْهَمَيْنِ بِدِرْهَمٍ ‏\"‏‏.‏",
+                "headingArabic": "بَيْعِ الْخِلْطِ مِنَ التَّمْرِ",
+                "headingUrdu": "مخلوط تاریخوں کی فروخت",
+                "headingEnglish": "Selling of mixed dates",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1998,
+                "hadithNumber": "2081",
+                "englishNarrator": "Narrated Abu Mas`ud رضی اللہ عنہ :",
+                "hadithEnglish": "An Ansari man, called Abu Shu'aib رضی اللہ عنہ , came and told his butcher slave, \"Prepare meals sufficient for five persons, for I want to invite the Prophet (ﷺ) along with four other persons as I saw signs of hunger on his face.\" Abu Shu'aib invited them and another person came along with them. The Prophet (ﷺ) said (to Abu Shu'aib), This man followed us, so if you allow him, he will join us, and if you want him to return, he will go back.\" Abu Shu'aib said, \"No, I have allowed him (i.e. he, too, is welcomed to the meal).",
+                "hadithUrdu": "انصار میں سے ایک صحابی جن کی کنیت ابوشعیب رضی اللہ عنہ تھی ، تشریف لائے اور اپنے غلام سے جو قصاب تھا ۔ فرمایا کہ میرے لیے اتنا کھانا تیار کر جو پانچ آدمی کے لیے کافی ہو ۔ میں نے نبی کریم صلی اللہ علیہ وسلم کی اور آپ کے ساتھ اور چار آدمیوں کی دعوت کا ارادہ کیا ، کیونکہ میں نے آپ صلی اللہ علیہ وسلم کے چہرہ مبارک پر بھوک کا اثر نمایاں دیکھا ہے ۔ چنانچہ انہوں نے آنحضرت صلی اللہ علیہ وسلم کو بلایا ۔ آپ صلی اللہ علیہ وسلم کے ساتھ ایک اور صاحب بھی آ گئے ۔ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ ہمارے ساتھ ایک اور صاحب زائد آ گئے ہیں ۔ مگر آپ چاہیں تو انہیں بھی اجازت دے سکتے ہیں ، اور اگر چاہیں تو واپس کر سکتے ہیں ۔ انہوں نے کہا کہ نہیں ، بلکہ میں انہیں بھی اجازت دیتا ہوں ۔",
+                "urduNarrator": "ہم سے عمر بن حفص بن غیاث نے بیان کیا ، کہا کہ مجھ سے میرے باپ نے بیان کیا ، کہ ہم سے اعمش نے بیان کیا ، کہا کہ مجھ سے شقیق نے بیان کیا ، اور ان سے ابومسعود رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا عُمَرُ بْنُ حَفْصٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا الأَعْمَشُ، قَالَ حَدَّثَنِي شَقِيقٌ، عَنْ أَبِي مَسْعُودٍ، قَالَ جَاءَ رَجُلٌ مِنَ الأَنْصَارِ يُكْنَى أَبَا شُعَيْبٍ فَقَالَ لِغُلاَمٍ لَهُ قَصَّابٍ اجْعَلْ لِي طَعَامًا يَكْفِي خَمْسَةً، فَإِنِّي أُرِيدُ أَنْ أَدْعُوَ النَّبِيَّ صلى الله عليه وسلم خَامِسَ خَمْسَةٍ، فَإِنِّي قَدْ عَرَفْتُ فِي وَجْهِهِ الْجُوعَ‏.‏ فَدَعَاهُمْ، فَجَاءَ مَعَهُمْ رَجُلٌ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ إِنَّ هَذَا قَدْ تَبِعَنَا، فَإِنْ شِئْتَ أَنْ تَأْذَنَ لَهُ فَأْذَنْ لَهُ، وَإِنْ شِئْتَ أَنْ يَرْجِعَ رَجَعَ ‏\"‏‏.‏ فَقَالَ لاَ، بَلْ قَدْ أَذِنْتُ لَهُ‏.‏",
+                "headingArabic": "مَا قِيلَ فِي اللَّحَّامِ وَالْجَزَّارِ",
+                "headingUrdu": "گوشت بیچنے والے اور قصاب کے بارے میں کیا کہا جاتا ہے۔",
+                "headingEnglish": "What is said about the meat seller and the butcher",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 1999,
+                "hadithNumber": "2082",
+                "englishNarrator": "Narrated Hakim bin Hizam رضی اللہ عنہ :",
+                "hadithEnglish": "The Prophet (ﷺ) said, \"The buyer and the seller have the option to cancel or to confirm the deal, as long as they have not parted or till they part, and if they spoke the truth and told each other the defects of the things, then blessings would be in their deal, and if they hid something and told lies, the blessing of the deal would be lost.\"",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا ، خریدوفروخت کرنے والوں کو اختیار ہے جب تک وہ ایک دوسرے سے جدا نہ ہوں ( کہ بیع فسخ کر دیں یا رکھیں ) یا آپ نے ( «ما لم يتفرقا» کے بجائے ) «حتى يتفرقا» فرمایا ۔ پس اگر دونوں نے سچائی اختیار کی اور ہر بات کھول کھول کر بیان کی تو ان کی خریدوفروخت میں برکت ہو گی اور اگر انہوں نے کچھ چھپائے رکھا یا جھوٹ بولا تو ان کے خریدوفروخت کی برکت ختم کر دی جائے گی ۔",
+                "urduNarrator": "ہم سے بدل بن محبر نے بیان کیا ، کہا کہ ہم سے شعبہ نے بیان کیا ، کہا کہ ہم سے قتادہ نے ، کہا کہ میں نے ابوخلیل سے سنا ، وہ عبداللہ بن حارث سے نقل کرتے تھے اور وہ حکیم بن حزام رضی اللہ عنہ سے کہ",
+                "hadithArabic": "حَدَّثَنَا بَدَلُ بْنُ الْمُحَبَّرِ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، قَالَ سَمِعْتُ أَبَا الْخَلِيلِ، يُحَدِّثُ عَنْ عَبْدِ اللَّهِ بْنِ الْحَارِثِ، عَنْ حَكِيمِ بْنِ حِزَامٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ الْبَيِّعَانِ بِالْخِيَارِ مَا لَمْ يَتَفَرَّقَا ـ أَوْ قَالَ حَتَّى يَتَفَرَّقَا ـ فَإِنْ صَدَقَا وَبَيَّنَا بُورِكَ لَهُمَا فِي بَيْعِهِمَا، وَإِنْ كَتَمَا وَكَذَبَا مُحِقَتْ بَرَكَةُ بَيْعِهِمَا ‏\"‏‏.‏",
+                "headingArabic": "مَا يَمْحَقُ الْكَذِبُ وَالْكِتْمَانُ فِي الْبَيْعِ",
+                "headingUrdu": "نقصان (برکت) اگر کوئی جھوٹ بولے یا کسی معاہدے میں حقائق کو چھپائے",
+                "headingEnglish": "The loss (of blessings) if one tells lies or hides the facts in a deal",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2000,
+                "hadithNumber": "2083",
+                "englishNarrator": "Narrated Abu Hurairah (رضی اللہ عنہ):",
+                "hadithEnglish": "The Prophet (ﷺ) said \"Certainly a time will come when people will not bother to know from where they earned the money, by lawful means or unlawful means.\" (See Hadith no. 2050)",
+                "hadithUrdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا ، ایک زمانہ ایسا آئے گا کہ انسان اس کی پرواہ نہیں کرے گا کہ مال اس نے کہاں سے لیا ، حلال طریقہ سے یا حرام طریقہ سے ۔",
+                "urduNarrator": "ہم سے آدم بن ابی ایاس نے بیان کیا کہا کہ ہم سے ابن ابی ذئب نے بیان کیا ، ان سے سعید مقبری نے بیان کیا ، اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ",
+                "hadithArabic": "حَدَّثَنَا آدَمُ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، حَدَّثَنَا سَعِيدٌ الْمَقْبُرِيُّ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لَيَأْتِيَنَّ عَلَى النَّاسِ زَمَانٌ لاَ يُبَالِي الْمَرْءُ بِمَا أَخَذَ الْمَالَ، أَمِنْ حَلاَلٍ أَمْ مِنْ حَرَامٍ ‏\"‏‏.‏",
+                "headingArabic": null,
+                "headingUrdu": "اللہ تعالٰی کا بیان: \"... سود کو دوگنا نہیں کھاؤ۔\"",
+                "headingEnglish": "The Statement of Allah Ta'ala: \"... Eat not Riba doubled and multiplied.\"",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            },
+            {
+                "id": 2001,
+                "hadithNumber": "2084",
+                "englishNarrator": "Narrated Aisha رضی اللہ عنہا :",
+                "hadithEnglish": "When the last Verses of Surat al- Baqara were revealed, the Prophet (ﷺ) recited them in the mosque and proclaimed the trade of alcohol as illegal.",
+                "hadithUrdu": "جب ( سورۃ ) بقرہ کی آخری آیتیں «الذين يأكلون الربا *** الخ» نازل ہوئیں تو نبی کریم صلی اللہ علیہ وسلم نے انہیں صحابہ رضی اللہ عنہم کو مسجد میں پڑھ کر سنایا ۔ اس کے بعد ان پر شراب کی تجارت حرام کر دیا ۔",
+                "urduNarrator": "ہم سے محمد بن بشار نے بیان کیا ، کہا کہ ہم سے غندر نے بیان کیا ، کہا کہ ہم سے شعبہ نے بیان کیا ، ان سے منصور نے ، ان سے ابوالضحیٰ نے ، ان سے مسروق نے اور ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ",
+                "hadithArabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ مَنْصُورٍ، عَنْ أَبِي الضُّحَى، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ لَمَّا نَزَلَتْ آخِرُ الْبَقَرَةِ قَرَأَهُنَّ النَّبِيُّ صلى الله عليه وسلم عَلَيْهِمْ فِي الْمَسْجِدِ، ثُمَّ حَرَّمَ التِّجَارَةَ فِي الْخَمْرِ‏.‏",
+                "headingArabic": "آكِلِ الرِّبَا وَشَاهِدِهِ وَكَاتِبِهِ",
+                "headingUrdu": "ربا کا گناہ، اس کا گواہ اور لکھنے والا",
+                "headingEnglish": "The sin of Riba, its witness and its writer",
+                "chapterId": "35",
+                "bookSlug": "sahih-bukhari",
+                "volume": "3",
+                "status": "Sahih",
+                "book": {
+                    "id": 1,
+                    "bookName": "Sahih Bukhari",
+                    "writerName": "Imam Bukhari",
+                    "aboutWriter": null,
+                    "writerDeath": "256 ھ",
+                    "bookSlug": "sahih-bukhari"
+                },
+                "chapter": {
+                    "id": 35,
+                    "chapterNumber": "35",
+                    "chapterEnglish": "Sales and Trade",
+                    "chapterUrdu": "خرید و فروخت کے مسائل کا بیان",
+                    "chapterArabic": "كتاب البيوع",
+                    "bookSlug": "sahih-bukhari"
+                }
+            }
+        ],
+        "first_page_url": "https://hadithapi.com/api/hadiths?page=1",
+        "from": 1976,
+        "last_page": 1619,
+        "last_page_url": "https://hadithapi.com/api/hadiths?page=1619",
+        "links": [
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=79",
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1",
+                "label": "1",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=77",
+                "label": "77",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=78",
+                "label": "78",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=79",
+                "label": "79",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=80",
+                "label": "80",
+                "active": true
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=81",
+                "label": "81",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=82",
+                "label": "82",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=83",
+                "label": "83",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1618",
+                "label": "1618",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=1619",
+                "label": "1619",
+                "active": false
+            },
+            {
+                "url": "https://hadithapi.com/api/hadiths?page=81",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "next_page_url": "https://hadithapi.com/api/hadiths?page=81",
+        "path": "https://hadithapi.com/api/hadiths",
+        "per_page": 25,
+        "prev_page_url": "https://hadithapi.com/api/hadiths?page=79",
+        "to": 2000,
+        "total": 40465
+    }
+}
