@@ -1,14 +1,15 @@
 import os
 import pandas as pd
 from dotenv import load_dotenv
-from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 from langchain_core.documents import Document
-from langchain.chains.question_answering import load_qa_chain
-from langchain.prompts import PromptTemplate
+from langchain_core.prompts import PromptTemplate
+from langchain_core.runnables import RunnableMap
+from langchain_core.output_parsers import StrOutputParser
 from langchain_pinecone import PineconeVectorStore
 from pinecone import Pinecone as PineconeClient, ServerlessSpec
-from tqdm import tqdm  
+from tqdm import tqdm
+
 
 
 
@@ -102,19 +103,31 @@ QUESTION: {question}
 
 Answer:
 """
-    prompt = PromptTemplate(template=prompt_template, input_variables=["context", "question"])
-    return load_qa_chain(llm, chain_type="stuff", prompt=prompt)
+    prompt = PromptTemplate.from_template(prompt_template)
+
+    def format_docs(docs):
+        return "\n\n".join(doc.page_content for doc in docs)
+
+    chain = (
+        RunnableMap({
+            "context": lambda x: format_docs(x["input_documents"]),
+            "question": lambda x: x["question"]
+        })
+        | prompt
+        | llm
+        | StrOutputParser()
+    )
+    return chain
 
 # Handle user query
 def user_query(query):
     vector_store = load_vector_store()
     docs = vector_store.similarity_search(query, k=10)
     chain = get_conversational_chain()
-    result = chain({"input_documents": docs, "question": query}, return_only_outputs=True)
-    return result["output_text"]
+    return chain.invoke({"input_documents": docs, "question": query})
 
 # Console Interface
-def main():
+def main_quran():
     print("📖 DeenAI: Console Qur'an QA (Pinecone-based)")
     index = pc.Index(INDEX_NAME)
     if index.describe_index_stats().total_vector_count == 0:
@@ -136,4 +149,4 @@ def main():
         print("\n\n🧠 Answer:\n\n", answer)
 
 if __name__ == "__main__":
-    main()
+    main_quran()

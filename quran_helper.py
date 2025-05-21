@@ -1,14 +1,17 @@
 import os
 import pandas as pd
 from dotenv import load_dotenv
-from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 from langchain_core.documents import Document
-from langchain.chains.question_answering import load_qa_chain
-from langchain.prompts import PromptTemplate
+from langchain_core.prompts import PromptTemplate
+from langchain_core.runnables import RunnableMap
+from langchain_core.output_parsers import StrOutputParser
 from langchain_pinecone import PineconeVectorStore
 from pinecone import Pinecone as PineconeClient, ServerlessSpec
 from tqdm import tqdm
+
+
+
 
 # Load environment variables
 load_dotenv()
@@ -22,8 +25,8 @@ DIMENSIONS = 768 # Google embedding size
 REGION = "us-east-1"
 
 # Set up LLM and embeddings
-llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash", temperature=0)
-embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
+llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash", temperature=0.5, google_api_key=gem_api)
+embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=gem_api)
 
 # Pinecone setup
 pc = PineconeClient(api_key=pinecone_api)
@@ -36,7 +39,7 @@ if INDEX_NAME not in pc.list_indexes().names():
         spec=ServerlessSpec(cloud="aws", region=REGION)
     )
 
-# Loading merged_quran.csv data file
+# Load and chunk Qur’an CSV
 def load_quran_csv():
     df = pd.read_csv(CSV_PATH, encoding="utf-8")
     documents = []
@@ -56,7 +59,8 @@ def load_quran_csv():
         documents.append(Document(page_content=content, metadata=metadata))
     return documents  # No chunking needed if ayahs are already concise
 
-# Create vector store using Pinecone and uploading the data
+
+# Create vector store using Pinecone
 def create_vector_store(documents, batch_size=100):
     vector_store = PineconeVectorStore(
         index_name=INDEX_NAME,
@@ -74,7 +78,7 @@ def create_vector_store(documents, batch_size=100):
 
     print(f"\n✅ Successfully uploaded {len(documents)} documents to Pinecone.")
 
-# Loading the data from the pinecone vector database 
+# Load Pinecone vector store
 def load_vector_store():
     return PineconeVectorStore(
         index_name=INDEX_NAME,
@@ -82,13 +86,14 @@ def load_vector_store():
         pinecone_api_key=pinecone_api
     )
 
-# Making a conversational chain which contains prompt template and return a question answer chain
+# QA Prompt
 def get_conversational_chain():
     prompt_template = """You are DeenAI, an Islamic assistant helping users with authentic responses directly from the Qur'an.
 
 Given the following context (extracted from the Qur'an), answer the user's question **strictly based** on the Ayah translations provided.
 
 In your answer:
+- Do not give summary. 
 - Clearly present the most relevant **Ayah Translation**.
 - Mention the **Surah name (both English and Arabic)**, **Surah number**, and **Ayah number** as reference.
 - If the context doesn't answer the question, respond with: "I don't know."
@@ -99,13 +104,26 @@ QUESTION: {question}
 
 Answer:
 """
-    prompt = PromptTemplate(template=prompt_template, input_variables=["context", "question"])
-    return load_qa_chain(llm, chain_type="stuff", prompt=prompt)
+    prompt = PromptTemplate.from_template(prompt_template)
 
+    def format_docs(docs):
+        return "\n\n".join(doc.page_content for doc in docs)
+
+    chain = (
+        RunnableMap({
+            "context": lambda x: format_docs(x["input_documents"]),
+            "question": lambda x: x["question"]
+        })
+        | prompt
+        | llm
+        | StrOutputParser()
+    )
+    return chain
+
+# Handle user query
 def user_query(query):
     vector_store = load_vector_store()
     docs = vector_store.similarity_search(query, k=10)
     chain = get_conversational_chain()
-    result = chain({"input_documents": docs, "question": query}, return_only_outputs=True)
-    return result["output_text"]
+    return chain.invoke({"input_documents": docs, "question": query})
 

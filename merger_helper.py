@@ -72,11 +72,4 @@ def unified_query(question: str) -> str:
     result = chain.invoke({"context": docs, "question": question})
     return result
 
-# Example usage
-if __name__ == "__main__":
-    while True:
-        q = input("\n🔍 Ask a question (or type 'exit'): ")
-        if q.lower().strip() in ["exit", "quit"]:
-            break
-        print("\n🤖 Generating answer...\n")
-        print(unified_query(q))
+
